@@ -324,11 +324,13 @@ A Signature is a special ability, never a spell, that a character grows into thr
 
 You do not buy a Signature or plan it. It emerges at the table, latent until play reveals it, and the Guide names what it does from how it showed up. You may hold one Signature per level you have in that Approach, so a Sword 3 can carry up to three, a Sorcerie 1 only one.
 
-Signatures take two common shapes, and the Guide may allow others:
+Signatures take three common shapes, and the Guide may allow others:
 
 - **A bonded thing.** You name your sword, your rope, your cloak, and it becomes yours in a way that bites. Treat it as enchanted: a plus, which in combat is an extra die on the Initiative roll, or a narrow automatic edge in its element, a named blade that never leaves your grip, a rope that always holds. This is the old Legends idea, that naming a thing is what makes it special.
 
 - **A habit or an instinct.** Something you always do becomes a thing that never fails you. Back to the wall, and nothing flanks or surprises you from behind. Poke the chest with a ten-foot pole first, and its traps never catch you. The habit is the trigger; honor it in the fiction and the edge is automatic.
+
+- **A holdout.** A small thing you keep hidden on your person — a boot knife, a flint sewn into your collar, an accelerant vial stitched into a sleeve. Name it and say where it rides. It lives outside your twelve slots and stays with you even when you are searched or stripped of gear. Out of combat it is free to reach; in a fight, drawing it costs one Fuel. This is for going deeper than your kit, not for having the ordinary tools: a burner's starting fire — flint and steel, matches, tinderbox, oil, a fire pot — is free gear, a conceit of the game, and never a Signature.
 
 A Signature is narrow by design, a reliable knack in its one situation and not a general bonus, and the Guide keeps it that way.
 
@@ -681,6 +683,8 @@ A known spell can be worked straight from your book, with no Arcana — but slow
    - **In combat**, casting is one **Action**: commit dice from your **Fuel equal to the working's level** (a level-3 spell spends 3 dice). Those dice are the *price* of the working, not its damage — a spell's effect follows its entry, and any HP loss follows the damage rubric below (by level), not the faces you spent. A **6** is a **Spark**, as with any Action.
    - **Out of combat** (ritual, exploration, social magic), roll **`2d6 + Sorcerie`** against the Guide's Cost — **+1 die if you cast through a legendary Arcana**.
 3. **Spend the spell.** A cast **removes** that spell from the Arcana until the next muster — forget-on-cast. Cross it off.
+
+**When a cast Sparks.** Casting spends Fuel dice equal to the working's level and no more — that cost never changes. But those are Fuel dice like any others, spent at their faces — and a **6** among them is a **Spark**. With no Spark the spell resolves exactly as written. With one, you may spend it on the *working itself* instead of the usual second action — another target caught, **+1d6** to a single-target blast this cast only, a beat longer on a duration, a ward pierced, a control that grabs a rung higher (Guide's call on what fits). A bigger working spends more dice, so it Sparks more often — big workings burn brighter. The damage floor still follows L; the Spark is gravy, never the baseline. (Multiple Sparks on a big cast each buy a rider or a second action.)
 
 The caster is exposed like anyone taking an Action; struck mid-cast, you defend with **Sword** like anyone.
 

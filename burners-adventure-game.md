@@ -168,7 +168,7 @@ Beyond you may have additional gear and funds to purchase gear based on your App
 | --- | --- | --- |
 | **Sword** (Veteran) | 100 gp | nothing extra — your coin *is* your kit: buy arms, armor, a shield |
 | **Heart** (Boss) | 80 gp | one **loyal retainer** — a 0-level henchman with basic gear, serving for keep and a share of the take |
-| **Craft** (Journeyman) | 60 gp | choice of one "yoeman" tool, such as a hunting bow with a quiver of arrows, spear  |
+| **Craft** (Journeyman) | 60 gp | choice of one "yoeman" tool, such as a **hunting bow** with a quiver of arrows, and a **wooden pole or a spear**  |
 | **Sorcerie** (Sorcerer) | 40 gp | **two Level-1 Arcana** of any sorcerer-drip shape, a **spellbook** of four 1st-level spells of your school (known), and **Read Magic** — see *Magic*, below |
 
 The spread is character, not accident: the Veteran is an outfitted soldier, the Boss a moneyed leader rich in people, the Journeyman a scrappy woodsman poor in coin but woods-ready, the Sorcerer someone who spent nearly everything becoming a mage. A legendary harness or focus, with its third die, is looted or earned, never bought.

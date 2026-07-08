@@ -1,6 +1,8 @@
 ---
 layout: default
 title: "Burners Arms and Armor"
+hero: /images/x-page-132.jpg
+hero_alt: "Crossbow, helm, and sword"
 ---
 
 # Burners Arms and Armor

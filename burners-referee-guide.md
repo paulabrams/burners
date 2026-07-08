@@ -1,6 +1,8 @@
 ---
 layout: default
 title: "Burners Referee Guide"
+hero: /images/x-page-085.jpg
+hero_alt: "Two rogues striking a deal"
 ---
 
 # Burners Referee Guide

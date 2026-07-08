@@ -1,6 +1,8 @@
 ---
 layout: default
 title: "Burners Adventure Game"
+hero: /images/x-page-065.jpg
+hero_alt: "A grinning mercenary hauling off the loot"
 ---
 
 # BURNERS

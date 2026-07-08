@@ -1,6 +1,8 @@
 ---
 layout: default
 title: "Burners Crawl Log"
+hero: /images/x-page-098.jpg
+hero_alt: "A rogue hailing the walled town"
 ---
 
 # Burners — Crawl Log

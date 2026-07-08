@@ -1,6 +1,8 @@
 ---
 layout: default
 title: "Burners OSE Conversions"
+hero: /images/x-page-100.jpg
+hero_alt: "A scout on the town wall"
 ---
 
 # Burners ↔ OSE Conversions

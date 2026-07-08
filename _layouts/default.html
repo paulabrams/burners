@@ -117,14 +117,18 @@
   </head>
   <body>
     <div class="container">
+      {% if page.hero %}
+      <p>
+        <img
+          src="{{ page.hero | relative_url }}"
+          alt="{{ page.hero_alt | default: page.title }}"
+          style="width: 100%; border-radius: 0.5rem; margin-bottom: 1.5rem"
+        />
+      </p>
+      {% endif %}
       <nav class="breadcrumb">
-        <a href="{{ '/' | relative_url }}">Home</a> / {% if page.layout ==
-        'table' %}<a href="{{ '/tables.html' | relative_url }}">Tables</a> / {%
-        endif %} {% if page.path contains 'markdown/magic' %}<a
-          href="{{ '/magic.html' | relative_url }}"
-          >Magic</a
-        >
-        / {% endif %} {{ page.title | default: page.name }}
+        <a href="{{ '/' | relative_url }}">Home</a>
+        {% unless page.url == '/' %}/ {{ page.title | default: page.name }}{% endunless %}
       </nav>
 
       {{ content }}

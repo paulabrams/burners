@@ -1,6 +1,8 @@
 ---
 layout: default
 title: "Burners Spells"
+hero: /images/x-page-127.jpg
+hero_alt: "A lone figure before distant spires at dusk"
 ---
 
 # Wåndyr 2 — Spells (v1.4 Schools, Knave-Style)

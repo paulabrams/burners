@@ -320,9 +320,9 @@ Armor is what you wear, and it soaks on the way in, its AC coming off every blow
 
 ## Signatures
 
-A Signature is a special ability, never a spell, that a character grows into through play. It is an asterisk on the Trait it springs from, arming sword or stealth or a habit like watch-the-door, the star marking that the skill has become a knack that bites. It is the game's way of letting a habit turn mechanical without a shopping list of powers.
+A Signature is a boon, knack or sneaky trick that a character grows into through play. It is an asterisk on the Trait it springs from, arming sword or stealth or a habit like watch-the-door, the star marking that the skill has become a knack that bites.
 
-You do not buy a Signature or plan it. It emerges at the table, latent until play reveals it, and the Guide names what it does from how it showed up. You may hold one Signature per level you have in that Approach, so a Sword 3 can carry up to three, a Sorcerie 1 only one.
+You do not buy a Signature, it emerges at the table during play. You may hold one Signature per level you have in that Approach, so a Sword 3 can carry up to three, a Sorcerie 1 only one.
 
 Signatures take three common shapes, and the Guide may allow others:
 
@@ -330,9 +330,7 @@ Signatures take three common shapes, and the Guide may allow others:
 
 - **A habit or an instinct.** Something you always do becomes a thing that never fails you. Back to the wall, and nothing flanks or surprises you from behind. Poke the chest with a ten-foot pole first, and its traps never catch you. The habit is the trigger; honor it in the fiction and the edge is automatic.
 
-- **A holdout.** A small thing you keep hidden on your person — a boot knife, a flint sewn into your collar, an accelerant vial stitched into a sleeve. Name it and say where it rides. It lives outside your twelve slots and stays with you even when you are searched or stripped of gear. Out of combat it is free to reach; in a fight, drawing it costs one Fuel. This is for going deeper than your kit, not for having the ordinary tools: a burner's starting fire — flint and steel, matches, tinderbox, oil, a fire pot — is free gear, a conceit of the game, and never a Signature.
-
-A Signature is narrow by design, a reliable knack in its one situation and not a general bonus, and the Guide keeps it that way.
+- **A holdout.** A small thing you keep hidden on your person — a boot knife, a flint sewn into your collar, an accelerant vial stitched into a sleeve. Name it and say where it rides. It lives outside your twelve slots and stays with you even when you are searched or stripped of gear. Out of combat it is free to reach; in a fight, drawing it costs one Fuel. This is for going deeper than your kit, not for having the ordinary tools: a burner's starting fire — flint and steel, matches, tinderbox, oil, a fire pot — is free gear, a conceit of the game.
 
 ---
 

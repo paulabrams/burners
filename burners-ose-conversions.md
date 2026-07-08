@@ -36,7 +36,7 @@ The clocks already match: OSE turns and rounds are Burners turns and rounds. Dur
 |---|---|
 | **HD** | Level, 1:1 — **HD is the monster's level** and the spine of its pool (one die per HD). **HP: use the printed value** (OSE prints 4.5×HD; Burners 5×HD is the same coin). Roll it or nudge it. |
 | **AC** | Armor (soak), per the table below |
-| **Damage die** | Read as the natural weapon's **slots** — the dice it throws at the Call, per the rubric below. A monster has no fixed Damage number; it rolls a pool and spends dice like a character. |
+| **Damage die** | Read as the natural weapon's **slots** — the dice it throws on the Initiative roll, per the rubric below. A monster has no fixed Damage number; it rolls a pool and spends dice like a character. |
 | **Saves** | Deleted — route the *ability* through the Save Router |
 | **Morale** | As written |
 | **THAC0 / attack bonus** | Deleted — there are no to-hit rolls; the pool carries it |
@@ -58,7 +58,7 @@ The fast form: **Soak = (ascending AC − 10) ÷ 2, round down** — it lands ex
 
 ### The Damage Die → the Pool
 
-A monster fights like a character: at the Call it rolls a **Fuel pool** and spends the dice to attack, defend, Spark, and Riposte, and its blow is the **faces of the dice it commits**, cut by your defense and armor (see [[Burners Adventure Game]]). So you never convert a creature to a fixed Damage number — you convert it to a **pool**, from three sources:
+A monster fights like a character: on the Initiative roll it rolls a **Fuel pool** and spends the dice to attack, defend, Spark, and Riposte, and its blow is the **faces of the dice it commits**, cut by your defense and armor (see [[Burners Adventure Game]]). So you never convert a creature to a fixed Damage number — you convert it to a **pool**, from three sources:
 
 - **one die per Hit Die** — HD is the creature's level and the spine of its pool;
 - **dice for its weapon's slots** — a held weapon or a natural attack, read from the damage die below;
@@ -78,7 +78,7 @@ A monster spends its pool exactly as a character does: **each blow is up to thre
 
 *Check: an orc (HD 1, sword d8) rolls 1 (HD) + 3 (sword) + Heat dice. An ogre (HD 4+1, d10 club) rolls 4–5 (HD) + 4 (club) + Heat — the deep pool that lets it act first and hit hard.*
 
-**Natural attacks are weapons.** The damage die sets the slots exactly as a blade's does, and those dice go into the pool: a wolf's d6 jaws throw 2, a bear's d8 paw 3, an ogre's swat 4. Natural weapons fill no *inventory* slots (a bite can't be dropped or looted) — the slot count is only its dice at the Call.
+**Natural attacks are weapons.** The damage die sets the slots exactly as a blade's does, and those dice go into the pool: a wolf's d6 jaws throw 2, a bear's d8 paw 3, an ogre's swat 4. Natural weapons fill no *inventory* slots (a bite can't be dropped or looted) — the slot count is only its dice on the Initiative roll.
 
 **Initiative comes from the pool, not a Class.** Initiative is the count of the creature's dice showing 3 or 4, re-read each round — so a bigger pool (more HD, a heavier weapon, hotter Heat) tends to act earlier on its own, and there is no Weapon-Class order to track. The exceptions the old stat blocks flagged still hold, set by fiction:
 
@@ -213,7 +213,7 @@ Fine make becomes a **fitted Signature harness** — comfortable, quiet, worth c
 - **Lethality is comparable** — B/X at low levels is brutal and Burners characters are lean; modules run close to their intended dread. The gap appears with **large mobs**: pooled Damage can spike past any defend. Use swarm-group splitting and chokepoints deliberately; the module won't tell you to.
 - **Foreshadowing is now mechanical.** Module boxed text that promises danger is a **Heat raise**; keep the dial face-up. Rooms that let the party prepare are Heat *reductions* waiting to be claimed.
 - **Solo bosses** need HP enough to survive the party's first-round burst, or they die before their first telegraph. Add HD modifier freely.
-- **Don't double-count dread:** the creature's HD, weapon, and Resistance are its own; **Heat prices only the situation** — the dark, the fire, the flanking. Heat already feeds the monster's pool once at the Call, so a hot scene fights back harder on its own — don't also inflate the creature.
+- **Don't double-count dread:** the creature's HD, weapon, and Resistance are its own; **Heat prices only the situation** — the dark, the fire, the flanking. Heat already feeds the monster's pool once on the Initiative roll, so a hot scene fights back harder on its own — don't also inflate the creature.
 
 ---
 

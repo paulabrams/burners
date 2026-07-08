@@ -565,7 +565,7 @@ There is no defense roll to fail; when struck you commit dice from your Fuel —
 
 ## Magic
 
-Magic is prepared, not spontaneous: a Sorcerer loads workings into **Arcana** at a **muster** and looses them one shot each in the field. It is utility first — most spells solve problems (light, movement, control, ward); when one deals HP loss, that damage scales with the **level it was prepared at**, not with Sorcerie or the cast. Magic plugs into the core at two points: the Sorcerer title (Sorcerie 1) switches casting on, and a **combat cast is one Action that spends dice from your Fuel equal to the working's level**. The spell catalog is [[Burners Spells]], organized by school; the gate-free common school **Sorcerie** holds the workings every mage knows regardless of tradition (Read Magic, Detect Magic, Parma Magica, and the rest).
+Magic is prepared, not spontaneous: a Sorcerer loads workings into **Arcana** at a **muster** and looses them one shot each in the field. It is utility first — most spells solve problems (light, movement, control, ward); when one deals HP loss, that damage scales with the **level it was prepared at**, not with Sorcerie or the cast. Magic plugs into the core at two points: the Sorcerer title (Sorcerie 1) switches casting on, and a **combat cast is one Action that spends dice from your Fuel equal to the working's level**. The spell catalog is [[Burners Spells]], organized by school; the gate-free common school **Sorcerie** holds the workings every mage knows regardless of tradition (Read Magic, Detect Magic, the Ward Pact family, and the rest).
 
 ### The Sorcerer Gate
 

@@ -7,7 +7,7 @@ title: "combat-sim"
 
 A Monte Carlo test of the Burners Fuel/Sparks engine, run to answer one question: is the standard fight fair, and what does a fair fight look like for the sample party?
 
-The sample party (Aldric, Senna, Pip) is run against four foe sets. Each cell below is thousands of simulated fights. The simulator models the Call, Initiative, per-round refill, Veteran extra attacks, two-handed power blows, Sparks, Parry/Dodge/Block scarcity, armor soak on the way in, and the full player death funnel (HP, then overflow cuts Strength, then a Wound and a Shock Check, then death at Strength 0). It is regenerated and appended to on a loop, alternating scenarios; a running total sits at the top.
+The sample party (Aldric, Senna, Pip) is run against four foe sets. Each cell below is thousands of simulated fights. The simulator models the Initiative roll, turn order, per-round refill, Veteran extra attacks, two-handed power blows, Sparks, Parry/Dodge/Block scarcity, armor soak on the way in, and the full player death funnel (HP, then overflow cuts Strength, then a Wound and a Shock Check, then death at Strength 0). It is regenerated and appended to on a loop, alternating scenarios; a running total sits at the top.
 
 ## The short answer
 

@@ -9,7 +9,7 @@ hero_alt: "A lone figure before distant spires at dusk"
 
 *Canonical spell list for **Burners Adventure Game.md** (the *Magic* section). All **252** spells from *Wåndyr v1.4* (7 people-schools, 6 spell levels × 6 spells each), each with a **fixed effect block** — no "say what you want it to do." Power scales with **Sorcerie** (your Sorcerie Approach level), replacing Knave's INT.*
 
-*Plus **Sorcerie** — the gate-free common school (14 workings on a thinning ladder), the shared grammar under every tradition: reading, detecting, warding, dispelling, making a working last. Added for Burners; not part of the v1.4 seven. It needs no school Secret — any Sorcerer may learn its spells.*
+*Plus **Sorcerie** — the gate-free common school (15 workings on a thinning ladder), the shared grammar under every tradition: reading, detecting, warding, dispelling, making a working last. Added for Burners; not part of the v1.4 seven. It needs no school Secret — any Sorcerer may learn its spells.*
 
 *Companion: [[Burners Adventure Game]] (HP, Wounds, combat) · [[Burners Adventure Game]] (Magic: Arcana, muster, casting). OSE reference list: [[Wandyr2SpellList]] (optional cross-check).*
 
@@ -73,7 +73,7 @@ does not carry six spells per level like the people-schools.
 | --- | --- | --- |
 | 1.1 | Read Magic | info |
 | 1.2 | Detect Magic | info |
-| 1.3 | Parma Magica | ward |
+| 1.3 | Ward Pact | ward |
 | 1.4 | Wizard Light | util |
 | 1.5 | Read Languages | info |
 | 1.6 | Cantrip | util |
@@ -100,16 +100,19 @@ you learn its rough school and strength (up to Sorcerie such readings before it 
 *Illusione teaches a keener variant (that school's code 1.6) that lasts a day and names
 exact properties.*
 
-#### Parma Magica — level 1 (code 1.3)
+#### Ward Pact — level 1 (code 1.3)
 
-*tagline: ward the self against magic*
+*tagline: bargain against one harm*
 
 **Tags:** ward · **Roll:** Sorcerie · **Save:** none
 
-**Effect:** An unseen ward wraps you for Sorcerie turns: purely magical attacks against
-you suffer **−Sorcerie Damage**, and trivial first-level workings wash off entirely. No
-help against blades, fire, or magic made physically substantive (conjured stone, a flame
-wall). *Campaign alias: Mage Shield.*
+**Effect:** When you **bind** this working, name **one narrow source of harm** — blades,
+bludgeons, missiles, fire, cold, lightning, the fang-and-claw of beasts, or **magic** (the
+pact traditionally called **Parma Magica** or the **Mage Shield**). Casting raises the ward:
+for Sorcerie turns, attacks of the named source against you suffer **−Sorcerie Damage**, and
+against the magic pact, trivial first-level workings wash off entirely. No help against any
+harm you did not name, nor against magic made physically substantive (conjured stone, a
+flame wall) unless *magic* is the pact. Bind it in two Arcana to hold two pacts at once.
 
 #### Wizard Light — level 1 (code 1.4)
 
@@ -148,6 +151,7 @@ deals damage, moves real weight, or fools a careful eye. The parlor mark of a sc
 | 2.1 | Floating Disc | util |
 | 2.2 | Locate Object | info |
 | 2.3 | Arcane Sigil | util |
+| 2.4 | Greater Ward Pact | ward |
 
 #### Floating Disc — level 2 (code 2.1)
 
@@ -178,6 +182,18 @@ blind to anything warded (a Dark Anchor, lead, running water at the Guide's call
 **Effect:** Inscribe an invisible personal mark on a surface or object, readable only by
 Read Magic or Detect Magic. It proves your authorship, seals a document (you know at once
 if it is opened), or anchors another Sorcerie working to that spot. Lasts until dispelled.
+
+#### Greater Ward Pact — level 2 (code 2.4)
+
+*tagline: bargain against a whole kind*
+
+**Tags:** ward · **Roll:** Sorcerie · **Save:** none
+
+**Effect:** As Ward Pact, but the ward you name at binding covers a **whole category**: all
+**weapons** (every physical arm, melee or thrown or shot), all **elements** (fire, cold,
+lightning, and their kin), all **magic**, or all the **wild** (fang, claw, horn, sting, and
+natural venom). For Sorcerie turns, anything in that category deals **−Sorcerie Damage** to
+you. One category per binding.
 
 ### 3rd level spells
 
@@ -210,17 +226,19 @@ you address — the spoken half of Read Languages. Grants no reading.
 
 | Code | Spell | Tags |
 | --- | --- | --- |
-| 4.1 | Greater Parma | ward |
+| 4.1 | Shared Ward Pact | ward |
 
-#### Greater Parma — level 4 (code 4.1)
+#### Shared Ward Pact — level 4 (code 4.1)
 
 *tagline: ward the company*
 
 **Tags:** ward · **Roll:** Sorcerie · **Save:** none
 
-**Effect:** As Parma Magica, but either shields Sorcerie willing creatures within 10', or
-grants one creature outright immunity to a single named school, for Sorcerie turns. Purely
-magical attacks against the warded suffer **−Sorcerie Damage**.
+**Effect:** Cast over a Ward Pact or Greater Ward Pact you know and name its source as with
+those: either extend that ward to **Sorcerie willing creatures** within 10' (each takes
+**−Sorcerie Damage** from the named source), or grant **one** creature outright **immunity**
+to it. Lasts Sorcerie turns. The old **Greater Parma** is simply this cast on the *magic*
+pact.
 
 ### 5th level spells
 

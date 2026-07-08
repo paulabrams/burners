@@ -14,7 +14,7 @@ hero_alt: "A rogue hailing the walled town"
 
 **Crew** (all character level 1 — one Approach point, four Traits, HP = 1d6 rolled):
 
-| Burner | Approach | STR / DEX / WIS / INT | HP | Held | Fuel at the Call |
+| Burner | Approach | STR / DEX / WIS / INT | HP | Held | Fuel on the Initiative roll |
 |---|---|---|---|---|---|
 | **Kragg** | Sword 1 (Veteran) | 13 / 11 / 9 / 8 | 4 | war-axe (3 slots, 2-handed, **Tuned** → +1 die), half mail (AC 2) | 4 empty + 3 axe + 1 Tuned + 1 level = **9** |
 | **Sefa** | Craft 1 (Journeyman) | 10 / 13 / 11 / 9 | 3 | leather (AC 1); **silvered knife** (1 slot) once looted | 4 empty + 1 knife + 1 level = **6** |
@@ -52,7 +52,7 @@ hero_alt: "A rogue hailing the walled town"
 
 ## Combat 1 — Grave-rats (4). Heat 8.
 
-**The Call.** Crew roll their Fuel (above). The rat pack rolls one pool — 4 (a die per HD) + 2 (best bite) + 8 (Heat) = **14 dice** — and, ganging like a Veteran of many levels, makes **one attack per rat** (each its own 1-die blow, each defended separately). Initiative is the count of 3s and 4s; Kragg reads highest and acts first.
+**Rolling Initiative.** Crew roll their Fuel (above). The rat pack rolls one pool — 4 (a die per HD) + 2 (best bite) + 8 (Heat) = **14 dice** — and, ganging like a Veteran of many levels, makes **one attack per rat** (each its own 1-die blow, each defended separately). Initiative is the count of 3s and 4s; Kragg reads highest and acts first.
 
 **Round 1.**
 
@@ -82,7 +82,7 @@ hero_alt: "A rogue hailing the walled town"
 
 Buried armed: **grave-sword** (2 slots) and a **grave-byrnie**, old chain still sound (**soak 2**). HD 3 → **15 HP**. **Resistance 5 vs mundane arms** — grave-cold flesh — with **silver the named weakness** (it ignores the Resistance, though not the byrnie). The Guide announces it rising from its bier: **+2 Heat → 9.**
 
-**The Call.** The wight's pool is **14 dice** — 3 (HD) + 2 (sword) + 9 (Heat) — the hot scene fighting back hard. It reads six 3s/4s: **Initiative 6, first**. As a named foe it takes the full Wound rules and strikes twice.
+**Rolling Initiative.** The wight's pool is **14 dice** — 3 (HD) + 2 (sword) + 9 (Heat) — the hot scene fighting back hard. It reads six 3s/4s: **Initiative 6, first**. As a named foe it takes the full Wound rules and strikes twice.
 
 **Round 1.**
 
@@ -128,7 +128,7 @@ Buried armed: **grave-sword** (2 slots) and a **grave-byrnie**, old chain still 
 
 - **OSE clocks unchanged:** 10-minute turns, torch tracking, wandering checks every 2nd turn at 1-in-6.
 - **Two kinds of check:** trained work took `2d6 + Approach` vs a quote (scouting, the lock); raw feats took an **Ability Save**, roll-under (the beam = DEX, the swollen door = a *hard* 3d6-under STR). Traps are neither — **detect or eat**, and armor soaks the hit on the way in (Brand's pit).
-- **Fuel is rolled once, at the Call, and dwindles** — a refill die each round from the second on. The wight's 14-dice pool (swollen by 9 Heat) made round 1 murderous, but it did **not** refresh: by round 2 it was winded, and the fight turned. A hot scene hits hardest on the first exchange.
+- **Fuel is rolled once, on the Initiative roll, and dwindles** — a refill die each round from the second on. The wight's 14-dice pool (swollen by 9 Heat) made round 1 murderous, but it did **not** refresh: by round 2 it was winded, and the fight turned. A hot scene hits hardest on the first exchange.
 - **Damage is the faces of committed dice**, minus the defender's committed dice, minus armor soak, minus Resistance — in that order. A blow is one die, +1 for a two-handed power stroke, +1 for an enchanted weapon (Kragg's Tuned axe), up to three.
 - **Defense by three doors:** a lone **Dodge** die against any blow; unlimited **Parry** against a foe you melee (Kragg); unlimited **Block** with a shield against one attacker even if you never swing at it (Brand). Ilsa, doing neither, cut with one die — and took the Wound.
 - **The Wound model:** HP is luck; the overflow **past 0 cuts a score** (Strength for a blade, its own score for other harm), never a negative number. Each cut forces a **Shock Check — 2d6 under the current score** — pass to stay up, fail to read the shock table. Ilsa's arm shows it: overflow 2 → STR 7, Shock passed.

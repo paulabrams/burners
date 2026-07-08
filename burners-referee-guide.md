@@ -31,7 +31,7 @@ Heat is the crew's shared gauge and the spine of every scene — the full player
 
 **Work the valves.** Heat falls when the crew acts on the room, not on request: fell or lose a named threat, −2; remove a named source (quench the fire, learn the ward-phrase), −1 or more; a Double Sweet vents 1; a steadying word or plan you buy, −1 once a scene. Folding ends the scene and cools to the next base. Downtime — a safe camp, a town between jobs — cools to base; a job that ended loud raises the base of what follows until the crew lies low and spends coin. Carousing is maintenance, not vice.
 
-Heat has no ceiling and no Redline; its whole value joins the enemy's pool at the Call, a die per point. The hotter the room, the deeper the enemy rolls — more Initiative (they act first) and more dice for stunts, ripostes, and defense — so a very hot scene simply fights back harder. That is the genre's moment with a number on it: finish it or fold.
+Heat has no ceiling and no Redline; its whole value joins the enemy's pool on the Initiative roll, a die per point. The hotter the room, the deeper the enemy rolls — more Initiative (they act first) and more dice for stunts, ripostes, and defense — so a very hot scene simply fights back harder. That is the genre's moment with a number on it: finish it or fold.
 
 ---
 

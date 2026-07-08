@@ -9,7 +9,7 @@ hero_alt: "Crossbow, helm, and sword"
 
 *The complete **Advanced Assets** section (Signatures, Secrets, weapons, armor, shields, and magic/Eldar items) imported from **Legends of the Dragon Isles RPG**, for use with Burners (see [[Burners Adventure Game]]). This is the optional expanded catalog; the lean starting buy-list with slots and prices lives in [[Burners Equipment]]. Faithful to the source; structural run-together lines split, light typo fixes only.*
 
-> **Reading the numbers in Burners.** This is a Legends catalog, where **Class** was a comparison (Weapon Class vs Armor Class, ±1 damage). In Burners it is simpler: **a weapon's Class is its slots** — the dice it throws at the Call and the space it fills. Armor is not read piece-by-piece here; the pieces map onto the core's **three suits** (Quarter AC 1, Half AC 2, Full AC 3 — see [[Burners Adventure Game]]). An enchantment, or a **Tuned** edge, is worth **+1 die in your Call pool**, never a bigger number. Import Legends' names, tags, and flavor wholesale; read every number the Burners way.
+> **Reading the numbers in Burners.** This is a Legends catalog, where **Class** was a comparison (Weapon Class vs Armor Class, ±1 damage). In Burners it is simpler: **a weapon's Class is its slots** — the dice it throws on the Initiative roll and the space it fills. Armor is not read piece-by-piece here; the pieces map onto the core's **three suits** (Quarter AC 1, Half AC 2, Full AC 3 — see [[Burners Adventure Game]]). An enchantment, or a **Tuned** edge, is worth **+1 die in your Call pool**, never a bigger number. Import Legends' names, tags, and flavor wholesale; read every number the Burners way.
 >
 > *Era guide:* Northmarens run early-medieval arms & armor, Southmarens late-medieval/early-Renaissance, the Eldar exotic and magical.
 >
@@ -40,7 +40,7 @@ A **Secret** is a power hung on an Asset — a ring's hidden compartment, a blad
 
 ## Asset Tags
 
-Weapons and armor always carry a **Class**. In Burners a weapon's Class is its **slots** — the dice it throws at the Call; armor's Class is its suit's **AC** (the three suits in [[Burners Adventure Game]]). Some tags take a value — `Class2`, `Class3`, `Far3`, `Far4` — which defaults to **1** when omitted.
+Weapons and armor always carry a **Class**. In Burners a weapon's Class is its **slots** — the dice it throws on the Initiative roll; armor's Class is its suit's **AC** (the three suits in [[Burners Adventure Game]]). Some tags take a value — `Class2`, `Class3`, `Far3`, `Far4` — which defaults to **1** when omitted.
 
 ---
 
@@ -184,7 +184,7 @@ The core rates armor as three **suits** — Quarter (AC 1, 2 slots), Half (AC 2,
 - **Half (AC 2)** — vitals plus arms and hands: a **mail hauberk** or a **coat of plates** (brigandine) with **gauntlets** and a helm (mail coif, kettle hat, sallet). The sword-and-shield line's kit; trained-only (a Trait such as *armored*).
 - **Full (AC 3)** — head to leg: **full mail**, **plated mail**, or articulated **plate** with **greaves**, **faulds**, plated arms, and an enclosing helm (armet, close helm, great helm). The knight's harness; trained-only (a Trait such as *plate armor*).
 
-Better armor is dearer, not heavier — protection tracks expense and slots, not weight. A full suit eats half your twelve slots, so the armored fighter carries little and rolls a thin pool at the Call, while the light fighter keeps his slots and his speed.
+Better armor is dearer, not heavier — protection tracks expense and slots, not weight. A full suit eats half your twelve slots, so the armored fighter carries little and rolls a thin pool on the Initiative roll, while the light fighter keeps his slots and his speed.
 
 **Gaps and called shots.** Your suit is one number in ordinary play. When a foe deliberately strikes where it does not reach — a called shot, or a swarm at the legs of a half-suited Burner — that blow meets bare flesh (AC 0). Helms, gauntlets, greaves, and gorgets are the pieces that close those gaps, and a fuller suit has fewer. A **closed** helm (armet, great helm) trades sight and hearing for the best cover; open helms and **civil**-looking armor draw less notice in town.
 

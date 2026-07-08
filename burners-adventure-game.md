@@ -71,7 +71,7 @@ Burners is a fast-paced adventure game of happy go lucky heroes in the style of 
 
 - **Baggage:** You can group small items together in a single slot if you use a small (1 slot) container such as a satchel, belt pouch, arrow quiver, etc. If you expect to need to carry lots of equipment, then a large (3 slot) backpack will be more efficient; this lets you pack generous amounts of food, bedding, rope, loot, and anything else you can practically carry. However, the large containers require 1 World Turn (10 minutes) to access.
 
-- **Empty Slots:** unspent inventory space is speed. At the Call each empty slot adds a die to your Fuel, up to 4, so travelling light means a fatter pool and more Initiative. Out of combat, empty slots ease nimble actions the same way. Dropping an item to free a slot is an action.
+- **Empty Slots:** unspent inventory space is speed. On the Initiative roll each empty slot adds a die to your Fuel, up to 4, so travelling light means a fatter pool and more Initiative. Out of combat, empty slots ease nimble actions the same way. Dropping an item to free a slot is an action.
 
 - **Armor Class (AC):** the armor you wear soaks damage on the way in, its AC coming off every blow before your HP. AC runs from 1 to 5 by the make of the armor: leather (1), gambeson (2), chainmail (3), plated mail and field plate (4), full plate (5). It is one number, subtracted from every blow, and plate is trained-only (see Armor).
 
@@ -109,9 +109,9 @@ Burners is a fast-paced adventure game of happy go lucky heroes in the style of 
 
 - **Combat Round:** one minute, taken in Initiative order. On your turn, take one Action (attack, cast, or feat); moving and positioning come with it, part of the Action, not a separate step. Defending is not free; it burns Fuel. Sword governs the exchange: it grants extra attacks and fills a deeper pool.
 
-- **The Call:** when a fight begins, everyone rolls a pool of d6s, their Fuel, gathered from empty slots, held weapons and shields, and character level. See Fighting.
+- **The Initiative roll:** when a fight begins, everyone rolls a pool of d6s, their Fuel, gathered from empty slots, held weapons and shields, and character level. See Fighting.
 
-- **Fuel:** the dice you rolled at the Call, kept at their faces and spent through the fight to attack, defend, cast, and riposte. A refill die tops it up at the start of each new round.
+- **Fuel:** the dice you rolled for Initiative, kept at their faces and spent through the fight to attack, defend, cast, and riposte. A refill die tops it up at the start of each new round.
 
 - **Initiative:** the count of your Fuel showing 3 or 4. Act in descending order, re-read each round.
 
@@ -160,9 +160,9 @@ Signatures are not chosen at creation; they emerge in play.
 
 ### Starting Gear
 
-You begin carrying the clothes on your back and a backpack. You also have a small knife, and a firestarter somewhere on your person.
+You begin carrying the clothes on your back and a backpack. You also have a small knife, coin purse, and a firestarter somewhere on your person.
 
-Your backpack takes 3 slots and contains: bedroll, waterskin, fifty feet of rope, one week rations, and tinder box. You can move any of those items to your main inventory slots, but keeping it as a backpack means you can free up 3 slots by dropping it.
+Your backpack takes 3 slots and contains: bedroll, waterskin, fifty feet of rope, one week rations, and a tinder box. You can move any of those items to your main inventory slots, but keeping it as a backpack means you can free up 3 slots by dropping it.
 
 Beyond you may have additional gear and funds to purchase gear based on your Approach:
 
@@ -170,59 +170,59 @@ Beyond you may have additional gear and funds to purchase gear based on your App
 | --- | --- | --- |
 | **Sword** (Veteran) | 100 gp | nothing extra — your coin *is* your kit: buy arms, armor, a shield |
 | **Heart** (Boss) | 80 gp | one **loyal retainer** — a 0-level henchman with basic gear, serving for keep and a share of the take |
-| **Craft** (Journeyman) | 60 gp | choice of one "yoeman" tool, such as a **hunting bow** with a quiver of arrows, and a **wooden pole or a spear**  |
-| **Sorcerie** (Sorcerer) | 40 gp | **two Level-1 Arcana** of any sorcerer-drip shape, a **spellbook** of four 1st-level spells of your school (known), and **Read Magic** — see *Magic*, below |
+| **Craft** (Journeyman) | 60 gp | choice of one "tool of the trade" based on one of your Traits, such as a hunting bow with a quiver of arrows, wood ax, blacksmith's hammer, etc. |
+| **Sorcerie** (Sorcerer) | 40 gp | your **personal spellbook** of four 1st-level spells of your school (known), and **two Level-1 Arcana** of any sorcerer-drip shape |
 
 The spread is character, not accident: the Veteran is an outfitted soldier, the Boss a moneyed leader rich in people, the Journeyman a scrappy woodsman poor in coin but woods-ready, the Sorcerer someone who spent nearly everything becoming a mage. A legendary harness or focus, with its third die, is looted or earned, never bought.
 
 Spend your gold in town from the tables below; everything you carry ready takes an item slot, and whatever you don't spend is yours to keep. A few sample buys:
 
-- **Veteran** (Sword, 100 gp): a gambeson (AC 2) 30, arming sword 20, heater shield 6, for 56 gp with coin to spare. Every blow shaved by 2, a shield adding dice at the Call and a block when struck. Chainmail (100) and plate (a fortune) are later scores, not starting kit.
+- **Veteran** (Sword, 100 gp): a gambeson (AC 2) 30, arming sword 20, heater shield 6, for 56 gp with coin to spare. Every blow shaved by 2, a shield adding dice to the Initiative roll and a block when struck. Chainmail (100) and plate (a fortune) are later scores, not starting kit.
 - **Boss** (Heart, 80 gp): a spear 15, leather armor (AC 1) 20, and coin held to outfit or bankroll the retainer — a leader spends on their people.
 - **Journeyman** (Craft, 60 gp + free bow & pole): thieves' tools 25, leather armor (AC 1) 20, for 45 gp; light, mobile, bow already in hand.
 - **Sorcerer** (Sorcerie, 40 gp + kit): leather armor (AC 1) 20 and oddments — a flask of oil, chalk for ritual circles, a spare dagger; the magic is already yours.
 
 ### Weapons, Armor, and Shields
 
-A weapon's **slots** are the dice it throws at the Call and the space it fills; a two-hander throws more but leaves no hand for a shield. A shield's slots are dice too, and holding one lets you **Block**. Armor is worn, not thrown: its **AC** soaks every blow on the way in. This is the play list; full prices and oddments are in [[Burners Equipment]], and a fuller catalog of arms in [[Burners Arms and Armor]].
+A weapon's **slots** are the dice it throws on the Initiative roll and the space it fills; a two-hander throws more but leaves no hand for a shield. A shield's slots are dice too, and holding one lets you **Block**. Armor is worn, not thrown: its **AC** soaks every blow on the way in. This is the play list; full prices and oddments are in [[Burners Equipment]], and a fuller catalog of arms in [[Burners Arms and Armor]].
 
-| Weapon | Slots | |
-| --- | --- | --- |
-| Dagger | 1 | can be thrown |
-| Club | 1 | |
-| Sling | 1 | ranged |
-| Hand axe | 2 | can be thrown |
-| Mace | 2 | |
-| Arming sword | 2 | |
-| Short bow | 2 | ranged, two-handed |
-| Spear | 3 | two-handed |
-| Longsword | 3 | two-handed |
-| Longbow | 3 | ranged, two-handed |
-| Crossbow | 3 | ranged, two-handed |
-| Battle axe | 4 | two-handed |
-| Greatsword | 4 | two-handed |
-| Halberd | 5 | two-handed |
+| Weapon | Slots | Cost (gp) | |
+| --- | --- | --- | --- |
+| Dagger | 1 | 10 | can be thrown |
+| Club | 1 | 1 | |
+| Sling | 1 | 2 | ranged |
+| Hand axe | 2 | 10 | can be thrown |
+| Mace | 2 | 10 | |
+| Arming sword | 2 | 20 | |
+| Short bow | 2 | 25 | ranged, two-handed |
+| Spear | 3 | 15 | two-handed |
+| Longsword | 3 | 30 | two-handed |
+| Longbow | 3 | 50 | ranged, two-handed |
+| Crossbow | 3 | 40 | ranged, two-handed |
+| Battle axe | 4 | 20 | two-handed |
+| Greatsword | 4 | 40 | two-handed |
+| Halberd | 5 | 25 | two-handed |
 
 **Armor** — AC soaks every hit on the way in, one number by the make of the armor. Plate is trained-only: only a Veteran with a *plate armor* Trait may wear it. Full prices are in [[Burners Equipment]].
 
-| Armor | AC | Slots |
+| Armor | AC | Slots | Cost (gp) |
+| --- | --- | --- | --- |
+| Leather | 1 | 2 | 20 |
+| Gambeson | 2 | 4 | 30 |
+| Chainmail | 3 | 5 | 100 |
+| Plated mail | 4 | 6 | 1,000 |
+| Field plate | 4 | 4 | 4,000 |
+| Full plate | 5 | 5 | 8,000 |
+
+**Shields** — a shield's slots are dice on the Initiative roll; holding one lets you Block one attacker on yourself each round without limit, even one you are not striking at (spend an attack to cover an ally instead).
+
+| Shield | Slots | Cost (gp) |
 | --- | --- | --- |
-| Leather | 1 | 2 |
-| Gambeson | 2 | 4 |
-| Chainmail | 3 | 5 |
-| Plated mail | 4 | 6 |
-| Field plate | 4 | 4 |
-| Full plate | 5 | 5 |
-
-**Shields** — a shield's slots are dice at the Call; holding one lets you Block one attacker on yourself each round without limit, even one you are not striking at (spend an attack to cover an ally instead).
-
-| Shield | Slots |
-| --- | --- |
-| Buckler | 1 |
-| Heater | 2 |
-| Rotella | 3 |
-| Kite | 4 |
-| Tower | 5 |
+| Buckler | 1 | 3 |
+| Heater | 2 | 6 |
+| Rotella | 3 | 9 |
+| Kite | 4 | 12 |
+| Tower | 5 | 15 |
 
 ### Traits
 
@@ -276,7 +276,7 @@ Each Burner has HP of one d6 per character level, rolled, just 1d6 at first leve
 
 Heat is the other track, and it is not a pool of hit points. It is the scene's pressure, shared by the whole crew: the difficulty your out-of-combat costs are quoted against, and the clock that tells everyone how close the job is to going wrong. Every scene opens at a base (a quiet meet 3-4, a working delve or a parley that matters 6, a blown job or a hall on fire 8) and climbs as costs mount. Blows in a fight do not feed it; those go to HP. Heat rises in a fight only when the Guide judges the danger has turned, and it has no ceiling: a hot scene is simply a dangerous one.
 
-Armor is what you wear, and it soaks on the way in, its AC coming off every blow before your HP. AC runs from 1 to 5 by make: leather 1, gambeson 2, chainmail 3, plated mail and field plate 4, full plate 5. The cost is slots and coin. Heavier armor eats more of your twelve and climbs steeply in price, so the light fighter keeps his slots for gear and a fatter pool at the Call while the armored one trades that away for proof, and plate is trained-only (a Veteran with a *plate armor* Trait). Armor keeps you from being worn down, not from being cut once you are down: a well-armored fighter loses HP slowly, and the Wound he takes past 0 is raw.
+Armor is what you wear, and it soaks on the way in, its AC coming off every blow before your HP. AC runs from 1 to 5 by make: leather 1, gambeson 2, chainmail 3, plated mail and field plate 4, full plate 5. The cost is slots and coin. Heavier armor eats more of your twelve and climbs steeply in price, so the light fighter keeps his slots for gear and a fatter pool when he rolls Initiative while the armored one trades that away for proof, and plate is trained-only (a Veteran with a *plate armor* Trait). Armor keeps you from being worn down, not from being cut once you are down: a well-armored fighter loses HP slowly, and the Wound he takes past 0 is raw.
 
 ## Sample Traits by Approach
 
@@ -296,7 +296,7 @@ Armor is what you wear, and it soaks on the way in, its AC coming off every blow
 
   - Traits: arming sword, shield, plate armor, ambush (Sword).
 
-  - Held: arming sword and a rotella (3 dice at the Call, and a block).
+  - Held: arming sword and a rotella (3 dice on the Initiative roll, and a block).
 
   - Signatures: none yet, a plain tough veteran waiting for a habit to harden into one.
 
@@ -326,7 +326,7 @@ You do not buy a Signature or plan it. It emerges at the table, latent until pla
 
 Signatures take two common shapes, and the Guide may allow others:
 
-- **A bonded thing.** You name your sword, your rope, your cloak, and it becomes yours in a way that bites. Treat it as enchanted: a plus, which in combat is an extra die at the Call, or a narrow automatic edge in its element, a named blade that never leaves your grip, a rope that always holds. This is the old Legends idea, that naming a thing is what makes it special.
+- **A bonded thing.** You name your sword, your rope, your cloak, and it becomes yours in a way that bites. Treat it as enchanted: a plus, which in combat is an extra die on the Initiative roll, or a narrow automatic edge in its element, a named blade that never leaves your grip, a rope that always holds. This is the old Legends idea, that naming a thing is what makes it special.
 
 - **A habit or an instinct.** Something you always do becomes a thing that never fails you. Back to the wall, and nothing flanks or surprises you from behind. Poke the chest with a ten-foot pole first, and its traps never catch you. The habit is the trigger; honor it in the fiction and the edge is automatic.
 
@@ -409,7 +409,7 @@ Heat is the crew's shared danger clock, not a pool of hit points. It is the pres
 | Fresh danger revealed (a threat shown, an alarm, reinforcements) | +Heat by the Guide's call, often the threat's Hit Dice |
 | A blow in a fight | nothing to Heat; it goes to the target's HP |
 
-Heat is the margin the whole crew shares, and it climbs until the crew acts on the room to bring it down. It has no ceiling and no Redline: a very hot scene is simply a very dangerous one, quoted against and escalating until you cool it or leave. There is no personal pool of Heat and no bypass; personal harm is what HP and Wounds are for. In a fight, then, Heat is mostly still: it climbs only when the Guide judges the danger has turned, and often not at all. But its level still bites, since whatever the gauge stands at is added to the enemy's pool at the Call, a die per point, so a hot scene simply fights back harder.
+Heat is the margin the whole crew shares, and it climbs until the crew acts on the room to bring it down. It has no ceiling and no Redline: a very hot scene is simply a very dangerous one, quoted against and escalating until you cool it or leave. There is no personal pool of Heat and no bypass; personal harm is what HP and Wounds are for. In a fight, then, Heat is mostly still: it climbs only when the Guide judges the danger has turned, and often not at all. But its level still bites, since whatever the gauge stands at is added to the enemy's pool on the Initiative roll, a die per point, so a hot scene simply fights back harder.
 
 Being surprised, caught, or outmaneuvered is not a bypass. The Guide adds a situational Damage modifier and you defend as normal against the higher number.
 
@@ -485,7 +485,7 @@ HP, Heat, and Wounds recover on different clocks. HP is luck, not meat, so it co
 
 The shape of all this is simple. HP is luck and it comes back, so a clean fight leaves no lasting mark. The danger is being driven past 0, where blows open wounds and each is a Shock Check that can drop you, and where the injury lingers long after. Once you go down, you live unless your wounds reach -12 or the enemy finishes you, so whether a friend can reach your body in time is everything. The game rewards short, decisive fights, timely healing, and knowing when to break off. It punishes taking hit after hit.
 
-*The crew fights an ogre in a working scene, Heat at 6. Aldric (Sword 1, 4 HP, chainmail (AC 3), arming sword, rotella) makes his Call and rolls seven dice — one empty slot, two for the sword, three for the shield, one for his level: 6, 5, 4, 3, 2, 2, 1, three of them showing 3 or 4, so his Initiative is 3. The ogre's pool runs deep, swollen by its Hit Dice and the six points of Heat, so it acts first and swings its great club, three dice for a blow worth 10. Aldric means to trade with it, and against a foe he melees he defends without limit: he spends the 6 and the 4 to cut all 10, his chainmail never tested. The 4 was a quick die, so his Initiative slips to 2. On his turn a Veteran gets two attacks; with a one-handed sword each is a single die, so he spends the 5 and the 3 for blows of 5 and 3 — 8 into the ogre, and with no 6 among them, no Spark. Fuel left: 2, 2, 1, plus the refill each round brings. Next round the ogre swings for 10 again; Aldric spends his 2, 2, 1 and the refill to cut 8, and his chainmail soaks the rest, so nothing lands — but his hand is now empty. The round after, winded, the blow arrives whole: 10 less 3 for chainmail is 7, and with 4 HP he is driven to -3, a leg Wound that leaves him prone. His Shock Check — 2d6 + Sword against that wound-depth of 3 — beats it, so he stays on his feet, but his dice are gone. Finish it or fold.*
+*The crew fights an ogre in a working scene, Heat at 6. Aldric (Sword 1, 4 HP, chainmail (AC 3), arming sword, rotella) rolls Initiative for seven dice — one empty slot, two for the sword, three for the shield, one for his level: 6, 5, 4, 3, 2, 2, 1, three of them showing 3 or 4, so his Initiative is 3. The ogre's pool runs deep, swollen by its Hit Dice and the six points of Heat, so it acts first and swings its great club, three dice for a blow worth 10. Aldric means to trade with it, and against a foe he melees he defends without limit: he spends the 6 and the 4 to cut all 10, his chainmail never tested. The 4 was a quick die, so his Initiative slips to 2. On his turn a Veteran gets two attacks; with a one-handed sword each is a single die, so he spends the 5 and the 3 for blows of 5 and 3 — 8 into the ogre, and with no 6 among them, no Spark. Fuel left: 2, 2, 1, plus the refill each round brings. Next round the ogre swings for 10 again; Aldric spends his 2, 2, 1 and the refill to cut 8, and his chainmail soaks the rest, so nothing lands — but his hand is now empty. The round after, winded, the blow arrives whole: 10 less 3 for chainmail is 7, and with 4 HP he is driven to -3, a leg Wound that leaves him prone. His Shock Check — 2d6 + Sword against that wound-depth of 3 — beats it, so he stays on his feet, but his dice are gone. Finish it or fold.*
 
 Control magic does not kill. Charm, maze, fear, and petrification take you out of the fight in their own way (enthralled, lost, fled, stone), and those states recover. Armor does not help against them, since you cannot plate a mind. Only blade, fire, and their like cut toward death.
 
@@ -493,7 +493,7 @@ Control magic does not kill. Charm, maze, fear, and petrification take you out o
 
 A Combat Round is one minute, taken in Initiative order. On your turn you get one Action — attack, cast, or feat — and moving, readying, taking cover, or aiming come with it, part of the same Action rather than a turn of their own; only a demanding shift, like rising from the ground or breaking away under threat, costs you the Action itself. Defending is not free; it spends Fuel whenever you are struck.
 
-**The Call.** When steel comes out, everyone gathers a pool of d6s for what they hold right now, with no rule for surprise, since you fight with what you were actually carrying:
+**Rolling Initiative.** When steel comes out, everyone gathers a pool of d6s for what they hold right now, with no rule for surprise, since you fight with what you were actually carrying:
 
 - one die per character level;
 - one die per slot if you have a weapon in hand, +1 if enchanted;
@@ -505,7 +505,7 @@ Roll them all. The faces you rolled, kept as they lie, are your Fuel for the fig
 
 **Burning Fuel.** Everything you do in combat "burns Fuel". You must spend Fuel to attack, defend, cast, etc. A die is used at its face and discarded, no reroll, so the pool you rolled is the pool you play. If you use a 3 or 4 your Initiative lowers; also you may reroll a 3 or 4 as you spend it.
 
-**Refilling Fuel.** Each new round opens with a refill: from the second round on, everyone tops up one die to their Fuel at once, and then Initiative is re-read and the round played out in order. The first round brings no refill — the Call is your opening wind. It is only a trickle, so a fighter who empties his hand on offense is caught winded until the next round's die, blows arriving whole in the meantime; spend with that in mind. Fuel you are forced to lose but cannot pay from your pool comes out of your next refill instead, so such a cost always lands, exactly once, and never leaves you owing a debt you cannot pay.
+**Refilling Fuel.** Each new round opens with a refill: from the second round on, everyone tops up one die to their Fuel at once, and then Initiative is re-read and the round played out in order. The first round brings no refill — the Initiative roll is your opening wind. It is only a trickle, so a fighter who empties his hand on offense is caught winded until the next round's die, blows arriving whole in the meantime; spend with that in mind. Fuel you are forced to lose but cannot pay from your pool comes out of your next refill instead, so such a cost always lands, exactly once, and never leaves you owing a debt you cannot pay.
 
 **Sparks.** A natural 6 in your Fuel is a **Spark**. Play it — the 6 is spent — and it entitles you to a second combat action this turn, beyond your one Action: an attack, a Block, or a Stunt (a Spark played while defending buys an immediate counterattack, a **Riposte**). The Spark grants only the opening; you still pay for that second action from your Fuel like any other. Roll several 6s and you may play several Sparks.
 
@@ -529,13 +529,13 @@ Armor is what you wear, and it soaks on the way in: its AC comes off every blow 
 
 - AC by make, one number from 1 to 5: leather 1, a padded gambeson 2, chainmail 3, plated mail and field plate 4, full plate 5. Better armor is dearer and, at the top, better fitted, so a master-made harness carries its weight on the body and field plate rides lighter than plated mail for the same proof. Protection tracks coin, not weight.
 
-- Leather, gambeson, and mail anyone can wear. Plate is trained-only: only a Veteran (Sword 1) with a *plate armor* Trait may wear plated mail, field plate, or full plate. Past that the price is slots and coin. Heavy armor eats into your twelve, so the armored fighter carries and moves with little to spare, while the light fighter keeps his slots for gear and for a fatter pool at the Call. Heavy soaks, light stays quick.
+- Leather, gambeson, and mail anyone can wear. Plate is trained-only: only a Veteran (Sword 1) with a *plate armor* Trait may wear plated mail, field plate, or full plate. Past that the price is slots and coin. Heavy armor eats into your twelve, so the armored fighter carries and moves with little to spare, while the light fighter keeps his slots for gear and for a fatter pool when he rolls Initiative. Heavy soaks, light stays quick.
 
 - Armor is one number in ordinary play, with no hit locations.
 
 - Training gates the martial arts by threshold, not by dial. The Veteran title (Sword 1) lets you guard an ally with shield or blade, wakes a legendary item's third die, and is the price of admission to plate, which also asks a *plate armor* Trait. Light armor, mail, and a plain weapon ask nothing; anyone can wear and swing them, but it is training that makes them tell.
 
-- A shield is not armor; it is held, not worn. Its slots are dice it lends at the Call (buckler 1, heater 2, tower 5), like any held steel. Holding one lets you **Block** once a round on yourself: defend a single attacker with as many dice as you like, even one you are not striking at, so a shield answers the foe your blade cannot, costing you no attack — though you still spend Fuel to cut the blow. To cover an ally instead, or to Block a second foe, spend one of your attacks (see Fighting). A legendary shield adds its third die and can ward a breath.
+- A shield is not armor; it is held, not worn. Its slots are dice it lends on the Initiative roll (buckler 1, heater 2, tower 5), like any held steel. Holding one lets you **Block** once a round on yourself: defend a single attacker with as many dice as you like, even one you are not striking at, so a shield answers the foe your blade cannot, costing you no attack — though you still spend Fuel to cut the blow. To cover an ally instead, or to Block a second foe, spend one of your attacks (see Fighting). A legendary shield adds its third die and can ward a breath.
 
 ### We Burn Undead
 
@@ -567,7 +567,7 @@ There is no defense roll to fail; when struck you commit dice from your Fuel —
 
 ## Magic
 
-Magic is prepared, not spontaneous: a Sorcerer loads workings into **Arcana** at a **muster** and looses them one shot each in the field. It is utility first — most spells solve problems (light, movement, control, ward); when one deals HP loss, that damage scales with the **level it was prepared at**, not with Sorcerie or the cast. Magic plugs into the core at two points: the Sorcerer title (Sorcerie 1) switches casting on, and a **combat cast is one Action that spends dice from your Fuel equal to the working's level**. The spell catalog is [[Burners Spells]].
+Magic is prepared, not spontaneous: a Sorcerer loads workings into **Arcana** at a **muster** and looses them one shot each in the field. It is utility first — most spells solve problems (light, movement, control, ward); when one deals HP loss, that damage scales with the **level it was prepared at**, not with Sorcerie or the cast. Magic plugs into the core at two points: the Sorcerer title (Sorcerie 1) switches casting on, and a **combat cast is one Action that spends dice from your Fuel equal to the working's level**. The spell catalog is [[Burners Spells]], organized by school; the gate-free common school **Sorcerie** holds the workings every mage knows regardless of tradition (Read Magic, Detect Magic, the Ward Pact family, and the rest).
 
 ### The Sorcerer Gate
 

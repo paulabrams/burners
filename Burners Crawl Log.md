@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Burners Crawl Log"
+---
+
 # Burners — Crawl Log
 
 *A mechanics-only run-through on the current engine (Fuel pools, ability-score Saves, soak-on-the-way-in, Strength-cut Wounds). No narration — just procedure, rolls, and the gauge. See [[Burners Adventure Game]].*

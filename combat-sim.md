@@ -1,3 +1,8 @@
+---
+layout: default
+title: "combat-sim"
+---
+
 # Combat Sim
 
 A Monte Carlo test of the Burners Fuel/Sparks engine, run to answer one question: is the standard fight fair, and what does a fair fight look like for the sample party?

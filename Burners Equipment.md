@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Burners Equipment"
+---
+
 # Wåndyr 2 Equipment
 
 ## Weapons

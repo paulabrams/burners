@@ -1,0 +1,13 @@
+title: Burners
+description: A rules-light OSR-adjacent adventure game set in the Dragon Isles
+baseurl: "/burners"
+url: "https://paulabrams.github.io"
+markdown: kramdown
+exclude:
+  - burners_sim.py
+  - README.md
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"

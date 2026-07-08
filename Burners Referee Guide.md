@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Burners Referee Guide"
+---
+
 # Burners Referee Guide
 
 *How the world pushes back. The players say what they do; this is the toolkit for everything they do it to — the passage of time, the dark closing in, and the first cold look of a stranger.*

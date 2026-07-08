@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Burners OSE Conversions"
+---
+
 # Burners ↔ OSE Conversions
 
 **Three principles govern every conversion:**

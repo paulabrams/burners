@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Burners Adventure Game"
+---
+
 # BURNERS
 
 *A little good, a little bad, a little of both.*

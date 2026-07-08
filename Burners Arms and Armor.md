@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Burners Arms and Armor"
+---
+
 # Burners Arms and Armor
 
 *The complete **Advanced Assets** section (Signatures, Secrets, weapons, armor, shields, and magic/Eldar items) imported from **Legends of the Dragon Isles RPG**, for use with Burners (see [[Burners Adventure Game]]). This is the optional expanded catalog; the lean starting buy-list with slots and prices lives in [[Burners Equipment]]. Faithful to the source; structural run-together lines split, light typo fixes only.*

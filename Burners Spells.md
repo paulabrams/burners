@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Burners Spells"
+---
+
 # Wåndyr 2 — Spells (v1.4 Schools, Knave-Style)
 
 *Canonical spell list for **Burners Adventure Game.md** (the *Magic* section). All **252** spells from *Wåndyr v1.4* (7 schools, 6 spell levels × 6 spells each), each with a **fixed effect block** — no "say what you want it to do." Power scales with **Sorcerie** (your Sorcerie Approach level), replacing Knave's INT.*

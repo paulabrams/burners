@@ -320,17 +320,19 @@ Armor is what you wear, and it soaks on the way in, its AC coming off every blow
 
 ## Signatures
 
+## Signatures
+
 A Signature is a boon, knack or sneaky trick that a character grows into through play. It is an asterisk on the Trait it springs from, arming sword or stealth or a habit like watch-the-door, the star marking that the skill has become a knack that bites.
 
-You do not buy a Signature, it emerges at the table during play. You may hold one Signature per level you have in that Approach, so a Sword 3 can carry up to three, a Sorcerie 1 only one.
+You do not buy a Signature, it emerges at the table as a result of playing the game. You may hold one Signature per level you have in that Approach, so a Sword 3 can carry up to three, a Sorcerie 1 only one.
 
 Signatures take three common shapes, and the Guide may allow others:
 
-- **A bonded thing.** You name your sword, your rope, your cloak, and it becomes yours in a way that bites. Treat it as enchanted: a plus, which in combat is an extra die on the Initiative roll, or a narrow automatic edge in its element, a named blade that never leaves your grip, a rope that always holds. This is the old Legends idea, that naming a thing is what makes it special.
+- **Named item.** You name your sword, dagger, or your rope, and it becomes yours. The named item becomes a narrow edge in its element, a blade that never leaves your grip, a rope that always holds.
 
-- **A habit or an instinct.** Something you always do becomes a thing that never fails you. Back to the wall, and nothing flanks or surprises you from behind. Poke the chest with a ten-foot pole first, and its traps never catch you. The habit is the trigger; honor it in the fiction and the edge is automatic.
+- **Instinct.** Something you always do becomes a thing that never fails you. Back to the wall, and nothing flanks or surprises you from behind. Poke the chest with a ten-foot pole first, and its traps never catch you. The habit is the trigger; honor it in the fiction and the edge is automatic.
 
-- **A holdout.** A small thing you keep hidden on your person — a boot knife, a flint sewn into your collar, an accelerant vial stitched into a sleeve. Name it and say where it rides. It lives outside your twelve slots and stays with you even when you are searched or stripped of gear. Out of combat it is free to reach; in a fight, drawing it costs one Fuel. This is for going deeper than your kit, not for having the ordinary tools: a burner's starting fire — flint and steel, matches, tinderbox, oil, a fire pot — is free gear, a conceit of the game.
+- **Holdout.** A small thing you keep hidden on your person — a boot knife, a flint sewn into your collar, an accelerant vial stitched into a sleeve. Name it and say where it rides. It lives outside your twelve slots and stays with you even when you are searched or stripped of gear. Out of combat it is free to reach; in a fight, drawing it costs one Fuel.
 
 ---
 
@@ -358,11 +360,13 @@ A risky deed does not simply fail. It has a Cost, which is usually a bump of Hea
 
 The dice come out only when a price is on the table, so the dice are the line between the free plan and the costly one. You roll for one of two reasons, and they are independent. You roll to soften a Cost the world is charging you, or you roll to see how well an uncertain action turns out. A safe and certain action just happens, with no roll.
 
-### The Roll
+### Approach Roll
 
-Your result is 2d6 plus your Approach. The sum is the magnitude. A plain 2d6 caps at 12, the mortal ceiling; your Approach climbs past it, and so does the third die of a legendary item.
+When the Guide asks you to roll, they will state the target. You must state your Approach, if you haven't done so already.
 
-#### Sweet, Spicy, and the Doubles
+Your result is 2d6 plus your Approach. If you meet or beat the target then you accomplish your task unscathed, otherwise you bear a cost. Natural consequences will apply. If this involves personal peril you lose HP or take a wound. Otherwise, if the consequences are more abstract, the Guide will raise the Hazard.
+
+#### Sweet & Spicy
 
 A 6 is Sweet (a good twist) and a 1 is Spicy (a complication). They ride alongside the sum and never change it, so a roll of 1 and 6 is a 7 that carries both. Tally them:
 
@@ -378,23 +382,11 @@ A legendary item rolls three dice, so it reaches the doubles far more often. Pow
 
 ### Legendary Items and the Third Die
 
-There are no plus-one or plus-two bonuses anywhere. The only thing that adds a die is a legendary item, a relic of a prior age inscribed with runes no living hand can cut. They are found, never made. The arts that made them died with the age that made them, so you can only wield what you find.
+A legendary item is a relic of a prior age, inscribed with runes beyond even the lore of a sorcerer. The arts that made them died with the age that made them, so you can only wield what you find.
 
 A legendary item grants a third die, turning 2d6 into three dice, when it is the relevant implement of your action. You either have it or you do not; there is never a fourth die. For arms and armor, only a Veteran awakens the die; a legendary blade or harness lies inert in untrained hands.
 
 A found relic lies dormant, rolling as ordinary gear, until you discover its true name, read from a tomb-glyph, surrendered by an Invocation, or earned by the deed it was made for. The name wakes the third die and costs no XP; it is a prize of the world, not a purchase.
-
-Rules of the legendary item:
-
-- Equipped only, in an item slot. One in your baggage does nothing.
-
-- One applicable item gives one third die. A runed sword is one relic, not two dice.
-
-- It must be the relevant implement and fit the threat. A legendary shield turns a breath; a legendary sword cannot; a legendary cloak powers a melt into shadow, not a swing.
-
-- Every legendary item is equal: the third die, no more. Relics differ by feature and character, not by a bigger number, so you never trash a beloved find for a larger one.
-
-- Legendary armor soaks at its AC as any armor does and, being legendary, lends its third die on your Shock Check.
 
 About one in six of these relics speaks. These are Sentient Items, each a bound soul with its own will and powers that can aid, argue, or betray. Many more were once sentient but broke over the long ages, most of them mad and silent. So a mute relic is not safely empty; it may be inert, or a madness too far gone for words.
 

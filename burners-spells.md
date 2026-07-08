@@ -5,7 +5,9 @@ title: "Burners Spells"
 
 # Wåndyr 2 — Spells (v1.4 Schools, Knave-Style)
 
-*Canonical spell list for **Burners Adventure Game.md** (the *Magic* section). All **252** spells from *Wåndyr v1.4* (7 schools, 6 spell levels × 6 spells each), each with a **fixed effect block** — no "say what you want it to do." Power scales with **Sorcerie** (your Sorcerie Approach level), replacing Knave's INT.*
+*Canonical spell list for **Burners Adventure Game.md** (the *Magic* section). All **252** spells from *Wåndyr v1.4* (7 people-schools, 6 spell levels × 6 spells each), each with a **fixed effect block** — no "say what you want it to do." Power scales with **Sorcerie** (your Sorcerie Approach level), replacing Knave's INT.*
+
+*Plus **Sorcerie** — the gate-free common school (14 workings on a thinning ladder), the shared grammar under every tradition: reading, detecting, warding, dispelling, making a working last. Added for Burners; not part of the v1.4 seven. It needs no school Secret — any Sorcerer may learn its spells.*
 
 *Companion: [[Burners Adventure Game]] (HP, Wounds, combat) · [[Burners Adventure Game]] (Magic: Arcana, muster, casting). OSE reference list: [[Wandyr2SpellList]] (optional cross-check).*
 
@@ -48,6 +50,208 @@ You must be a **Sorcerer (Sorcerie 1+)** to cast. See *Magic* in [[Burners Adven
 Canting spells roll **Craft** instead of Sorcerie when a roll is needed. **Journeyman (Craft 1+)** or **Sorcerer** may prep and cast them through Arcana (*Magic* in [[Burners Adventure Game]]).
 
 ---
+
+
+## Sorcerie
+
+The common craft — no people's tradition, but the raw grammar of magic that underlies
+all seven schools. These are the first workings every apprentice learns before a school
+claims them, and the meta-magics the schools never bother to teach: reading auras,
+dispelling, warding, making a working last. Sorcerie is written in plain sigils any mage
+can read, and it needs **no school Secret** — any Sorcerer may learn and bind its spells,
+whatever their tradition. It never throws force; it handles magic itself.
+
+Sorcerie is a **thinning ladder**: broad at the base, where every mage shares the same
+apprentice kit, and rare at the crown, where only a few universal high-magics stand. It
+does not carry six spells per level like the people-schools.
+
+### 1st level spells
+
+| Code | Spell | Tags |
+| --- | --- | --- |
+| 1.1 | Read Magic | info |
+| 1.2 | Detect Magic | info |
+| 1.3 | Parma Magica | ward |
+| 1.4 | Wizard Light | util |
+| 1.5 | Read Languages | info |
+| 1.6 | Cantrip | util |
+
+#### Read Magic — level 1 (code 1.1)
+
+*tagline: decipher magical script*
+
+**Tags:** info · **Roll:** Plan A · **Save:** none
+
+**Effect:** You read magical script — runes, glyphs, spellbook entries, scroll text —
+well enough to identify a working and, with reagent ink and study, to copy or cast it.
+Without it, magical writing is opaque. **Free and always known** by every Sorcerer; costs
+no slot to know. (The working behind *Reading Magic* in [[Burners Adventure Game]].)
+
+#### Detect Magic — level 1 (code 1.2)
+
+*tagline: sense the arcane*
+
+**Tags:** info · **Roll:** Plan A · **Save:** none
+
+**Effect:** For Sorcerie turns, magic within line of sight glows to your eye; on request
+you learn its rough school and strength (up to Sorcerie such readings before it fades).
+*Illusione teaches a keener variant (that school's code 1.6) that lasts a day and names
+exact properties.*
+
+#### Parma Magica — level 1 (code 1.3)
+
+*tagline: ward the self against magic*
+
+**Tags:** ward · **Roll:** Sorcerie · **Save:** none
+
+**Effect:** An unseen ward wraps you for Sorcerie turns: purely magical attacks against
+you suffer **−Sorcerie Damage**, and trivial first-level workings wash off entirely. No
+help against blades, fire, or magic made physically substantive (conjured stone, a flame
+wall). *Campaign alias: Mage Shield.*
+
+#### Wizard Light — level 1 (code 1.4)
+
+*tagline: conjure light or dark*
+
+**Tags:** util · **Roll:** Sorcerie · **Save:** Sorcerie
+
+**Effect:** Torch-bright light springs from a point or object you touch, radius 30', for
+Sorcerie hours; you may instead quench light in the same radius (darkness). Cast on a
+creature's eyes it blinds for 1 round unless they save Sorcerie.
+
+#### Read Languages — level 1 (code 1.5)
+
+*tagline: decipher mundane script*
+
+**Tags:** info · **Roll:** Plan A · **Save:** none
+
+**Effect:** For Sorcerie turns you can read (not speak) any mundane written language,
+cipher, or code, however foreign or old — maps, ledgers, inscriptions. Does not pierce
+magical writing; that is *Read Magic*.
+
+#### Cantrip — level 1 (code 1.6)
+
+*tagline: the trained hand's small magics*
+
+**Tags:** util · **Roll:** Plan A · **Save:** none
+
+**Effect:** Trivial magics on command — clean or soil an object, chill or warm a mouthful,
+colour a flame, lift a feather-weight, strike a spark, throw a small sound. Nothing that
+deals damage, moves real weight, or fools a careful eye. The parlor mark of a schooled mage.
+
+### 2nd level spells
+
+| Code | Spell | Tags |
+| --- | --- | --- |
+| 2.1 | Floating Disc | util |
+| 2.2 | Locate Object | info |
+| 2.3 | Arcane Sigil | util |
+
+#### Floating Disc — level 2 (code 2.1)
+
+*tagline: a porter of force*
+
+**Tags:** util · **Roll:** Sorcerie · **Save:** none
+
+**Effect:** A shimmering disc of force 3' across floats at your heel for Sorcerie hours,
+bearing up to Sorcerie × 100 lb — loot, a wounded ally. It follows you at a walk and
+cannot stray more than 10' from you; it winks out if you do.
+
+#### Locate Object — level 2 (code 2.2)
+
+*tagline: know the way to a thing*
+
+**Tags:** info · **Roll:** Sorcerie · **Save:** none
+
+**Effect:** For Sorcerie turns you sense the direction to the nearest example of one object
+you name and clearly picture, within Sorcerie × 100'. Finds objects, not creatures, and is
+blind to anything warded (a Dark Anchor, lead, running water at the Guide's call).
+
+#### Arcane Sigil — level 2 (code 2.3)
+
+*tagline: sign, seal, anchor*
+
+**Tags:** util · **Roll:** Plan A · **Save:** none
+
+**Effect:** Inscribe an invisible personal mark on a surface or object, readable only by
+Read Magic or Detect Magic. It proves your authorship, seals a document (you know at once
+if it is opened), or anchors another Sorcerie working to that spot. Lasts until dispelled.
+
+### 3rd level spells
+
+| Code | Spell | Tags |
+| --- | --- | --- |
+| 3.1 | Dispel Magic | ward |
+| 3.2 | Tongues | info |
+
+#### Dispel Magic — level 3 (code 3.1)
+
+*tagline: unmake a working*
+
+**Tags:** ward · **Roll:** Sorcerie · **Save:** none
+
+**Effect:** End one ongoing magical effect of level ≤ Sorcerie that you can see or touch: a
+charm lifts, a conjured wall winks out, a ward drops. Against another mage's working, roll
+**Sorcerie vs 8 + the working's level**. Cannot interrupt a spell mid-cast — that is
+Thaumaturgy's *Unravel*.
+
+#### Tongues — level 3 (code 3.2)
+
+*tagline: speak any tongue*
+
+**Tags:** info · **Roll:** Sorcerie · **Save:** none
+
+**Effect:** For Sorcerie turns you speak and understand any one spoken language per creature
+you address — the spoken half of Read Languages. Grants no reading.
+
+### 4th level spells
+
+| Code | Spell | Tags |
+| --- | --- | --- |
+| 4.1 | Greater Parma | ward |
+
+#### Greater Parma — level 4 (code 4.1)
+
+*tagline: ward the company*
+
+**Tags:** ward · **Roll:** Sorcerie · **Save:** none
+
+**Effect:** As Parma Magica, but either shields Sorcerie willing creatures within 10', or
+grants one creature outright immunity to a single named school, for Sorcerie turns. Purely
+magical attacks against the warded suffer **−Sorcerie Damage**.
+
+### 5th level spells
+
+| Code | Spell | Tags |
+| --- | --- | --- |
+| 5.1 | Identify | info |
+
+#### Identify — level 5 (code 5.1)
+
+*tagline: read a magic item true*
+
+**Tags:** info · **Roll:** Sorcerie · **Save:** none
+
+**Effect:** Study one magic item for ten minutes; learn its powers, its command word if any,
+and whether it is cursed. A legendary Arcana yields its Level but not its true name — that is
+found in play. Best worked as a ritual.
+
+### 6th level spells
+
+| Code | Spell | Tags |
+| --- | --- | --- |
+| 6.1 | Permanency | util |
+
+#### Permanency — level 6 (code 6.1)
+
+*tagline: make a working last*
+
+**Tags:** util · **Roll:** Sorcerie · **Save:** none
+
+**Effect:** Anchor one ongoing working you know, of level ≤ Sorcerie − 1, so it no longer
+needs sustaining or re-binding: it holds until dispelled. It permanently occupies one of
+your Arcana slots while it stands (the working lives there). You may hold one Permanency per
+Sorcerie level.
 
 
 ## Vitae

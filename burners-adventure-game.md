@@ -343,8 +343,6 @@ Armor is what you wear, and it soaks on the way in, its AC coming off every blow
 
 ## Signatures
 
-## Signatures
-
 A Signature is a boon, knack or sneaky trick that a character grows into through play. It is an asterisk on the Trait it springs from, arming sword or stealth or a habit like watch-the-door, the star marking that the skill has become a knack that bites.
 
 You do not buy a Signature, it emerges at the table as a result of playing the game. You may hold one Signature per level you have in that Approach, so a Sword 3 can carry up to three, a Sorcerie 1 only one.
@@ -356,6 +354,16 @@ Signatures take three common shapes, and the Guide may allow others:
 - **Instinct.** Something you always do becomes a thing that never fails you. Back to the wall, and nothing flanks or surprises you from behind. Poke the chest with a ten-foot pole first, and its traps never catch you. The habit is the trigger; honor it in the fiction and the edge is automatic.
 
 - **Holdout.** A small thing you keep hidden on your person — a boot knife, a flint sewn into your collar, an accelerant vial stitched into a sleeve. Name it and say where it rides. It lives outside your twelve slots and stays with you even when you are searched or stripped of gear. Out of combat it is free to reach; in a fight, drawing it costs one Fuel.
+
+**Item powers** work the same way on gear. An enchanted weapon, shield, or suit from a module's **+n** loot carries one minor power per plus (see [[Burners OSE Conversions]]). Each power you have **found** — identified by a sage, revealed in use, earned by trial — earns an asterisk on the item line and a footnote describing what it does:
+
+| On your sheet | Meaning |
+|---|---|
+| `arming sword` (enchanted) | Magic steel; the bonus die works once you know it is enchanted |
+| `arming sword*` | One +1-tier power discovered — footnote `*` names it |
+| `arming sword**` | A +2 item; both powers found — footnotes `*` and `**` |
+
+Write the footnotes at the bottom of the gear block, the way Pip's stealth Signature sits under his Traits. Until a power is found, leave the star off; the Guide knows what is waiting. A **+1** antenna sword might read `bronze sword*` with `* Runs cold near the drowned dead; counts as silver against their Resistance.` once Bellamy learns it in the barrow.
 
 ---
 

@@ -5,7 +5,7 @@ hero: /images/x-page-061.jpg
 hero_alt: "A grizzled veteran, kitted and armed"
 ---
 
-# Wåndyr 2 Equipment
+# Burners Equipment
 
 ## Weapons
 
@@ -22,7 +22,7 @@ hero_alt: "A grizzled veteran, kitted and armed"
 | Sword                   | 2     | 20        |
 | Short bow               | 2     | 25        |
 | Spear                   | 3     | 15        |
-| Long bow                | 3     | 50        |
+| Longbow                | 3     | 50        |
 | Crossbow                | 3     | 40        |
 | Battle axe (two-handed) | 4     | 20        |
 | Two-handed sword        | 4     | 40        |

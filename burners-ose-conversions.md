@@ -76,7 +76,7 @@ A monster spends its pool exactly as a character does: **each blow is up to thre
 | 1d10 | 4 |
 | 1d12, 2d6+ | 5 |
 
-*Check: an orc (HD 1, sword d8) rolls 1 (HD) + 3 (sword) + Heat dice. An ogre (HD 4+1, d10 club) rolls 4–5 (HD) + 4 (club) + Heat — the deep pool that lets it act first and hit hard.*
+*Check: an orc (HD 1, sword d8) rolls 1 (HD) + 3 (sword) + Heat dice. An ogre (HD 4+2, d10 club) rolls 4–5 (HD) + 4 (club) + Heat — the deep pool that lets it act first and hit hard.*
 
 **Natural attacks are weapons.** The damage die sets the slots exactly as a blade's does, and those dice go into the pool: a wolf's d6 jaws throw 2, a bear's d8 paw 3, an ogre's swat 4. Natural weapons fill no *inventory* slots (a bite can't be dropped or looted) — the slot count is only its dice on the Initiative roll.
 

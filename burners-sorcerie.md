@@ -32,6 +32,8 @@ To work magic you must be a **Sorcerer — Sorcerie 1 or higher.** Below that yo
 
 **Two gates stand on high magic.** Your **Sorcerie** caps the level of spell you may **learn and know** (the classic gate, below). Your **Arcana's Level** caps the level you may **prepare and cast** in the field. To wield a level-*N* working you need both: the knowledge (Sorcerie *N*+) and a vessel to hold it (an Arcana of Level *N*, or your open book as a ritual). Sorcerie also drives out-of-combat casting rolls, Plan A, and how fast you learn.
 
+**A school is trained-only.** Each of the seven people-schools keeps its own secret language and spell list, and you must hold a **Trait in that school** to touch it at all: with the Trait you are its practitioner — literate in its script and able to learn and cast its workings — and without it the runes are chicken-scratch and the spells are closed to you, whatever your Sorcerie. The Trait opens the door; **Sorcerie** is still the caster level that says how *deep* you may go (the level gate below). The common **Sorcerie** school asks no such Trait — being a Sorcerer is grammar enough, since every mage shares it.
+
 **Canting is the exception.** The rogue's school of *Canting* rolls **Craft**, not Sorcerie, and a **Journeyman (Craft 1+)** — not only a Sorcerer — may learn, bind, and cast its spells through Arcana. Everything else in this chapter applies. See [Canting](#canting) below.
 
 (A Sorcerer's starting kit — two Level-1 Arcana, a four-spell book, and free *Read Magic* — is bought at character creation; see *The Starting Sorcerer* under Starting Gear in [[Burners Adventure Game]].)
@@ -182,7 +184,7 @@ A dodgeable blast lets the target Defend (dice) for half or none; an auto-hit (t
 
 ### Reading Magic
 
-If you have a Trait in a magic school you are a practitioner of it: literate in its abstruse language up to your level. You can read the plain words of any magical writing you find — see the runes, count them, know their literal meanings, all free. What costs you is **interpretation**: the enchantment beneath the script, what the words do, how they combine, what wakes them.
+If you have a Trait in a magic school you are a practitioner of it: literate in its abstruse language up to your level. In a school you are trained in you read the plain words of its writing for free — see the runes, count them, know their literal meanings; the script of a school you hold **no** Trait in is chicken-scratch until the *Read Magic* working deciphers it. What always costs you is **interpretation**: the enchantment beneath the script, what the words do, how they combine, what wakes them.
 
 Studying a writing or item is an **Action**; describe how deep you probe. Interpretation is a Step-2 risk — the deeper the reading, the steeper the Cost (HP, time, noise, or a Spicy twist). Roll it out (Sorcerie, out of danger). On a success the Guide reveals one **Fact** at the depth you reached — a power (what it does), a demand (what it costs), or an omen (what changes about the bearer or world). On a **Sweet** you fully grasp it and a revealed power can be called on demand; on a **Spicy** the reading misleads or trips the power wrongly.
 
@@ -196,7 +198,7 @@ Track each magical item as two short lists, filled in as study and play reveal t
 | --- | --- |
 | **Code** | `L.n` — the spell's **level** (L, 1–6) and its slot (n, 1–6) within that level |
 | **Lv** | **Spell level** (1–6) — prep cost in Arcana capacity; the same as the code's first number |
-| **School** | Magic school (must know the school's Secret or spellbook entry) |
+| **School** | Which school the spell is from. A school is **trained-only** — you need a **Trait** in it to read its language or cast its spells at all (see *The Sorcerer Gate*). |
 | **Tags** | dmg · ctrl · ward · info · util · summon |
 | **Roll** | Casting roll if not Plan A — **Sword** in combat, **Sorcerie** out, **Craft** for Canting |
 | **Save** | Target contest — usually **`2d6 + Sorcerie`** (or Sword / Heart as noted) |
@@ -204,9 +206,9 @@ Track each magical item as two short lists, filled in as study and play reveal t
 
 ### Codes and spell level
 
-Each school lists six spells at every spell level, 1 through 6. A code `L.n` is the spell's level L and its slot n within that level — so `1.3` is the third first-level spell, `4.2` the second fourth-level spell. Prep cost is the level, the code's first number.
+Each of the seven people-schools lists six spells at every spell level, 1 through 6; Sorcerie, the common craft, is a thinning ladder with fewer. A code `L.n` is the spell's level L and its slot n within that level — so `1.3` is the third first-level spell, `4.2` the second fourth-level spell. Prep cost is the level, the code's first number.
 
-Levels were assigned by **scope and punch** (OSE / B/X yardstick), then the catalog was balanced to exactly six spells per level in each school.
+Levels were assigned by **scope and punch** (OSE / B/X yardstick), then the catalog was balanced to six spells per level in each people-school (Sorcerie excepted).
 
 ### Reading the catalog
 
@@ -224,7 +226,7 @@ The common craft — no people's tradition, but the raw grammar of magic that un
 all seven schools. These are the first workings every apprentice learns before a school
 claims them, and the meta-magics the schools never bother to teach: reading auras,
 dispelling, warding, making a working last. Sorcerie is written in plain sigils any mage
-can read, and it needs **no school Secret** — any Sorcerer may learn and bind its spells,
+can read, and it needs **no school Trait** — any Sorcerer may learn and bind its spells,
 whatever their tradition. It never throws force; it handles magic itself.
 
 Sorcerie is a **thinning ladder**: broad at the base, where every mage shares the same
@@ -1084,7 +1086,7 @@ Primal forces, elements, and weather. The Baal inscribe dragon magic in burning 
 
 **Tags:** dmg · **Roll:** Sword · **Save:** Sword
 
-**Effect:** Burst in lore × 10': **2d6** to HP per creature (− Resistance). Deafened 1 turn on failed save. Each target — **Sword** save for half.
+**Effect:** Burst in Sorcerie × 10': **2d6** to HP per creature (− Resistance). Deafened 1 turn on failed save. Each target — **Sword** save for half.
 
 #### Upwell — level 5 (code 5.6)
 

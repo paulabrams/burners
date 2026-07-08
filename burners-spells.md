@@ -5,13 +5,20 @@ hero: /images/x-page-127.jpg
 hero_alt: "A lone figure before distant spires at dusk"
 ---
 
-# Wåndyr 2 — Spells (v1.4 Schools, Knave-Style)
+# Burners Spells
 
-*Canonical spell list for **Burners Adventure Game.md** (the *Magic* section). All **252** spells from *Wåndyr v1.4* (7 people-schools, 6 spell levels × 6 spells each), each with a **fixed effect block** — no "say what you want it to do." Power scales with **Sorcerie** (your Sorcerie Approach level), replacing Knave's INT.*
+Eight magic schools, each with up to 36 spells ranging from 1st to 6th level. Sorcerie is the common craft every mage shares; the other seven are the traditions of the peoples of the Dragon Isles.
 
-*Plus **Sorcerie** — the gate-free common school (15 workings on a thinning ladder), the shared grammar under every tradition: reading, detecting, warding, dispelling, making a working last. Added for Burners; not part of the v1.4 seven. It needs no school Secret — any Sorcerer may learn its spells.*
-
-*Companion: [[Burners Adventure Game]] (HP, Wounds, combat) · [[Burners Adventure Game]] (Magic: Arcana, muster, casting). OSE reference list: [[Wandyr2SpellList]] (optional cross-check).*
+| School | Domain | Tradition |
+| --- | --- | --- |
+| [Sorcerie](#sorcerie) | The common craft — the raw grammar of magic underlying all schools | any mage |
+| [Vitae](#vitae) | Life force, growth, and harmony | the Elves |
+| [Elementale](#elementale) | Primal forces, elements, and weather — dragon magic | the Baal |
+| [Thaumaturgy](#thaumaturgy) | Physical laws, mechanisms, and force — engineering magic | the Dwur |
+| [Illusione](#illusione) | Perception, thought, and dreams | the Belerions |
+| [Umbrakala](#umbrakala) | Shadows, thresholds, and dimensional paths | the Alu |
+| [Necromantia](#necromantia) | Death, spirits, and decay | the Avathars |
+| [Canting](#canting) | Deception and manipulation in Thieves' Cant | rogues |
 
 ---
 
@@ -52,7 +59,6 @@ You must be a **Sorcerer (Sorcerie 1+)** to cast. See *Magic* in [[Burners Adven
 Canting spells roll **Craft** instead of Sorcerie when a roll is needed. **Journeyman (Craft 1+)** or **Sorcerer** may prep and cast them through Arcana (*Magic* in [[Burners Adventure Game]]).
 
 ---
-
 
 ## Sorcerie
 
@@ -272,7 +278,6 @@ found in play. Best worked as a ritual.
 needs sustaining or re-binding: it holds until dispelled. It permanently occupies one of
 your Arcana slots while it stands (the working lives there). You may hold one Permanency per
 Sorcerie level.
-
 
 ## Vitae
 
@@ -632,7 +637,6 @@ Life force, growth, and harmony. The magic of the Elves, written in living ink t
 
 **Effect:** All willing creatures in Sorcerie × 10' set their HP to the average (round down) of the group.
 
-
 ## Elementale
 
 Primal forces, elements, and weather. The Baal inscribe dragon magic in burning runes carved in stone.
@@ -990,7 +994,6 @@ Primal forces, elements, and weather. The Baal inscribe dragon magic in burning 
 **Tags:** util · **Roll:** Sorcerie · **Save:** none
 
 **Effect:** You and Sorcerie companions ride a tailwind — double overland speed for Sorcerie hours.
-
 
 ## Thaumaturgy
 
@@ -1350,7 +1353,6 @@ Physical laws, mechanisms, and force. The engineering magic of the Dwur, written
 
 **Effect:** A door cannot be opened by mundane means for Sorcerie turns.
 
-
 ## Illusione
 
 Perception, thought, and dreams. The subtle magic of the Belerions, woven from phantasmal scripts that deceive the senses.
@@ -1708,7 +1710,6 @@ Perception, thought, and dreams. The subtle magic of the Belerions, woven from p
 **Tags:** info · **Roll:** Sorcerie · **Save:** none
 
 **Effect:** See through illusions and invisibility for Sorcerie hours.
-
 
 ## Umbrakala
 
@@ -2068,7 +2069,6 @@ Shadows, thresholds, and dimensional paths. The secret magic of the Alu, written
 
 **Effect:** Barrier absorbs Sorcerie × 5 HP of damage; then collapses.
 
-
 ## Necromantia
 
 Death, spirits, and decay. The forbidden magic of the Avathars, inscribed in blood and bone.
@@ -2426,7 +2426,6 @@ Death, spirits, and decay. The forbidden magic of the Avathars, inscribed in blo
 **Tags:** dmg · **Roll:** Sorcerie · **Save:** Sorcerie
 
 **Effect:** **1d6+4** to HP (− scoped Resistance). **Sorcerie** save for half (round down, min 0). If brought to 0 HP, soul is shunted out for Sorcerie hours (recoverable).
-
 
 ## Canting
 

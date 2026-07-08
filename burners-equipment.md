@@ -15,16 +15,15 @@ hero_alt: "A grizzled veteran, kitted and armed"
 | Silver dagger           | 1     | 30        |
 | Club                    | 1     | 1         |
 | Sling with 30 stones    | 1     | 2         |
-| Hand axe                | 2     | 10        |
-| Mace                    | 2     | 10        |
-| War hammer              | 2     | 10        |
+| Small ax                | 2     | 10        |
+| Mace (incl. war hammer) | 2     | 10        |
 | Short sword             | 2     | 20        |
 | Sword                   | 2     | 20        |
-| Short bow               | 2     | 25        |
+| Hunting bow             | 2     | 25        |
 | Spear                   | 3     | 15        |
-| Longbow                | 3     | 50        |
+| Longbow                 | 3     | 50        |
 | Crossbow                | 3     | 40        |
-| Battle axe (two-handed) | 4     | 20        |
+| Battle ax (two-handed)  | 4     | 20        |
 | Two-handed sword        | 4     | 40        |
 | Pole arm (two-handed)   | 5     | 25        |
 

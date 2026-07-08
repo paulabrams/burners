@@ -24,7 +24,34 @@ The clocks already match: OSE turns and rounds are Burners turns and rounds. Dur
 - **Reaction rolls (2d6)** — as written; a character leading the parley adds **Heart**.
 - **Number Appearing, Treasure Type, coin values** — as written; prices are already gold-denominated.
 - **Movement rates** — read as relative speed and reach; resolve in fiction and zones.
-- **XP** — ignore; use Burners advancement.
+- **XP** — OSE awards for slain monsters (by HD) and treasure recovered to safety (1 XP per gp). Magic items: no XP. See [[Burners Adventure Game]] and the table below.
+
+---
+
+## XP Awards
+
+Burners uses OSE XP awards layered on its own level table (see [[Burners Adventure Game]]). Port treasure types and coin values as written; award XP only when treasure is **recovered to safety**, not when first picked up.
+
+| Source | Award |
+|---|---|
+| **Monster slain** | XP by Hit Dice (table below) |
+| **Coins, gems, jewelry** | 1 XP per 1 gp recovered to safety |
+| **Magic items** | 0 XP — the item is the reward |
+| **Goods & equipment** | Sale value in gp, when sold |
+
+### Monster XP by Hit Dice (OSE)
+
+| HD | XP | HD | XP |
+|---|---|---|---|
+| under 1 | 5 | 7 | 950 |
+| 1 | 10 | 8 | 1,900 |
+| 2 | 20 | 9–10 | 2,750 |
+| 3 | 60 | 11–12 | 4,500 |
+| 4 | 125 | 13–16 | 6,000 |
+| 5 | 250 | 17–20 | 8,500 |
+| 6 | 500 | 21+ | 10,000+ |
+
+For fractional or special HD, use the nearest row or the module's printed award.
 
 ---
 
@@ -165,7 +192,7 @@ Read straight off the printed block — HP, soak, the two numbers that build its
 
 ## Spells
 
-- **Spell level = prep level L.** Vancian memorization *is* forget-on-cast; the mapping is direct. A converted list must still respect Arcana capacity.
+- **Spell level = prep level L.** Arcana slots run **bound → active → used**; used slots clear after sleep. A converted list must still respect Arcana capacity.
 - **Durations and ranges as written** — the clocks match.
 - **Damage:** ignore OSE's per-caster-level dice. Re-price once through the **spell damage rubric** in [[Burners Adventure Game]], keyed to the spell's **level L** — single-target `1d6 + (L−1)`, area `⌊L/2⌋d6` each, and so on. Not the caster's HD, not the dice spent to cast.
 - **Offensive spells:** the target **defends** with dice. *Save negates* → a clean defend zeroes it. *Save for half* → the defend reduces it. Pure sorcery with no physical dodge (a hex, a mind-touch) allows no dice defense; it lands and resolves by its effect.

@@ -118,7 +118,7 @@ The over-extended party is the danger this builds: the grind pushes Heat up even
 
 ### Cooling off
 
-There is no HP to bandage between fights; recovery is venting the gauge (see Running Heat) and, in real safety, cooling to base. A breather in a cleared room lets the fiction vent a point or two; a fold or a safe camp cools toward the next scene's base; a night or a town resets Heat to base and begins mending Wounds. So the way to give a stalled party rope is to let them vent by acting on the room — bar the door, put out the fire, shake the pursuit — rather than by waiting the clock out.
+There is no HP to bandage between fights until you **rest**; recovery is venting the gauge (see Running Heat) and, in real safety, cooling to base. A cleared room and an hour's rest with food refills HP to maximum if you are not below 0 — and **full HP closes wounds** (see [[Burners Adventure Game]]). A safe night cools Heat toward base. Let the crew vent by acting on the room — bar the door, put out the fire, shake the pursuit — rather than by waiting the clock out alone.
 
 ---
 

@@ -9,7 +9,7 @@ hero_alt: "Crossbow, helm, and sword"
 
 *The complete **Advanced Assets** section (Signatures, Secrets, weapons, armor, shields, and magic/Eldar items) imported from **Legends of the Dragon Isles RPG**, for use with Burners (see [[Burners Adventure Game]]). This is the optional expanded catalog; the lean starting buy-list with slots and prices lives in [[Burners Equipment]]. Faithful to the source; structural run-together lines split, light typo fixes only.*
 
-> **Reading the numbers in Burners.** This is a Legends catalog, where **Class** was a comparison (Weapon Class vs Armor Class, ±1 damage). In Burners it is simpler: **a weapon's Class is its slots** — the dice it throws on the Initiative roll and the space it fills. Armor is not read piece-by-piece here; the pieces map onto the core's **three suits** (Quarter AC 1, Half AC 2, Full AC 3 — see [[Burners Adventure Game]]). An enchantment, or a **Tuned** edge, is worth **+1 die in your Call pool**, never a bigger number. Import Legends' names, tags, and flavor wholesale; read every number the Burners way.
+> **Reading the numbers in Burners.** This is a Legends catalog: **Class** (weapons) and **size** (shields) are comparison stats — Weapon Class vs Armor Class, or shield size vs a blow, for ±1 damage in Legends. **Slots** are the Burners stat: inventory space and dice on the Initiative roll (see [[Burners Adventure Game]] and [[Burners Equipment]]). Class and Slots are listed separately because they are not always the same (a military **Dagger** is Class2 but 1 slot; a **Mace** is Class3 but 2 slots). Armor is not read piece-by-piece here; the pieces map onto the core's **suits** (AC and slots in [[Burners Equipment]]). An enchantment, or a **Tuned** edge, is worth **+1 die in your Call pool**, never a bigger number. Import Legends' names, tags, and flavor wholesale; assign **Slots** from the lean list where an item appears there, otherwise by the same bulk/handiness ladder.
 >
 > *Era guide:* Northmarens run early-medieval arms & armor, Southmarens late-medieval/early-Renaissance, the Eldar exotic and magical.
 >
@@ -34,13 +34,13 @@ Every weapon, armor, or tool sits on one ladder, bottom to top. Only the first t
 
 ### Signatures and Secrets
 
-A **Signature** is the fiction of that third rung — a name, a look, a history (*"Naurdring the goblin slicer"*; *"a tunic, royal blue with gold embroidering"*). It is not a die bonus; there are none. What it does is lend an action credibility, the way a fitting Theme or Trait does — declare it and the Guide may let the deed simply succeed (Step 1). A woken **legendary** Signature is the sole exception, granting the third die (see Legendary Items). Write it with the item type and Tags, e.g. *"Naurdring, the goblin slicer [Longsword Class3…]"*. A **damaged** Asset can lose its Signature — fine velvet is ruined by a crawl through a cavern — so save your best for when it counts.
+A **Signature** is the fiction of that third rung — a name, a look, a history (*"Naurdring the goblin slicer"*; *"a tunic, royal blue with gold embroidering"*). It is not a die bonus; there are none. What it does is lend an action credibility, the way a fitting Theme or Trait does — declare it and the Guide may let the deed simply succeed (Step 1). A woken **legendary** Signature is the sole exception, granting the third die (see Legendary Items). Write it with the item type and Tags, e.g. *"Naurdring, the goblin slicer [Longsword Class3 Slots3…]"*. A **damaged** Asset can lose its Signature — fine velvet is ruined by a crawl through a cavern — so save your best for when it counts.
 
 A **Secret** is a power hung on an Asset — a ring's hidden compartment, a blade that detects evil, a flask of holy water that mends. Asset Secrets work like any other Secret and share the requirements (a supporting Theme, a Cost to use — usually Heat — and any leash).
 
 ## Asset Tags
 
-Weapons and armor always carry a **Class**. In Burners a weapon's Class is its **slots** — the dice it throws on the Initiative roll; armor's Class is its suit's **AC** (the three suits in [[Burners Adventure Game]]). Some tags take a value — `Class2`, `Class3`, `Far3`, `Far4` — which defaults to **1** when omitted.
+Weapons carry **Class** (Legends penetration vs armor) and **Slots** (Burners inventory and Initiative dice). Shields carry **size** (Legends block comparison) and **Slots**. Armor pieces carry **Class** in Legends terms; in Burners play, read **AC** and **Slots** from the suit tables in [[Burners Equipment]]. Some tags take a value — `Class2`, `Far3`, `Slots2` — which defaults to **1** when omitted.
 
 ---
 
@@ -54,86 +54,86 @@ Weapons are tools of war, designed to slay foes and keep you safe. **Melee** wea
 
 The most commonly available — easy to produce and acceptable for a commoner to carry. Everyone carries a knife; travelers usually carry a staff.
 
-- **Pugilism** `[Class0 Close Unarmed]` — kicks, punches, knees, stomps, and other unarmed attacks.
-- **Knife** `[Class1 Close Short Stabbity Civil]` — common belt knife.
-- **Throwing Knife** `[Class1 Close Short Stabbity Far1]`
-- **Stick or Stone** `[Class1 Short Far1 Primitive]` — sturdy tree branch, rock, etc.
-- **Cane** `[Class1 Short Civil]` — a gentlemanly stout walking stick or cudgel.
-- **Sickle** `[Class1 Short Hooking Tool Fragile]` — for grain.
-- **Hatchet** `[Class1 Short Breaching Tool]` — small, for chopping wood.
-- **Messer / Machete** `[Class2 Medium Cutty]` — long work knife.
-- **Wood Ax** `[Class2 2H Medium Breaching Tool]` — for chopping wood.
-- **Scythe** `[Class2 2H Medium Tool Fragile]` — blade for harvesting wheat.
-- **Spear** `[Class3 2H Medium Far1 Piercing Primitive]` — short thrusting/throwing spear, ~5–6 ft, simple and effective; common in hunting and war.
-- **Staff / Quarterstaff** `[Class3 2H Medium Control-Medium Civil]` — stout staff around nose- or head-height. Common, simple, effective.
-- **Long Staff** `[Class3 2H Long]` — staff about as high as you can reach.
-- **Maul** `[Class4 2H Medium Crushy Primitive]` — huge, heavy club.
+- **Pugilism** `[Class0 Slots0 Close Unarmed]` — kicks, punches, knees, stomps, and other unarmed attacks.
+- **Knife** `[Class1 Slots1 Close Short Stabbity Civil]` — common belt knife.
+- **Throwing Knife** `[Class1 Slots1 Close Short Stabbity Far1]`
+- **Stick or Stone** `[Class1 Slots1 Short Far1 Primitive]` — sturdy tree branch, rock, etc.
+- **Cane** `[Class1 Slots1 Short Civil]` — a gentlemanly stout walking stick or cudgel.
+- **Sickle** `[Class1 Slots1 Short Hooking Tool Fragile]` — for grain.
+- **Hatchet** `[Class1 Slots1 Short Breaching Tool]` — small, for chopping wood.
+- **Messer / Machete** `[Class2 Slots2 Medium Cutty]` — long work knife.
+- **Wood Ax** `[Class2 Slots2 2H Medium Breaching Tool]` — for chopping wood.
+- **Scythe** `[Class2 Slots2 2H Medium Tool Fragile]` — blade for harvesting wheat.
+- **Spear** `[Class3 Slots3 2H Medium Far1 Piercing Primitive]` — short thrusting/throwing spear, ~5–6 ft, simple and effective; common in hunting and war.
+- **Staff / Quarterstaff** `[Class3 Slots3 2H Medium Control-Medium Civil]` — stout staff around nose- or head-height. Common, simple, effective.
+- **Long Staff** `[Class3 Slots3 2H Long]` — staff about as high as you can reach.
+- **Maul** `[Class4 Slots4 2H Medium Crushy Primitive]` — huge, heavy club.
 
 ### Swords and Daggers
 
 Versatile sidearms, particularly excellent at defense — able to parry and deflect most weapons.
 
-- **Pommel** `[Class1 Close]` — counterweight end of a dagger or sword.
-- **Dagger** `[Class2 Close Stabbity]` — military double-edged dagger.
-- **Parrying Dagger** `[Class2 Close Binding Handguard Defensive Stabbity]` — left-handed dagger wielded to accompany a sword.
-- **Rondel** `[Class2 Close Stabbity]` — triangular thrusting war dagger, used to pierce gaps in armor, especially while grappling. Carried by many knights and men-at-arms.
-- **Cutlass** `[Class2 Short Defensive Handguard Cutty]` — short curved cutting sword (machete, hanger, langes messer, dussack).
-- **Short Sword** `[Class2 Short Defensive Piercing Stabbity]` — short straight stabbing sword (katzbalger, cinquedea).
-- **Arming Sword** `[Class2 Medium Binding Defensive Piercing Cutty]` — simple iconic straight sword (viking or knight's sword).
-- **Sidesword** `[Class2 Medium Handguard Binding Defensive Piercing Cutty]` — "the sword by your side," a typical military/civilian sidearm (spada di filo, cavalry sword).
-- **Sabre** `[Class2 Medium Defensive Cutty]` — long curved cutting sword. A thin-bladed scimitar is a sabre; otherwise a falchion.
-- **Rapier** `[Class2 Medium Handguard Binding Defensive Piercing Cutty]` — civilian sword, popular with nobles and duelists in Aquila.
-- **Falchion** `[Class3 Medium Binding Defensive Cutty]` — curved sword with a clipped tip that can bind a foe's weapon (storta, malchus, scimitar).
-- **Longsword** `[Class3 2H Short-Medium Control-Medium Binding Defensive Piercing Cutty]` — bastard sword, kriegsmesser, or Alu "av-kel" sword.
-- **Swiss Saber** `[Class3 2H Medium Binding Handguard Defensive Piercing Cutty]` — a curved longsword with an elaborate handguard.
-- **Greatsword** `[Class4 2H Medium-Long Control-Medium Handguard Binding Defensive Piercing Cutty Secret]` — two-handed sword (spadone, montante, zweihänder). Can attack in any direction.
+- **Pommel** `[Class1 Slots0 Close]` — counterweight end of a dagger or sword.
+- **Dagger** `[Class2 Slots1 Close Stabbity]` — military double-edged dagger.
+- **Parrying Dagger** `[Class2 Slots1 Close Binding Handguard Defensive Stabbity]` — left-handed dagger wielded to accompany a sword.
+- **Rondel** `[Class2 Slots1 Close Stabbity]` — triangular thrusting war dagger, used to pierce gaps in armor, especially while grappling. Carried by many knights and men-at-arms.
+- **Cutlass** `[Class2 Slots2 Short Defensive Handguard Cutty]` — short curved cutting sword (machete, hanger, langes messer, dussack).
+- **Short Sword** `[Class2 Slots2 Short Defensive Piercing Stabbity]` — short straight stabbing sword (katzbalger, cinquedea).
+- **Arming Sword** `[Class2 Slots2 Medium Binding Defensive Piercing Cutty]` — simple iconic straight sword (viking or knight's sword).
+- **Sidesword** `[Class2 Slots2 Medium Handguard Binding Defensive Piercing Cutty]` — "the sword by your side," a typical military/civilian sidearm (spada di filo, cavalry sword).
+- **Sabre** `[Class2 Slots2 Medium Defensive Cutty]` — long curved cutting sword. A thin-bladed scimitar is a sabre; otherwise a falchion.
+- **Rapier** `[Class2 Slots2 Medium Handguard Binding Defensive Piercing Cutty]` — civilian sword, popular with nobles and duelists in Aquila.
+- **Falchion** `[Class3 Slots2 Medium Binding Defensive Cutty]` — curved sword with a clipped tip that can bind a foe's weapon (storta, malchus, scimitar).
+- **Longsword** `[Class3 Slots3 2H Short-Medium Control-Medium Binding Defensive Piercing Cutty]` — bastard sword, kriegsmesser, or Alu "av-kel" sword.
+- **Swiss Saber** `[Class3 Slots3 2H Medium Binding Handguard Defensive Piercing Cutty]` — a curved longsword with an elaborate handguard.
+- **Greatsword** `[Class4 Slots4 2H Medium-Long Control-Medium Handguard Binding Defensive Piercing Cutty Secret]` — two-handed sword (spadone, montante, zweihänder). Can attack in any direction.
 
 ### Military Weapons
 
 Strongly associated with military units; most need training in a military order. Many towns restrict possession within the walls except by official guards — the GM may have guards harass, fine, or confiscate.
 
-- **Shield Punch** `[Class1 Close Binding Defensive]` — uses the boss or rim.
-- **Rifle Stock** `[Class1 2H Short]` — using the heavy rifle stock as a club.
-- **Javelin** `[Class1 Short Far2 Piercing Primitive]` — short throwing spear.
-- **Small Ax** `[Class2 Close Short Binding Breaching Hooking Far1]` — war hatchet or tomahawk, thin head and long handle.
-- **Rifle Bayonet** `[Class2 2H Medium]` — spear point on the barrel of a rifle.
-- **Khopesh** `[Class2 Short Medium Binding Hooking]` — sickle-shaped sword-ax, ancient and still used by some Eldar.
-- **Mace** `[Class3 Short Crushy]` — flanged/beaked/spiked club for crushing armored foes; needs swinging room. Includes short war hammer, horseman's hammer, morningstar.
-- **Horseman's Ax** `[Class3 Short Breaching Hooking Crushy]` — medium ax with a rear spike for penetrating armor.
-- **Spear** `[Class3 2H Medium Far1 Piercing Primitive]` — short thrusting/throwing spear, ~5–6 ft.
-- **Long Spear** `[Class3 2H Medium Long Defensive Piercing]` — long thrusting/cutting spear or glaive, ~8–10 ft.
-- **Pike** `[Class3 2H Long Piercing]` — extremely long spear (~15–20 ft) for mass infantry; ineffective in individual combat except a duel (range listed "Long").
-- **Battle Ax** `[Class4 2H Medium Breaching Hooking]` — heavy two-handed war axe, handle shorter than a polearm.
-- **Mangual Flail** `[Class4 2H Medium Long Hooking Control]` — large multi-headed military flail. Use the high (Head) guard to avoid hitting yourself.
-- **Pick** `[Class4 2H Medium Hooking Piercing]` — large footman's pick; arced head can strike over shields.
-- **Ranseur** `[Class4 2H Long Binding Defensive]` — popular early polearm with a trident head (roncone, ronka); side prongs bind and trap weapons/shields. Spetum to earlier Eldar; some fold, some (brandistock, "feather staff") have hidden spring prongs.
-- **Glaive** `[Class4 2H Long Cutty Hooking]` — polearm with a large single-edge blade, usually a back hook, no spear point (fauchard to earlier Eldar).
-- **Guisarme** `[Class4 2H Long Binding Hooking]` — polearm with a concave scythe-like blade, usually a thrusting spike and pulling prongs (bill, bill hook, scorpion).
-- **Partisan** `[Class4 2H Medium Long Cutty Binding Defensive]` — elegant polearm with a sword-like guarded head allowing a shorter grip.
-- **Poleaxe** `[Class5 2H Medium Control-Short Hooking Defensive]` — the predominant knightly polearm for armored combat: short stout staff with axe, hammer, and spike (lochaber ax, bec de corbin).
-- **Long Axe** `[Class5 2H Medium Long]` — a very long battle axe.
-- **Halberd** `[Class5 2H Medium Long Binding Hooking Defensive]` — polearm with thrusting spike, cutting ax, and pulling hooks (bardiche, voulge).
+- **Shield Punch** `[Class1 Slots0 Close Binding Defensive]` — uses the boss or rim.
+- **Rifle Stock** `[Class1 Slots1 2H Short]` — using the heavy rifle stock as a club.
+- **Javelin** `[Class1 Slots1 Short Far2 Piercing Primitive]` — short throwing spear.
+- **Small Ax** `[Class2 Slots2 Close Short Binding Breaching Hooking Far1]` — war hatchet or tomahawk, thin head and long handle.
+- **Rifle Bayonet** `[Class2 Slots2 2H Medium]` — spear point on the barrel of a rifle.
+- **Khopesh** `[Class2 Slots2 Short Medium Binding Hooking]` — sickle-shaped sword-ax, ancient and still used by some Eldar.
+- **Mace** `[Class3 Slots2 Short Crushy]` — flanged/beaked/spiked club for crushing armored foes; needs swinging room. Includes short war hammer, horseman's hammer, morningstar.
+- **Horseman's Ax** `[Class3 Slots2 Short Breaching Hooking Crushy]` — medium ax with a rear spike for penetrating armor.
+- **Spear** `[Class3 Slots3 2H Medium Far1 Piercing Primitive]` — short thrusting/throwing spear, ~5–6 ft.
+- **Long Spear** `[Class3 Slots3 2H Medium Long Defensive Piercing]` — long thrusting/cutting spear or glaive, ~8–10 ft.
+- **Pike** `[Class3 Slots3 2H Long Piercing]` — extremely long spear (~15–20 ft) for mass infantry; ineffective in individual combat except a duel (range listed "Long").
+- **Battle Ax** `[Class4 Slots4 2H Medium Breaching Hooking]` — heavy two-handed war axe, handle shorter than a polearm.
+- **Mangual Flail** `[Class4 Slots4 2H Medium Long Hooking Control]` — large multi-headed military flail. Use the high (Head) guard to avoid hitting yourself.
+- **Pick** `[Class4 Slots4 2H Medium Hooking Piercing]` — large footman's pick; arced head can strike over shields.
+- **Ranseur** `[Class4 Slots4 2H Long Binding Defensive]` — popular early polearm with a trident head (roncone, ronka); side prongs bind and trap weapons/shields. Spetum to earlier Eldar; some fold, some (brandistock, "feather staff") have hidden spring prongs.
+- **Glaive** `[Class4 Slots4 2H Long Cutty Hooking]` — polearm with a large single-edge blade, usually a back hook, no spear point (fauchard to earlier Eldar).
+- **Guisarme** `[Class4 Slots4 2H Long Binding Hooking]` — polearm with a concave scythe-like blade, usually a thrusting spike and pulling prongs (bill, bill hook, scorpion).
+- **Partisan** `[Class4 Slots4 2H Medium Long Cutty Binding Defensive]` — elegant polearm with a sword-like guarded head allowing a shorter grip.
+- **Poleaxe** `[Class5 Slots5 2H Medium Control-Short Hooking Defensive]` — the predominant knightly polearm for armored combat: short stout staff with axe, hammer, and spike (lochaber ax, bec de corbin).
+- **Long Axe** `[Class5 Slots5 2H Medium Long]` — a very long battle axe.
+- **Halberd** `[Class5 Slots5 2H Medium Long Binding Hooking Defensive]` — polearm with thrusting spike, cutting ax, and pulling hooks (bardiche, voulge).
 
 ### Projectile Weapons
 
 Shoot ammunition. The three main types are bows, crossbows, and guns. Loading/reloading costs Maneuvers equal to the `Reload` tag.
 
-- **Primitive Bow** `[Class1 2H Far2 Reload1 Primitive Civil]` — self-made/primitive shortbow, all-wood arrows, sharpened wood tips, no fletching.
-- **Hunting Sling** `[Class1 2H Far4 Reload3 Primitive Civil]` — common light sling, stones or clay; years of practice.
-- **Hunting Bow** `[Class2 2H Far4 Reload1 Civil]` — most common short bow. Broadheads usual; round heads (Class1) for birds/small game.
-- **War Sling** `[Class2 2H Far3 Reload4 Secret]` — larger, more powerful war sling, cast-lead aerodynamic shot.
-- **Warbow** `[Class3 2H Far3 Accurate Reload1 Secret]` — heavy-draw short bow, armor-piercing bodkins; years of training/conditioning.
-- **Hunting Crossbow** `[Class3 2H Far4 Accurate Reload3]` — easy to shoot.
-- **Longbow** `[Class3 Far5 Accurate Reload1 Secret]` — large self bow, taller than the archer; great power, range, accuracy; slower than hunting bows.
-- **Heavy Longbow** `[Class4 Far5 Accurate Reload2 Secret]` — heavy-draw longbow, military arrows (50% heavier); years of conditioning.
-- **Heavy Crossbow** `[Class5 Far4 Accurate Reload7]` — military crossbow, easy to learn, hard-hitting, cumbersome and slow to reload.
-- **Flintlock Pistol** `[Class5 Far4 Accurate Reload7]` — basic Dwur pistol.
-- **Doubloon** `[Class5 Far2 Reload7 (each)]` — double-shot flintlock pistol/blunderbuss, often nautical/pirate themed.
-- **Shotgonne** `[Class5 Far2 Reload9 (each)]` — double-barreled hand cannon for "intimate encounters"; each barrel loaded, primed, fired independently.
-- **Siege Arbalest** `[Class6 Far5 Accurate Reload12 Secret]` — very heavy, powerful crossbow; extremely slow to reload.
-- **Arquebus** `[Class6 Far4 Accurate Reload9 Secret]` — newer, more accurate hand cannon with a true rifle shape and matchlock.
-- **Flintlock Rifle** `[Class6 Far5 Accurate Reload8 Secret]` — a rifle using a flintlock.
-- **Handgonne** `[Class7 Far3 Reload12 Secret]` — hand cannon: heavy barrel, handle, and socket for a stock or staff.
+- **Primitive Bow** `[Class1 Slots1 2H Far2 Reload1 Primitive Civil]` — self-made/primitive shortbow, all-wood arrows, sharpened wood tips, no fletching.
+- **Hunting Sling** `[Class1 Slots1 2H Far4 Reload3 Primitive Civil]` — common light sling, stones or clay; years of practice.
+- **Hunting Bow** `[Class2 Slots2 2H Far4 Reload1 Civil]` — most common short bow. Broadheads usual; round heads (Class1) for birds/small game.
+- **War Sling** `[Class2 Slots2 2H Far3 Reload4 Secret]` — larger, more powerful war sling, cast-lead aerodynamic shot.
+- **Warbow** `[Class3 Slots3 2H Far3 Accurate Reload1 Secret]` — heavy-draw short bow, armor-piercing bodkins; years of training/conditioning.
+- **Hunting Crossbow** `[Class3 Slots3 2H Far4 Accurate Reload3]` — easy to shoot.
+- **Longbow** `[Class3 Slots3 Far5 Accurate Reload1 Secret]` — large self bow, taller than the archer; great power, range, accuracy; slower than hunting bows.
+- **Heavy Longbow** `[Class4 Slots4 Far5 Accurate Reload2 Secret]` — heavy-draw longbow, military arrows (50% heavier); years of conditioning.
+- **Heavy Crossbow** `[Class5 Slots4 Far4 Accurate Reload7]` — military crossbow, easy to learn, hard-hitting, cumbersome and slow to reload.
+- **Flintlock Pistol** `[Class5 Slots2 Far4 Accurate Reload7]` — basic Dwur pistol.
+- **Doubloon** `[Class5 Slots2 Far2 Reload7 (each)]` — double-shot flintlock pistol/blunderbuss, often nautical/pirate themed.
+- **Shotgonne** `[Class5 Slots3 Far2 Reload9 (each)]` — double-barreled hand cannon for "intimate encounters"; each barrel loaded, primed, fired independently.
+- **Siege Arbalest** `[Class6 Slots5 Far5 Accurate Reload12 Secret]` — very heavy, powerful crossbow; extremely slow to reload.
+- **Arquebus** `[Class6 Slots4 Far4 Accurate Reload9 Secret]` — newer, more accurate hand cannon with a true rifle shape and matchlock.
+- **Flintlock Rifle** `[Class6 Slots4 Far5 Accurate Reload8 Secret]` — a rifle using a flintlock.
+- **Handgonne** `[Class7 Slots5 Far3 Reload12 Secret]` — hand cannon: heavy barrel, handle, and socket for a stock or staff.
 
 **Bows vs Crossbows.** Bows need more training (warbows are a specialist profession), are simpler to craft, need strength/conditioning, are lighter and easier to aim/reload on the move, and shoot faster. Crossbows need no strength to hold ready and are better for fielding armies (less training; troops fight even when weakened). A bow is "ready" only with an arrow nocked — drawing/releasing is part of the attack, never held drawn long. Crossbows aren't carried loaded (the bolt falls out if tilted).
 
@@ -141,7 +141,7 @@ Shoot ammunition. The three main types are bows, crossbows, and guns. Loading/re
 
 Weapons carry tags for their characteristics; many describe a way to upgrade in specific circumstances. Weapons fall into **main weapons** (spears, axes) and **sidearms** (swords, daggers); larger weapons have higher Class and more tags.
 
-- **Weapon Class** — the weapon's penetration vs contemporary armor. (Legends: compare WC vs AC, ±1 damage. Wåndyr: WC adds to the attack.)
+- **Weapon Class** — the weapon's penetration vs contemporary armor. (Legends: compare WC vs AC, ±1 damage.) **Slots** — inventory space and Initiative dice in Burners (see [[Burners Equipment]]).
 - **Military Weapons** — Class3+ are "military weapons," not usually permitted in civilized areas unless they have the `Civil` tag.
 - **2H (Two-Handed)** — optimized for two hands; longer and heavier. Used one-handed: WC −1 and no asset-tag benefits.
 
@@ -194,20 +194,20 @@ Better armor is dearer, not heavier — protection tracks expense and slots, not
 
 ## Shields
 
-Held armor, raised against a single blow — a character without strong armor can pick one up and instantly cover a line of attack. A shield's **size** is what you add to one defend when you take the **Block** maneuver, once a round; a Veteran may instead Block to cover an ally in their front facing. It guards only the blow you raise it against, so a second foe that round comes in unshielded — which is how numbers beat a shield-man. A legendary shield adds its third die and can ward a breath. Bigger shields defend more but fill more slots (prices and slots in [[Burners Equipment]]).
+Held armor, raised against a single blow — a character without strong armor can pick one up and instantly cover a line of attack. A shield's **size** (Legends) is what you add to one defend when you take the **Block** maneuver, once a round; a Veteran may instead Block to cover an ally in their front facing. It guards only the blow you raise it against, so a second foe that round comes in unshielded — which is how numbers beat a shield-man. A legendary shield adds its third die and can ward a breath. Bigger shields defend more (higher **size**) but fill more **Slots** in Burners (prices in [[Burners Equipment]]).
 
 ### Shield Types
 
-- **Buckler** `[size 2]` — small fist-gripped companion shield (round *brocchiero* or square *targa*). Cheap, common, the hand still free to grab.
-- **Target** `[size 2]` — small round shield strapped to the arm (Scottish target, smaller Viking shield).
-- **Round Shield** `[size 3]` — light wooden round shield (Viking shield). Cheap, common.
-- **Heater** `[size 3]` — smaller kite shield for mounted or foot combat.
-- **Rotella** `[size 4]` — strapped metal round shield held at arm's length.
-- **Large Round** `[size 4]` — large wooden round shield.
-- **Kite** `[size 4]` — reverse-teardrop horseman's shield, guarding the flank and leg.
-- **Aspis** `[size 5]` — huge deeply-dished wooden shield.
-- **Tower** `[size 5]` — tall rectangular shield.
-- **Pavise** `[size 5, standing cover]` — a semi-portable wall for siege crossbowmen; planted as static cover (an Action to move and re-set), it frees the hands.
+- **Buckler** `[size 2 Slots1]` — small fist-gripped companion shield (round *brocchiero* or square *targa*). Cheap, common, the hand still free to grab.
+- **Target** `[size 2 Slots1]` — small round shield strapped to the arm (Scottish target, smaller Viking shield).
+- **Round Shield** `[size 3 Slots2]` — light wooden round shield (Viking shield). Cheap, common.
+- **Heater** `[size 3 Slots2]` — smaller kite shield for mounted or foot combat.
+- **Rotella** `[size 4 Slots3]` — strapped metal round shield held at arm's length.
+- **Large Round** `[size 4 Slots3]` — large wooden round shield.
+- **Kite** `[size 4 Slots4]` — reverse-teardrop horseman's shield, guarding the flank and leg.
+- **Aspis** `[size 5 Slots5]` — huge deeply-dished wooden shield.
+- **Tower** `[size 5 Slots5]` — tall rectangular shield.
+- **Pavise** `[size 5 Slots5, standing cover]` — a semi-portable wall for siege crossbowmen; planted as static cover (an Action to move and re-set), it frees the hands.
 
 *How a shield is held is flavor, not a separate rule: center-gripped shields move quickly and drop easily (a hand free to grab), while strapped shields ride the arm — steadier and stronger, slower to ready. Either way a shield only stops the blow you bring it to bear on; a foe you do not see gets past it.*
 
@@ -250,13 +250,13 @@ The Eldar of aeons past made many things — dark and beautiful, bright and dead
 
 ### Alu Assets
 
-- **Alu Dart Knives (as-en)** `[Class1 Close Short Stabbity Far1]` — the Alu warriors' dart-like throwing knives.
-- **Alu Sickle Sword (av-tlen)** `[Class2 Medium Binding Defensive Hooking Cutty]` — deeply curved sickle sword that hooks and traps limbs; also clears jungle/bladegrass.
-- **Alu Kel Sword (av-kel)** `[Class3 2H Medium Binding Defensive Cutty]` — the Alu warriors' longsword.
-- **Alu Bladestaff** `[Spear Class3 2H Medium Far1]` — ornate staff with a hidden blade. Variants hide a spring-dart knife, whip, or smoke egg.
-- **Alu Bladegrass Cloak** `[Class2 Soft Cloak Partial]` — fluttering cloak of silken bladegrass strands.
-- **Alu Bladegrass Cuirass** `[Class3 Body-Armor]` — thick bladegrass over torso and head, including a war mask.
-- **Alu Smoke Egg** `[Class0 Far1]` — egg/thin-metal capsule of smoke, orichalcum dust, or chili powder; thrown or crushed for a person-sized cloud.
+- **Alu Dart Knives (as-en)** `[Class1 Slots1 Close Short Stabbity Far1]` — the Alu warriors' dart-like throwing knives.
+- **Alu Sickle Sword (av-tlen)** `[Class2 Slots2 Medium Binding Defensive Hooking Cutty]` — deeply curved sickle sword that hooks and traps limbs; also clears jungle/bladegrass.
+- **Alu Kel Sword (av-kel)** `[Class3 Slots3 2H Medium Binding Defensive Cutty]` — the Alu warriors' longsword.
+- **Alu Bladestaff** `[Spear Class3 Slots3 2H Medium Far1]` — ornate staff with a hidden blade. Variants hide a spring-dart knife, whip, or smoke egg.
+- **Alu Bladegrass Cloak** `[Class2 Slots1 Soft Cloak Partial]` — fluttering cloak of silken bladegrass strands.
+- **Alu Bladegrass Cuirass** `[Class3 Slots5 Body-Armor]` — thick bladegrass over torso and head, including a war mask.
+- **Alu Smoke Egg** `[Class0 Slots1 Far1]` — egg/thin-metal capsule of smoke, orichalcum dust, or chili powder; thrown or crushed for a person-sized cloud.
 
 ### Avathar Assets
 
@@ -271,12 +271,12 @@ Avathars have specialized potion-delivery instruments, requiring training from t
 
 Relics of the Drisi empires that ruled aeons ago — found in any land or underworld.
 
-- **Adamant Scorpion** `[Class3 Long]` — long shadow-steel polearm with incredible cutting properties.
-- **Orichalcum Serpent Ring** `[Class0 Gauntlet]` — brassy Eldar-steel ring that absorbs magic; mages avoid it unless they don't cast with that hand.
-- **Orichalcum Scale Armor** `[Class2 Half-Armor]` — small brassy Eldar-steel plates laced to a cloth/leather backing.
-- **Orichalcum Buckler** `[Class3 Small Centergrip]` — brassy Eldar steel that absorbs magic.
-- **Orichalcum Breastplate** `[Class3 Body-Armor]` — brassy Eldar-steel front breastplate over clothing.
-- **Vakaar Falchion** `[Class3 Medium Binding Defensive Cutty]` — evil wavy-bladed sword of cracked dark-purple/green steel; wounds don't heal naturally.
+- **Adamant Scorpion** `[Class3 Slots4 Long]` — long shadow-steel polearm with incredible cutting properties.
+- **Orichalcum Serpent Ring** `[Class0 Slots0 Gauntlet]` — brassy Eldar-steel ring that absorbs magic; mages avoid it unless they don't cast with that hand.
+- **Orichalcum Scale Armor** `[Class2 Slots4 Half-Armor]` — small brassy Eldar-steel plates laced to a cloth/leather backing.
+- **Orichalcum Buckler** `[Class3 Slots1 Small Centergrip]` — brassy Eldar steel that absorbs magic.
+- **Orichalcum Breastplate** `[Class3 Slots4 Body-Armor]` — brassy Eldar-steel front breastplate over clothing.
+- **Vakaar Falchion** `[Class3 Slots2 Medium Binding Defensive Cutty]` — evil wavy-bladed sword of cracked dark-purple/green steel; wounds don't heal naturally.
 
 ### Draconecroalchemy Assets
 
@@ -291,21 +291,21 @@ Some Baal-Mot, Drisi, and Black Wizards tap the vast power of dead dragons — b
 
 **Thaumatagonnes ("Runelocks")** are the Dwur's famous firearms and cannons — heavy fantastically-shaped barrels covered in Thaumaturgical runes that strengthen them for more powerful alchemical powder. Some bear further enchantments the Alglond firearms can't match. A rune on the striker magically resets it when spoken — but a Runelock can only be reloaded with the **Runelock** Secret (Dwur only), and the Themes *Dwur* and *Thaumaturge* each reduce Reload by 1.
 
-- **Runelock Dwuringer Pistol** `[Class3 Far2 Accurate Reload6 Secret]` — single-shot holdout pistol that fits in a belt buckle or boot.
-- **Runelock Revolver** `[Class4 Far3 Accurate Reload5 Secret]` — six shots; reload cost covers 1–6 cartridges.
-- **Runelock Pistol** `[Class5 Far3 Accurate Reload5 Secret]` — single shot.
-- **Runelock Holy Water Sprinkler** `[Class4 2H Far Reload7 Secret]` — "hand-cannon-mace-pistol" with four pistols in the mace head; each barrel loaded and fired independently.
-- **Runelock Doppelpistol** `[Class5 Far2 Accurate Reload5 Secret]` — two barrels, each loaded and fired independently.
-- **Runelock Dungeon Sweeper** `[Class6 2H Far3 Reload5 Secret]` — double-barreled shotgun for up-close combat; each barrel independent.
-- **Thaumasweeper** `[Class6 2H Far3 Reload6 Secret]` — Dwur Thaumaturgical "dungeon sweeper" cast in alchemist's iron, rune-etched.
-- **Runelock Carbine** `[Class7 2H Far4 Reload5 Secret]` — light rifle.
-- **Runelock Longrifle** `[Class8 2H Far5 Heavy Accurate Reload6 Secret]` — long-barreled heavy rifle.
-- **Thaumagonne** `[Class7 2H Far4 Reload10 Secret]` — Dwur Thaumaturgical handgonne, rune-etched alchemist's iron.
-- **Thaumacannon** `[Class8 Crew Far4 Reload12 Secret]` — Dwur Thaumaturgical cannon (heavy ~20# barrel on a stock/staff/frame), barrels cast as dragons/rockets/mountains. An alchemist loads fire, stone, shot, or explosive/incendiary concoctions, charging it with one specific spell (e.g. fireball, lightning bolt) you must describe.
+- **Runelock Dwuringer Pistol** `[Class3 Slots2 Far2 Accurate Reload6 Secret]` — single-shot holdout pistol that fits in a belt buckle or boot.
+- **Runelock Revolver** `[Class4 Slots3 Far3 Accurate Reload5 Secret]` — six shots; reload cost covers 1–6 cartridges.
+- **Runelock Pistol** `[Class5 Slots2 Far3 Accurate Reload5 Secret]` — single shot.
+- **Runelock Holy Water Sprinkler** `[Class4 Slots4 2H Far Reload7 Secret]` — "hand-cannon-mace-pistol" with four pistols in the mace head; each barrel loaded and fired independently.
+- **Runelock Doppelpistol** `[Class5 Slots3 Far2 Accurate Reload5 Secret]` — two barrels, each loaded and fired independently.
+- **Runelock Dungeon Sweeper** `[Class6 Slots4 2H Far3 Reload5 Secret]` — double-barreled shotgun for up-close combat; each barrel independent.
+- **Thaumasweeper** `[Class6 Slots4 2H Far3 Reload6 Secret]` — Dwur Thaumaturgical "dungeon sweeper" cast in alchemist's iron, rune-etched.
+- **Runelock Carbine** `[Class7 Slots4 2H Far4 Reload5 Secret]` — light rifle.
+- **Runelock Longrifle** `[Class8 Slots5 2H Far5 Heavy Accurate Reload6 Secret]` — long-barreled heavy rifle.
+- **Thaumagonne** `[Class7 Slots5 2H Far4 Reload10 Secret]` — Dwur Thaumaturgical handgonne, rune-etched alchemist's iron.
+- **Thaumacannon** `[Class8 Slots6 Crew Far4 Reload12 Secret]` — Dwur Thaumaturgical cannon (heavy ~20# barrel on a stock/staff/frame), barrels cast as dragons/rockets/mountains. An alchemist loads fire, stone, shot, or explosive/incendiary concoctions, charging it with one specific spell (e.g. fireball, lightning bolt) you must describe.
 
 ### Ithilrhi (Elven) Assets
 
-- **Ithilrhi (Elven) Chainmail** `[Class3 3Qtr-Armor Custom]` — a suit of tiny interlocking rings. If custom-made for the wearer it does **not** require a gambeson (normally needed for chainmail) and can be worn under clothing.
+- **Ithilrhi (Elven) Chainmail** `[Class3 Slots5 3Qtr-Armor Custom]` — a suit of tiny interlocking rings. If custom-made for the wearer it does **not** require a gambeson (normally needed for chainmail) and can be worn under clothing.
 
 ### Magic-User Assets
 

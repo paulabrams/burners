@@ -24,7 +24,7 @@ Eight magic schools, each with up to 36 spells ranging from 1st to 6th level. So
 
 ## How Magic Works
 
-Magic is prepared, not spontaneous: a Sorcerer loads workings into **Arcana** at a **muster** and looses them one shot each in the field. It is utility first — most spells solve problems (light, movement, control, ward); when one deals HP loss, that damage scales with the **level it was prepared at**, not with Sorcerie or the cast. Magic plugs into the core at two points: the Sorcerer title (Sorcerie 1) switches casting on, and a **combat cast is one Action that spends dice from your Fuel equal to the working's level**. This chapter is the full rules; the catalog follows below.
+Magic is prepared, not spontaneous: a Sorcerer **binds** workings into **Arcana** (an hour of study with spellbook in hand) and releases them in the field. A cast does not empty the focus — the spell stays **active** for its duration, then becomes **used** until a night's sleep clears it. It is utility first — most spells solve problems (light, movement, control, ward); hostile magic lands through the same **Defend** economy as steel. Magic plugs into the core at two points: the Sorcerer title (Sorcerie 1) switches casting on, and a **combat cast is one Action that spends dice from your Fuel equal to the working's level** and rolls them for the **cast total**. This chapter is the full rules; the catalog follows below.
 
 ### The Sorcerer Gate
 
@@ -40,11 +40,11 @@ To work magic you must be a **Sorcerer — Sorcerie 1 or higher.** Below that yo
 
 ### Spells meshing with combat
 
-Each entry in the catalog below has a name, level, range, duration, and effect — **run it as written** unless this chapter, the spell list, or the Guide says otherwise. Where a spell's effect must mesh with combat:
+Each entry in the catalog below has a name, level, and effect — **run it as written** unless this chapter, the spell list, or the Guide says otherwise. Where a spell's effect must mesh with combat:
 
 - **HP and damage** that target a creature come off **HP** (armor doesn't help against pure magic unless the fiction makes the effect physical — conjured blade, stone shards — then AC soaks like any hit).
-- **Saving throws** become the target **defending with dice** (see *Defending against a spell* in [[Burners Adventure Game]]) or a **`2d6 + relevant Approach`** contest where the Guide needs one out of combat; many OSE saves map to **Sorcerie** (resist magic) or **Sword** (dodge a blast).
-- **Control** effects use the same contest; *mind-immune* and *mind-resistant* targets still apply.
+- **Hostile magic** is opposed with **Defend** — committing Fuel dice (in combat) or **`2d6 +` an Approach** (out of combat) and comparing the total to the caster's **cast total** (see *Defending against a spell* below and in [[Burners Adventure Game]]). This is not a Save: you rarely avoid the working entirely without spending dice or rolling well. The player chooses whichever Approach fits the fiction; a spell may suggest one (e.g. *Defend: Sword*).
+- **Control** (charm, sleep, fear, command…) applies **net pressure** to HP — in combat and out of it. At **0 HP or below**: full control. Still above 0 HP: partial control. Fully defended: no control. *Mind-immune* and *mind-resistant* targets still apply.
 
 ### Arcana
 
@@ -73,13 +73,23 @@ An **Arcana** is an item — your portable engine of prepared magic. Fighters ha
 
 A starting Sorcerer's two foci come with their apprenticeship; every focus after — a replacement, a spare, a higher Level — is paid at these rates, and they are the mage's great gold sink.
 
-**The Binding.** Loading a spell into an Arcana **binds** it — a tie between sorcerer, focus, and spell that holds only while that focus stays in one of your **item slots**.
+**The Binding.** Loading a spell into an Arcana **binds** it — a tie between sorcerer, focus, and spell that holds only while that focus stays in one of your **item slots**. Each spell on a focus is in one of four states:
 
-- **Unequip and it snaps.** Move a focus to Baggage, hand it off, drop it, or lose it, and its binding breaks: the bound spell is gone, as if spent, until you re-bind at a muster. An Arcana in Baggage does nothing.
+| State | Meaning |
+| --- | --- |
+| **Bound** | Ready to cast. |
+| **Active** | Cast; the working runs for its duration. |
+| **Used** | Duration over (or instant effect resolved); the slot is spent. |
+| **Empty** | No spell in the slot. |
+
+- **Bind or replace** — with your spellbook in hand, clear a **bound** slot or load a fresh binding on an Arcana in **one hour** (rest and study). You cannot bind into a slot that is **active** or **used**.
+- **Cast** — release a **bound** spell through its Arcana; the slot becomes **active** for the working's duration, then **used**. Instant workings become **used** as soon as they resolve.
+- **Sleep** — after **8 hours** of sleep, every **used** slot on your Arcana clears to **empty**. **Active** slots are unaffected; finish or dispel those workings as usual.
+- **Unequip and it snaps.** Move a focus to Baggage, hand it off, drop it, or lose it, and its binding breaks: an **active** working collapses; every slot on that focus becomes **used**. Re-equip and you must bind afresh (one hour per Arcana, spellbook present). An Arcana in Baggage does nothing.
 - **No stockpiling foci.** You cannot carry a quiver of pre-loaded wands and swap them mid-fight; your ready magic is only what sits in your equipped slots.
-- **Disarm the mage.** This cuts both ways — snatch an enemy sorcerer's wand, break the staff, tear off the runed robe, and their bindings snap. A sorcerer parted from every focus is as harmless as a layman until they recover one and reach a muster.
+- **Disarm the mage.** This cuts both ways — snatch an enemy sorcerer's wand, break the staff, tear off the runed robe, and their bindings snap as above. A sorcerer parted from every focus is as harmless as a layman until they recover one and bind again.
 - **Cast through the Arcana** that binds the spell — that focus must be equipped when you release the working.
-- **Several Arcana** may be carried if you have the slots; each holds its own bound spells, each within its Level.
+- **Several Arcana** may be carried if you have the slots; each holds its own spells, each within its Level.
 - **Trait match (optional):** the Guide may require a relevant **Sorcerie Trait** to attune a given Arcana. Default: if you can equip it, you can use it.
 
 **Legendary Arcana.** A legendary focus is still an Arcana (with its own Level, often a high one). Once its **true name** is discovered and you are a Sorcerer, it grants the **third die** on casts of spells bound in it (see *Invocations, Relics, and Sentient Items* in [[Burners Adventure Game]]) — power is wild, with Sweet/Spicy tails. About 1 in 6 speaks.
@@ -103,7 +113,7 @@ A Sorcerer's magic lives in **books**, not in Signatures, and learning a spell c
 - **Copying a known spell** — **25 gp × its level** in reagent ink and **a day × its level** to scribe.
 - **A full duplicate** — the blank book plus that ink-and-time for every spell in it; a working library is weeks of scribing and a heavy purse.
 
-Any of your books, carried at a muster, lets you bind the spells written in it — a copy is as good as the original.
+Any of your books, present when you bind, lets you load the spells written in it — a copy is as good as the original.
 
 ### Ritual Casting
 
@@ -115,64 +125,51 @@ A known spell can be worked straight from your book, with no Arcana — but slow
 
 **Knowledge is the exception.** Whatever a spell puts in your *mind* stays — *Detect Magic*'s auras, a divination's answer, anything the Guide judges is now simply **known**. A held ward, a light kept burning, a scrying eye over a still pool, a working you exploit in the moment: these are the rituals that pay.
 
-### Muster — Binding Spells
+### Binding Spells
 
-**Every muster** (full HP recovery — field camp or safe town) the bindings reset: clear every Arcana and **bind afresh**, spellbooks present. Binding is the classic memorization step: OSE ties it to a night's rest and a spell of study — exactly what a muster stands for — which is why you re-bind only at a proper muster, never at a quick mid-delve halt (no separate per-level clock).
+With your spellbook in hand, spend **one hour** of rest and study to bind or rebind one Arcana: clear any **bound** slots, then load **known** spells up to that focus's **Level** budget. Slots that are **active** or **used** cannot be changed until the working ends or you sleep off the **used** state.
 
-- With your book(s) in hand, bind any **known** spell — up to each Arcana's **Level** — into your foci.
-- **No book, no binding.** Leave a book in town and its spells cannot be bound this muster.
-- Binding costs **no HP and no roll** — just choose, and write each focus's load on your sheet. It holds only while that focus stays equipped.
+- **No book, no binding.** Leave a book in town and you cannot load new spells from it until it is with you.
+- Binding costs **no HP and no roll** — choose the load and mark each slot **bound** on your sheet. It holds only while that focus stays equipped.
 
 ### Casting
 
-**No spontaneous magic.** You cannot cast a spell that is not currently bound to an equipped Arcana, and you cannot pay HP to cast from memory. If it isn't on the focus, it isn't available until the next muster.
+**No spontaneous magic.** You cannot cast a spell that is not currently **bound** on an equipped Arcana, and you cannot pay HP to cast from memory. If it isn't bound and ready, it isn't available until you bind it (one hour, spellbook in hand).
 
 **The cast.**
 
 1. **Say what you do** — name the spell and its effect in the fiction. If it is clever, feasible, and backed by who you are, it may simply work (Step 1). If it is feasible but risky, pay the Cost (Step 2).
 2. **Pay the Cost.**
-   - **In combat**, casting is one **Action**: commit dice from your **Fuel equal to the working's level** (a level-3 spell spends 3 dice). Those dice are the *price* of the working, not its damage — a spell's effect follows its entry, and any HP loss follows the damage rubric below (by level), not the faces you spent. A **6** is a **Spark**, as with any Action.
+   - **In combat**, casting is one **Action**: commit dice from your **Fuel equal to the working's level** (a level-3 spell spends 3 dice) and **roll them**. The **cast total** is the sum of those faces — the force behind the working. A **6** is a **Spark**, as with any Action.
    - **Out of combat** (ritual, exploration, social magic), roll **`2d6 + Sorcerie`** against the Guide's Cost — **+1 die if you cast through a legendary Arcana**.
-3. **Spend the spell.** A cast **removes** that spell from the Arcana until the next muster — forget-on-cast. Cross it off.
+3. **Mark the slot active.** The spell stays on the Arcana: the slot becomes **active** for its duration, then **used** when the working ends. Instant effects become **used** as soon as they resolve. You cannot cast the same bound spell again from that slot while it is **active** or **used**.
 
-**When a cast Sparks.** Casting spends Fuel dice equal to the working's level and no more — that cost never changes. But those are Fuel dice like any others, spent at their faces — and a **6** among them is a **Spark**. With no Spark the spell resolves exactly as written. With one, you may spend it on the *working itself* instead of the usual second action — another target caught, **+1d6** to a single-target blast this cast only, a beat longer on a duration, a ward pierced, a control that grabs a rung higher (Guide's call on what fits). A bigger working spends more dice, so it Sparks more often — big workings burn brighter. The damage floor still follows L; the Spark is gravy, never the baseline. (Multiple Sparks on a big cast each buy a rider or a second action.)
+**When a cast Sparks.** Casting spends Fuel dice equal to the working's level and no more — that cost never changes. But those are Fuel dice like any others, spent at their faces — and a **6** among them is a **Spark**. With no Spark the spell resolves exactly as written. With one, you may spend it on the *working itself* instead of the usual second action — another target caught, a beat longer on a duration, a ward pierced, a control that grabs a rung higher (Guide's call on what fits). A bigger working spends more dice, so it Sparks more often — big workings burn brighter. (Multiple Sparks on a big cast each buy a rider or a second action.)
 
-The caster is exposed like anyone taking an Action; struck mid-cast, you defend with **Sword** like anyone. A dodgeable spell coming *at* you is handled under *Defending against a spell* in [[Burners Adventure Game]].
+The caster is exposed like anyone taking an Action; struck mid-cast, you defend with **Sword** like anyone. A hostile working coming *at* you is handled under *Defending against a spell* below and in [[Burners Adventure Game]].
 
-**Double Spicy** on a combat cast is a fumble — the working goes wrong (the Guide's worst fitting outcome: singe an ally, alert the ward, strip the spell without effect and still forget it).
+**Double Spicy** on a combat cast is a fumble — the working goes wrong (the Guide's worst fitting outcome: singe an ally, alert the ward, the slot goes **used** with no effect).
 
-#### Spell damage rubric
+### Defending against a spell
 
-**Magic is utility first.** When a spell **does** deal HP loss, use its **prep level (L)** from the catalog below — not your Sorcerie, not the dice you spent to cast.
+When a spell targets you with harm, control, or another effect you can oppose, the caster's **cast total** is the sum of the Fuel dice spent to cast (L dice for a level-L working).
 
-| What scales | With |
-| --- | --- |
-| **Utility** (duration, area, targets, Sorcerie × 10′…) | **Sorcerie** in the effect text |
-| **Direct HP loss** | **Spell level L** only |
-| **Whether it lands** | the target's **defense** (dice), not a cast roll |
+You may **Defend** as against any blow: commit Fuel dice, roll them, and sum the faces. Those dice are spent for the fight. Your **defense total** opposes the cast total. Choose whichever Approach fits the fiction; the spell may suggest one (*Defend: Sword*, *Defend: Heart*, and so on).
 
-**Compare to steel.** A weapon attack commits dice from Fuel (one to three a blow, and a Sword fighter strikes once per level) and deals their **faces** — a fistful of dice with a shot at a Spark, but armor soaks every blow. A damage spell instead costs **L dice** and deals a **fixed, modest** amount by L, often **ignoring armor**. Steel has the higher ceiling; a spell is reliable, armor-piercing, and precise — and a 1st-level working is deliberately weaker than a solid sword-hit.
+**Physical** manifestations — a conjured blade, stone shards, a hail of metal, a dodgeable cone — follow the usual **Dodge** (one die), **Parry**, **Block**, and AC rules; the defense total is still the sum of the Fuel dice you commit. **Non-physical** workings (charm, hex, fear, sleep) have no AC and no one-die Dodge cap: commit as many Fuel dice as you choose.
 
-**Single-target** (one creature, one focused blast): **`1d6 + (L − 1)`** to HP, minus scoped Resistance.
+- **Defense ≥ cast:** fully defended — no HP loss, no control.
+- **Defense < cast:** **net pressure** = cast − defense. This comes off **HP** — in combat and out of it. Armor soaks net pressure only when the effect is **physical** in the fiction (conjured blades, stone shards, a hail of metal); pure sorcery ignores AC.
 
-| L | 1 | 2 | 3 | 4 | 5 | 6 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Dice | 1d6 | 1d6+1 | 1d6+2 | 1d6+3 | 1d6+4 | 1d6+5 |
-| Avg | 3.5 | 4.5 | 5.5 | 6.5 | 7.5 | 8.5 |
+**Damage** applies net pressure to HP directly (Resistance still applies per kind). Physical spell attacks — cones of shards, force blades, thunder you can dive from — are indistinguishable from weapon attacks: Defend, Block, AC, Resistance as usual.
 
-A dodgeable blast lets the target Defend (dice) for half or none; an auto-hit (touch, line-of-sight dart) allows no defense unless the entry says so. A physical manifestation subtracts AC after Resistance.
+**Control** also applies net pressure to HP. At **0 HP or below** after pressure: **full control** as the spell describes. Still above 0 HP: **partial control** (weaker duration, loose compliance, one action slipped free — spell text or Guide). Fully defended: no control.
 
-**Area** (blasts, cones, storms — many targets, smaller dice each): **`⌊L/2⌋d6`** per creature (minimum 1d6 at L2+; at **L1** an AoE deals **1 HP** each or is utility-only — no first-level nukes). Each target may Defend; Resistance applies per creature. Total pain scales with **headcount**, not Sorcerie.
+Spells with no hostile target (light on a wall, healing a willing ally, reading magic) allow no Defend. Area workings: each target Defends separately against the same cast total.
 
-| L | 1 | 2 | 3 | 4 | 5 | 6 |
-| --- | --- | --- | --- | --- | --- | --- |
-| Per creature | 1 HP | 1d6 | 1d6 | 2d6 | 2d6 | 3d6 |
+**Out of combat.** When no Fuel pool is in play, the caster's **cast total** is **`2d6 + Sorcerie`** (or **`2d6 + Craft`** for Canting) and the target's **defense total** is **`2d6 +` whichever Approach fits** the fiction — same comparison, same net pressure to HP. This is not a Save that avoids the effect for free; it is still Defend.
 
-**Ongoing / environmental** (trails, *Heat Metal*, storm-lightning each round): **`1d6` per round** regardless of L, unless the entry says otherwise. Higher L buys bigger area, longer duration, or more targets — not bigger dice per tick.
-
-**Control** (*charm, sleep, fear, hold…*) rolls **no damage dice** — it works through the control rules (chip HP like attrition; grab at 0 HP). Optional shortcut: treat the spell's virtual pressure as **L HP** for threshold math only.
-
-*Tuning dial:* if spells feel too weak, swap single-target to **`Ld6`** (L1 = 1d6 … L6 = 6d6) — closer to classic OSE.
+**Compare to steel.** A weapon attack commits dice from Fuel (one to three a blow) and deals their **faces** — a fistful of dice with a shot at a Spark, but armor soaks every blow. A spell instead costs **L dice** and its cast total is the attack value; the target Defends with Fuel the same way. Steel and sorcery share the pool — the danger is the turn you are winded with workings still flying.
 
 ### What Sorcerie is for
 
@@ -180,7 +177,7 @@ A dodgeable blast lets the target Defend (dice) for half or none; an auto-hit (t
 | --- | --- |
 | **0** | Cannot cast |
 | **1+** | Sorcerer — magic on |
-| **Higher** | Caster level: **learn higher-level spells** (up to level = Sorcerie); stronger Sorcerie rolls; more Plan A — **not** bigger prep (that is the Arcana) or bigger damage (that is L) |
+| **Higher** | Caster level: **learn higher-level spells** (up to level = Sorcerie); stronger Sorcerie rolls; more Plan A — **not** bigger prep (that is the Arcana) |
 
 ### Reading Magic
 
@@ -196,83 +193,660 @@ Track each magical item as two short lists, filled in as study and play reveal t
 
 | Field | Meaning |
 | --- | --- |
-| **Code** | `L.n` — the spell's **level** (L, 1–6) and its slot (n, 1–6) within that level |
-| **Lv** | **Spell level** (1–6) — prep cost in Arcana capacity; the same as the code's first number |
-| **School** | Which school the spell is from. A school is **trained-only** — you need a **Trait** in it to read its language or cast its spells at all (see *The Sorcerer Gate*). |
-| **Tags** | dmg · ctrl · ward · info · util · summon |
-| **Roll** | Casting roll if not Plan A — **Sword** in combat, **Sorcerie** out, **Craft** for Canting |
-| **Save** | Target contest — usually **`2d6 + Sorcerie`** (or Sword / Heart as noted) |
-| **Effect** | **This is the spell.** Do not expand scope beyond the text. |
+| **Entry** | Spell name as heading; the line below is `School level: effect` (e.g. `Thaumaturgy 1: …`). School is **trained-only** unless Sorcerie (see *The Sorcerer Gate*). **This is the spell** — do not expand scope beyond the text. |
 
-### Codes and spell level
+### Spell level
 
-Each of the seven people-schools lists six spells at every spell level, 1 through 6; Sorcerie, the common craft, is a thinning ladder with fewer. A code `L.n` is the spell's level L and its slot n within that level — so `1.3` is the third first-level spell, `4.2` the second fourth-level spell. Prep cost is the level, the code's first number.
-
-Levels were assigned by **scope and punch** (OSE / B/X yardstick), then the catalog was balanced to six spells per level in each people-school (Sorcerie excepted).
+Each of the seven people-schools lists six spells at every spell level, 1 through 6; Sorcerie, the common craft, is a thinning ladder with fewer. Prep cost and cast cost are the spell's **level**. Levels were assigned by **scope and punch** (OSE / B/X yardstick), then the catalog was balanced to six spells per level in each people-school (Sorcerie excepted).
 
 ### Reading the catalog
 
-**Sorcerie** in an effect = your **Sorcerie Approach level** (Traits ÷ 4). At **Sorcerie 1**, `Sorcerie creatures` means 1 creature, `Sorcerie × 10'` means 10', etc. Minimum 1 where a count is implied. Direct damage scales with **spell level (L)**, not Sorcerie — see the *Spell damage rubric* in *How Magic Works* above.
+**Sorcerie** in an effect = your **Sorcerie Approach level** (Traits ÷ 4). At **Sorcerie 1**, `Sorcerie creatures` means 1 creature, `Sorcerie × 10'` means 10', etc. Minimum 1 where a count is implied.
 
-- **Control** (charm, sleep, fear, command…) works like HP damage, ignoring Resistance; cast **≥ the target's current HP** and the control **grabs**.
-- **Wound work:** *Healing Touch* (Vitae, level 1, code 1.4) closes limb wounds; for **open vital wounds** use a **Wound Check** — campaign alias **Stanch** (same level).
+- **Control** (charm, sleep, fear, command…) applies net pressure to HP through Defend; see *Defending against a spell* above.
+- **Wound work:** *Healing Touch* (Vitae 1) closes limb wounds; for **open vital wounds** use a **Wound Check** — campaign alias **Stanch** (same level).
 - **Canting** rolls **Craft**, and a **Journeyman (Craft 1+)** — not only a Sorcerer — may prep and cast it (see *The Sorcerer Gate* above).
 
 ---
 
-## Sorcerie
+## Spell Lists
 
-The common craft — no people's tradition, but the raw grammar of magic that underlies
-all seven schools. These are the first workings every apprentice learns before a school
-claims them, and the meta-magics the schools never bother to teach: reading auras,
-dispelling, warding, making a working last. Sorcerie is written in plain sigils any mage
-can read, and it needs **no school Trait** — any Sorcerer may learn and bind its spells,
-whatever their tradition. It never throws force; it handles magic itself.
+### Sorcerie
 
-Sorcerie is a **thinning ladder**: broad at the base, where every mage shares the same
-apprentice kit, and rare at the crown, where only a few universal high-magics stand. It
-does not carry six spells per level like the people-schools.
+The common craft — no people's tradition, but the raw grammar of magic that underlies all seven schools. These are the first workings every apprentice learns before a school claims them, and the meta-magics the schools never bother to teach: reading auras, dispelling, warding, making a working last. Sorcerie is written in plain sigils any mage can read, and it needs **no school Trait** — any Sorcerer may learn and bind its spells, whatever their tradition. It never throws force; it handles magic itself.
 
-### 1st level spells
+#### Sorcerie Level 1
 
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 1.1 | Read Magic | info |
-| 1.2 | Detect Magic | info |
-| 1.3 | Ward Pact | ward |
-| 1.4 | Wizard Light | util |
-| 1.5 | Read Languages | info |
-| 1.6 | Cantrip | util |
+Read Magic — *decipher magical script*
+Detect Magic — *sense the arcane*
+Ward Pact — *bargain against one harm*
+Wizard Light — *conjure light or dark*
+Read Languages — *decipher mundane script*
+Cantrip — *the trained hand's small magics*
 
-#### Read Magic — level 1 (code 1.1)
+#### Sorcerie Level 2
 
-*tagline: decipher magical script*
+Floating Disc — *a porter of force*
+Locate Object — *know the way to a thing*
+Arcane Sigil — *sign, seal, anchor*
+Greater Ward Pact — *bargain against a whole kind*
 
-**Tags:** info · **Roll:** Plan A · **Save:** none
+#### Sorcerie Level 3
 
-**Effect:** You read magical script — runes, glyphs, spellbook entries, scroll text —
+Dispel Magic — *unmake a working*
+Tongues — *speak any tongue*
+
+#### Sorcerie Level 4
+
+Shared Ward Pact — *ward the company*
+
+#### Sorcerie Level 5
+
+Identify — *read a magic item true*
+
+#### Sorcerie Level 6
+
+Permanency — *make a working last*
+
+### Vitae
+
+Life force, growth, and harmony. The magic of the Elves, written in living ink that grows and changes like vines.
+
+#### Vitae Level 1
+
+Animal Bond — *form lasting connection*
+Animal Friendship — *benevolent control*
+Beast Speech — *talk with animals*
+Healing Touch — *cure wounds*
+Joy Song — *lift spirits*
+Light Shield — *protect from evil*
+
+#### Vitae Level 2
+
+Balance Weave — *unite opposites*
+Beast Bond — *create long-lasting bond*
+Beast Form — *friendly transformation*
+Divine Grace — *channel blessing*
+Growing Script — *living magical writing*
+Life Bloom — *encourage growth*
+
+#### Vitae Level 3
+
+Forest Touch — *speak with plants*
+Pacify — *remove violence*
+Star Guide — *find true path*
+Sun Beam — *channel daylight*
+Thicket — *grow healthy plants*
+Truth Sight — *see through lies*
+
+#### Vitae Level 4
+
+Heart Glyph — *inscribe emotions*
+Peace Aura — *calm violence*
+Purification — *remove toxins*
+Snail Knight — *summon noble mount*
+Ward — *create protective barrier*
+Wild Empathy — *share animal feelings*
+
+#### Vitae Level 5
+
+Cure Disease — *remove ailments*
+Nature's Blessing — *enhance vitality*
+Nature's Rhythm — *align with cycles*
+Pack Call — *summon animal allies*
+Regeneration — *speed natural healing*
+Vital Surge — *boost life force*
+
+#### Vitae Level 6
+
+Life Transfer — *share vital force*
+Nature's Bounty — *create food/water*
+Perfect Unity — *complete balance*
+Season's Call — *control growth cycle*
+Tranquil Heart — *create inner peace*
+Vital Harmony — *balance life forces*
+
+### Elementale
+
+Primal forces, elements, and weather. The Baal inscribe dragon magic in burning runes carved in stone.
+
+#### Elementale Level 1
+
+Crystal Growth — *form gems*
+Dragon's Breath — *channel flame*
+Fog Cloud — *create mist*
+Heat Metal — *make objects burning*
+Icy Touch — *spread ice*
+Web Weave — *spin natural nets*
+
+#### Elementale Level 2
+
+Earth Shape — *mold stone*
+Elemental Wall — *create barrier*
+Fire Shield — *protective flames*
+Force Wall — *energy barrier*
+Gravity Shift — *change gravity*
+Increase Gravity — *triple weight*
+
+#### Elementale Level 3
+
+Lightning Strike — *call electricity*
+Liquid Air — *make air swimmable*
+Mist Form — *become vapor*
+Mountain's Strength — *earth power*
+Rain Make — *create downpour*
+Steam Form — *become vapor*
+
+#### Elementale Level 4
+
+Earthquake — *shake ground*
+Sculpt Elements — *shape materials*
+Stone Tell — *read earth memories*
+Water Breathing — *breathe liquid*
+Whirlwind — *create vortex*
+Wind Shield — *air protection*
+
+#### Elementale Level 5
+
+Stone Skin — *harden flesh*
+Storm Call — *summon thunder*
+Summon Cube — *control earth*
+Summon Idol — *create statue*
+Thunder Call — *create sonic boom*
+Upwell — *create spring*
+
+#### Elementale Level 6
+
+Control Weather — *command climate*
+Element Master — *complete control*
+Tide Control — *command waters*
+Water Shape — *control liquid*
+Wind Walk — *float on breeze*
+Zephyr — *ride the winds*
+
+### Thaumaturgy
+
+Physical laws, mechanisms, and force. The engineering magic of the Dwur, written in foundational runes that command reality.
+
+#### Thaumaturgy Level 1
+
+Adhere — *make sticky*
+Command — *force obedience*
+Thaumaturgic Hand — *spectral hand*
+Filch — *teleport items*
+Force Push — *directional power*
+Leap — *control jumping*
+
+#### Thaumaturgy Level 2
+
+Animate Object — *objects obey*
+Hover — *control levitation*
+Invisible Tether — *bind objects*
+Knock — *open locks*
+Lock — *seal door*
+Sort — *organize items*
+
+#### Thaumaturgy Level 3
+
+Control Device — *command mechanisms*
+Mend — *repair objects*
+Object Memory — *read item history*
+Shrink Item — *reduce size*
+Spider Climb — *control climbing*
+Strengthen — *reinforce material*
+
+#### Thaumaturgy Level 4
+
+Astral Prison — *crystal stasis*
+Augment Object — *enhance item*
+Haste — *control speed*
+Masterscript — *write command runes*
+Teleport — *move objects*
+Unravel — *counter spells*
+
+#### Thaumaturgy Level 5
+
+Animate Tool — *give purpose*
+Binding Circle — *contain force*
+Density Control — *alter mass*
+Enhance Power — *boost magic*
+Magic Suppressor — *null magic*
+Time Slip — *control time*
+
+#### Thaumaturgy Level 6
+
+Magic Circle — *create workspace*
+Perfect Control — *complete mastery*
+Reality Anchor — *stabilize space*
+Rune Lock — *seal with power*
+Shape Material — *change form*
+Thaumaturgic Seal — *master rune*
+
+### Illusione
+
+Perception, thought, and dreams. The subtle magic of the Belerions, woven from phantasmal scripts that deceive the senses.
+
+#### Illusione Level 1
+
+Arcane Eye — *flying sensor*
+Auditory Illusion — *create sounds*
+Bewitch — *enchant mind*
+Blur — *distort appearance*
+Visual Illusion — *create images*
+Detect Magic — *see magic*
+
+#### Illusione Level 2
+
+Disguise — *alter appearance*
+Dream Message — *send sleeping visions*
+Duplicate — *create copies*
+Emotional Aura — *project feeling*
+Feign Death — *appear dead*
+Greed — *create obsession*
+
+#### Illusione Level 3
+
+Hypnotize — *question trance*
+Illusory Spray — *disorient with light*
+Invisibility — *become unseen*
+Mirror Image — *create duplicates*
+Phantasmal Force — *moving illusion*
+Phantom Sound — *distant noise*
+
+#### Illusione Level 4
+
+Dream Walking — *enter dreams*
+False Memory — *plant fake memory*
+Mass Suggestion — *group command*
+Mind Shield — *protect thoughts*
+Read Mind — *hear thoughts*
+Visual Illusion — *static images*
+
+#### Illusione Level 5
+
+Major Image — *perfect illusion*
+Mind Maze — *trap thoughts*
+Scry — *share vision*
+Silent Image — *create scene*
+Vision — *personal illusion*
+X-Ray Vision — *see through matter*
+
+#### Illusione Level 6
+
+Mirror Walk — *step through glass*
+Perfect Illusion — *undetectable fake*
+Programmed Illusion — *triggered effect*
+Spectacle — *create grand illusion*
+Telepathy — *project thoughts*
+True Seeing — *pierce deception*
+
+### Umbrakala
+
+Shadows, thresholds, and dimensional paths. The secret magic of the Alu, written in darkness and void.
+
+#### Umbrakala Level 1
+
+Befuddle — *shadow memories*
+Cloak of Shadows — *dark protection*
+Darksight — *see in darkness*
+Deep Shadow — *create pure darkness*
+Gate Sense — *detect portals*
+Hatred — *dark emotion*
+
+#### Umbrakala Level 2
+
+Dark Anchor — *fix dimensional point*
+Disassemble — *shadow-split form*
+Ice Heart — *freeze with shadow*
+Kallascript — *write gate runes*
+Masquerade — *shadow dance*
+Miniaturize — *shrink into shadows*
+
+#### Umbrakala Level 3
+
+Mind Shatter — *shadow thoughts*
+Night Sphere — *create darkness*
+Nightmare Seed — *dark dreams*
+Ooze Form — *shadow substance*
+Shadow Bind — *trap in darkness*
+Shadow Clone — *create dark duplicate*
+
+#### Umbrakala Level 4
+
+Body Swap — *shadow exchange*
+Shadow Meld — *merge with darkness*
+Shadow Step — *travel through dark*
+Shuffle — *shadow displacement*
+Smoke Form — *become shadow*
+Void Step — *brief teleport*
+
+#### Umbrakala Level 5
+
+Dimension Door — *create portal*
+Kalla Gate — *create pocket realm*
+Phantom Coach — *shadow transport*
+Realm Weave — *connect spaces*
+Shadow Time — *pause in darkness*
+Threshold Walk — *pass through doors*
+
+#### Umbrakala Level 6
+
+Perfect Shadow — *complete control*
+Plane Shift — *change reality*
+Space Fold — *bend dimensions*
+Twilight Veil — *walk between worlds*
+Void Gate — *open dark portal*
+Void Shield — *dark protection*
+
+### Necromantia
+
+Death, spirits, and decay. The forbidden magic of the Avathars, inscribed in blood and bone.
+
+#### Necromantia Level 1
+
+Animate Skeleton — *raise bones*
+Black Sacrament — *death ritual*
+Blood Curse — *sacrifice life*
+Blood Track — *follow wounds*
+Marble Madness — *death's toys*
+Wizard Mark — *death runes*
+
+#### Necromantia Level 2
+
+Bone Puppet — *animate dead*
+Bone Shield — *skeletal armor*
+Comprehend Dead — *dead languages*
+Dark Blessing — *death's power*
+Grave Mist — *create death fog*
+Life Sense — *detect living*
+
+#### Necromantia Level 3
+
+Command Undead — *control dead*
+Corpse Explosion — *detonate dead*
+Pain Echo — *share suffering*
+Psychometry — *read death echoes*
+Sniff — *smell death*
+Undead Sight — *see spirits*
+
+#### Necromantia Level 4
+
+Death Touch — *wither life*
+Death Ward — *protect from necrotic*
+Doom Mark — *mark for death*
+Drain Life — *steal vitality*
+Fear Aura — *death terror*
+Speak with Dead — *question spirits*
+
+#### Necromantia Level 5
+
+Death Gate — *portal to underworld*
+Ghost Bind — *trap spirits*
+Spirit Chains — *bind ghost*
+Spirit Form — *become ghostly*
+Truth Sense — *death's truth*
+Vampiric Touch — *drain energy*
+
+#### Necromantia Level 6
+
+Mass Animation — *raise army*
+Perfect Death — *ultimate end*
+Plague Wind — *spread death*
+Raise Dead — *create undead*
+Soul Cage — *trap essence*
+Soul Rend — *tear spirit*
+
+### Canting
+
+Deception and manipulation in Thieves' Cant — flash papers and brotherhood marks. If you can't flash the patter, stay out of the Darkmans.
+
+#### Canting Level 1
+
+Budge — *distance unlock*
+Cony-Catch — *sense fears/vices*
+Flash Paper — *hidden messages*
+Juke — *dodge attack*
+Mark the Gull — *spot easy marks*
+Mort's Mask — *change face*
+
+#### Canting Level 2
+
+Brotherhood Mark — *sense guild members*
+Fleet Pad — *quickened step*
+Foist — *pickpocket from afar*
+Nip — *summon loose object*
+Second-Story Man — *sure climb*
+Spring — *enhanced leap*
+
+#### Canting Level 3
+
+Budge Barrel — *conceal goods*
+Darkmans Cloak — *shadow invisibility*
+Dog's Leg — *tail undetected*
+Rearward Glim — *spot followers*
+Rum Dubber — *master lockpick*
+Upright Man's Word — *command street folk*
+
+#### Canting Level 4
+
+Dimber Damber's Web — *silent signals*
+Maze Whispers — *distant eavesdrop*
+Perfect Mort — *full impersonation*
+Rum Ken — *find safehouse*
+Sharper's Nose — *sniff out weakness*
+Topping Cove — *cross rooftops*
+
+#### Canting Level 5
+
+Bulk the Watch — *distract guards*
+Darkmans Veil — *unseen in crowds*
+Ken Miller — *break into any building*
+Mill the Watch — *silence sentry*
+Mizzle — *vanish when spotted*
+Rum Mort — *false identity*
+
+#### Canting Level 6
+
+Blood Brotherhood — *compel loyalty for job*
+Darkmans Twin — *shadow twin*
+Deathless Brotherhood — *speak with dead thieves*
+Jarkman's Gift — *living forgeries*
+Many Faces — *shift personas*
+Prince of Thieves — *inspire loyalty*
+---
+
+## Spell Descriptions
+
+### 1st level
+
+#### Adhere
+
+Thaumaturgy 1: Objects become sticky enough to hold a person to a ceiling. Lasts until washed.
+
+#### Animal Bond
+
+Vitae 1: Touch one animal; it regards you as a trusted companion for Sorcerie months. It will not obey suicidal orders. Re-casting on the same animal extends the bond.
+
+#### Animal Friendship
+
+Vitae 1: Animals obey your orders as well as a trained dog for one day.
+
+#### Animate Skeleton
+
+Necromantia 1: Sorcerie unarmed skeletons rise from the ground to serve you.
+
+#### Arcane Eye
+
+Illusione 1: You create a magic eye that flies around under your control for Sorcerie turns. You can see through it as well as your normal eyes.
+
+#### Auditory Illusion
+
+Illusione 1: You can create illusory sounds that seem to come from Sorcerie directions of your choice.
+
+#### Beast Speech
+
+Vitae 1: You understand and speak with animals for Sorcerie hours. They do not obey unless persuaded (Heart) or befriended.
+
+#### Befuddle
+
+Umbrakala 1: A creature is unable to form short-term memories for Sorcerie turns.
+
+#### Bewitch
+
+Illusione 1: Sorcerie humanoids believe they are close friends with you until proven otherwise.
+
+#### Black Sacrament
+
+Necromantia 1: Sacrifice 1 HP to bless Sorcerie undead servants for one day (+1 Damage).
+
+#### Blood Curse
+
+Necromantia 1: Mark one creature; you know direction/distance for Sorcerie days.
+
+#### Blood Track
+
+Necromantia 1: Follow a blood trail up to Sorcerie miles; fresh only.
+
+#### Blur
+
+Illusione 1: Attacks against you suffer −Sorcerie Damage while you move for Sorcerie turns.
+
+#### Budge
+
+Canting 1: Sorcerie locks unlock.
+
+#### Cantrip
+
+Sorcerie 1: Trivial magics on command — clean or soil an object, chill or warm a mouthful,
+colour a flame, lift a feather-weight, strike a spark, throw a small sound. Nothing that
+deals damage, moves real weight, or fools a careful eye. The parlor mark of a schooled mage.
+
+#### Cloak of Shadows
+
+Umbrakala 1: +Sorcerie AC in dim light or darkness for Sorcerie turns.
+
+#### Command
+
+Thaumaturgy 1: A creature obeys a single, Sorcerie-word command that doesn't harm it.
+
+#### Cony-Catch
+
+Canting 1: Read one target's vice or fear (one sentence truth).
+
+#### Crystal Growth
+
+Elementale 1: Grow Sorcerie fist-sized crystals from stone over Sorcerie hours; worth little but hard as stone.
+
+#### Darksight
+
+Umbrakala 1: See in total darkness for Sorcerie hours.
+
+#### Deep Shadow
+
+Umbrakala 1: A Sorcerie × 40' wide sphere of total darkness appears.
+
+#### Detect Magic
+
+Sorcerie 1: For Sorcerie turns, magic within line of sight glows to your eye; on request
+you learn its rough school and strength (up to Sorcerie such readings before it fades).
+*Illusione* teaches a keener *Detect Magic* that lasts a day and names exact properties.
+
+#### Detect Magic
+
+Illusione 1: Anything magical within line of sight glows and reveals its properties on request. Lasts 1 day or until you make Sorcerie requests.
+
+#### Dragon's Breath
+
+Elementale 1: Cone 60'. Each target may Defend; net pressure to HP (− Resistance).
+
+#### Filch
+
+Thaumaturgy 1: Sorcerie visible items teleport to your hands.
+
+#### Flash Paper
+
+Canting 1: Messages on flash paper visible only to Canting-literate readers; burns after Sorcerie readings.
+
+#### Fog Cloud
+
+Elementale 1: Fog spreads out in a Sorcerie × 10' radius from you. Fades in one turn.
+
+#### Force Push
+
+Thaumaturgy 1: An object of any size is pushed directly away from you with the force of Sorcerie men for one round.
+
+#### Gate Sense
+
+Umbrakala 1: Sense gates, portals, and thin places within Sorcerie × 100' for Sorcerie turns.
+
+#### Hatred
+
+Umbrakala 1: Sorcerie creatures start attacking each other for one turn or until one dies.
+
+#### Healing Touch
+
+Vitae 1: Touch a willing creature — restore **1d6 HP**, or close one **open limb wound** (not vital). Does not auto-close vital wounds. *Campaign alias: **Mend**.*
+
+#### Heat Metal
+
+Elementale 1: One metal object glows hot for Sorcerie turns; holder takes **1d6** per round to HP (− Resistance). Unless dropped.
+
+#### Icy Touch
+
+Elementale 1: An ice layer spreads across a surface, up to Sorcerie × 10' in radius.
+
+#### Joy Song
+
+Vitae 1: Sorcerie listeners shake off fear or despair; each recovers 1 HP if they have at least 1 HP. Lasts one scene.
+
+#### Juke
+
+Canting 1: Your next defend this round gains +Sorcerie (dirty fighting).
+
+#### Leap
+
+Thaumaturgy 1: You can jump up to Sorcerie × 10'.
+
+#### Light Shield
+
+Vitae 1: One creature; evil-aligned attacks against them suffer −1 Damage for Sorcerie turns; charm/possession from evil fails on Sorcerie 1+ targets automatically vs weak evils.
+
+#### Marble Madness
+
+Necromantia 1: Your pockets refill with marbles every round for Sorcerie rounds.
+
+#### Mark the Gull
+
+Canting 1: For Sorcerie hours, spot the most gullible or greedy mark in a crowd (Heart contests against you fail).
+
+#### Mort's Mask
+
+Canting 1: You may alter the look of Sorcerie humanoids as long as they remain humanoid. Lasts until the subjects speak.
+
+#### Read Languages
+
+Sorcerie 1: For Sorcerie turns you can read (not speak) any mundane written language,
+cipher, or code, however foreign or old — maps, ledgers, inscriptions. Does not pierce
+magical writing; that is *Read Magic*.
+
+#### Read Magic
+
+Sorcerie 1: You read magical script — runes, glyphs, spellbook entries, scroll text —
 well enough to identify a working and, with reagent ink and study, to copy or cast it.
 Without it, magical writing is opaque. **Free and always known** by every Sorcerer; costs
 no slot to know. (The working behind *Reading Magic* in [[Burners Adventure Game]].)
 
-#### Detect Magic — level 1 (code 1.2)
+#### Thaumaturgic Hand
 
-*tagline: sense the arcane*
+Thaumaturgy 1: A spectral hand appears within Sorcerie × 10' and carries or manipulates light objects at your command for Sorcerie turns. It cannot attack or exert real force.
 
-**Tags:** info · **Roll:** Plan A · **Save:** none
+#### Visual Illusion
 
-**Effect:** For Sorcerie turns, magic within line of sight glows to your eye; on request
-you learn its rough school and strength (up to Sorcerie such readings before it fades).
-*Illusione teaches a keener variant (that school's code 1.6) that lasts a day and names
-exact properties.*
+Illusione 1: You create a silent, motionless illusory image about the size of a creature or object within Sorcerie × 10', lasting Sorcerie turns. It casts no sound, light, or smell, and touching it or studying it closely reveals the illusion.
 
-#### Ward Pact — level 1 (code 1.3)
+#### Ward Pact
 
-*tagline: bargain against one harm*
-
-**Tags:** ward · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** When you **bind** this working, name **one narrow source of harm** — blades,
+Sorcerie 1: When you **bind** this working, name **one narrow source of harm** — blades,
 bludgeons, missiles, fire, cold, lightning, the fang-and-claw of beasts, or **magic** (the
 pact traditionally called **Parma Magica** or the **Mage Shield**). Casting raises the ward:
 for Sorcerie turns, attacks of the named source against you suffer **−Sorcerie Damage**, and
@@ -280,2667 +854,925 @@ against the magic pact, trivial first-level workings wash off entirely. No help 
 harm you did not name, nor against magic made physically substantive (conjured stone, a
 flame wall) unless *magic* is the pact. Bind it in two Arcana to hold two pacts at once.
 
-#### Wizard Light — level 1 (code 1.4)
+#### Web Weave
 
-*tagline: conjure light or dark*
+Elementale 1: You can shoot Sorcerie × 40' of strong, sticky web. Lasts until burned.
 
-**Tags:** util · **Roll:** Sorcerie · **Save:** Sorcerie
+#### Wizard Light
 
-**Effect:** Torch-bright light springs from a point or object you touch, radius 30', for
+Sorcerie 1: Torch-bright light springs from a point or object you touch, radius 30', for
 Sorcerie hours; you may instead quench light in the same radius (darkness). Cast on a
-creature's eyes it blinds for 1 round unless they save Sorcerie.
+creature's eyes it blinds for 1 round unless they Defend.
 
-#### Read Languages — level 1 (code 1.5)
+#### Wizard Mark
 
-*tagline: decipher mundane script*
+Necromantia 1: Your finger produces ulfire-colored paint for Sorcerie hours. This paint is only visible to you, and can be seen at any distance, even through objects.
 
-**Tags:** info · **Roll:** Plan A · **Save:** none
+### 2nd level
 
-**Effect:** For Sorcerie turns you can read (not speak) any mundane written language,
-cipher, or code, however foreign or old — maps, ledgers, inscriptions. Does not pierce
-magical writing; that is *Read Magic*.
+#### Animate Object
 
-#### Cantrip — level 1 (code 1.6)
+Thaumaturgy 2: Objects obey your orders. They move 15' per round.
 
-*tagline: the trained hand's small magics*
+#### Arcane Sigil
 
-**Tags:** util · **Roll:** Plan A · **Save:** none
-
-**Effect:** Trivial magics on command — clean or soil an object, chill or warm a mouthful,
-colour a flame, lift a feather-weight, strike a spark, throw a small sound. Nothing that
-deals damage, moves real weight, or fools a careful eye. The parlor mark of a schooled mage.
-
-### 2nd level spells
-
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 2.1 | Floating Disc | util |
-| 2.2 | Locate Object | info |
-| 2.3 | Arcane Sigil | util |
-| 2.4 | Greater Ward Pact | ward |
-
-#### Floating Disc — level 2 (code 2.1)
-
-*tagline: a porter of force*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** A shimmering disc of force 3' across floats at your heel for Sorcerie hours,
-bearing up to Sorcerie × 100 lb — loot, a wounded ally. It follows you at a walk and
-cannot stray more than 10' from you; it winks out if you do.
-
-#### Locate Object — level 2 (code 2.2)
-
-*tagline: know the way to a thing*
-
-**Tags:** info · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** For Sorcerie turns you sense the direction to the nearest example of one object
-you name and clearly picture, within Sorcerie × 100'. Finds objects, not creatures, and is
-blind to anything warded (a Dark Anchor, lead, running water at the Guide's call).
-
-#### Arcane Sigil — level 2 (code 2.3)
-
-*tagline: sign, seal, anchor*
-
-**Tags:** util · **Roll:** Plan A · **Save:** none
-
-**Effect:** Inscribe an invisible personal mark on a surface or object, readable only by
+Sorcerie 2: Inscribe an invisible personal mark on a surface or object, readable only by
 Read Magic or Detect Magic. It proves your authorship, seals a document (you know at once
 if it is opened), or anchors another Sorcerie working to that spot. Lasts until dispelled.
 
-#### Greater Ward Pact — level 2 (code 2.4)
+#### Balance Weave
 
-*tagline: bargain against a whole kind*
+Vitae 2: For Sorcerie hours, two opposed forces within 10' (heat/cold, light/dark, poison/antidote) neutralize each other at the midpoint.
 
-**Tags:** ward · **Roll:** Sorcerie · **Save:** none
+#### Beast Bond
 
-**Effect:** As Ward Pact, but the ward you name at binding covers a **whole category**: all
+Vitae 2: As Animal Bond, but permanent until the animal dies or you release it. One bond active at a time per caster.
+
+#### Beast Form
+
+Vitae 2: You and your possessions turn into an animal for up to Sorcerie days.
+
+#### Bone Puppet
+
+Necromantia 2: Sorcerie unarmed skeletons rise from the ground to serve you.
+
+#### Bone Shield
+
+Necromantia 2: Skeletal armor +Sorcerie AC for Sorcerie turns; looks horrific.
+
+#### Brotherhood Mark
+
+Canting 2: Sense guild-brothers within Sorcerie × 100' for Sorcerie hours.
+
+#### Comprehend Dead
+
+Necromantia 2: You are fluent in all languages for Sorcerie hours.
+
+#### Dark Anchor
+
+Umbrakala 2: Fix one point in space; teleportation and gates within Sorcerie × 10' fail unless Sorcerie beats your cast.
+
+#### Dark Blessing
+
+Necromantia 2: One undead gains Sorcerie temporary HP.
+
+#### Disassemble
+
+Umbrakala 2: Sorcerie body parts may be detached at will. You can still control them. Lasts until they are reattached.
+
+#### Disguise
+
+Illusione 2: You may alter the look of Sorcerie humanoids as long as they remain humanoid. Lasts until the subjects speak.
+
+#### Divine Grace
+
+Vitae 2: One ally gains +1 on their next Sorcerie roll or Wound Check within Sorcerie hours (blessing, not stacking).
+
+#### Dream Message
+
+Illusione 2: Send a Sorcerie-word message to a sleeping person you know; they remember it as a dream.
+
+#### Duplicate
+
+Illusione 2: Create Sorcerie fragile, porcelain copies of items you can see.
+
+#### Earth Shape
+
+Elementale 2: Inanimate material acts like clay in your hands for Sorcerie turns.
+
+#### Elemental Wall
+
+Elementale 2: Creates a wall of ice or fire Sorcerie × 40' long, 5' wide and 10' tall. The wall can curve however you want.
+
+#### Emotional Aura
+
+Illusione 2: Project one emotion in Sorcerie × 10'; creatures feel it but Defend to act against it.
+
+#### Feign Death
+
+Illusione 2: You appear dead for Sorcerie hours; vital signs absent. Wound checks do not worsen you while feigning.
+
+#### Fire Shield
+
+Elementale 2: Flames wreath you for Sorcerie turns; melee attackers take **1d6** per round to HP (− Resistance). On a hit.
+
+#### Fleet Pad
+
+Canting 2: Sorcerie creatures have their movement speed tripled.
+
+#### Floating Disc
+
+Sorcerie 2: A shimmering disc of force 3' across floats at your heel for Sorcerie hours,
+bearing up to Sorcerie × 100 lb — loot, a wounded ally. It follows you at a walk and
+cannot stray more than 10' from you; it winks out if you do.
+
+#### Foist
+
+Canting 2: Sorcerie visible items teleport to your hands.
+
+#### Force Wall
+
+Elementale 2: Invisible barrier Sorcerie × 20' long, 10' high; blocks physical passage until it takes Sorcerie × 5 damage.
+
+#### Grave Mist
+
+Necromantia 2: Fog spreads out in a Sorcerie × 10' radius from you. Fades in one turn.
+
+#### Gravity Shift
+
+Elementale 2: Sorcerie creatures can alter their 'down' direction at will.
+
+#### Greater Ward Pact
+
+Sorcerie 2: As Ward Pact, but the ward you name at binding covers a **whole category**: all
 **weapons** (every physical arm, melee or thrown or shot), all **elements** (fire, cold,
 lightning, and their kin), all **magic**, or all the **wild** (fang, claw, horn, sting, and
 natural venom). For Sorcerie turns, anything in that category deals **−Sorcerie Damage** to
 you. One category per binding.
 
-### 3rd level spells
+#### Greed
 
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 3.1 | Dispel Magic | ward |
-| 3.2 | Tongues | info |
+Illusione 2: Sorcerie creatures become obsessed with possessing a visible item.
 
-#### Dispel Magic — level 3 (code 3.1)
+#### Growing Script
 
-*tagline: unmake a working*
+Vitae 2: Living text grows on a surface for Sorcerie days; only readers of Vitae (or Read Magic) can read it.
 
-**Tags:** ward · **Roll:** Sorcerie · **Save:** none
+#### Hover
 
-**Effect:** End one ongoing magical effect of level ≤ Sorcerie that you can see or touch: a
+Thaumaturgy 2: Make Sorcerie objects hover 2' above the ground, frictionless. They can support the weight of up to Sorcerie people.
+
+#### Ice Heart
+
+Umbrakala 2: An ice layer spreads across a surface, up to Sorcerie × 10' in radius; creatures touched may Defend; net pressure to HP (− scoped Resistance).
+
+#### Increase Gravity
+
+Elementale 2: The gravity within Sorcerie × 10' of you triples.
+
+#### Invisible Tether
+
+Thaumaturgy 2: Sorcerie objects within 10' of each other cannot be moved more than 10' apart from each other.
+
+#### Kallascript
+
+Umbrakala 2: Write gate-runes; opens a shadow door to a marked location you visited. Lasts Sorcerie days or one use.
+
+#### Knock
+
+Thaumaturgy 2: Sorcerie locks unlock.
+
+#### Life Bloom
+
+Vitae 2: Plants within Sorcerie × 10' obey you. They move 5' per round.
+
+#### Life Sense
+
+Necromantia 2: Sense living creatures within Sorcerie × 60' for Sorcerie turns.
+
+#### Locate Object
+
+Sorcerie 2: For Sorcerie turns you sense the direction to the nearest example of one object
+you name and clearly picture, within Sorcerie × 100'. Finds objects, not creatures, and is
+blind to anything warded (a Dark Anchor, lead, running water at the Guide's call).
+
+#### Lock
+
+Thaumaturgy 2: A door cannot be opened by mundane means for Sorcerie turns.
+
+#### Masquerade
+
+Umbrakala 2: All creatures within Sorcerie × 10' of you are compelled to dance.
+
+#### Miniaturize
+
+Umbrakala 2: You and Sorcerie other touched creatures become mouse-sized.
+
+#### Nip
+
+Canting 2: Sorcerie visible items teleport to your hands.
+
+#### Second-Story Man
+
+Canting 2: You can climb surfaces like a spider for Sorcerie turns.
+
+#### Sort
+
+Thaumaturgy 2: Inanimate items sort themselves according to Sorcerie categories you set. The categories must be visually verifiable.
+
+#### Spring
+
+Canting 2: You can jump up to Sorcerie × 10'.
+
+### 3rd level
+
+#### Budge Barrel
+
+Canting 3: Hide Sorcerie slot-worth of goods in plain sight for Sorcerie hours.
+
+#### Command Undead
+
+Necromantia 3: A creature obeys a single, Sorcerie-word command that doesn't harm it.
+
+#### Control Device
+
+Thaumaturgy 3: Mechanisms (locks, traps, clockwork) obey simple commands for Sorcerie turns within 30'.
+
+#### Corpse Explosion
+
+Necromantia 3: 10' burst from one corpse. Each target may Defend; net pressure to HP (− Resistance).
+
+#### Darkmans Cloak
+
+Canting 3: Sorcerie creatures are invisible for as long as they can hold their breath.
+
+#### Dispel Magic
+
+Sorcerie 3: End one ongoing magical effect of level ≤ Sorcerie that you can see or touch: a
 charm lifts, a conjured wall winks out, a ward drops. Against another mage's working, roll
 **Sorcerie vs 8 + the working's level**. Cannot interrupt a spell mid-cast — that is
 Thaumaturgy's *Unravel*.
 
-#### Tongues — level 3 (code 3.2)
+#### Dog's Leg
 
-*tagline: speak any tongue*
+Canting 3: Tail one target undetected for Sorcerie hours (Craft vs their passive notice).
 
-**Tags:** info · **Roll:** Sorcerie · **Save:** none
+#### Forest Touch
 
-**Effect:** For Sorcerie turns you speak and understand any one spoken language per creature
+Vitae 3: Plants within Sorcerie × 10' obey you. They move 5' per round.
+
+#### Hypnotize
+
+Illusione 3: A creature enters a trance and will answer Sorcerie yes or no questions.
+
+#### Illusory Spray
+
+Illusione 3: Flash blinds Sorcerie foes for 1 round (Defend: Sword, or −3 Damage on the next Defend).
+
+#### Invisibility
+
+Illusione 3: Sorcerie creatures are invisible for as long as they can hold their breath.
+
+#### Lightning Strike
+
+Elementale 3: Defend; net pressure to HP (− scoped Resistance).
+
+#### Liquid Air
+
+Elementale 3: The air within Sorcerie × 10' of you becomes swimmable.
+
+#### Mend
+
+Thaumaturgy 3: Repair one broken mundane object up to chair-size; magical items need Sorcerie vs Guide DC. *Objects only — not flesh.*
+
+#### Mind Shatter
+
+Umbrakala 3: Psychic — ignores Resistance. Defend; net pressure to HP (− scoped Resistance). If net pressure lands: stunned 1 turn.
+
+#### Mirror Image
+
+Illusione 3: Sorcerie illusory copies of you, under your control, appear.
+
+#### Mist Form
+
+Elementale 3: Your body and gear become living smoke for Sorcerie turns.
+
+#### Mountain's Strength
+
+Elementale 3: You gain +Sorcerie Damage on shove/break attempts for Sorcerie turns.
+
+#### Night Sphere
+
+Umbrakala 3: A Sorcerie × 40' wide sphere of total darkness appears.
+
+#### Nightmare Seed
+
+Umbrakala 3: Plant a nightmare in one sleeper; net pressure to HP; at 0 HP or below they wake from fear.
+
+#### Object Memory
+
+Thaumaturgy 3: The Guide answers Sorcerie yes or no questions about an object.
+
+#### Ooze Form
+
+Umbrakala 3: Your body and gear become living slime for Sorcerie turns.
+
+#### Pacify
+
+Vitae 3: Sorcerie creatures develop an intense hatred of violence unless attacked.
+
+#### Pain Echo
+
+Necromantia 3: One creature feels your wound pain; if you have an open wound, they take **1d6** HP (ignores Resistance).
+
+#### Phantasmal Force
+
+Illusione 3: Moving illusion. If believed: psychic — ignores AC. Defend; net pressure to HP (− scoped Resistance).
+
+#### Phantom Sound
+
+Illusione 3: You can create illusory sounds that seem to come from Sorcerie directions of your choice.
+
+#### Psychometry
+
+Necromantia 3: The Guide answers Sorcerie yes or no questions about an object.
+
+#### Rain Make
+
+Elementale 3: Rain falls in Sorcerie × 40' for Sorcerie hours.
+
+#### Rearward Glim
+
+Canting 3: You create a magic eye that flies around under your control for Sorcerie turns. You can see through it as well as your normal eyes.
+
+#### Rum Dubber
+
+Canting 3: Sorcerie locks unlock.
+
+#### Shadow Bind
+
+Umbrakala 3: Sorcerie creatures entangled in shadow; Defend each turn or cannot act.
+
+#### Shadow Clone
+
+Umbrakala 3: Sorcerie illusory copies of you, under your control, appear.
+
+#### Shrink Item
+
+Thaumaturgy 3: You and Sorcerie other touched creatures become mouse-sized.
+
+#### Sniff
+
+Necromantia 3: A creature can smell all scents up to 120' away for Sorcerie turns.
+
+#### Spider Climb
+
+Thaumaturgy 3: You can climb surfaces like a spider for Sorcerie turns.
+
+#### Star Guide
+
+Vitae 3: For Sorcerie hours you know the true direction to one named place you have visited before.
+
+#### Steam Form
+
+Elementale 3: Your body and gear become living smoke for Sorcerie turns.
+
+#### Strengthen
+
+Thaumaturgy 3: One object gains Sorcerie × 5 structural HP; breaks only under deliberate force.
+
+#### Sun Beam
+
+Vitae 3: A beam of daylight (torch-bright, 60' radius) for Sorcerie turns; shadow creatures in it take **1d6** per round to HP (− Resistance). (shadow creatures only).
+
+#### Thicket
+
+Vitae 3: A thicket of trees and dense brush up to Sorcerie × 40' wide sprouts up over the course of one round.
+
+#### Tongues
+
+Sorcerie 3: For Sorcerie turns you speak and understand any one spoken language per creature
 you address — the spoken half of Read Languages. Grants no reading.
 
-### 4th level spells
+#### Truth Sight
 
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 4.1 | Shared Ward Pact | ward |
+Vitae 3: You can detect lies for Sorcerie hours.
 
-#### Shared Ward Pact — level 4 (code 4.1)
+#### Undead Sight
 
-*tagline: ward the company*
+Necromantia 3: See spirits and invisible undead for Sorcerie hours.
 
-**Tags:** ward · **Roll:** Sorcerie · **Save:** none
+#### Upright Man's Word
 
-**Effect:** Cast over a Ward Pact or Greater Ward Pact you know and name its source as with
+Canting 3: A creature obeys a single, Sorcerie-word command that doesn't harm it.
+
+### 4th level
+
+#### Astral Prison
+
+Thaumaturgy 4: An object is frozen in time and space within an invulnerable crystal shell for Sorcerie turns.
+
+#### Augment Object
+
+Thaumaturgy 4: One weapon or tool gains +1 effective slot class or +1 util bonus for Sorcerie days.
+
+#### Body Swap
+
+Umbrakala 4: You switch bodies with a creature you touch for Sorcerie turns. If one body dies, the other dies as well.
+
+#### Death Touch
+
+Necromantia 4: Melee touch. Necrotic. Defend; net pressure to HP (− scoped Resistance).
+
+#### Death Ward
+
+Necromantia 4: One creature ignores the first Sorcerie necrotic hits.
+
+#### Dimber Damber's Web
+
+Canting 4: Silent hand-signals to Sorcerie allies within line of sight for Sorcerie hours.
+
+#### Doom Mark
+
+Necromantia 4: Marked creature suffers −Sorcerie on all Defends for Sorcerie days.
+
+#### Drain Life
+
+Necromantia 4: Touch. Defend; net pressure to HP (− scoped Resistance). You heal half the HP dealt (round down).
+
+#### Dream Walking
+
+Illusione 4: Enter the dream of one sleeping creature within touch for Sorcerie hours (your body helpless).
+
+#### Earthquake
+
+Elementale 4: The ground shakes violently for Sorcerie rounds. Each target may Defend; net pressure to HP (− Resistance).
+
+#### False Memory
+
+Illusione 4: A creature is unable to form short-term memories for Sorcerie turns.
+
+#### Fear Aura
+
+Necromantia 4: Sorcerie creatures become terrified of an object.
+
+#### Haste
+
+Thaumaturgy 4: Sorcerie creatures have their movement speed tripled.
+
+#### Heart Glyph
+
+Vitae 4: Inscribe an emotion on a willing creature for Sorcerie days; those who read the glyph feel it (not control).
+
+#### Mass Suggestion
+
+Illusione 4: A creature obeys a single, Sorcerie-word command that doesn't harm it.
+
+#### Masterscript
+
+Thaumaturgy 4: Inscribe a command rune; the next Sorcerie readers who touch it obey one Sorcerie-word command (Defend).
+
+#### Maze Whispers
+
+Canting 4: A creature can hear all sounds up to 120' away for Sorcerie turns.
+
+#### Mind Shield
+
+Illusione 4: One creature immune to read-mind and charm for Sorcerie hours.
+
+#### Peace Aura
+
+Vitae 4: Sorcerie creatures develop an intense hatred of violence unless attacked.
+
+#### Perfect Mort
+
+Canting 4: You may alter the look of Sorcerie humanoids as long as they remain humanoid. Lasts until the subjects speak.
+
+#### Purification
+
+Vitae 4: Purify Sorcerie × 10' of food, water, or air of mundane toxins.
+
+#### Read Mind
+
+Illusione 4: You can hear the surface thoughts of creatures for Sorcerie turns.
+
+#### Rum Ken
+
+Canting 4: Locate the nearest safehouse or fence in a settlement.
+
+#### Sculpt Elements
+
+Elementale 4: Inanimate material acts like clay in your hands for Sorcerie turns.
+
+#### Shadow Meld
+
+Umbrakala 4: Merge with shadow; invisible while still for Sorcerie turns.
+
+#### Shadow Step
+
+Umbrakala 4: Step between shadows within Sorcerie × 40' once per round for Sorcerie turns.
+
+#### Shared Ward Pact
+
+Sorcerie 4: Cast over a Ward Pact or Greater Ward Pact you know and name its source as with
 those: either extend that ward to **Sorcerie willing creatures** within 10' (each takes
 **−Sorcerie Damage** from the named source), or grant **one** creature outright **immunity**
 to it. Lasts Sorcerie turns. The old **Greater Parma** is simply this cast on the *magic*
 pact.
 
-### 5th level spells
+#### Sharper's Nose
 
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 5.1 | Identify | info |
+Canting 4: A creature can smell all scents up to 120' away for Sorcerie turns.
 
-#### Identify — level 5 (code 5.1)
+#### Shuffle
 
-*tagline: read a magic item true*
+Umbrakala 4: Sorcerie creatures switch places randomly.
 
-**Tags:** info · **Roll:** Sorcerie · **Save:** none
+#### Smoke Form
 
-**Effect:** Study one magic item for ten minutes; learn its powers, its command word if any,
+Umbrakala 4: Your body and gear become living smoke for Sorcerie turns.
+
+#### Snail Knight
+
+Vitae 4: In 10 minutes, a knight atop a giant snail rides into view. He may aid you for Sorcerie days if he finds you worthy. The snail cannot move faster than a walk.
+
+#### Speak with Dead
+
+Necromantia 4: The spirit of a touched dead body appears and will answer Sorcerie questions (if it can).
+
+#### Stone Tell
+
+Elementale 4: The Guide answers Sorcerie yes or no questions about an object.
+
+#### Teleport
+
+Thaumaturgy 4: An object teleports to a clear patch of ground up to Sorcerie × 40' away from its origin point.
+
+#### Topping Cove
+
+Canting 4: You can climb surfaces like a spider for Sorcerie turns.
+
+#### Unravel
+
+Thaumaturgy 4: Cast this as a reaction to another spell of level Sorcerie or less going off to nullify it.
+
+#### Visual Illusion
+
+Illusione 4: You create Sorcerie silent, immobile, illusory objects that last until they are touched.
+
+#### Void Step
+
+Umbrakala 4: An object teleports to a clear patch of ground up to Sorcerie × 40' away from its origin point.
+
+#### Ward
+
+Vitae 4: A silver circle 40' across appears on the ground around you. Until you leave the circle, Sorcerie types of things that you name cannot cross it.
+
+#### Water Breathing
+
+Elementale 4: Sorcerie creatures breathe water for Sorcerie hours.
+
+#### Whirlwind
+
+Elementale 4: You create a vortex of air Sorcerie × 10' wide that can deflect missiles.
+
+#### Wild Empathy
+
+Vitae 4: For Sorcerie hours, sense the surface feelings of animals within 120'.
+
+#### Wind Shield
+
+Elementale 4: Missiles at you suffer −Sorcerie Damage for Sorcerie turns.
+
+### 5th level
+
+#### Animate Tool
+
+Thaumaturgy 5: Objects obey your orders. They move 15' per round.
+
+#### Binding Circle
+
+Thaumaturgy 5: A silver circle 40' across appears on the ground around you. Until you leave the circle, Sorcerie types of things that you name cannot cross it.
+
+#### Bulk the Watch
+
+Canting 5: Sorcerie guards rush to a false alarm you trigger.
+
+#### Cure Disease
+
+Vitae 5: Touch one creature; one mundane disease or poison cycle ends. Magical afflictions need Sorcerie vs Guide DC.
+
+#### Darkmans Veil
+
+Canting 5: Sorcerie creatures are invisible for as long as they can hold their breath.
+
+#### Death Gate
+
+Necromantia 5: Open a chill gate to the underworld for Sorcerie rounds; undead step through; living may Defend or take **1d6** cold per round.
+
+#### Density Control
+
+Thaumaturgy 5: The gravity within Sorcerie × 10' of you triples.
+
+#### Dimension Door
+
+Umbrakala 5: You step through shadow to a spot you see within Sorcerie × 40'.
+
+#### Enhance Power
+
+Thaumaturgy 5: Next spell cast from this Arcana within Sorcerie hours gains +1 effective Sorcerie for scaling only.
+
+#### Ghost Bind
+
+Necromantia 5: Trap one spirit in an object for Sorcerie years.
+
+#### Identify
+
+Sorcerie 5: Study one magic item for ten minutes; learn its powers, its command word if any,
 and whether it is cursed. A legendary Arcana yields its Level but not its true name — that is
 found in play. Best worked as a ritual.
 
-### 6th level spells
+#### Kalla Gate
 
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 6.1 | Permanency | util |
+Umbrakala 5: Open a pocket realm (Sorcerie × 10' room) for Sorcerie hours; one door in, one door out.
 
-#### Permanency — level 6 (code 6.1)
+#### Ken Miller
 
-*tagline: make a working last*
+Canting 5: Sorcerie locks unlock.
 
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
+#### Magic Suppressor
 
-**Effect:** Anchor one ongoing working you know, of level ≤ Sorcerie − 1, so it no longer
-needs sustaining or re-binding: it holds until dispelled. It permanently occupies one of
-your Arcana slots while it stands (the working lives there). You may hold one Permanency per
-Sorcerie level.
+Thaumaturgy 5: All magic is nullified while within Sorcerie × 10' of you.
 
-## Vitae
+#### Major Image
 
-Life force, growth, and harmony. The magic of the Elves, written in living ink that grows and changes like vines.
+Illusione 5: A clearly unreal illusion appears under your control for Sorcerie days. It may be up to the size of a palace and has full motion and sound.
 
-### 1st level spells
+#### Mill the Watch
 
-| Code | Spell             | Tags |
-| ---- | ----------------- | ---- |
-| 1.1  | Animal Bond       | util |
-| 1.2  | Animal Friendship | ctrl |
-| 1.3  | Beast Speech      | info |
-| 1.4  | Healing Touch     | util |
-| 1.5  | Joy Song          | util |
-| 1.6  | Light Shield      | ward |
+Canting 5: One sentry distracted Sorcerie × 10 minutes.
 
-#### Animal Bond — level 1 (code 1.1)
+#### Mind Maze
 
-*v1.4 tagline: form lasting connection*
+Illusione 5: One creature is lost in a mental maze for Sorcerie turns (control if cast ≥ HP).
 
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
+#### Mizzle
 
-**Effect:** Touch one animal; it regards you as a trusted companion for Sorcerie months. It will not obey suicidal orders. Re-casting on the same animal extends the bond.
+Canting 5: When spotted, vanish into crowd or shadow — one automatic escape if a plausible hide exists.
 
-#### Animal Friendship — level 1 (code 1.2)
+#### Nature's Blessing
 
-*v1.4 tagline: benevolent control*
+Vitae 5: One creature gains +Sorcerie max HP until you sleep (8 hours) (cannot exceed HP + Sorcerie).
 
-**Tags:** ctrl · **Roll:** Sorcerie · **Save:** Sorcerie
+#### Nature's Rhythm
 
-**Effect:** Animals obey your orders as well as a trained dog for one day.
+Vitae 5: For Sorcerie hours, party ignores mundane travel fatigue Costs (Journeyman effects still stack).
 
-#### Beast Speech — level 1 (code 1.3)
+#### Pack Call
 
-*v1.4 tagline: talk with animals*
+Vitae 5: Summon Sorcerie loyal beasts (HD 1 each) from the wild; they serve for one day then leave.
 
-**Tags:** info · **Roll:** Plan A · **Save:** none
+#### Phantom Coach
 
-**Effect:** You understand and speak with animals for Sorcerie hours. They do not obey unless persuaded (Heart) or befriended.
+Umbrakala 5: A coach scoops up Sorcerie creatures (who are outdoors) and deposits them in a random adjacent hex.
 
-#### Healing Touch — level 1 (code 1.4)
+#### Realm Weave
 
-*v1.4 tagline: cure wounds*
+Umbrakala 5: Link two doorways within Sorcerie miles for Sorcerie days — shadow passage between them.
 
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
+#### Regeneration
 
-**Effect:** Touch a willing creature — restore **1d6 HP**, or close one **open limb wound** (not vital). Does not auto-close vital wounds. *Campaign alias: **Mend**.*
+Vitae 5: One creature heals 1 HP at the end of each World Turn for Sorcerie hours (does not close wounds).
 
-#### Joy Song — level 1 (code 1.5)
+#### Rum Mort
 
-*v1.4 tagline: lift spirits*
+Canting 5: Forge papers and bearing for a false identity; passes casual scrutiny Sorcerie days.
 
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
+#### Scry
 
-**Effect:** Sorcerie listeners shake off fear or despair; each recovers 1 HP if they have at least 1 HP. Lasts one scene.
+Illusione 5: You can share the vision of a creature you touched today for Sorcerie turns.
 
-#### Light Shield — level 1 (code 1.6)
+#### Shadow Time
 
-*v1.4 tagline: protect from evil*
+Umbrakala 5: Time within Sorcerie × 10' of you goes 10 times slower than the rest of the world. Lasts 10 rounds (for you).
 
-**Tags:** ward · **Roll:** Sorcerie · **Save:** none
+#### Silent Image
 
-**Effect:** One creature; evil-aligned attacks against them suffer −1 Damage for Sorcerie turns; charm/possession from evil fails on Sorcerie 1+ targets automatically vs weak evils.
+Illusione 5: You create Sorcerie silent, immobile, illusory objects that last until they are touched.
 
-### 2nd level spells
+#### Spirit Chains
 
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 2.1 | Balance Weave | util |
-| 2.2 | Beast Bond | util |
-| 2.3 | Beast Form | util |
-| 2.4 | Divine Grace | ward |
-| 2.5 | Growing Script | util |
-| 2.6 | Life Bloom | util |
+Necromantia 5: Bind one ghost to service for Sorcerie days.
 
-#### Balance Weave — level 2 (code 2.1)
+#### Spirit Form
 
-*v1.4 tagline: unite opposites*
+Necromantia 5: Your body and gear become living smoke for Sorcerie turns.
 
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
+#### Stone Skin
 
-**Effect:** For Sorcerie hours, two opposed forces within 10' (heat/cold, light/dark, poison/antidote) neutralize each other at the midpoint.
+Elementale 5: Your skin counts as AC +Sorcerie (max +4) for Sorcerie turns; movement halved.
 
-#### Beast Bond — level 2 (code 2.2)
+#### Storm Call
 
-*v1.4 tagline: create long-lasting bond*
+Elementale 5: Thunderstorm in Sorcerie × 40' for Sorcerie hours; each round one random target in the storm: **1d6** per round to HP (− Resistance).
 
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
+#### Summon Cube
 
-**Effect:** As Animal Bond, but permanent until the animal dies or you release it. One bond active at a time per caster.
+Elementale 5: You may summon or banish a 5' cube of earth 5 times per round for Sorcerie rounds. Cubes must be affixed to the earth or to other cubes.
 
-#### Beast Form — level 2 (code 2.3)
+#### Summon Idol
 
-*v1.4 tagline: friendly transformation*
+Elementale 5: A carved stone statue up to Sorcerie × 10' tall rises from the ground.
 
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
+#### Threshold Walk
 
-**Effect:** You and your possessions turn into an animal for up to Sorcerie days.
+Umbrakala 5: Pass through Sorcerie closed doors/windows as if open; no sound.
 
-#### Divine Grace — level 2 (code 2.4)
+#### Thunder Call
 
-*v1.4 tagline: channel blessing*
+Elementale 5: Burst in Sorcerie × 10'. Each target may Defend; net pressure to HP (− Resistance). Deafened 1 turn if net pressure lands.
 
-**Tags:** ward · **Roll:** Sorcerie · **Save:** none
+#### Time Slip
 
-**Effect:** One ally gains +1 on their next Sorcerie roll or Wound Check within Sorcerie hours (blessing, not stacking).
+Thaumaturgy 5: Time within Sorcerie × 10' of you goes 10 times slower than the rest of the world. Lasts 10 rounds (for you).
 
-#### Growing Script — level 2 (code 2.5)
+#### Truth Sense
 
-*v1.4 tagline: living magical writing*
+Necromantia 5: You can detect lies for Sorcerie hours.
 
-**Tags:** util · **Roll:** Plan A · **Save:** none
+#### Upwell
 
-**Effect:** Living text grows on a surface for Sorcerie days; only readers of Vitae (or Read Magic) can read it.
+Elementale 5: A spring of seawater erupts, producing a thousand cubic feet of water per turn for Sorcerie turns.
 
-#### Life Bloom — level 2 (code 2.6)
+#### Vampiric Touch
 
-*v1.4 tagline: encourage growth*
+Necromantia 5: Touch. Defend; net pressure to HP (− scoped Resistance). You heal the HP dealt (cannot exceed max HP).
 
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
+#### Vision
 
-**Effect:** Plants within Sorcerie × 10' obey you. They move 5' per round.
+Illusione 5: You create an illusory object with full motion and sound that only one creature can sense. Lasts Sorcerie turns.
 
-### 3rd level spells
+#### Vital Surge
 
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 3.1 | Forest Touch | info |
-| 3.2 | Pacify | ctrl |
-| 3.3 | Star Guide | info |
-| 3.4 | Sun Beam | dmg |
-| 3.5 | Thicket | util |
-| 3.6 | Truth Sight | info |
+Vitae 5: Touch one creature — they gain Sorcerie temporary HP (lost first); fades when you sleep (8 hours).
 
-#### Forest Touch — level 3 (code 3.1)
+#### X-Ray Vision
 
-*v1.4 tagline: speak with plants*
+Illusione 5: You can see through Sorcerie feet of material.
 
-**Tags:** info · **Roll:** Sorcerie · **Save:** none
+### 6th level
 
-**Effect:** Plants within Sorcerie × 10' obey you. They move 5' per round.
+#### Blood Brotherhood
 
-#### Pacify — level 3 (code 3.2)
+Canting 6: Sorcerie street folk swear a one-job loyalty (Defend to break free).
 
-*v1.4 tagline: remove violence*
+#### Control Weather
 
-**Tags:** ctrl · **Roll:** Sorcerie · **Save:** Sorcerie
+Elementale 6: You control your hex's weather for Sorcerie hours.
 
-**Effect:** Sorcerie creatures develop an intense hatred of violence unless attacked.
+#### Darkmans Twin
 
-#### Star Guide — level 3 (code 3.3)
+Canting 6: Sorcerie illusory copies of you, under your control, appear.
 
-*v1.4 tagline: find true path*
+#### Deathless Brotherhood
 
-**Tags:** info · **Roll:** Plan A · **Save:** none
+Canting 6: The spirit of a touched dead body appears and will answer Sorcerie questions (if it can).
 
-**Effect:** For Sorcerie hours you know the true direction to one named place you have visited before.
+#### Element Master
 
-#### Sun Beam — level 3 (code 3.4)
+Elementale 6: For Sorcerie turns, choose one element (fire/ice/lightning/water/earth/air); shape it within Sorcerie × 10' — utility only, or **1d6** direct damage per action (once per round).
 
-*v1.4 tagline: channel daylight*
+#### Jarkman's Gift
 
-**Tags:** dmg · **Roll:** Sorcerie · **Save:** Sword
+Canting 6: Create Sorcerie fragile, porcelain copies of items you can see.
 
-**Effect:** A beam of daylight (torch-bright, 60' radius) for Sorcerie turns; shadow creatures in it take **1d6** per round to HP (− Resistance). (shadow creatures only).
+#### Life Transfer
 
-#### Thicket — level 3 (code 3.5)
+Vitae 6: You and one willing creature split HP pools evenly (round down); excess HP you had is lost as fatigue.
 
-*v1.4 tagline: grow healthy plants*
+#### Magic Circle
 
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
+Thaumaturgy 6: A 10' circle safe for casting for Sorcerie hours; hostile magic entering must Defend.
 
-**Effect:** A thicket of trees and dense brush up to Sorcerie × 40' wide sprouts up over the course of one round.
+#### Many Faces
 
-#### Truth Sight — level 3 (code 3.6)
+Canting 6: You may alter the look of Sorcerie humanoids as long as they remain humanoid. Lasts until the subjects speak.
 
-*v1.4 tagline: see through lies*
+#### Mass Animation
 
-**Tags:** info · **Roll:** Sorcerie · **Save:** none
+Necromantia 6: Sorcerie unarmed skeletons rise from the ground to serve you.
 
-**Effect:** You can detect lies for Sorcerie hours.
+#### Mirror Walk
 
-### 4th level spells
+Illusione 6: A mirror becomes a gate to another mirror you touched today.
 
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 4.1 | Heart Glyph | util |
-| 4.2 | Peace Aura | ctrl |
-| 4.3 | Purification | util |
-| 4.4 | Snail Knight | summon |
-| 4.5 | Ward | ward |
-| 4.6 | Wild Empathy | info |
+#### Nature's Bounty
 
-#### Heart Glyph — level 4 (code 4.1)
+Vitae 6: Create enough wholesome food and water for Sorcerie × 4 people for one day.
 
-*v1.4 tagline: inscribe emotions*
+#### Perfect Control
 
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
+Thaumaturgy 6: For Sorcerie turns, telekinesis on items within 30' with fine control (no combat damage above 1d6).
 
-**Effect:** Inscribe an emotion on a willing creature for Sorcerie days; those who read the glyph feel it (not control).
+#### Perfect Death
 
-#### Peace Aura — level 4 (code 4.2)
+Necromantia 6: One living creature at 0 HP or below fails one Wound Check automatically (coup magic). Moral weight.
 
-*v1.4 tagline: calm violence*
+#### Perfect Illusion
 
-**Tags:** ctrl · **Roll:** Sorcerie · **Save:** Sorcerie
+Illusione 6: A clearly unreal illusion appears under your control for Sorcerie days. It may be up to the size of a palace and has full motion and sound.
 
-**Effect:** Sorcerie creatures develop an intense hatred of violence unless attacked.
+#### Perfect Shadow
 
-#### Purification — level 4 (code 4.3)
+Umbrakala 6: Become living shadow for Sorcerie turns; immune to non-magical weapons, cannot speak.
 
-*v1.4 tagline: remove toxins*
+#### Perfect Unity
 
-**Tags:** util · **Roll:** Plan A · **Save:** none
+Vitae 6: For Sorcerie turns, hostile emotions cannot escalate in Sorcerie × 10' — no new fights start; existing fights continue.
 
-**Effect:** Purify Sorcerie × 10' of food, water, or air of mundane toxins.
+#### Permanency
 
-#### Snail Knight — level 4 (code 4.4)
+Sorcerie 6: Anchor one ongoing working you know, of level ≤ Sorcerie − 1, so it no longer
+needs sustaining: it holds until dispelled. It permanently occupies one of your Arcana slots
+while it stands (the working lives there; the slot stays **active**, never **used**). You may
+hold one Permanency per Sorcerie level.
 
-*v1.4 tagline: summon noble mount*
+#### Plague Wind
 
-**Tags:** summon · **Roll:** Sorcerie · **Save:** none
+Necromantia 6: Sorcerie × 10' cloud of rot: living creatures Defend daily or lose **1 HP** until cured (attrition, not burst damage).
 
-**Effect:** In 10 minutes, a knight atop a giant snail rides into view. He may aid you for Sorcerie days if he finds you worthy. The snail cannot move faster than a walk.
+#### Plane Shift
 
-#### Ward — level 4 (code 4.5)
+Umbrakala 6: Shift Sorcerie willing creatures to an adjacent shadow-plane for Sorcerie turns; return to entry point.
 
-*v1.4 tagline: create protective barrier*
+#### Prince of Thieves
 
-**Tags:** ward · **Roll:** Sorcerie · **Save:** none
+Canting 6: Sorcerie thieves in earshot will not betray you for Sorcerie days unless offered more gold than you name.
 
-**Effect:** A silver circle 40' across appears on the ground around you. Until you leave the circle, Sorcerie types of things that you name cannot cross it.
+#### Programmed Illusion
 
-#### Wild Empathy — level 4 (code 4.6)
+Illusione 6: An illusion triggers on a condition you set; lasts Sorcerie days.
 
-*v1.4 tagline: share animal feelings*
+#### Raise Dead
 
-**Tags:** info · **Roll:** Plan A · **Save:** none
+Necromantia 6: Sorcerie unarmed skeletons rise from the ground to serve you.
 
-**Effect:** For Sorcerie hours, sense the surface feelings of animals within 120'.
+#### Reality Anchor
 
-### 5th level spells
+Thaumaturgy 6: An object becomes the target of every spell cast within 120' of it for Sorcerie turns.
 
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 5.1 | Cure Disease | util |
-| 5.2 | Nature's Blessing | ward |
-| 5.3 | Nature's Rhythm | util |
-| 5.4 | Pack Call | summon |
-| 5.5 | Regeneration | util |
-| 5.6 | Vital Surge | ward |
+#### Rune Lock
 
-#### Cure Disease — level 5 (code 5.1)
+Thaumaturgy 6: A door cannot be opened by mundane means for Sorcerie turns.
 
-*v1.4 tagline: remove ailments*
+#### Season's Call
 
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
+Vitae 6: Accelerate or slow plant growth in Sorcerie × 40' — harvest, bloom, or wilt over Sorcerie hours.
 
-**Effect:** Touch one creature; one mundane disease or poison cycle ends. Magical afflictions need Sorcerie vs Guide DC.
+#### Shape Material
 
-#### Nature's Blessing — level 5 (code 5.2)
+Thaumaturgy 6: Inanimate material acts like clay in your hands for Sorcerie turns.
 
-*v1.4 tagline: enhance vitality*
+#### Soul Cage
 
-**Tags:** ward · **Roll:** Sorcerie · **Save:** none
+Necromantia 6: Trap a dying soul in a gem for Sorcerie days; speak with it.
 
-**Effect:** One creature gains +Sorcerie max HP until next muster (cannot exceed HP + Sorcerie).
+#### Soul Rend
 
-#### Nature's Rhythm — level 5 (code 5.3)
+Necromantia 6: Defend; net pressure to HP (− scoped Resistance). If brought to 0 HP, soul is shunted out for Sorcerie hours (recoverable).
 
-*v1.4 tagline: align with cycles*
+#### Space Fold
 
-**Tags:** util · **Roll:** Plan A · **Save:** none
+Umbrakala 6: Fold distance: one door opens where another stands within Sorcerie × 100'. Lasts Sorcerie hours.
 
-**Effect:** For Sorcerie hours, party ignores mundane travel fatigue Costs (Journeyman effects still stack).
+#### Spectacle
 
-#### Pack Call — level 5 (code 5.4)
+Illusione 6: A clearly unreal illusion appears under your control for Sorcerie days. It may be up to the size of a palace and has full motion and sound.
 
-*v1.4 tagline: summon animal allies*
+#### Telepathy
 
-**Tags:** summon · **Roll:** Sorcerie · **Save:** none
+Illusione 6: You can project your thoughts into a mind within Sorcerie hexes.
 
-**Effect:** Summon Sorcerie loyal beasts (HD 1 each) from the wild; they serve for one day then leave.
+#### Thaumaturgic Seal
 
-#### Regeneration — level 5 (code 5.5)
+Thaumaturgy 6: A door cannot be opened by mundane means for Sorcerie turns.
 
-*v1.4 tagline: speed natural healing*
+#### Tide Control
 
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
+Elementale 6: Raise or lower water level in Sorcerie × 40' shoreline over Sorcerie hours.
 
-**Effect:** One creature heals 1 HP at the end of each World Turn for Sorcerie hours (does not close wounds).
+#### Tranquil Heart
 
-#### Vital Surge — level 5 (code 5.6)
+Vitae 6: Sorcerie creatures cannot take violent actions for Sorcerie turns unless attacked first .
 
-*v1.4 tagline: boost life force*
+#### True Seeing
 
-**Tags:** ward · **Roll:** Sorcerie · **Save:** none
+Illusione 6: See through illusions and invisibility for Sorcerie hours.
 
-**Effect:** Touch one creature — they gain Sorcerie temporary HP (lost first); fades at next muster.
+#### Twilight Veil
 
-### 6th level spells
+Umbrakala 6: Walk the border between worlds for Sorcerie hours; unseen by either side unless they Defend.
 
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 6.1 | Life Transfer | util |
-| 6.2 | Nature's Bounty | util |
-| 6.3 | Perfect Unity | ward |
-| 6.4 | Season's Call | util |
-| 6.5 | Tranquil Heart | ctrl |
-| 6.6 | Vital Harmony | util |
+#### Vital Harmony
 
-#### Life Transfer — level 6 (code 6.1)
+Vitae 6: All willing creatures in Sorcerie × 10' set their HP to the average (round down) of the group.
 
-*v1.4 tagline: share vital force*
+#### Void Gate
 
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
+Umbrakala 6: Open a portal to a named void for Sorcerie rounds; anything entering is lost unless pulled back.
 
-**Effect:** You and one willing creature split HP pools evenly (round down); excess HP you had is lost as fatigue.
+#### Void Shield
 
-#### Nature's Bounty — level 6 (code 6.2)
+Umbrakala 6: Barrier absorbs Sorcerie × 5 HP of damage; then collapses.
 
-*v1.4 tagline: create food/water*
+#### Water Shape
 
-**Tags:** util · **Roll:** Plan A · **Save:** none
+Elementale 6: Shape standing water like clay within Sorcerie × 10' for Sorcerie turns.
 
-**Effect:** Create enough wholesome food and water for Sorcerie × 4 people for one day.
+#### Wind Walk
 
-#### Perfect Unity — level 6 (code 6.3)
+Elementale 6: You float on wind at walk speed for Sorcerie hours; cannot carry others.
 
-*v1.4 tagline: complete balance*
+#### Zephyr
 
-**Tags:** ward · **Roll:** Sorcerie · **Save:** Sorcerie
-
-**Effect:** For Sorcerie turns, hostile emotions cannot escalate in Sorcerie × 10' — no new fights start; existing fights continue.
-
-#### Season's Call — level 6 (code 6.4)
-
-*v1.4 tagline: control growth cycle*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Accelerate or slow plant growth in Sorcerie × 40' — harvest, bloom, or wilt over Sorcerie hours.
-
-#### Tranquil Heart — level 6 (code 6.5)
-
-*v1.4 tagline: create inner peace*
-
-**Tags:** ctrl · **Roll:** Sorcerie · **Save:** Sorcerie
-
-**Effect:** Sorcerie creatures cannot take violent actions for Sorcerie turns unless attacked first (control — save Sorcerie).
-
-#### Vital Harmony — level 6 (code 6.6)
-
-*v1.4 tagline: balance life forces*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** All willing creatures in Sorcerie × 10' set their HP to the average (round down) of the group.
-
-## Elementale
-
-Primal forces, elements, and weather. The Baal inscribe dragon magic in burning runes carved in stone.
-
-### 1st level spells
-
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 1.1 | Crystal Growth | util |
-| 1.2 | Dragon's Breath | dmg |
-| 1.3 | Fog Cloud | util |
-| 1.4 | Heat Metal | dmg |
-| 1.5 | Icy Touch | util |
-| 1.6 | Web Weave | util |
-
-#### Crystal Growth — level 1 (code 1.1)
-
-*v1.4 tagline: form gems*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Grow Sorcerie fist-sized crystals from stone over Sorcerie hours; worth little but hard as stone.
-
-#### Dragon's Breath — level 1 (code 1.2)
-
-*v1.4 tagline: channel flame*
-
-**Tags:** dmg · **Roll:** Sword · **Save:** Sword
-
-**Effect:** Cone 60'. Cone: **1d6** to HP per creature (− Resistance). Each target — **Sword** save for half.
-
-#### Fog Cloud — level 1 (code 1.3)
-
-*v1.4 tagline: create mist*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Fog spreads out in a Sorcerie × 10' radius from you. Fades in one turn.
-
-#### Heat Metal — level 1 (code 1.4)
-
-*v1.4 tagline: make objects burning*
-
-**Tags:** dmg · **Roll:** Sorcerie · **Save:** Sword
-
-**Effect:** One metal object glows hot for Sorcerie turns; holder takes **1d6** per round to HP (− Resistance). Unless dropped.
-
-#### Icy Touch — level 1 (code 1.5)
-
-*v1.4 tagline: spread ice*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** An ice layer spreads across a surface, up to Sorcerie × 10' in radius.
-
-#### Web Weave — level 1 (code 1.6)
-
-*v1.4 tagline: spin natural nets*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** You can shoot Sorcerie × 40' of strong, sticky web. Lasts until burned.
-
-### 2nd level spells
-
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 2.1 | Earth Shape | util |
-| 2.2 | Elemental Wall | ward |
-| 2.3 | Fire Shield | ward |
-| 2.4 | Force Wall | ward |
-| 2.5 | Gravity Shift | util |
-| 2.6 | Increase Gravity | util |
-
-#### Earth Shape — level 2 (code 2.1)
-
-*v1.4 tagline: mold stone*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Inanimate material acts like clay in your hands for Sorcerie turns.
-
-#### Elemental Wall — level 2 (code 2.2)
-
-*v1.4 tagline: create barrier*
-
-**Tags:** ward · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Creates a wall of ice or fire Sorcerie × 40' long, 5' wide and 10' tall. The wall can curve however you want.
-
-#### Fire Shield — level 2 (code 2.3)
-
-*v1.4 tagline: protective flames*
-
-**Tags:** ward · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Flames wreath you for Sorcerie turns; melee attackers take **1d6** per round to HP (− Resistance). On a hit.
-
-#### Force Wall — level 2 (code 2.4)
-
-*v1.4 tagline: energy barrier*
-
-**Tags:** ward · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Invisible barrier Sorcerie × 20' long, 10' high; blocks physical passage until it takes Sorcerie × 5 damage.
-
-#### Gravity Shift — level 2 (code 2.5)
-
-*v1.4 tagline: change gravity*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** Sorcerie
-
-**Effect:** Sorcerie creatures can alter their 'down' direction at will.
-
-#### Increase Gravity — level 2 (code 2.6)
-
-*v1.4 tagline: triple weight*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** Sword
-
-**Effect:** The gravity within Sorcerie × 10' of you triples.
-
-### 3rd level spells
-
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 3.1 | Lightning Strike | dmg |
-| 3.2 | Liquid Air | util |
-| 3.3 | Mist Form | util |
-| 3.4 | Mountain's Strength | util |
-| 3.5 | Rain Make | util |
-| 3.6 | Steam Form | util |
-
-#### Lightning Strike — level 3 (code 3.1)
-
-*v1.4 tagline: call electricity*
-
-**Tags:** dmg · **Roll:** Sword · **Save:** Sword
-
-**Effect:** **1d6+2** to HP (− scoped Resistance). **Sword** save for half (round down, min 0).
-
-#### Liquid Air — level 3 (code 3.2)
-
-*v1.4 tagline: make air swimmable*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** The air within Sorcerie × 10' of you becomes swimmable.
-
-#### Mist Form — level 3 (code 3.3)
-
-*v1.4 tagline: become vapor*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** Sword
-
-**Effect:** Your body and gear become living smoke for Sorcerie turns.
-
-#### Mountain's Strength — level 3 (code 3.4)
-
-*v1.4 tagline: earth power*
-
-**Tags:** util · **Roll:** Sword · **Save:** none
-
-**Effect:** You gain +Sorcerie Damage on shove/break attempts for Sorcerie turns.
-
-#### Rain Make — level 3 (code 3.5)
-
-*v1.4 tagline: create downpour*
-
-**Tags:** util · **Roll:** Plan A · **Save:** none
-
-**Effect:** Rain falls in Sorcerie × 40' for Sorcerie hours.
-
-#### Steam Form — level 3 (code 3.6)
-
-*v1.4 tagline: become vapor*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Your body and gear become living smoke for Sorcerie turns.
-
-### 4th level spells
-
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 4.1 | Earthquake | dmg |
-| 4.2 | Sculpt Elements | util |
-| 4.3 | Stone Tell | info |
-| 4.4 | Water Breathing | util |
-| 4.5 | Whirlwind | ward |
-| 4.6 | Wind Shield | ward |
-
-#### Earthquake — level 4 (code 4.1)
-
-*v1.4 tagline: shake ground*
-
-**Tags:** dmg · **Roll:** Sword · **Save:** none
-
-**Effect:** The ground shakes violently for Sorcerie rounds. Area: **2d6** to HP per creature (− Resistance). Each target — **Sword** save for half.
-
-#### Sculpt Elements — level 4 (code 4.2)
-
-*v1.4 tagline: shape materials*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Inanimate material acts like clay in your hands for Sorcerie turns.
-
-#### Stone Tell — level 4 (code 4.3)
-
-*v1.4 tagline: read earth memories*
-
-**Tags:** info · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** The Guide answers Sorcerie yes or no questions about an object.
-
-#### Water Breathing — level 4 (code 4.4)
-
-*v1.4 tagline: breathe liquid*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Sorcerie creatures breathe water for Sorcerie hours.
-
-#### Whirlwind — level 4 (code 4.5)
-
-*v1.4 tagline: create vortex*
-
-**Tags:** ward · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** You create a vortex of air Sorcerie × 10' wide that can deflect missiles.
-
-#### Wind Shield — level 4 (code 4.6)
-
-*v1.4 tagline: air protection*
-
-**Tags:** ward · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Missiles at you suffer −Sorcerie Damage for Sorcerie turns.
-
-### 5th level spells
-
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 5.1 | Stone Skin | ward |
-| 5.2 | Storm Call | dmg |
-| 5.3 | Summon Cube | util |
-| 5.4 | Summon Idol | summon |
-| 5.5 | Thunder Call | dmg |
-| 5.6 | Upwell | util |
-
-#### Stone Skin — level 5 (code 5.1)
-
-*v1.4 tagline: harden flesh*
-
-**Tags:** ward · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Your skin counts as AC +Sorcerie (max +4) for Sorcerie turns; movement halved.
-
-#### Storm Call — level 5 (code 5.2)
-
-*v1.4 tagline: summon thunder*
-
-**Tags:** dmg · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Thunderstorm in Sorcerie × 40' for Sorcerie hours; each round one random target in the storm: **1d6** per round to HP (− Resistance).
-
-#### Summon Cube — level 5 (code 5.3)
-
-*v1.4 tagline: control earth*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** You may summon or banish a 5' cube of earth 5 times per round for Sorcerie rounds. Cubes must be affixed to the earth or to other cubes.
-
-#### Summon Idol — level 5 (code 5.4)
-
-*v1.4 tagline: create statue*
-
-**Tags:** summon · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** A carved stone statue up to Sorcerie × 10' tall rises from the ground.
-
-#### Thunder Call — level 5 (code 5.5)
-
-*v1.4 tagline: create sonic boom*
-
-**Tags:** dmg · **Roll:** Sword · **Save:** Sword
-
-**Effect:** Burst in Sorcerie × 10': **2d6** to HP per creature (− Resistance). Deafened 1 turn on failed save. Each target — **Sword** save for half.
-
-#### Upwell — level 5 (code 5.6)
-
-*v1.4 tagline: create spring*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** A spring of seawater erupts, producing a thousand cubic feet of water per turn for Sorcerie turns.
-
-### 6th level spells
-
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 6.1 | Control Weather | util |
-| 6.2 | Element Master | util |
-| 6.3 | Tide Control | util |
-| 6.4 | Water Shape | util |
-| 6.5 | Wind Walk | util |
-| 6.6 | Zephyr | util |
-
-#### Control Weather — level 6 (code 6.1)
-
-*v1.4 tagline: command climate*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** You control your hex's weather for Sorcerie hours.
-
-#### Element Master — level 6 (code 6.2)
-
-*v1.4 tagline: complete control*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** For Sorcerie turns, choose one element (fire/ice/lightning/water/earth/air); shape it within Sorcerie × 10' — utility only, or **1d6** direct damage per action (ongoing rubric cap).
-
-#### Tide Control — level 6 (code 6.3)
-
-*v1.4 tagline: command waters*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Raise or lower water level in Sorcerie × 40' shoreline over Sorcerie hours.
-
-#### Water Shape — level 6 (code 6.4)
-
-*v1.4 tagline: control liquid*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Shape standing water like clay within Sorcerie × 10' for Sorcerie turns.
-
-#### Wind Walk — level 6 (code 6.5)
-
-*v1.4 tagline: float on breeze*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** You float on wind at walk speed for Sorcerie hours; cannot carry others.
-
-#### Zephyr — level 6 (code 6.6)
-
-*v1.4 tagline: ride the winds*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** You and Sorcerie companions ride a tailwind — double overland speed for Sorcerie hours.
-
-## Thaumaturgy
-
-Physical laws, mechanisms, and force. The engineering magic of the Dwur, written in foundational runes that command reality.
-
-### 1st level spells
-
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 1.1 | Adhere | util |
-| 1.2 | Command | ctrl |
-| 1.3 | Thaumaturgic Hand | util |
-| 1.4 | Filch | util |
-| 1.5 | Force Push | util |
-| 1.6 | Leap | util |
-
-#### Adhere — level 1 (code 1.1)
-
-*v1.4 tagline: make sticky*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Objects become sticky enough to hold a person to a ceiling. Lasts until washed.
-
-#### Command — level 1 (code 1.2)
-
-*v1.4 tagline: force obedience*
-
-**Tags:** ctrl · **Roll:** Sorcerie · **Save:** Sorcerie
-
-**Effect:** A creature obeys a single, Sorcerie-word command that doesn't harm it.
-
-#### Thaumaturgic Hand — level 1 (code 1.3)
-
-*v1.4 tagline: spectral hand*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** A spectral hand appears within Sorcerie × 10' and carries or manipulates light objects at your command for Sorcerie turns. It cannot attack or exert real force.
-
-#### Filch — level 1 (code 1.4)
-
-*v1.4 tagline: teleport items*
-
-**Tags:** util · **Roll:** Sword · **Save:** none
-
-**Effect:** Sorcerie visible items teleport to your hands.
-
-#### Force Push — level 1 (code 1.5)
-
-*v1.4 tagline: directional power*
-
-**Tags:** util · **Roll:** Sword · **Save:** none
-
-**Effect:** An object of any size is pushed directly away from you with the force of Sorcerie men for one round.
-
-#### Leap — level 1 (code 1.6)
-
-*v1.4 tagline: control jumping*
-
-**Tags:** util · **Roll:** Sword · **Save:** none
-
-**Effect:** You can jump up to Sorcerie × 10'.
-
-### 2nd level spells
-
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 2.1 | Animate Object | util |
-| 2.2 | Hover | util |
-| 2.3 | Invisible Tether | util |
-| 2.4 | Knock | util |
-| 2.5 | Lock | util |
-| 2.6 | Sort | util |
-
-#### Animate Object — level 2 (code 2.1)
-
-*v1.4 tagline: objects obey*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Objects obey your orders. They move 15' per round.
-
-#### Hover — level 2 (code 2.2)
-
-*v1.4 tagline: control levitation*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Make Sorcerie objects hover 2' above the ground, frictionless. They can support the weight of up to Sorcerie people.
-
-#### Invisible Tether — level 2 (code 2.3)
-
-*v1.4 tagline: bind objects*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Sorcerie objects within 10' of each other cannot be moved more than 10' apart from each other.
-
-#### Knock — level 2 (code 2.4)
-
-*v1.4 tagline: open locks*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Sorcerie locks unlock.
-
-#### Lock — level 2 (code 2.5)
-
-*v1.4 tagline: seal door*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** A door cannot be opened by mundane means for Sorcerie turns.
-
-#### Sort — level 2 (code 2.6)
-
-*v1.4 tagline: organize items*
-
-**Tags:** util · **Roll:** Plan A · **Save:** none
-
-**Effect:** Inanimate items sort themselves according to Sorcerie categories you set. The categories must be visually verifiable.
-
-### 3rd level spells
-
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 3.1 | Control Device | util |
-| 3.2 | Mend | util |
-| 3.3 | Object Memory | info |
-| 3.4 | Shrink Item | util |
-| 3.5 | Spider Climb | util |
-| 3.6 | Strengthen | util |
-
-#### Control Device — level 3 (code 3.1)
-
-*v1.4 tagline: command mechanisms*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Mechanisms (locks, traps, clockwork) obey simple commands for Sorcerie turns within 30'.
-
-#### Mend — level 3 (code 3.2)
-
-*v1.4 tagline: repair objects*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Repair one broken mundane object up to chair-size; magical items need Sorcerie vs Guide DC. *Objects only — not flesh.*
-
-#### Object Memory — level 3 (code 3.3)
-
-*v1.4 tagline: read item history*
-
-**Tags:** info · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** The Guide answers Sorcerie yes or no questions about an object.
-
-#### Shrink Item — level 3 (code 3.4)
-
-*v1.4 tagline: reduce size*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** You and Sorcerie other touched creatures become mouse-sized.
-
-#### Spider Climb — level 3 (code 3.5)
-
-*v1.4 tagline: control climbing*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** You can climb surfaces like a spider for Sorcerie turns.
-
-#### Strengthen — level 3 (code 3.6)
-
-*v1.4 tagline: reinforce material*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** One object gains Sorcerie × 5 structural HP; breaks only under deliberate force.
-
-### 4th level spells
-
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 4.1 | Astral Prison | ward |
-| 4.2 | Augment Object | util |
-| 4.3 | Haste | util |
-| 4.4 | Masterscript | ctrl |
-| 4.5 | Teleport | util |
-| 4.6 | Unravel | ward |
-
-#### Astral Prison — level 4 (code 4.1)
-
-*v1.4 tagline: crystal stasis*
-
-**Tags:** ward · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** An object is frozen in time and space within an invulnerable crystal shell for Sorcerie turns.
-
-#### Augment Object — level 4 (code 4.2)
-
-*v1.4 tagline: enhance item*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** One weapon or tool gains +1 effective slot class or +1 util bonus for Sorcerie days.
-
-#### Haste — level 4 (code 4.3)
-
-*v1.4 tagline: control speed*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Sorcerie creatures have their movement speed tripled.
-
-#### Masterscript — level 4 (code 4.4)
-
-*v1.4 tagline: write command runes*
-
-**Tags:** ctrl · **Roll:** Sorcerie · **Save:** Sorcerie
-
-**Effect:** Inscribe a command rune; the next Sorcerie readers who touch it obey one Sorcerie-word command (save Sorcerie).
-
-#### Teleport — level 4 (code 4.5)
-
-*v1.4 tagline: move objects*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** An object teleports to a clear patch of ground up to Sorcerie × 40' away from its origin point.
-
-#### Unravel — level 4 (code 4.6)
-
-*v1.4 tagline: counter spells*
-
-**Tags:** ward · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Cast this as a reaction to another spell of level Sorcerie or less going off to nullify it.
-
-### 5th level spells
-
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 5.1 | Animate Tool | util |
-| 5.2 | Binding Circle | ward |
-| 5.3 | Density Control | util |
-| 5.4 | Enhance Power | util |
-| 5.5 | Magic Suppressor | ward |
-| 5.6 | Time Slip | util |
-
-#### Animate Tool — level 5 (code 5.1)
-
-*v1.4 tagline: give purpose*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Objects obey your orders. They move 15' per round.
-
-#### Binding Circle — level 5 (code 5.2)
-
-*v1.4 tagline: contain force*
-
-**Tags:** ward · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** A silver circle 40' across appears on the ground around you. Until you leave the circle, Sorcerie types of things that you name cannot cross it.
-
-#### Density Control — level 5 (code 5.3)
-
-*v1.4 tagline: alter mass*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** The gravity within Sorcerie × 10' of you triples.
-
-#### Enhance Power — level 5 (code 5.4)
-
-*v1.4 tagline: boost magic*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Next spell cast from this Arcana within Sorcerie hours gains +1 effective Sorcerie for scaling only.
-
-#### Magic Suppressor — level 5 (code 5.5)
-
-*v1.4 tagline: null magic*
-
-**Tags:** ward · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** All magic is nullified while within Sorcerie × 10' of you.
-
-#### Time Slip — level 5 (code 5.6)
-
-*v1.4 tagline: control time*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Time within Sorcerie × 10' of you goes 10 times slower than the rest of the world. Lasts 10 rounds (for you).
-
-### 6th level spells
-
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 6.1 | Magic Circle | ward |
-| 6.2 | Perfect Control | util |
-| 6.3 | Reality Anchor | ward |
-| 6.4 | Rune Lock | util |
-| 6.5 | Shape Material | util |
-| 6.6 | Thaumaturgic Seal | ward |
-
-#### Magic Circle — level 6 (code 6.1)
-
-*v1.4 tagline: create workspace*
-
-**Tags:** ward · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** A 10' circle safe for casting for Sorcerie hours; hostile magic entering saves vs your Sorcerie.
-
-#### Perfect Control — level 6 (code 6.2)
-
-*v1.4 tagline: complete mastery*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** For Sorcerie turns, telekinesis on items within 30' with fine control (no combat damage above 1d6).
-
-#### Reality Anchor — level 6 (code 6.3)
-
-*v1.4 tagline: stabilize space*
-
-**Tags:** ward · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** An object becomes the target of every spell cast within 120' of it for Sorcerie turns.
-
-#### Rune Lock — level 6 (code 6.4)
-
-*v1.4 tagline: seal with power*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** A door cannot be opened by mundane means for Sorcerie turns.
-
-#### Shape Material — level 6 (code 6.5)
-
-*v1.4 tagline: change form*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Inanimate material acts like clay in your hands for Sorcerie turns.
-
-#### Thaumaturgic Seal — level 6 (code 6.6)
-
-*v1.4 tagline: master rune*
-
-**Tags:** ward · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** A door cannot be opened by mundane means for Sorcerie turns.
-
-## Illusione
-
-Perception, thought, and dreams. The subtle magic of the Belerions, woven from phantasmal scripts that deceive the senses.
-
-### 1st level spells
-
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 1.1 | Arcane Eye | info |
-| 1.2 | Auditory Illusion | util |
-| 1.3 | Bewitch | ctrl |
-| 1.4 | Blur | ward |
-| 1.5 | Visual Illusion | util |
-| 1.6 | Detect Magic | info |
-
-#### Arcane Eye — level 1 (code 1.1)
-
-*v1.4 tagline: flying sensor*
-
-**Tags:** info · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** You create a magic eye that flies around under your control for Sorcerie turns. You can see through it as well as your normal eyes.
-
-#### Auditory Illusion — level 1 (code 1.2)
-
-*v1.4 tagline: create sounds*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** You can create illusory sounds that seem to come from Sorcerie directions of your choice.
-
-#### Bewitch — level 1 (code 1.3)
-
-*v1.4 tagline: enchant mind*
-
-**Tags:** ctrl · **Roll:** Sorcerie · **Save:** Sorcerie
-
-**Effect:** Sorcerie humanoids believe they are close friends with you until proven otherwise.
-
-#### Blur — level 1 (code 1.4)
-
-*v1.4 tagline: distort appearance*
-
-**Tags:** ward · **Roll:** Sword · **Save:** none
-
-**Effect:** Attacks against you suffer −Sorcerie Damage while you move for Sorcerie turns.
-
-#### Visual Illusion — level 1 (code 1.5)
-
-*v1.4 tagline: create images*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** You create a silent, motionless illusory image about the size of a creature or object within Sorcerie × 10', lasting Sorcerie turns. It casts no sound, light, or smell, and touching it or studying it closely reveals the illusion.
-
-#### Detect Magic — level 1 (code 1.6)
-
-*v1.4 tagline: see magic*
-
-**Tags:** info · **Roll:** Plan A · **Save:** none
-
-**Effect:** Anything magical within line of sight glows and reveals its properties on request. Lasts 1 day or until you make Sorcerie requests.
-
-### 2nd level spells
-
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 2.1 | Disguise | util |
-| 2.2 | Dream Message | info |
-| 2.3 | Duplicate | util |
-| 2.4 | Emotional Aura | ctrl |
-| 2.5 | Feign Death | util |
-| 2.6 | Greed | ctrl |
-
-#### Disguise — level 2 (code 2.1)
-
-*v1.4 tagline: alter appearance*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** You may alter the look of Sorcerie humanoids as long as they remain humanoid. Lasts until the subjects speak.
-
-#### Dream Message — level 2 (code 2.2)
-
-*v1.4 tagline: send sleeping visions*
-
-**Tags:** info · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Send a Sorcerie-word message to a sleeping person you know; they remember it as a dream.
-
-#### Duplicate — level 2 (code 2.3)
-
-*v1.4 tagline: create copies*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Create Sorcerie fragile, porcelain copies of items you can see.
-
-#### Emotional Aura — level 2 (code 2.4)
-
-*v1.4 tagline: project feeling*
-
-**Tags:** ctrl · **Roll:** Sorcerie · **Save:** Sorcerie
-
-**Effect:** Project one emotion in Sorcerie × 10'; creatures feel it but save Sorcerie to act against it.
-
-#### Feign Death — level 2 (code 2.5)
-
-*v1.4 tagline: appear dead*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** You appear dead for Sorcerie hours; vital signs absent. Wound checks do not worsen you while feigning.
-
-#### Greed — level 2 (code 2.6)
-
-*v1.4 tagline: create obsession*
-
-**Tags:** ctrl · **Roll:** Sorcerie · **Save:** Sorcerie
-
-**Effect:** Sorcerie creatures become obsessed with possessing a visible item.
-
-### 3rd level spells
-
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 3.1 | Hypnotize | ctrl |
-| 3.2 | Illusory Spray | util |
-| 3.3 | Invisibility | util |
-| 3.4 | Mirror Image | ward |
-| 3.5 | Phantasmal Force | dmg |
-| 3.6 | Phantom Sound | util |
-
-#### Hypnotize — level 3 (code 3.1)
-
-*v1.4 tagline: question trance*
-
-**Tags:** ctrl · **Roll:** Sorcerie · **Save:** Sorcerie
-
-**Effect:** A creature enters a trance and will answer Sorcerie yes or no questions.
-
-#### Illusory Spray — level 3 (code 3.2)
-
-*v1.4 tagline: disorient with light*
-
-**Tags:** util · **Roll:** Sword · **Save:** Sword
-
-**Effect:** Flash blinds Sorcerie foes for 1 round (Sword save or −3 Damage next defend).
-
-#### Invisibility — level 3 (code 3.3)
-
-*v1.4 tagline: become unseen*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Sorcerie creatures are invisible for as long as they can hold their breath.
-
-#### Mirror Image — level 3 (code 3.4)
-
-*v1.4 tagline: create duplicates*
-
-**Tags:** ward · **Roll:** Sword · **Save:** none
-
-**Effect:** Sorcerie illusory copies of you, under your control, appear.
-
-#### Phantasmal Force — level 3 (code 3.5)
-
-*v1.4 tagline: moving illusion*
-
-**Tags:** dmg · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Moving illusion. If believed: **1d6+1** to HP (− scoped Resistance). Psychic — ignores AC. **Sorcerie** save for half (round down, min 0).
-
-#### Phantom Sound — level 3 (code 3.6)
-
-*v1.4 tagline: distant noise*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** You can create illusory sounds that seem to come from Sorcerie directions of your choice.
-
-### 4th level spells
-
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 4.1 | Dream Walking | info |
-| 4.2 | False Memory | ctrl |
-| 4.3 | Mass Suggestion | ctrl |
-| 4.4 | Mind Shield | ward |
-| 4.5 | Read Mind | info |
-| 4.6 | Visual Illusion | util |
-
-#### Dream Walking — level 4 (code 4.1)
-
-*v1.4 tagline: enter dreams*
-
-**Tags:** info · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Enter the dream of one sleeping creature within touch for Sorcerie hours (your body helpless).
-
-#### False Memory — level 4 (code 4.2)
-
-*v1.4 tagline: plant fake memory*
-
-**Tags:** ctrl · **Roll:** Sorcerie · **Save:** Sorcerie
-
-**Effect:** A creature is unable to form short-term memories for Sorcerie turns.
-
-#### Mass Suggestion — level 4 (code 4.3)
-
-*v1.4 tagline: group command*
-
-**Tags:** ctrl · **Roll:** Sorcerie · **Save:** Sorcerie
-
-**Effect:** A creature obeys a single, Sorcerie-word command that doesn't harm it.
-
-#### Mind Shield — level 4 (code 4.4)
-
-*v1.4 tagline: protect thoughts*
-
-**Tags:** ward · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** One creature immune to read-mind and charm for Sorcerie hours.
-
-#### Read Mind — level 4 (code 4.5)
-
-*v1.4 tagline: hear thoughts*
-
-**Tags:** info · **Roll:** Sorcerie · **Save:** Sorcerie
-
-**Effect:** You can hear the surface thoughts of creatures for Sorcerie turns.
-
-#### Visual Illusion — level 4 (code 4.6)
-
-*v1.4 tagline: static images*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** You create Sorcerie silent, immobile, illusory objects that last until they are touched.
-
-### 5th level spells
-
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 5.1 | Major Image | util |
-| 5.2 | Mind Maze | ctrl |
-| 5.3 | Scry | info |
-| 5.4 | Silent Image | util |
-| 5.5 | Vision | util |
-| 5.6 | X-Ray Vision | info |
-
-#### Major Image — level 5 (code 5.1)
-
-*v1.4 tagline: perfect illusion*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** A clearly unreal illusion appears under your control for Sorcerie days. It may be up to the size of a palace and has full motion and sound.
-
-#### Mind Maze — level 5 (code 5.2)
-
-*v1.4 tagline: trap thoughts*
-
-**Tags:** ctrl · **Roll:** Sorcerie · **Save:** Sorcerie
-
-**Effect:** One creature is lost in a mental maze for Sorcerie turns (control if cast ≥ HP).
-
-#### Scry — level 5 (code 5.3)
-
-*v1.4 tagline: share vision*
-
-**Tags:** info · **Roll:** Sorcerie · **Save:** Sorcerie
-
-**Effect:** You can share the vision of a creature you touched today for Sorcerie turns.
-
-#### Silent Image — level 5 (code 5.4)
-
-*v1.4 tagline: create scene*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** You create Sorcerie silent, immobile, illusory objects that last until they are touched.
-
-#### Vision — level 5 (code 5.5)
-
-*v1.4 tagline: personal illusion*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** You create an illusory object with full motion and sound that only one creature can sense. Lasts Sorcerie turns.
-
-#### X-Ray Vision — level 5 (code 5.6)
-
-*v1.4 tagline: see through matter*
-
-**Tags:** info · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** You can see through Sorcerie feet of material.
-
-### 6th level spells
-
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 6.1 | Mirror Walk | util |
-| 6.2 | Perfect Illusion | util |
-| 6.3 | Programmed Illusion | util |
-| 6.4 | Spectacle | util |
-| 6.5 | Telepathy | info |
-| 6.6 | True Seeing | info |
-
-#### Mirror Walk — level 6 (code 6.1)
-
-*v1.4 tagline: step through glass*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** A mirror becomes a gate to another mirror you touched today.
-
-#### Perfect Illusion — level 6 (code 6.2)
-
-*v1.4 tagline: undetectable fake*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** A clearly unreal illusion appears under your control for Sorcerie days. It may be up to the size of a palace and has full motion and sound.
-
-#### Programmed Illusion — level 6 (code 6.3)
-
-*v1.4 tagline: triggered effect*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** An illusion triggers on a condition you set; lasts Sorcerie days.
-
-#### Spectacle — level 6 (code 6.4)
-
-*v1.4 tagline: create grand illusion*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** A clearly unreal illusion appears under your control for Sorcerie days. It may be up to the size of a palace and has full motion and sound.
-
-#### Telepathy — level 6 (code 6.5)
-
-*v1.4 tagline: project thoughts*
-
-**Tags:** info · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** You can project your thoughts into a mind within Sorcerie hexes.
-
-#### True Seeing — level 6 (code 6.6)
-
-*v1.4 tagline: pierce deception*
-
-**Tags:** info · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** See through illusions and invisibility for Sorcerie hours.
-
-## Umbrakala
-
-Shadows, thresholds, and dimensional paths. The secret magic of the Alu, written in darkness and void.
-
-### 1st level spells
-
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 1.1 | Befuddle | ctrl |
-| 1.2 | Cloak of Shadows | ward |
-| 1.3 | Darksight | info |
-| 1.4 | Deep Shadow | util |
-| 1.5 | Gate Sense | info |
-| 1.6 | Hatred | ctrl |
-
-#### Befuddle — level 1 (code 1.1)
-
-*v1.4 tagline: shadow memories*
-
-**Tags:** ctrl · **Roll:** Sorcerie · **Save:** Sorcerie
-
-**Effect:** A creature is unable to form short-term memories for Sorcerie turns.
-
-#### Cloak of Shadows — level 1 (code 1.2)
-
-*v1.4 tagline: dark protection*
-
-**Tags:** ward · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** +Sorcerie AC in dim light or darkness for Sorcerie turns.
-
-#### Darksight — level 1 (code 1.3)
-
-*v1.4 tagline: see in darkness*
-
-**Tags:** info · **Roll:** Plan A · **Save:** none
-
-**Effect:** See in total darkness for Sorcerie hours.
-
-#### Deep Shadow — level 1 (code 1.4)
-
-*v1.4 tagline: create pure darkness*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** A Sorcerie × 40' wide sphere of total darkness appears.
-
-#### Gate Sense — level 1 (code 1.5)
-
-*v1.4 tagline: detect portals*
-
-**Tags:** info · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Sense gates, portals, and thin places within Sorcerie × 100' for Sorcerie turns.
-
-#### Hatred — level 1 (code 1.6)
-
-*v1.4 tagline: dark emotion*
-
-**Tags:** ctrl · **Roll:** Sorcerie · **Save:** Sorcerie
-
-**Effect:** Sorcerie creatures start attacking each other for one turn or until one dies.
-
-### 2nd level spells
-
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 2.1 | Dark Anchor | ward |
-| 2.2 | Disassemble | util |
-| 2.3 | Ice Heart | dmg |
-| 2.4 | Kallascript | util |
-| 2.5 | Masquerade | ctrl |
-| 2.6 | Miniaturize | util |
-
-#### Dark Anchor — level 2 (code 2.1)
-
-*v1.4 tagline: fix dimensional point*
-
-**Tags:** ward · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Fix one point in space; teleportation and gates within Sorcerie × 10' fail unless Sorcerie beats your cast.
-
-#### Disassemble — level 2 (code 2.2)
-
-*v1.4 tagline: shadow-split form*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Sorcerie body parts may be detached at will. You can still control them. Lasts until they are reattached.
-
-#### Ice Heart — level 2 (code 2.3)
-
-*v1.4 tagline: freeze with shadow*
-
-**Tags:** dmg · **Roll:** Sorcerie · **Save:** Sorcerie
-
-**Effect:** An ice layer spreads across a surface, up to Sorcerie × 10' in radius; creatures touched take **1d6+2** to HP (− scoped Resistance). **Sorcerie** save for half (round down, min 0).
-
-#### Kallascript — level 2 (code 2.4)
-
-*v1.4 tagline: write gate runes*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Write gate-runes; opens a shadow door to a marked location you visited. Lasts Sorcerie days or one use.
-
-#### Masquerade — level 2 (code 2.5)
-
-*v1.4 tagline: shadow dance*
-
-**Tags:** ctrl · **Roll:** Sorcerie · **Save:** Sorcerie
-
-**Effect:** All creatures within Sorcerie × 10' of you are compelled to dance.
-
-#### Miniaturize — level 2 (code 2.6)
-
-*v1.4 tagline: shrink into shadows*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** You and Sorcerie other touched creatures become mouse-sized.
-
-### 3rd level spells
-
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 3.1 | Mind Shatter | dmg |
-| 3.2 | Night Sphere | util |
-| 3.3 | Nightmare Seed | ctrl |
-| 3.4 | Ooze Form | util |
-| 3.5 | Shadow Bind | ctrl |
-| 3.6 | Shadow Clone | ward |
-
-#### Mind Shatter — level 3 (code 3.1)
-
-*v1.4 tagline: shadow thoughts*
-
-**Tags:** dmg · **Roll:** Sorcerie · **Save:** Sorcerie
-
-**Effect:** **1d6+2** to HP (− scoped Resistance). Psychic — ignores Resistance. **Sorcerie** save for half (round down, min 0). On failed save: stunned 1 turn.
-
-#### Night Sphere — level 3 (code 3.2)
-
-*v1.4 tagline: create darkness*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** A Sorcerie × 40' wide sphere of total darkness appears.
-
-#### Nightmare Seed — level 3 (code 3.3)
-
-*v1.4 tagline: dark dreams*
-
-**Tags:** ctrl · **Roll:** Sorcerie · **Save:** Sorcerie
-
-**Effect:** Plant a nightmare in one sleeper; they wake at 0 HP from fear (save Sorcerie).
-
-#### Ooze Form — level 3 (code 3.4)
-
-*v1.4 tagline: shadow substance*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Your body and gear become living slime for Sorcerie turns.
-
-#### Shadow Bind — level 3 (code 3.5)
-
-*v1.4 tagline: trap in darkness*
-
-**Tags:** ctrl · **Roll:** Sword · **Save:** Sword
-
-**Effect:** Sorcerie creatures entangled in shadow; Sword save each turn or cannot act.
-
-#### Shadow Clone — level 3 (code 3.6)
-
-*v1.4 tagline: create dark duplicate*
-
-**Tags:** ward · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Sorcerie illusory copies of you, under your control, appear.
-
-### 4th level spells
-
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 4.1 | Body Swap | ctrl |
-| 4.2 | Shadow Meld | util |
-| 4.3 | Shadow Step | util |
-| 4.4 | Shuffle | util |
-| 4.5 | Smoke Form | util |
-| 4.6 | Void Step | util |
-
-#### Body Swap — level 4 (code 4.1)
-
-*v1.4 tagline: shadow exchange*
-
-**Tags:** ctrl · **Roll:** Sorcerie · **Save:** Sorcerie
-
-**Effect:** You switch bodies with a creature you touch for Sorcerie turns. If one body dies, the other dies as well.
-
-#### Shadow Meld — level 4 (code 4.2)
-
-*v1.4 tagline: merge with darkness*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Merge with shadow; invisible while still for Sorcerie turns.
-
-#### Shadow Step — level 4 (code 4.3)
-
-*v1.4 tagline: travel through dark*
-
-**Tags:** util · **Roll:** Sword · **Save:** none
-
-**Effect:** Step between shadows within Sorcerie × 40' once per round for Sorcerie turns.
-
-#### Shuffle — level 4 (code 4.4)
-
-*v1.4 tagline: shadow displacement*
-
-**Tags:** util · **Roll:** Sword · **Save:** none
-
-**Effect:** Sorcerie creatures switch places randomly.
-
-#### Smoke Form — level 4 (code 4.5)
-
-*v1.4 tagline: become shadow*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Your body and gear become living smoke for Sorcerie turns.
-
-#### Void Step — level 4 (code 4.6)
-
-*v1.4 tagline: brief teleport*
-
-**Tags:** util · **Roll:** Sword · **Save:** none
-
-**Effect:** An object teleports to a clear patch of ground up to Sorcerie × 40' away from its origin point.
-
-### 5th level spells
-
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 5.1 | Dimension Door | util |
-| 5.2 | Kalla Gate | util |
-| 5.3 | Phantom Coach | util |
-| 5.4 | Realm Weave | util |
-| 5.5 | Shadow Time | util |
-| 5.6 | Threshold Walk | util |
-
-#### Dimension Door — level 5 (code 5.1)
-
-*v1.4 tagline: create portal*
-
-**Tags:** util · **Roll:** Sword · **Save:** none
-
-**Effect:** You step through shadow to a spot you see within Sorcerie × 40'.
-
-#### Kalla Gate — level 5 (code 5.2)
-
-*v1.4 tagline: create pocket realm*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Open a pocket realm (Sorcerie × 10' room) for Sorcerie hours; one door in, one door out.
-
-#### Phantom Coach — level 5 (code 5.3)
-
-*v1.4 tagline: shadow transport*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** A coach scoops up Sorcerie creatures (who are outdoors) and deposits them in a random adjacent hex.
-
-#### Realm Weave — level 5 (code 5.4)
-
-*v1.4 tagline: connect spaces*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Link two doorways within Sorcerie miles for Sorcerie days — shadow passage between them.
-
-#### Shadow Time — level 5 (code 5.5)
-
-*v1.4 tagline: pause in darkness*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Time within Sorcerie × 10' of you goes 10 times slower than the rest of the world. Lasts 10 rounds (for you).
-
-#### Threshold Walk — level 5 (code 5.6)
-
-*v1.4 tagline: pass through doors*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Pass through Sorcerie closed doors/windows as if open; no sound.
-
-### 6th level spells
-
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 6.1 | Perfect Shadow | util |
-| 6.2 | Plane Shift | util |
-| 6.3 | Space Fold | util |
-| 6.4 | Twilight Veil | util |
-| 6.5 | Void Gate | util |
-| 6.6 | Void Shield | ward |
-
-#### Perfect Shadow — level 6 (code 6.1)
-
-*v1.4 tagline: complete control*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Become living shadow for Sorcerie turns; immune to non-magical weapons, cannot speak.
-
-#### Plane Shift — level 6 (code 6.2)
-
-*v1.4 tagline: change reality*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** Sorcerie
-
-**Effect:** Shift Sorcerie willing creatures to an adjacent shadow-plane for Sorcerie turns; return to entry point.
-
-#### Space Fold — level 6 (code 6.3)
-
-*v1.4 tagline: bend dimensions*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Fold distance: one door opens where another stands within Sorcerie × 100'. Lasts Sorcerie hours.
-
-#### Twilight Veil — level 6 (code 6.4)
-
-*v1.4 tagline: walk between worlds*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Walk the border between worlds for Sorcerie hours; unseen by either side unless they save Sorcerie.
-
-#### Void Gate — level 6 (code 6.5)
-
-*v1.4 tagline: open dark portal*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Open a portal to a named void for Sorcerie rounds; anything entering is lost unless pulled back.
-
-#### Void Shield — level 6 (code 6.6)
-
-*v1.4 tagline: dark protection*
-
-**Tags:** ward · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Barrier absorbs Sorcerie × 5 HP of damage; then collapses.
-
-## Necromantia
-
-Death, spirits, and decay. The forbidden magic of the Avathars, inscribed in blood and bone.
-
-### 1st level spells
-
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 1.1 | Animate Skeleton | summon |
-| 1.2 | Black Sacrament | util |
-| 1.3 | Blood Curse | info |
-| 1.4 | Blood Track | info |
-| 1.5 | Marble Madness | util |
-| 1.6 | Wizard Mark | info |
-
-#### Animate Skeleton — level 1 (code 1.1)
-
-*v1.4 tagline: raise bones*
-
-**Tags:** summon · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Sorcerie unarmed skeletons rise from the ground to serve you.
-
-#### Black Sacrament — level 1 (code 1.2)
-
-*v1.4 tagline: death ritual*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Sacrifice 1 HP to bless Sorcerie undead servants for one day (+1 Damage).
-
-#### Blood Curse — level 1 (code 1.3)
-
-*v1.4 tagline: sacrifice life*
-
-**Tags:** info · **Roll:** Sorcerie · **Save:** Sorcerie
-
-**Effect:** Mark one creature; you know direction/distance for Sorcerie days.
-
-#### Blood Track — level 1 (code 1.4)
-
-*v1.4 tagline: follow wounds*
-
-**Tags:** info · **Roll:** Plan A · **Save:** none
-
-**Effect:** Follow a blood trail up to Sorcerie miles; fresh only.
-
-#### Marble Madness — level 1 (code 1.5)
-
-*v1.4 tagline: death's toys*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Your pockets refill with marbles every round for Sorcerie rounds.
-
-#### Wizard Mark — level 1 (code 1.6)
-
-*v1.4 tagline: death runes*
-
-**Tags:** info · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Your finger produces ulfire-colored paint for Sorcerie hours. This paint is only visible to you, and can be seen at any distance, even through objects.
-
-### 2nd level spells
-
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 2.1 | Bone Puppet | summon |
-| 2.2 | Bone Shield | ward |
-| 2.3 | Comprehend Dead | info |
-| 2.4 | Dark Blessing | ward |
-| 2.5 | Grave Mist | util |
-| 2.6 | Life Sense | info |
-
-#### Bone Puppet — level 2 (code 2.1)
-
-*v1.4 tagline: animate dead*
-
-**Tags:** summon · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Sorcerie unarmed skeletons rise from the ground to serve you.
-
-#### Bone Shield — level 2 (code 2.2)
-
-*v1.4 tagline: skeletal armor*
-
-**Tags:** ward · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Skeletal armor +Sorcerie AC for Sorcerie turns; looks horrific.
-
-#### Comprehend Dead — level 2 (code 2.3)
-
-*v1.4 tagline: dead languages*
-
-**Tags:** info · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** You are fluent in all languages for Sorcerie hours.
-
-#### Dark Blessing — level 2 (code 2.4)
-
-*v1.4 tagline: death's power*
-
-**Tags:** ward · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** One undead gains Sorcerie temporary HP.
-
-#### Grave Mist — level 2 (code 2.5)
-
-*v1.4 tagline: create death fog*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Fog spreads out in a Sorcerie × 10' radius from you. Fades in one turn.
-
-#### Life Sense — level 2 (code 2.6)
-
-*v1.4 tagline: detect living*
-
-**Tags:** info · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Sense living creatures within Sorcerie × 60' for Sorcerie turns.
-
-### 3rd level spells
-
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 3.1 | Command Undead | ctrl |
-| 3.2 | Corpse Explosion | dmg |
-| 3.3 | Pain Echo | dmg |
-| 3.4 | Psychometry | info |
-| 3.5 | Sniff | info |
-| 3.6 | Undead Sight | info |
-
-#### Command Undead — level 3 (code 3.1)
-
-*v1.4 tagline: control dead*
-
-**Tags:** ctrl · **Roll:** Sorcerie · **Save:** Sorcerie
-
-**Effect:** A creature obeys a single, Sorcerie-word command that doesn't harm it.
-
-#### Corpse Explosion — level 3 (code 3.2)
-
-*v1.4 tagline: detonate dead*
-
-**Tags:** dmg · **Roll:** Sorcerie · **Save:** Sword
-
-**Effect:** 10' burst from one corpse: **1d6** to HP per creature (− Resistance). Each target — **Sword** save for half.
-
-#### Pain Echo — level 3 (code 3.3)
-
-*v1.4 tagline: share suffering*
-
-**Tags:** dmg · **Roll:** Sorcerie · **Save:** Sorcerie
-
-**Effect:** One creature feels your wound pain; if you have an open wound, they take **1d6** HP (ongoing rubric; ignores Resistance).
-
-#### Psychometry — level 3 (code 3.4)
-
-*v1.4 tagline: read death echoes*
-
-**Tags:** info · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** The Guide answers Sorcerie yes or no questions about an object.
-
-#### Sniff — level 3 (code 3.5)
-
-*v1.4 tagline: smell death*
-
-**Tags:** info · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** A creature can smell all scents up to 120' away for Sorcerie turns.
-
-#### Undead Sight — level 3 (code 3.6)
-
-*v1.4 tagline: see spirits*
-
-**Tags:** info · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** See spirits and invisible undead for Sorcerie hours.
-
-### 4th level spells
-
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 4.1 | Death Touch | dmg |
-| 4.2 | Death Ward | ward |
-| 4.3 | Doom Mark | ctrl |
-| 4.4 | Drain Life | dmg |
-| 4.5 | Fear Aura | ctrl |
-| 4.6 | Speak with Dead | info |
-
-#### Death Touch — level 4 (code 4.1)
-
-*v1.4 tagline: wither life*
-
-**Tags:** dmg · **Roll:** Sword · **Save:** none
-
-**Effect:** Melee touch. **1d6+2** to HP (− scoped Resistance). Necrotic. **Sorcerie** save for half (round down, min 0).
-
-#### Death Ward — level 4 (code 4.2)
-
-*v1.4 tagline: protect from necrotic*
-
-**Tags:** ward · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** One creature ignores the first Sorcerie necrotic hits.
-
-#### Doom Mark — level 4 (code 4.3)
-
-*v1.4 tagline: mark for death*
-
-**Tags:** ctrl · **Roll:** Sorcerie · **Save:** Sorcerie
-
-**Effect:** Marked creature suffers −Sorcerie on all saves for Sorcerie days.
-
-#### Drain Life — level 4 (code 4.4)
-
-*v1.4 tagline: steal vitality*
-
-**Tags:** dmg · **Roll:** Sword · **Save:** Sorcerie
-
-**Effect:** Touch. **1d6+2** to HP (− scoped Resistance). **Sorcerie** save for half (round down, min 0). You heal half the HP dealt (round down).
-
-#### Fear Aura — level 4 (code 4.5)
-
-*v1.4 tagline: death terror*
-
-**Tags:** ctrl · **Roll:** Sorcerie · **Save:** Sorcerie
-
-**Effect:** Sorcerie creatures become terrified of an object.
-
-#### Speak with Dead — level 4 (code 4.6)
-
-*v1.4 tagline: question spirits*
-
-**Tags:** info · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** The spirit of a touched dead body appears and will answer Sorcerie questions (if it can).
-
-### 5th level spells
-
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 5.1 | Death Gate | summon |
-| 5.2 | Ghost Bind | ctrl |
-| 5.3 | Spirit Chains | ctrl |
-| 5.4 | Spirit Form | util |
-| 5.5 | Truth Sense | info |
-| 5.6 | Vampiric Touch | dmg |
-
-#### Death Gate — level 5 (code 5.1)
-
-*v1.4 tagline: portal to underworld*
-
-**Tags:** summon · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Open a chill gate to the underworld for Sorcerie rounds; undead step through; living save Sorcerie or **1d6** cold (ongoing rubric).
-
-#### Ghost Bind — level 5 (code 5.2)
-
-*v1.4 tagline: trap spirits*
-
-**Tags:** ctrl · **Roll:** Sorcerie · **Save:** Sorcerie
-
-**Effect:** Trap one spirit in an object for Sorcerie years.
-
-#### Spirit Chains — level 5 (code 5.3)
-
-*v1.4 tagline: bind ghost*
-
-**Tags:** ctrl · **Roll:** Sorcerie · **Save:** Sorcerie
-
-**Effect:** Bind one ghost to service for Sorcerie days.
-
-#### Spirit Form — level 5 (code 5.4)
-
-*v1.4 tagline: become ghostly*
-
-**Tags:** util · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Your body and gear become living smoke for Sorcerie turns.
-
-#### Truth Sense — level 5 (code 5.5)
-
-*v1.4 tagline: death's truth*
-
-**Tags:** info · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** You can detect lies for Sorcerie hours.
-
-#### Vampiric Touch — level 5 (code 5.6)
-
-*v1.4 tagline: drain energy*
-
-**Tags:** dmg · **Roll:** Sword · **Save:** Sorcerie
-
-**Effect:** Touch. **1d6+2** to HP (− scoped Resistance). **Sorcerie** save for half (round down, min 0). You heal the HP dealt (cannot exceed max HP).
-
-### 6th level spells
-
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 6.1 | Mass Animation | summon |
-| 6.2 | Perfect Death | dmg |
-| 6.3 | Plague Wind | dmg |
-| 6.4 | Raise Dead | summon |
-| 6.5 | Soul Cage | ctrl |
-| 6.6 | Soul Rend | dmg |
-
-#### Mass Animation — level 6 (code 6.1)
-
-*v1.4 tagline: raise army*
-
-**Tags:** summon · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Sorcerie unarmed skeletons rise from the ground to serve you.
-
-#### Perfect Death — level 6 (code 6.2)
-
-*v1.4 tagline: ultimate end*
-
-**Tags:** dmg · **Roll:** Sorcerie · **Save:** Sorcerie
-
-**Effect:** One living creature at 0 HP or below fails one Wound Check automatically (coup magic). Moral weight.
-
-#### Plague Wind — level 6 (code 6.3)
-
-*v1.4 tagline: spread death*
-
-**Tags:** dmg · **Roll:** Sorcerie · **Save:** Sorcerie
-
-**Effect:** Sorcerie × 10' cloud of rot: living creatures save Sorcerie daily or lose **1 HP** until cured (attrition, not burst damage).
-
-#### Raise Dead — level 6 (code 6.4)
-
-*v1.4 tagline: create undead*
-
-**Tags:** summon · **Roll:** Sorcerie · **Save:** none
-
-**Effect:** Sorcerie unarmed skeletons rise from the ground to serve you.
-
-#### Soul Cage — level 6 (code 6.5)
-
-*v1.4 tagline: trap essence*
-
-**Tags:** ctrl · **Roll:** Sorcerie · **Save:** Sorcerie
-
-**Effect:** Trap a dying soul in a gem for Sorcerie days; speak with it.
-
-#### Soul Rend — level 6 (code 6.6)
-
-*v1.4 tagline: tear spirit*
-
-**Tags:** dmg · **Roll:** Sorcerie · **Save:** Sorcerie
-
-**Effect:** **1d6+4** to HP (− scoped Resistance). **Sorcerie** save for half (round down, min 0). If brought to 0 HP, soul is shunted out for Sorcerie hours (recoverable).
-
-## Canting
-
-Deception and manipulation in Thieves' Cant — flash papers and brotherhood marks. If you can't flash the patter, stay out of the Darkmans.
-
-### 1st level spells
-
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 1.1 | Budge | util |
-| 1.2 | Cony-Catch | info |
-| 1.3 | Flash Paper | info |
-| 1.4 | Juke | ward |
-| 1.5 | Mark the Gull | info |
-| 1.6 | Mort's Mask | util |
-
-#### Budge — level 1 (code 1.1)
-
-*v1.4 tagline: distance unlock*
-
-**Tags:** util · **Roll:** Craft · **Save:** none
-
-**Effect:** Sorcerie locks unlock.
-
-#### Cony-Catch — level 1 (code 1.2)
-
-*v1.4 tagline: sense fears/vices*
-
-**Tags:** info · **Roll:** Sorcerie · **Save:** Sorcerie
-
-**Effect:** Read one target's vice or fear (one sentence truth).
-
-#### Flash Paper — level 1 (code 1.3)
-
-*v1.4 tagline: hidden messages*
-
-**Tags:** info · **Roll:** Plan A · **Save:** none
-
-**Effect:** Messages on flash paper visible only to Canting-literate readers; burns after Sorcerie readings.
-
-#### Juke — level 1 (code 1.4)
-
-*v1.4 tagline: dodge attack*
-
-**Tags:** ward · **Roll:** Sword · **Save:** none
-
-**Effect:** Your next defend this round gains +Sorcerie (dirty fighting).
-
-#### Mark the Gull — level 1 (code 1.5)
-
-*v1.4 tagline: spot easy marks*
-
-**Tags:** info · **Roll:** Plan A · **Save:** none
-
-**Effect:** For Sorcerie hours, spot the most gullible or greedy mark in a crowd (Heart contests against you fail).
-
-#### Mort's Mask — level 1 (code 1.6)
-
-*v1.4 tagline: change face*
-
-**Tags:** util · **Roll:** Craft · **Save:** none
-
-**Effect:** You may alter the look of Sorcerie humanoids as long as they remain humanoid. Lasts until the subjects speak.
-
-### 2nd level spells
-
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 2.1 | Brotherhood Mark | info |
-| 2.2 | Fleet Pad | util |
-| 2.3 | Foist | util |
-| 2.4 | Nip | util |
-| 2.5 | Second-Story Man | util |
-| 2.6 | Spring | util |
-
-#### Brotherhood Mark — level 2 (code 2.1)
-
-*v1.4 tagline: sense guild members*
-
-**Tags:** info · **Roll:** Plan A · **Save:** none
-
-**Effect:** Sense guild-brothers within Sorcerie × 100' for Sorcerie hours.
-
-#### Fleet Pad — level 2 (code 2.2)
-
-*v1.4 tagline: quickened step*
-
-**Tags:** util · **Roll:** Craft · **Save:** none
-
-**Effect:** Sorcerie creatures have their movement speed tripled.
-
-#### Foist — level 2 (code 2.3)
-
-*v1.4 tagline: pickpocket from afar*
-
-**Tags:** util · **Roll:** Craft · **Save:** none
-
-**Effect:** Sorcerie visible items teleport to your hands.
-
-#### Nip — level 2 (code 2.4)
-
-*v1.4 tagline: summon loose object*
-
-**Tags:** util · **Roll:** Craft · **Save:** none
-
-**Effect:** Sorcerie visible items teleport to your hands.
-
-#### Second-Story Man — level 2 (code 2.5)
-
-*v1.4 tagline: sure climb*
-
-**Tags:** util · **Roll:** Craft · **Save:** none
-
-**Effect:** You can climb surfaces like a spider for Sorcerie turns.
-
-#### Spring — level 2 (code 2.6)
-
-*v1.4 tagline: enhanced leap*
-
-**Tags:** util · **Roll:** Craft · **Save:** none
-
-**Effect:** You can jump up to Sorcerie × 10'.
-
-### 3rd level spells
-
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 3.1 | Budge Barrel | util |
-| 3.2 | Darkmans Cloak | util |
-| 3.3 | Dog's Leg | util |
-| 3.4 | Rearward Glim | info |
-| 3.5 | Rum Dubber | util |
-| 3.6 | Upright Man's Word | ctrl |
-
-#### Budge Barrel — level 3 (code 3.1)
-
-*v1.4 tagline: conceal goods*
-
-**Tags:** util · **Roll:** Craft · **Save:** none
-
-**Effect:** Hide Sorcerie slot-worth of goods in plain sight for Sorcerie hours.
-
-#### Darkmans Cloak — level 3 (code 3.2)
-
-*v1.4 tagline: shadow invisibility*
-
-**Tags:** util · **Roll:** Craft · **Save:** none
-
-**Effect:** Sorcerie creatures are invisible for as long as they can hold their breath.
-
-#### Dog's Leg — level 3 (code 3.3)
-
-*v1.4 tagline: tail undetected*
-
-**Tags:** util · **Roll:** Craft · **Save:** none
-
-**Effect:** Tail one target undetected for Sorcerie hours (Craft vs their passive notice).
-
-#### Rearward Glim — level 3 (code 3.4)
-
-*v1.4 tagline: spot followers*
-
-**Tags:** info · **Roll:** Craft · **Save:** none
-
-**Effect:** You create a magic eye that flies around under your control for Sorcerie turns. You can see through it as well as your normal eyes.
-
-#### Rum Dubber — level 3 (code 3.5)
-
-*v1.4 tagline: master lockpick*
-
-**Tags:** util · **Roll:** Craft · **Save:** none
-
-**Effect:** Sorcerie locks unlock.
-
-#### Upright Man's Word — level 3 (code 3.6)
-
-*v1.4 tagline: command street folk*
-
-**Tags:** ctrl · **Roll:** Heart · **Save:** Heart
-
-**Effect:** A creature obeys a single, Sorcerie-word command that doesn't harm it.
-
-### 4th level spells
-
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 4.1 | Dimber Damber's Web | info |
-| 4.2 | Maze Whispers | info |
-| 4.3 | Perfect Mort | util |
-| 4.4 | Rum Ken | info |
-| 4.5 | Sharper's Nose | info |
-| 4.6 | Topping Cove | util |
-
-#### Dimber Damber's Web — level 4 (code 4.1)
-
-*v1.4 tagline: silent signals*
-
-**Tags:** info · **Roll:** Plan A · **Save:** none
-
-**Effect:** Silent hand-signals to Sorcerie allies within line of sight for Sorcerie hours.
-
-#### Maze Whispers — level 4 (code 4.2)
-
-*v1.4 tagline: distant eavesdrop*
-
-**Tags:** info · **Roll:** Craft · **Save:** none
-
-**Effect:** A creature can hear all sounds up to 120' away for Sorcerie turns.
-
-#### Perfect Mort — level 4 (code 4.3)
-
-*v1.4 tagline: full impersonation*
-
-**Tags:** util · **Roll:** Craft · **Save:** none
-
-**Effect:** You may alter the look of Sorcerie humanoids as long as they remain humanoid. Lasts until the subjects speak.
-
-#### Rum Ken — level 4 (code 4.4)
-
-*v1.4 tagline: find safehouse*
-
-**Tags:** info · **Roll:** Plan A · **Save:** none
-
-**Effect:** Locate the nearest safehouse or fence in a settlement.
-
-#### Sharper's Nose — level 4 (code 4.5)
-
-*v1.4 tagline: sniff out weakness*
-
-**Tags:** info · **Roll:** Craft · **Save:** none
-
-**Effect:** A creature can smell all scents up to 120' away for Sorcerie turns.
-
-#### Topping Cove — level 4 (code 4.6)
-
-*v1.4 tagline: cross rooftops*
-
-**Tags:** util · **Roll:** Craft · **Save:** none
-
-**Effect:** You can climb surfaces like a spider for Sorcerie turns.
-
-### 5th level spells
-
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 5.1 | Bulk the Watch | util |
-| 5.2 | Darkmans Veil | util |
-| 5.3 | Ken Miller | util |
-| 5.4 | Mill the Watch | util |
-| 5.5 | Mizzle | util |
-| 5.6 | Rum Mort | util |
-
-#### Bulk the Watch — level 5 (code 5.1)
-
-*v1.4 tagline: distract guards*
-
-**Tags:** util · **Roll:** Craft · **Save:** none
-
-**Effect:** Sorcerie guards rush to a false alarm you trigger.
-
-#### Darkmans Veil — level 5 (code 5.2)
-
-*v1.4 tagline: unseen in crowds*
-
-**Tags:** util · **Roll:** Craft · **Save:** none
-
-**Effect:** Sorcerie creatures are invisible for as long as they can hold their breath.
-
-#### Ken Miller — level 5 (code 5.3)
-
-*v1.4 tagline: break into any building*
-
-**Tags:** util · **Roll:** Craft · **Save:** none
-
-**Effect:** Sorcerie locks unlock.
-
-#### Mill the Watch — level 5 (code 5.4)
-
-*v1.4 tagline: silence sentry*
-
-**Tags:** util · **Roll:** Craft · **Save:** none
-
-**Effect:** One sentry distracted Sorcerie × 10 minutes.
-
-#### Mizzle — level 5 (code 5.5)
-
-*v1.4 tagline: vanish when spotted*
-
-**Tags:** util · **Roll:** Craft · **Save:** none
-
-**Effect:** When spotted, vanish into crowd or shadow — one automatic escape if a plausible hide exists.
-
-#### Rum Mort — level 5 (code 5.6)
-
-*v1.4 tagline: false identity*
-
-**Tags:** util · **Roll:** Craft · **Save:** none
-
-**Effect:** Forge papers and bearing for a false identity; passes casual scrutiny Sorcerie days.
-
-### 6th level spells
-
-| Code | Spell | Tags |
-| --- | --- | --- |
-| 6.1 | Blood Brotherhood | ctrl |
-| 6.2 | Darkmans Twin | ward |
-| 6.3 | Deathless Brotherhood | info |
-| 6.4 | Jarkman's Gift | util |
-| 6.5 | Many Faces | util |
-| 6.6 | Prince of Thieves | ctrl |
-
-#### Blood Brotherhood — level 6 (code 6.1)
-
-*v1.4 tagline: compel loyalty for job*
-
-**Tags:** ctrl · **Roll:** Heart · **Save:** Heart
-
-**Effect:** Sorcerie street folk swear a one-job loyalty (Heart save to break).
-
-#### Darkmans Twin — level 6 (code 6.2)
-
-*v1.4 tagline: shadow twin*
-
-**Tags:** ward · **Roll:** Craft · **Save:** none
-
-**Effect:** Sorcerie illusory copies of you, under your control, appear.
-
-#### Deathless Brotherhood — level 6 (code 6.3)
-
-*v1.4 tagline: speak with dead thieves*
-
-**Tags:** info · **Roll:** Craft · **Save:** none
-
-**Effect:** The spirit of a touched dead body appears and will answer Sorcerie questions (if it can).
-
-#### Jarkman's Gift — level 6 (code 6.4)
-
-*v1.4 tagline: living forgeries*
-
-**Tags:** util · **Roll:** Craft · **Save:** none
-
-**Effect:** Create Sorcerie fragile, porcelain copies of items you can see.
-
-#### Many Faces — level 6 (code 6.5)
-
-*v1.4 tagline: shift personas*
-
-**Tags:** util · **Roll:** Craft · **Save:** none
-
-**Effect:** You may alter the look of Sorcerie humanoids as long as they remain humanoid. Lasts until the subjects speak.
-
-#### Prince of Thieves — level 6 (code 6.6)
-
-*v1.4 tagline: inspire loyalty*
-
-**Tags:** ctrl · **Roll:** Heart · **Save:** Heart
-
-**Effect:** Sorcerie thieves in earshot will not betray you for Sorcerie days unless offered more gold than you name.
+Elementale 6: You and Sorcerie companions ride a tailwind — double overland speed for Sorcerie hours.

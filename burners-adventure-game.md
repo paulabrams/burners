@@ -57,7 +57,7 @@ Burners is a fast-paced adventure game of happy go lucky heroes in the style of 
 
   - **Sorcerie:** magic and the unseen. Spell schools, divination, binding, alchemy, ancient knowledge.
 
-- **Character Level:** your overall rank, bought with XP from one table. Each level is a point you place in an Approach, and it grants up to four more Traits and a reroll of your HP.
+- **Character Level:** your overall rank, bought with XP from one table — earned by OSE awards for monsters overcome and treasure recovered to safety (see *Experience*). Each level is a point you place in an Approach, and it grants up to four more Traits and a reroll of your HP.
 
 - **Signature:** an asterisk on a Trait, marking a special ability, never a spell, that grew out of how you played it: a named blade that bites, a habit that never fails you. It emerges at the table and is never bought; you may hold one per level in that Approach.
 
@@ -77,13 +77,13 @@ Burners is a fast-paced adventure game of happy go lucky heroes in the style of 
 
 ### HP, Heat, and Wounds
 
-- **HP:** your luck, wind, and quickness, one d6 per character level, rolled (just 1d6 at first level). At each level-up reroll the whole pool and keep the higher of the new total or your old plus one. It is not meat: blows come off HP as near-misses, and only the overflow past 0 opens a Wound, deepening the negative-HP tally that is your true flesh (see Wounds). HP comes back fast, with a breather between fights. Each Burner and each monster has their own.
+- **HP:** your luck, wind, and quickness, one d6 per character level, rolled (just 1d6 at first level). At each level-up reroll the whole pool and keep the higher of the new total or your old plus one. It is not meat: blows come off HP as near-misses, and only the overflow past 0 opens a Wound, deepening the negative-HP tally that is your true flesh (see Wounds). **Reach full HP and every wound closes with it** (see Healing and recovery). Each Burner and each monster has their own.
 
 - **Heat:** one shared gauge for the whole crew, the temperature of the scene, not any one body's flesh. It is the difficulty most out-of-combat costs are quoted against and the clock that decides when a job turns dangerous. It is luck, wind, and nerve held in common. Every scene opens at a base (a quiet meet 3-4, a working delve or a parley that matters 6, a blown job or a hall on fire 8) and rises and vents from there. It is never a damage buffer, and blows in a fight do not feed it. When the party splits, each live scene runs its own Heat, merging back when the crew reunites.
 
 - **Feeding Heat:** out of combat, a risky action's Cost is usually Heat, and a narrative shortfall (a blown sneak, a hard parley) raises it by a compressed amount the Guide sets, usually 1 or 2. A revealed threat sets a floor. In a fight Heat does not climb off hits, since blows go to HP; it rises only when the Guide judges the danger has turned (a comrade down, an alarm, reinforcements), and often it does not rise at all.
 
-- **Wound:** real injury, taken when a blow drives you past 0 HP or you are struck while helpless. Its overflow drives your HP below 0 — a running negative tally that is your flesh, dead at -12 unless your Shock Check holds — and it lands with a location and an effect. You then make a Shock Check. Wounds heal slowly, on their own clock.
+- **Wound:** real injury, taken when a blow drives you past 0 HP or you are struck while helpless. Its overflow drives your HP below 0 — a running negative tally that is your flesh, dead at -12 unless your Shock Check holds — and it lands with a location and an effect. You then make a Shock Check. Wounds and their penalties last until you **reach full HP** (maimings excepted).
 
 - **Wound Effects:** each Wound has an effect: a limb wound disables that limb, and a vital wound carries a specific effect such as tunnel vision for a head hit.
 
@@ -117,13 +117,15 @@ Burners is a fast-paced adventure game of happy go lucky heroes in the style of 
 
 - **Attack:** each blow is one die, plus one for a two-handed power attack and one for an enchanted weapon; their faces are the damage. A Sword fighter makes an extra attack per Sword level, all paid from Fuel. A rolled 6 is a **Spark**. See Fighting.
 
-- **Defend:** commit one die to cut a blow before armor soaks the rest — or as many as you like against a foe you make a melee attack on this round (Parry), or one you Block (with a shield, or by spending an attack, which can guard an ally). A rolled 6 is a **Spark** (defending, a Riposte). See Fighting.
+- **Cast:** one Action in combat; spend **L** Fuel dice (L = the spell's level), roll them — the **cast total** is the sum of those faces. The Arcana slot goes **bound → active → used**; **used** slots clear after 8 hours' sleep. See *Magic* and [[Burners Sorcerie]].
+
+- **Defend:** commit Fuel dice to cut a blow before armor soaks the rest — one die to **Dodge** most blows, or as many as you like against a foe you **Parry** or **Block**. Against hostile magic, sum your dice against the caster's **cast total** (see *Defending against a spell*). A rolled 6 is a **Spark** (defending, a Riposte). See Fighting.
 
 - **Spark:** a natural 6 you play from your Fuel. It entitles you to a second combat action — an attack, a Block, or a Stunt (defending, a Riposte) — which you still pay for from your Fuel. See Fighting.
 
 - **Stunt:** an attack spent to knock down, shove, disarm, trip, or grapple a foe instead of dealing or blocking damage. See Fighting.
 
-- **Prone:** knocked down — by a Stunt, a Shock result, or a waist or leg wound. You cannot Dodge, so any blow you do not actively meet lands whole; but you may still Parry a foe you attack, or Block with a shield or a spent attack, so you guard the foes you engage and take the rest whole. A Veteran's extra attacks keep him defending from the ground; a novice guards one foe at most. Rising is free unless a foe presses you in melee, when it costs a die (see Stunts). A waist or leg wound instead pins you down until it heals.
+- **Prone:** knocked down — by a Stunt, a Shock result, or a waist or leg wound. You cannot Dodge, so any blow you do not actively meet lands whole; but you may still Parry a foe you attack, or Block with a shield or a spent attack, so you guard the foes you engage and take the rest whole. A Veteran's extra attacks keep him defending from the ground; a novice guards one foe at most. Rising is free unless a foe presses you in melee, when it costs a die (see Stunts). A waist or leg wound instead pins you down until you reach **full HP**.
 
 - **Refill die:** one die everyone gains at the top of each round from the second on, rolled into your Fuel before Initiative is re-read. The first round brings none.
 
@@ -139,7 +141,7 @@ Burners is a fast-paced adventure game of happy go lucky heroes in the style of 
 
 ## Saves
 
-There is no separate birthright to withstand a danger; you endure with the same four Approaches you act with. A Save is an Approach roll against a Cost the world sets — 2d6 + the fitting Approach against the Guide's number, a higher number for a harder danger.
+There is no separate birthright to withstand a danger; you endure with the same four Approaches you act with. A **Save** is an Approach roll against a Cost the world sets — **`2d6 +` the fitting Approach** against the Guide's number, a higher number for a harder danger. **Hostile magic** is not resolved here — it uses **Defend** against the caster's **cast total** (see *Defending against a spell* under Combat and [[Burners Sorcerie]]).
 
 - **Sword** — hold your feet, force a door, stay conscious under a wound.
 - **Craft** — dodge what you cannot fight: a dart, a pit, a floor giving way, a creeping poison.
@@ -201,8 +203,8 @@ A weapon's **slots** are the dice it throws on the Initiative roll and the space
 | Dagger | 1 | 10 | can be thrown |
 | Club | 1 | 1 | |
 | Sling | 1 | 2 | ranged |
-| Hand axe | 2 | 10 | can be thrown |
-| Mace | 2 | 10 | |
+| Small ax | 2 | 10 | can be thrown |
+| Mace (incl. war hammer) | 2 | 10 | |
 | Arming sword | 2 | 20 | |
 | Short bow | 2 | 25 | ranged, two-handed |
 | Spear | 3 | 15 | two-handed |
@@ -228,9 +230,9 @@ A weapon's **slots** are the dice it throws on the Initiative roll and the space
 
 | Shield | Slots | Cost (gp) |
 | --- | --- | --- |
-| Buckler | 1 | 3 |
-| Heater | 2 | 6 |
-| Rotella | 3 | 9 |
+| Buckler | 2 | 3 |
+| Heater | 3 | 6 |
+| Rotella | 4 | 9 |
 | Kite | 4 | 12 |
 | Tower | 5 | 15 |
 
@@ -238,7 +240,18 @@ A weapon's **slots** are the dice it throws on the Initiative roll and the space
 
 A Trait is a skill or a quality: arming sword, herbalism, strong, perceptive, raised in the fens. You hold up to four Traits per character level, each tagged to an Approach, but a Trait no longer raises that Approach; your level does that. You need not claim all four at each level, and a delayed Trait costs nothing, so you can fill one in whenever play hands you the name for it. Traits come free with your levels, never bought with XP.
 
-Some actions are trained-only: impossible without a specific Trait, whatever your Approach.
+Some actions are trained-only: impossible without a specific Trait, whatever your Approach — plate armor is one, and so is each magic school (no Trait in the school, no reading or casting it).
+
+### Experience
+
+Burners awards **Old-School Essentials** XP on top of its own combat and advancement. Your **character level** is bought from the table below; Traits, Signatures, and spell learning are never bought with XP — they come with levels or emerge in play. XP has two sources only:
+
+- **Monsters** — award XP by Hit Dice from the OSE table when a foe is overcome (killed, routed, or otherwise neutralized as treasure). A 1 HD skeleton is 10 XP; a ~4 HD boss is 125. Split the award among the crew as you prefer; we usually divide evenly. The full table lives in [[Burners OSE Conversions]].
+- **Treasure** — **1 XP per 1 gp** of coins, gems, and jewelry **recovered to safety** — banked in town, not merely pocketed in the delve. Loot you cannot haul home is not loot yet; the clock has teeth. Goods, art objects, and equipment count at their sale value when sold; the Guide sets the number once.
+
+**Magic items grant no XP.** The item is the reward.
+
+Burners does **not** use Wåndyr's factor-based, point-of-interest XP (where each resolved scene pays a level in XP). You earn by overcoming monsters and hauling treasure home, as OSE intends.
 
 ### Approach Level
 
@@ -282,7 +295,7 @@ Alignment is an Approach worked out on the spot for a situation that maps to non
 
 ## HP, Heat, and Armor
 
-Each Burner has HP of one d6 per character level, rolled, just 1d6 at first level, rerolled on each level-up for the higher of the new total or the old plus one. But HP is not meat; it is luck, wind, and the reflex to turn a blow, and it comes back fast, with a breather between fights, so a low first roll never haunts you for long. Blows come off HP as near-misses; only the overflow past 0 opens a Wound, driving your HP into the negative — a running tally that is your true flesh, healing slow where HP heals fast (see Wounds).
+Each Burner has HP of one d6 per character level, rolled, just 1d6 at first level, rerolled on each level-up for the higher of the new total or the old plus one. But HP is not meat; it is luck, wind, and the reflex to turn a blow. Blows come off HP as near-misses; only the overflow past 0 opens a Wound, driving your HP into the negative — a running tally that is your true flesh until you are whole again (see Wounds and Healing and recovery).
 
 Heat is the other track, and it is not a pool of hit points. It is the scene's pressure, shared by the whole crew: the difficulty your out-of-combat costs are quoted against, and the clock that tells everyone how close the job is to going wrong. Every scene opens at a base (a quiet meet 3-4, a working delve or a parley that matters 6, a blown job or a hall on fire 8) and climbs as costs mount. Blows in a fight do not feed it; those go to HP. Heat rises in a fight only when the Guide judges the danger has turned, and it has no ceiling: a hot scene is simply a dangerous one.
 
@@ -296,7 +309,7 @@ Armor is what you wear, and it soaks on the way in, its AC coming off every blow
 
 - **Heart:** persuasion, intimidation, deception, leadership, empathy, trading, medicine, performance, streetwise, languages. Qualities: charming, commanding, loyal, silver-tongued, well-connected.
 
-- **Sorcerie:** Sorcerie Traits are general (perceptive, studious, second-sight, ancient-blooded, learned, haunted). The schools, their spells, and arts like divination or alchemy are magic, learned from books, not Traits.
+- **Sorcerie:** general Sorcerie Traits (perceptive, studious, second-sight, ancient-blooded, learned, haunted) flavor the unseen — and a **magic school** is a Trait too, a trained-only one: a *Vitae* or *Elementale* Trait makes you literate in that school and able to learn its spells at all, and without it the school is closed to you (see *Magic*). The individual spells inside an open school you still learn from books, as are arts like divination and alchemy.
 
 ## Sample Party
 
@@ -306,7 +319,7 @@ Armor is what you wear, and it soaks on the way in, its AC coming off every blow
 
   - Traits: arming sword, shield, plate armor, ambush (Sword).
 
-  - Held: arming sword and a rotella (3 dice on the Initiative roll, and a block).
+  - Held: arming sword and a rotella (4 dice on the Initiative roll, and a block).
 
   - Signatures: none yet, a plain tough veteran waiting for a habit to harden into one.
 
@@ -318,7 +331,7 @@ Armor is what you wear, and it soaks on the way in, its AC coming off every blow
 
   - Spells: Stanch and Mend, known Vitae workings from her book.
 
-  - Arcana: a wand that loads one level-1 spell at muster. This delve it holds Stanch, a Vitae working that closes a wound and restores HP, the one thing that helps mid-fight. It is forgotten once cast.
+  - Arcana: a wand with Stanch bound — a Vitae working that closes a wound and restores HP, the one thing that helps mid-fight. Once cast, the slot stays active briefly, then used until she sleeps.
 
 - **Pip**, Craft 1 (Journeyman). "Has never been caught. Not once."
 
@@ -437,13 +450,13 @@ A blow that drives you past 0 HP opens a Wound. Resolve it once, then carry it. 
 
 - **Torso, winded.** The blow knocks the wind out of you: lose one Fuel die at once. If your pool is already empty, you forfeit your next refill instead, so the hit always tells — but once, not forever.
 
-- **Waist, collapsed.** You are prone and cannot stand up until the wound is healed.
+- **Waist, collapsed.** You are prone and cannot stand up until you reach **full HP**.
 
 - **Arm or hand.** That limb is unusable. A weapon arm cannot attack; a shield or off arm cannot use a shield.
 
-- **Leg.** You go prone and cannot stand up until healed, the same as a waist wound.
+- **Leg.** You go prone and cannot stand up until you reach **full HP**, the same as a waist wound.
 
-Prone is a real penalty: you cannot Dodge, so any blow you do not actively meet lands whole. You may still Parry a foe you melee-attack, or Block with a shield or a spent attack — so you guard the foes you engage and eat the rest whole. This is where a Veteran's extra attacks tell: he parries or blocks several of those on him and fights on from the ground, while a lone-attack fighter guards one at most and is carved by the others. It is why a knockdown pays best when your crew can pile in — more attackers than the downed foe can turn, the rest landing whole. Rising is part of your next action and free, unless a foe is pressing you in melee, when scrambling up under his steel costs a die (see Stunts). A wound that holds you down, though — a waist or a leg — you cannot rise from at all until it heals, and while it lasts your attacks too fall to a single die: you fight small, on the ground, for the duration. It does not stack, however you ended up prone. A fresh, untended wound also makes that spot a soft target: a blow called at an already-wounded spot deals 2 extra damage until it is tended.
+Prone is a real penalty: you cannot Dodge, so any blow you do not actively meet lands whole. You may still Parry a foe you melee-attack, or Block with a shield or a spent attack — so you guard the foes you engage and eat the rest whole. This is where a Veteran's extra attacks tell: he parries or blocks several of those on him and fights on from the ground, while a lone-attack fighter guards one at most and is carved by the others. It is why a knockdown pays best when your crew can pile in — more attackers than the downed foe can turn, the rest landing whole. Rising is part of your next action and free, unless a foe is pressing you in melee, when scrambling up under his steel costs a die (see Stunts). A wound that holds you down, though — a waist or a leg — you cannot rise from at all until you reach **full HP**, and while it lasts your attacks too fall to a single die: you fight small, on the ground, for the duration. It does not stack, however you ended up prone. A fresh, untended wound also makes that spot a soft target: a blow called at an already-wounded spot deals 2 extra damage until you reach **full HP**.
 
 #### The Shock Check
 
@@ -477,19 +490,21 @@ A downed character is helpless, so a foe may spend an action to finish them with
 
 #### Healing and recovery
 
-HP, Heat, and Wounds recover on different clocks. HP is luck, not meat, so it comes back fast: a breather between fights refills it. Heat is shared pressure: it vents in play (see Heat, above) or cools to base in downtime. A Wound is torn flesh — the negative HP a blow drove you below 0 — and it mends slowly or not at all.
+**Full HP closes wounds.** The moment your current HP reaches your maximum, every wound closes with it: the negative tally resets to 0, location effects and limb penalties lift, and soft-target marks clear. **Maimings** are the exception — permanent cripplings the Guide offered at the brink do not heal on their own.
 
-- **Between fights.** A breather refills your HP; it was only luck and wind. But your wounds stay, real injury waits for rest. First aid is a Craft action: you can tend one open wound to clear its soft-target penalty, but tending restores no HP.
+HP is luck, not meat. Heat is shared pressure — it vents in play (see Heat) or cools to base in downtime.
 
-- **A night's rest.** A safe night cools Heat to base and begins to mend your wounds, a point or two of the negative tally climbing back toward 0. Deep injury and full recovery are what you return to the safe town for.
+- **Rest** (one hour, food and water): recover **all HP** if you are at 0 or above. Does not restore HP while you are below 0 (negative). When you hit your maximum, wounds close as above.
+- **Sleep** (eight hours, food): while HP is **below 0**, recover **1 HP per night** toward 0. Once you are at **0 or above**, a **rest** refills you to maximum in an hour (a safe night with food counts). When you hit your maximum, wounds close as above.
+- **First aid** (Craft): tends a wound in the field; it does not restore HP. Vitae can restore HP mid-fight or rouse the fallen; HP gained still counts toward full.
 
-- **Wounds heal on their own clock.** A wound lingers far longer than a night, and the Guide sets recovery by the fiction: days for a shallow cut, weeks or months for a shattered limb. A maiming is permanent. Only a Vitae working lifts a wound in the middle of a fight, or rouses the fallen; everything else waits for rest.
+*Example — Aldric (Sword 1, maximum 4 HP) is driven to **−4** with a leg wound: prone, soft-target, the penalties ride. **Rest does nothing** while he is negative. Each safe **night** with food adds 1 HP: −3, −2, −1, **0** — four days to climb out of the wound-depth. Then one hour's **rest** with food and he is back at **4 HP**, whole: the leg works, the soft-target clears, the negative tally is gone.*
 
-The shape of all this is simple. HP is luck and it comes back, so a clean fight leaves no lasting mark. The danger is being driven past 0, where blows open wounds and each is a Shock Check that can drop you, and where the injury lingers long after. Once you go down, you live unless your wounds reach -12 or the enemy finishes you, so whether a friend can reach your body in time is everything. The game rewards short, decisive fights, timely healing, and knowing when to break off. It punishes taking hit after hit.
+The danger is being driven past 0 — each wound is a Shock Check, and downed friends need covering. Reach full HP and you are whole again; linger hurt and the penalties ride until you do.
 
-*The crew fights an ogre in a working scene, Heat at 6. Aldric (Sword 1, 4 HP, chainmail (AC 3), arming sword, rotella) rolls Initiative for seven dice — one empty slot, two for the sword, three for the shield, one for his level: 6, 5, 4, 3, 2, 2, 1, three of them showing 3 or 4, so his Initiative is 3. The ogre's pool runs deep, swollen by its Hit Dice and the six points of Heat, so it acts first and swings its great club, three dice for a blow worth 10. Aldric means to trade with it, and against a foe he melees he defends without limit: he spends the 6 and the 4 to cut all 10, his chainmail never tested. The 4 was a quick die, so his Initiative slips to 2. On his turn a Veteran gets two attacks; with a one-handed sword each is a single die, so he spends the 5 and the 3 for blows of 5 and 3 — 8 into the ogre, and with no 6 among them, no Spark. Fuel left: 2, 2, 1, plus the refill each round brings. Next round the ogre swings for 10 again; Aldric spends his 2, 2, 1 and the refill to cut 8, and his chainmail soaks the rest, so nothing lands — but his hand is now empty. The round after, winded, the blow arrives whole: 10 less 3 for chainmail is 7, and with 4 HP he is driven to -3, a leg Wound that leaves him prone. His Shock Check — 2d6 + Sword against that wound-depth of 3 — beats it, so he stays on his feet, but his dice are gone. Finish it or fold.*
+*The crew fights an ogre in a working scene, Heat at 6. Aldric (Sword 1, 4 HP, chainmail (AC 3), arming sword, rotella) rolls Initiative for eight dice — one empty slot, two for the sword, four for the shield, one for his level: 6, 5, 4, 3, 2, 2, 1, 1, three of them showing 3 or 4, so his Initiative is 3. The ogre's pool runs deep, swollen by its Hit Dice and the six points of Heat, so it acts first and swings its great club, three dice for a blow worth 10. Aldric means to trade with it, and against a foe he melees he defends without limit: he spends the 6 and the 4 to cut all 10, his chainmail never tested. The 4 was a quick die, so his Initiative slips to 2. On his turn a Veteran gets two attacks; with a one-handed sword each is a single die, so he spends the 5 and the 3 for blows of 5 and 3 — 8 into the ogre, and with no 6 among them, no Spark. Fuel left: 2, 2, 1, plus the refill each round brings. Next round the ogre swings for 10 again; Aldric spends his 2, 2, 1 and the refill to cut 8, and his chainmail soaks the rest, so nothing lands — but his hand is now empty. The round after, winded, the blow arrives whole: 10 less 3 for chainmail is 7, and with 4 HP he is driven to -3, a leg Wound that leaves him prone. His Shock Check — 2d6 + Sword against that wound-depth of 3 — beats it, so he stays on his feet, but his dice are gone. Finish it or fold.*
 
-Control magic does not kill. Charm, maze, fear, and petrification take you out of the fight in their own way (enthralled, lost, fled, stone), and those states recover. Armor does not help against them, since you cannot plate a mind. Only blade, fire, and their like cut toward death.
+Control magic works through the same **Defend** economy as damage: charm, sleep, fear, and maze apply **net pressure** to HP — in combat and out of it. At **0 HP or below**, full control; still above 0, partial; fully defended, none. Pure mind-work ignores armor; you spend Fuel to resist, not plate. Those states recover when the working ends or is broken — unlike a killing wound, control is not final death.
 
 ### Fighting
 
@@ -537,7 +552,7 @@ Armor is what you wear, and it soaks on the way in: its AC comes off every blow 
 
 - Training gates the martial arts by threshold, not by dial. The Veteran title (Sword 1) lets you guard an ally with shield or blade, wakes a legendary item's third die, and is the price of admission to plate, which also asks a *plate armor* Trait. Light armor, mail, and a plain weapon ask nothing; anyone can wear and swing them, but it is training that makes them tell.
 
-- A shield is not armor; it is held, not worn. Its slots are dice it lends on the Initiative roll (buckler 1, heater 2, tower 5), like any held steel. Holding one lets you **Block** once a round on yourself: defend a single attacker with as many dice as you like, even one you are not striking at, so a shield answers the foe your blade cannot, costing you no attack — though you still spend Fuel to cut the blow. To cover an ally instead, or to Block a second foe, spend one of your attacks (see Fighting). A legendary shield adds its third die and can ward a breath.
+- A shield is not armor; it is held, not worn. Its slots are dice it lends on the Initiative roll (buckler 2, heater 3, tower 5), like any held steel. Holding one lets you **Block** once a round on yourself: defend a single attacker with as many dice as you like, even one you are not striking at, so a shield answers the foe your blade cannot, costing you no attack — though you still spend Fuel to cut the blow. To cover an ally instead, or to Block a second foe, spend one of your attacks (see Fighting). A legendary shield adds its third die and can ward a breath.
 
 ### We Burn Undead
 
@@ -567,13 +582,13 @@ So the tiering is clean and needs no new subsystem: torch the horde; deal, name,
 
 There is no defense roll to fail; when struck you commit dice from your Fuel — one to Dodge, or freely against a foe you melee or one you Block — and your armor soaks the rest (see Fighting). So lethality lives in attrition and in ambush, not in big single numbers. Your Fuel only shrinks over a fight, and when it runs dry blows arrive whole, so the danger is the turn you are winded with steel still swinging. Surprise skips the exchange, since a foe you never saw strikes a Fuel you have not rolled, which is why ambush is worth more than any weapon. Once you are past 0, blows open wounds, and each is a Shock Check to stay up as your negative HP falls toward the -12 that kills you, so it is the stack of wounds, not the passage of time, that drops or kills you. Soften foes at range, strike decisively, and break off before your dice do.
 
-**Defending against a spell.** A dodgeable blast (a bolt, a cone) is a blow like any other: the target may **Defend** as against any blow — a single die to Dodge, or more if they are in melee with the caster or raise a shield to Block — and armor soaks only if the fiction makes the effect **physical** (conjured blade, stone shards). Pure sorcery with no physical dodge — a hex, a mind-touch — allows no dice defense; it lands and is resolved by the effect or the control rules.
+**Defending against a spell.** Hostile magic uses the same Fuel economy as steel. The caster rolls the L Fuel dice spent to cast; the **cast total** is the sum of those faces. The target may **Defend** by committing Fuel dice, rolling them, and summing the faces — spent for the fight, like any defense. Compare totals: if **defense ≥ cast**, the working is fully defended; if **defense < cast**, **net pressure** (cast − defense) comes off **HP** — in combat and out of it. Armor soaks net pressure only when the effect is **physical** in the fiction (conjured blade, stone shards, a hail of metal); pure mind-work ignores AC. The player chooses whichever Approach fits; a spell may suggest one (*Defend: Sword*, *Defend: Heart*). **Physical** spell attacks follow the usual Dodge (one die), Parry, Block, and AC rules; **non-physical** workings have no one-die Dodge cap. **Control** also works through net pressure to HP: at **0 HP or below**, full control; still above 0, partial; fully defended, none. **Out of combat** with no Fuel in play: cast total **`2d6 + Sorcerie`** (or Craft for Canting), defense **`2d6 +` fitting Approach** — same math, not a free Save. Full detail in [[Burners Sorcerie]].
 
 ## Magic
 
-Magic is prepared, not spontaneous: a Sorcerer loads workings into **Arcana** at a **muster** and looses them one shot each in the field. It is utility first — most spells solve problems (light, movement, control, ward); when one deals HP loss, that damage scales with the **level it was prepared at**, not with Sorcerie or the cast. Magic plugs into the core at two points: the Sorcerer title (Sorcerie 1) switches casting on, and a **combat cast is one Action that spends dice from your Fuel equal to the working's level**. The spell catalog is [[Burners Sorcerie]], organized by school; the gate-free common school **Sorcerie** holds the workings every mage knows regardless of tradition (Read Magic, Detect Magic, the Ward Pact family, and the rest).
+Magic is prepared, not spontaneous: a Sorcerer **binds** workings into **Arcana** (one hour of study with spellbook in hand). A cast leaves the spell **active** for its duration, then **used** until cleared by sleep — it does not vanish from the focus on release. It is utility first — most spells solve problems (light, movement, control, ward); hostile magic lands through the same **Defend** economy as steel. Magic plugs into the core at two points: the Sorcerer title (Sorcerie 1) switches casting on, and a **combat cast is one Action that spends dice from your Fuel equal to the working's level** and rolls them for the cast total. The spell catalog is [[Burners Sorcerie]]; the gate-free common school **Sorcerie** holds the workings every mage knows regardless of tradition (Read Magic, Detect Magic, the Ward Pact family, and the rest).
 
-The full rules of magic — the Sorcerer gate, Arcana and binding, spellbooks, ritual, the cast, its damage, and Reading Magic — live with the catalog on the **[[Burners Sorcerie]]** page; only a Sorcerer (or a Journeyman casting Canting) needs them. At the table everyone needs just two things: how a spell hits you (*Defending against a spell*, under Combat) and the quick reference below.
+The full rules of magic — the Sorcerer gate, Arcana and binding, spellbooks, ritual, the cast, Defend against hostile workings, and Reading Magic — live with the catalog on the **[[Burners Sorcerie]]** page; only a Sorcerer (or a Journeyman casting Canting) needs them. At the table everyone needs just two things: how a spell hits you (*Defending against a spell*, under Combat) and the quick reference below.
 
 ### Invocations, Relics, and Sentient Items
 
@@ -591,8 +606,9 @@ These are not the spell list; they interact with Signatures and legendary items 
 WHO     Sorcerer (Sorcerie 1+); Journeyman+ (Craft 1+) for Canting
 WHAT    school spells ([[Burners Sorcerie]]), by level
 WHERE   bound into Arcana (capacity = the Arcana's Level); book present to bind
-WHEN    re-bind at muster; the binding breaks if the focus leaves your slots
-HOW     combat cast = one Action spending L dice from Fuel; forget on cast
+WHEN    bind or replace = 1 hour + book; used slots clear after 8 hours' sleep
+HOW     combat cast = one Action spending L Fuel dice, rolled for cast total; slot → active → used
+DEFEND  in combat: Fuel dice vs cast total → net pressure to HP; OOC: 2d6 + Approach vs 2d6 + Sorcerie/Craft
 ROLL    out of combat, 2d6 + Sorcerie; +1 die if legendary Arcana
 LIMITS  learn ≤ Sorcerie · bind ≤ Arcana Level · no HP-fuel · no spell-Signatures
 ```
@@ -603,7 +619,7 @@ These are not save-or-die but a deadly countdown. A clean Save avoids the bite �
 
 ## Area Effects
 
-An area effect, such as a breath, is the blow you cannot dodge. Counter it by raising a shield (a legendary shield is broad), by having a caster ward it (an Action and a bump of Heat, cutting the top off for everyone), by cover, or by resistance. The Guide telegraphs it ("its chest glows") so warding is a choice, not a death sentence.
+An area effect from a **monster** — a dragon's breath, a collapsing ceiling — is often the blow you cannot slip. Counter it by raising a shield (a legendary shield is broad), by having a caster ward it (an Action and a bump of Heat, cutting the top off for everyone), by cover, or by resistance. The Guide telegraphs it ("its chest glows") so warding is a choice, not a death sentence. A **spell** area effect uses **Defend** and net pressure like any other hostile working (see *Defending against a spell*).
 
 ## Removal and One-Shots
 

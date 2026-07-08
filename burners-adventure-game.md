@@ -364,7 +364,7 @@ The dice come out only when a price is on the table, so the dice are the line be
 
 When the Guide asks you to roll, they will state the target. You must state your Approach, if you haven't done so already.
 
-Your result is 2d6 plus your Approach. If you meet or beat the target then you accomplish your task unscathed, otherwise you bear a cost. Natural consequences will apply. If this involves personal peril you lose HP or take a wound. Otherwise, if the consequences are more abstract, the Guide will raise the Hazard.
+Your result is 2d6 plus your Approach. If you meet or beat the target then you accomplish your task unscathed, otherwise you bear a cost. Natural consequences will apply. If this involves personal peril you lose HP or take a wound. Otherwise, if the consequences are more abstract, the Guide will raise the Heat.
 
 #### Sweet & Spicy
 

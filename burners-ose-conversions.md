@@ -7,7 +7,7 @@ hero_alt: "A knight rides toward the distant keep — Lancelot Speed"
 
 # Burners ↔ OSE Conversions
 
-Every OSE conversion follows [[Burners Principles]] — especially *Granular defense, not binary save*, *Route, don't reinvent*, *No keys*, and *No plusses*. The routing tables below are the OSE-specific application; the principles page is the why.
+Every OSE conversion follows [[Burners Principles]]. The routing tables below are the OSE-specific application.
 
 The clocks already match: OSE turns and rounds are Burners turns and rounds. Durations, torches, and wandering-monster checks run as written.
 
@@ -157,11 +157,11 @@ See [[Burners Principles#Armor and Resistance soak; they never roll]].
 | +1 or better to hit | **High Resistance** vs mundane arms — enough that ordinary blows barely tell — bypassed by a legendary/named blade or the stated weakness | *Unearthly.* Mortal steel is folklore against it; the right edge makes it mortal. |
 | +2/+3 or better to hit | **Not a bigger number** — the same high Resistance plus a weakness that must be *discovered*, or a fiction gate (*it cannot fall while the phylactery stands*) | *A puzzle wearing a stat.* |
 
-Every Resistance above a point or two **names its cause** — *stone that mocks the chisel; a ward-pact vs. swords; flesh that isn't wholly here* — because a cause is a thing the party can learn, argue with, and undo. A named weakness (silver, fire, its true name) doesn't lower the Resistance; it **ignores** it, the way a Bane-forged weapon ignores its quarry's soak (see [[Burners Arms and Armor]]).
+Every Resistance above a point or two **names its cause** — see [[Burners Principles#Armor and Resistance soak; they never roll]]. A named weakness **ignores** Resistance, the way a Bane-forged weapon ignores its quarry's soak (see [[Burners Arms and Armor]]).
 
-**Energy drain** (wights, wraiths, spectres): see [[Burners Principles#No instant death]] — overrun to HP or a **lingering Cost** that no mundane healing restores. A character who goes down under the drain and fails the **Shock Check** rises as a thrall. Grim, recoverable, no level bookkeeping.
+**Energy drain** (wights, wraiths, spectres): see [[Burners Principles#No instant death]].
 
-**Mobs vs. the unearthly:** twenty militia hacking at a thing with high Resistance each land almost nothing — a point here, a point there, most blows soaked whole — while it kills them. This is correct; it is why the village hired Burners.
+**Mobs vs. the unearthly:** see [[Burners Principles#Armor and Resistance soak; they never roll]].
 
 ---
 
@@ -179,7 +179,7 @@ A module check splits two ways. A trained or skilled attempt — thief skills, f
 
 Stuck doors, thief skills, foraging, listening at doors — all this table. A trained Approach shifts the odds; that is the point of being a Burner.
 
-**Traps and environmental damage convert by the die alone** — a pit has no pool, so it deals a flat number: take the module's damage as an **average, used as a constant Damage** (1d6 spikes → Damage 3–4; 2d6 rockfall → Damage 7), which you Defend against with Fuel if you have dice up, and take whole if you don't — a trap is no save, it is detect-or-eat. Sprung with no telegraph unless scouted — scouting *is* buying the telegraph. Nudge ±1 for the fiction; the same license applies to creatures: *"one of the zombies is seven feet tall — +1 die to its pool."*
+**Traps and environmental damage** — see [[Burners Principles#Pools, not fixed numbers]] (*Traps*). Average the module die to flat Damage; detect or eat.
 
 **Worked in the margin — the OSE zombie** (AC 8 [11] · HD 2 (9hp) · 1 × weapon, 1d8 · Morale 12):
 
@@ -419,16 +419,16 @@ A **+3 or better** weapon in the text is the module telling you to skip the tabl
 
 **Mundane fine make** becomes a **fitted Signature harness** — comfortable, quiet, worth coin, never hinders.
 
-**+n armor or shields** use *Enchanted + Powers* above — do not add AC or size for the plus. A **+1 shield** is enchanted (shield slots + 1 on the Initiative roll) plus one +1-tier power; **+2 plate** is enchanted (+1 Initiative die while worn), one +1-tier power, and one +2-tier power. Truly **legendary** harness — a ward, a true name, the third die on your Shock Check — is a *relic*, not a +2 in a module list.
+**+n armor or shields** use *Enchanted + Powers* above — do not add AC or size for the plus. Truly **legendary** harness is a *relic*, not a +2 in a module list — see [[Burners Principles#Legendary vs enchanted]].
 
 ---
 
 ## Watchpoints
 
-- **Lethality is comparable** — B/X at low levels is brutal and Burners characters are lean; modules run close to their intended dread. The gap appears with **large mobs**: pooled Damage can spike past any defend. Use swarm-group splitting and chokepoints deliberately; the module won't tell you to.
-- **Foreshadowing is now mechanical.** Module boxed text that promises danger is a **Heat raise**; keep the dial face-up. Rooms that let the party prepare are Heat *reductions* waiting to be claimed.
-- **Solo bosses** need HP enough to survive the party's first-round burst, or they die before their first telegraph. Add HD modifier freely.
-- **Don't double-count dread:** the creature's HD, weapon, and Resistance are its own; **Heat prices only the situation** — the dark, the fire, the flanking. Heat already feeds the monster's pool once on the Initiative roll, so a hot scene fights back harder on its own — don't also inflate the creature.
+- **Lethality is comparable** — B/X at low levels is brutal and Burners characters are lean. Large mobs can spike past any defend; use swarm splitting and chokepoints.
+- **Foreshadowing is mechanical** — see [[Burners Principles#Heat is scene pressure]].
+- **Solo bosses** need HP enough to survive the party's first-round burst, or they die before their first telegraph.
+- **Don't double-count dread** — see [[Burners Principles#Heat is scene pressure]].
 
 ---
 

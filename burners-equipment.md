@@ -145,4 +145,4 @@ Want something not on these tables? Price it with the **Gold Piece formula** car
 | Exceptional craft, +1 | +100 gp    |
 | Rare craft, +2        | +1,000 gp  |
 
-So an *elegant knight's sword, +1*: fine steel (2 slots × 10 = 20) + "elegant" 10 + "+1" 100 ≈ **130 gp**. Exceptional (+1/+2) craft is finer and more lethal or protective in the fiction, but it is **not** the legendary third die — that is looted or earned, never bought. Magic items are rarely for sale at any price; the Guide decides whether one can be found at all.
+So an *elegant knight's sword, +1*: fine steel (2 slots × 10 = 20) + "elegant" 10 + "+1" 100 ≈ **130 gp**. Exceptional craft is finer in the fiction, but it is **not** the legendary third die — see [[Burners Principles#Legendary vs enchanted]]. Magic items are rarely for sale at any price.

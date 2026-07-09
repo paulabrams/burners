@@ -13,13 +13,13 @@ hero_alt: "Crossbowmen in the street — Albert Robida"
 >
 > *Era guide:* Northmarens run early-medieval arms & armor, Southmarens late-medieval/early-Renaissance, the Eldar exotic and magical.
 >
-> **"Legendary" — mind the two senses.** In this catalog (Legends' usage), a **Legendary Asset** is *any* exceptional, named/Signature item — see *Legendary Asset Names* at the end. In **Wåndyr 2d**, **"Legendary item"** is the narrower, mechanical term for a found **third-die relic** (a *Wyrd* / *Artifact*, woken by its name). They overlap but aren't the same: many **Eldar Assets** below would *be* Wåndyr Legendary items once named, while ordinary named gear is merely **Signature**, not a third-die relic. When importing, mark which pieces actually grant the third die — don't assume every "Legendary"-named item here is a Wåndyr Legendary item.
+> **"Legendary" — mind the two senses.** Legends *Legendary Asset* vs Burners **third-die relic** — see [[Burners Principles#Legendary vs enchanted]] and [[Burners Principles#Earned in play]].
 
 ---
 
 ## Advanced Assets
 
-Advanced rules for Assets beyond the basics (skippable for a casual game). An Asset can rise on a **quality ladder** from common to legendary, carry **Secrets** (powers), and take **Tags** (mechanical properties in combat). Everything past plain, common gear is earned, fitted, or found **in play** — never claimed at character creation.
+Advanced rules for Assets beyond the basics (skippable for a casual game). Everything past plain, common gear is **earned in play** — see [[Burners Principles#Earned in play]].
 
 ### Item Quality
 

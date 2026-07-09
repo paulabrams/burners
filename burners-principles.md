@@ -45,6 +45,69 @@ Past 0 HP, blows open **Wounds**; each is a Shock Check as your negative tally f
 
 Steel and sorcery share the same pool. The danger is the turn you are winded with workings still flying.
 
+**Taking foes out:** chip to 0 so the next blow wounds and fells; one-shots only against the genuinely weak. Mooks fall fast; bosses are a siege.
+
+---
+
+## HP is plot armor; past 0 it gets real
+
+**HP** is plot armor — luck, wind, near-misses. Blows come off HP and you shrug them. Nothing is torn yet.
+
+Past **0**, the shit gets real. Overflow opens a **Wound**: a negative tally that is your actual flesh, a location, an effect, a Shock Check (−12 is the floor).
+
+**Reach full HP and every wound closes** — tally, penalties, soft-target marks. Maimings offered at the brink are the exception.
+
+Death lands in the fight — stack of wounds, failed Shock at the floor, or coup de grace on a helpless body — not on a later roll.
+
+---
+
+## Heat is scene pressure
+
+**Heat** is one shared gauge for the whole crew — the temperature of the scene, not any one body's flesh. It prices most out-of-combat Costs and clocks when a job turns dangerous.
+
+- Heat is **never a damage buffer**; blows in a fight go to HP, not Heat.
+- Heat **feeds the monster pool once** on Initiative (one die per point, enemy side). **Don't double-count dread:** the creature's HD, weapon, and Resistance are its own; Heat prices only the situation — the dark, the alarm, the flanking.
+- Module foreshadowing is mechanical: boxed danger is a **Heat raise**; rooms that let the party prepare are Heat reductions waiting to be claimed.
+- When the party splits, each live scene runs its own Heat.
+
+---
+
+## Earned in play
+
+Traits come with levels; **Signatures**, named gear, and spell learning are **never bought with XP**. They emerge at the table — one Signature per level in that Approach.
+
+Legendary harness and focus — the **third die** — are looted or earned, never bought at creation. Magic items grant **0 XP**; the item is the reward.
+
+---
+
+## Legendary vs enchanted
+
+**Enchanted** (+1 module gear): one extra Fuel die on Initiative and one extra die on each blow. **+n** adds minor powers per tier — not a bigger number on the roll.
+
+**Legendary** (relic): the **third die** on the relevant roll — found, named, often woken by true name. Only a **Veteran** awakens the die on arms and armor; a legendary blade lies inert in untrained hands. A sentient sword or a +3 with special purpose may be a relic; anonymous +1 loot is enchanted + powers, not a relic.
+
+---
+
+## Invocations are not Sorcerie
+
+An **Invocation** is a bargain, not a spell. No Arcana, no spellbook, no school Trait. **Patron Alignment** is not Sorcerie level — a torch-hand may be Lunara 3 and never cast; a Sorcerer may know every school and stand a stranger to every god.
+
+---
+
+## Sweet and Spicy vs Spark
+
+Out of combat, **Sweet** (6) and **Spicy** (1) ride alongside the sum and never change it. Double Sweet is the perfect roll; double Spicy is a fumble.
+
+**Combat has no Sweet or Spicy.** There you read the dice you spend; a 6 is a **Spark** — a second action you still pay for from Fuel.
+
+A legendary item rolls three dice out of combat, so doubles come often. Power is wild.
+
+---
+
+## Sword owns the press
+
+In combat, only **Sword** answers. The diplomat, locksmith, and archmage are bodies in the melee until they escape the press. Spend other mastery before blades draw — ambush, parley, ward, position.
+
 ---
 
 ## Pools, not fixed numbers
@@ -55,13 +118,17 @@ Spells work the same way: cast at least L Fuel dice; the **cast total** is the a
 
 When porting material that prints a flat damage number (a trap, a breath quoted in hp), convert by the die or treat it as a telegraphed area effect — never paste a legacy save and a legacy damage line and call it done.
 
+**Traps** have no pool: flat Damage from the die average. Defend with Fuel if you have dice up; take it whole if you don't. A trap is **detect or eat** — scouting buys the telegraph.
+
 ---
 
 ## Armor and Resistance soak; they never roll
 
 **Armor** is a flat soak subtracted from every blow before HP — worn mail or a hide that is its own mail. It never enters the exchange as a die.
 
-**Resistance** is flat damage reduction against a **named kind** of harm — blades, fire, magic. It comes off every hit of that kind, like armor, before HP. It is never a **key**: no "only magic weapons can hurt this." Name the scope, and ideally name a weakness that bypasses it. Wear it down with weight of numbers, or find what it does not resist. A named weakness does not lower Resistance; it **ignores** it.
+**Resistance** is flat damage reduction against a **named kind** of harm — blades, fire, magic. It comes off every hit of that kind, like armor, before HP. It is never a **key**: no "only magic weapons can hurt this." Name the scope, and ideally name a weakness that bypasses it. Wear it down with weight of numbers, or find what it does not resist. A named weakness does not lower Resistance; it **ignores** it. Every Resistance above a point or two **names its cause** — a thing the party can learn and undo.
+
+Twenty militia hacking a high-Resistance thing each land almost nothing while it kills them. That is correct; it is why the village hired Burners.
 
 **No plusses on sums.** A +n from another game never becomes a bonus added to a roll total. It becomes **enchanted** gear with scaled minor powers, a tag, a Signature — or a relic.
 
@@ -129,5 +196,7 @@ The full OSE routing tables live in [[Burners OSE Conversions]]. Read a stat blo
 - **Name the harm.** Resistance and weaknesses are fiction first; the numbers follow.
 - **Telegraph the big hits.** Dragon breath and collapsing ceilings are choices, not gotchas.
 - **Let the dread work.** Lingering Costs and wound depth do the horror; the Guide does not re-roll every round.
+- **Face the Heat dial.** Foreshadowing in module text is a raise; preparation is a reduction.
+- **Don't double-count dread.** Creature stats and scene Heat are separate levers.
 
 *When two rules seem to disagree, the principle wins — then find the subsystem that already implements it.*

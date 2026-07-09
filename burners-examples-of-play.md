@@ -23,7 +23,7 @@ hero_alt: "Travelers on the road — Albert Robida"
 | **Brand** | Heart 1 (Boss) | 5 | sword (2), heater shield (3), gambeson (half suit, AC 2 — padded, no training) | 3 empty + 2 sword + 3 shield + 1 level = **9** |
 | **Ilsa** | Sorcerie 1 (Sorcerer) | 3 | spear (3), a Level-1 wand holding one bound *dart*, quarter suit (AC 1) | 4 empty + 3 spear + 1 level = **8** |
 
-*Reminder — out of combat everything is `2d6 +` the fitting Approach vs the Guide's Cost, quoted as a Pay (the world charges you — shortfall is the cost) or a Deal (you act on it — shortfall is no purchase). A hazard Defend is the same roll. Hostile magic never uses this track — it rolls initiative and Defends with Fuel.*
+*Reminder — out of combat: `2d6 +` Approach vs Cost. Hostile magic: Fuel Defend vs cast total (see [[Burners Principles#Granular defense, not binary save]]).*
 
 ---
 
@@ -130,11 +130,11 @@ Buried armed: **grave-sword** (2 slots) and a **grave-byrnie**, old chain still 
 ### Procedure Notes
 
 - **OSE clocks unchanged:** 10-minute turns, torch tracking, wandering checks every 2nd turn at 1-in-6.
-- **One roll out of combat:** trained work and raw feats alike are `2d6 + Approach` vs the Guide's Cost — Sefa's scouting and the lock (Craft), the beam (Craft), the swollen door (Sword, a hard quote). Traps are neither — detect or eat, and armor soaks the hit on the way in (Brand's pit).
+- **One roll out of combat:** `2d6 + Approach` vs Cost. Traps — see [[Burners Principles#Pools, not fixed numbers]].
 - **Fuel is rolled once, on the Initiative roll, and dwindles** — a refill die each round from the second on. The wight's 14-dice pool (swollen by 9 Heat) made round 1 murderous, but it did not refresh: by round 2 it was winded, and the fight turned. A hot scene hits hardest on the first exchange.
 - **Damage is the faces of committed dice**, minus the defender's committed dice, minus armor soak, minus Resistance — in that order. A blow is one die, +1 for a two-handed power stroke, +1 for an enchanted weapon (Kragg's axe), up to three.
 - **Defense by three doors:** a lone **Dodge** die against any blow; unlimited **Parry** against a foe you melee (Kragg); unlimited **Block** with a shield against one attacker even if you never swing at it (Brand). Ilsa, doing neither, cut with one die — and took the Wound.
-- **The Wound model:** HP is luck; the overflow past 0 drives HP negative, and the tally is flesh. Each wound rolls a location and forces a **Shock Check** — `2d6 + Sword` vs the wound depth — pass to stay up. Ilsa's arm shows it: driven to −2, depth 2, check passed, arm dead until full HP closes it. −12 is the floor.
+- **The Wound model:** see [[Burners Principles#HP is plot armor; past 0 it gets real]].
 - **Casting is the same economy:** Ilsa's *dart* was one Action, one Fuel die rolled for the **cast total**; the wight Defended with a die of its own and ate the **overrun** to HP. Then the slot went **used** — a bound working casts once, and only sleep clears it. Steel and sorcery spend the same pool.
 - **Resistance vs the named weakness:** the wight's Resistance 5 made mundane steel almost useless (Kragg's best blows netted 0–1), while silver ignored the Resistance (Sefa) and pure sorcery ignored both Resistance and armor (Ilsa's dart). The chip came from the weakness and the wand; the finish came from the axe only after the HP wall was gone.
 - **The monster's slot/Fuel economy cuts both ways:** the wight spent its huge pool attacking and parrying the melee line, so by Sefa's turn it could spare only a die or two to Dodge her knife. Tie up its dice, then land the answer.
@@ -200,10 +200,10 @@ Initiative is the count of 3s and 4s. Kragg reads **3**, the sharper **2**, Ilsa
 
 ### Procedure Notes
 
-- **Social scenes have no Persuade roll.** Whether the world bends is Step 1: a fair offer simply lands, an impossible ask simply fails. Heart pays for the *risky* moves — the read, the squeeze — as Pay rolls against Heat, and a shortfall raises the gauge rather than ending the scene.
+- **Social scenes:** see [[Burners Principles#Two engines]] and [[Burners Principles#Heat is scene pressure]]. Heart pays for risky reads and squeezes as Pay rolls.
 - **Heat is the social gauge too.** The meet opened at 4, climbed on a botched press, and a revealed threat set a floor. When steel came out, that same number armed the enemy side — the 6 Heat dice in the sharper's pool are the scene's temperature cashing in, added once for the whole side.
 - **Declaring an attack is "roll initiative" — and the declarer is not first.** The sharper's charm started the fight and Kragg still beat him to the floor. A hostile working where no fight is underway triggers initiative like a drawn blade; nobody gets a free strike for moving first in the fiction.
 - **You fight with what's in hand.** Tavern pools are thin: sheathed swords and slung axes throw no dice on the Initiative roll, so empty slots and a held wand carried the crew. Brand's draw came free with his Action; Sefa's holdout cost the 1 Fuel a holdout costs.
 - **Warding, shown:** Ilsa, adjacent, Defended *for* Brand — her dice, her choice of Approach, and Brand spent nothing. Defense ≥ cast is a full stop: control never lands partially on a made ward.
-- **Control is effect-only, and the fight around it is physical:** had the charm landed, Brand loses no HP — he becomes Marlow's friendly witness for the working's duration, and the crew's problem is the sharper's concentration, his ring, and his skin. Attack the reason: the table Stunt, the pinned ring, and the grapple all fought the *spell*, not the man's HP.
+- **Control is effect-only:** see [[Burners Principles#Harm and effect are separate lanes]]. Had the charm landed, Brand loses no HP — the crew attacks the reason (concentration, ring, skin).
 - **Morale as written (2d6 vs the score):** the bravos were never going to die for Marlow's face. One blow and one bad round asked the question twice, and the second answer was the door.

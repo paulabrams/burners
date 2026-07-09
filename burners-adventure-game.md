@@ -35,7 +35,7 @@ Most who try this trade don't last a season. The docks are full of would-be Burn
 
 ## The Engine
 
-Burners is a fast-paced adventure game of happy go lucky heroes in the style of pulp sword & sorcery fiction. You play your character by saying "I do...", not "I try...". If you have a good plan, it works! Otherwise, the Guide assigns a price paid. A character is a short list of Traits grouped into four Approaches (Sword, Craft, Heart, Sorcerie), and 12 equipment slots.
+Burners is a fast-paced adventure game of happy go lucky heroes in the style of pulp sword & sorcery fiction. You play your character by saying "I do...", not "I try...". If you have a good plan, it works! Otherwise, the Guide assigns a price paid. A character is a short list of Traits grouped into four Approaches (Sword, Craft, Heart, Sorcerie), and 12 equipment slots. Design spine: [[Burners Principles]].
 
 ---
 
@@ -59,7 +59,7 @@ Burners is a fast-paced adventure game of happy go lucky heroes in the style of 
 
 - **Character Level:** your overall rank, bought with XP from one table — earned by OSE awards for monsters overcome and treasure recovered to safety (see *Experience*). Each level is a point you place in an Approach, and it grants up to four more Traits and a reroll of your HP.
 
-- **Signature:** an asterisk on a Trait, marking a special ability, never a spell, that grew out of how you played it: a named blade that bites, a habit that never fails you. It emerges at the table and is never bought; you may hold one per level in that Approach.
+- **Signature:** an asterisk on a Trait — see [[Burners Principles#Earned in play]]. Never a spell.
 
 - **Theme:** your name or alias and a short freeform description of who your character is, to help you to portray your character to others.
 
@@ -73,17 +73,17 @@ Burners is a fast-paced adventure game of happy go lucky heroes in the style of 
 
 - **Empty Slots:** unspent inventory space is speed. On the Initiative roll each empty slot adds a die to your Fuel, up to 4, so travelling light means a fatter pool and more Initiative. Out of combat, empty slots ease nimble actions the same way. Dropping an item to free a slot is an action.
 
-- **Armor Class (AC):** the armor you wear soaks damage on the way in, its AC coming off every blow before your HP. AC runs from 1 to 5 by the make of the armor: leather (1), gambeson (2), chainmail (3), plated mail and field plate (4), full plate (5). It is one number, subtracted from every blow, and plate is trained-only (see Armor).
+- **Armor Class (AC):** soak on the way in — see [[Burners Principles#Armor and Resistance soak; they never roll]]. AC 1–5 by make (see Armor); plate is trained-only.
 
 ### HP, Heat, and Wounds
 
-- **HP:** your luck, wind, and quickness, one d6 per character level, rolled (just 1d6 at first level). At each level-up reroll the whole pool and keep the higher of the new total or your old plus one. It is not meat: blows come off HP as near-misses, and only the overflow past 0 opens a Wound, deepening the negative-HP tally that is your true flesh (see Wounds). **Reach full HP and every wound closes with it** (see Healing and recovery). Each Burner and each monster has their own.
+- **HP:** plot armor until 0 — see [[Burners Principles#HP is plot armor; past 0 it gets real]]. One d6 per character level, rolled; reroll at level-up and keep higher of new total or old+1. Reach full HP and wounds close.
 
-- **Heat:** one shared gauge for the whole crew, the temperature of the scene, not any one body's flesh. It is the difficulty most out-of-combat costs are quoted against and the clock that decides when a job turns dangerous. It is luck, wind, and nerve held in common. Every scene opens at a base (a quiet meet 3-4, a working delve or a parley that matters 6, a blown job or a hall on fire 8) and rises and vents from there. It is never a damage buffer, and blows in a fight do not feed it. When the party splits, each live scene runs its own Heat, merging back when the crew reunites.
+- **Heat:** shared scene pressure — see [[Burners Principles#Heat is scene pressure]]. Most out-of-combat Costs quote against it. When the party splits, each scene runs its own Heat.
 
-- **Feeding Heat:** out of combat, a risky action's Cost is usually Heat, and a narrative shortfall (a blown sneak, a hard parley) raises it by a compressed amount the Guide sets, usually 1 or 2. A revealed threat sets a floor. In a fight Heat does not climb off hits, since blows go to HP; it rises only when the Guide judges the danger has turned (a comrade down, an alarm, reinforcements), and often it does not rise at all.
+- **Feeding Heat:** a risky action's Cost is usually Heat; a narrative shortfall raises it (usually 1–2). In a fight, Heat rises only when the Guide judges the danger has turned — blows go to HP, not Heat.
 
-- **Wound:** real injury, taken when a blow drives you past 0 HP or you are struck while helpless. Its overflow drives your HP below 0 — a running negative tally that is your flesh, dead at -12 unless your Shock Check holds — and it lands with a location and an effect. You then make a Shock Check. Wounds and their penalties last until you **reach full HP** (maimings excepted).
+- **Wound:** real injury past 0 HP or while helpless. Overflow drives negative tally; Shock Check follows. Lasts until **full HP** (maimings excepted).
 
 - **Wound Effects:** each Wound has an effect: a limb wound disables that limb, and a vital wound carries a specific effect such as tunnel vision for a head hit.
 
@@ -95,7 +95,7 @@ Burners is a fast-paced adventure game of happy go lucky heroes in the style of 
 
 - **World Turn:** ten minutes of out-of-combat time. Each character takes one World Action.
 
-- **Two Steps:** first, say what you do. If it is clever, feasible, and backed by who you are, it just works with no roll; if it has no chance, it just fails; if it is feasible but risky, you go to the second step and pay a Cost. Only a risky, not-foolproof action carries a Cost (usually Heat, sometimes time, noise, or position), and you roll to reduce or deal it. A foolproof action needs no roll and no Cost.
+- **Two Steps:** see [[Burners Principles#Two engines]]. Say what you do; if risky, pay the Cost (usually Heat).
 
 - **Trained-Only:** an action impossible without a specific Trait, whatever your Approach.
 
@@ -131,9 +131,9 @@ Burners is a fast-paced adventure game of happy go lucky heroes in the style of 
 
 ### Monsters
 
-- **Monster:** an enemy on a simple stat block. Its Hit Dice are its level, its HP is 5 per Hit Die plus any modifier, and its hide is its armor, soaking on the way in; chip it to 0 HP and the overflow is the killing Wound. In a fight a monster rolls Fuel like a character: its held gear gives dice by slots, plus one die per Hit Die, plus the current Heat as dice (one per point), added to the enemy side once so a swarm does not multiply it. It spends Fuel and plays Sparks as a character does; each blow is up to three dice, and a fierce or many-limbed foe makes extra attacks by its nature (a wolf bites once, a bear claws twice, a hydra strikes per head), the Guide setting how many. A named or solo foe may take the full Wound and Shock Check rules when the scene calls for it.
+- **Monster:** an enemy on a simple stat block. Its Hit Dice are its level, its HP is 5 per Hit Die plus any modifier, and its hide is its armor. In a fight it rolls Fuel like a character (see [[Burners Principles#Pools, not fixed numbers]] and [[Burners Referee Guide]]). A fierce or many-limbed foe makes extra attacks by its nature; a named or solo foe may take the full Wound and Shock Check rules when the scene calls for it.
 
-- **Damage:** what a monster's blow deals is the faces of the dice it commits, which you cut with your defense and armor. Its Hit Dice and the scene's Heat set how deep a pool the Guide rolls for it. Situations can add to a blow (surprise, flanking, high ground).
+- **Damage:** the faces of the dice a blow commits, cut by your defense and armor. See [[Burners Principles#Pools, not fixed numbers]].
 
 - **Resistance:** flat damage reduction against a named kind of harm. See [[Burners Principles#Armor and Resistance soak; they never roll]].
 
@@ -177,7 +177,7 @@ Beyond you may have additional gear and funds to purchase gear based on your App
 | **Craft** (Journeyman) | 60 gp | choice of one "tool of the trade" based on one of your Traits, such as a hunting bow with a quiver of arrows, wood ax, blacksmith's hammer, etc. |
 | **Sorcerie** (Sorcerer) | 40 gp | your **personal spellbook** of four 1st-level spells of your school (known), and **two Level-1 Arcana** of any sorcerer-drip shape |
 
-The spread is character, not accident: the Veteran is an outfitted soldier, the Boss a moneyed leader rich in people, the Journeyman a scrappy woodsman poor in coin but woods-ready, the Sorcerer someone who spent nearly everything becoming a mage. A legendary harness or focus, with its third die, is looted or earned, never bought.
+The spread is character, not accident: the Veteran is an outfitted soldier, the Boss a moneyed leader rich in people, the Journeyman a scrappy woodsman poor in coin but woods-ready, the Sorcerer someone who spent nearly everything becoming a mage. Legendary gear is earned in play — see [[Burners Principles#Earned in play]].
 
 Spend your gold in town from the tables below; everything you carry ready takes an item slot, and whatever you don't spend is yours to keep. A few sample buys:
 
@@ -246,14 +246,14 @@ Some actions are trained-only: impossible without a specific Trait, whatever you
 
 ### Experience
 
-Burners awards **Old-School Essentials** XP on top of its own combat and advancement. Your **character level** is bought from the table below; Traits, Signatures, and spell learning are never bought with XP — they come with levels or emerge in play. XP has two sources only:
+See [[Burners Principles#Earned in play]]. Character level is bought from the XP table below; Traits, Signatures, and spell learning are never bought with XP. XP sources:
 
 - **Monsters** — award XP by Hit Dice from the OSE table when a foe is overcome (killed, routed, or otherwise neutralized as treasure). A 1 HD skeleton is 10 XP; a ~4 HD boss is 125. Split the award among the crew as you prefer; we usually divide evenly. The full table lives in [[Burners OSE Conversions]].
 - **Treasure** — **1 XP per 1 gp** of coins, gems, and jewelry **recovered to safety** — banked in town, not merely pocketed in the delve. Loot you cannot haul home is not loot yet; the clock has teeth. Goods, art objects, and equipment count at their sale value when sold; the Guide sets the number once.
 
-**Magic items grant no XP.** The item is the reward.
+**Magic items grant no XP.** See [[Burners Principles#Earned in play]].
 
-Burners does **not** use Wåndyr's factor-based, point-of-interest XP (where each resolved scene pays a level in XP). You earn by overcoming monsters and hauling treasure home, as OSE intends.
+Burners does **not** use Wåndyr's factor-based scene XP. You earn by overcoming monsters and hauling treasure home, as OSE intends.
 
 ### Approach Level
 
@@ -289,7 +289,7 @@ Reaching level 1 in an Approach earns its title, which switches on that arena's 
 
 **The Boss's command (Heart 1+).** The Veteran rules the melee, the Journeyman rules the journey, the Sorcerer rules the unseen — and the Boss rules the company. A Boss leads hirelings: your Heart caps how many will take service under you at once, and your presence anchors whether they hold or break when the dark turns ugly (a Morale Check of 2d6 + your Heart). A layman can barely keep one torchbearer from bolting. A Boss does not give their strength away; they make others braver than they have any right to be. See The Boss — Leading the Company for the full rules.
 
-**Why Sword alone in a fight.** Combat is the great leveler. A person can be brilliant at a hundred things, but under the terror and chaos of violence none of it carries; in the press, only Sword answers. The diplomat, the locksmith, and the archmage are all just bodies in a melee, no better than their Sword. So spend your other mastery before blades draw (ambush, parley, ward, position), and to use it mid-fight you must first escape the press, until it is no longer combat.
+**Why Sword alone in a fight.** See [[Burners Principles#Sword owns the press]].
 
 ## Alignment
 
@@ -306,7 +306,7 @@ Alignment is an Approach worked out when the fiction does not map cleanly to Swo
 | **2** | Favored — serious Offers; shaping sticks |
 | **3+** | Saint — their business is yours; see *Invocations* |
 
-Patron Alignment is **not** Sorcerie. A Sorcerer may have high Sorcerie and zero Alignment with Lunara; a fighter may be Lunara 3 and never cast a spell. Invocations ride the patron number; the spell catalog rides Sorcerie.
+Patron Alignment is **not** Sorcerie — see [[Burners Principles#Invocations are not Sorcerie]].
 
 ### Invocations
 
@@ -375,9 +375,7 @@ Armor is what you wear, and it soaks on the way in, its AC coming off every blow
 
 ## Signatures
 
-A Signature is a boon, knack or sneaky trick that a character grows into through play. It is an asterisk on the Trait it springs from, arming sword or stealth or a habit like watch-the-door, the star marking that the skill has become a knack that bites.
-
-You do not buy a Signature, it emerges at the table as a result of playing the game. You may hold one Signature per level you have in that Approach, so a Sword 3 can carry up to three, a Sorcerie 1 only one.
+See [[Burners Principles#Earned in play]]. A Signature is an asterisk on the Trait it springs from — a boon that emerged at the table. One per level in that Approach.
 
 Signatures take three common shapes, and the Guide may allow others:
 
@@ -429,23 +427,19 @@ Your result is 2d6 plus your Approach. If you meet or beat the target then you a
 
 #### Sweet & Spicy
 
-A 6 is Sweet (a good twist) and a 1 is Spicy (a complication). They ride alongside the sum and never change it, so a roll of 1 and 6 is a 7 that carries both. Tally them:
+See [[Burners Principles#Sweet and Spicy vs Spark]]. Out of combat:
 
 - One 6 or one 1 is a single twist, good or ill.
 
 - Double Sweet (two 6s, a natural 12) is the perfect roll, the best outcome the fiction allows.
 
-- Double Spicy (two 1s, a natural 2) is a fumble: the worst fitting outcome lands, your blade sticks, a spell singes an ally, a foothold gives way.
+- Double Spicy (two 1s, a natural 2) is a fumble: the worst fitting outcome lands.
 
-Combat itself has no Sweet or Spicy. There you read the dice you spend, and a 6 is a **Spark**, entitling you to a second action — an attack, Block, or Stunt on offense, a Riposte on defense (see Fighting).
-
-A legendary item rolls three dice, so it reaches the doubles far more often. Power is wild.
+Combat has no Sweet or Spicy — a 6 in Fuel is a **Spark** (see Fighting).
 
 ### Legendary Items and the Third Die
 
-A legendary item is a relic of a prior age, inscribed with runes beyond even the lore of a sorcerer. The arts that made them died with the age that made them, so you can only wield what you find.
-
-A legendary item grants a third die, turning 2d6 into three dice, when it is the relevant implement of your action. You either have it or you do not; there is never a fourth die. For arms and armor, only a Veteran awakens the die; a legendary blade or harness lies inert in untrained hands.
+See [[Burners Principles#Legendary vs enchanted]]. A legendary item grants a **third die** when it is the relevant implement of your action.
 
 A found relic lies dormant, rolling as ordinary gear, until you discover its true name — read from a tomb-glyph, **surrendered by an Invocation** to the patron it serves, or earned by the deed it was made for. The name wakes the third die and costs no XP; it is a prize of the world, not a purchase.
 
@@ -520,17 +514,11 @@ If you have nothing to drop, an unarmed fighter or a caster, the Guide swaps a d
 
 #### Going Down
 
-A downed character is knocked out, senseless but not dead. As long as their wounds have not reached -12 they are only unconscious: win the fight before they are finished or driven that deep, and they come to when it ends, spent and hurt. Death comes two ways only, both in the fight and not on a later roll: wounds driven to -12 with a failed Shock Check (pass it, or roll a natural 12, and you cling on senseless at the brink instead), or a coup de grace on a helpless body. At the brink the Guide may offer a maiming instead, a permanent crippling to cling to life a step short of the floor.
-
-Aid is real, and it is the point of having friends. A Vitae caster can heal a downed friend's wounds or rouse them to their feet, and short of magic you save a fallen comrade by standing over the body and keeping the enemy's finishing blow off it. But aid is limited. In a fight that goes badly, with several down and the healer spent, you cannot cover everyone, and that is when people die. Death lands where the fight was lost, not on a later roll.
-
-A downed character is helpless, so a foe may spend an action to finish them with a coup de grace, killing them outright. This is a deliberate, telegraphed act, a cruel villain or an execution, never routine. Most enemies keep fighting whoever is still on their feet.
+See [[Burners Principles#HP is plot armor; past 0 it gets real]] and [[Burners Principles#No instant death]]. A downed character is knocked out, not dead, until −12 or a coup de grace. Win the fight before they are finished or driven that deep, and they come to when it ends.
 
 #### Healing and recovery
 
-**Full HP closes wounds.** The moment your current HP reaches your maximum, every wound closes with it: the negative tally resets to 0, location effects and limb penalties lift, and soft-target marks clear. **Maimings** are the exception — permanent cripplings the Guide offered at the brink do not heal on their own.
-
-HP is luck, not meat. Heat is shared pressure — it vents in play (see Heat) or cools to base in downtime.
+**Full HP closes wounds.** See [[Burners Principles#HP is plot armor; past 0 it gets real]]. Maimings at the brink do not heal on their own.
 
 - **Rest** (one hour, food and water): recover **all HP** if you are at 0 or above. Does not restore HP while you are below 0 (negative). When you hit your maximum, wounds close as above.
 - **Sleep** (eight hours, food): while HP is below 0, recover 1 HP per night toward 0. Once you are at 0 or above, a rest refills you to maximum in an hour (a safe night with food counts). When you hit your maximum, wounds close as above.
@@ -655,7 +643,7 @@ See [[Burners Principles#Telegraph the unwinnable]]. Counter a monster breath by
 
 ## Removal and One-Shots
 
-There are two routes to taking a foe out, both through HP: attrition, chipping to 0 so the next blow wounds and fells it, and the one-shot, driving it past 0 in a single action. A fresh big enemy has too much HP for one roll to reach, so nothing removes it in one blow; chipping lowers the bar and the team sets up the finish. Mooks fall in a hit or two; bosses are a siege. One-shots work only against the genuinely weak.
+See [[Burners Principles#Attrition, not spike damage]] — *Taking foes out*.
 
 ## Influence
 

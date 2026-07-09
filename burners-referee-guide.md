@@ -158,7 +158,7 @@ A monster is any enemy, built on a simple stat block of Hit Dice, hide, and atta
 
 - **Resistance** and **hide** — see [[Burners Principles#Armor and Resistance soak; they never roll]]. Name the scope; name a weakness. A troll regenerates until fire or acid; without it, flee or bring the flame.
 
-- **HP** is 5 per Hit Die plus any modifier, kept low so fights stay short. A 1-Hit-Die orc has 5 HP and falls to a clean blow; an ogre of 4 Hit Dice plus 2 has 22. Since hide soaks every blow on the way in, chipping a thick-hided foe to 0 is slow, and the blow that drives it past 0 is its killing Wound — so a bare beast dies the moment it is driven past 0, while a hard-hided one wears down under many hits or cracks to one heavy two-handed stroke or a called shot at a gap. Toughen a foe with more Hit Dice, the modifier, natural hide, or a bigger weapon. A solo boss wants enough HP to survive the party's first-round burst. The full Wound and Shock Check rules are a grace for characters, though a named villain may use them when the scene calls for it.
+- **HP** is 5 per Hit Die plus modifier — see [[Burners Principles#Attrition, not spike damage]] and [[Burners Principles#Armor and Resistance soak; they never roll]] for hide and chipping. A solo boss wants enough HP to survive the party's first-round burst.
 
 ---
 

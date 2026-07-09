@@ -11,7 +11,7 @@ hero_alt: "Kynon meets the Black Master of the Beasts — H. J. Ford"
 
 An **Invocation** is how a Burner calls on an otherworldly being — a god, a dead power, a d'jinn, a thing from beyond the veil — by its **True Name**, and asks. If it answers, it makes an **Offer** and an **Ask**. What you can get is capped by your **Alignment with that patron**; what it costs is always real.
 
-Invocations are **not Sorcerie**. No Arcana, no spellbook, no school Trait. Any Burner may attempt one — the fighter kneeling in the barrow-dark has exactly the same standing as the archmage, and often a better one, if her Traits lean the patron's way.
+Invocations are **not Sorcerie** — see [[Burners Principles#Invocations are not Sorcerie]]. Any Burner may attempt one; the fighter kneeling in the barrow-dark has the same standing as the archmage if her Traits lean the patron's way.
 
 ---
 
@@ -43,7 +43,7 @@ It grows the way everything in Burners grows — through play:
 | **2** | Favored | Serious Offers; shaping sticks |
 | **3+** | Saint | Their business is yours — see *Saints* |
 
-Patron Alignment is not Sorcerie. A Sorcerer may be a stranger to every god; a torch-hand may be Lunara 3 and never cast a spell in her life.
+Patron Alignment is not Sorcerie — see [[Burners Principles#Invocations are not Sorcerie]].
 
 ---
 

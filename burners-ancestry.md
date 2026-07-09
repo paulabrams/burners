@@ -14,11 +14,11 @@ hero_alt: "The faithful beasts — H. J. Ford"
 > - **Themes** — feed your Burners **Theme**: your name or alias and a short "look" (*"Alu'Kel — desert screamer"*). A Legends Theme is also a mine for Traits.
 > - **Traits** — take as Burners **Traits**, each tagged to an Approach. Up to four per character level, backfilled as you go.
 > - **Assets** — gear. Buy from [[Burners Equipment]]; exotic pieces are in [[Burners Arms and Armor]], with **Slots** assigned there.
-> - **Secrets become Signatures.** A Legends Secret — *starlight*, *shadow step*, *conjure flames*, *understand bird's song* — is a Burners **Signature**: an asterisk on the Trait it springs from, with a footnote naming the power. Like every Signature, it **emerges in play, never at creation**, and you may hold one per level in that Approach. The ancestry's Secrets list is a menu of what your people grow into — the Guide may hang a cost on the stranger ones (usually Heat). Spells stay spells: a Secret that is plainly a spell (*black wizard spells*, *charm person*) is learned through [[Burners Sorcerie]] instead.
-> - **Gifts** (Drisi, Karrock) — the "Gifts Secret" that manifests them becomes a **Gifts Signature**; each gift manifested is an innate Asset while it shows.
-> - **Signature Assets** — in Burners you **name items in play, never at creation** (see *Signatures and Secrets* in [[Burners Arms and Armor]]); start with plain gear and let it earn its name.
+> - **Secrets become Signatures** — see [[Burners Principles#Earned in play]]. Spells that are plainly spells are learned through [[Burners Sorcerie]] instead.
+> - **Gifts** (Drisi, Karrock) — the "Gifts Secret" becomes a **Gifts Signature**; each gift manifested is an innate Asset while it shows.
+> - **Signature Assets** — name items in play, never at creation (see [[Burners Arms and Armor]]).
 > - **Dark Secrets** — Burners has no slot for these; keep one anyway, as written, and hand it to the Guide. It is a hook, and hooks get pulled.
-> - **Paths** — goals and quests. Burners XP stays OSE — monsters and treasure only (see *Experience* in [[Burners Adventure Game]]) — so a completed Path pays off in the fiction, in Traits at level-up, or in a Signature emerging, not in XP. The Karrock and Vôzen path rules (gems, sipped potions) work the same way: they are how those gift Signatures emerge.
+> - **Paths** — goals and quests. XP stays OSE only — see [[Burners Principles#Earned in play]]. A completed Path pays off in fiction, Traits, or a Signature emerging.
 
 ---
 

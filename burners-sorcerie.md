@@ -28,7 +28,7 @@ Magic is prepared, not spontaneous: a Sorcerer **binds** workings into **Arcana*
 
 ### The Sorcerer Gate
 
-To work magic you must be a **Sorcerer — Sorcerie 1 or higher.** Below that you are a layman: the words won't hold, a focus is dead weight, and a legendary arcane relic lies inert (no third die) until you cross the threshold. One point of Sorcerie is the line between a townsman and a mage.
+To work magic you must be a **Sorcerer — Sorcerie 1 or higher.** Below that you are a layman. Legendary arcane relics lie inert until you cross the threshold — see [[Burners Principles#Legendary vs enchanted]].
 
 **Two gates stand on high magic.** Your Sorcerie caps the level of spell you may learn and know (the classic gate, below). Your Arcana's Level caps the level you may prepare and cast in the field. To wield a level-*N* working you need both: the knowledge (Sorcerie *N*+) and a vessel to hold it (an Arcana of Level *N*, or your open book as a ritual). Sorcerie also drives out-of-combat casting rolls, Plan A, and how fast you learn.
 
@@ -101,7 +101,7 @@ A Sorcerer's magic lives in books, not in Signatures, and learning a spell costs
 - **Spellbook** — the physical record, listing every spell you have scribed. It takes item slots by size and must be carried to be used (classic OSR: no book, no magic). Left in camp, its spells are unavailable that delve.
   - **How many fit?** OSE sets no page-limit — one book holds every spell you know, and what you *may* know is gated by your Sorcerie (your caster level), not by shelf space. A single 1-slot travel-book is enough for your whole repertoire; you split into volumes only by choice (a field-book carried on the delve, a vault-tome kept safe). This is also the home of your scraps: half-read runes, fragments, and puzzles are **Facts** in the margins — free to record in play, not yet known until you spend the learning to make them so.
 - **Known spell** — a spell you have mastered and may cast. A spell must be scribed in a book *and* known before you can bind or cast it; a freshly copied spell sits in the book unknown until learned.
-- **Spells are not Signatures.** Spells live in the book and are learned there, never taken as Signatures. (Signatures remain for non-spell knacks; see *Signatures* in [[Burners Adventure Game]].)
+- **Spells are not Signatures** — see [[Burners Principles#Earned in play]].
 
 **The level gate — caster level = spell level.** Your Sorcerie is your caster level: you may learn and know spells of level up to your Sorcerie. A Sorcerie-1 mage learns only 1st-level spells; a Sorcerie-6 up to 6th. Finding a Level-6 relic focus does not let a first-rank sorcerer cast a 6th — they could never have learned it. Knowledge is gated by Sorcerie; the vessel by the Arcana's Level; you need both.
 

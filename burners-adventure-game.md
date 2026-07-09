@@ -51,14 +51,14 @@ Quick definitions. Details live in the chapters below.
 
 - **Trait:** a skill or quality — *lockpicking*, *steady under fire*, *knows the fens*. You tag each Trait to an Approach. Traits do not raise your Approach level; they describe what you can credibly do, and some actions need a specific Trait (like wearing plate). Use a Trait well in play and it can earn a **Signature**.
 
-- **Approach:** one of Sword, Craft, Heart, or Sorcerie — where your training sits. Your level in an Approach is how many character levels you have placed there; all four levels add up to your character level. That number is your roll bonus in that arena, nothing more.
+- **Approach:** one of Sword, Craft, Heart, or Sorcerie — the arena a roll tests. Your level in it is the bonus you add to 2d6 (see *Approach roll*). Your four Approach levels always sum to your character level (see *Character level*).
 
   - **Sword:** fighting to the death. Weapons, armor, tactics, footwork, tempo. Only used in combat.
 
   - **Craft:** practical skill. Stealth, locks, tracking, sailing, survival, first aid, making and mending.
 
-  - **Heart:** people. Persuasion, intimidation, empathy, medicine, leadership, trade, languages.
-
+  - **Heart:** people. Persuasion, intimidation, empathy, medicine, leadership, trade, languages, friendly brawls.
+()
   - **Sorcerie:** magic and the unseen. Spell schools, divination, binding, alchemy, ancient lore.
 
 - **Character level:** your overall rank. You buy levels with XP (see *Experience*). Every level you gain is one point you place in an Approach, up to four more Traits, and a reroll of your HP.

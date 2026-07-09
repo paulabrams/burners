@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Burners Sorcerie"
-hero: /images/x-page-127.jpg
-hero_alt: "A lone figure before distant spires at dusk"
+hero: /images/magic_items.png
+hero_alt: "The wizard and his book — H. J. Ford"
 ---
 
 # Burners Sorcerie

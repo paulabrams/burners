@@ -1,13 +1,15 @@
 ---
 layout: default
 title: "Burners Examples of Play"
-hero: /images/x-page-098.jpg
-hero_alt: "A rogue hailing the walled town"
+hero: /images/gameplay.png
+hero_alt: "Travelers on the road — Albert Robida"
 ---
 
 # Burners — Examples of Play
 
-*A mechanics-only run-through of the engine (Fuel pools, Defend, soak-on-the-way-in, negative-HP wounds). No narration — just procedure, rolls, and the gauge. See [[Burners Adventure Game]].*
+*Mechanics-only run-throughs of the engine (Fuel pools, Defend, soak-on-the-way-in, negative-HP wounds). No narration — just procedure, rolls, and the gauge. See [[Burners Adventure Game]].*
+
+## Example 1 — The Rat-Cellars (a crawl)
 
 **Job:** clear the Rat-Cellars under Varn's granary; recover the strongbox.
 **Base Heat 6** (working ground). Torches burn 6 turns. Wandering check every 2nd turn, 1-in-6 (OSE procedure, unchanged).
@@ -25,7 +27,7 @@ hero_alt: "A rogue hailing the walled town"
 
 ---
 
-## Exploration
+### Exploration
 
 **Turn 1 — Entry stair.**
 
@@ -50,7 +52,7 @@ hero_alt: "A rogue hailing the walled town"
 - Marching order puts Brand on it. It springs, no telegraph, no Fuel up out of combat: Damage 2 − Brand's AC 2 (soaks on the way in) = **0 to HP.** Clean — armor did its job before HP.
 - Wandering check: d6 = **1** — encounter. Cellar denizens, hostile by writ: **4 grave-rats** (HD 1, 5 HP each, Armor 0, bite d6 → 2 slots).
 
-## Combat 1 — Grave-rats (4). Heat 8.
+### Combat 1 — Grave-rats (4). Heat 8.
 
 **Rolling Initiative.** Crew roll their Fuel (above). The rat pack rolls one pool — 4 (a die per HD) + 2 (best bite) + 8 (Heat) = **14 dice** — and, ganging like a Veteran of many levels, makes one attack per rat (each its own 1-die blow, each defended separately). Initiative is the count of 3s and 4s; Kragg reads highest and acts first.
 
@@ -78,7 +80,7 @@ hero_alt: "A rogue hailing the walled town"
 - Sefa again: 2d6+1 = **12** ✓. Open.
 - Wandering check: d6 = **6**. Nothing.
 
-## Combat 2 — The Cellarer (a wight). Heat 7 → 9.
+### Combat 2 — The Cellarer (a wight). Heat 7 → 9.
 
 Buried armed: **grave-sword** (2 slots) and a **grave-byrnie**, old chain still sound (soak 2). HD 3 → **15 HP**. **Resistance 5 vs mundane arms** — grave-cold flesh — with silver the named weakness (it ignores the Resistance, though not the byrnie). The Guide announces it rising from its bier: **+2 Heat → 9.**
 
@@ -116,7 +118,7 @@ Buried armed: **grave-sword** (2 slots) and a **grave-byrnie**, old chain still 
 - Carried out whole (2 slots; Kragg drops a torch bundle to fit it).
 - Sefa checks for a second exit (Craft): Pay @ 7 → 2d6+1 = **11** ✓ — an old coal chute, out that way, skipping the flooded beam.
 
-## After
+### After
 
 - **Downtime:** Heat cools to base; the job stayed quiet, so the town base is unchanged.
 - **Take:** strongbox (Guide: 400 gp + deed papers), 120 gp, silvered knife, **the Cellarer's grave-sword** — old, fine make, a worn-off name (a Signature waiting to be read) — and its **grave-byrnie**, wearable after a Journeyman's mending.
@@ -125,7 +127,7 @@ Buried armed: **grave-sword** (2 slots) and a **grave-byrnie**, old chain still 
 
 ---
 
-## Procedure Notes
+### Procedure Notes
 
 - **OSE clocks unchanged:** 10-minute turns, torch tracking, wandering checks every 2nd turn at 1-in-6.
 - **One roll out of combat:** trained work and raw feats alike are `2d6 + Approach` vs the Guide's Cost — Sefa's scouting and the lock (Craft), the beam (Craft), the swollen door (Sword, a hard quote). Traps are neither — detect or eat, and armor soaks the hit on the way in (Brand's pit).
@@ -137,3 +139,71 @@ Buried armed: **grave-sword** (2 slots) and a **grave-byrnie**, old chain still 
 - **Resistance vs the named weakness:** the wight's Resistance 5 made mundane steel almost useless (Kragg's best blows netted 0–1), while silver ignored the Resistance (Sefa) and pure sorcery ignored both Resistance and armor (Ilsa's dart). The chip came from the weakness and the wand; the finish came from the axe only after the HP wall was gone.
 - **The monster's slot/Fuel economy cuts both ways:** the wight spent its huge pool attacking and parrying the melee line, so by Sefa's turn it could spare only a die or two to Dodge her knife. Tie up its dice, then land the answer.
 - **Nobody was driven past the floor; nobody died.** That is what a clean job looks like.
+
+---
+
+## Example 2 — The Gulls' Rest (a parley gone sharp)
+
+*The same crew, a week later, fencing the deed papers from the Rat-Cellars. This one starts as a social scene on Heart and turns into a fight mid-sentence — watch where the initiative roll lands.*
+
+**Scene:** a back table at the Gulls' Rest, evening crowd. The buyer is **Marlow**, a dockside fixer, flanked by two **bravos** and a quiet man with rings — a **sharper** (Sorcerer, Illusione). **Base Heat 4** (a quiet meet, but a crowded room and money on the table).
+
+**What's in hand matters tonight.** Nobody walks into a parley holding a war-axe. Kragg's axe rides his back, Brand's sword is at his hip, Sefa's silvered knife is a holdout in her boot. Held slots only count on the Initiative roll if the thing is *in hand* when steel comes out.
+
+### The parley (Heart)
+
+- **First meeting — Reaction roll** (Guide): 2d6 + Brand's Heart 1 = **8**. Cool but willing: Marlow will deal, at his price.
+- **Brand opens** — the papers for 300 gp. That is a fair ask backed by real goods, so it simply works as an offer on the table (Step 1); no roll for whether the world listens.
+- **Marlow lowballs** — 100 gp, and a smile. Brand wants the fixer's *real* ceiling — a read, and risky to press for: Pay @ Heat 4 → 2d6+1 = **9** ✓. The Guide gives it: Marlow is fronting for Varn's rival and will pay well over 300 — but he wants the crew *cheap or gone*.
+- **Brand presses** — names the rival aloud, and asks 400. A hard squeeze on a made man: Pay @ Heat 4 → 2d6+1 = **6**, short → the squeeze shows, the table hears it → **Heat 5**.
+- **Sefa reads the room** (Craft): Deal @ 5 → 2d6+1 = **10** ✓ — the bravos have shifted their stools clear of the table, and the ringed man's hands are under it. A revealed threat sets a floor: **Heat holds at 5, floor 5.**
+- **Marlow leans back** — "Three hundred, then. Shake on it." The Guide telegraphs: the sharper's lips are moving.
+
+### Steel comes out — roll initiative
+
+The sharper casts a working at Brand. **A hostile spell is an attack: roll initiative.** He gains no free first strike for starting it — the whole room rolls with what it holds *right now*.
+
+| Side | Pool | Dice |
+|---|---|---|
+| **Kragg** (tankard, axe on back) | 4 empty + 1 level | **5** |
+| **Sefa** (knife in boot — a holdout) | 4 empty + 1 level | **5** |
+| **Brand** (sword at hip, not in hand) | 4 empty + 1 level | **5** |
+| **Ilsa** (wand openly in hand — sorcerer drip) | 1 wand + 4 empty + 1 level | **6** |
+| **Sharper** (ring-Arcana in hand) | 1 HD + 1 ring + 6 Heat (the enemy side's share, added once) | **8** |
+| **Bravos** (knives worn, ×2) | 1 HD + 1 knife each | **2 each** |
+
+Initiative is the count of 3s and 4s. Kragg reads **3**, the sharper **2**, Ilsa **2**, Brand **1**, Sefa **1**, bravos **1** and **0**. **Kragg acts before the man whose spell started the fight.**
+
+**Round 1.**
+
+- **Kragg** (Veteran, two attacks; the axe stays sheathed — this is a tavern) spends one attack as a **Stunt**: heaves the table into the sharper. Force 5,4 = 9; the sharper Defends 4,2 = 6 → bowled over, **prone**, and his concentration goes with his footing — but the working is already in the air; it resolves on his turn. Second attack held to **Block** for Brand. *(Kragg 5→2 dice, one showing 3 spent — Initiative drops next read.)*
+- **Sharper** (from the floor) finishes the cast — *Bewitch* (Illusione 1, one bound charm on the ring): commits 1 Fuel die = **5**. **Cast total 5.** Brand may Defend — but **Ilsa is adjacent and Wards for him** instead: she commits 2 dice, 4 + 2 = **6**. **Defense 6 ≥ cast 5: fully defended.** No charm, no HP, nothing — the working breaks on her ward like a wave. *(Ilsa 6→4 dice; sharper 8→7.)*
+- **Ilsa** (her Action still unspent — warding is a defense, not a turn): casts her wand's *dart* at the sharper. 1 die = **6** — cast total 6, and the 6 is a **Spark**. The sharper, prone and rattled, Defends with 2 dice: 3,2 = **5**. **Overrun 1** → 1 to HP (5 HP → 4). She spends the Spark on the working itself: the Guide lets the dart pin his ring-hand to the floorboards — his Arcana is out of play until he frees it. Slot goes **used**. *(Ilsa 4→3; sharper 7→5.)*
+- **Bravo 1** lunges at Sefa, knife out: 1 die = **4**. Sefa, not meleeing him, gets a bare **Dodge**: spends a 3 → 1 through, no armor tonight → **Sefa 3 HP → 2.** *(Sefa 5→4.)*
+- **Brand** rises, sword *now* in hand (drawing comes free with his Action), and swings at bravo 1: 1 die = **5** → 5 dmg, bravo 1 (5 HP) **down**. *(Brand 5→4.)*
+- **Sefa** draws the holdout — **1 Fuel to pull it in a fight** — and marks bravo 2. *(Sefa 4→3.)*
+- **Bravo 2** hesitates — his partner is down, the sharper is pinned. **Morale check (2d6 under Morale 7): 6 — holds**, barely. He circles.
+
+**Round 2.** Refill +1 die each. Initiative re-read; Kragg still tops it.
+
+- **Kragg** hauls the sharper up by the collar — a **Stunt** to grapple, force 4,3 = 7 against a prone, pinned man; the Guide rules there is no real contest. Held fast. *(Kragg 3→1.)*
+- **Sharper**, ringless and in a fist: folds. "Enough — *enough*."
+- **Bravo 2** — his principal just quit: **Morale check: 10 — breaks**, and he's out the door.
+- Fight over. It never rose past the floor: **Heat 5**, and the room saw the *other* table start it.
+
+### After
+
+- **The deal:** Marlow, dusting off his coat, pays **350 gp** for the papers — the crew's read was true, and the botched charm shamed his table, which is worth 50 gp of face. Money changes hands over a righted table.
+- **The take:** 350 gp, one confiscated **ring-Arcana** (Level 1, *Bewitch* bound — used), and a bravo's knife in the floorboards.
+- **Hurts:** Sefa 2/3 HP — an hour's rest with food refills her. Nobody wounded, nobody dead, nothing burned. In a tavern that is a masterpiece of restraint.
+- **Heat:** cools to the town base at downtime. The Gulls' Rest will serve them again. Marlow will not forget.
+
+### Procedure Notes
+
+- **Social scenes have no Persuade roll.** Whether the world bends is Step 1: a fair offer simply lands, an impossible ask simply fails. Heart pays for the *risky* moves — the read, the squeeze — as Pay rolls against Heat, and a shortfall raises the gauge rather than ending the scene.
+- **Heat is the social gauge too.** The meet opened at 4, climbed on a botched press, and a revealed threat set a floor. When steel came out, that same number armed the enemy side — the 6 Heat dice in the sharper's pool are the scene's temperature cashing in, added once for the whole side.
+- **Declaring an attack is "roll initiative" — and the declarer is not first.** The sharper's charm started the fight and Kragg still beat him to the floor. A hostile working where no fight is underway triggers initiative like a drawn blade; nobody gets a free strike for moving first in the fiction.
+- **You fight with what's in hand.** Tavern pools are thin: sheathed swords and slung axes throw no dice on the Initiative roll, so empty slots and a held wand carried the crew. Brand's draw came free with his Action; Sefa's holdout cost the 1 Fuel a holdout costs.
+- **Warding, shown:** Ilsa, adjacent, Defended *for* Brand — her dice, her choice of Approach, and Brand spent nothing. Defense ≥ cast is a full stop: control never lands partially on a made ward.
+- **Control is effect-only, and the fight around it is physical:** had the charm landed, Brand loses no HP — he becomes Marlow's friendly witness for the working's duration, and the crew's problem is the sharper's concentration, his ring, and his skin. Attack the reason: the table Stunt, the pinned ring, and the grapple all fought the *spell*, not the man's HP.
+- **Morale as written (2d6 vs the score):** the bravos were never going to die for Marlow's face. One blow and one bad round asked the question twice, and the second answer was the door.

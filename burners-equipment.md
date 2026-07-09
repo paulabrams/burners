@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Burners Equipment"
-hero: /images/x-page-061.jpg
-hero_alt: "A grizzled veteran, kitted and armed"
+hero: /images/camping.jpg
+hero_alt: "A knight returns laden — crossbow, sword, and loot — Albert Robida"
 ---
 
 # Burners Equipment

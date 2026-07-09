@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Burners Arms and Armor"
-hero: /images/x-page-132.jpg
-hero_alt: "Crossbow, helm, and sword"
+hero: /images/robida-crossbow-ambush.jpg
+hero_alt: "Crossbowmen in the street — Albert Robida"
 ---
 
 # Burners Arms and Armor

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Burners Referee Guide"
-hero: /images/x-page-085.jpg
-hero_alt: "Two rogues striking a deal"
+hero: /images/character_creation.png
+hero_alt: "A deal struck in the town square — Albert Robida"
 ---
 
 # Burners Referee Guide

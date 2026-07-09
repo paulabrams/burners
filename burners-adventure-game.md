@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Burners Adventure Game"
-hero: /images/x-page-065.jpg
-hero_alt: "A grinning mercenary hauling off the loot"
+hero: /images/free-fight-1600.jpeg
+hero_alt: "Free fight outside the walls — Albert Robida"
 ---
 
 # BURNERS

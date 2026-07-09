@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Burners Invocations"
-hero: /images/x-page-074.jpg
-hero_alt: "A crew pressing through the storm — some powers must be called by name"
+hero: /images/oracle_intro.png
+hero_alt: "Kynon meets the Black Master of the Beasts — H. J. Ford"
 ---
 
 # Burners Invocations

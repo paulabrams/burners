@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Burners OSE Conversions"
-hero: /images/x-page-100.jpg
-hero_alt: "A scout on the town wall"
+hero: /images/wandyr_cover.png
+hero_alt: "A knight rides toward the distant keep — Lancelot Speed"
 ---
 
 # Burners ↔ OSE Conversions

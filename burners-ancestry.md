@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Burners Ancestry"
-hero: /images/x-page-128.jpg
-hero_alt: "Out of the storm and the aeons — the peoples of the Dragon Isles"
+hero: /images/monsters.png
+hero_alt: "The faithful beasts — H. J. Ford"
 ---
 
 # Burners Ancestry

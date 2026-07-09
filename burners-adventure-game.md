@@ -160,6 +160,8 @@ Pick the Approach the danger tests; where none fits, work it as an Alignment (se
 
 Signatures are not chosen at creation; they emerge in play.
 
+For a people to come from — Northmaren, Southmaren, Elf, Alu, Kith, and the rest — see [[Burners Ancestry]]: each entry is a ready-made look plus a menu of Traits, gear, and the Signatures your kind grows into.
+
 ### Starting Gear
 
 You begin carrying the clothes on your back and a backpack. You also have a small knife, coin purse, and a firestarter somewhere on your person.

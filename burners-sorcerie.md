@@ -165,7 +165,7 @@ You may **Defend** as against any blow: commit Fuel dice, roll them, sum the fac
 - **Defense ≥ cast:** fully defended — no effect, no HP loss.
 - **Defense < cast:** **net pressure** = cast − defense. Apply **either** the spell's HP harm **or** its control/status effect — **never both** on the same target from one working.
 
-**Damage** workings apply net pressure to HP (Resistance still applies per kind). Physical spell attacks — shards, force blades, thunder you can dive from — use Defend, then AC, then Resistance like weapon blows.
+**Damage** workings apply net pressure to HP **1:1** — each point of net pressure is one HP lost (Resistance still applies per kind). Physical spell attacks — shards, force blades, thunder you can dive from — use Defend, then AC, then Resistance like weapon blows.
 
 **Control** (charm, sleep, fear, command…) is effect-only, not an HP meter. Fully defended: none. Defense fell short: the spell lands — **full control** as written when pressure is overwhelming, or **partial control** in edge cases only (Guide's call: weaker duration, loose compliance, one action slipped free). Recover when the working ends or is broken.
 

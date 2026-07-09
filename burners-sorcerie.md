@@ -163,9 +163,9 @@ You may **Defend** as against any blow: commit Fuel dice, roll them, sum the fac
 **Physical** manifestations — conjured blade, stone shards, hail of metal, dodgeable cone — may be soaked by **AC** after Defend when the fiction makes the effect physical. **Non-physical** workings ignore AC.
 
 - **Defense ≥ cast:** fully defended — no effect, no HP loss.
-- **Defense < cast:** **net pressure** = cast − defense. Apply **either** the spell's HP harm **or** its control/status effect — **never both** on the same target from one working.
+- **Defense < cast:** **overrun** = cast − defense. Apply **either** the spell's HP harm **or** its control/status effect — **never both** on the same target from one working.
 
-**Damage** workings apply net pressure to HP **1:1** — each point of net pressure is one HP lost (Resistance still applies per kind). Physical spell attacks — shards, force blades, thunder you can dive from — use Defend, then AC, then Resistance like weapon blows.
+**Damage** workings apply overrun to HP **1:1** — each point of overrun is one HP lost (Resistance still applies per kind). Physical spell attacks — shards, force blades, thunder you can dive from — use Defend, then AC, then Resistance like weapon blows.
 
 **Control** (charm, sleep, fear, command…) is effect-only, not an HP meter. Fully defended: none. Defense fell short: the spell lands — **full control** as written when pressure is overwhelming, or **partial control** in edge cases only (Guide's call: weaker duration, loose compliance, one action slipped free). Recover when the working ends or is broken.
 
@@ -759,7 +759,7 @@ Illusione 1: Anything magical within line of sight glows and reveals its propert
 
 #### Dragon's Breath
 
-Elementale 1: Cone 60'. Each target may Defend; net pressure to HP (− Resistance).
+Elementale 1: Cone 60'. Each target may Defend; overrun to HP (− Resistance).
 
 #### Filch
 
@@ -1006,7 +1006,7 @@ Thaumaturgy 2: Make Sorcerie objects hover 2' above the ground, frictionless. Th
 
 #### Ice Heart
 
-Umbrakala 2: An ice layer spreads across a surface, up to Sorcerie × 10' in radius; creatures touched may Defend; net pressure to HP (− scoped Resistance).
+Umbrakala 2: An ice layer spreads across a surface, up to Sorcerie × 10' in radius; creatures touched may Defend; overrun to HP (− scoped Resistance).
 
 #### Increase Gravity
 
@@ -1082,7 +1082,7 @@ Thaumaturgy 3: Mechanisms (locks, traps, clockwork) obey simple commands for Sor
 
 #### Corpse Explosion
 
-Necromantia 3: 10' burst from one corpse. Each target may Defend; net pressure to HP (− Resistance).
+Necromantia 3: 10' burst from one corpse. Each target may Defend; overrun to HP (− Resistance).
 
 #### Darkmans Cloak
 
@@ -1117,7 +1117,7 @@ Illusione 3: Sorcerie creatures are invisible for as long as they can hold their
 
 #### Lightning Strike
 
-Elementale 3: Defend; net pressure to HP (− scoped Resistance).
+Elementale 3: Defend; overrun to HP (− scoped Resistance).
 
 #### Liquid Air
 
@@ -1129,7 +1129,7 @@ Thaumaturgy 3: Repair one broken mundane object up to chair-size; magical items 
 
 #### Mind Shatter
 
-Umbrakala 3: Psychic — ignores Resistance. Defend; net pressure to HP (− scoped Resistance) **or** stunned 1 turn if defense < cast (not both).
+Umbrakala 3: Psychic — ignores Resistance. Defend; overrun to HP (− scoped Resistance) **or** stunned 1 turn if defense < cast (not both).
 
 #### Mirror Image
 
@@ -1169,7 +1169,7 @@ Necromantia 3: One creature feels your wound pain; if you have an open wound, th
 
 #### Phantasmal Force
 
-Illusione 3: Moving illusion. If believed: psychic — ignores AC. Defend; net pressure to HP (− scoped Resistance).
+Illusione 3: Moving illusion. If believed: psychic — ignores AC. Defend; overrun to HP (− scoped Resistance).
 
 #### Phantom Sound
 
@@ -1264,7 +1264,7 @@ Umbrakala 4: You switch bodies with a creature you touch for Sorcerie turns. If 
 
 #### Death Touch
 
-Necromantia 4: Melee touch. Necrotic. Defend; net pressure to HP (− scoped Resistance).
+Necromantia 4: Melee touch. Necrotic. Defend; overrun to HP (− scoped Resistance).
 
 #### Death Ward
 
@@ -1280,7 +1280,7 @@ Necromantia 4: Marked creature suffers −Sorcerie on all Defends for Sorcerie d
 
 #### Drain Life
 
-Necromantia 4: Touch. Defend; net pressure to HP (− scoped Resistance). You heal half the HP dealt (round down).
+Necromantia 4: Touch. Defend; overrun to HP (− scoped Resistance). You heal half the HP dealt (round down).
 
 #### Dream Walking
 
@@ -1288,7 +1288,7 @@ Illusione 4: Enter the dream of one sleeping creature within touch for Sorcerie 
 
 #### Earthquake
 
-Elementale 4: The ground shakes violently for Sorcerie rounds. Each target may Defend; net pressure to HP (− Resistance).
+Elementale 4: The ground shakes violently for Sorcerie rounds. Each target may Defend; overrun to HP (− Resistance).
 
 #### False Memory
 
@@ -1572,7 +1572,7 @@ Umbrakala 5: Pass through Sorcerie closed doors/windows as if open; no sound.
 
 #### Thunder Call
 
-Elementale 5: Burst in Sorcerie × 10'. Each target may Defend; net pressure to HP (− Resistance). Deafened 1 turn if net pressure lands.
+Elementale 5: Burst in Sorcerie × 10'. Each target may Defend; overrun to HP (− Resistance). Deafened 1 turn if overrun lands.
 
 #### Time Slip
 
@@ -1588,7 +1588,7 @@ Elementale 5: A spring of seawater erupts, producing a thousand cubic feet of wa
 
 #### Vampiric Touch
 
-Necromantia 5: Touch. Defend; net pressure to HP (− scoped Resistance). You heal the HP dealt (cannot exceed max HP).
+Necromantia 5: Touch. Defend; overrun to HP (− scoped Resistance). You heal the HP dealt (cannot exceed max HP).
 
 #### Vision
 
@@ -1721,7 +1721,7 @@ Necromantia 6: Trap a dying soul in a gem for Sorcerie days; speak with it.
 
 #### Soul Rend
 
-Necromantia 6: Defend; net pressure to HP (− scoped Resistance). If brought to 0 HP, soul is shunted out for Sorcerie hours (recoverable).
+Necromantia 6: Defend; overrun to HP (− scoped Resistance). If brought to 0 HP, soul is shunted out for Sorcerie hours (recoverable).
 
 #### Space Fold
 

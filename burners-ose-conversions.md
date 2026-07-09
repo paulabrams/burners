@@ -129,11 +129,11 @@ An OSE save is never a die roll to copy — it is a pointer to a Burners subsyst
 
 | OSE says | Burners does |
 |---|---|
-| **Save vs. Breath** | A **monster** breath is an **Area Effect** — telegraphed ("its chest glows"): shield, ward, cover, or eat the quoted damage. No Fuel Defend against a dragon's cone. A **spell** cone or burst uses **Defend** and net pressure like any hostile working. |
+| **Save vs. Breath** | A **monster** breath is an **Area Effect** — telegraphed ("its chest glows"): shield, ward, cover, or eat the quoted damage. No Fuel Defend against a dragon's cone. A **spell** cone or burst uses **Defend** and overrun like any hostile working. |
 | **Save vs. Poison (or die)** | Never instant death. A **Defend** (**Craft**) avoids the bite; once it lands, a **lingering Cost** — its level in HP each round, no further defense — until cured or outlasted (see *Lingering Costs* in [[Burners Adventure Game]]). |
 | **Save vs. Paralysis** | A **Defend** (**Craft** or **Sword**) at the touch; fall short and you **stiffen** for a stated clock (ghoul-chill, 2d6 rounds) — recoverable, not permanent. |
 | **Save vs. Petrify** | A **counting doom**: repeated **Defends** (**Craft** or **Sword**), each miss a step toward stone; it recovers. Averting your eyes is the counterplay, at the price of fighting blind. |
-| **Save vs. Spells / Wands / Rods / Staves** | Fuel **Defend**, not a hazard roll. **Roll initiative** if no fight is underway. Target commits Fuel dice (no cap); **defense total** vs caster's **cast total** (sum of L Fuel dice spent). *Save negates* → fully defended. *Save for half* → **does not port** — apply net pressure as HP harm **or** the spell's effect, never both; no half-damage exception. Physical blasts may be soaked by AC when physical in the fiction; mind-work ignores AC. **Warding:** adjacent Sorcerer may Defend for allies. |
+| **Save vs. Spells / Wands / Rods / Staves** | Fuel **Defend**, not a hazard roll. **Roll initiative** if no fight is underway. Target commits Fuel dice (no cap); **defense total** vs caster's **cast total** (sum of L Fuel dice spent). *Save negates* → fully defended. *Save for half* → **does not port** — apply the overrun as HP harm **or** the spell's effect, never both; no half-damage exception. Physical blasts may be soaked by AC when physical in the fiction; mind-work ignores AC. **Warding:** adjacent Sorcerer may Defend for allies. |
 | **Save vs. Death effects** | **Shock Check** and **Wounds** — route into HP pressure, a lingering Cost, or a Wound that cuts an Approach's fiction. Never instant death. |
 
 **Which Approach?** **Craft** to dodge a dart, pit, or poison; **Sword** to force a door, hold your feet, or stay conscious; **Heart** against fear and horror; **Sorcerie** to dredge up what you know against the uncanny. The player may argue for another Approach if the fiction fits. When in doubt: Craft to avoid, Sword to endure.
@@ -163,7 +163,7 @@ Never a key. **Resistance is flat damage reduction** against a named kind of har
 
 Every Resistance above a point or two **names its cause** — *stone that mocks the chisel; a ward-pact vs. swords; flesh that isn't wholly here* — because a cause is a thing the party can learn, argue with, and undo. A named weakness (silver, fire, its true name) doesn't lower the Resistance; it **ignores** it, the way a Bane-forged weapon ignores its quarry's soak (see [[Burners Arms and Armor]]).
 
-**Energy drain** (wights, wraiths, spectres): the touch applies **net pressure to HP** or a **lingering Cost** that no mundane healing restores — brought back only by a rite, a shrine, or a season of rest. A character who goes down under the drain and fails the **Shock Check** rises as a thrall. Grim, recoverable, no level bookkeeping.
+**Energy drain** (wights, wraiths, spectres): the touch applies **overrun to HP** or a **lingering Cost** that no mundane healing restores — brought back only by a rite, a shrine, or a season of rest. A character who goes down under the drain and fails the **Shock Check** rises as a thrall. Grim, recoverable, no level bookkeeping.
 
 **Mobs vs. the unearthly:** twenty militia hacking at a thing with high Resistance each land almost nothing — a point here, a point there, most blows soaked whole — while it kills them. This is correct; it is why the village hired Burners.
 
@@ -201,7 +201,7 @@ Port OSE spells onto [[Burners Sorcerie]] when a match exists; otherwise write a
 - **Durations and ranges as written** — the clocks match.
 - **Casting (combat):** one Action; spend at least **L Fuel dice**, roll them — **cast total** = sum of faces. On a **Spark**, may spend up to **L additional Fuel** for extra effect. The slot goes **active**, then **used**.
 - **Casting (NPC / module caster):** roll at least **L dice** for the cast total the same way. A hostile cast **Rolls initiative** if no fight is underway.
-- **Damage:** ignore OSE's per-caster-level dice and fixed damage lines. Hostile workings deal **net pressure to HP 1:1** — cast total minus defense total, one HP per point. Do not re-price through a separate damage table.
+- **Damage:** ignore OSE's per-caster-level dice and fixed damage lines. Hostile workings deal **overrun to HP 1:1** — cast total minus defense total, one HP per point. Do not re-price through a separate damage table.
 - **Defense:** *Save negates* → Fuel **Defend**; if **defense ≥ cast**, no effect. *Save for half* → **does not port** — HP harm **or** the spell's effect, never both. Physical blasts may be soaked by AC when physical in the fiction; mind-work ignores AC. No cap on defense dice. **Warding:** adjacent Sorcerer may Defend for allies.
 - **Charm / Sleep / Hold:** **Control** — effect-only, not HP pressure; fully defended: none; defense fell short: full or partial per the spell. Recoverable when the working ends.
 - **Scrolls** require a Sorcerer (Sorcerie 1+) to read.

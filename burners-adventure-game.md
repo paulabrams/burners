@@ -115,7 +115,7 @@ Quick definitions. Details live in the chapters below.
 
 - **Combat Round:** one minute, taken in Initiative order. On your turn, take one Action (attack, cast a spell, etc.). Moving and positioning come with it, part of the Action, not a separate step. Defending is not free; it burns your Fuel. Sword governs the exchange: it grants you extra attacks and a deeper pool.
 
-- **Fuel:** the dice you rolled for Initiative, kept at their faces and spent through the fight to attack, defend, cast, and riposte. You gain your character level in refill dice at the end of each round (i.e. ).
+- **Fuel:** the dice you rolled for Initiative, kept at their faces and spent through the fight to attack, defend, cast, and riposte. You gain your character level in refill dice at the end of each round (i.e. in-between rounds, after the first combat round).
 
 - **Initiative:** the count of your Fuel showing 3 or 4. You act in descending order; re-read each round.
 
@@ -131,7 +131,7 @@ Quick definitions. Details live in the chapters below.
 
 - **Prone:** knocked down — by a Stunt, a Shock result, or a waist or leg wound. You cannot Dodge, so any blow you do not actively meet lands whole; but you may still Parry a foe you attack, or Block with a shield or a spent attack, so you guard the foes you engage and take the rest whole. Your extra Veteran attacks let you defend against several foes from the ground; without them you guard one at most. Rising is free unless a foe presses you in melee, when it costs a die (see Stunts). A waist or leg wound pins you down until you reach **full HP**.
 
-- **Refill die:** from the second round on, you gain one die at the top of each round, rolled into your Fuel before Initiative is re-read. The first round brings none.
+- **Refill:** from the second round on, you gain one Fuel die per character level at the top of each round, rolled into your pool before Initiative is re-read. The first round brings none.
 
 ### Monsters
 
@@ -552,7 +552,7 @@ Roll them all. The faces you rolled, kept as they lie, are your Fuel for the fig
 
 **Burning Fuel.** Everything you do in combat burns Fuel. You must spend Fuel to attack, defend, cast, and so on. A die is used at its face and discarded, no reroll, so the pool you rolled is the pool you play. If you use a 3 or 4 your Initiative lowers; you may also reroll a 3 or 4 as you spend it.
 
-**Refilling Fuel.** Each new round opens with a refill: from the second round on, you top up one die to your Fuel at once, and then Initiative is re-read and the round played out in order. The first round brings no refill — the Initiative roll is your opening wind. It is only a trickle, so if you empty your hand on offense you are caught winded until the next round's die, blows arriving whole in the meantime; spend with that in mind. Fuel you are forced to lose but cannot pay from your pool comes out of your next refill instead, so such a cost always lands, exactly once, and never leaves you owing a debt you cannot pay.
+**Refilling Fuel.** Each new round opens with a refill: from the second round on, you top up one Fuel die per character level at once, and then Initiative is re-read and the round played out in order. The first round brings no refill — the Initiative roll is your opening wind. If you empty your hand on offense you are caught winded until the next round's refill, blows arriving whole in the meantime; spend with that in mind. Fuel you are forced to lose but cannot pay from your pool comes out of your next refill instead, so such a cost always lands, exactly once, and never leaves you owing a debt you cannot pay.
 
 **Sparks.** A natural 6 in your Fuel is a **Spark**. Play it — the 6 is spent — and it entitles you to a second combat action this turn, beyond your one Action: an attack, a Block, or a Stunt (a Spark played while defending buys an immediate counterattack, a **Riposte**). The Spark grants only the opening; you still pay for that second action from your Fuel like any other. Roll several 6s and you may play several Sparks.
 

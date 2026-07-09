@@ -131,7 +131,7 @@ Buried armed: **grave-sword** (2 slots) and a **grave-byrnie**, old chain still 
 
 - **OSE clocks unchanged:** 10-minute turns, torch tracking, wandering checks every 2nd turn at 1-in-6.
 - **One roll out of combat:** `2d6 + Approach` vs Cost. Traps — see [[Burners Principles#Pools, not fixed numbers]].
-- **Fuel is rolled once, on the Initiative roll, and dwindles** — a refill die each round from the second on. The wight's 14-dice pool (swollen by 9 Heat) made round 1 murderous, but it did not refresh: by round 2 it was winded, and the fight turned. A hot scene hits hardest on the first exchange.
+- **Fuel is rolled once, on the Initiative roll, and dwindles** — one Fuel die per character level each round from the second on. The wight's 14-dice pool (swollen by 9 Heat) made round 1 murderous, but it did not refresh: by round 2 it was winded, and the fight turned. A hot scene hits hardest on the first exchange.
 - **Damage is the faces of committed dice**, minus the defender's committed dice, minus armor soak, minus Resistance — in that order. A blow is one die, +1 for a two-handed power stroke, +1 for an enchanted weapon (Kragg's axe), up to three.
 - **Defense by three doors:** a lone **Dodge** die against any blow; unlimited **Parry** against a foe you melee (Kragg); unlimited **Block** with a shield against one attacker even if you never swing at it (Brand). Ilsa, doing neither, cut with one die — and took the Wound.
 - **The Wound model:** see [[Burners Principles#HP is plot armor; past 0 it gets real]].

@@ -193,9 +193,7 @@ Track each magical item as two short lists, filled in as study and play reveal t
 
 ## How to read a spell
 
-| Field | Meaning |
-| --- | --- |
-| **Entry** | Spell name as heading; the line below is `School level: effect` (e.g. `Thaumaturgy 1: …`). School is **trained-only** unless Sorcerie (see *The Sorcerer Gate*). **This is the spell** — do not expand scope beyond the text. |
+Each entry is the spell's name as a heading, and the line below it is the whole spell: `School level: effect` (e.g. `Thaumaturgy 1: …`). The school is **trained-only** unless it is Sorcerie (see *The Sorcerer Gate*), and the text is the scope — do not expand a working beyond what it says.
 
 ### Spell level
 

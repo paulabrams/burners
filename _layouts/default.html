@@ -114,26 +114,47 @@
         text-decoration: underline;
       }
 
+      .page-body::after {
+        content: "";
+        display: table;
+        clear: both;
+      }
+
       .page-hero {
         display: block;
         width: auto;
         max-width: 100%;
         height: auto;
-        margin: 0 auto 1.5rem;
         border-radius: 0.5rem;
+      }
+
+      /* Wide art: spans the column at native size (capped at container width). */
+      .page-hero--banner {
+        margin: 0 auto 1.5rem;
+        float: none;
+      }
+
+      /* Narrow art: book-plate beside the opening text. */
+      .page-hero--float-right {
+        float: right;
+        margin: 0.25rem 0 1rem 1.5rem;
+      }
+
+      .page-hero--float-left {
+        float: left;
+        margin: 0.25rem 1.5rem 1rem 0;
       }
     </style>
   </head>
   <body>
-    <div class="container">
+    <div class="container page-body">
       {% if page.hero %}
-      <p style="text-align: center; margin-bottom: 0">
-        <img
-          class="page-hero"
-          src="{{ page.hero | relative_url }}"
-          alt="{{ page.hero_alt | default: page.title }}"
-        />
-      </p>
+      <img
+        class="page-hero{% if page.hero_float %} page-hero--float-{{ page.hero_float }}{% else %} page-hero--banner{% endif %}"
+        src="{{ page.hero | relative_url }}"
+        alt="{{ page.hero_alt | default: page.title }}"
+        {% unless page.hero_float %}data-hero-auto-float="right"{% endunless %}
+      />
       {% endif %}
       <nav class="breadcrumb">
         <a href="{{ '/' | relative_url }}">Home</a>
@@ -142,5 +163,38 @@
 
       {{ content }}
     </div>
+    <script>
+      (function () {
+        var hero = document.querySelector(".page-hero[data-hero-auto-float]");
+        if (!hero) return;
+
+        var floatSide = hero.getAttribute("data-hero-auto-float") || "right";
+        var bannerMin = 900;
+
+        function applyHeroLayout() {
+          var columnWidth = hero.parentElement.clientWidth;
+          var threshold = Math.min(bannerMin, columnWidth * 0.85);
+          var isBanner = hero.naturalWidth >= threshold;
+
+          hero.classList.remove(
+            "page-hero--banner",
+            "page-hero--float-right",
+            "page-hero--float-left"
+          );
+
+          if (isBanner) {
+            hero.classList.add("page-hero--banner");
+          } else {
+            hero.classList.add(
+              floatSide === "left" ? "page-hero--float-left" : "page-hero--float-right"
+            );
+          }
+        }
+
+        if (hero.complete) applyHeroLayout();
+        else hero.addEventListener("load", applyHeroLayout);
+        window.addEventListener("resize", applyHeroLayout);
+      })();
+    </script>
   </body>
 </html>

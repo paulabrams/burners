@@ -17,7 +17,7 @@ Invocations are **not Sorcerie**. No Arcana, no spellbook, no school Trait. Any 
 
 ## Patrons
 
-A **patron** is any otherworldly being with a True Name and a **nature** — the shape of what it loves, hates, and wants. The great gods of the Isles qualify (Pyrose the Sun King, Xohm the Earth Mother, Lunara the Veiled Maiden, Kurg the Winter King, Hruul the Voice in the Void, Mrmym the Winged Messenger), and so do lesser and stranger things: a drowned king remembered by one village, a d'jinn in a brass lamp, a deep one under the harbor, the nameless thing a cult calls *the Gardener*.
+A **patron** is any otherworldly being with a True Name and a **nature** — the shape of what it loves, hates, and wants. The gods of the Isles qualify: every one answers to one of the **seven divine archetypes** — Sun King, Earth Mother, Winged Messenger, Veiled Maiden, Winter King, Voiceless Keeper, and the Voice in the Void — and each culture knows them by its own names (Pyrose the Fyrelord, Xohm the Earthmother, Mrmym the Sky Dragon, Lunara the Maiden of Song, Hrivlygg the Frost King, Hruul the Voiceless One, and stranger voices besides — see *Gods of the Dragon Isles* in the world canon). So do lesser and stranger things: a drowned king remembered by one village, a d'jinn in a brass lamp, a deep one under the harbor, the nameless thing a cult calls *the Gardener*.
 
 **Nature is the rulebook.** Every patron has a nature the Guide holds — what requests it likes, what it refuses, what it shapes its callers toward. The gods seldom leave their Hallows; they lend power through those aligned to them, and the stranger things deal more directly and less kindly.
 

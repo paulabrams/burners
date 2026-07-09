@@ -308,32 +308,9 @@ Patron Alignment is **not** Sorcerie. A Sorcerer may have high Sorcerie and zero
 
 ### Invocations
 
-An **Invocation** is not a spell — it is a **bargain**. You call an otherworldly being's **True Name** thrice, aloud and formal, and state what you want. If it answers, it makes an **Offer** (what it will do) and an **Ask** (what it wants back). The working is capped by your **Alignment with that patron**; the price is always real.
+An **Invocation** is not a spell — it is a **bargain**. You call an otherworldly being's **True Name** thrice, aloud and formal, and state what you want; the call costs **1 Heat** (crew) or **1 HP** (caller), and you roll **`2d6 + Alignment with the patron`** against the Guide's Cost. If the being answers, it makes an **Offer** (capped at your Alignment level) and an **Ask** — a quest, a taboo, a shaping Trait, a debt. Any Burner may attempt one; no Arcana, spellbook, or school Trait is involved. Relics carry **+1 Alignment**; at **Alignment 3+** with Relic in hand you may stand as the patron's **saint** — and rebuking the willful dead in a patron's name is the Isles' true "turning" (see *We Burn Undead*).
 
-**Not Sorcerie.** Invocations do not use Arcana slots, spellbooks, or school Traits. Any Burner may attempt one; a high **Alignment with the patron** is what makes it bite.
-
-**Finding a Name.** True Names hide in myth — runestones, tomb-glyphs, amulet inscriptions, grimoire margins, a Relic's waking name. The Guide may let **`2d6 + Sorcerie`** or **`2d6 + Craft`** (lore, decipher) vs Heat answer whether you have heard a name before or read it true. Lore is play; write names in the margin when found.
-
-**Making the call**
-
-1. **Declare** — speak the True Name **thrice** and state your request in the fiction (what you want, not a spell title).
-2. **Pay to be heard** — the call costs **1 Heat** for the crew, or **1 HP** from the caller (their nerve, not meat — unless the Guide says otherwise). In combat this is an **Action**; out of combat it is a beat the scene waits on.
-3. **Roll** — **`2d6 + Alignment with the patron`** vs the Guide's **Cost** (often the scene's Heat, or **8 + request scale**: 8 a small favor, 10 a serious working, 12 a world-tilting demand). A request **against the patron's nature** raises the Cost by 2; a request **in line with deeds they already favor** may drop it by 2 or skip to Step 1.
-4. **Answer** — meet or beat the Cost and the patron **responds**; fall short and silence, a wrong listener, or a price paid with nothing gained (Guide's call — usually the Heat or HP is not refunded).
-
-**The Offer and the Ask**
-
-When the patron responds, the Guide sets an **Offer level** from **1** up to your **Alignment with the patron** (a Lunara 2 can receive up to a level-2 Offer). The Offer is what the being will do — turn the dead, open a way, strike a foe, reveal a secret. The **Ask** is what it wants — a quest, a taboo, a **shaping Trait**, **Heat** owed later, a Relic returned, a deed done in its name.
-
-You may **accept** or **refuse**. Refusing costs nothing beyond what you already paid to be heard. Accepting and the patron **delivers**; the Ask is on you until cleared.
-
-**Shaping.** Patrons mold their saints. On accept, the Guide names a **Trait** that fits the patron's nature (*sea-longing*, *wrathful*, *grave-keeper*, *patient as stone*). If you **already have** that Trait, you are in harmony — no extra cost. If not, you take the Trait on your **next level-up** (free, like any Trait) or the Guide offers it as a **Signature** on an existing Trait if the pact is narrow. Refuse the shaping and the pact may break, or the Ask worsens.
-
-**Relics and true names.** A **Relic** is the patron's conduit — rallying flag, ark, or **legendary Arcana** bound to their name. It grants **+1 Alignment with that patron** for Invocations while you carry it. A found relic's **true name** may be learned from the patron (through Invocation), from glyphs, or from the deed that wakes it — and wakes the **third die** on that item (see *Legendary Items*). Sentient items are relics that **speak**; they may aid, argue, or betray per the Guide.
-
-**Saint.** At **Alignment 3+** with a patron and a Relic in hand, the Guide may call you their **saint** for a quest they care about. You may **bless** companions (Heart roll or fiction): those who accept ride the quest with fervor; failure to honor the Ask — even in death — may let the patron **claim** or **shape** them. This is rare, campaign-scale color, not a combat buff.
-
-**We Burn Undead.** The mindless dead burn; the **willful** dead need a deal, a name, or nerve (see *We Burn Undead*). A saint rebuking a lich **in the patron's name** is an Invocation — Alignment with a being whose nature opposes the grave, not a cleric's turning.
+The full rules — patrons and their natures, True Names, the Offer and the Ask, shaping, Relics, sentient items, and saints — live on **[[Burners Invocations]]**.
 
 ```
 INVOCATION — quick reference
@@ -653,7 +630,7 @@ The full rules of magic — the Sorcerer gate, Arcana and binding, spellbooks, r
 
 ### Relics and sentient items
 
-**Relics** and **sentient items** are covered under *Invocations* (Alignment with a patron, Relic +1, true names). They are not spells; they interact with Signatures and legendary items as the Guide defines. Spell magic remains [[Burners Sorcerie]].
+**Relics** and **sentient items** are covered on [[Burners Invocations]] (Alignment with a patron, Relic +1, true names). They are not spells; they interact with Signatures and legendary items as the Guide defines. Spell magic remains [[Burners Sorcerie]].
 
 ### Magic — quick reference
 

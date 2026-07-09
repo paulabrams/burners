@@ -197,7 +197,7 @@ Each entry is the spell's name as a heading, and the line below it is the whole 
 
 ### Spell level
 
-Each of the seven people-schools lists six spells at every spell level, 1 through 6; Sorcerie, the common craft, is a thinning ladder with fewer. Prep cost and cast cost are the spell's **level**. Levels were assigned by **scope and punch** (OSE / B/X yardstick), then the catalog was balanced to six spells per level in each people-school (Sorcerie excepted).
+Each of the seven people-schools lists six spells at every spell level, 1 through 6; Sorcerie, the common craft, is a thinning ladder with fewer. Prep cost and cast cost are the spell's **level**.
 
 ### Reading the catalog
 

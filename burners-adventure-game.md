@@ -101,7 +101,7 @@ Burners is a fast-paced adventure game of happy go lucky heroes in the style of 
 
 - **Approach Roll:** roll 2d6 and add your Approach level. To climb a cliff with Craft 3, you roll 2d6+3.
 
-- **Alignment:** a "novel" Approach worked out on the spot for a situation that fits none of the four. Count the relevant Traits across all your Approaches and divide by 4.
+- **Alignment:** a fifth "Approach" for the strange moment — or a **standing bond** with a patron, guild, or power. Count every relevant Trait across all Approaches, **divide by 4, round down**. See *Alignment*.
 
 - **Sweet and Spicy:** a rolled 6 is Sweet (a good twist); a rolled 1 is Spicy (a complication). These ride alongside the sum and never change it. Two 6s (a natural 12) is the perfect roll. Two 1s (a natural 2) is a fumble.
 
@@ -291,7 +291,60 @@ Reaching level 1 in an Approach earns its title, which switches on that arena's 
 
 ## Alignment
 
-Alignment is an Approach worked out on the spot for a situation that maps to none of the four. The Guide names the axis and has you count the relevant Traits across all your Approaches, divided by 4. It is the catch-all for the strange, off-grid moment. Hauled before the Thieves' Guild masters to explain yourself, Heart is close but not quite; the Guide calls instead for your Alignment with the Thieves' Guild, an open count of every Trait that bears (canting, streetwise, that season you spent as a fence). Use a fixed Approach for ordinary rolls, and reach for Alignment only for the particular strange thing in front of you.
+Alignment is an Approach worked out when the fiction does not map cleanly to Sword, Craft, Heart, or Sorcerie — or when you have a **standing** tie to something bigger than a skill. The Guide names the axis; you count every Trait across all your Approaches that bears on it, **divide by 4, round down**. That number is your **Alignment level** with that axis for this roll or this bond.
+
+**Situational Alignment** is the catch-all for the odd moment. Hauled before the Thieves' Guild masters, Heart is close but not quite; the Guide calls **Alignment with the Thieves' Guild** instead, counting canting, streetwise, that season you spent as a fence. Use a fixed Approach for ordinary rolls; reach for situational Alignment only for the particular strange thing in front of you.
+
+**Patron Alignment** is the same math, but the axis is an **otherworldly being** — a god, saint, d'jinn, dead power, or thing from beyond the veil that has a True Name and a nature. Record it on your sheet when it matters: *Lunara 2*, *the Voice in the Void 1*. It grows the way everything in Burners grows: you take Traits that bear on the patron at level-up, you keep a **Relic** of theirs, you accept their **shaping** after a pact, you do deeds they favor. A **Relic** of the patron (their conduit — often **legendary Arcana** or a named item) counts as **+1 Alignment** with that patron for Invocations only.
+
+| Alignment level | What it means at the table |
+|---|---|
+| **0** | Stranger — the patron may not hear, or the Offer is thin |
+| **1** | Known — small favors, one clear Ask |
+| **2** | Favored — serious Offers; shaping sticks |
+| **3+** | Saint — their business is yours; see *Invocations* |
+
+Patron Alignment is **not** Sorcerie. A Sorcerer may have high Sorcerie and zero Alignment with Lunara; a fighter may be Lunara 3 and never cast a spell. Invocations ride the patron number; the spell catalog rides Sorcerie.
+
+### Invocations
+
+An **Invocation** is not a spell — it is a **bargain**. You call an otherworldly being's **True Name** thrice, aloud and formal, and state what you want. If it answers, it makes an **Offer** (what it will do) and an **Ask** (what it wants back). The working is capped by your **Alignment with that patron**; the price is always real.
+
+**Not Sorcerie.** Invocations do not use Arcana slots, spellbooks, or school Traits. Any Burner may attempt one; a high **Alignment with the patron** is what makes it bite.
+
+**Finding a Name.** True Names hide in myth — runestones, tomb-glyphs, amulet inscriptions, grimoire margins, a Relic's waking name. The Guide may let **`2d6 + Sorcerie`** or **`2d6 + Craft`** (lore, decipher) vs Heat answer whether you have heard a name before or read it true. Lore is play; write names in the margin when found.
+
+**Making the call**
+
+1. **Declare** — speak the True Name **thrice** and state your request in the fiction (what you want, not a spell title).
+2. **Pay to be heard** — the call costs **1 Heat** for the crew, or **1 HP** from the caller (their nerve, not meat — unless the Guide says otherwise). In combat this is an **Action**; out of combat it is a beat the scene waits on.
+3. **Roll** — **`2d6 + Alignment with the patron`** vs the Guide's **Cost** (often the scene's Heat, or **8 + request scale**: 8 a small favor, 10 a serious working, 12 a world-tilting demand). A request **against the patron's nature** raises the Cost by 2; a request **in line with deeds they already favor** may drop it by 2 or skip to Step 1.
+4. **Answer** — meet or beat the Cost and the patron **responds**; fall short and silence, a wrong listener, or a price paid with nothing gained (Guide's call — usually the Heat or HP is not refunded).
+
+**The Offer and the Ask**
+
+When the patron responds, the Guide sets an **Offer level** from **1** up to your **Alignment with the patron** (a Lunara 2 can receive up to a level-2 Offer). The Offer is what the being will do — turn the dead, open a way, strike a foe, reveal a secret. The **Ask** is what it wants — a quest, a taboo, a **shaping Trait**, **Heat** owed later, a Relic returned, a deed done in its name.
+
+You may **accept** or **refuse**. Refusing costs nothing beyond what you already paid to be heard. Accepting and the patron **delivers**; the Ask is on you until cleared.
+
+**Shaping.** Patrons mold their saints. On accept, the Guide names a **Trait** that fits the patron's nature (*sea-longing*, *wrathful*, *grave-keeper*, *patient as stone*). If you **already have** that Trait, you are in harmony — no extra cost. If not, you take the Trait on your **next level-up** (free, like any Trait) or the Guide offers it as a **Signature** on an existing Trait if the pact is narrow. Refuse the shaping and the pact may break, or the Ask worsens.
+
+**Relics and true names.** A **Relic** is the patron's conduit — rallying flag, ark, or **legendary Arcana** bound to their name. It grants **+1 Alignment with that patron** for Invocations while you carry it. A found relic's **true name** may be learned from the patron (through Invocation), from glyphs, or from the deed that wakes it — and wakes the **third die** on that item (see *Legendary Items*). Sentient items are relics that **speak**; they may aid, argue, or betray per the Guide.
+
+**Saint.** At **Alignment 3+** with a patron and a Relic in hand, the Guide may call you their **saint** for a quest they care about. You may **bless** companions (Heart roll or fiction): those who accept ride the quest with fervor; failure to honor the Ask — even in death — may let the patron **claim** or **shape** them. This is rare, campaign-scale color, not a combat buff.
+
+**We Burn Undead.** The mindless dead burn; the **willful** dead need a deal, a name, or nerve (see *We Burn Undead*). A saint rebuking a lich **in the patron's name** is an Invocation — Alignment with a being whose nature opposes the grave, not a cleric's turning.
+
+```
+INVOCATION — quick reference
+WHO     any Burner who knows the True Name
+ALIGN   Traits that bear on the patron, ÷ 4 (round down); +1 if carrying their Relic
+CALL    Name thrice + request; costs 1 Heat (crew) or 1 HP (caller); Action in combat
+ROLL    2d6 + Alignment with patron vs Cost (often scene Heat or 8 + scale)
+CAP     Offer level ≤ Alignment with patron
+ASK     quest · taboo · shaping Trait · Heat later · deed
+NOT     spells · Arcana · Sorcerie school
+```
 
 ## HP, Heat, and Armor
 
@@ -417,7 +470,7 @@ A legendary item is a relic of a prior age, inscribed with runes beyond even the
 
 A legendary item grants a third die, turning 2d6 into three dice, when it is the relevant implement of your action. You either have it or you do not; there is never a fourth die. For arms and armor, only a Veteran awakens the die; a legendary blade or harness lies inert in untrained hands.
 
-A found relic lies dormant, rolling as ordinary gear, until you discover its true name, read from a tomb-glyph, surrendered by an Invocation, or earned by the deed it was made for. The name wakes the third die and costs no XP; it is a prize of the world, not a purchase.
+A found relic lies dormant, rolling as ordinary gear, until you discover its true name — read from a tomb-glyph, **surrendered by an Invocation** to the patron it serves, or earned by the deed it was made for. The name wakes the third die and costs no XP; it is a prize of the world, not a purchase.
 
 About one in six of these relics speaks. These are Sentient Items, each a bound soul with its own will and powers that can aid, argue, or betray. Many more were once sentient but broke over the long ages, most of them mad and silent. So a mute relic is not safely empty; it may be inert, or a madness too far gone for words.
 
@@ -594,19 +647,13 @@ There is no defense roll to fail; when struck you commit dice from your Fuel —
 
 ## Magic
 
-Magic is prepared, not spontaneous: a Sorcerer **binds** workings into **Arcana** (one hour of study with spellbook in hand). A cast leaves the spell **active** for its duration, then **used** until cleared by sleep — it does not vanish from the focus on release. It is utility first — most spells solve problems (light, movement, control, ward); hostile magic lands through the same **Defend** economy as steel. Magic plugs into the core at two points: the Sorcerer title (Sorcerie 1) switches casting on, and a **combat cast is one Action that spends at least L Fuel dice (L = the spell's level)** and rolls them for the cast total. The spell catalog is [[Burners Sorcerie]]; the gate-free common school **Sorcerie** holds the workings every mage knows regardless of tradition (Read Magic, Detect Magic, the Ward Pact family, and the rest).
+Magic is prepared, not spontaneous: a Sorcerer **binds** workings into **Arcana** (one hour of study with spellbook in hand). A cast leaves the spell **active** for its duration, then **used** until cleared by sleep — it does not vanish from the focus on release. It is utility first — most spells solve problems (light, movement, control, ward); hostile magic lands through the same **Defend** economy as steel. Magic touches the rest of the game in two places: the Sorcerer title (Sorcerie 1) switches casting on, and a **combat cast is one Action that spends at least L Fuel dice (L = the spell's level)** and rolls them for the cast total. The spell catalog is [[Burners Sorcerie]]; the gate-free common school **Sorcerie** holds the workings every mage knows regardless of tradition (Read Magic, Detect Magic, the Ward Pact family, and the rest).
 
 The full rules of magic — the Sorcerer gate, Arcana and binding, spellbooks, ritual, the cast, Defend against hostile workings, and Reading Magic — live with the catalog on the **[[Burners Sorcerie]]** page; only a Sorcerer (or a Journeyman casting Canting) needs them. At the table everyone needs just two things: how a spell hits you (*Defending against a spell*, under Combat) and the quick reference below.
 
-### Invocations, Relics, and Sentient Items
+### Relics and sentient items
 
-Carried from earlier *Wåndyr* lore (detail in campaign docs):
-
-- **Invocations** — call an otherworldly being's True Name thrice for an Offer; it shapes you toward its nature.
-- **Relics** — a being's conduit; may be **legendary Arcana**.
-- **Sentient Items** — the speaking subset of legendary items; may argue, aid, or betray.
-
-These are not the spell list; they interact with Signatures and legendary items as the Guide defines.
+**Relics** and **sentient items** are covered under *Invocations* (Alignment with a patron, Relic +1, true names). They are not spells; they interact with Signatures and legendary items as the Guide defines. Spell magic remains [[Burners Sorcerie]].
 
 ### Magic — quick reference
 

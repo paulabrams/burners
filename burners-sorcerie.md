@@ -24,7 +24,7 @@ Eight magic schools, each with up to 36 spells ranging from 1st to 6th level. So
 
 ## How Magic Works
 
-Magic is prepared, not spontaneous: a Sorcerer **binds** workings into **Arcana** (an hour of study with spellbook in hand) and releases them in the field. A cast does not empty the focus — the spell stays **active** for its duration, then becomes **used** until a night's sleep clears it. It is utility first — most spells solve problems (light, movement, control, ward); hostile magic lands through the same **Defend** economy as steel. Magic plugs into the core at two points: the Sorcerer title (Sorcerie 1) switches casting on, and a **combat cast is one Action that spends at least L Fuel dice (L = the working's level)** and rolls them for the **cast total**. This chapter is the full rules; the catalog follows below.
+Magic is prepared, not spontaneous: a Sorcerer **binds** workings into **Arcana** (an hour of study with spellbook in hand) and releases them in the field. A cast does not empty the focus — the spell stays **active** for its duration, then becomes **used** until a night's sleep clears it. It is utility first — most spells solve problems (light, movement, control, ward); hostile magic lands through the same **Defend** economy as steel. Magic touches the rest of the game in two places: the Sorcerer title (Sorcerie 1) switches casting on, and a **combat cast is one Action that spends at least L Fuel dice (L = the working's level)** and rolls them for the **cast total**. This chapter is the full rules; the catalog follows below.
 
 ### The Sorcerer Gate
 

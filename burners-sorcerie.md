@@ -24,7 +24,7 @@ Eight magic schools, each with up to 36 spells ranging from 1st to 6th level. So
 
 ## How Magic Works
 
-Magic is prepared, not spontaneous: a Sorcerer **binds** workings into **Arcana** (an hour of study with spellbook in hand) and releases them in the field. A cast does not empty the focus — the spell stays **active** for its duration, then becomes **used** until a night's sleep clears it. It is utility first — most spells solve problems (light, movement, control, ward); hostile magic lands through the same **Defend** economy as steel. Magic plugs into the core at two points: the Sorcerer title (Sorcerie 1) switches casting on, and a **combat cast is one Action that spends dice from your Fuel equal to the working's level** and rolls them for the **cast total**. This chapter is the full rules; the catalog follows below.
+Magic is prepared, not spontaneous: a Sorcerer **binds** workings into **Arcana** (an hour of study with spellbook in hand) and releases them in the field. A cast does not empty the focus — the spell stays **active** for its duration, then becomes **used** until a night's sleep clears it. It is utility first — most spells solve problems (light, movement, control, ward); hostile magic lands through the same **Defend** economy as steel. Magic plugs into the core at two points: the Sorcerer title (Sorcerie 1) switches casting on, and a **combat cast is one Action that spends at least L Fuel dice (L = the working's level)** and rolls them for the **cast total**. This chapter is the full rules; the catalog follows below.
 
 ### The Sorcerer Gate
 
@@ -43,8 +43,8 @@ To work magic you must be a **Sorcerer — Sorcerie 1 or higher.** Below that yo
 Each entry in the catalog below has a name, level, and effect — **run it as written** unless this chapter, the spell list, or the Guide says otherwise. Where a spell's effect must mesh with combat:
 
 - **HP and damage** that target a creature come off **HP** (armor doesn't help against pure magic unless the fiction makes the effect physical — conjured blade, stone shards — then AC soaks like any hit).
-- **Hostile magic** is opposed with **Defend** — committing Fuel dice (in combat) or **`2d6 +` an Approach** (out of combat) and comparing the total to the caster's **cast total** (see *Defending against a spell* below and in [[Burners Adventure Game]]). This is not a Save: you rarely avoid the working entirely without spending dice or rolling well. The player chooses whichever Approach fits the fiction; a spell may suggest one (e.g. *Defend: Sword*).
-- **Control** (charm, sleep, fear, command…) applies **net pressure** to HP — in combat and out of it. At **0 HP or below**: full control. Still above 0 HP: partial control. Fully defended: no control. *Mind-immune* and *mind-resistant* targets still apply.
+- **Hostile magic** is opposed with **Defend** — commit Fuel dice and compare your **defense total** (sum of faces) to the caster's **cast total** (see *Defending against a spell* below and in [[Burners Adventure Game]]). A hostile cast where no fight is yet underway still **Rolls initiative**; there is no out-of-combat Defend against sorcery. You rarely avoid a working entirely without spending dice or rolling well. Choose whichever Approach fits; a spell may suggest one (*Defend: Sword*).
+- **Control** (charm, sleep, fear, command…) is **effect-only** — it does not chip HP. Fully defended: no effect. Defense fell short: the working lands — full or partial per the spell (*Mind-immune* and *mind-resistant* targets still apply).
 
 ### Arcana
 
@@ -140,11 +140,11 @@ With your spellbook in hand, spend **one hour** of rest and study to bind or reb
 
 1. **Say what you do** — name the spell and its effect in the fiction. If it is clever, feasible, and backed by who you are, it may simply work (Step 1). If it is feasible but risky, pay the Cost (Step 2).
 2. **Pay the Cost.**
-   - **In combat**, casting is one **Action**: commit dice from your **Fuel equal to the working's level** (a level-3 spell spends 3 dice) and **roll them**. The **cast total** is the sum of those faces — the force behind the working. A **6** is a **Spark**, as with any Action.
+   - **In combat**, casting is one **Action**: commit at least **L** Fuel dice from your pool (L = the working's level) and **roll them**. The **cast total** is the sum of those faces — the force behind the working. A **6** is a **Spark**, as with any Action.
    - **Out of combat** (ritual, exploration, social magic), roll **`2d6 + Sorcerie`** against the Guide's Cost — **+1 die if you cast through a legendary Arcana**.
 3. **Mark the slot active.** The spell stays on the Arcana: the slot becomes **active** for its duration, then **used** when the working ends. Instant effects become **used** as soon as they resolve. You cannot cast the same bound spell again from that slot while it is **active** or **used**.
 
-**When a cast Sparks.** Casting spends Fuel dice equal to the working's level and no more — that cost never changes. But those are Fuel dice like any others, spent at their faces — and a **6** among them is a **Spark**. With no Spark the spell resolves exactly as written. With one, you may spend it on the *working itself* instead of the usual second action — another target caught, a beat longer on a duration, a ward pierced, a control that grabs a rung higher (Guide's call on what fits). A bigger working spends more dice, so it Sparks more often — big workings burn brighter. (Multiple Sparks on a big cast each buy a rider or a second action.)
+**When a cast Sparks.** Casting commits at least **L** Fuel dice (L = the working's level) and rolls them — that minimum never changes. A **6** among them is a **Spark**. With no Spark the spell resolves as written. With one, you may spend the Spark on the *working itself* — another target caught, a beat longer, a ward pierced, a control that grabs a rung higher (Guide's call) — **or** spend up to **L additional Fuel dice** (rolled at their faces, spent for the fight) to push the effect further. A bigger working commits more dice, so it Sparks more often. Multiple Sparks each buy a rider, extra Fuel, or a second action.
 
 The caster is exposed like anyone taking an Action; struck mid-cast, you defend with **Sword** like anyone. A hostile working coming *at* you is handled under *Defending against a spell* below and in [[Burners Adventure Game]].
 
@@ -152,24 +152,26 @@ The caster is exposed like anyone taking an Action; struck mid-cast, you defend 
 
 ### Defending against a spell
 
-When a spell targets you with harm, control, or another effect you can oppose, the caster's **cast total** is the sum of the Fuel dice spent to cast (L dice for a level-L working).
+When a spell targets you with harm, control, or another hostile effect, the caster's **cast total** is the sum of the Fuel dice spent to cast (at least L dice for a level-L working).
 
-You may **Defend** as against any blow: commit Fuel dice, roll them, and sum the faces. Those dice are spent for the fight. Your **defense total** opposes the cast total. Choose whichever Approach fits the fiction; the spell may suggest one (*Defend: Sword*, *Defend: Heart*, and so on).
+**Roll initiative.** A hostile spell is an attack like any other. If no fight is yet underway, **Roll initiative** — the caster gains no free first strike. There is no Defend against hostile magic outside the Fuel economy.
 
-**Physical** manifestations — a conjured blade, stone shards, a hail of metal, a dodgeable cone — follow the usual **Dodge** (one die), **Parry**, **Block**, and AC rules; the defense total is still the sum of the Fuel dice you commit. **Non-physical** workings (charm, hex, fear, sleep) have no AC and no one-die Dodge cap: commit as many Fuel dice as you choose.
+You may **Defend** as against any blow: commit Fuel dice, roll them, sum the faces. Those dice are spent for the fight. Your **defense total** opposes the cast total. Choose whichever Approach fits; the spell may suggest one (*Defend: Sword*, *Defend: Heart*, and so on). Commit as many Fuel dice as you choose — no cap.
 
-- **Defense ≥ cast:** fully defended — no HP loss, no control.
-- **Defense < cast:** **net pressure** = cast − defense. This comes off **HP** — in combat and out of it. Armor soaks net pressure only when the effect is **physical** in the fiction (conjured blades, stone shards, a hail of metal); pure sorcery ignores AC.
+**Warding.** A Sorcerer **adjacent** to an ally or a tight group may **Defend for them** — commit Fuel on their behalf, as a Veteran **Blocks** for the crew. You still choose the fitting Approach; the protected target does not spend dice.
 
-**Damage** applies net pressure to HP directly (Resistance still applies per kind). Physical spell attacks — cones of shards, force blades, thunder you can dive from — are indistinguishable from weapon attacks: Defend, Block, AC, Resistance as usual.
+**Physical** manifestations — conjured blade, stone shards, hail of metal, dodgeable cone — may be soaked by **AC** after Defend when the fiction makes the effect physical. **Non-physical** workings ignore AC.
 
-**Control** also applies net pressure to HP. At **0 HP or below** after pressure: **full control** as the spell describes. Still above 0 HP: **partial control** (weaker duration, loose compliance, one action slipped free — spell text or Guide). Fully defended: no control.
+- **Defense ≥ cast:** fully defended — no effect, no HP loss.
+- **Defense < cast:** **net pressure** = cast − defense. Apply **either** the spell's HP harm **or** its control/status effect — **never both** on the same target from one working.
+
+**Damage** workings apply net pressure to HP (Resistance still applies per kind). Physical spell attacks — shards, force blades, thunder you can dive from — use Defend, then AC, then Resistance like weapon blows.
+
+**Control** (charm, sleep, fear, command…) is effect-only, not an HP meter. Fully defended: none. Defense fell short: the spell lands — **full control** as written when pressure is overwhelming, or **partial control** in edge cases only (Guide's call: weaker duration, loose compliance, one action slipped free). Recover when the working ends or is broken.
 
 Spells with no hostile target (light on a wall, healing a willing ally, reading magic) allow no Defend. Area workings: each target Defends separately against the same cast total.
 
-**Out of combat.** When no Fuel pool is in play, the caster's **cast total** is **`2d6 + Sorcerie`** (or **`2d6 + Craft`** for Canting) and the target's **defense total** is **`2d6 +` whichever Approach fits** the fiction — same comparison, same net pressure to HP. This is not a Save that avoids the effect for free; it is still Defend.
-
-**Compare to steel.** A weapon attack commits dice from Fuel (one to three a blow) and deals their **faces** — a fistful of dice with a shot at a Spark, but armor soaks every blow. A spell instead costs **L dice** and its cast total is the attack value; the target Defends with Fuel the same way. Steel and sorcery share the pool — the danger is the turn you are winded with workings still flying.
+**Compare to steel.** A weapon attack commits dice from Fuel (one to three a blow) and deals their **faces**. A spell costs at least **L dice** and its cast total is the attack value; the target Defends with Fuel the same way. Steel and sorcery share the pool — the danger is the turn you are winded with workings still flying.
 
 ### What Sorcerie is for
 
@@ -203,7 +205,7 @@ Each of the seven people-schools lists six spells at every spell level, 1 throug
 
 **Sorcerie** in an effect = your **Sorcerie Approach level** (Traits ÷ 4). At **Sorcerie 1**, `Sorcerie creatures` means 1 creature, `Sorcerie × 10'` means 10', etc. Minimum 1 where a count is implied.
 
-- **Control** (charm, sleep, fear, command…) applies net pressure to HP through Defend; see *Defending against a spell* above.
+- **Control** (charm, sleep, fear, command…) lands through Defend as an effect, not HP pressure; see *Defending against a spell* above.
 - **Wound work:** *Healing Touch* (Vitae 1) closes limb wounds; for **open vital wounds** use a **Wound Check** — campaign alias **Stanch** (same level).
 - **Canting** rolls **Craft**, and a **Journeyman (Craft 1+)** — not only a Sorcerer — may prep and cast it (see *The Sorcerer Gate* above).
 
@@ -1127,7 +1129,7 @@ Thaumaturgy 3: Repair one broken mundane object up to chair-size; magical items 
 
 #### Mind Shatter
 
-Umbrakala 3: Psychic — ignores Resistance. Defend; net pressure to HP (− scoped Resistance). If net pressure lands: stunned 1 turn.
+Umbrakala 3: Psychic — ignores Resistance. Defend; net pressure to HP (− scoped Resistance) **or** stunned 1 turn if defense < cast (not both).
 
 #### Mirror Image
 
@@ -1147,7 +1149,7 @@ Umbrakala 3: A Sorcerie × 40' wide sphere of total darkness appears.
 
 #### Nightmare Seed
 
-Umbrakala 3: Plant a nightmare in one sleeper; net pressure to HP; at 0 HP or below they wake from fear.
+Umbrakala 3: Plant a nightmare in one sleeper; Defend; if defense < cast, they wake from fear.
 
 #### Object Memory
 
@@ -1494,7 +1496,7 @@ Canting 5: One sentry distracted Sorcerie × 10 minutes.
 
 #### Mind Maze
 
-Illusione 5: One creature is lost in a mental maze for Sorcerie turns (control if cast ≥ HP).
+Illusione 5: One creature; Defend; if defense < cast, lost in a mental maze for Sorcerie turns.
 
 #### Mizzle
 

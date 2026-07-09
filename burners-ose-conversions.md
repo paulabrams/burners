@@ -11,7 +11,7 @@ hero_alt: "A scout on the town wall"
 
 1. **No keys.** "Magic weapons to hit" is never a lockout — it is Resistance: a flat toll every blow pays, worn down by weight of numbers or bypassed by a named weakness.
 2. **No plusses.** A +n never becomes a bonus to a sum. It becomes **enchanted** gear with scaled minor powers, a tag, a Signature — or a relic (see *+n Arms, Shields, and Armor* under Magic Items).
-3. **Route, don't reinvent.** Every OSE die points at a subsystem Burners already has: a save becomes a **`2d6 +` Approach Save** or a **Defend** against a **cast total**, a check an Approach roll, a monster's breath an Area Effect, poison a lingering Cost, XP an OSE award on the tables below.
+3. **Route, don't reinvent.** Every OSE die points at a subsystem Burners already has: a save becomes a **`2d6 +` Approach Defend** or a Fuel **Defend** against a **cast total**, a check an Approach roll, a monster's breath an Area Effect, poison a lingering Cost, XP an OSE award on the tables below.
 
 The clocks already match: OSE turns and rounds are Burners turns and rounds. Durations, torches, and wandering-monster checks run as written.
 
@@ -67,7 +67,7 @@ For fractional or special HD, use the nearest row or the module's printed award.
 | **XP** | Award when overcome — **XP by HD** from the table in *XP Awards* (a 1 HD skeleton = 10; HD 2 = 20). Use the module's printed award if given. |
 | **AC** | Armor (soak), per the table below |
 | **Damage die** | Read as the natural weapon's **slots** — the dice it throws on the Initiative roll, per the rubric below. A monster has no fixed Damage number; it rolls a pool and spends dice like a character. |
-| **Saves** | Deleted — route the *ability* through the Save Router |
+| **Saves** | Deleted — route the *ability* through the Defend Router |
 | **Morale** | As written |
 | **THAC0 / attack bonus** | Deleted — there are no to-hit rolls; the pool carries it |
 
@@ -123,17 +123,17 @@ A monster spends its pool exactly as a character does: **each blow is up to thre
 
 **Spellcasting monsters:** convert their list through the Spells section, or skip the list and quote each casting as a blow or a telegraph. A dragon does not need a spellbook; it needs a Breath telegraph and two good tricks.
 
-### The Save Router
+### The Defend Router
 
-An OSE save is never a die roll to copy — it is a pointer to a Burners subsystem. **`2d6 +` the fitting Approach** against the Guide's Cost handles most hazards (see *Saves* in [[Burners Adventure Game]]). **Hostile magic** is never a Save — it uses **Defend** against the caster's **cast total** (see *Defending against a spell* in [[Burners Adventure Game]] and [[Burners Sorcerie]]). Ask what the save protects, then route it:
+An OSE save is never a die roll to copy — it is a pointer to a Burners subsystem. **`2d6 +` the fitting Approach** against the Guide's Cost handles most hazards (see *Defend* in [[Burners Adventure Game]]). **Hostile magic** is never a hazard Defend — it **Rolls initiative** and uses Fuel **Defend** against the caster's **cast total** (see *Defending against a spell* in [[Burners Adventure Game]] and [[Burners Sorcerie]]). Ask what the save protects, then route it:
 
 | OSE says | Burners does |
 |---|---|
 | **Save vs. Breath** | A **monster** breath is an **Area Effect** — telegraphed ("its chest glows"): shield, ward, cover, or eat the quoted damage. No Fuel Defend against a dragon's cone. A **spell** cone or burst uses **Defend** and net pressure like any hostile working. |
-| **Save vs. Poison (or die)** | Never instant death. A **Save** (**Craft**) avoids the bite; once it lands, a **lingering Cost** — its level in HP each round, no further defense — until cured or outlasted (see *Lingering Costs* in [[Burners Adventure Game]]). |
-| **Save vs. Paralysis** | A **Save** (**Craft** or **Sword**) at the touch; fall short and you **stiffen** for a stated clock (ghoul-chill, 2d6 rounds) — recoverable, not permanent. |
-| **Save vs. Petrify** | A **counting doom**: repeated **Saves** (**Craft** or **Sword**), each miss a step toward stone; it recovers. Averting your eyes is the counterplay, at the price of fighting blind. |
-| **Save vs. Spells / Wands / Rods / Staves** | **Defend**, not a Save. In combat: target commits Fuel dice; **defense total** vs caster's **cast total** (sum of L Fuel dice spent). Out of combat: **`2d6 +` fitting Approach** vs **`2d6 + Sorcerie`**. *Save negates* → fully defended; *save for half* → partial net pressure (or fully defended if the defense total clears the cast total). Physical blasts follow Dodge / Parry / Block / AC; mind-work ignores AC. |
+| **Save vs. Poison (or die)** | Never instant death. A **Defend** (**Craft**) avoids the bite; once it lands, a **lingering Cost** — its level in HP each round, no further defense — until cured or outlasted (see *Lingering Costs* in [[Burners Adventure Game]]). |
+| **Save vs. Paralysis** | A **Defend** (**Craft** or **Sword**) at the touch; fall short and you **stiffen** for a stated clock (ghoul-chill, 2d6 rounds) — recoverable, not permanent. |
+| **Save vs. Petrify** | A **counting doom**: repeated **Defends** (**Craft** or **Sword**), each miss a step toward stone; it recovers. Averting your eyes is the counterplay, at the price of fighting blind. |
+| **Save vs. Spells / Wands / Rods / Staves** | Fuel **Defend**, not a hazard roll. **Roll initiative** if no fight is underway. Target commits Fuel dice (no cap); **defense total** vs caster's **cast total** (sum of L Fuel dice spent). *Save negates* → fully defended. *Save for half* → **does not port** — apply net pressure as HP harm **or** the spell's effect, never both; no half-damage exception. Physical blasts may be soaked by AC when physical in the fiction; mind-work ignores AC. **Warding:** adjacent Sorcerer may Defend for allies. |
 | **Save vs. Death effects** | **Shock Check** and **Wounds** — route into HP pressure, a lingering Cost, or a Wound that cuts an Approach's fiction. Never instant death. |
 
 **Which Approach?** **Craft** to dodge a dart, pit, or poison; **Sword** to force a door, hold your feet, or stay conscious; **Heart** against fear and horror; **Sorcerie** to dredge up what you know against the uncanny. The player may argue for another Approach if the fiction fits. When in doubt: Craft to avoid, Sword to endure.
@@ -149,7 +149,7 @@ Burners has no ability scores on the sheet. On the rare occasion a module wants 
 | WIS, CHA | Heart |
 | INT | Sorcerie |
 
-So a Sword 3 stands at an effective 13, a Craft 2 at 12. This is a fallback for the odd direct comparison, not a number to track — most endurance routes through a **Save (`2d6 +` Approach)** and most contests are a **Pay** or **Deal** roll the same way.
+So a Sword 3 stands at an effective 13, a Craft 2 at 12. This is a fallback for the odd direct comparison, not a number to track — most endurance routes through a **Defend (`2d6 +` Approach)** and most contests are a **Pay** or **Deal** roll the same way.
 
 ### "Magic Weapons to Hit" → Resistance
 
@@ -199,11 +199,11 @@ Port OSE spells onto [[Burners Sorcerie]] when a match exists; otherwise write a
 
 - **Spell level = prep level L.** Arcana slots run **bound → active → used**; **used** slots clear after **8 hours' sleep**. Binding or rebinding takes **one hour** with spellbook in hand. Respect Arcana capacity (levels total ≤ focus Level).
 - **Durations and ranges as written** — the clocks match.
-- **Casting (combat):** one Action; spend **L Fuel dice**, roll them — **cast total** = sum of faces. The slot goes **active**, then **used**.
-- **Casting (NPC / module caster):** roll **L dice** for the cast total the same way, or **`2d6 + Sorcerie`** out of combat.
+- **Casting (combat):** one Action; spend at least **L Fuel dice**, roll them — **cast total** = sum of faces. On a **Spark**, may spend up to **L additional Fuel** for extra effect. The slot goes **active**, then **used**.
+- **Casting (NPC / module caster):** roll at least **L dice** for the cast total the same way. A hostile cast **Rolls initiative** if no fight is underway.
 - **Damage:** ignore OSE's per-caster-level dice and fixed damage lines. Hostile workings deal **net pressure to HP** — cast total minus defense total. Do not re-price through a separate damage table.
-- **Defense:** *Save negates* → **Defend**; if **defense ≥ cast**, no effect. *Save for half* → same contest; partial **net pressure** if defense < cast. **Physical** blasts (fireball, lightning bolt) follow Dodge / Parry / Block / AC; **non-physical** workings (charm, sleep, hold) ignore AC and have no one-die Dodge cap. Out of combat with no Fuel: **`2d6 +` fitting Approach** vs **`2d6 + Sorcerie`**.
-- **Charm / Sleep / Hold:** **Control** — net pressure to HP; at **0 HP or below**, full control; still above 0, partial; fully defended, none. Recoverable when the working ends.
+- **Defense:** *Save negates* → Fuel **Defend**; if **defense ≥ cast**, no effect. *Save for half* → **does not port** — HP harm **or** the spell's effect, never both. Physical blasts may be soaked by AC when physical in the fiction; mind-work ignores AC. No cap on defense dice. **Warding:** adjacent Sorcerer may Defend for allies.
+- **Charm / Sleep / Hold:** **Control** — effect-only, not HP pressure; fully defended: none; defense fell short: full or partial per the spell. Recoverable when the working ends.
 - **Scrolls** require a Sorcerer (Sorcerie 1+) to read.
 
 ---
@@ -291,4 +291,4 @@ A **+3 or better** weapon in the text is the module telling you to skip the tabl
 
 ---
 
-> *Read the stat block once, write it in the margin — HP, soak, the pool (HD + weapon slots), Resistance-if-any, XP by HD — route the saves, and run it.*
+> *Read the stat block once, write it in the margin — HP, soak, the pool (HD + weapon slots), Resistance-if-any, XP by HD — route the saves through Defend, and run it.*

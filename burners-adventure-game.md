@@ -117,9 +117,9 @@ Burners is a fast-paced adventure game of happy go lucky heroes in the style of 
 
 - **Attack:** each blow is one die, plus one for a two-handed power attack and one for an enchanted weapon; their faces are the damage. A Sword fighter makes an extra attack per Sword level, all paid from Fuel. A rolled 6 is a **Spark**. See Fighting.
 
-- **Cast:** one Action in combat; spend **L** Fuel dice (L = the spell's level), roll them — the **cast total** is the sum of those faces. The Arcana slot goes **bound → active → used**; **used** slots clear after 8 hours' sleep. See *Magic* and [[Burners Sorcerie]].
+- **Cast:** one Action in combat; spend at least **L** Fuel dice (L = the spell's level), roll them — the **cast total** is the sum of those faces. On a **Spark**, may spend up to **L additional Fuel** for extra effect. The Arcana slot goes **bound → active → used**; **used** slots clear after 8 hours' sleep. See *Magic* and [[Burners Sorcerie]].
 
-- **Defend:** commit Fuel dice to cut a blow before armor soaks the rest — one die to **Dodge** most blows, or as many as you like against a foe you **Parry** or **Block**. Against hostile magic, sum your dice against the caster's **cast total** (see *Defending against a spell*). A rolled 6 is a **Spark** (defending, a Riposte). See Fighting.
+- **Defend:** commit Fuel dice to cut a blow before armor soaks the rest — one die to **Dodge** most blows, or as many as you like against a foe you **Parry** or **Block**. Against hostile magic, commit as many dice as you choose and sum their faces against the caster's **cast total** (see *Defending against a spell*). A rolled 6 is a **Spark** (defending, a Riposte). See Fighting.
 
 - **Spark:** a natural 6 you play from your Fuel. It entitles you to a second combat action — an attack, a Block, or a Stunt (defending, a Riposte) — which you still pay for from your Fuel. See Fighting.
 
@@ -139,9 +139,9 @@ Burners is a fast-paced adventure game of happy go lucky heroes in the style of 
 
 ---
 
-## Saves
+## Defend
 
-There is no separate birthright to withstand a danger; you endure with the same four Approaches you act with. A **Save** is an Approach roll against a Cost the world sets — **`2d6 +` the fitting Approach** against the Guide's number, a higher number for a harder danger. **Hostile magic** is not resolved here — it uses **Defend** against the caster's **cast total** (see *Defending against a spell* under Combat and [[Burners Sorcerie]]).
+There is no separate birthright to withstand a danger; you endure with the same four Approaches you act with. Outside combat, a **Defend** against a hazard is **`2d6 +` the fitting Approach** against the Guide's Cost — a higher number for a harder danger. **Hostile magic** never uses this track — it **Rolls initiative** and uses Fuel **Defend** against the caster's **cast total** (see *Defending against a spell* under Combat and [[Burners Sorcerie]]).
 
 - **Sword** — hold your feet, force a door, stay conscious under a wound.
 - **Craft** — dodge what you cannot fight: a dart, a pit, a floor giving way, a creeping poison.
@@ -512,7 +512,7 @@ The danger is being driven past 0 — each wound is a Shock Check, and downed fr
 
 *The crew fights an ogre in a working scene, Heat at 6. Aldric (Sword 1, 4 HP, chainmail (AC 3), arming sword, rotella) rolls Initiative for eight dice — one empty slot, two for the sword, four for the shield, one for his level: 6, 5, 4, 3, 2, 2, 1, 1, three of them showing 3 or 4, so his Initiative is 3. The ogre's pool runs deep, swollen by its Hit Dice and the six points of Heat, so it acts first and swings its great club, three dice for a blow worth 10. Aldric means to trade with it, and against a foe he melees he defends without limit: he spends the 6 and the 4 to cut all 10, his chainmail never tested. The 4 was a quick die, so his Initiative slips to 2. On his turn a Veteran gets two attacks; with a one-handed sword each is a single die, so he spends the 5 and the 3 for blows of 5 and 3 — 8 into the ogre, and with no 6 among them, no Spark. Fuel left: 2, 2, 1, plus the refill each round brings. Next round the ogre swings for 10 again; Aldric spends his 2, 2, 1 and the refill to cut 8, and his chainmail soaks the rest, so nothing lands — but his hand is now empty. The round after, winded, the blow arrives whole: 10 less 3 for chainmail is 7, and with 4 HP he is driven to -3, a leg Wound that leaves him prone. His Shock Check — 2d6 + Sword against that wound-depth of 3 — beats it, so he stays on his feet, but his dice are gone. Finish it or fold.*
 
-Control magic works through the same **Defend** economy as damage: charm, sleep, fear, and maze apply **net pressure** to HP — in combat and out of it. At **0 HP or below**, full control; still above 0, partial; fully defended, none. Pure mind-work ignores armor; you spend Fuel to resist, not plate. Those states recover when the working ends or is broken — unlike a killing wound, control is not final death.
+Control magic uses the same **Defend** economy as damage, but lands as an **effect**, not HP pressure: charm, sleep, fear, maze. Fully defended: none. Defense fell short: full control as written, or partial only when the Guide judges an edge case. Pure mind-work ignores armor; you spend Fuel to resist, not plate. Those states recover when the working ends or is broken — unlike a killing wound, control is not final death.
 
 ### Fighting
 
@@ -590,11 +590,11 @@ So the tiering is clean and needs no new subsystem: torch the horde; deal, name,
 
 There is no defense roll to fail; when struck you commit dice from your Fuel — one to Dodge, or freely against a foe you melee or one you Block — and your armor soaks the rest (see Fighting). So lethality lives in attrition and in ambush, not in big single numbers. Your Fuel only shrinks over a fight, and when it runs dry blows arrive whole, so the danger is the turn you are winded with steel still swinging. Surprise skips the exchange, since a foe you never saw strikes a Fuel you have not rolled, which is why ambush is worth more than any weapon. Once you are past 0, blows open wounds, and each is a Shock Check to stay up as your negative HP falls toward the -12 that kills you, so it is the stack of wounds, not the passage of time, that drops or kills you. Soften foes at range, strike decisively, and break off before your dice do.
 
-**Defending against a spell.** Hostile magic uses the same Fuel economy as steel. The caster rolls the L Fuel dice spent to cast; the **cast total** is the sum of those faces. The target may **Defend** by committing Fuel dice, rolling them, and summing the faces — spent for the fight, like any defense. Compare totals: if **defense ≥ cast**, the working is fully defended; if **defense < cast**, **net pressure** (cast − defense) comes off **HP** — in combat and out of it. Armor soaks net pressure only when the effect is **physical** in the fiction (conjured blade, stone shards, a hail of metal); pure mind-work ignores AC. The player chooses whichever Approach fits; a spell may suggest one (*Defend: Sword*, *Defend: Heart*). **Physical** spell attacks follow the usual Dodge (one die), Parry, Block, and AC rules; **non-physical** workings have no one-die Dodge cap. **Control** also works through net pressure to HP: at **0 HP or below**, full control; still above 0, partial; fully defended, none. **Out of combat** with no Fuel in play: cast total **`2d6 + Sorcerie`** (or Craft for Canting), defense **`2d6 +` fitting Approach** — same math, not a free Save. Full detail in [[Burners Sorcerie]].
+**Defending against a spell.** Hostile magic uses the same Fuel economy as steel. The caster rolls at least L Fuel dice spent to cast; the **cast total** is the sum of those faces. A hostile cast where no fight is yet underway **Rolls initiative** — the caster gains no free first strike. The target may **Defend** by committing Fuel dice, rolling them, and summing the faces — spent for the fight, no cap. Compare totals: if **defense ≥ cast**, the working is fully defended; if **defense < cast**, **net pressure** (cast − defense) applies **either** HP harm **or** the spell's control/status effect — never both. Physical manifestations may be soaked by **AC** when the fiction makes the effect physical; pure mind-work ignores AC. **Warding:** a Sorcerer **adjacent** to an ally or tight group may Defend for them, committing Fuel on their behalf. **Control** is effect-only — fully defended: none; defense fell short: full or partial per the spell. Choose whichever Approach fits; a spell may suggest one (*Defend: Sword*, *Defend: Heart*). Full detail in [[Burners Sorcerie]].
 
 ## Magic
 
-Magic is prepared, not spontaneous: a Sorcerer **binds** workings into **Arcana** (one hour of study with spellbook in hand). A cast leaves the spell **active** for its duration, then **used** until cleared by sleep — it does not vanish from the focus on release. It is utility first — most spells solve problems (light, movement, control, ward); hostile magic lands through the same **Defend** economy as steel. Magic plugs into the core at two points: the Sorcerer title (Sorcerie 1) switches casting on, and a **combat cast is one Action that spends dice from your Fuel equal to the working's level** and rolls them for the cast total. The spell catalog is [[Burners Sorcerie]]; the gate-free common school **Sorcerie** holds the workings every mage knows regardless of tradition (Read Magic, Detect Magic, the Ward Pact family, and the rest).
+Magic is prepared, not spontaneous: a Sorcerer **binds** workings into **Arcana** (one hour of study with spellbook in hand). A cast leaves the spell **active** for its duration, then **used** until cleared by sleep — it does not vanish from the focus on release. It is utility first — most spells solve problems (light, movement, control, ward); hostile magic lands through the same **Defend** economy as steel. Magic plugs into the core at two points: the Sorcerer title (Sorcerie 1) switches casting on, and a **combat cast is one Action that spends at least L Fuel dice (L = the spell's level)** and rolls them for the cast total. The spell catalog is [[Burners Sorcerie]]; the gate-free common school **Sorcerie** holds the workings every mage knows regardless of tradition (Read Magic, Detect Magic, the Ward Pact family, and the rest).
 
 The full rules of magic — the Sorcerer gate, Arcana and binding, spellbooks, ritual, the cast, Defend against hostile workings, and Reading Magic — live with the catalog on the **[[Burners Sorcerie]]** page; only a Sorcerer (or a Journeyman casting Canting) needs them. At the table everyone needs just two things: how a spell hits you (*Defending against a spell*, under Combat) and the quick reference below.
 
@@ -615,15 +615,15 @@ WHO     Sorcerer (Sorcerie 1+); Journeyman+ (Craft 1+) for Canting
 WHAT    school spells ([[Burners Sorcerie]]), by level
 WHERE   bound into Arcana (capacity = the Arcana's Level); book present to bind
 WHEN    bind or replace = 1 hour + book; used slots clear after 8 hours' sleep
-HOW     combat cast = one Action spending L Fuel dice, rolled for cast total; slot → active → used
-DEFEND  in combat: Fuel dice vs cast total → net pressure to HP; OOC: 2d6 + Approach vs 2d6 + Sorcerie/Craft
+HOW     combat cast = one Action spending at least L Fuel dice, rolled for cast total; Spark → up to L extra Fuel; slot → active → used
+DEFEND  hostile magic: Roll initiative if needed; Fuel dice vs cast total (no cap); HP harm OR effect, not both; Warding for adjacent allies
 ROLL    out of combat, 2d6 + Sorcerie; +1 die if legendary Arcana
 LIMITS  learn ≤ Sorcerie · bind ≤ Arcana Level · no HP-fuel · no spell-Signatures
 ```
 
 ## Lingering Costs: Poison, Petrification, Paralysis
 
-These are not save-or-die but a deadly countdown. A clean Save avoids the bite — the fitting Approach against its Cost, Craft against poison (see Saves). Once it lands, it deals its level in damage to your HP each round for a number of rounds equal to its level, with no further defense. You escape it with a cure (an antidote, a Vitae working) or by surviving the duration. Past 0 HP it wounds each round — deepening your negative tally like any wound — or petrifies or paralyzes as the effect dictates, a state that recovers. The Guide rolls nothing, and the dread does the work.
+These are not instant-death but a deadly countdown. A clean **Defend** avoids the bite — the fitting Approach against its Cost, Craft against poison (see Defend). Once it lands, it deals its level in damage to your HP each round for a number of rounds equal to its level, with no further defense. You escape it with a cure (an antidote, a Vitae working) or by surviving the duration. Past 0 HP it wounds each round — deepening your negative tally like any wound — or petrifies or paralyzes as the effect dictates, a state that recovers. The Guide rolls nothing, and the dread does the work.
 
 ## Area Effects
 

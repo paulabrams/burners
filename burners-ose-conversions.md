@@ -230,11 +230,158 @@ That enchantment is the **+1** the module promised — never a bigger number on 
 
 Record them like **Trait Signatures** (see *Signatures* in [[Burners Adventure Game]]): each power you have **found** earns an asterisk on the item line and a footnote at the bottom of the gear block. A **+1** item gets one `*`; a **+2** gets `*` and `**` as each tier is discovered. The Guide knows every power from conversion; the player learns them in play — a sage's appraisal, the blade humming near undead, a Sweet hit that binds a foe for the first time — then writes the footnote.
 
-| Tier | Scope | Examples (pick or invent one) |
+| Tier | Scope |
+|---|---|
+| **+1** | Passive or **once per fight** — OSE *sensory* powers, light tricks, faint Bane hints |
+| **+2** | **Once per session** or a stronger passive — OSE named sword powers (flaming, charm, locate), stronger Bane |
+| **+3+** | **Once per delve** or campaign-scoped — OSE *extraordinary* powers toned down, special-purpose edges; not wishes or energy drain |
+
+#### OSE reference (magic swords)
+
+OSE treasure swords ([SRD: Swords](https://oldschoolessentials.necroticgnome.com/srd/index.php/Swords)) layer three kinds of bonus:
+
+1. **The plus** — attack and damage bonus → Burners **enchanted** (bonus die; no to-hit).
+2. **Bane vs type** — *"+2 vs lycanthropes"*, *"+3 vs undead"* → a **+1-tier** or **+2-tier** power that **ignores Resistance** (or reads as **silver**) vs that quarry — not a bigger number.
+3. **Named power** — *flaming*, *light*, *locate objects*, *charm person*, *energy drain*, *wishes* → assign to **+1 / +2 / +3** tiers by potency (below).
+
+**Sentient swords** (30% of magic swords; [SRD: Sentient Swords](https://oldschoolessentials.necroticgnome.com/srd/index.php/Sentient_Swords)) are a **separate layer**: roll INT, Ego, alignment, sensory and extraordinary powers, optional special purpose. Use that procedure only when the module implies personality, control checks, or speech — not for every *+1 longsword*. A sentient blade still converts **enchanted + powers** first; add INT/Ego and the sensory/extraordinary tables on top.
+
+OSE **armor and shields** in treasure are usually plain **+n** with no second power ([Treasures: Armour and Shields](https://oldschoolessentials.necroticgnome.com/srd/index.php/Armour_and_Shields)). Invent **+1 / +2** powers from the suggestions below, or steal a sensory or protection theme from rings and cloaks in the same book.
+
+#### Suggested powers by tier
+
+Pick one per tier, or roll **d12** on the column. Re-roll duplicates. Route OSE text directly when the module names the power (*Sword +1, Flaming* → take the **+1-tier** fire row and the **+2-tier** anti-troll/plant row as `*` and `**`).
+
+**Weapons — +1-tier** *(OSE sensory / faint Bane)*
+
+| d12 | Power | OSE root |
 |---|---|---|
-| **+1** | Passive or **once per fight** | Never notches; reads as **silver** vs Resistance; faint glow near undead; warns with a chill when hostile magic is cast nearby; oil stays keen through one crawl |
-| **+2** | **Once per session** or a stronger passive | On a Sweet hit, **bind** the foe's weapon once without a separate maneuver; ignore **1 point of Resistance** from mundane armor only; shed one **lingering Cost** (poison, chill) once; shield **Block** softens a breath you could not fully ward |
-| **+3+** | **Once per delve** or campaign-scoped | Sense the item's named **Bane** quarry within a mile; one automatic **Spark** per delve when you would roll a 5; armor closes one **called-shot gap** once per delve; ward one hostile spell completely once per delve |
+| 1 | **Bane-hint** — hums or chills within 20' of the named quarry (undead, lycanthropes, dragons, spellcasters, enchanted things); does not bypass Resistance until the **+2** power is found | *+2/+3 vs type* |
+| 2 | **Silver-edge** — counts as **silver** vs Resistance once per fight | *vs lycanthropes* |
+| 3 | **Detect magic** — on command, magic within 20' may be made to glow; 3×/day | *sensory: detect magic* |
+| 4 | **Detect trap** — sense traps within 10'; 3×/day | *sensory: detect traps* |
+| 5 | **Secret door** — find secret doors within 10'; 3×/day | *sensory: locate secret doors* |
+| 6 | **Light** — 30' light on command | *Sword +1, Light* |
+| 7 | **Never notches** — **Trusty**; will not stick or fail on a Spicy | *fine steel* |
+| 8 | **See invisible** — see invisible within 20' while drawn | *sensory: see invisible* |
+| 9 | **Detect metal** — points to a named metal within 60' (lead blocks) | *sensory: detect metals* |
+| 10 | **Slope-sense** — feel sloped floors within 10' | *sensory: detect slopes* |
+| 11 | **Gem-sense** — points toward gems within 60'; counts them (lead blocks) | *sensory: detect gems* |
+| 12 | **Alignment tingle** — sense hostile intent within 20' (not traps or beasts) | *sensory: detect evil/good* |
+
+**Weapons — +2-tier** *(OSE named sword powers / stronger Bane)*
+
+| d12 | Power | OSE root |
+|---|---|---|
+| 1 | **Bane-forged** — **ignores Resistance** vs the named quarry (undead, dragons, regenerating foes, enchanted creatures, spellcasters) | *+3 vs type* |
+| 2 | **Flaming** — blade ignites on command; once per session, +1 effective blow die vs trolls, plant-things, or undead while lit | *Sword +1, Flaming* |
+| 3 | **Locate object** — once per day, sense one named object-type within 120' | *Sword +1, Locate Objects* |
+| 4 | **Charm** — once per week, a **Control** working (Heart vs Heart) on one touched foe — net pressure, not puppetry | *Sword +2, Charm Person* |
+| 5 | **Bind on Sweet** — once per session, a Sweet hit **binds** the foe's weapon without a maneuver | *Binding tag* |
+| 6 | **Healing edge** — once per day, while held, heal 1 HP per round for 6 rounds (combat counts) | *extraordinary: healing, toned down* |
+| 7 | **Feint ward** — once per fight, ignore **1 point of Resistance** from mundane armor only | *extra damage, toned down* |
+| 8 | **Missile ward** — once per session, **Block** softens a breath or area effect you could not fully ward (half net pressure) | *shield crossover* |
+| 9 | **Purging blow** — once per session, shed one **lingering Cost** on yourself (poison, chill, fear) when you draw blood | *paladin-flavor* |
+| 10 | **Shifting sense** — locate shifting walls or rooms within 10' | *sensory: shifting architecture* |
+| 11 | **Telekinetic tug** — once per session, **Stunt** at range to disarm or trip (one die, no attack) | *extraordinary: telekinesis, toned down* |
+| 12 | **Purpose sting** — vs the sword's designated quarry, on a Sweet hit the foe must pass a **Save** or suffer a brief **Control** (prone, drop weapon, or flee — Guide picks) | *special purpose alignment power, toned down* |
+
+**Weapons — +3-tier** *(OSE extraordinary / special purpose — still not a relic)*
+
+| d12 | Power | OSE root |
+|---|---|---|
+| 1 | **Deep Bane** — **ignores Resistance** vs quarry; once per delve, a killing blow on-quarry cannot be shrugged off (no instant death — drives to **0 HP** and holds) | *special purpose* |
+| 2 | **Draining nick** — once per delve, a Sweet hit on a living foe costs them **1 HP from their maximum** until cured by rest (not OSE level drain) | *energy drain, heavily toned down* |
+| 3 | **Spark on 5** — once per delve, treat a rolled **5** as a **Spark** | *extra damage, one shot* |
+| 4 | **Ward spell** — once per delve, fully **Defend** one hostile spell (compare totals) | *protection from magic* |
+| 5 | **Clairvoyant strike** — once per delve, before one blow, the Guide answers one yes/no about the target's guard or intent | *clairvoyance, toned down* |
+| 6 | **X-ray sweep** — once per delve, one 10' square searched: secret doors and traps revealed | *x-ray vision search* |
+| 7 | **Levitation grip** — once per delve, ignore a fall or cross a gap on the blade's will | *levitation, toned down* |
+| 8 | **Illusion veil** — once per delve, throw a brief **phantasm** (distraction, not damage) | *illusion* |
+| 9 | **Teleport step** — once per delve, blink 30' you can see | *teleportation, heavily toned down* |
+| 10 | **Neutral blessing** — while drawn, **+1** to all **Saves** for the scene (once per delve) | *neutral special purpose* |
+| 11 | **Paralyzing sting** — once per delve vs quarry, Sweet hit → **Save** or **Control** to prone/stiffen 2d6 rounds | *lawful special purpose, toned down* |
+| 12 | **Petrifying sting** — once per delve vs lawful quarry, Sweet hit → **Save** or **Control** (stone-slow: half move, no Dodge) 1 round | *chaotic special purpose, heavily toned down* |
+
+**Shields — +1-tier**
+
+| d12 | Power |
+|---|---|
+| 1 | Boss never splinters on a Spicy |
+| 2 | Faint **silver** gleam when undead or lycanthropes near |
+| 3 | Warn with a chill when a missile is aimed at you (once/fight, +1 to **Dodge** vs that shot) |
+| 4 | Shed mud, ice, or blood instantly — never slippery |
+| 5 | **Detect magic** 3×/day within 20' while raised |
+| 6 | Mirror-bright; reflects gaze attacks once/fight at **Save** |
+| 7 | Holy symbol etched inside — turn undead once/session at **Heart** |
+| 8 | Arrow notch — first arrow each fight **Defended** as if one extra die spent |
+| 9 | Rally flash — ally in front facing gains +1 on next **Morale** check |
+| 10 | Boss rings when struck by magic |
+| 11 | Never heavy — counts as one slot less for encumbrance fiction only |
+| 12 | **Light** on command in a 10' radius |
+
+**Shields — +2-tier**
+
+| d12 | Power |
+|---|---|
+| 1 | **Block** once/session extends to an ally behind you without spending an attack |
+| 2 | **Block** softens a breath or area effect at half net pressure |
+| 3 | **Bane-rim** — **ignores Resistance** for one Block vs the named quarry |
+| 4 | Once/session, **bind** an attacker's weapon on a successful **Block** |
+| 5 | Once/session, **Stunt** shove without spending an attack (foe your size or less) |
+| 6 | Catch missile — one ranged hit per session cut to 0 before armor |
+| 7 | **Ward** — first hostile spell each delve at you is **Defended** with +1 die |
+| 8 | **Phalanx** — while braced, allies in facing gain your shield's **size** for **Block** fiction |
+| 9 | Shed **lingering Cost** once/session when you take a blow on the shield |
+| 10 | **Purify** — holy water splash from the boss once/day |
+| 11 | **Missile magnet** — archers in front facing suffer −1 effective blow die once/fight |
+| 12 | **Second cover** — one ally per session may **Dodge** using your shield die |
+
+**Armor — +1-tier**
+
+| d12 | Power |
+|---|---|
+| 1 | Comfortable as cloth — no **fatigue** tick from the harness alone |
+| 2 | **Fire-kind** — resist mundane fire; first burn each fight −1 net pressure |
+| 3 | **Cold-kind** — first cold/chill **Cost** each delve halved |
+| 4 | Quiet — no penalty to stealth from armor noise |
+| 5 | **Detect evil/good** within 10' while worn |
+| 6 | **Gemsense** — wearer knows if gems within 30' (lead blocks) |
+| 7 | **Silvered** — one location (gauntlets, gorget) counts as silver vs Resistance |
+| 8 | **Called-shot gap** closed for **head** or **hands** (pick at identification) |
+| 9 | Harness never traps you — free escape from grapple once/fight |
+| 10 | **Light** — breastplate or helm glows 10' on command |
+| 11 | **Trusty** — straps and buckles never fail on a Spicy |
+| 12 | **Bane-stitch** — hums near the named quarry |
+
+**Armor — +2-tier**
+
+| d12 | Power |
+|---|---|
+| 1 | **Bane-mail** — **ignores Resistance** from one blow per session vs quarry |
+| 2 | **Ward** — first hostile spell each delve: **Defend** with +1 die |
+| 3 | **Soak trick** — once/session, treat AC as **+1** vs one blow |
+| 4 | **Close the gap** — once/delve, ignore one **called shot** to an uncovered location |
+| 5 | **Shed Cost** — lose one **lingering Cost** when you reach **full HP** |
+| 6 | **Shock cushion** — once/session, **Shock Check** at **+1** |
+| 7 | **Fire ward** — mundane fire does not linger on the harness |
+| 8 | **Missile turn** — first missile each session **Defended** as +1 die |
+| 9 | **Heroic stand** — at **0 HP**, stay standing one round once/delve (then Shock as normal) |
+| 10 | **Anti-magic weave** — **Resistance 1** vs hostile magic where covered |
+| 11 | **Regenerating foe** — once/session, cancel one "heals next round" on a foe you wounded |
+| 12 | **Purpose guard** — vs quarry, first Wound each delve reduced by 1 HP depth |
+
+**Module text cheat sheet**
+
+| OSE says | Burners |
+|---|---|
+| Sword +1 | Enchanted only, or enchanted + roll **+1-tier** |
+| Sword +1, +3 vs Undead | Enchanted · `*` Bane-hint undead · `**` Bane-forged vs undead |
+| Sword +1, Flaming | Enchanted · `*` Light or fire-hint · `**` Flaming |
+| Sword +2 | Enchanted · `*` + `**` (two rolls) |
+| Sword +2, Charm Person | Enchanted · `*` (roll) · `**` Charm |
+| Sword +3 | Enchanted · three tiers (roll or design) — consider 2d6 relic |
+| Shield/Armour +n | Enchanted · powers per **n** (shields/armor tables) |
 
 **Sheet example — +2 arming sword, both powers found:**
 

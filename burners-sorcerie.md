@@ -252,7 +252,7 @@ Permanency — *make a working last*
 
 ### Vitae
 
-Life force, growth, and harmony. The magic of the Elves, written in living ink that grows and changes like vines.
+Life force, growth, and harmony. The magic of the Elves, written in living ink that grows and changes like vines. The hallow channel beneficial energies, promote growth, and keep nature's balance.
 
 #### Vitae Level 1
 
@@ -310,7 +310,7 @@ Vital Harmony — *balance life forces*
 
 ### Elementale
 
-Primal forces, elements, and weather. The Baal inscribe dragon magic in burning runes carved in stone.
+Primal forces, elements, and weather. The Baal inscribe dragon magic in burning runes carved in stone. Practitioners control weather, create barriers of ice and fire, command gravity, and shape elements.
 
 #### Elementale Level 1
 
@@ -368,7 +368,7 @@ Zephyr — *ride the winds*
 
 ### Thaumaturgy
 
-Physical laws, mechanisms, and force. The engineering magic of the Dwur, written in foundational runes that command reality.
+Physical laws, mechanisms, and force. The engineering magic of the Dwur, written in foundational runes that command reality. Practitioners control objects, manipulate energy, bind powers, and impose their will upon matter.
 
 #### Thaumaturgy Level 1
 
@@ -426,7 +426,7 @@ Thaumaturgic Seal — *master rune*
 
 ### Illusione
 
-Perception, thought, and dreams. The subtle magic of the Belerions, woven from phantasmal scripts that deceive the senses.
+Perception, thought, and dreams. The subtle magic of the Belerions, woven from phantasmal scripts that deceive the senses. Illusionists create illusions, alter memories, influence minds, and bend perceived reality.
 
 #### Illusione Level 1
 
@@ -484,7 +484,7 @@ True Seeing — *pierce deception*
 
 ### Umbrakala
 
-Shadows, thresholds, and dimensional paths. The secret magic of the Alu, written in darkness and void.
+Shadows, thresholds, and dimensional paths. The secret magic of the Alu, written in darkness and void. Practitioners create Kalla gates, walk between shadows, craft dimensional spaces, and traverse the boundaries between realms.
 
 #### Umbrakala Level 1
 
@@ -542,7 +542,7 @@ Void Shield — *dark protection*
 
 ### Necromantia
 
-Death, spirits, and decay. The forbidden magic of the Avathars, inscribed in blood and bone.
+Death, spirits, and decay. The forbidden magic of the Avathars, inscribed in blood and bone. Practitioners bind spirits, animate dead, drain life force, and manipulate the boundary between life and death.
 
 #### Necromantia Level 1
 
@@ -600,7 +600,7 @@ Soul Rend — *tear spirit*
 
 ### Canting
 
-Deception and manipulation in Thieves' Cant — flash papers and brotherhood marks. If you can't flash the patter, stay out of the Darkmans.
+The art of deception and manipulation. Spoken in Thieves' Cant, the secret language of thieves, written in flash papers and brotherhood marks. If you can't flash the patter, best stay out of the Darkmans.
 
 #### Canting Level 1
 
@@ -1129,7 +1129,7 @@ Thaumaturgy 3: Repair one broken mundane object up to chair-size; magical items 
 
 #### Mind Shatter
 
-Umbrakala 3: Psychic — ignores Resistance. Defend; overrun to HP (− Resistance) **or** stunned 1 turn if defense < cast (not both).
+Umbrakala 3: Psychic — ignores Resistance. Defend; overrun to HP **or** stunned 1 turn if defense < cast (not both).
 
 #### Mirror Image
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Burners Examples of Play"
-hero: /images/gameplay.png
+hero: /images/albert-robida-pd/travelers-on-the-road.png
 hero_alt: "Travelers on the road — Albert Robida"
 ---
 

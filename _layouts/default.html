@@ -113,16 +113,25 @@
       .breadcrumb a:hover {
         text-decoration: underline;
       }
+
+      .page-hero {
+        display: block;
+        width: auto;
+        max-width: 100%;
+        height: auto;
+        margin: 0 auto 1.5rem;
+        border-radius: 0.5rem;
+      }
     </style>
   </head>
   <body>
     <div class="container">
       {% if page.hero %}
-      <p>
+      <p style="text-align: center; margin-bottom: 0">
         <img
+          class="page-hero"
           src="{{ page.hero | relative_url }}"
           alt="{{ page.hero_alt | default: page.title }}"
-          style="width: 100%; border-radius: 0.5rem; margin-bottom: 1.5rem"
         />
       </p>
       {% endif %}

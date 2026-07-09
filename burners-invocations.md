@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Burners Invocations"
-hero: /images/oracle_intro.png
+hero: /images/henry-justice-ford-pd/kynon-meets-black-master-of-beasts.png
 hero_alt: "Kynon meets the Black Master of the Beasts — H. J. Ford"
 ---
 

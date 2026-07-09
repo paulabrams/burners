@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Burners Arms and Armor"
-hero: /images/robida-crossbow-ambush.jpg
+hero: /images/albert-robida-pd/crossbow-ambush-in-street.jpg
 hero_alt: "Crossbowmen in the street — Albert Robida"
 ---
 
@@ -9,7 +9,7 @@ hero_alt: "Crossbowmen in the street — Albert Robida"
 
 *The complete **Advanced Assets** section (Signatures, Secrets, weapons, armor, shields, and magic/Eldar items) imported from **Legends of the Dragon Isles RPG**, for use with Burners (see [[Burners Adventure Game]]). This is the optional expanded catalog; the lean starting buy-list with slots and prices lives in [[Burners Equipment]]. Faithful to the source; structural run-together lines split, light typo fixes only.*
 
-> **Reading the numbers in Burners.** This is a Legends catalog: **Class** (weapons) and **size** (shields) are comparison stats — Weapon Class vs Armor Class, or shield size vs a blow, for ±1 damage in Legends. **Slots** are the Burners stat: inventory space and dice on the Initiative roll (see [[Burners Adventure Game]] and [[Burners Equipment]]). Class and Slots are listed separately because they are not always the same (a military **Dagger** is Class2 but 1 slot; a **Mace** is Class3 but 2 slots). Armor is not read piece-by-piece here; the pieces map onto the core's **suits** (AC and slots in [[Burners Equipment]]). An enchantment, or a **Tuned** edge, is worth **+1 die in your Call pool**, never a bigger number. Import Legends' names, tags, and flavor wholesale; assign **Slots** from the lean list where an item appears there, otherwise by the same bulk/handiness ladder.
+> **Reading the numbers in Burners.** This is a Legends catalog: **Class** (weapons) and **size** (shields) are comparison stats — Weapon Class vs Armor Class, or shield size vs a blow, for ±1 damage in Legends. **Slots** are the Burners stat: inventory space and dice on the Initiative roll (see [[Burners Adventure Game]] and [[Burners Equipment]]). Class and Slots are listed separately because they are not always the same (a military **Dagger** is Class2 but 1 slot; a **Mace** is Class3 but 2 slots). Armor maps onto the core's **suits** (AC and slots in [[Burners Equipment]]). Enchantment — see [[Burners Principles#Armor and Resistance soak; they never roll]]. Import Legends' names, tags, and flavor wholesale; assign **Slots** from the lean list where an item appears there, otherwise by the same bulk/handiness ladder.
 >
 > *Era guide:* Northmarens run early-medieval arms & armor, Southmarens late-medieval/early-Renaissance, the Eldar exotic and magical.
 >

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Burners Adventure Game"
-hero: /images/free-fight-1600.jpeg
+hero: /images/albert-robida-pd/free-fight-outside-walls.jpeg
 hero_alt: "Free fight outside the walls — Albert Robida"
 ---
 
@@ -135,13 +135,13 @@ Burners is a fast-paced adventure game of happy go lucky heroes in the style of 
 
 - **Damage:** what a monster's blow deals is the faces of the dice it commits, which you cut with your defense and armor. Its Hit Dice and the scene's Heat set how deep a pool the Guide rolls for it. Situations can add to a blow (surprise, flanking, high ground).
 
-- **Resistance:** flat damage reduction against a named kind of harm (blades, fire, magic). Usually 0; only the truly hard to hurt carry it.
+- **Resistance:** flat damage reduction against a named kind of harm. See [[Burners Principles#Armor and Resistance soak; they never roll]].
 
 ---
 
 ## Defend
 
-There is no separate birthright to withstand a danger; you endure with the same four Approaches you act with. Outside combat, a **Defend** against a hazard is **`2d6 +` the fitting Approach** against the Guide's Cost — a higher number for a harder danger. Hostile magic never uses this track — it rolls initiative and uses Fuel Defend against the caster's cast total (see *Defending against a spell* under Combat and [[Burners Sorcerie]]).
+See [[Burners Principles#Granular defense, not binary save]]. There is no separate birthright to withstand a danger; you endure with the same four Approaches you act with. Outside combat, a **Defend** against a hazard is **`2d6 +` the fitting Approach** against the Guide's Cost. Hostile magic uses Fuel Defend against the caster's cast total (see *Defending against a spell* under Combat and [[Burners Sorcerie]]).
 
 - **Sword** — hold your feet, force a door, stay conscious under a wound.
 - **Craft** — dodge what you cannot fight: a dart, a pit, a floor giving way, a creeping poison.
@@ -403,9 +403,7 @@ Write the footnotes at the bottom of the gear block, the way Pip's stealth Signa
 
 ### Two Engines
 
-The World Engine is how the world behaves on its own terms. The Guide owns it; people, monsters, and places have a nature that does not bend to a wish. The Hero Engine is how you act: you say what you do and roll for what it costs.
-
-Player skill decides whether the world bends; your Approach decides only how much effect you have. A good idea, well told, makes things happen. Your sheet makes them happen harder. It never makes the impossible possible.
+See [[Burners Principles#Two engines]]. The Guide owns the World Engine; you own the Hero Engine — say what you do, roll for what it costs.
 
 ### The Two Steps
 
@@ -421,7 +419,7 @@ A risky deed does not simply fail. It has a Cost, which is usually a bump of Hea
 
 #### No Roll Is Free
 
-The dice come out only when a price is on the table, so the dice are the line between the free plan and the costly one. You roll for one of two reasons, and they are independent. You roll to soften a Cost the world is charging you, or you roll to see how well an uncertain action turns out. A safe and certain action just happens, with no roll.
+See [[Burners Principles#Two engines]] — *Dice only when there is a price.* You roll to soften a Cost the world is charging you, or to see how well an uncertain action turns out.
 
 ### Approach Roll
 
@@ -544,7 +542,7 @@ The danger is being driven past 0 — each wound is a Shock Check, and downed fr
 
 *The crew fights an ogre in a working scene, Heat at 6. Aldric (Sword 1, 4 HP, chainmail (AC 3), arming sword, rotella) rolls Initiative for eight dice — one empty slot, two for the sword, four for the shield, one for his level: 6, 5, 4, 3, 2, 2, 1, 1, three of them showing 3 or 4, so his Initiative is 3. The ogre's pool runs deep, swollen by its Hit Dice and the six points of Heat, so it acts first and swings its great club, three dice for a blow worth 10. Aldric means to trade with it, and against a foe he melees he defends without limit: he spends the 6 and the 4 to cut all 10, his chainmail never tested. The 4 was a quick die, so his Initiative slips to 2. On his turn a Veteran gets two attacks; with a one-handed sword each is a single die, so he spends the 5 and the 3 for blows of 5 and 3 — 8 into the ogre, and with no 6 among them, no Spark. Fuel left: 2, 2, 1, plus the refill each round brings. Next round the ogre swings for 10 again; Aldric spends his 2, 2, 1 and the refill to cut 8, and his chainmail soaks the rest, so nothing lands — but his hand is now empty. The round after, winded, the blow arrives whole: 10 less 3 for chainmail is 7, and with 4 HP he is driven to -3, a leg Wound that leaves him prone. His Shock Check — 2d6 + Sword against that wound-depth of 3 — beats it, so he stays on his feet, but his dice are gone. Finish it or fold.*
 
-Control magic uses the same **Defend** economy as damage, but lands as an **effect**, not HP pressure: charm, sleep, fear, maze. Fully defended: none. Defense fell short: full control as written, or partial only when the Guide judges an edge case. Pure mind-work ignores armor; you spend Fuel to resist, not plate. Those states recover when the working ends or is broken — unlike a killing wound, control is not final death.
+Control magic uses the same **Defend** economy as damage but lands on the **effect** lane, not HP — see [[Burners Principles#Harm and effect are separate lanes]] and *Defending against a spell* in [[Burners Sorcerie]].
 
 ### Fighting
 
@@ -582,7 +580,7 @@ Range and reach buy safety: a far arrow risks nothing until the enemy closes, so
 
 ### Armor
 
-Armor is what you wear, and it soaks on the way in: its AC comes off every blow before the blow reaches your HP. It never rolls and never enters the exchange as a die; it is simply subtracted. Armor keeps you from being worn down, not from being cut once you are down, so a well-armored fighter loses HP slowly, and the Wound he takes past 0 is raw.
+See [[Burners Principles#Armor and Resistance soak; they never roll]]. Armor is what you wear; its AC comes off every blow before HP.
 
 - AC by make, one number from 1 to 5: leather 1, a padded gambeson 2, chainmail 3, plated mail and field plate 4, full plate 5. Better armor is dearer and, at the top, better fitted, so a master-made harness carries its weight on the body and field plate rides lighter than plated mail for the same proof. Protection tracks coin, not weight.
 
@@ -620,13 +618,13 @@ So the tiering is clean and needs no new subsystem: torch the horde; deal, name,
 
 ### Defending against Damage
 
-There is no defense roll to fail; when struck you commit dice from your Fuel — one to Dodge, or freely against a foe you melee or one you Block — and your armor soaks the rest (see Fighting). So lethality lives in attrition and in ambush, not in big single numbers. Your Fuel only shrinks over a fight, and when it runs dry blows arrive whole, so the danger is the turn you are winded with steel still swinging. Surprise skips the exchange, since a foe you never saw strikes a Fuel you have not rolled, which is why ambush is worth more than any weapon. Once you are past 0, blows open wounds, and each is a Shock Check to stay up as your negative HP falls toward the -12 that kills you, so it is the stack of wounds, not the passage of time, that drops or kills you. Soften foes at range, strike decisively, and break off before your dice do.
+There is no defense roll to fail; when struck you commit dice from your Fuel and your armor soaks the rest (see Fighting). See [[Burners Principles#Attrition, not spike damage]] for why lethality lives in attrition and ambush, not big single numbers. Soften foes at range, strike decisively, and break off before your dice do.
 
-**Defending against a spell.** Hostile magic uses the same Fuel economy as steel. The caster rolls at least L Fuel dice spent to cast; the **cast total** is the sum of those faces. A hostile cast where no fight is yet underway rolls initiative — the caster gains no free first strike. The target may Defend by committing Fuel dice, rolling them, and summing the faces — spent for the fight, no cap. Compare totals: if defense ≥ cast, the working is fully defended; if defense < cast, the **overrun** (cast − defense) deals the spell's harm to HP *or* takes its hold — never both. Damage is 1:1 — each point of overrun is one HP (then AC and Resistance where they apply). A physical working — conjured blade, stone shards — may be soaked by AC; pure mind-work ignores it. **Warding:** a Sorcerer adjacent to an ally or tight group may Defend for them, committing Fuel on their behalf. **Control** never chips HP — it lands or it doesn't: fully defended, nothing; defense fell short, full or partial per the spell. Choose whichever Approach fits; a spell may suggest one (*Defend: Sword*, *Defend: Heart*). Full detail in [[Burners Sorcerie]].
+**Defending against a spell.** Hostile magic uses Fuel Defend against the caster's **cast total** — same economy as steel. See [[Burners Principles#Granular defense, not binary save]] and [[Burners Principles#Harm and effect are separate lanes]]. Full procedure: *Defending against a spell* in [[Burners Sorcerie]].
 
 ## Magic
 
-Magic is prepared, not spontaneous: a Sorcerer **binds** workings into **Arcana** (one hour of study with spellbook in hand). A cast leaves the spell active for its duration, then used until cleared by sleep — it does not vanish from the focus on release. It is utility first — most spells solve problems (light, movement, control, ward); hostile magic lands through the same Defend economy as steel. Magic touches the rest of the game in two places: the Sorcerer title (Sorcerie 1) switches casting on, and a combat cast is one Action that spends at least L Fuel dice (L = the spell's level) and rolls them for the cast total. The spell catalog is [[Burners Sorcerie]]; the gate-free common school Sorcerie holds the workings every mage knows regardless of tradition (Read Magic, Detect Magic, the Ward Pact family, and the rest).
+Magic is prepared, not spontaneous: a Sorcerer **binds** workings into **Arcana** (one hour of study with spellbook in hand). A cast leaves the spell active for its duration, then used until cleared by sleep. Hostile magic lands through the same Defend economy as steel (see [[Burners Principles]]). Magic touches the rest of the game in two places: the Sorcerer title (Sorcerie 1) switches casting on, and a combat cast is one Action that spends at least L Fuel dice (L = the spell's level) and rolls them for the cast total. The spell catalog is [[Burners Sorcerie]]; the gate-free common school Sorcerie holds the workings every mage knows regardless of tradition (Read Magic, Detect Magic, the Ward Pact family, and the rest).
 
 The full rules of magic — the Sorcerer gate, Arcana and binding, spellbooks, ritual, the cast, Defend against hostile workings, and Reading Magic — live with the catalog on the **[[Burners Sorcerie]]** page; only a Sorcerer (or a Journeyman casting Canting) needs them. At the table everyone needs just two things: how a spell hits you (*Defending against a spell*, under Combat) and the quick reference below.
 
@@ -649,11 +647,11 @@ LIMITS  learn ≤ Sorcerie · bind ≤ Arcana Level · no HP-fuel · no spell-Si
 
 ## Lingering Costs: Poison, Petrification, Paralysis
 
-These are not instant-death but a deadly countdown. A clean **Defend** avoids the bite — the fitting Approach against its Cost, Craft against poison (see Defend). Once it lands, it deals its level in damage to your HP each round for a number of rounds equal to its level, with no further defense. You escape it with a cure (an antidote, a Vitae working) or by surviving the duration. Past 0 HP it wounds each round — deepening your negative tally like any wound — or petrifies or paralyzes as the effect dictates, a state that recovers. The Guide rolls nothing, and the dread does the work.
+See [[Burners Principles#No instant death]]. A clean **Defend** avoids the bite — the fitting Approach against its Cost, Craft against poison (see Defend). Once it lands, it deals its level in damage to your HP each round for a number of rounds equal to its level, with no further defense. You escape it with a cure (an antidote, a Vitae working) or by surviving the duration. Past 0 HP it wounds each round — deepening your negative tally like any wound — or petrifies or paralyzes as the effect dictates, a state that recovers. The Guide rolls nothing, and the dread does the work.
 
 ## Area Effects
 
-An area effect from a **monster** — a dragon's breath, a collapsing ceiling — is often the blow you cannot slip. Counter it by raising a shield (a legendary shield is broad), by having a caster ward it (an Action and a bump of Heat, cutting the top off for everyone), by cover, or by resistance. The Guide telegraphs it ("its chest glows") so warding is a choice, not a death sentence. A **spell** area effect uses **Defend** and overrun like any other hostile working (see *Defending against a spell*).
+See [[Burners Principles#Telegraph the unwinnable]]. Counter a monster breath by raising a shield (a legendary shield is broad), by having a caster ward it (an Action and a bump of Heat, cutting the top off for everyone), by cover, or by resistance. A **spell** area effect uses **Defend** and overrun like any other hostile working (see *Defending against a spell* in [[Burners Sorcerie]]).
 
 ## Removal and One-Shots
 
@@ -661,9 +659,9 @@ There are two routes to taking a foe out, both through HP: attrition, chipping t
 
 ## Influence
 
-There is no Persuade roll, because there is no roll for whether the world bends; that is Step 1. Ask the jailer to free the prisoners against his duty and it simply fails. Bribe him to look away and it works, at the cost of the gold or a Spicy twist, and a good read earns the edge on how well. Turn the cultists on each other and you must first manufacture the wedge, then it tips.
+See [[Burners Principles#Two engines]] — there is no Persuade roll for whether the world bends; that is Step 1. Ask the jailer to free the prisoners against his duty and it simply fails. Bribe him to look away and it works, at the cost of the gold or a Spicy twist, and a good read earns the edge on how well. Turn the cultists on each other and you must first manufacture the wedge, then it tips.
 
-Disposition is a fact of the world, which the Guide may roll on the Reaction table (see [[Burners Referee Guide]]). Heart amplifies a success the fiction already grants; it never manufactures an impossible one. Social costs (coin, favor, time, reputation) are open to haggling.
+Disposition is a fact of the world, which the Guide may roll on the Reaction table (see [[Burners Referee Guide]]). Heart amplifies a success the fiction already grants. Social costs (coin, favor, time, reputation) are open to haggling.
 
 ## The Boss — Leading the Company (Heart 1+)
 

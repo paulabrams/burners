@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Burners Referee Guide"
-hero: /images/character_creation.png
+hero: /images/albert-robida-pd/deal-struck-in-town-square.png
 hero_alt: "A deal struck in the town square — Albert Robida"
 ---
 
@@ -150,15 +150,13 @@ Rolling the Delve Die every Turn runs a dungeon hot: any 1 lands about a third o
 
 ## Building and Running Monsters
 
-A monster is any enemy, built on a simple stat block of Hit Dice, hide, and attacks. Its Hit Dice are its level: most humans are 0, most orcs are 1, a veteran higher. Damage can be set as a flat number, or rolled as a handful of dice for a mob (see Swarms below).
+A monster is any enemy, built on a simple stat block of Hit Dice, hide, and attacks. Its Hit Dice are its level: most humans are 0, most orcs are 1, a veteran higher. See [[Burners Principles#Pools, not fixed numbers]] for how blows work.
 
-- **The monster's pool.** A monster rolls Fuel like a character: one die per Hit Die, dice for its weapon's slots (a natural attack reads its slots off its damage die), and the scene's Heat as dice, added to the enemy side once. It spends that pool to attack, defend, Spark, and Riposte; a blow is the faces of the up-to-three dice it commits, which the player defends against and armor soaks. There is no fixed Damage number and no to-hit roll — the pool carries both how hard and how often it strikes, and the danger lives in the dice tails, low and gritty. A plus-mod lifts HP only. Danger rises with Hit Dice and Heat, countered by the party's own levels, armor, and Fuel.
+- **The monster's pool.** See [[Burners Principles#Pools, not fixed numbers]]. One die per Hit Die, dice for weapon slots, scene Heat as dice (added once per enemy side). It spends Fuel like a character; each blow is up to three committed dice, cut by defense and armor. A plus-mod lifts HP only.
 
-- **A heavy blow** is a two-handed weapon swung in a committed stroke: it adds a second die to that blow (a third if the weapon is enchanted), up to three dice — one big hit to crack armor, where a flurry of small ones wears down the unarmored.
+- **A heavy blow** is a two-handed weapon swung in a committed stroke: it adds a second die to that blow (a third if the weapon is enchanted), up to three dice.
 
-- **Resistance** is flat damage reduction against a named kind of harm, taken off the top of every hit. Most monsters have none. Reserve it for the truly hard to hurt: an iron golem shrugs off nearly any blow, a salamander resists fire but not a spear, a demon may slough off spells while cold steel still bites. Always name the scope so players can attack what it does not resist. A regenerating foe such as a troll heals each round and only stays dead to a named weakness, usually fire or acid; without it, the fight is unwinnable by arms, so flee or bring the flame.
-
-- **Hide** is natural armor: like a worn suit it soaks on the way in, its value coming off every blow before the monster's HP. Thick hide wears down slowly and shrugs small hits; a bare beast takes each blow whole.
+- **Resistance** and **hide** — see [[Burners Principles#Armor and Resistance soak; they never roll]]. Name the scope; name a weakness. A troll regenerates until fire or acid; without it, flee or bring the flame.
 
 - **HP** is 5 per Hit Die plus any modifier, kept low so fights stay short. A 1-Hit-Die orc has 5 HP and falls to a clean blow; an ogre of 4 Hit Dice plus 2 has 22. Since hide soaks every blow on the way in, chipping a thick-hided foe to 0 is slow, and the blow that drives it past 0 is its killing Wound — so a bare beast dies the moment it is driven past 0, while a hard-hided one wears down under many hits or cracks to one heavy two-handed stroke or a called shot at a gap. Toughen a foe with more Hit Dice, the modifier, natural hide, or a bigger weapon. A solo boss wants enough HP to survive the party's first-round burst. The full Wound and Shock Check rules are a grace for characters, though a named villain may use them when the scene calls for it.
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Burners Ancestry"
-hero: /images/monsters.png
+hero: /images/henry-justice-ford-pd/faithful-beasts-and-dead-prince.png
 hero_alt: "The faithful beasts — H. J. Ford"
 ---
 

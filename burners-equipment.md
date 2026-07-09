@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Burners Equipment"
-hero: /images/camping.jpg
+hero: /images/albert-robida-pd/knight-returning-with-pig-and-keg.jpg
 hero_alt: "A knight returns laden — crossbow, sword, and loot — Albert Robida"
 ---
 

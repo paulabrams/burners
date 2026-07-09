@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Burners Sorcerie"
-hero: /images/magic_items.png
+hero: /images/henry-justice-ford-pd/wizard-with-enchanted-book.png
 hero_alt: "The wizard and his book — H. J. Ford"
 ---
 
@@ -42,9 +42,9 @@ To work magic you must be a **Sorcerer — Sorcerie 1 or higher.** Below that yo
 
 Each entry in the catalog below has a name, level, and effect — run it as written unless this chapter, the spell list, or the Guide says otherwise. Where a spell's effect must mesh with combat:
 
-- **HP and damage** that target a creature come off HP (armor doesn't help against pure magic unless the fiction makes the effect physical — conjured blade, stone shards — then AC soaks like any hit).
-- **Hostile magic** is opposed with **Defend** — commit Fuel dice and compare your defense total (sum of faces) to the caster's cast total (see *Defending against a spell* below and in [[Burners Adventure Game]]). A hostile cast where no fight is yet underway still rolls initiative; there is no out-of-combat Defend against sorcery. You rarely avoid a working entirely without spending dice or rolling well. Choose whichever Approach fits; a spell may suggest one (*Defend: Sword*).
-- **Control** (charm, sleep, fear, command…) never chips HP — it lands or it doesn't. Fully defended: nothing. Defense fell short: the working takes hold, full or partial per the spell (*Mind-immune* and *mind-resistant* targets still apply).
+- **HP and damage** that target a creature come off HP. Physical effects may be soaked by AC after Defend (see [[Burners Principles#Harm and effect are separate lanes]]).
+- **Hostile magic** is opposed with **Defend** — Fuel dice vs the caster's cast total. A hostile cast where no fight is yet underway still rolls initiative. Choose whichever Approach fits; a spell may suggest one (*Defend: Sword*). Procedure: *Defending against a spell* below.
+- **Control** (charm, sleep, fear, command…) uses the effect lane, not HP — see [[Burners Principles#Harm and effect are separate lanes]].
 
 ### Arcana
 
@@ -152,26 +152,20 @@ The caster is exposed like anyone taking an Action; struck mid-cast, you defend 
 
 ### Defending against a spell
 
+See [[Burners Principles#Granular defense, not binary save]] and [[Burners Principles#Harm and effect are separate lanes]].
+
 When a spell targets you with harm, control, or another hostile effect, the caster's **cast total** is the sum of the Fuel dice spent to cast (at least L dice for a level-L working).
 
-**Roll initiative.** A hostile spell is an attack like any other. If no fight is yet underway, roll initiative — the caster gains no free first strike. There is no Defend against hostile magic outside the Fuel economy.
+**Roll initiative.** A hostile spell is an attack like any other. If no fight is yet underway, roll initiative — the caster gains no free first strike.
 
 You may **Defend** as against any blow: commit Fuel dice, roll them, sum the faces. Those dice are spent for the fight. Your **defense total** opposes the cast total. Choose whichever Approach fits; the spell may suggest one (*Defend: Sword*, *Defend: Heart*, and so on). Commit as many Fuel dice as you choose — no cap.
 
 **Warding.** A Sorcerer adjacent to an ally or a tight group may **Defend for them** — commit Fuel on their behalf, as a Veteran Blocks for the crew. You still choose the fitting Approach; the protected target does not spend dice.
 
-**Physical** manifestations — conjured blade, stone shards, hail of metal, dodgeable cone — may be soaked by AC after Defend when the fiction makes the effect physical. Non-physical workings ignore AC.
-
 - **Defense ≥ cast:** fully defended — no effect, no HP loss.
-- **Defense < cast:** **overrun** = cast − defense. The working deals its harm to HP *or* takes its hold — never both on the same target from one working.
-
-**Damage** workings apply overrun to HP 1:1 — each point of overrun is one HP lost (Resistance still applies per kind). Physical spell attacks — shards, force blades, thunder you can dive from — use Defend, then AC, then Resistance like weapon blows.
-
-**Control** (charm, sleep, fear, command…) never chips HP — it lands or it doesn't. Fully defended: nothing. Defense fell short: the spell takes hold — full control as written, or partial control in edge cases only (Guide's call: weaker duration, loose compliance, one action slipped free). Recover when the working ends or is broken.
+- **Defense < cast:** **overrun** = cast − defense. Apply per the harm/effect lanes above.
 
 Spells with no hostile target (light on a wall, healing a willing ally, reading magic) allow no Defend. Area workings: each target Defends separately against the same cast total.
-
-**Compare to steel.** A weapon attack commits dice from Fuel (one to three a blow) and deals their faces. A spell costs at least L dice and its cast total is the attack value; the target Defends with Fuel the same way. Steel and sorcery share the pool — the danger is the turn you are winded with workings still flying.
 
 ### What Sorcerie is for
 
@@ -203,7 +197,7 @@ Each of the seven people-schools lists six spells at every spell level, 1 throug
 
 **Sorcerie** in an effect = your Sorcerie Approach level (Traits ÷ 4). At Sorcerie 1, `Sorcerie creatures` means 1 creature, `Sorcerie × 10'` means 10', etc. Minimum 1 where a count is implied.
 
-- **Control** (charm, sleep, fear, command…) lands through Defend as an effect, not HP pressure; see *Defending against a spell* above.
+- **Control** — effect lane, not HP; see [[Burners Principles#Harm and effect are separate lanes]] and *Defending against a spell* above.
 - **Wound work:** *Healing Touch* (Vitae 1) closes limb wounds; for open vital wounds use a **Wound Check** — campaign alias *Stanch* (same level).
 - **Canting** rolls Craft, and a Journeyman (Craft 1+) — not only a Sorcerer — may prep and cast it (see *The Sorcerer Gate* above).
 

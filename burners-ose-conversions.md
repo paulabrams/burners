@@ -1,17 +1,13 @@
 ---
 layout: default
 title: "Burners OSE Conversions"
-hero: /images/wandyr_cover.png
+hero: /images/lancelot-speed-pd/knight-approaching-distant-castle.png
 hero_alt: "A knight rides toward the distant keep — Lancelot Speed"
 ---
 
 # Burners ↔ OSE Conversions
 
-**Three principles govern every conversion:**
-
-1. **No keys.** "Magic weapons to hit" is never a lockout — it is Resistance: a flat toll every blow pays, worn down by weight of numbers or bypassed by a named weakness.
-2. **No plusses.** A +n never becomes a bonus to a sum. It becomes **enchanted** gear with scaled minor powers, a tag, a Signature — or a relic (see *+n Arms, Shields, and Armor* under Magic Items).
-3. **Route, don't reinvent.** Every OSE die points at a subsystem Burners already has: a save becomes a **`2d6 +` Approach Defend** or a Fuel **Defend** against a **cast total**, a check an Approach roll, a monster's breath an Area Effect, poison a lingering Cost, XP an OSE award on the tables below.
+Every OSE conversion follows [[Burners Principles]] — especially *Granular defense, not binary save*, *Route, don't reinvent*, *No keys*, and *No plusses*. The routing tables below are the OSE-specific application; the principles page is the why.
 
 The clocks already match: OSE turns and rounds are Burners turns and rounds. Durations, torches, and wandering-monster checks run as written.
 
@@ -73,7 +69,7 @@ For fractional or special HD, use the nearest row or the module's printed award.
 
 ### AC → Armor (soak)
 
-Armor — worn mail, or a hide that is its own mail — **soaks on the way in: its value comes off every blow before HP,** the same as a character's suit. It never rolls and never enters the exchange as a die; it is simply subtracted.
+See [[Burners Principles#Armor and Resistance soak; they never roll]].
 
 | OSE AC (descending) | Ascending AC | Soak |
 |---|---|---|
@@ -88,7 +84,7 @@ The fast form: **Soak = (ascending AC − 10) ÷ 2, round down** — it lands ex
 
 ### The Damage Die → the Pool
 
-A monster fights like a character: on the Initiative roll it rolls a **Fuel pool** and spends the dice to attack, defend, Spark, and Riposte, and its blow is the **faces of the dice it commits**, cut by your defense and armor (see [[Burners Adventure Game]]). So you never convert a creature to a fixed Damage number — you convert it to a **pool**, from three sources:
+See [[Burners Principles#Pools, not fixed numbers]]. A monster's pool comes from three sources:
 
 - **one die per Hit Die** — HD is the creature's level and the spine of its pool;
 - **dice for its weapon's slots** — a held weapon or a natural attack, read from the damage die below;
@@ -125,16 +121,16 @@ A monster spends its pool exactly as a character does: each blow is up to three 
 
 ### The Defend Router
 
-An OSE save is never a die roll to copy — it is a pointer to a Burners subsystem. **`2d6 +` the fitting Approach** against the Guide's Cost handles most hazards (see *Defend* in [[Burners Adventure Game]]). Hostile magic is never a hazard Defend — it rolls initiative and uses Fuel Defend against the caster's cast total (see *Defending against a spell* in [[Burners Adventure Game]] and [[Burners Sorcerie]]). Ask what the save protects, then route it:
+An OSE save is a pointer to a Burners subsystem — see [[Burners Principles#Route, don't reinvent]] and [[Burners Principles#Granular defense, not binary save]]. **`2d6 +` the fitting Approach** against the Guide's Cost handles most hazards (see *Defend* in [[Burners Adventure Game]]). Hostile magic uses Fuel Defend against the caster's cast total (see [[Burners Sorcerie]]). Ask what the save protects, then route it:
 
 | OSE says | Burners does |
 |---|---|
-| **Save vs. Breath** | A **monster** breath is an **Area Effect** — telegraphed ("its chest glows"): shield, ward, cover, or eat the quoted damage. No Fuel Defend against a dragon's cone. A **spell** cone or burst uses **Defend** and overrun like any hostile working. |
-| **Save vs. Poison (or die)** | Never instant death. A **Defend** (**Craft**) avoids the bite; once it lands, a **lingering Cost** — its level in HP each round, no further defense — until cured or outlasted (see *Lingering Costs* in [[Burners Adventure Game]]). |
-| **Save vs. Paralysis** | A **Defend** (**Craft** or **Sword**) at the touch; fall short and you **stiffen** for a stated clock (ghoul-chill, 2d6 rounds) — recoverable, not permanent. |
-| **Save vs. Petrify** | A **counting doom**: repeated **Defends** (**Craft** or **Sword**), each miss a step toward stone; it recovers. Averting your eyes is the counterplay, at the price of fighting blind. |
-| **Save vs. Spells / Wands / Rods / Staves** | Fuel **Defend**, not a hazard roll. **Roll initiative** if no fight is underway. Target commits Fuel dice (no cap); **defense total** vs caster's **cast total** (sum of L Fuel dice spent). *Save negates* → fully defended. *Save for half* → **does not port** — apply the overrun as HP harm **or** the spell's effect, never both; no half-damage exception. Physical blasts may be soaked by AC when physical in the fiction; mind-work ignores AC. **Warding:** adjacent Sorcerer may Defend for allies. |
-| **Save vs. Death effects** | **Shock Check** and **Wounds** — route into HP pressure, a lingering Cost, or a Wound that cuts an Approach's fiction. Never instant death. |
+| **Save vs. Breath** | **Area effect** — see [[Burners Principles#Telegraph the unwinnable]]. |
+| **Save vs. Poison (or die)** | **Defend** (Craft) to avoid; **lingering Cost** once it lands. See [[Burners Principles#No instant death]]. |
+| **Save vs. Paralysis** | **Defend** (Craft or Sword) at the touch; fall short and you **stiffen** for a stated clock (ghoul-chill, 2d6 rounds) — recoverable, not permanent. |
+| **Save vs. Petrify** | **Counting doom**: repeated **Defends** (Craft or Sword), each miss a step toward stone; it recovers. Averting your eyes is the counterplay, at the price of fighting blind. |
+| **Save vs. Spells / Wands / Rods / Staves** | Fuel **Defend** vs **cast total**; roll initiative OOC. See [[Burners Principles#Granular defense, not binary save]] and [[Burners Principles#Harm and effect are separate lanes]]. Warding: adjacent Sorcerer may Defend for allies. |
+| **Save vs. Death effects** | **Shock Check** and **Wounds** — see [[Burners Principles#No instant death]]. |
 
 **Which Approach?** Craft to dodge a dart, pit, or poison; Sword to force a door, hold your feet, or stay conscious; Heart against fear and horror; Sorcerie to dredge up what you know against the uncanny. The player may argue for another Approach if the fiction fits. When in doubt: Craft to avoid, Sword to endure.
 
@@ -153,7 +149,7 @@ So a Sword 3 stands at an effective 13, a Craft 2 at 12. This is a fallback for 
 
 ### "Magic Weapons to Hit" → Resistance
 
-Never a key. **Resistance is flat damage reduction** against a named kind of harm — it comes off every blow of that kind, like armor, before HP (see [[Burners Adventure Game]]). Always with a **stated cause**, ideally with a **named weakness** that bypasses it.
+See [[Burners Principles#Armor and Resistance soak; they never roll]].
 
 | OSE says | Burners Resistance | The feel |
 |---|---|---|
@@ -163,7 +159,7 @@ Never a key. **Resistance is flat damage reduction** against a named kind of har
 
 Every Resistance above a point or two **names its cause** — *stone that mocks the chisel; a ward-pact vs. swords; flesh that isn't wholly here* — because a cause is a thing the party can learn, argue with, and undo. A named weakness (silver, fire, its true name) doesn't lower the Resistance; it **ignores** it, the way a Bane-forged weapon ignores its quarry's soak (see [[Burners Arms and Armor]]).
 
-**Energy drain** (wights, wraiths, spectres): the touch applies **overrun to HP** or a **lingering Cost** that no mundane healing restores — brought back only by a rite, a shrine, or a season of rest. A character who goes down under the drain and fails the **Shock Check** rises as a thrall. Grim, recoverable, no level bookkeeping.
+**Energy drain** (wights, wraiths, spectres): see [[Burners Principles#No instant death]] — overrun to HP or a **lingering Cost** that no mundane healing restores. A character who goes down under the drain and fails the **Shock Check** rises as a thrall. Grim, recoverable, no level bookkeeping.
 
 **Mobs vs. the unearthly:** twenty militia hacking at a thing with high Resistance each land almost nothing — a point here, a point there, most blows soaked whole — while it kills them. This is correct; it is why the village hired Burners.
 
@@ -200,10 +196,8 @@ Port OSE spells onto [[Burners Sorcerie]] when a match exists; otherwise write a
 - **Spell level = prep level L.** Arcana slots run bound → active → used; used slots clear after 8 hours' sleep. Binding or rebinding takes one hour with spellbook in hand. Respect Arcana capacity (levels total ≤ focus Level).
 - **Durations and ranges as written** — the clocks match.
 - **Casting (combat):** one Action; spend at least L Fuel dice, roll them — cast total = sum of faces. On a Spark, may spend up to L additional Fuel for extra effect. The slot goes active, then used.
-- **Casting (NPC / module caster):** roll at least **L dice** for the cast total the same way. A hostile cast **Rolls initiative** if no fight is underway.
-- **Damage:** ignore OSE's per-caster-level dice and fixed damage lines. Hostile workings deal **overrun to HP 1:1** — cast total minus defense total, one HP per point. Do not re-price through a separate damage table.
-- **Defense:** *Save negates* → Fuel Defend; if defense ≥ cast, no effect. *Save for half* → does not port — HP harm *or* the spell's effect, never both. Physical blasts may be soaked by AC when physical in the fiction; mind-work ignores AC. No cap on defense dice. Warding: adjacent Sorcerer may Defend for allies.
-- **Charm / Sleep / Hold:** **Control** — never chips HP, it lands or it doesn't; fully defended: nothing; defense fell short: full or partial per the spell. Recoverable when the working ends.
+- **Casting (NPC / module caster):** roll at least **L dice** for the cast total the same way. A hostile cast **rolls initiative** if no fight is underway.
+- **Defense and damage:** see [[Burners Principles#Granular defense, not binary save]] and [[Burners Principles#Harm and effect are separate lanes]]. Ignore OSE per-caster-level dice and fixed damage lines; overrun to HP 1:1. *Save for half* does not port.
 - **Scrolls** require a Sorcerer (Sorcerie 1+) to read.
 
 ---
@@ -214,7 +208,7 @@ Potions, rings, cursed items, and wondrous items port **as written** — they ar
 
 ### +n Arms, Shields, and Armor → Enchanted + Powers
 
-When a module lists a *+1 sword*, *+2 shield*, *+1 plate*, and so on — the classic OSE magic item — convert in two parts. **Delete the plus as a to-hit or damage bonus** (Burners has no plusses on sums); keep the item's Slots, AC, and size as the mundane piece would be.
+When a module lists a *+1 sword*, *+2 shield*, *+1 plate*, and so on — convert in two parts. See [[Burners Principles#Armor and Resistance soak; they never roll]] — *No plusses on sums* and *Enchantment in Burners*. Keep the item's Slots, AC, and size as the mundane piece would be.
 
 **1. Enchanted.** The item is **enchanted** in Burners terms (see [[Burners Adventure Game]]):
 
@@ -224,7 +218,7 @@ When a module lists a *+1 sword*, *+2 shield*, *+1 plate*, and so on — the cla
 | **Shield** | One die per shield slot on the Initiative roll, **+1** if enchanted |
 | **Armor** | **+1** Fuel die on the Initiative roll while worn |
 
-That enchantment is the **+1** the module promised — never a bigger number on the roll, never a to-hit key.
+See [[Burners Principles#Armor and Resistance soak; they never roll]] — *Enchantment in Burners*.
 
 **2. Special powers — one per plus, beyond enchantment.** The +n is n minor powers, each tied to a tier. A +1 item has one +1-tier power. A +2 adds a second, +2-tier power (noticeably better than the first). A +3 adds a third +3-tier power, and so on. Powers are minor — convenience, flavor, situational edges — not extra dice on every blow and not the legendary third die (that is a *relic*, found and named).
 

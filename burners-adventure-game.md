@@ -51,17 +51,17 @@ Quick definitions. Details live in the chapters below.
 
 - **Trait:** a skill or quality — *lockpicking*, *steady under fire*, *knows the fens*. You tag each Trait to an Approach. Traits do not raise your Approach level; they describe what you can credibly do, and some actions need a specific Trait (like wearing plate). Use a Trait well in play and it can earn a **Signature**.
 
-- **Approach:** one of Sword, Craft, Heart, or Sorcerie — the arena a roll tests. Your level in it is the bonus you add to 2d6 (see *Approach roll*). Your four Approach levels always sum to your character level (see *Character level*).
+- **Approach:** one of Sword, Craft, Heart, or Sorcerie.
 
-  - **Sword:** fighting to the death. Weapons, armor, tactics, footwork, tempo. Only used in combat.
+  - **Sword:** fighting to the death. Weapons, armor, tactics, footwork, tempo. Only used in combat (asocial combat).
 
   - **Craft:** practical skill. Stealth, locks, tracking, sailing, survival, first aid, making and mending.
 
-  - **Heart:** people. Persuasion, intimidation, empathy, medicine, leadership, trade, languages, friendly brawls.
-()
+  - **Heart:** people. Persuasion, intimidation, empathy, medicine, leadership, trade, languages, friendly brawls (social combat).
+
   - **Sorcerie:** magic and the unseen. Spell schools, divination, binding, alchemy, ancient lore.
 
-- **Character level:** your overall rank. You buy levels with XP (see *Experience*). Every level you gain is one point you place in an Approach, up to four more Traits, and a reroll of your HP.
+- **Character level:** your overall rank. You buy levels with XP (see *Experience*). Every level you gain is one level you place in an Approach, up to four more Traits, and a reroll of your HP.
 
 - **Signature:** an asterisk on a Trait — a knack that showed up at your table. You never buy it, and it is not a spell.
 

@@ -59,7 +59,7 @@ Finding or verifying a name is play: a **`2d6 + Sorcerie`** roll (ancient lore) 
 
 1. **Declare.** Speak the True Name **thrice**, aloud and formal, and state your request in the fiction — what you want, not a spell title. In combat this is an **Action**; out of combat it is a beat the scene waits on.
 2. **Pay to be heard.** The call costs **1 Heat** for the crew, or **1 HP** from the caller — nerve, not meat. Paid whether or not anyone answers.
-3. **Roll.** **`2d6 + Alignment with the patron`** against the Guide's **Cost** — often the scene's Heat, or **8 + the scale of the ask**: 8 for a small favor, 10 for a serious working, 12 for a world-tilting demand. A request **against the patron's nature** raises the Cost by 2. A request squarely **in their nature**, backed by deeds already done, may drop it by 2 — or simply succeed (Step 1, as any well-backed deed can).
+3. **Roll.** **`2d6 + Alignment with the patron`** against the Guide's Cost — often the scene's Heat, or 8 + the scale of the ask: 8 for a small favor, 10 for a serious working, 12 for a world-tilting demand. A request against the patron's nature raises the Cost by 2. A request squarely in their nature, backed by deeds already done, may drop it by 2 — or simply succeed (Step 1, as any well-backed deed can).
 4. **Answer.** Meet the Cost and the patron **responds**. Fall short: silence, a wrong listener, or a price paid for nothing — the Heat or HP is not refunded, and in a bad place the wrong thing may have heard its name spoken thrice.
 
 *The workings of otherworldly beings are mysterious. They may read your request from a different angle and a different sense of time. Word requests with care, or don't — the stories are better when you don't.*

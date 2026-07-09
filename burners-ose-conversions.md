@@ -94,7 +94,7 @@ A monster fights like a character: on the Initiative roll it rolls a **Fuel pool
 - **dice for its weapon's slots** — a held weapon or a natural attack, read from the damage die below;
 - **the scene's Heat as dice** — added to the enemy side once, so a swarm does not multiply it.
 
-A monster spends its pool exactly as a character does: **each blow is up to three dice** (one die, plus one for a big two-handed stroke and one for an enchanted weapon), and a fierce or many-limbed foe makes **extra attacks by its nature** — a wolf bites once, a bear claws twice, a hydra strikes per head — the Guide setting how many, not the HD. It defends as anyone does: a single die to **Dodge** most blows, freely to **Parry** a foe it melees, or freely with a shield to **Block** one attacker (see [[Burners Adventure Game]]).
+A monster spends its pool exactly as a character does: each blow is up to three dice (one die, plus one for a big two-handed stroke and one for an enchanted weapon), and a fierce or many-limbed foe makes extra attacks by its nature — a wolf bites once, a bear claws twice, a hydra strikes per head — the Guide setting how many, not the HD. It defends as anyone does: a single die to Dodge most blows, freely to Parry a foe it melees, or freely with a shield to Block one attacker (see [[Burners Adventure Game]]).
 
 **The damage die sets the weapon's slots** — in Burners a weapon's Class *is* its slots, the dice it throws (see [[Burners Arms and Armor]]):
 
@@ -125,7 +125,7 @@ A monster spends its pool exactly as a character does: **each blow is up to thre
 
 ### The Defend Router
 
-An OSE save is never a die roll to copy — it is a pointer to a Burners subsystem. **`2d6 +` the fitting Approach** against the Guide's Cost handles most hazards (see *Defend* in [[Burners Adventure Game]]). **Hostile magic** is never a hazard Defend — it **Rolls initiative** and uses Fuel **Defend** against the caster's **cast total** (see *Defending against a spell* in [[Burners Adventure Game]] and [[Burners Sorcerie]]). Ask what the save protects, then route it:
+An OSE save is never a die roll to copy — it is a pointer to a Burners subsystem. **`2d6 +` the fitting Approach** against the Guide's Cost handles most hazards (see *Defend* in [[Burners Adventure Game]]). Hostile magic is never a hazard Defend — it rolls initiative and uses Fuel Defend against the caster's cast total (see *Defending against a spell* in [[Burners Adventure Game]] and [[Burners Sorcerie]]). Ask what the save protects, then route it:
 
 | OSE says | Burners does |
 |---|---|
@@ -136,7 +136,7 @@ An OSE save is never a die roll to copy — it is a pointer to a Burners subsyst
 | **Save vs. Spells / Wands / Rods / Staves** | Fuel **Defend**, not a hazard roll. **Roll initiative** if no fight is underway. Target commits Fuel dice (no cap); **defense total** vs caster's **cast total** (sum of L Fuel dice spent). *Save negates* → fully defended. *Save for half* → **does not port** — apply the overrun as HP harm **or** the spell's effect, never both; no half-damage exception. Physical blasts may be soaked by AC when physical in the fiction; mind-work ignores AC. **Warding:** adjacent Sorcerer may Defend for allies. |
 | **Save vs. Death effects** | **Shock Check** and **Wounds** — route into HP pressure, a lingering Cost, or a Wound that cuts an Approach's fiction. Never instant death. |
 
-**Which Approach?** **Craft** to dodge a dart, pit, or poison; **Sword** to force a door, hold your feet, or stay conscious; **Heart** against fear and horror; **Sorcerie** to dredge up what you know against the uncanny. The player may argue for another Approach if the fiction fits. When in doubt: Craft to avoid, Sword to endure.
+**Which Approach?** Craft to dodge a dart, pit, or poison; Sword to force a door, hold your feet, or stay conscious; Heart against fear and horror; Sorcerie to dredge up what you know against the uncanny. The player may argue for another Approach if the fiction fits. When in doubt: Craft to avoid, Sword to endure.
 
 ### Deriving a Score (when a module needs a raw number)
 
@@ -171,7 +171,7 @@ Every Resistance above a point or two **names its cause** — *stone that mocks 
 
 ## Checks, Doors, and Skills
 
-A module check splits two ways. A **trained or skilled** attempt — thief skills, foraging, listening at doors — becomes **`2d6 +` fitting Approach vs. Heat**, quoted as a **Pay** (the world acts on you — shortfall is the cost) or a **Deal** (you act on it — shortfall is no purchase). A **raw attribute** check with no skill behind it — bend bars, leap a chasm, stare down a horror — is the same: **`2d6 +` Sword, Craft, or Heart** vs the Guide's Cost.
+A module check splits two ways. A trained or skilled attempt — thief skills, foraging, listening at doors — becomes **`2d6 +` fitting Approach vs. Heat**, quoted as a **Pay** (the world acts on you — shortfall is the cost) or a **Deal** (you act on it — shortfall is no purchase). A raw attribute check with no skill behind it — bend bars, leap a chasm, stare down a horror — is the same: `2d6 +` Sword, Craft, or Heart vs the Guide's Cost.
 
 | OSE chance | Heat |
 |---|---|
@@ -197,12 +197,12 @@ Read straight off the printed block — HP, soak, the two numbers that build its
 
 Port OSE spells onto [[Burners Sorcerie]] when a match exists; otherwise write a one-line effect in the same format (`School L: …`).
 
-- **Spell level = prep level L.** Arcana slots run **bound → active → used**; **used** slots clear after **8 hours' sleep**. Binding or rebinding takes **one hour** with spellbook in hand. Respect Arcana capacity (levels total ≤ focus Level).
+- **Spell level = prep level L.** Arcana slots run bound → active → used; used slots clear after 8 hours' sleep. Binding or rebinding takes one hour with spellbook in hand. Respect Arcana capacity (levels total ≤ focus Level).
 - **Durations and ranges as written** — the clocks match.
-- **Casting (combat):** one Action; spend at least **L Fuel dice**, roll them — **cast total** = sum of faces. On a **Spark**, may spend up to **L additional Fuel** for extra effect. The slot goes **active**, then **used**.
+- **Casting (combat):** one Action; spend at least L Fuel dice, roll them — cast total = sum of faces. On a Spark, may spend up to L additional Fuel for extra effect. The slot goes active, then used.
 - **Casting (NPC / module caster):** roll at least **L dice** for the cast total the same way. A hostile cast **Rolls initiative** if no fight is underway.
 - **Damage:** ignore OSE's per-caster-level dice and fixed damage lines. Hostile workings deal **overrun to HP 1:1** — cast total minus defense total, one HP per point. Do not re-price through a separate damage table.
-- **Defense:** *Save negates* → Fuel **Defend**; if **defense ≥ cast**, no effect. *Save for half* → **does not port** — HP harm **or** the spell's effect, never both. Physical blasts may be soaked by AC when physical in the fiction; mind-work ignores AC. No cap on defense dice. **Warding:** adjacent Sorcerer may Defend for allies.
+- **Defense:** *Save negates* → Fuel Defend; if defense ≥ cast, no effect. *Save for half* → does not port — HP harm *or* the spell's effect, never both. Physical blasts may be soaked by AC when physical in the fiction; mind-work ignores AC. No cap on defense dice. Warding: adjacent Sorcerer may Defend for allies.
 - **Charm / Sleep / Hold:** **Control** — never chips HP, it lands or it doesn't; fully defended: nothing; defense fell short: full or partial per the spell. Recoverable when the working ends.
 - **Scrolls** require a Sorcerer (Sorcerie 1+) to read.
 
@@ -214,7 +214,7 @@ Potions, rings, cursed items, and wondrous items port **as written** — they ar
 
 ### +n Arms, Shields, and Armor → Enchanted + Powers
 
-When a module lists a **+1 sword**, **+2 shield**, **+1 plate**, and so on — the classic OSE magic item — convert in two parts. **Delete the plus as a to-hit or damage bonus** (Burners has no plusses on sums); keep the item's **Slots**, **AC**, and **size** as the mundane piece would be.
+When a module lists a *+1 sword*, *+2 shield*, *+1 plate*, and so on — the classic OSE magic item — convert in two parts. **Delete the plus as a to-hit or damage bonus** (Burners has no plusses on sums); keep the item's Slots, AC, and size as the mundane piece would be.
 
 **1. Enchanted.** The item is **enchanted** in Burners terms (see [[Burners Adventure Game]]):
 
@@ -226,7 +226,7 @@ When a module lists a **+1 sword**, **+2 shield**, **+1 plate**, and so on — t
 
 That enchantment is the **+1** the module promised — never a bigger number on the roll, never a to-hit key.
 
-**2. Special powers — one per plus, beyond enchantment.** The **+n** is **n minor powers**, each tied to a tier. A **+1** item has one **+1-tier** power. A **+2** adds a second, **+2-tier** power (noticeably better than the first). A **+3** adds a third **+3-tier** power, and so on. Powers are **minor** — convenience, flavor, situational edges — not extra dice on every blow and not the legendary third die (that is a *relic*, found and named).
+**2. Special powers — one per plus, beyond enchantment.** The +n is n minor powers, each tied to a tier. A +1 item has one +1-tier power. A +2 adds a second, +2-tier power (noticeably better than the first). A +3 adds a third +3-tier power, and so on. Powers are minor — convenience, flavor, situational edges — not extra dice on every blow and not the legendary third die (that is a *relic*, found and named).
 
 Record them like **Trait Signatures** (see *Signatures* in [[Burners Adventure Game]]): each power you have **found** earns an asterisk on the item line and a footnote at the bottom of the gear block. A **+1** item gets one `*`; a **+2** gets `*` and `**` as each tier is discovered. The Guide knows every power from conversion; the player learns them in play — a sage's appraisal, the blade humming near undead, a Sweet hit that binds a foe for the first time — then writes the footnote.
 
@@ -241,7 +241,7 @@ Record them like **Trait Signatures** (see *Signatures* in [[Burners Adventure G
 OSE treasure swords ([SRD: Swords](https://oldschoolessentials.necroticgnome.com/srd/index.php/Swords)) layer three kinds of bonus:
 
 1. **The plus** — attack and damage bonus → Burners **enchanted** (bonus die; no to-hit).
-2. **Bane vs type** — *"+2 vs lycanthropes"*, *"+3 vs undead"* → a **+1-tier** or **+2-tier** power that **ignores Resistance** (or reads as **silver**) vs that quarry — not a bigger number.
+2. **Bane vs type** — *"+2 vs lycanthropes"*, *"+3 vs undead"* → a +1-tier or +2-tier power that ignores Resistance (or reads as silver) vs that quarry — not a bigger number.
 3. **Named power** — *flaming*, *light*, *locate objects*, *charm person*, *energy drain*, *wishes* → assign to **+1 / +2 / +3** tiers by potency (below).
 
 **Sentient swords** (30% of magic swords; [SRD: Sentient Swords](https://oldschoolessentials.necroticgnome.com/srd/index.php/Sentient_Swords)) are a **separate layer**: roll INT, Ego, alignment, sensory and extraordinary powers, optional special purpose. Use that procedure only when the module implies personality, control checks, or speech — not for every *+1 longsword*. A sentient blade still converts **enchanted + powers** first; add INT/Ego and the sensory/extraordinary tables on top.
@@ -393,7 +393,7 @@ arming sword** (2 slots, enchanted)
 
 Disarming an enchanted weapon denies its Initiative dice and its attack bonus die (see Fighting).
 
-**Shields and armor** use the same ladder: a **+2 heater** is enchanted (shield slots + 1 on the Initiative roll) plus a +1-tier power and a +2-tier power; **+1 chain** is enchanted (+1 Initiative die while worn) plus one +1-tier power. Do not raise **AC** or **size** for the plus — the powers carry the rest.
+**Shields and armor** use the same ladder: a +2 heater is enchanted (shield slots + 1 on the Initiative roll) plus a +1-tier power and a +2-tier power; +1 chain is enchanted (+1 Initiative die while worn) plus one +1-tier power. Do not raise AC or size for the plus — the powers carry the rest.
 
 **Worked example — +2 longsword in a chest:** enchanted arming sword (2 slots → 3 weapon dice on the Initiative roll, +1 blow die). Guide's margin: +1 power = hums near oath-breakers / silver-edge; +2 power = bind on Sweet once per session. On the player's sheet after both are found: `arming sword**` with footnotes `*` and `**` as above.
 

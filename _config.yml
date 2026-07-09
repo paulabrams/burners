@@ -3,6 +3,9 @@ description: A rules-light OSR-adjacent adventure game set in the Dragon Isles
 baseurl: "/burners"
 url: "https://paulabrams.github.io"
 markdown: kramdown
+kramdown:
+  auto_ids: true
+  auto_id_stripping: true
 exclude:
   - sims/
   - README.md

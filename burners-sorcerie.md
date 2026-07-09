@@ -1125,7 +1125,7 @@ Elementale 3: The air within Sorcerie × 10' of you becomes swimmable.
 
 #### Mend
 
-Thaumaturgy 3: Repair one broken mundane object up to chair-size; magical items need Sorcerie vs Guide DC. *Objects only — not flesh.*
+Thaumaturgy 3: Repair one broken mundane object up to chair-size; magical items need Sorcerie vs the Guide's Cost. *Objects only — not flesh.*
 
 #### Mind Shatter
 
@@ -1442,7 +1442,7 @@ Canting 5: Sorcerie guards rush to a false alarm you trigger.
 
 #### Cure Disease
 
-Vitae 5: Touch one creature; one mundane disease or poison cycle ends. Magical afflictions need Sorcerie vs Guide DC.
+Vitae 5: Touch one creature; one mundane disease or poison cycle ends. Magical afflictions need Sorcerie vs the Guide's Cost.
 
 #### Darkmans Veil
 

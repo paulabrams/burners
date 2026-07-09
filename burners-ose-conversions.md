@@ -276,15 +276,15 @@ Pick one per tier, or roll **d12** on the column. Re-roll duplicates. Route OSE 
 | 1 | **Bane-forged** — **ignores Resistance** vs the named quarry (undead, dragons, regenerating foes, enchanted creatures, spellcasters) | *+3 vs type* |
 | 2 | **Flaming** — blade ignites on command; once per session, +1 effective blow die vs trolls, plant-things, or undead while lit | *Sword +1, Flaming* |
 | 3 | **Locate object** — once per day, sense one named object-type within 120' | *Sword +1, Locate Objects* |
-| 4 | **Charm** — once per week, a **Control** working (Heart vs Heart) on one touched foe — net pressure, not puppetry | *Sword +2, Charm Person* |
+| 4 | **Charm** — once per week, a **Control** working (Heart vs Heart) on one touched foe — it lands or it doesn't, and it is not puppetry | *Sword +2, Charm Person* |
 | 5 | **Bind on Sweet** — once per session, a Sweet hit **binds** the foe's weapon without a maneuver | *Binding tag* |
 | 6 | **Healing edge** — once per day, while held, heal 1 HP per round for 6 rounds (combat counts) | *extraordinary: healing, toned down* |
 | 7 | **Feint ward** — once per fight, ignore **1 point of Resistance** from mundane armor only | *extra damage, toned down* |
-| 8 | **Missile ward** — once per session, **Block** softens a breath or area effect you could not fully ward (half net pressure) | *shield crossover* |
+| 8 | **Missile ward** — once per session, **Block** softens a breath or area effect you could not fully ward (half the overrun) | *shield crossover* |
 | 9 | **Purging blow** — once per session, shed one **lingering Cost** on yourself (poison, chill, fear) when you draw blood | *paladin-flavor* |
 | 10 | **Shifting sense** — locate shifting walls or rooms within 10' | *sensory: shifting architecture* |
 | 11 | **Telekinetic tug** — once per session, **Stunt** at range to disarm or trip (one die, no attack) | *extraordinary: telekinesis, toned down* |
-| 12 | **Purpose sting** — vs the sword's designated quarry, on a Sweet hit the foe must pass a **Save** or suffer a brief **Control** (prone, drop weapon, or flee — Guide picks) | *special purpose alignment power, toned down* |
+| 12 | **Purpose sting** — vs the sword's designated quarry, on a Sweet hit the foe must **Defend** or suffer a brief **Control** (prone, drop weapon, or flee — Guide picks) | *special purpose alignment power, toned down* |
 
 **Weapons — +3-tier** *(OSE extraordinary / special purpose — still not a relic)*
 
@@ -299,9 +299,9 @@ Pick one per tier, or roll **d12** on the column. Re-roll duplicates. Route OSE 
 | 7 | **Levitation grip** — once per delve, ignore a fall or cross a gap on the blade's will | *levitation, toned down* |
 | 8 | **Illusion veil** — once per delve, throw a brief **phantasm** (distraction, not damage) | *illusion* |
 | 9 | **Teleport step** — once per delve, blink 30' you can see | *teleportation, heavily toned down* |
-| 10 | **Neutral blessing** — while drawn, **+1** to all **Saves** for the scene (once per delve) | *neutral special purpose* |
-| 11 | **Paralyzing sting** — once per delve vs quarry, Sweet hit → **Save** or **Control** to prone/stiffen 2d6 rounds | *lawful special purpose, toned down* |
-| 12 | **Petrifying sting** — once per delve vs lawful quarry, Sweet hit → **Save** or **Control** (stone-slow: half move, no Dodge) 1 round | *chaotic special purpose, heavily toned down* |
+| 10 | **Neutral blessing** — while drawn, **+1** to all hazard **Defends** for the scene (once per delve) | *neutral special purpose* |
+| 11 | **Paralyzing sting** — once per delve vs quarry, Sweet hit → **Defend** or **Control** to prone/stiffen 2d6 rounds | *lawful special purpose, toned down* |
+| 12 | **Petrifying sting** — once per delve vs lawful quarry, Sweet hit → **Defend** or **Control** (stone-slow: half move, no Dodge) 1 round | *chaotic special purpose, heavily toned down* |
 
 **Shields — +1-tier**
 
@@ -312,7 +312,7 @@ Pick one per tier, or roll **d12** on the column. Re-roll duplicates. Route OSE 
 | 3 | Warn with a chill when a missile is aimed at you (once/fight, +1 to **Dodge** vs that shot) |
 | 4 | Shed mud, ice, or blood instantly — never slippery |
 | 5 | **Detect magic** 3×/day within 20' while raised |
-| 6 | Mirror-bright; reflects gaze attacks once/fight at **Save** |
+| 6 | Mirror-bright; reflects gaze attacks once/fight at a **Defend** |
 | 7 | Holy symbol etched inside — turn undead once/session at **Heart** |
 | 8 | Arrow notch — first arrow each fight **Defended** as if one extra die spent |
 | 9 | Rally flash — ally in front facing gains +1 on next **Morale** check |
@@ -325,7 +325,7 @@ Pick one per tier, or roll **d12** on the column. Re-roll duplicates. Route OSE 
 | d12 | Power |
 |---|---|
 | 1 | **Block** once/session extends to an ally behind you without spending an attack |
-| 2 | **Block** softens a breath or area effect at half net pressure |
+| 2 | **Block** softens a breath or area effect at half the overrun |
 | 3 | **Bane-rim** — **ignores Resistance** for one Block vs the named quarry |
 | 4 | Once/session, **bind** an attacker's weapon on a successful **Block** |
 | 5 | Once/session, **Stunt** shove without spending an attack (foe your size or less) |
@@ -342,7 +342,7 @@ Pick one per tier, or roll **d12** on the column. Re-roll duplicates. Route OSE 
 | d12 | Power |
 |---|---|
 | 1 | Comfortable as cloth — no **fatigue** tick from the harness alone |
-| 2 | **Fire-kind** — resist mundane fire; first burn each fight −1 net pressure |
+| 2 | **Fire-kind** — resist mundane fire; first burn each fight −1 overrun |
 | 3 | **Cold-kind** — first cold/chill **Cost** each delve halved |
 | 4 | Quiet — no penalty to stealth from armor noise |
 | 5 | **Detect evil/good** within 10' while worn |

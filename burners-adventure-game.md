@@ -17,15 +17,15 @@ v0.4
 
 ## What Is a Burner?
 
-Respectable folk spit the word. **Burners** — the drifters who blow into a harbor town on the evening tide with a sword, a spell, or a set of picks, take the job nobody sane will touch, and are gone by the next fog, leaving behind a lighter strongbox, a heavier graveyard, and, often enough, a smoking ruin where a problem used to be. Not soldiers. Not heroes. Not exactly *honest*. Burners.
+Respectable folk spit the word. **Burner** — you're the drifter who blows into a harbor town on the evening tide with a sword, a spell, or a set of picks, takes the job nobody sane will touch, and is gone by the next fog, leaving behind a lighter strongbox, a heavier graveyard, and, often enough, a smoking ruin where a problem used to be. Not a soldier. Not a hero. Not exactly *honest*. A Burner.
 
 They mean it as an insult. You wear it like a medal.
 
-Because a Burner is defined by one thing: **knowing which move the moment calls for.** When to stand in the press and trade blows. When to give ground and cut your losses. When to look at a thing too big to kill and simply *never draw* — walk wide and live. And when the footing's gone and the odds have turned, when to *run*, purse be damned, and count breath as winning.
+Because you are defined by one thing: **knowing which move the moment calls for.** When to stand in the press and trade blows. When to give ground and cut your losses. When to look at a thing too big to kill and simply *never draw* — walk wide and live. And when the footing's gone and the odds have turned, when to *run*, purse be damned, and count breath as winning.
 
-And when the job's finally done and the reckoning comes howling up the stairs behind you — a Burner knows the last move, the one that earned the name. **Leave nothing behind but smoke.** Fire settles most debts. Fire makes it good.
+And when the job's finally done and the reckoning comes howling up the stairs behind you — you know the last move, the one that earned the name. **Leave nothing behind but smoke.** Fire settles most debts. Fire makes it good.
 
-Most who try this trade don't last a season. The docks are full of would-be Burners who didn't know when to run, or drew on the wrong thing in the dark, or stayed one round too long admiring their own work. The ones who last — who become *names*, who get songs — aren't the strongest or the deadliest. They're the ones who could read a bad bet and fold it.
+Most who take up this trade don't last a season. The docks are full of would-be Burners who didn't know when to run, or drew on the wrong thing in the dark, or stayed one round too long admiring their own work. You won't become a *name* with a song sung about you by being the strongest or the deadliest. You'll become one by reading a bad bet and folding it.
 
 **You are a Burner.** So is everyone at this table. You are not here to save the Dragon Isles; you are here to get in, get paid, and get out with your skin — and if the place is on fire behind you as you go, well. It usually is, after all, *"fire makes it good"*.
 
@@ -35,107 +35,111 @@ Most who try this trade don't last a season. The docks are full of would-be Burn
 
 ## The Engine
 
-Burners is a fast-paced adventure game of happy go lucky heroes in the style of pulp sword & sorcery fiction. You play your character by saying "I do...", not "I try...". If you have a good plan, it works! Otherwise, the Guide assigns a price paid. A character is a short list of Traits grouped into four Approaches (Sword, Craft, Heart, Sorcerie), and 12 equipment slots. Design spine: [[Burners Principles]].
+Say what you do: *I pick the lock* — not *I try to pick the lock*. If the plan is sound, it works. If the moment is risky, the Guide names what it costs, and you roll to pay less.
+
+Your character is built from four **Approaches** (Sword, Craft, Heart, Sorcerie), a list of **Traits**, and **twelve equipment slots**.
 
 ---
 
 ## Glossary
 
+Quick definitions. Details live in the chapters below.
+
 ### Character
 
-- **New Characters:** start at character level 1. Place that level as a point in one Approach, and take up to four Traits (backfill them whenever you like). Roll 1d6 for your starting HP.
+- **When you make a character:** you start at level 1. Put that level in one Approach. Write up to four Traits — you can leave blanks and fill them in later when play hands you the name. Roll 1d6 for starting HP.
 
-- **Trait:** a skill or a quality, something you are or know. Each Trait belongs to one Approach for trained-only use and flavor, but it does not raise your level in it. You may hold up to four Traits per character level, filled in as you go, and a Trait you lean on in play can grow into a Signature.
+- **Trait:** a skill or quality — *lockpicking*, *steady under fire*, *knows the fens*. You tag each Trait to an Approach. Traits do not raise your Approach level; they describe what you can credibly do, and some actions need a specific Trait (like wearing plate). Use a Trait well in play and it can earn a **Signature**.
 
-- **Approach:** one of Sword, Craft, Heart, or Sorcerie. Your level in an Approach is the number of character levels you have placed there; your Approach levels sum to your character level. Approach level is your roll bonus, nothing more.
+- **Approach:** one of Sword, Craft, Heart, or Sorcerie — where your training sits. Your level in an Approach is how many character levels you have placed there; all four levels add up to your character level. That number is your roll bonus in that arena, nothing more.
 
-  - **Sword:** fighting to the death. Weapons, armor, tactics, footwork, tempo. Never used outside combat.
+  - **Sword:** fighting to the death. Weapons, armor, tactics, footwork, tempo. Only used in combat.
 
-  - **Craft:** the practical skills of daily life. Stealth, locks, tracking, sailing, survival, first aid, making and mending.
+  - **Craft:** practical skill. Stealth, locks, tracking, sailing, survival, first aid, making and mending.
 
-  - **Heart:** people. Persuasion, intimidation, empathy, medicine, leadership, trade, languages, friendly brawls.
+  - **Heart:** people. Persuasion, intimidation, empathy, medicine, leadership, trade, languages.
 
-  - **Sorcerie:** magic and the unseen. Spell schools, divination, binding, alchemy, ancient knowledge.
+  - **Sorcerie:** magic and the unseen. Spell schools, divination, binding, alchemy, ancient lore.
 
-- **Character Level:** your overall rank, bought with XP from one table — earned by OSE awards for monsters overcome and treasure recovered to safety (see *Experience*). Each level is a point you place in an Approach, and it grants up to four more Traits and a reroll of your HP.
+- **Character level:** your overall rank. You buy levels with XP (see *Experience*). Every level you gain is one point you place in an Approach, up to four more Traits, and a reroll of your HP.
 
-- **Signature:** an asterisk on a Trait — see [[Burners Principles#Earned in play]]. Never a spell.
+- **Signature:** an asterisk on a Trait — a knack that showed up at your table. You never buy it, and it is not a spell.
 
-- **Theme:** your name or alias and a short freeform description of who your character is, to help you to portray your character to others.
+- **Theme:** your name or alias and a short line on who you are — for the other players, not the mechanics.
 
 ### Equipment
 
-- **Gold Pieces:** all prices are in traditional OSR gold pieces (gp).
+- **Gold pieces (gp):** all prices use traditional gold pieces.
 
-- **Inventory Slots:** you have 12 inventory "slots" to hold weapons, armor, gear, and baggage. Large items such as weapons, shields, and backpacks use multiple slots. Carrying anything outside of your 12 slots requires your hands; weapons and shield carried this way count as 0 slots.
+- **Inventory slots:** twelve slots for weapons, armor, gear, and baggage. Big items — a sword, a shield, a backpack — use more than one. Anything carried in your hands outside those twelve slots costs no slots but occupies your hands.
 
-- **Baggage:** You can group small items together in a single slot if you use a small (1 slot) container such as a satchel, belt pouch, arrow quiver, etc. If you expect to need to carry lots of equipment, then a large (3 slot) backpack will be more efficient; this lets you pack generous amounts of food, bedding, rope, loot, and anything else you can practically carry. However, the large containers require 1 World Turn (10 minutes) to access.
+- **Baggage:** small items can share a slot if they ride in a pouch, quiver, or satchel (1 slot). A backpack (3 slots) holds bedroll, rope, rations, and loot efficiently, but takes ten minutes to unpack.
 
-- **Empty Slots:** unspent inventory space is speed. On the Initiative roll each empty slot adds a die to your Fuel, up to 4, so travelling light means a fatter pool and more Initiative. Out of combat, empty slots ease nimble actions the same way. Dropping an item to free a slot is an action.
+- **Empty slots:** free space is speed. Every empty slot adds a die to your Fuel on the Initiative roll, up to four — light kit, quick feet. Dropping something to free a slot is an action.
 
-- **Armor Class (AC):** soak on the way in — see [[Burners Principles#Armor and Resistance soak; they never roll]]. AC 1–5 by make (see Armor); plate is trained-only.
+- **Armor class (AC):** how much your armor shaves off every hit before it reaches you. Leather is 1, gambeson 2, mail 3, plate 4–5. You need to be a Veteran with a *plate armor* Trait to wear plate. See *Armor* under Fighting.
 
 ### HP, Heat, and Wounds
 
-- **HP:** plot armor until 0 — see [[Burners Principles#HP is plot armor; past 0 it gets real]]. One d6 per character level, rolled; reroll at level-up and keep higher of new total or old+1. Reach full HP and wounds close.
+- **HP:** luck and wind, not meat — one d6 per character level, rolled at creation; reroll at level-up and keep the higher of the new total or old+1. Bites come off your HP first; only overflow past 0 opens a wound. Reach full HP and your wounds close.
 
-- **Heat:** shared scene pressure — see [[Burners Principles#Heat is scene pressure]]. Most out-of-combat Costs quote against it. When the party splits, each scene runs its own Heat.
+- **Heat:** your crew's shared danger gauge — how hot the *scene* is, not your hit points. Most risky actions out of combat quote a Cost against Heat. If you split the party, each group tracks its own Heat.
 
-- **Feeding Heat:** a risky action's Cost is usually Heat; a narrative shortfall raises it (usually 1–2). In a fight, Heat rises only when the Guide judges the danger has turned — blows go to HP, not Heat.
+- **Feeding Heat:** when a risky action goes wrong, Heat usually rises (often 1–2). In a fight, blows hit HP, not Heat — Heat climbs only when the situation turns worse (alarm, reinforcements, a friend down).
 
-- **Wound:** real injury past 0 HP or while helpless. Overflow drives negative tally; Shock Check follows. Lasts until **full HP** (maimings excepted).
+- **Wound:** real injury when a blow drives you past 0 HP, or when you're helpless and struck. Your HP tally goes negative; you make a Shock Check. Penalties last until you reach **full HP** (maimings excepted).
 
-- **Wound Effects:** each Wound has an effect: a limb wound disables that limb, and a vital wound carries a specific effect such as tunnel vision for a head hit.
+- **Wound effects:** where you were hit matters — a leg wound drops you prone, a head hit narrows your sight, and so on.
 
-- **Shock Check:** the moment a wound drives you past 0, roll 2d6 + Sword against how far below 0 you now are. Meet it and you shrug it, up and fighting; fall short and you read the raw 2d6 on the Shock table, from a shrug at 12 down to a knockout at 2. Past the -12 floor the same check turns lethal: pass it or roll a natural 12 to cling on senseless, else die. See Wounds.
+- **Shock Check:** when a wound drives you past 0, roll 2d6 + Sword against how far below 0 you are. Beat it and stay fighting; miss and read the raw 2d6 on the Shock table (12 is a shrug, 2 is catastrophe). Past −12 the same roll decides life or death. See *Wounds*.
 
-- **Block:** defending an attacker you are not meleeing, spending Fuel without the one-die limit. A shield grants one Block a round on yourself at no cost in attacks — you still spend Fuel to cut the blow, you simply needn't be swinging at the attacker (and may defend even without a weapon in hand). Otherwise you spend one of your attacks, on your turn, to Block — and a Block bought that way may guard an ally in your front facing instead of you.
+- **Block:** defend against an attacker you are *not* trading blows with — spend Fuel freely, not just one die. A shield gives you one free Block per round on yourself (you still spend the dice). Otherwise spend an attack to Block, including covering an ally in front of you.
 
 ### Play
 
-- **World Turn:** ten minutes of out-of-combat time. Each character takes one World Action.
+- **World Turn:** ten minutes of out-of-combat time. You take one World Action.
 
-- **Two Steps:** see [[Burners Principles#Two engines]]. Say what you do; if risky, pay the Cost (usually Heat).
+- **Two Steps:** say what you do; if the moment is risky, the Guide names the Cost (usually Heat) and you roll to pay less.
 
-- **Trained-Only:** an action impossible without a specific Trait, whatever your Approach.
+- **Trained-only:** an action you cannot attempt without a specific Trait, whatever your Approach.
 
-- **Approach Roll:** roll 2d6 and add your Approach level. To climb a cliff with Craft 3, you roll 2d6+3.
+- **Approach roll:** roll 2d6 and add your Approach level. To climb a cliff with Craft 3, you roll 2d6+3.
 
-- **Alignment:** a fifth "Approach" for the strange moment — or a **standing bond** with a patron, guild, or power. Count every relevant Trait across all Approaches, **divide by 4, round down**. See *Alignment*.
+- **Alignment:** like an Approach, but bespoke to a specific situation or bond with a patron, guild, or power. Count every relevant Trait across all your Approaches, divide by 4, round down. See *Alignment*.
 
 - **Sweet and Spicy:** a rolled 6 is Sweet (a good twist); a rolled 1 is Spicy (a complication). These ride alongside the sum and never change it. Two 6s (a natural 12) is the perfect roll. Two 1s (a natural 2) is a fumble.
 
 ### Combat
 
-- **Combat Round:** one minute, taken in Initiative order. On your turn, take one Action (attack, cast, or feat); moving and positioning come with it, part of the Action, not a separate step. Defending is not free; it burns Fuel. Sword governs the exchange: it grants extra attacks and fills a deeper pool.
+- **Roll Initiative!:** when a fight begins, you must "roll initiative". You will collect and then roll a pool of d6s based on your character level, weapons and shields in hand, sorcerer arcana, and empty slots. See Fighting.
 
-- **The Initiative roll:** when a fight begins, everyone rolls a pool of d6s, their Fuel, gathered from empty slots, held weapons and shields, and character level. See Fighting.
+- **Combat Round:** one minute, taken in Initiative order. On your turn, take one Action (attack, cast a spell, etc.). Moving and positioning come with it, part of the Action, not a separate step. Defending is not free; it burns your Fuel. Sword governs the exchange: it grants you extra attacks and a deeper pool.
 
-- **Fuel:** the dice you rolled for Initiative, kept at their faces and spent through the fight to attack, defend, cast, and riposte. A refill die tops it up at the start of each new round.
+- **Fuel:** the dice you rolled for Initiative, kept at their faces and spent through the fight to attack, defend, cast, and riposte. You gain your character level in refill dice at the end of each round (i.e. ).
 
-- **Initiative:** the count of your Fuel showing 3 or 4. Act in descending order, re-read each round.
+- **Initiative:** the count of your Fuel showing 3 or 4. You act in descending order; re-read each round.
 
-- **Attack:** each blow is one die, plus one for a two-handed power attack and one for an enchanted weapon; their faces are the damage. A Sword fighter makes an extra attack per Sword level, all paid from Fuel. A rolled 6 is a **Spark**. See Fighting.
+- **Attack:** each blow costs one die, plus one for a two-handed power attack and one for an enchanted weapon; the faces are the damage. With Sword, you make an extra attack per Sword level, all paid from Fuel. A rolled 6 is a **Spark**. See Fighting.
 
-- **Cast:** one Action in combat; spend at least L Fuel dice (L = the spell's level), roll them — the **cast total** is the sum of those faces. On a Spark, may spend up to L additional Fuel for extra effect. The Arcana slot goes bound → active → used; used slots clear after 8 hours' sleep. See *Magic* and [[Burners Sorcerie]].
+- **Cast:** one Action in combat; spend at least L Fuel dice (L = the spell's level), roll them — the **cast total** is the sum of those faces. On a Spark, you may spend up to L additional Fuel for extra effect. Your Arcana slot goes bound → active → used; used slots clear after 8 hours' sleep. See *Magic* and [[Burners Sorcerie]].
 
 - **Defend:** commit Fuel dice to cut a blow before armor soaks the rest — one die to Dodge most blows, or as many as you like against a foe you Parry or Block. Against hostile magic, commit as many dice as you choose and sum their faces against the caster's cast total (see *Defending against a spell*). A rolled 6 is a Spark (defending, a Riposte). See Fighting.
 
 - **Spark:** a natural 6 you play from your Fuel. It entitles you to a second combat action — an attack, a Block, or a Stunt (defending, a Riposte) — which you still pay for from your Fuel. See Fighting.
 
-- **Stunt:** an attack spent to knock down, shove, disarm, trip, or grapple a foe instead of dealing or blocking damage. See Fighting.
+- **Stunt:** spend an attack to knock down, shove, disarm, trip, or grapple a foe instead of dealing or blocking damage. See Fighting.
 
-- **Prone:** knocked down — by a Stunt, a Shock result, or a waist or leg wound. You cannot Dodge, so any blow you do not actively meet lands whole; but you may still Parry a foe you attack, or Block with a shield or a spent attack, so you guard the foes you engage and take the rest whole. A Veteran's extra attacks keep him defending from the ground; a novice guards one foe at most. Rising is free unless a foe presses you in melee, when it costs a die (see Stunts). A waist or leg wound instead pins you down until you reach **full HP**.
+- **Prone:** knocked down — by a Stunt, a Shock result, or a waist or leg wound. You cannot Dodge, so any blow you do not actively meet lands whole; but you may still Parry a foe you attack, or Block with a shield or a spent attack, so you guard the foes you engage and take the rest whole. Your extra Veteran attacks let you defend against several foes from the ground; without them you guard one at most. Rising is free unless a foe presses you in melee, when it costs a die (see Stunts). A waist or leg wound pins you down until you reach **full HP**.
 
-- **Refill die:** one die everyone gains at the top of each round from the second on, rolled into your Fuel before Initiative is re-read. The first round brings none.
+- **Refill die:** from the second round on, you gain one die at the top of each round, rolled into your Fuel before Initiative is re-read. The first round brings none.
 
 ### Monsters
 
-- **Monster:** an enemy on a simple stat block. Its Hit Dice are its level, its HP is 5 per Hit Die plus any modifier, and its hide is its armor. In a fight it rolls Fuel like a character (see [[Burners Principles#Pools, not fixed numbers]] and [[Burners Referee Guide]]). A fierce or many-limbed foe makes extra attacks by its nature; a named or solo foe may take the full Wound and Shock Check rules when the scene calls for it.
+- **Monster:** an enemy on a simple stat block. Its Hit Dice are its level, its HP is 5 per Hit Die plus any modifier, and its hide is its armor. In a fight it rolls Fuel like you do (see [[Burners Referee Guide]]). A fierce or many-limbed foe makes extra attacks by its nature; a named or solo foe may take the full Wound and Shock Check rules when the scene calls for it.
 
-- **Damage:** the faces of the dice a blow commits, cut by your defense and armor. See [[Burners Principles#Pools, not fixed numbers]].
+- **Damage:** the faces of the dice committed to a blow, cut by your defense and armor.
 
-- **Resistance:** flat damage reduction against a named kind of harm. See [[Burners Principles#Armor and Resistance soak; they never roll]].
+- **Resistance:** flat damage reduction against a named kind of harm — fire, silver, blades through bone, and so on.
 
 ---
 
@@ -158,9 +162,9 @@ Pick the Approach the danger tests; where none fits, work it as an Alignment (se
 4. Give your character a name or alias and a short "look" so the table gets to know them.
 5. Take your starting kit, then spend your purse in town.
 
-Signatures are not chosen at creation; they emerge in play.
+Signatures emerge in play — you do not choose them at creation.
 
-For a people to come from — Northmaren, Southmaren, Elf, Alu, Kith, and the rest — see [[Burners Ancestry]]: each entry is a ready-made look plus a menu of Traits, gear, and the Signatures your kind grows into.
+To pick a people to come from — Northmaren, Southmaren, Elf, Alu, Kith, and the rest — see [[Burners Ancestry]]: each entry is a ready-made look plus a menu of Traits, gear, and the Signatures your kind grows into.
 
 ### Starting Gear
 
@@ -177,7 +181,7 @@ Beyond you may have additional gear and funds to purchase gear based on your App
 | **Craft** (Journeyman) | 60 gp | choice of one "tool of the trade" based on one of your Traits, such as a hunting bow with a quiver of arrows, wood ax, blacksmith's hammer, etc. |
 | **Sorcerie** (Sorcerer) | 40 gp | your **personal spellbook** of four 1st-level spells of your school (known), and **two Level-1 Arcana** of any sorcerer-drip shape |
 
-The spread is character, not accident: the Veteran is an outfitted soldier, the Boss a moneyed leader rich in people, the Journeyman a scrappy woodsman poor in coin but woods-ready, the Sorcerer someone who spent nearly everything becoming a mage. Legendary gear is earned in play — see [[Burners Principles#Earned in play]].
+The spread is by design, not accident: as a Veteran you start as an outfitted soldier; as a Boss, a moneyed leader rich in people; as a Journeyman, a scrappy woodsman poor in coin but woods-ready; as a Sorcerer, someone who spent nearly everything becoming a mage. You earn legendary gear in play — see [[Burners Principles#Earned in play]].
 
 Spend your gold in town from the tables below; everything you carry ready takes an item slot, and whatever you don't spend is yours to keep. A few sample buys:
 
@@ -188,7 +192,7 @@ Spend your gold in town from the tables below; everything you carry ready takes 
 
 ### The Starting Sorcerer
 
-A Sorcerer's craft comes with a kit — the fruit of an apprenticeship — which is why their starting purse (40 gp) is so much lighter than a Veteran's: most of it was already spent becoming a mage. The kit is:
+A Sorcerer's craft comes with a kit — the fruit of your apprenticeship — which is why your starting purse (40 gp) is so much lighter than a Veteran's: you already spent most of it becoming a mage. Your kit is:
 
 - **Two Level-1 Arcana** of any **sorcerer-drip** shape you choose — wand, staff, rod, orb, crystal, ring, amulet, mask, robes, hat.
 - A **spellbook** of four 1st-level spells from your school, all known, carried in a **scrivener's satchel** — the book plus an ink pot, quill, and a sheaf of loose-leaf paper. Plain ink and loose leaves record Facts in the field (scraps, runes, fragments), free; the *special reagent inks* that fix a working permanently into the book are a separate cost (see *Learning a spell* on [[Burners Sorcerie]]).
@@ -198,7 +202,7 @@ Two of your school's six 1st-level spells are **not** in your book — those, de
 
 ### Weapons, Armor, and Shields
 
-A weapon's **slots** are the dice it throws on the Initiative roll and the space it fills; a two-hander throws more but leaves no hand for a shield. A shield's slots are dice too, and holding one lets you **Block**. Armor is worn, not thrown: its **AC** soaks every blow on the way in. This is the play list; full prices and oddments are in [[Burners Equipment]], and a fuller catalog of arms in [[Burners Arms and Armor]].
+A weapon's **slots** are the dice it throws on your Initiative roll and the space it fills; a two-hander throws more but leaves no hand for a shield. A shield's slots are dice too, and holding one lets you **Block**. You wear armor, not throw it: its **AC** soaks every blow on the way in. This is the play list; full prices and oddments are in [[Burners Equipment]], and a fuller catalog of arms in [[Burners Arms and Armor]].
 
 | Weapon | Slots | Cost (gp) | |
 | --- | --- | --- | --- |
@@ -217,7 +221,7 @@ A weapon's **slots** are the dice it throws on the Initiative roll and the space
 | Greatsword | 4 | 40 | two-handed |
 | Halberd | 5 | 25 | two-handed |
 
-**Armor** — AC soaks every hit on the way in, one number by the make of the armor. Plate is trained-only: only a Veteran with a *plate armor* Trait may wear it. Full prices are in [[Burners Equipment]].
+**Armor** — AC soaks every hit on the way in, one number by the make of the armor. Plate is trained-only: you need to be a Veteran with a *plate armor* Trait to wear it. Full prices are in [[Burners Equipment]].
 
 | Armor | AC | Slots | Cost (gp) |
 | --- | --- | --- | --- |
@@ -240,15 +244,15 @@ A weapon's **slots** are the dice it throws on the Initiative roll and the space
 
 ### Traits
 
-A Trait is a skill or a quality: arming sword, herbalism, strong, perceptive, raised in the fens. You hold up to four Traits per character level, each tagged to an Approach, but a Trait no longer raises that Approach; your level does that. You need not claim all four at each level, and a delayed Trait costs nothing, so you can fill one in whenever play hands you the name for it. Traits come free with your levels, never bought with XP.
+On your sheet, a Trait is a skill or a quality: arming sword, herbalism, strong, perceptive, raised in the fens. You hold up to four Traits per character level, each tagged to an Approach, but a Trait does not raise that Approach — your level does. You need not claim all four at each level, and a delayed Trait costs nothing, so you can fill one in whenever play hands you the name for it. Traits come free with your levels; you never buy them with XP.
 
-Some actions are trained-only: impossible without a specific Trait, whatever your Approach — plate armor is one, and so is each magic school (no Trait in the school, no reading or casting it).
+Some actions are trained-only: you cannot attempt them without a specific Trait, whatever your Approach — plate armor is one, and so is each magic school (no Trait in the school, no reading or casting it).
 
 ### Experience
 
-See [[Burners Principles#Earned in play]]. Character level is bought from the XP table below; Traits, Signatures, and spell learning are never bought with XP. XP sources:
+See [[Burners Principles#Earned in play]]. You buy character level from the XP table below; you never buy Traits, Signatures, or spell learning with XP. You earn XP from:
 
-- **Monsters** — award XP by Hit Dice from the OSE table when a foe is overcome (killed, routed, or otherwise neutralized as treasure). A 1 HD skeleton is 10 XP; a ~4 HD boss is 125. Split the award among the crew as you prefer; we usually divide evenly. The full table lives in [[Burners OSE Conversions]].
+- **Monsters** — award XP by Hit Dice from the OSE table when a foe is overcome (killed, routed, or otherwise neutralized as treasure). A 1 HD skeleton is 10 XP; a ~4 HD boss is 125. Split the award among your crew as you prefer; you usually divide evenly. The full table lives in [[Burners OSE Conversions]].
 - **Treasure** — **1 XP per 1 gp** of coins, gems, and jewelry **recovered to safety** — banked in town, not merely pocketed in the delve. Loot you cannot haul home is not loot yet; the clock has teeth. Goods, art objects, and equipment count at their sale value when sold; the Guide sets the number once.
 
 **Magic items grant no XP.** See [[Burners Principles#Earned in play]].
@@ -257,7 +261,7 @@ Burners does **not** use Wåndyr's factor-based scene XP. You earn by overcoming
 
 ### Approach Level
 
-Your character level is bought with XP from one table, the spine of advancement. Each level you gain is a single point you place in an Approach, so your Approach levels always sum to your character level. A 4th-level Burner might be Sword 3 and Sorcerie 1, or Sword 2 with Craft 1 and Heart 1, however your play has shaped you. You place each point as you level and do not move the ones already set.
+Your character level is bought with XP from one table, the spine of advancement. Every level you gain is a single point you place in an Approach, so your Approach levels always sum to your character level. At 4th level you might be Sword 3 and Sorcerie 1, or Sword 2 with Craft 1 and Heart 1, however your play has shaped you. You place each point as you level and do not move the ones already set.
 
 | Character level | XP |
 | --- | --- |
@@ -272,11 +276,11 @@ Your character level is bought with XP from one table, the spine of advancement.
 
 (Retune the numbers to taste; the shape, a rough doubling, is what matters.)
 
-Your roll in an arena is 2d6 plus your Approach level there. With no level in an arena you are Approach 0: you still roll 2d6, just without a bonus, and that missing bonus is the whole of the disadvantage. A layman (level 0) can still attempt things, but the arena's trained advantages stay locked until level 1. One point of an Approach is the line between a townsman and a practitioner.
+Your roll in an arena is 2d6 plus your Approach level there. With no level in an arena you are Approach 0: you still roll 2d6, just without a bonus, and that missing bonus is the whole disadvantage. Without any levels you can still attempt things, but that arena's trained advantages stay locked until you reach level 1. One point is the line between a townsman and a practitioner.
 
 ### Titles
 
-Reaching level 1 in an Approach earns its title, which switches on that arena's trained advantages. Below level 1 you are a layman there and get none of them.
+When you reach level 1 in an Approach, you earn its title — which switches on that arena's trained advantages. Below level 1 you have no title there and get none of them.
 
 | Approach | Title | Switches on |
 | --- | --- | --- |
@@ -285,9 +289,9 @@ Reaching level 1 in an Approach earns its title, which switches on that arena's 
 | Craft | Journeyman | reduce party-wide travel, weather, and survival costs by your Craft level |
 | Heart | Boss | lead a company of hirelings (up to your Heart), and anchor their nerve with a Morale Check |
 
-**The Journeyman's craft (Craft 1+).** The Veteran rules the melee; the Journeyman rules the journey. Your Craft level reduces party-wide costs from travel, weather, and survival: cold, heat, hunger, thirst, exhaustion, forced marches, rough terrain, getting lost. When the Guide quotes such a cost, subtract your Craft level from it for everyone you are guiding. Often that drops the cost low enough that the Guide waives the roll. If the Guide says the biting cold rain adds 6 Heat, a Journeyman with Craft 3 who has a deadfall shelter and a fire going cuts it to 3. A layman can endure the wilds but cannot shepherd others through them.
+**The Journeyman's craft (Craft 1+).** As a Veteran you rule the melee; as a Journeyman you rule the journey. Your Craft level reduces party-wide costs from travel, weather, and survival: cold, heat, hunger, thirst, exhaustion, forced marches, rough terrain, getting lost. When the Guide quotes such a cost, subtract your Craft level from it for everyone you are guiding. Often that drops the cost low enough that the Guide waives the roll. If the Guide says the biting cold rain adds 6 Heat, and you are a Journeyman with Craft 3 who has a deadfall shelter and a fire going, you cut it to 3. Without Craft 1+ you can endure the wilds yourself but cannot shepherd others through them.
 
-**The Boss's command (Heart 1+).** The Veteran rules the melee, the Journeyman rules the journey, the Sorcerer rules the unseen — and the Boss rules the company. A Boss leads hirelings: your Heart caps how many will take service under you at once, and your presence anchors whether they hold or break when the dark turns ugly (a Morale Check of 2d6 + your Heart). A layman can barely keep one torchbearer from bolting. A Boss does not give their strength away; they make others braver than they have any right to be. See The Boss — Leading the Company for the full rules.
+**The Boss's command (Heart 1+).** As a Veteran you rule the melee, as a Journeyman the journey, as a Sorcerer the unseen — and as a Boss you rule the company. Your Heart caps how many hirelings will take service under you at once, and your presence anchors whether they hold or break when the dark turns ugly (a Morale Check of 2d6 + your Heart). Without Heart 1+ you can barely keep one torchbearer from bolting. You do not give your strength away; you make others braver than they have any right to be. See The Boss — Leading the Company for the full rules.
 
 **Why Sword alone in a fight.** See [[Burners Principles#Sword owns the press]].
 
@@ -310,13 +314,13 @@ Patron Alignment is **not** Sorcerie — see [[Burners Principles#Invocations ar
 
 ### Invocations
 
-An **Invocation** is not a spell — it is a bargain. You call an otherworldly being's True Name thrice, aloud and formal, and state what you want; the call costs 1 Heat (crew) or 1 HP (caller), and you roll **`2d6 + Alignment with the patron`** against the Guide's Cost. If the being answers, it makes an **Offer** (capped at your Alignment level) and an **Ask** — a quest, a taboo, a shaping Trait, a debt. Any Burner may attempt one; no Arcana, spellbook, or school Trait is involved. Relics carry +1 Alignment; at Alignment 3+ with Relic in hand you may stand as the patron's saint — and rebuking the willful dead in a patron's name is the Isles' true "turning" (see *We Burn Undead*).
+An **Invocation** is not a spell — it is a bargain. You call an otherworldly being's True Name thrice, aloud and formal, and state what you want; the call costs 1 Heat (crew) or 1 HP (you), and you roll **`2d6 + Alignment with the patron`** against the Guide's Cost. If the being answers, it makes an **Offer** (capped at your Alignment level) and an **Ask** — a quest, a taboo, a shaping Trait, a debt. You can attempt one without Arcana, a spellbook, or a school Trait. Relics carry +1 Alignment; at Alignment 3+ with Relic in hand you may stand as the patron's saint — and rebuking the willful dead in a patron's name is the Isles' true "turning" (see *We Burn Undead*).
 
 The full rules — patrons and their natures, True Names, the Offer and the Ask, shaping, Relics, sentient items, and saints — live on **[[Burners Invocations]]**.
 
 ```
 INVOCATION — quick reference
-WHO     any Burner who knows the True Name
+WHO     you, if you know the True Name
 ALIGN   Traits that bear on the patron, ÷ 4 (round down); +1 if carrying their Relic
 CALL    Name thrice + request; costs 1 Heat (crew) or 1 HP (caller); Action in combat
 ROLL    2d6 + Alignment with patron vs Cost (often scene Heat or 8 + scale)
@@ -327,11 +331,11 @@ NOT     spells · Arcana · Sorcerie school
 
 ## HP, Heat, and Armor
 
-Each Burner has HP of one d6 per character level, rolled, just 1d6 at first level, rerolled on each level-up for the higher of the new total or the old plus one. But HP is not meat; it is luck, wind, and the reflex to turn a blow. Blows come off HP as near-misses; only the overflow past 0 opens a Wound, driving your HP into the negative — a running tally that is your true flesh until you are whole again (see Wounds and Healing and recovery).
+You have HP of one d6 per character level, rolled — just 1d6 at first level, rerolled on each level-up for the higher of the new total or the old plus one. But HP is not meat; it is luck, wind, and the reflex to turn a blow. Blows come off your HP as near-misses; only overflow past 0 opens a Wound, driving your HP into the negative — a running tally that is your true flesh until you are whole again (see Wounds and Healing and recovery).
 
-Heat is the other track, and it is not a pool of hit points. It is the scene's pressure, shared by the whole crew: the difficulty your out-of-combat costs are quoted against, and the clock that tells everyone how close the job is to going wrong. Every scene opens at a base (a quiet meet 3-4, a working delve or a parley that matters 6, a blown job or a hall on fire 8) and climbs as costs mount. Blows in a fight do not feed it; those go to HP. Heat rises in a fight only when the Guide judges the danger has turned, and it has no ceiling: a hot scene is simply a dangerous one.
+Heat is the other track, and it is not a pool of hit points. It is the scene's pressure, shared by your whole crew: the difficulty your out-of-combat costs are quoted against, and the clock that tells you how close the job is to going wrong. Every scene opens at a base (a quiet meet 3-4, a working delve or a parley that matters 6, a blown job or a hall on fire 8) and climbs as costs mount. Blows in a fight do not feed it; those go to HP. Heat rises in a fight only when the Guide judges the danger has turned, and it has no ceiling: a hot scene is simply a dangerous one.
 
-Armor is what you wear, and it soaks on the way in, its AC coming off every blow before your HP. AC runs from 1 to 5 by make: leather 1, gambeson 2, chainmail 3, plated mail and field plate 4, full plate 5. The cost is slots and coin. Heavier armor eats more of your twelve and climbs steeply in price, so the light fighter keeps his slots for gear and a fatter pool when he rolls Initiative while the armored one trades that away for proof, and plate is trained-only (a Veteran with a *plate armor* Trait). Armor keeps you from being worn down, not from being cut once you are down: a well-armored fighter loses HP slowly, and the Wound he takes past 0 is raw.
+Armor is what you wear, and it soaks on the way in — its AC comes off every blow before your HP. AC runs from 1 to 5 by make: leather 1, gambeson 2, chainmail 3, plated mail and field plate 4, full plate 5. The cost is slots and coin. Heavier armor eats more of your twelve and climbs steeply in price, so if you travel light you keep your slots for gear and a fatter pool when you roll Initiative; if you armor up you trade that away for proof. Plate is trained-only (you need to be a Veteran with a *plate armor* Trait). Armor keeps you from being worn down, not from being cut once you are down: in heavy armor you lose HP slowly, but the Wound you take past 0 is raw.
 
 ## Sample Traits by Approach
 
@@ -341,7 +345,7 @@ Armor is what you wear, and it soaks on the way in, its AC coming off every blow
 
 - **Heart:** persuasion, intimidation, deception, leadership, empathy, trading, medicine, performance, streetwise, languages. Qualities: charming, commanding, loyal, silver-tongued, well-connected.
 
-- **Sorcerie:** general Sorcerie Traits (perceptive, studious, second-sight, ancient-blooded, learned, haunted) flavor the unseen — and a **magic school** is a Trait too, a trained-only one: a *Vitae* or *Elementale* Trait makes you literate in that school and able to learn its spells at all, and without it the school is closed to you (see *Magic*). The individual spells inside an open school you still learn from books, as are arts like divination and alchemy.
+- **Sorcerie:** general Sorcerie Traits (perceptive, studious, second-sight, ancient-blooded, learned, haunted) flavor the unseen — and a **magic school** is a Trait too, a trained-only one: a *Vitae* or *Elementale* Trait makes you literate in that school and lets you learn its spells at all; without it the school is closed to you (see *Magic*). You still learn the individual spells inside an open school from books, as you do arts like divination and alchemy.
 
 ## Sample Party
 
@@ -375,9 +379,9 @@ Armor is what you wear, and it soaks on the way in, its AC coming off every blow
 
 ## Signatures
 
-See [[Burners Principles#Earned in play]]. A Signature is an asterisk on the Trait it springs from — a boon that emerged at the table. One per level in that Approach.
+See [[Burners Principles#Earned in play]]. Your Signature is an asterisk on the Trait it springs from — a boon that emerged at your table. You earn one per level in that Approach.
 
-Signatures take three common shapes, and the Guide may allow others:
+Signatures take three common shapes; the Guide may allow others:
 
 - **Named item.** You name your sword, dagger, or your rope, and it becomes yours. The named item becomes a narrow edge in its element, a blade that never leaves your grip, a rope that always holds.
 
@@ -385,7 +389,7 @@ Signatures take three common shapes, and the Guide may allow others:
 
 - **Holdout.** A small thing you keep hidden on your person — a boot knife, a flint sewn into your collar, an accelerant vial stitched into a sleeve. Name it and say where it rides. It lives outside your twelve slots and stays with you even when you are searched or stripped of gear. Out of combat it is free to reach; in a fight, drawing it costs one Fuel.
 
-**Item powers** work the same way on gear. An enchanted weapon, shield, or suit from a module's **+n** loot carries one minor power per plus (see [[Burners OSE Conversions]]). Each power you have **found** — identified by a sage, revealed in use, earned by trial — earns an asterisk on the item line and a footnote describing what it does:
+**Item powers** work the same way on your gear. An enchanted weapon, shield, or suit from a module's **+n** loot carries one minor power per plus (see [[Burners OSE Conversions]]). Every power you have **found** — identified by a sage, revealed in use, earned by trial — earns an asterisk on the item line and a footnote describing what it does:
 
 | On your sheet | Meaning |
 |---|---|
@@ -393,7 +397,7 @@ Signatures take three common shapes, and the Guide may allow others:
 | `arming sword*` | One +1-tier power discovered — footnote `*` names it |
 | `arming sword**` | A +2 item; both powers found — footnotes `*` and `**` |
 
-Write the footnotes at the bottom of the gear block, the way Pip's stealth Signature sits under his Traits. Until a power is found, leave the star off; the Guide knows what is waiting. A **+1** antenna sword might read `bronze sword*` with `* Runs cold near the drowned dead; counts as silver against their Resistance.` once Bellamy learns it in the barrow.
+Write the footnotes at the bottom of your gear block, the way Pip's stealth Signature sits under his Traits. Until you find a power, leave the star off; the Guide knows what is waiting. A **+1** antenna sword might read `bronze sword*` with `* Runs cold near the drowned dead; counts as silver against their Resistance.` once you learn it in the barrow.
 
 ---
 
@@ -409,11 +413,11 @@ See [[Burners Principles#Two engines]]. The Guide owns the World Engine; you own
 
 Declare the deed in the doing. The Guide rules one of three ways. If it is clever, feasible, and backed by who you are, it just works, no roll. If it has no chance, it just fails. If it is feasible but risky, you go to Step 2.
 
-Your Theme and Traits are supporting evidence, not skip buttons. Neither bypasses a roll on its own, but a relevant one makes your plan credible: a character whose Theme is a life of crime has a real claim to just read a street rather than roll for it. Weave a fitting Trait into your description and the Guide sees that you could. You still say what you do; the Trait shows that you can.
+Your Theme and Traits are supporting evidence, not skip buttons. Neither bypasses a roll on its own, but a relevant one makes your plan credible: if your Theme is a life of crime, you have a real claim to just read a street rather than roll for it. Weave a fitting Trait into your description and the Guide sees that you could. You still say what you do; the Trait shows that you can.
 
 #### Step 2: Pay the Cost
 
-A risky deed does not simply fail. It has a Cost, which is usually a bump of Heat. The Guide quotes the Cost; you roll to reduce or deal it. It works like ordering at a counter: say what you want, hear the price, pay it. You still get the thing; the dice say what it took out of you. Where Heat does not fit, the price is time, noise, position, or a Spicy twist.
+Your risky deed does not simply fail. It has a Cost, which is usually a bump of Heat. The Guide quotes the Cost; you roll to reduce or deal it. It works like ordering at a counter: say what you want, hear the price, pay it. You still get the thing; the dice say what it took out of you. Where Heat does not fit, the price is time, noise, position, or a Spicy twist.
 
 #### No Roll Is Free
 
@@ -439,15 +443,15 @@ Combat has no Sweet or Spicy — a 6 in Fuel is a **Spark** (see Fighting).
 
 ### Legendary Items and the Third Die
 
-See [[Burners Principles#Legendary vs enchanted]]. A legendary item grants a **third die** when it is the relevant implement of your action.
+See [[Burners Principles#Legendary vs enchanted]]. Your legendary item grants a **third die** when it is the relevant implement of your action.
 
-A found relic lies dormant, rolling as ordinary gear, until you discover its true name — read from a tomb-glyph, **surrendered by an Invocation** to the patron it serves, or earned by the deed it was made for. The name wakes the third die and costs no XP; it is a prize of the world, not a purchase.
+A relic you've found lies dormant, rolling as ordinary gear, until you discover its true name — read from a tomb-glyph, **surrendered by an Invocation** to the patron it serves, or earned by the deed it was made for. The name wakes the third die and costs no XP; it is a prize of the world, not a purchase.
 
-About one in six of these relics speaks. These are Sentient Items, each a bound soul with its own will and powers that can aid, argue, or betray. Many more were once sentient but broke over the long ages, most of them mad and silent. So a mute relic is not safely empty; it may be inert, or a madness too far gone for words.
+About one in six of your relics speaks. These are Sentient Items, each a bound soul with its own will and powers that can aid, argue, or betray you. Many more were once sentient but broke over the long ages, most of them mad and silent. So a mute relic in your hands is not safely empty; it may be inert, or a madness too far gone for words.
 
 ### Heat
 
-Heat is the crew's shared danger clock, not a pool of hit points. It is the pressure of the scene, and it does two jobs: it is the difficulty many out-of-combat costs are quoted against, and it is the clock that tells everyone how close the job is to going wrong. Blade and claw feed HP, not Heat. What feeds Heat is everything else that costs the crew.
+Heat is your crew's shared danger clock, not a pool of hit points. It is the pressure of the scene, and it does two jobs: it is the difficulty many out-of-combat costs are quoted against, and it is the clock that tells you how close the job is to going wrong. Blade and claw feed HP, not Heat. What feeds Heat is everything else that costs the crew.
 
 | Cost | How it lands |
 | --- | --- |
@@ -468,7 +472,7 @@ A coup de grace finishes a helpless foe outright. A truly helpless foe (bound, a
 
 ### Wounds
 
-A blow that drives you past 0 HP opens a Wound. Resolve it once, then carry it. Wounds accumulate, and they are yours alone, not the crew's.
+When a blow drives you past 0 HP, you open a Wound. Resolve it once, then carry it. Wounds accumulate, and they are yours alone, not shared with your crew.
 
 1. Find the location. Use a named spot if someone called it, or roll 1d6: 1 head, 2 torso, 3 waist, 4 arm, 5 hand, 6 leg. A limb is left or right, by the fiction or a coin, and a hit takes one limb.
 
@@ -488,13 +492,13 @@ A blow that drives you past 0 HP opens a Wound. Resolve it once, then carry it. 
 
 - **Leg.** You go prone and cannot stand up until you reach **full HP**, the same as a waist wound.
 
-Prone is a real penalty: you cannot Dodge, so any blow you do not actively meet lands whole. You may still Parry a foe you melee-attack, or Block with a shield or a spent attack — so you guard the foes you engage and eat the rest whole. This is where a Veteran's extra attacks tell: he parries or blocks several of those on him and fights on from the ground, while a lone-attack fighter guards one at most and is carved by the others. It is why a knockdown pays best when your crew can pile in — more attackers than the downed foe can turn, the rest landing whole. Rising is part of your next action and free, unless a foe is pressing you in melee, when scrambling up under his steel costs a die (see Stunts). A wound that holds you down, though — a waist or a leg — you cannot rise from at all until you reach **full HP**, and while it lasts your attacks too fall to a single die: you fight small, on the ground, for the duration. It does not stack, however you ended up prone. A fresh, untended wound also makes that spot a soft target: a blow called at an already-wounded spot deals 2 extra damage until you reach **full HP**.
+Prone is a real penalty: you cannot Dodge, so any blow you do not actively meet lands whole. You may still Parry a foe you melee-attack, or Block with a shield or a spent attack — so you guard the foes you engage and eat the rest whole. This is where your extra Veteran attacks tell: you can parry or block several foes on you and fight on from the ground, while with only one attack you guard one at most and the rest carve you. It is why a knockdown pays best when your crew can pile in — more attackers than the downed foe can turn, the rest landing whole. Rising is part of your next action and free, unless a foe is pressing you in melee, when scrambling up under their steel costs a die (see Stunts). A wound that holds you down, though — a waist or a leg — you cannot rise from at all until you reach **full HP**, and while it lasts your attacks too fall to a single die: you fight small, on the ground, for the duration. It does not stack, however you ended up prone. A fresh, untended wound also makes that spot a soft target: a blow called at an already-wounded spot deals 2 extra damage until you reach **full HP**.
 
 #### The Shock Check
 
-Every wound puts your footing in question: roll 2d6 + Sword against your negative HP — how far below 0 you now are. Meet or beat it and you keep your feet, shaken but still fighting. Fall short and the shock lands: read the raw 2d6 on the table below, worst at the bottom — a natural 2 the catastrophe, a natural 12 a clean shrug. Each new wound deepens the tally and raises the bar, so the deeper you are cut, the harder it is to stay standing.
+Every wound puts your footing in question: roll 2d6 + Sword against your negative HP — how far below 0 you now are. Meet or beat it and you keep your feet, shaken but still fighting. Fall short and the shock lands: read the raw 2d6 on the table below, worst at the bottom — a natural 2 the catastrophe, a natural 12 a clean shrug. Every new wound deepens your tally and raises the bar, so the deeper you are cut, the harder it is to stay standing.
 
-When the wound has driven you to -12 or past, the same roll turns lethal: no longer whether you stay standing, but whether you live at all. You cling on — dropped unconscious, held at the brink (-11), alive and out of the fight — if you either meet your negative HP or roll a natural 12; anything else is death, though the Guide may offer a maiming in its place. The bar is your own depth, so a hardened fighter can shrug a blow that just tips him over, while one flung far past the floor is beyond saving by any total — and there the natural 12 is the last thread, a 1-in-36 miracle that spares you no matter how deep you were driven. Sword is grit, boxcars is fortune: the veteran hangs on by the first, and anyone at all may hang on by the second.
+When the wound has driven you to -12 or past, the same roll turns lethal: no longer whether you stay standing, but whether you live at all. You cling on — dropped unconscious, held at the brink (-11), alive and out of the fight — if you either meet your negative HP or roll a natural 12; anything else is death, though the Guide may offer a maiming in its place. The bar is your own depth, so if you are hardened you can shrug a blow that just tips you over, while if you were flung far past the floor you are beyond saving by any total — and there the natural 12 is the last thread, a 1-in-36 miracle. Sword is grit, boxcars is fortune: you hang on by the first, or by the second no matter how deep you were driven.
 
 | 2d6 | Shock |
 | --- | --- |
@@ -510,11 +514,11 @@ When the wound has driven you to -12 or past, the same roll turns lethal: no lon
 | 11 | Rocked: you keep your feet, shaken but still fighting. |
 | 12 | Unshaken: shrug it off, and rise for free if you were already prone. |
 
-If you have nothing to drop, an unarmed fighter or a caster, the Guide swaps a disarm result for a fitting shock instead: a spell guttering out, a lost hold, a wasted breath.
+If you have nothing to drop — you're unarmed or casting — the Guide swaps a disarm result for a fitting shock instead: a spell guttering out, a lost hold, a wasted breath.
 
 #### Going Down
 
-See [[Burners Principles#HP is plot armor; past 0 it gets real]] and [[Burners Principles#No instant death]]. A downed character is knocked out, not dead, until −12 or a coup de grace. Win the fight before they are finished or driven that deep, and they come to when it ends.
+See [[Burners Principles#HP is plot armor; past 0 it gets real]] and [[Burners Principles#No instant death]]. A downed ally is knocked out, not dead, until −12 or a coup de grace. Win the fight before they are finished or driven that deep, and they come to when it ends.
 
 #### Healing and recovery
 
@@ -526,17 +530,17 @@ See [[Burners Principles#HP is plot armor; past 0 it gets real]] and [[Burners P
 
 *Example — Aldric (Sword 1, maximum 4 HP) is driven to −4 with a leg wound: prone, soft-target, the penalties ride. Rest does nothing while he is negative. Each safe night with food adds 1 HP: −3, −2, −1, 0 — four days to climb out of the wound-depth. Then one hour's rest with food and he is back at 4 HP, whole: the leg works, the soft-target clears, the negative tally is gone.*
 
-The danger is being driven past 0 — each wound is a Shock Check, and downed friends need covering. Reach full HP and you are whole again; linger hurt and the penalties ride until you do.
+The danger is being driven past 0 — every wound is a Shock Check, and you need to cover downed friends. Reach full HP and you are whole again; linger hurt and the penalties ride until you do.
 
 *The crew fights an ogre in a working scene, Heat at 6. Aldric (Sword 1, 4 HP, chainmail (AC 3), arming sword, rotella) rolls Initiative for eight dice — one empty slot, two for the sword, four for the shield, one for his level: 6, 5, 4, 3, 2, 2, 1, 1, three of them showing 3 or 4, so his Initiative is 3. The ogre's pool runs deep, swollen by its Hit Dice and the six points of Heat, so it acts first and swings its great club, three dice for a blow worth 10. Aldric means to trade with it, and against a foe he melees he defends without limit: he spends the 6 and the 4 to cut all 10, his chainmail never tested. The 4 was a quick die, so his Initiative slips to 2. On his turn a Veteran gets two attacks; with a one-handed sword each is a single die, so he spends the 5 and the 3 for blows of 5 and 3 — 8 into the ogre, and with no 6 among them, no Spark. Fuel left: 2, 2, 1, plus the refill each round brings. Next round the ogre swings for 10 again; Aldric spends his 2, 2, 1 and the refill to cut 8, and his chainmail soaks the rest, so nothing lands — but his hand is now empty. The round after, winded, the blow arrives whole: 10 less 3 for chainmail is 7, and with 4 HP he is driven to -3, a leg Wound that leaves him prone. His Shock Check — 2d6 + Sword against that wound-depth of 3 — beats it, so he stays on his feet, but his dice are gone. Finish it or fold.*
 
-Control magic uses the same **Defend** economy as damage but lands on the **effect** lane, not HP — see [[Burners Principles#Harm and effect are separate lanes]] and *Defending against a spell* in [[Burners Sorcerie]].
+When you face control magic, it uses the same **Defend** economy as damage but lands on the **effect** lane, not your HP — see [[Burners Principles#Harm and effect are separate lanes]] and *Defending against a spell* in [[Burners Sorcerie]].
 
 ### Fighting
 
-A Combat Round is one minute, taken in Initiative order. On your turn you get one Action — attack, cast, or feat — and moving, readying, taking cover, or aiming come with it, part of the same Action rather than a turn of their own; only a demanding shift, like rising from the ground or breaking away under threat, costs you the Action itself. Defending is not free; it spends Fuel whenever you are struck.
+Each Combat Round is one minute. You act in Initiative order. On your turn you get one Action — attack, cast, or feat — and moving, readying, taking cover, or aiming come with it, part of the same Action rather than a turn of their own; only a demanding shift, like rising from the ground or breaking away under threat, costs you the Action itself. Defending is not free; you spend Fuel whenever you are struck.
 
-**Rolling Initiative.** When steel comes out, everyone gathers a pool of d6s for what they hold right now, with no rule for surprise, since you fight with what you were actually carrying:
+**Rolling Initiative.** When steel comes out, you gather a pool of d6s for what you hold right now, with no rule for surprise — you fight with what you were actually carrying:
 
 - one die per character level;
 - one die per slot if you have a weapon in hand, +1 if enchanted;
@@ -544,27 +548,27 @@ A Combat Round is one minute, taken in Initiative order. On your turn you get on
 - one die if you are wearing enchanted armor;
 - one die per empty inventory slot, up to 4.
 
-Roll them all. The faces you rolled, kept as they lie, are your Fuel for the fight. Your Initiative is the count of them showing 3 or 4; act in descending order and re-read at the top of each round.
+Roll them all. The faces you rolled, kept as they lie, are your Fuel for the fight. Your Initiative is the count of them showing 3 or 4; you act in descending order and re-read at the top of each round.
 
-**Burning Fuel.** Everything you do in combat "burns Fuel". You must spend Fuel to attack, defend, cast, etc. A die is used at its face and discarded, no reroll, so the pool you rolled is the pool you play. If you use a 3 or 4 your Initiative lowers; also you may reroll a 3 or 4 as you spend it.
+**Burning Fuel.** Everything you do in combat burns Fuel. You must spend Fuel to attack, defend, cast, and so on. A die is used at its face and discarded, no reroll, so the pool you rolled is the pool you play. If you use a 3 or 4 your Initiative lowers; you may also reroll a 3 or 4 as you spend it.
 
-**Refilling Fuel.** Each new round opens with a refill: from the second round on, everyone tops up one die to their Fuel at once, and then Initiative is re-read and the round played out in order. The first round brings no refill — the Initiative roll is your opening wind. It is only a trickle, so a fighter who empties his hand on offense is caught winded until the next round's die, blows arriving whole in the meantime; spend with that in mind. Fuel you are forced to lose but cannot pay from your pool comes out of your next refill instead, so such a cost always lands, exactly once, and never leaves you owing a debt you cannot pay.
+**Refilling Fuel.** Each new round opens with a refill: from the second round on, you top up one die to your Fuel at once, and then Initiative is re-read and the round played out in order. The first round brings no refill — the Initiative roll is your opening wind. It is only a trickle, so if you empty your hand on offense you are caught winded until the next round's die, blows arriving whole in the meantime; spend with that in mind. Fuel you are forced to lose but cannot pay from your pool comes out of your next refill instead, so such a cost always lands, exactly once, and never leaves you owing a debt you cannot pay.
 
 **Sparks.** A natural 6 in your Fuel is a **Spark**. Play it — the 6 is spent — and it entitles you to a second combat action this turn, beyond your one Action: an attack, a Block, or a Stunt (a Spark played while defending buys an immediate counterattack, a **Riposte**). The Spark grants only the opening; you still pay for that second action from your Fuel like any other. Roll several 6s and you may play several Sparks.
 
-**Attacking.** You make one attack a round (a Veteran makes more — see below). It costs one Fuel die, and its face is the damage. Add a second die for a two-handed weapon swung in a big, committed stroke, and a third if the weapon is enchanted — up to three dice a blow, all paid from your Fuel, their faces together the damage. From that, subtract the target's armor AC and any Resistance; the rest comes off their HP, and past 0 the overflow is a Wound. Because armor soaks every blow on the way in, a flurry of small hits is how you cut down the unarmored, while one big two-handed stroke is how you crack a plated foe. Roll a 6 and you may play it as a **Spark** (above) for a second attack, Block, or Stunt.
+**Attacking.** You make one attack a round (as a Veteran you make more — see below). It costs one Fuel die, and its face is the damage. Add a second die for a two-handed weapon swung in a big, committed stroke, and a third if the weapon is enchanted — up to three dice a blow, all paid from your Fuel, their faces together the damage. From that, subtract the target's armor AC and any Resistance; the rest comes off their HP, and past 0 the overflow is a Wound. Because armor soaks every blow on the way in, a flurry of small hits is how you cut down the unarmored, while one big two-handed stroke is how you crack a plated foe. Roll a 6 and you may play it as a **Spark** (above) for a second attack, Block, or Stunt.
 
-**Veteran Attacks.** A Veteran strikes more than once: one extra attack per Sword level, so a Sword 1 makes two, a Sword 3 makes four. Each is its own blow of its own dice, all inside your single Attack action, and each may fall on the same foe or spread across several. Any of these attacks may instead be spent to **Block** or on a **Stunt** (below) rather than to strike — so a Veteran, rich in attacks, can shield the crew, or trip and disarm, as readily as he deals damage.
+**Veteran Attacks.** As a Veteran you strike more than once: one extra attack per Sword level, so at Sword 1 you make two, at Sword 3 you make four. Each is its own blow of its own dice, all inside your single Attack action, and each may fall on the same foe or spread across several. Any of these attacks may instead be spent to **Block** or on a **Stunt** (below) rather than to strike — so with several attacks you can shield the crew, or trip and disarm, as readily as you deal damage.
 
 **Defending.** There is no defense roll; blows land. When struck, spend Fuel dice and cut the incoming Damage by their faces; your armor soaks the rest, and what remains comes off your HP. Against most blows you may spend only a single die — a bare **Dodge**. But against a foe you are making a melee attack on this round you may spend as many dice as you like: crossing blades is its own defense, your **Parry**, and the deeper your pool, the more of the exchange you turn. Roll a 6 while defending and you may play it as a Spark for a **Riposte** — an immediate counterattack.
 
-**Block.** A Block is how you defend an attacker you are *not* meleeing — the answer to a second foe, an archer, or a caster you cannot reach — spending Fuel freely, without the one-die limit. There are two ways to earn one. A shield grants a Block on yourself each round at no cost in attacks, taken when you are struck: you still spend the Fuel to cut the blow, you simply needn't be swinging at the attacker, nor even hold a weapon. Otherwise you buy a Block by spending one of your attacks, declared on your turn — and a Block bought that way may guard an ally in your front facing instead of you, which is how a Veteran throws his cover over the crew. So the press guards the melee fighter, a shield or a spent blow guards everyone else, and the archer or mage caught in reach and doing none of these cuts each blow with a single die.
+**Block.** A Block is how you defend an attacker you are *not* meleeing — the answer to a second foe, an archer, or a caster you cannot reach — spending Fuel freely, without the one-die limit. There are two ways to earn one. A shield grants a Block on yourself each round at no cost in attacks, taken when you are struck: you still spend the Fuel to cut the blow, you simply needn't be swinging at the attacker, nor even hold a weapon. Otherwise you buy a Block by spending one of your attacks, declared on your turn — and a Block bought that way may guard an ally in your front facing instead of you, which is how you throw your cover over the crew as a Veteran. If you're in the press, you guard the melee fight; a shield or spent blow guards everyone else; and if you're the archer or mage caught in reach without doing either, you cut each blow with a single die.
 
-**Stunts.** A **Stunt** is what you do with an attack instead of dealing or blocking damage: a knockdown, a shove, a disarm, a trip, a grapple, a feint that pins a foe in place. You spend an attack as you would to strike, and its dice are the force behind it; the target may resist by Defending as against a blow (or, where there is no real contest, the Guide simply rules it). Size is the fiction the Guide weighs: a foe your own size or smaller is a fair contest, one size up (a lone human wrestling an ogre) is a hard sell that wants leverage or numbers, and two sizes up (a human against a giant) simply cannot be toppled by one body — you need a tool, a trap, or the crowd. A braced or many-legged base counts a size larger, and it cuts both ways when something bigger grabs at you. Disarm turns on grip, not mass, so size does not apply. Spend the attack and lose the contest and it is gone for nothing — and a botched grab at something far larger, the Guide may turn against you. Any attack can be a Stunt — a Veteran spends one of his several on it, or a Spark buys one — so a cunning fighter can end a fight by taking a foe off his feet or his sword out of his hand, not only by cutting him down.
+**Stunts.** A **Stunt** is what you do with an attack instead of dealing or blocking damage: a knockdown, a shove, a disarm, a trip, a grapple, a feint that pins a foe in place. You spend an attack as you would to strike, and its dice are the force behind it; the target may resist by Defending as against a blow (or, where there is no real contest, the Guide simply rules it). Size is the fiction the Guide weighs: a foe your own size or smaller is a fair contest, one size up (you wrestling an ogre alone) is a hard sell that wants leverage or numbers, and two sizes up (you against a giant) simply cannot be toppled by one body — you need a tool, a trap, or the crowd. A braced or many-legged base counts a size larger, and it cuts both ways when something bigger grabs at you. Disarm turns on grip, not mass, so size does not apply. Spend the attack and lose the contest and it is gone for nothing — and a botched grab at something far larger, the Guide may turn against you. Any attack can be a Stunt — you spend one of your several on it as a Veteran, or a Spark buys one — so you can end a fight by taking a foe off their feet or their sword out of their hand, not only by cutting them down.
 
-A Stunt that leaves a lasting state — prone, disarmed, grappled — is what gives it teeth, and the state itself is the price: prone you cannot Dodge (see Prone), disarmed you have no weapon. Shaking it off is part of your action and free — you stand, grab your blade, act besides — unless a foe is pressing you in melee, when doing it under his steel costs a die. (No die to spare? It comes out of your next refill, so it always lands.) So a Stunt does not spend a foe's HP; it strips his guard or his weapon, and if your side keeps him pressed it grinds a die from him to recover. He may instead pay nothing and fight from the state — carved by every attacker he cannot Parry, or swinging bare-handed — until a turn he would rather spend the die shaking it. The choice of which hurts less is his.
+A Stunt that leaves a lasting state — prone, disarmed, grappled — is what gives it teeth, and the state itself is the price: prone you cannot Dodge (see Prone), disarmed you have no weapon. Shaking it off is part of your action and free — you stand, grab your blade, act besides — unless a foe is pressing you in melee, when doing it under their steel costs a die. (No die to spare? It comes out of your next refill, so it always lands.) So a Stunt does not spend a foe's HP; it strips their guard or their weapon, and if your side keeps them pressed it grinds a die from them to recover. They may instead pay nothing and fight from the state — carved by every attacker they cannot Parry, or swinging bare-handed — until a turn they would rather spend the die shaking it. The choice of which hurts less is theirs.
 
-Range and reach buy safety: a far arrow risks nothing until the enemy closes, so soften foes at a distance and fear the melee. Damage and a foe's defense belong to the situation — a shield wall is tougher from the front, a swarm combines into one bigger threat that thins as you kill it, a chokepoint caps how many reach you. Narrate the cause, so players can attack the reason.
+Range and reach buy safety: a far arrow risks nothing until the enemy closes, so soften foes at a distance and fear the melee. Damage and a foe's defense belong to the situation — a shield wall is tougher from the front, a swarm combines into one bigger threat that thins as you kill it, a chokepoint caps how many reach you. Narrate the cause, so you can attack the reason.
 
 ### Armor
 
@@ -572,17 +576,17 @@ See [[Burners Principles#Armor and Resistance soak; they never roll]]. Armor is 
 
 - AC by make, one number from 1 to 5: leather 1, a padded gambeson 2, chainmail 3, plated mail and field plate 4, full plate 5. Better armor is dearer and, at the top, better fitted, so a master-made harness carries its weight on the body and field plate rides lighter than plated mail for the same proof. Protection tracks coin, not weight.
 
-- Leather, gambeson, and mail anyone can wear. Plate is trained-only: only a Veteran (Sword 1) with a *plate armor* Trait may wear plated mail, field plate, or full plate. Past that the price is slots and coin. Heavy armor eats into your twelve, so the armored fighter carries and moves with little to spare, while the light fighter keeps his slots for gear and for a fatter pool when he rolls Initiative. Heavy soaks, light stays quick.
+- Leather, gambeson, and mail — you can wear any of them. Plate is trained-only: you need to be a Veteran (Sword 1) with a *plate armor* Trait to wear plated mail, field plate, or full plate. Past that the price is slots and coin. Heavy armor eats into your twelve, so if you armor up you carry and move with little to spare, while if you travel light you keep your slots for gear and for a fatter pool when you roll Initiative. Heavy soaks, light stays quick.
 
 - Armor is one number in ordinary play, with no hit locations.
 
-- Training gates the martial arts by threshold, not by dial. The Veteran title (Sword 1) lets you guard an ally with shield or blade, wakes a legendary item's third die, and is the price of admission to plate, which also asks a *plate armor* Trait. Light armor, mail, and a plain weapon ask nothing; anyone can wear and swing them, but it is training that makes them tell.
+- Training gates the martial arts by threshold, not by dial. As a Veteran (Sword 1) you can guard an ally with shield or blade, wake a legendary item's third die, and wear plate — which also asks a *plate armor* Trait. Light armor, mail, and a plain weapon ask nothing; you can wear and swing them, but it is training that makes them tell.
 
-- A shield is not armor; it is held, not worn. Its slots are dice it lends on the Initiative roll (buckler 2, heater 3, tower 5), like any held steel. Holding one lets you **Block** once a round on yourself: defend a single attacker with as many dice as you like, even one you are not striking at, so a shield answers the foe your blade cannot, costing you no attack — though you still spend Fuel to cut the blow. To cover an ally instead, or to Block a second foe, spend one of your attacks (see Fighting). A legendary shield adds its third die and can ward a breath.
+- A shield is not armor; you hold it, not wear it. Its slots are dice it lends on your Initiative roll (buckler 2, heater 3, tower 5), like any held steel. Holding one lets you **Block** once a round on yourself: defend a single attacker with as many dice as you like, even one you are not striking at, so your shield answers the foe your blade cannot, costing you no attack — though you still spend Fuel to cut the blow. To cover an ally instead, or to Block a second foe, spend one of your attacks (see Fighting). A legendary shield adds its third die and can ward a breath.
 
 ### We Burn Undead
 
-*In the Dragon Isles there is no priest who lifts a holy symbol and sends the skeletons scattering. Burners don't turn undead. Burners burn undead. The dead are dry — old bone, grave-linen, tomb-dust, the leathered husk of a thing that stopped drinking centuries ago. Nothing takes a torch more gladly. When a Burner meets the walking dead, the plan is rarely subtle: light the barrow, and stand back.*
+*In the Dragon Isles there is no priest who lifts a holy symbol and sends the skeletons scattering. You don't turn undead. You burn undead. The dead are dry — old bone, grave-linen, tomb-dust, the leathered husk of a thing that stopped drinking centuries ago. Nothing takes a torch more gladly. When you meet the walking dead, the plan is rarely subtle: light the barrow, and stand back.*
 
 **The mindless dead — steel fails, fire feasts.** The shambling horde (skeletons, corpse-things, grave-risen) are monsters with HP, built like any other, with one convention that makes the fiction mechanically true:
 
@@ -592,17 +596,17 @@ See [[Burners Principles#Armor and Resistance soak; they never roll]]. Armor is 
 
 So the answer to a crypt full of the shuffling dead is not a magic word — it is oil, flame, and a fast exit. Bring more oil than you think you need. You will use it.
 
-**The willful dead — the deal, not the torch.** The mighty dead are a different problem. A wraith has no dry flesh to catch. A lich keeps its life hidden in a phylactery the fire never touches. A vampire lord has laughed at torches for a thousand years. These are not a fire problem; they are an Apex Gate problem, and fire alone won't clear it. Against the willful dead a Burner needs one of the rarer answers:
+**The willful dead — the deal, not the torch.** The mighty dead are a different problem. A wraith has no dry flesh to catch. A lich keeps its life hidden in a phylactery the fire never touches. A vampire lord has laughed at torches for a thousand years. These are not a fire problem; they are an Apex Gate problem, and fire alone won't clear it. Against the willful dead you need one of the rarer answers:
 
-- **A Saint's patron.** A Burner who has dealt with an otherworldly being whose nature opposes the grave (see Invocations) may turn that being's power on the dead — not their holiness, but the patron's, lent through the pact. A Saint rebuking a lich in another thing's name is the Dragon Isles' true "turning," and it costs what all pacts cost.
+- **A Saint's patron.** If you have dealt with an otherworldly being whose nature opposes the grave (see Invocations), you may turn that being's power on the dead — not your holiness, but the patron's, lent through your pact. Rebuking a lich in another thing's name is the Dragon Isles' true "turning," and it costs what all pacts cost.
 
 - **A named or eldritch edge.** A woken Legendary weapon, a Relic, a holy or Named blade — the same edge that clears any Apex Gate (recall how the Kalla demon fell to the named Alu sickles). What the fire cannot burn, the right eldritch steel can cut.
 
-- **Nerve.** A Boss may face down the intelligent dead by sheer presence — cow a wraith, stare down a vampire's thrall — where a skeleton has no will to break but a thinking dead thing does.
+- **Nerve.** As a Boss you may face down the intelligent dead by sheer presence — cow a wraith, stare down a vampire's thrall — where a skeleton has no will to break but a thinking dead thing does.
 
 So the tiering is clean and needs no new subsystem: torch the horde; deal, name, or dare the lord.
 
-*"We don't turn undead. We burn undead." — every Burner who ever walked into a barrow with a lit brand and more oil than sense.*
+*"We don't turn undead. We burn undead." — the old barrow wisdom, and more oil than sense.*
 
 ### Defending against Damage
 
@@ -612,9 +616,9 @@ There is no defense roll to fail; when struck you commit dice from your Fuel and
 
 ## Magic
 
-Magic is prepared, not spontaneous: a Sorcerer **binds** workings into **Arcana** (one hour of study with spellbook in hand). A cast leaves the spell active for its duration, then used until cleared by sleep. Hostile magic lands through the same Defend economy as steel (see [[Burners Principles]]). Magic touches the rest of the game in two places: the Sorcerer title (Sorcerie 1) switches casting on, and a combat cast is one Action that spends at least L Fuel dice (L = the spell's level) and rolls them for the cast total. The spell catalog is [[Burners Sorcerie]]; the gate-free common school Sorcerie holds the workings every mage knows regardless of tradition (Read Magic, Detect Magic, the Ward Pact family, and the rest).
+Magic is prepared, not spontaneous: as a Sorcerer you **bind** workings into **Arcana** (one hour of study with your spellbook in hand). Your cast leaves the spell active for its duration, then used until you clear it with sleep. Hostile magic lands through the same Defend economy as steel (see [[Burners Principles]]). Magic touches your game in two places: the Sorcerer title (Sorcerie 1) switches casting on for you, and your combat cast is one Action that spends at least L Fuel dice (L = the spell's level) and rolls them for the cast total. The spell catalog is [[Burners Sorcerie]]; the gate-free common school Sorcerie holds the workings you know regardless of tradition (Read Magic, Detect Magic, the Ward Pact family, and the rest).
 
-The full rules of magic — the Sorcerer gate, Arcana and binding, spellbooks, ritual, the cast, Defend against hostile workings, and Reading Magic — live with the catalog on the **[[Burners Sorcerie]]** page; only a Sorcerer (or a Journeyman casting Canting) needs them. At the table everyone needs just two things: how a spell hits you (*Defending against a spell*, under Combat) and the quick reference below.
+The full rules of magic — the Sorcerer gate, Arcana and binding, spellbooks, ritual, the cast, Defend against hostile workings, and Reading Magic — live with the catalog on the **[[Burners Sorcerie]]** page; you need them if you are a Sorcerer (or a Journeyman casting Canting). At the table you need just two things: how a spell hits you (*Defending against a spell*, under Combat) and the quick reference below.
 
 ### Relics and sentient items
 
@@ -635,11 +639,11 @@ LIMITS  learn ≤ Sorcerie · bind ≤ Arcana Level · no HP-fuel · no spell-Si
 
 ## Lingering Costs: Poison, Petrification, Paralysis
 
-See [[Burners Principles#No instant death]]. A clean **Defend** avoids the bite — the fitting Approach against its Cost, Craft against poison (see Defend). Once it lands, it deals its level in damage to your HP each round for a number of rounds equal to its level, with no further defense. You escape it with a cure (an antidote, a Vitae working) or by surviving the duration. Past 0 HP it wounds each round — deepening your negative tally like any wound — or petrifies or paralyzes as the effect dictates, a state that recovers. The Guide rolls nothing, and the dread does the work.
+See [[Burners Principles#No instant death]]. When you **Defend** cleanly you avoid the bite — the fitting Approach against its Cost, Craft against poison (see Defend). Once it lands, it deals its level in damage to your HP each round for a number of rounds equal to its level, with no further defense. You escape it with a cure (an antidote, a Vitae working) or by surviving the duration. Past 0 HP it wounds you each round — deepening your negative tally like any wound — or petrifies or paralyzes you as the effect dictates, a state that recovers. The Guide rolls nothing, and the dread does the work.
 
 ## Area Effects
 
-See [[Burners Principles#Telegraph the unwinnable]]. Counter a monster breath by raising a shield (a legendary shield is broad), by having a caster ward it (an Action and a bump of Heat, cutting the top off for everyone), by cover, or by resistance. A **spell** area effect uses **Defend** and overrun like any other hostile working (see *Defending against a spell* in [[Burners Sorcerie]]).
+See [[Burners Principles#Telegraph the unwinnable]]. Counter a monster breath by raising your shield (a legendary shield is broad), by warding it yourself or having an ally cast (an Action and a bump of Heat, cutting the top off for everyone), by cover, or by resistance. A **spell** area effect uses **Defend** and overrun like any other hostile working (see *Defending against a spell* in [[Burners Sorcerie]]).
 
 ## Removal and One-Shots
 
@@ -653,46 +657,46 @@ Disposition is a fact of the world, which the Guide may roll on the Reaction tab
 
 ## The Boss — Leading the Company (Heart 1+)
 
-*The Veteran rules the melee, the Journeyman rules the journey, the Sorcerer rules the unseen — and the Boss rules the company. Heart is presence, command, and the strange gravity that makes frightened people follow you into a barrow they'd never enter alone. A Burner who is a Boss (Heart 1+) leads hirelings; one who is not can barely keep a torchbearer from bolting at the first bone-rattle.*
+*As a Veteran you rule the melee, as a Journeyman the journey, as a Sorcerer the unseen — and as a Boss you rule the company. Heart is presence, command, and the strange gravity that makes frightened people follow you into a barrow they'd never enter alone. If you have Heart 1+, you lead hirelings; if you don't, you can barely keep a torchbearer from bolting at the first bone-rattle.*
 
-*Boss is only the mechanical name for the Heart gate. Rename it to fit your character, and your hirelings will address you by that title: a grizzled soldier is the Captain, a fixer the Chief, a witch her Coven-Mother, a knight Ser or Dame, a crime lord the Boss. Pick the word your people call you — the rules are the same under any of them.*
+*Boss is only the mechanical name for the Heart gate. Rename it to fit your character, and your hirelings will address you by that title: Captain, Chief, Coven-Mother, Ser or Dame, Boss — pick the word your people call you. The rules are the same under any of them.*
 
 ### Hirelings — the bodies you bring into the dark
 
-A hireling is a hired hand: a torchbearer, a linkboy, a guide, a porter, a dockside sellsword, a local guttersnipe who knows the sewers. They are not Burners — they're ordinary folk (Sword 0, untrained: a thin pool of dice and no Veteran tricks) and they are usually the first to die. Bring them anyway. Someone has to hold the torch, carry the oil, and take the first arrow.
+A hireling is someone you hire: a torchbearer, a linkboy, a guide, a porter, a dockside sellsword, a local guttersnipe who knows the sewers. They are not Burners — they're ordinary folk (Sword 0, untrained: a thin pool of dice and no Veteran tricks) and they are usually the first to die. Bring them anyway. Someone has to hold the torch, carry the oil, and take the first arrow.
 
-The Boss gate does two things — count and nerve — and that's the lean core of it.
+Your Heart gate does two things — count and nerve — and that's the lean core of it.
 
 **Count — how many will follow.** Your Heart level caps the number of hirelings who will take service under you at once:
 
 - **Heart 0 (not a Boss):** you can scrape together one nervous hireling on a good day, and they'll leave the moment it gets ugly.
 
-- **Boss (Heart 1+):** you lead up to your Heart in hirelings as a standing company — and a Boss draws better recruits: where a nobody gets only the desperate, a Boss of standing attracts steady hands, guides who know the ground, and the occasional real sword.
+- **Boss (Heart 1+):** you lead up to your Heart in hirelings as a standing company — and with standing you draw better recruits: if you have no reputation you get only the desperate; with a Boss's name you attract steady hands, guides who know the ground, and the occasional real sword.
 
 *(How you find, pay, and part with hirelings is fiction and coin — a day's wage, a share of the take, a debt owed. The cap is simply how many will trust their skins to you.)*
 
 **Nerve — whether they hold or run.** Hirelings are not heroes, and the dark is full of reasons to run. Whenever the company faces something that would break ordinary resolve — a fight turning against them, a horror rising from the crypt, a comrade cut down, wages long overdue — the Guide calls a Morale Check for the affected hirelings:
 
-> **Morale Check:** roll 2d6 + the Boss's Heart against the moment's danger (the Guide sets the number, as for any check — a routine scare is low, a wraith clawing free of its tomb is high).
+> **Morale Check:** roll 2d6 + your Heart against the moment's danger (the Guide sets the number, as for any check — a routine scare is low, a wraith clawing free of its tomb is high).
 >
 > - **Meet or beat → they hold.** Your presence steadies them; they stay in the fight, keep the torch high, do the job.
 > - **Fall short → they break.** They flee, freeze, drop the torch and bolt, or throw down their tools and demand to leave — the Guide plays the failure by fiction.
 
-A Boss's Heart is what anchors them — the same terrified linkboy who bolts from a Heart-0 nobody will grit his teeth and hold the line for a true Boss. Leading from the front, sharing the risk, and keeping your word all give the Guide reason to ease the check; treating hirelings as arrow-fodder gives reason to harden it (word gets around, and so does the price of your recruits).
+A Boss's Heart is what anchors them — the same terrified linkboy who bolts from someone with Heart 0 will grit his teeth and hold the line for you. Leading from the front, sharing the risk, and keeping your word all give the Guide reason to ease the check; treating hirelings as arrow-fodder gives reason to harden it (word gets around, and so does the price of your recruits).
 
 ### Keep it lean
 
-That's the whole core: your Heart caps how many follow, and anchors whether they hold. A hireling needs no character sheet — run them as a simple Sword-0 NPC (a monster-style line: low HP, a weapon, no Veteran gear) and roll one Morale Check when the moment demands it. Don't track loyalty scores or henchman ledgers at the table unless you want to.
+That's the whole core: your Heart caps how many follow, and anchors whether they hold. You don't need a character sheet for each hireling — run them as a simple Sword-0 NPC (a monster-style line: low HP, a weapon, no Veteran gear) and roll one Morale Check when the moment demands it. Don't track loyalty scores or henchman ledgers at the table unless you want to.
 
 ### The fuller company
 
-Everything above is enough to play. What follows is texture for a table that wants to run a real retinue.
+Everything above is enough for you to play. What follows is texture if you want to run a real retinue.
 
-**Types.** A hireling is defined by one Trait naming their job — torchbearer, porter, guide, spearman, houndmaster — and carries the tools of that trade in their slots. An unusually good one has a Signature or a second Trait: a veteran sellsword's shield-wall, a guide who knows the old roads. They fight as Sword-0 NPCs, rolling a thin Fuel with no Veteran tricks and monster-style low HP, but armor still soaks for them, on the way in, as it does for anyone. Common hands: pack-bearers and linkboys (carry loads, hold light); spearmen and sellswords (a weapon and a little armor); shield-bearers (resupply a fighter's broken shields); squires (ready weapons, help don armor); war-dogs (a bite and a thick hide).
+**Types.** You define each hireling by one Trait naming their job — torchbearer, porter, guide, spearman, houndmaster — and the tools of that trade in their slots. An unusually good one has a Signature or a second Trait: a veteran sellsword's shield-wall, a guide who knows the old roads. They fight as Sword-0 NPCs, rolling a thin Fuel with no Veteran tricks and monster-style low HP, but armor still soaks for them on the way in, as it does for you. Common hands: pack-bearers and linkboys (carry loads, hold light); spearmen and sellswords (a weapon and a little armor); shield-bearers (resupply your broken shields); squires (ready your weapons, help you don armor); war-dogs (a bite and a thick hide).
 
-**Handling.** Some hirelings are easy, some are a handful. Each has a Handling of 1 to 4 — a docile, responsible hand is 1; a violent or surly one is 4 — and your Heart caps your company's *total Handling*, not raw bodies. A Boss of Heart 3 leads three meek porters, or one steady sellsword (2) and a linkboy (1). The Guide sets a hireling's Handling the first time they meet real pressure, and may lower it once they've settled into the company; jobs that turn on violence or unruliness run at +1 or +2. A hireling you can't handle does the job badly and makes trouble of their own.
+**Handling.** Some hirelings are easy, some are a handful. Each has a Handling of 1 to 4 — a docile, responsible hand is 1; a violent or surly one is 4 — and your Heart caps your company's *total Handling*, not raw bodies. With Heart 3 you lead three meek porters, or one steady sellsword (2) and a linkboy (1). The Guide sets a hireling's Handling the first time they meet real pressure, and may lower it once they've settled into your company; jobs that turn on violence or unruliness run at +1 or +2. A hireling you can't handle does the job badly and makes trouble of their own.
 
-**Finding and paying.** Hirelings are found in the fiction — a tavern notice, a dockside crew, a debt called in. The offer is a Reaction roll (see [[Burners Referee Guide]]), and a Boss adds Heart to it as to any Heart social move: a generous purse eases it, a bad name hardens it. A refusal soured badly enough poisons the well for a while. On the old-school standard a hireling wants a guaranteed fee *and* a share of the take: reckon roughly 1 gp a day for a common hand — more for a skilled sword or a guide who knows the ground — and at least a half-share of whatever the party hauls out. The share is what makes the risk worth their skin; a Boss who shorts the split soon finds no one will sign on. (A retainer earns advancement too, but slowly, and the trainee path below is how that pays off.)
+**Finding and paying.** You find hirelings in the fiction — a tavern notice, a dockside crew, a debt called in. The offer is a Reaction roll (see [[Burners Referee Guide]]), and you add your Heart to it as to any Heart social move: a generous purse eases it, a bad name hardens it. A refusal soured badly enough poisons the well for a while. On the old-school standard a hireling wants a guaranteed fee *and* a share of the take: reckon roughly 1 gp a day for a common hand — more for a skilled sword or a guide who knows the ground — and at least a half-share of whatever you haul out. The share is what makes the risk worth their skin; if you short the split, soon no one will sign on. (A retainer earns advancement too, but slowly, and the trainee path below is how that pays off.)
 
 **Mercenaries — the garrison.** Mercenaries are soldiers-for-hire, not companions. They hold a wall, guard a camp, or march with an army, but they will not descend into a barrow — and because you pay them rather than lead them into the dark, they do not count against your Heart cap. Post notices and hire by the month; food and basic kit are included in the rate, and every wage doubles in wartime.
 
@@ -703,8 +707,8 @@ Everything above is enough to play. What follows is texture for a table that wan
 | Heavy footman | 3 | Medium horseman / mounted archer | 15 |
 | Crossbowman | 4 | Heavy horseman | 20 |
 
-Their Morale is their own score — 6 for a peasant levy up to 9 for mounted troops — checked on 2d6 as any old-school unit; a Boss on the field can steady them as a Boss steadies anyone.
+Their Morale is their own score — 6 for a peasant levy up to 9 for mounted troops — checked on 2d6 as any old-school unit; if you're on the field as a Boss, you can steady them the same way you steady your hirelings.
 
-**From hireling to Burner.** A hireling who survives a few brushes with death may be promoted to a trainee adventurer: they shed their Handling, begin earning Traits and Signatures, and climb slowly toward a full Burner build. When a player's character dies, they may take a trainee as their new Burner. The Guide may also field the rare professional adventurer — a full PC-built NPC with their own goals — but these are uncommon; nearly everyone with a real sheet is a player.
+**From hireling to Burner.** A hireling who survives a few brushes with death may be promoted to a trainee adventurer: they shed their Handling, begin earning Traits and Signatures, and climb slowly toward a full Burner build. When your character dies, you may take a trainee as your new Burner. The Guide may also field the rare professional adventurer — a full PC-built NPC with their own goals — but these are uncommon; nearly everyone with a real sheet is a player at the table.
 
-*A Boss doesn't give their strength away. They make others braver than they have any right to be — and lead them somewhere they'll probably regret.*
+*You don't give your strength away. You make others braver than they have any right to be — and lead them somewhere they'll probably regret.*

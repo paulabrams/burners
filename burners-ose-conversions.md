@@ -203,7 +203,7 @@ Port OSE spells onto [[Burners Sorcerie]] when a match exists; otherwise write a
 - **Casting (NPC / module caster):** roll at least **L dice** for the cast total the same way. A hostile cast **Rolls initiative** if no fight is underway.
 - **Damage:** ignore OSE's per-caster-level dice and fixed damage lines. Hostile workings deal **overrun to HP 1:1** — cast total minus defense total, one HP per point. Do not re-price through a separate damage table.
 - **Defense:** *Save negates* → Fuel **Defend**; if **defense ≥ cast**, no effect. *Save for half* → **does not port** — HP harm **or** the spell's effect, never both. Physical blasts may be soaked by AC when physical in the fiction; mind-work ignores AC. No cap on defense dice. **Warding:** adjacent Sorcerer may Defend for allies.
-- **Charm / Sleep / Hold:** **Control** — effect-only, not HP pressure; fully defended: none; defense fell short: full or partial per the spell. Recoverable when the working ends.
+- **Charm / Sleep / Hold:** **Control** — never chips HP, it lands or it doesn't; fully defended: nothing; defense fell short: full or partial per the spell. Recoverable when the working ends.
 - **Scrolls** require a Sorcerer (Sorcerie 1+) to read.
 
 ---

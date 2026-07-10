@@ -84,7 +84,7 @@ Two things stand out. First, the fair fight, a genuine coin-flip around 50 to 70
 
 This is the defensive-coverage math showing through. A three-Burner party with one shield-tank can cleanly defend about four attackers a round: Aldric Parries the foe he engages and Blocks one other with his shield, while Pip and Senna each Parry only the one they engage. The fifth attacker gets a single Dodge die at best, and every body past that lands closer to whole. Five is exactly where coverage breaks.
 
-The practical upshot for the Guide: encounter lethality is extremely sensitive to headcount right at the party's capacity. Adding one body past four is not a small nudge, it roughly halves the party's odds. That is the dial to respect, far more than Heat or the size of any single monster.
+The practical upshot for the Referee: encounter lethality is extremely sensitive to headcount right at the party's capacity. Adding one body past four is not a small nudge, it roughly halves the party's odds. That is the dial to respect, far more than Heat or the size of any single monster.
 
 ## The HP roll swings the fair fight
 

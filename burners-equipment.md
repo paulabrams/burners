@@ -121,7 +121,7 @@ Learning a new spell (copying from a source into your book) burns **100 gp × th
 
 ## Pricing Anything Else
 
-Want something not on these tables? Price it with the **Gold Piece formula** carried from Wåndyr 1.5: a **base rate by slots × category**, then quality added on top. The Guide sets it once and adds it to the list, so it slots in without surprises. (These are the rates the tables above are built from; the Guide's copy lives in [[Burners Referee Guide]].)
+Want something not on these tables? Price it with the **Gold Piece formula** carried from Wåndyr 1.5: a **base rate by slots × category**, then quality added on top. The Referee sets it once and adds it to the list, so it slots in without surprises. (These are the rates the tables above are built from; the Referee's copy lives in [[Burners Referee Guide]].)
 
 **Base rate — gp per slot:**
 

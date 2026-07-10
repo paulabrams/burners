@@ -17,7 +17,7 @@ hero_alt: "The faithful beasts — H. J. Ford"
 > - **Secrets become Signatures** — see [[Burners Principles#Earned in play]]. Spells that are plainly spells are learned through [[Burners Sorcerie]] instead.
 > - **Gifts** (Drisi, Karrock) — the "Gifts Secret" becomes a **Gifts Signature**; each gift manifested is an innate Asset while it shows.
 > - **Signature Assets** — name items in play, never at creation (see [[Burners Arms and Armor]]).
-> - **Dark Secrets** — Burners has no slot for these; keep one anyway, as written, and hand it to the Guide. It is a hook, and hooks get pulled.
+> - **Dark Secrets** — Burners has no slot for these; keep one anyway, as written, and hand it to the Referee. It is a hook, and hooks get pulled.
 > - **Paths** — goals and quests. XP stays OSE only — see [[Burners Principles#Earned in play]]. A completed Path pays off in fiction, Traits, or a Signature emerging.
 
 ---
@@ -28,7 +28,7 @@ The following set of character "ancestries" are recommended choices for your cha
 
 You are recommended to choose one of them. This provides you with a ready-made distinctive "look" and cultural heritage that fits into the campaign setting, and keeps it simple for other players to understand and relate to you.
 
-However, if you have a creative idea of your own then feel free to discuss it with the GM. Some players have created truly unique characters such as a "winter wolf" or "baby platinum dragon". This can be a very challenging roleplaying experience. If you choose to do this then you are recommended to create close tie-ins to at least one other character to help you integrate with the fantasy world.
+However, if you have a creative idea of your own then feel free to discuss it with the Referee. Some players have created truly unique characters such as a "winter wolf" or "baby platinum dragon". This can be a very challenging roleplaying experience. If you choose to do this then you are recommended to create close tie-ins to at least one other character to help you integrate with the fantasy world.
 
 ## Northmarens
 

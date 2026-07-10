@@ -40,7 +40,7 @@ To work magic you must be a **Sorcerer — Sorcerie 1 or higher.** Below that yo
 
 ### Spells meshing with combat
 
-Each entry in the catalog below has a name, level, and effect — run it as written unless this chapter, the spell list, or the Guide says otherwise. Where a spell's effect must mesh with combat:
+Each entry in the catalog below has a name, level, and effect — run it as written unless this chapter, the spell list, or the Referee says otherwise. Where a spell's effect must mesh with combat:
 
 - **HP and damage** that target a creature come off HP. Physical effects may be soaked by AC after Defend (see [[Burners Principles#Harm and effect are separate lanes]]).
 - **Hostile magic** is opposed with **Defend** — Fuel dice vs the caster's cast total. A hostile cast where no fight is yet underway still rolls initiative. Choose whichever Approach fits; a spell may suggest one (*Defend: Sword*). Procedure: *Defending against a spell* below.
@@ -90,7 +90,7 @@ A starting Sorcerer's two foci come with their apprenticeship; every focus after
 - **Disarm the mage.** This cuts both ways — snatch an enemy sorcerer's wand, break the staff, tear off the runed robe, and their bindings snap as above. A sorcerer parted from every focus is as harmless as a layman until they recover one and bind again.
 - **Cast through the Arcana** that binds the spell — that focus must be equipped when you release the working.
 - **Several Arcana** may be carried if you have the slots; each holds its own spells, each within its Level.
-- **Trait match (optional):** the Guide may require a relevant Sorcerie Trait to attune a given Arcana. Default: if you can equip it, you can use it.
+- **Trait match (optional):** the Referee may require a relevant Sorcerie Trait to attune a given Arcana. Default: if you can equip it, you can use it.
 
 **Legendary Arcana.** A legendary focus is still an Arcana (with its own Level, often a high one). Once its true name is discovered and you are a Sorcerer, it grants the third die on casts of spells bound in it (see [[Burners Invocations]] for Relics and true names) — power is wild, with Sweet/Spicy tails. About 1 in 6 speaks.
 
@@ -105,7 +105,7 @@ A Sorcerer's magic lives in books, not in Signatures, and learning a spell costs
 
 **The level gate — caster level = spell level.** Your Sorcerie is your caster level: you may learn and know spells of level up to your Sorcerie. A Sorcerie-1 mage learns only 1st-level spells; a Sorcerie-6 up to 6th. Finding a Level-6 relic focus does not let a first-rank sorcerer cast a 6th — they could never have learned it. Knowledge is gated by Sorcerie; the vessel by the Arcana's Level; you need both.
 
-**Learning a spell.** With a source — another mage's book, a scroll, a captured grimoire, a teacher — spend downtime copying it into your book: the work burns **100 gp × the spell's level** in special reagent inks (silver-salt, dragon's-gall, powdered gem — the price climbing with level) and about a week × its level, then roll **`2d6 + Sorcerie`** against **`8 + spell level`**. Meet it and the spell is known and scribed; miss and the ink is spoiled — buy fresh and study another week. The Guide may also grant a spell as known. No XP either way. Plain satchel ink is free and records **Facts**, but only reagent inks fix a working permanently.
+**Learning a spell.** With a source — another mage's book, a scroll, a captured grimoire, a teacher — spend downtime copying it into your book: the work burns **100 gp × the spell's level** in special reagent inks (silver-salt, dragon's-gall, powdered gem — the price climbing with level) and about a week × its level, then roll **`2d6 + Sorcerie`** against **`8 + spell level`**. Meet it and the spell is known and scribed; miss and the ink is spoiled — buy fresh and study another week. The Referee may also grant a spell as known. No XP either way. Plain satchel ink is free and records **Facts**, but only reagent inks fix a working permanently.
 
 **Copies, spares, and backups.** A spellbook is a single point of failure; wise sorcerers keep a duplicate in the vault. Scribing a spell you already know into another of your books needs no roll — it is already yours — only ink and labour:
 
@@ -123,7 +123,7 @@ A known spell can be worked straight from your book, with no Arcana — but slow
 
 **You must sustain it.** The spell holds only while you stay inside the circle with the book open. Leave the circle or close the book and the ritual collapses retroactively: any ongoing duration ends at once, and any effect the spell produced reverses — a ritual heal un-heals, a conjured wall winks out, a charmed guard comes to their senses. You cannot bank a ritual and carry its fruit away — that is what Arcana are for.
 
-**Knowledge is the exception.** Whatever a spell puts in your *mind* stays — *Detect Magic*'s auras, a divination's answer, anything the Guide judges is now simply known. A held ward, a light kept burning, a scrying eye over a still pool, a working you exploit in the moment: these are the rituals that pay.
+**Knowledge is the exception.** Whatever a spell puts in your *mind* stays — *Detect Magic*'s auras, a divination's answer, anything the Referee judges is now simply known. A held ward, a light kept burning, a scrying eye over a still pool, a working you exploit in the moment: these are the rituals that pay.
 
 ### Binding Spells
 
@@ -141,14 +141,14 @@ With your spellbook in hand, spend one hour of rest and study to bind or rebind 
 1. **Say what you do** — name the spell and its effect in the fiction. If it is clever, feasible, and backed by who you are, it may simply work (Step 1). If it is feasible but risky, pay the Cost (Step 2).
 2. **Pay the Cost.**
    - **In combat**, casting is one Action: commit at least L Fuel dice from your pool (L = the working's level) and roll them. The **cast total** is the sum of those faces — the force behind the working. A 6 is a Spark, as with any Action.
-   - **Out of combat** (ritual, exploration, social magic), roll **`2d6 + Sorcerie`** against the Guide's Cost — +1 die if you cast through a legendary Arcana.
+   - **Out of combat** (ritual, exploration, social magic), roll **`2d6 + Sorcerie`** against the Referee's Cost — +1 die if you cast through a legendary Arcana.
 3. **Mark the slot active.** The spell stays on the Arcana: the slot becomes active for its duration, then used when the working ends. Instant effects become used as soon as they resolve. You cannot cast the same bound spell again from that slot while it is active or used.
 
-**When a cast Sparks.** Casting commits at least L Fuel dice (L = the working's level) and rolls them — that minimum never changes. A 6 among them is a Spark. With no Spark the spell resolves as written. With one, you may spend the Spark on the *working itself* — another target caught, a beat longer, a ward pierced, a control that grabs a rung higher (Guide's call) — or spend up to L additional Fuel dice (rolled at their faces, spent for the fight) to push the effect further. A bigger working commits more dice, so it Sparks more often. Multiple Sparks each buy a rider, extra Fuel, or a second action.
+**When a cast Sparks.** Casting commits at least L Fuel dice (L = the working's level) and rolls them — that minimum never changes. A 6 among them is a Spark. With no Spark the spell resolves as written. With one, you may spend the Spark on the *working itself* — another target caught, a beat longer, a ward pierced, a control that grabs a rung higher (Referee's call) — or spend up to L additional Fuel dice (rolled at their faces, spent for the fight) to push the effect further. A bigger working commits more dice, so it Sparks more often. Multiple Sparks each buy a rider, extra Fuel, or a second action.
 
 The caster is exposed like anyone taking an Action; struck mid-cast, you defend with Sword like anyone. A hostile working coming *at* you is handled under *Defending against a spell* below and in [[Burners Adventure Game]].
 
-**Double Spicy** on a combat cast is a fumble — the working goes wrong (the Guide's worst fitting outcome: singe an ally, alert the ward, the slot goes used with no effect).
+**Double Spicy** on a combat cast is a fumble — the working goes wrong (the Referee's worst fitting outcome: singe an ally, alert the ward, the slot goes used with no effect).
 
 ### Defending against a spell
 
@@ -179,7 +179,7 @@ Spells with no hostile target (light on a wall, healing a willing ally, reading 
 
 If you have a Trait in a magic school you are a practitioner of it: literate in its abstruse language up to your level. In a school you are trained in you read the plain words of its writing for free — see the runes, count them, know their literal meanings; the script of a school you hold no Trait in is chicken-scratch until the *Read Magic* working deciphers it. What always costs you is **interpretation**: the enchantment beneath the script, what the words do, how they combine, what wakes them.
 
-Studying a writing or item is an Action; describe how deep you probe. Interpretation is a Step-2 risk — the deeper the reading, the steeper the Cost (HP, time, noise, or a Spicy twist). Roll it out (Sorcerie, out of danger). On a success the Guide reveals one **Fact** at the depth you reached — a power (what it does), a demand (what it costs), or an omen (what changes about the bearer or world). On a **Sweet** you fully grasp it and a revealed power can be called on demand; on a **Spicy** the reading misleads or trips the power wrongly.
+Studying a writing or item is an Action; describe how deep you probe. Interpretation is a Step-2 risk — the deeper the reading, the steeper the Cost (HP, time, noise, or a Spicy twist). Roll it out (Sorcerie, out of danger). On a success the Referee reveals one **Fact** at the depth you reached — a power (what it does), a demand (what it costs), or an omen (what changes about the bearer or world). On a **Sweet** you fully grasp it and a revealed power can be called on demand; on a **Spicy** the reading misleads or trips the power wrongly.
 
 Track each magical item as two short lists, filled in as study and play reveal them: **Facts** (established truths) and **Questions** (open threads). A Fact scribbled here is the same kind of note as a spell-scrap in your book — free to record, and promoted to a known spell only by paying the *Learning a spell* cost above.
 
@@ -268,7 +268,7 @@ Life Bloom — *encourage growth*
 
 Forest Touch — *speak with plants*
 Pacify — *remove violence*
-Star Guide — *find true path*
+Star Referee — *find true path*
 Sun Beam — *channel daylight*
 Thicket — *grow healthy plants*
 Truth Sight — *see through lies*
@@ -1028,7 +1028,7 @@ Necromantia 2: Sense living creatures within Sorcerie × 60' for Sorcerie turns.
 
 Sorcerie 2: For Sorcerie turns you sense the direction to the nearest example of one object
 you name and clearly picture, within Sorcerie × 100'. Finds objects, not creatures, and is
-blind to anything warded (a Dark Anchor, lead, running water at the Guide's call).
+blind to anything warded (a Dark Anchor, lead, running water at the Referee's call).
 
 #### Lock
 
@@ -1117,7 +1117,7 @@ Elementale 3: The air within Sorcerie × 10' of you becomes swimmable.
 
 #### Mend
 
-Thaumaturgy 3: Repair one broken mundane object up to chair-size; magical items need Sorcerie vs the Guide's Cost. *Objects only — not flesh.*
+Thaumaturgy 3: Repair one broken mundane object up to chair-size; magical items need Sorcerie vs the Referee's Cost. *Objects only — not flesh.*
 
 #### Mind Shatter
 
@@ -1145,7 +1145,7 @@ Umbrakala 3: Plant a nightmare in one sleeper; Defend; if defense < cast, they w
 
 #### Object Memory
 
-Thaumaturgy 3: The Guide answers Sorcerie yes or no questions about an object.
+Thaumaturgy 3: The Referee answers Sorcerie yes or no questions about an object.
 
 #### Ooze Form
 
@@ -1169,7 +1169,7 @@ Illusione 3: You can create illusory sounds that seem to come from Sorcerie dire
 
 #### Psychometry
 
-Necromantia 3: The Guide answers Sorcerie yes or no questions about an object.
+Necromantia 3: The Referee answers Sorcerie yes or no questions about an object.
 
 #### Rain Make
 
@@ -1203,7 +1203,7 @@ Necromantia 3: A creature can smell all scents up to 120' away for Sorcerie turn
 
 Thaumaturgy 3: You can climb surfaces like a spider for Sorcerie turns.
 
-#### Star Guide
+#### Star Referee
 
 Vitae 3: For Sorcerie hours you know the true direction to one named place you have visited before.
 
@@ -1376,7 +1376,7 @@ Necromantia 4: The spirit of a touched dead body appears and will answer Sorceri
 
 #### Stone Tell
 
-Elementale 4: The Guide answers Sorcerie yes or no questions about an object.
+Elementale 4: The Referee answers Sorcerie yes or no questions about an object.
 
 #### Teleport
 
@@ -1434,7 +1434,7 @@ Canting 5: Sorcerie guards rush to a false alarm you trigger.
 
 #### Cure Disease
 
-Vitae 5: Touch one creature; one mundane disease or poison cycle ends. Magical afflictions need Sorcerie vs the Guide's Cost.
+Vitae 5: Touch one creature; one mundane disease or poison cycle ends. Magical afflictions need Sorcerie vs the Referee's Cost.
 
 #### Darkmans Veil
 

@@ -82,7 +82,7 @@ hero_alt: "Travelers on the road — Albert Robida"
 
 ### Combat 2 — The Cellarer (a wight). Heat 7 → 9.
 
-Buried armed: **grave-sword** (2 slots) and a **grave-byrnie**, old chain still sound (soak 2). HD 3 → **15 HP**. **Resistance 5 vs mundane arms** — grave-cold flesh — with silver the named weakness (it ignores the Resistance, though not the byrnie). The Guide announces it rising from its bier: **+2 Heat → 9.**
+Buried armed: **grave-sword** (2 slots) and a **grave-byrnie**, old chain still sound (soak 2). HD 3 → **15 HP**. **Resistance 5 vs mundane arms** — grave-cold flesh — with silver the named weakness (it ignores the Resistance, though not the byrnie). The Referee announces it rising from its bier: **+2 Heat → 9.**
 
 **Rolling Initiative.** The wight's pool is **14 dice** — 3 (HD) + 2 (sword) + 9 (Heat) — the hot scene fighting back hard. It reads six 3s/4s: **Initiative 6, first**. As a named foe it takes the full Wound rules and strikes twice.
 
@@ -121,7 +121,7 @@ Buried armed: **grave-sword** (2 slots) and a **grave-byrnie**, old chain still 
 ### After
 
 - **Downtime:** Heat cools to base; the job stayed quiet, so the town base is unchanged.
-- **Take:** strongbox (Guide: 400 gp + deed papers), 120 gp, silvered knife, **the Cellarer's grave-sword** — old, fine make, a worn-off name (a Signature waiting to be read) — and its **grave-byrnie**, wearable after a Journeyman's mending.
+- **Take:** strongbox (Referee: 400 gp + deed papers), 120 gp, silvered knife, **the Cellarer's grave-sword** — old, fine make, a worn-off name (a Signature waiting to be read) — and its **grave-byrnie**, wearable after a Journeyman's mending.
 - **Wounds:** Ilsa sits at **−2 HP** with a dead arm. Rest does nothing while she is negative; each safe night with food climbs her 1 HP — two nights to 0 — then one hour's rest refills her to 3, and at full HP the arm wound closes. Her wand clears to empty on the first night's sleep.
 - **Torches spent:** 2. **Turns:** 7.
 
@@ -152,12 +152,12 @@ Buried armed: **grave-sword** (2 slots) and a **grave-byrnie**, old chain still 
 
 ### The parley (Heart)
 
-- **First meeting — Reaction roll** (Guide): 2d6 + Brand's Heart 1 = **8**. Cool but willing: Marlow will deal, at his price.
+- **First meeting — Reaction roll** (Referee): 2d6 + Brand's Heart 1 = **8**. Cool but willing: Marlow will deal, at his price.
 - **Brand opens** — the papers for 300 gp. That is a fair ask backed by real goods, so it simply works as an offer on the table (Step 1); no roll for whether the world listens.
-- **Marlow lowballs** — 100 gp, and a smile. Brand wants the fixer's *real* ceiling — a read, and risky to press for: Pay @ Heat 4 → 2d6+1 = **9** ✓. The Guide gives it: Marlow is fronting for Varn's rival and will pay well over 300 — but he wants the crew *cheap or gone*.
+- **Marlow lowballs** — 100 gp, and a smile. Brand wants the fixer's *real* ceiling — a read, and risky to press for: Pay @ Heat 4 → 2d6+1 = **9** ✓. The Referee gives it: Marlow is fronting for Varn's rival and will pay well over 300 — but he wants the crew *cheap or gone*.
 - **Brand presses** — names the rival aloud, and asks 400. A hard squeeze on a made man: Pay @ Heat 4 → 2d6+1 = **6**, short → the squeeze shows, the table hears it → **Heat 5**.
 - **Sefa reads the room** (Craft): Deal @ 5 → 2d6+1 = **10** ✓ — the bravos have shifted their stools clear of the table, and the ringed man's hands are under it. A revealed threat sets a floor: **Heat holds at 5, floor 5.**
-- **Marlow leans back** — "Three hundred, then. Shake on it." The Guide telegraphs: the sharper's lips are moving.
+- **Marlow leans back** — "Three hundred, then. Shake on it." The Referee telegraphs: the sharper's lips are moving.
 
 ### Steel comes out — roll initiative
 
@@ -178,7 +178,7 @@ Initiative is the count of 3s and 4s. Kragg reads **3**, the sharper **2**, Ilsa
 
 - **Kragg** (Veteran, two attacks; the axe stays sheathed — this is a tavern) spends one attack as a **Stunt**: heaves the table into the sharper. Force 5,4 = 9; the sharper Defends 4,2 = 6 → bowled over, **prone**, and his concentration goes with his footing — but the working is already in the air; it resolves on his turn. Second attack held to **Block** for Brand. *(Kragg 5→2 dice, one showing 3 spent — Initiative drops next read.)*
 - **Sharper** (from the floor) finishes the cast — *Bewitch* (Illusione 1, one bound charm on the ring): commits 1 Fuel die = **5**. **Cast total 5.** Brand may Defend — but **Ilsa is adjacent and Wards for him** instead: she commits 2 dice, 4 + 2 = **6**. **Defense 6 ≥ cast 5: fully defended.** No charm, no HP, nothing — the working breaks on her ward like a wave. *(Ilsa 6→4 dice; sharper 8→7.)*
-- **Ilsa** (her Action still unspent — warding is a defense, not a turn): casts her wand's *dart* at the sharper. 1 die = **6** — cast total 6, and the 6 is a **Spark**. The sharper, prone and rattled, Defends with 2 dice: 3,2 = **5**. **Overrun 1** → 1 to HP (5 HP → 4). She spends the Spark on the working itself: the Guide lets the dart pin his ring-hand to the floorboards — his Arcana is out of play until he frees it. Slot goes **used**. *(Ilsa 4→3; sharper 7→5.)*
+- **Ilsa** (her Action still unspent — warding is a defense, not a turn): casts her wand's *dart* at the sharper. 1 die = **6** — cast total 6, and the 6 is a **Spark**. The sharper, prone and rattled, Defends with 2 dice: 3,2 = **5**. **Overrun 1** → 1 to HP (5 HP → 4). She spends the Spark on the working itself: the Referee lets the dart pin his ring-hand to the floorboards — his Arcana is out of play until he frees it. Slot goes **used**. *(Ilsa 4→3; sharper 7→5.)*
 - **Bravo 1** lunges at Sefa, knife out: 1 die = **4**. Sefa, not meleeing him, gets a bare **Dodge**: spends a 3 → 1 through, no armor tonight → **Sefa 3 HP → 2.** *(Sefa 5→4.)*
 - **Brand** rises, sword *now* in hand (drawing comes free with his Action), and swings at bravo 1: 1 die = **5** → 5 dmg, bravo 1 (5 HP) **down**. *(Brand 5→4.)*
 - **Sefa** draws the holdout — **1 Fuel to pull it in a fight** — and marks bravo 2. *(Sefa 4→3.)*
@@ -186,7 +186,7 @@ Initiative is the count of 3s and 4s. Kragg reads **3**, the sharper **2**, Ilsa
 
 **Round 2.** Refill +1 die each. Initiative re-read; Kragg still tops it.
 
-- **Kragg** hauls the sharper up by the collar — a **Stunt** to grapple, force 4,3 = 7 against a prone, pinned man; the Guide rules there is no real contest. Held fast. *(Kragg 3→1.)*
+- **Kragg** hauls the sharper up by the collar — a **Stunt** to grapple, force 4,3 = 7 against a prone, pinned man; the Referee rules there is no real contest. Held fast. *(Kragg 3→1.)*
 - **Sharper**, ringless and in a fist: folds. "Enough — *enough*."
 - **Bravo 2** — his principal just quit: **Morale check: 10 — breaks**, and he's out the door.
 - Fight over. It never rose past the floor: **Heat 5**, and the room saw the *other* table start it.

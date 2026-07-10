@@ -34,7 +34,7 @@ Every weapon, armor, or tool sits on one ladder, bottom to top. Only the first t
 
 ### Signatures and Secrets
 
-A **Signature** is the fiction of that third rung — a name, a look, a history (*"Naurdring the goblin slicer"*; *"a tunic, royal blue with gold embroidering"*). It is not a die bonus; there are none. What it does is lend an action credibility, the way a fitting Theme or Trait does — declare it and the Guide may let the deed simply succeed (Step 1). A woken **legendary** Signature is the sole exception, granting the third die (see Legendary Items). Write it with the item type and Tags, e.g. *"Naurdring, the goblin slicer [Longsword Class3 Slots3…]"*. A **damaged** Asset can lose its Signature — fine velvet is ruined by a crawl through a cavern — so save your best for when it counts.
+A **Signature** is the fiction of that third rung — a name, a look, a history (*"Naurdring the goblin slicer"*; *"a tunic, royal blue with gold embroidering"*). It is not a die bonus; there are none. What it does is lend an action credibility, the way a fitting Theme or Trait does — declare it and the Referee may let the deed simply succeed (Step 1). A woken **legendary** Signature is the sole exception, granting the third die (see Legendary Items). Write it with the item type and Tags, e.g. *"Naurdring, the goblin slicer [Longsword Class3 Slots3…]"*. A **damaged** Asset can lose its Signature — fine velvet is ruined by a crawl through a cavern — so save your best for when it counts.
 
 A **Secret** is a power hung on an Asset — a ring's hidden compartment, a blade that detects evil, a flask of holy water that mends. Asset Secrets work like any other Secret and share the requirements (a supporting Theme, a Cost to use — usually Heat — and any leash).
 
@@ -90,7 +90,7 @@ Versatile sidearms, particularly excellent at defense — able to parry and defl
 
 ### Military Weapons
 
-Strongly associated with military units; most need training in a military order. Many towns restrict possession within the walls except by official guards — the GM may have guards harass, fine, or confiscate.
+Strongly associated with military units; most need training in a military order. Many towns restrict possession within the walls except by official guards — the Referee may have guards harass, fine, or confiscate.
 
 - **Shield Punch** `[Class1 Slots0 Close Binding Defensive]` — uses the boss or rim.
 - **Rifle Stock** `[Class1 Slots1 2H Short]` — using the heavy rifle stock as a club.
@@ -159,7 +159,7 @@ Weapons carry tags for their characteristics; many describe a way to upgrade in 
 - **Binding** — can "bind" a foe's weapon with sticky contact. Spend a Maneuver to bind; upgrade attacks and defenses vs that foe. Re-binding in response to a bind: whoever binds last is "winning the bind."
 - **Breaching** — strong enough to force doors, chests, windows; other weapons break under such abuse.
 - **Civil** — less threatening; legal to carry in towns.
-- **Control** — (long swords, short polearms) easily turned to strike any direction; ideal for area control and fending off multiple foes. If the GM raises Heat for being surrounded/flanked, spend a Maneuver to negate the raise. Two hands only, at the listed range (e.g. `Control-Medium`).
+- **Control** — (long swords, short polearms) easily turned to strike any direction; ideal for area control and fending off multiple foes. If the Referee raises Heat for being surrounded/flanked, spend a Maneuver to negate the raise. Two hands only, at the listed range (e.g. `Control-Medium`).
 - **Cutty** — can cleave soft targets. After a Sweet against a soft target (your WC beats their AC) you may attack again with the same weapon.
 - **Custom** — higher-quality, bespoke, perfectly made.
 - **Defensive** — equivalent to a shield, using Weapon Class.

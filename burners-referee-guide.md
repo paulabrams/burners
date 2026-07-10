@@ -112,7 +112,7 @@ Pick the one that bites hardest right now. Deep in the dark with torches low, bu
 
 Fatigue is why the party cannot crawl forever, and it needs no separate clock — it feeds Heat, because Heat is the crew's shared wind and nerve, and wearing down a long crawl is exactly the loss of those. A fatigue tick raises the gauge, usually +1, and it rides there until the crew vents it.
 
-A Journeyman keeps the band fresh. The [[Burners Adventure Game|Journeyman's craft]] reduces party-wide travel, weather, and survival costs by the guide's Craft level, and fatigue in the dark is a survival cost like any other. Subtract the guide's Craft from the tick for everyone they are leading: Craft 1 shrugs off a routine +1 entirely. Fatigue bites when the party has no guide, when the guide is down or split off from the group, or when the place is harsh enough to outrun their level. Scale the tick to the dungeon — a mild crawl adds 1, a brutal one (heat, thin air, crushing dark) adds 2 or 3, so a guide's Craft matters more the worse the ground gets.
+A Journeyman keeps the band fresh. The [[Burners Adventure Game|Journeyman's craft]] reduces party-wide travel, weather, and survival costs by the Journeyman's Craft level, and fatigue in the dark is a survival cost like any other. Subtract the Journeyman's Craft from the tick for everyone they are leading: Craft 1 shrugs off a routine +1 entirely. Fatigue bites when the party has no Journeyman, when the Journeyman is down or split off from the group, or when the place is harsh enough to outrun their level. Scale the tick to the dungeon — a mild crawl adds 1, a brutal one (heat, thin air, crushing dark) adds 2 or 3, so a Journeyman's Craft matters more the worse the ground gets.
 
 The over-extended party is the danger this builds: the grind pushes Heat up even when nothing is attacking, so a crew that lingers, lost and tired, walks into the next fight against a hotter scene — the enemy rolling a deeper pool and acting first. "We're worn thin and the room's boiling, and nothing's even swung at us yet — we have to get out" is the pressure a long crawl builds even when nobody has taken a wound.
 
@@ -202,7 +202,7 @@ A monster is any enemy, built on a simple stat block of Hit Dice, hide, and atta
 
 ## Situational Damage Modifiers
 
-The Guide raises or lowers Damage for the situation. Set a value from the band, or roll a swing die when the moment is chaotic. Narrate the cause so players can attack the reason.
+The Referee raises or lowers Damage for the situation. Set a value from the band, or roll a swing die when the moment is chaotic. Narrate the cause so players can attack the reason.
 
 | Band | Feel | Examples |
 | --- | --- | --- |

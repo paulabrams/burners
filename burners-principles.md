@@ -27,7 +27,7 @@ Player skill decides whether the world bends; your Approach decides only how muc
 
 Burners has no save-or-die. Endurance is **Defend** — a graded contest, not a gate you pass or fail.
 
-- **Out of combat**, a hazard is **`2d6 +` the fitting Approach** against the Guide's Cost. You may soften the price, bear it whole, or dodge it clean — but the outcome is a matter of degree, not a single on/off switch.
+- **Out of combat**, a hazard is **`2d6 +` the fitting Approach** against the Referee's Cost. You may soften the price, bear it whole, or dodge it clean — but the outcome is a matter of degree, not a single on/off switch.
 - **In combat**, blows land. You **commit Fuel dice** and cut incoming damage by their faces; armor soaks the rest; what remains comes off HP. Parry, Block, and Riposte are ways to spend deeper into the pool — not a roll that erases the hit.
 - **Hostile magic** uses the same Fuel economy as steel. The caster's **cast total** (sum of faces spent to cast) opposes your **defense total** (sum of faces you commit). Partial defense means partial effect: **overrun** = cast − defense, applied as harm to HP *or* as the spell's hold — never both. There is no "save for half" — you defended as well as your dice allowed.
 
@@ -92,6 +92,8 @@ Legendary harness and focus — the **third die** — are looted or earned, neve
 
 An **Invocation** is a bargain, not a spell. No Arcana, no spellbook, no school Trait. **Patron Alignment** is not Sorcerie level — a torch-hand may be Lunara 3 and never cast; a Sorcerer may know every school and stand a stranger to every god.
 
+**Not wishes.** Players will reach for Invocations whenever they are stuck — Wåndyr taught that the hard way. The **Cost roll** gates whether a patron hears you; the **Offer and Ask** are where the Referee balances what you get against what you owe. Neither is a menu for rewriting the scene.
+
 ---
 
 ## Sweet and Spicy vs Spark
@@ -141,7 +143,7 @@ Twenty militia hacking a high-Resistance thing each land almost nothing while it
 When a hostile working overruns your defense:
 
 - **Damage** applies overrun to HP 1:1 (then AC and Resistance where they apply). **Physical** manifestations — conjured blade, stone shards, dodgeable cone — may be soaked by AC after Defend; **non-physical** workings ignore AC.
-- **Control** (charm, sleep, fear, command…) never chips HP. Fully defended: nothing. Defense fell short: the working takes hold — full or partial per the spell and the overrun (Guide's call on edge cases). Recover when the working ends or is broken.
+- **Control** (charm, sleep, fear, command…) never chips HP. Fully defended: nothing. Defense fell short: the working takes hold — full or partial per the spell and the overrun (Referee's call on edge cases). Recover when the working ends or is broken.
 
 Never both harm and hold from the same working on the same target. OSE *save for half* does not port.
 
@@ -157,13 +159,13 @@ Poison, paralysis, petrification, death rays, and energy drain route into subsys
 - **Shock Checks** and **Wounds** when HP goes past 0;
 - a **telegraphed area effect** you ward, cover, or eat.
 
-Death comes in the fight — wounds driven to −12 with a failed Shock Check, or a coup de grace on a helpless body — not on a single failed save out of combat. The Guide may offer a maiming at the brink instead.
+Death comes in the fight — wounds driven to −12 with a failed Shock Check, or a coup de grace on a helpless body — not on a single failed save out of combat. The Referee may offer a maiming at the brink instead.
 
 ---
 
 ## Telegraph the unwinnable
 
-A **monster** area effect — dragon breath, a collapsing ceiling — is often the blow you cannot slip. The Guide telegraphs it ("its chest glows") so warding, cover, or eating the quoted damage is a **choice**, not a gotcha. No Fuel Defend against a dragon's cone.
+A **monster** area effect — dragon breath, a collapsing ceiling — is often the blow you cannot slip. The Referee telegraphs it ("its chest glows") so warding, cover, or eating the quoted damage is a **choice**, not a gotcha. No Fuel Defend against a dragon's cone.
 
 A **spell** cone or burst uses **Defend** and overrun like any other hostile working.
 
@@ -195,7 +197,7 @@ The full OSE routing tables live in [[Burners OSE Conversions]]. Read a stat blo
 - **Spend dice.** Defense is a resource decision, not a permission check.
 - **Name the harm.** Resistance and weaknesses are fiction first; the numbers follow.
 - **Telegraph the big hits.** Dragon breath and collapsing ceilings are choices, not gotchas.
-- **Let the dread work.** Lingering Costs and wound depth do the horror; the Guide does not re-roll every round.
+- **Let the dread work.** Lingering Costs and wound depth do the horror; the Referee does not re-roll every round.
 - **Face the Heat dial.** Foreshadowing in module text is a raise; preparation is a reduction.
 - **Don't double-count dread.** Creature stats and scene Heat are separate levers.
 

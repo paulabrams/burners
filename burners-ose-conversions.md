@@ -90,7 +90,7 @@ See [[Burners Principles#Pools, not fixed numbers]]. A monster's pool comes from
 - **dice for its weapon's slots** — a held weapon or a natural attack, read from the damage die below;
 - **the scene's Heat as dice** — added to the enemy side once, so a swarm does not multiply it.
 
-A monster spends its pool exactly as a character does: each blow is up to three dice (one die, plus one for a big two-handed stroke and one for an enchanted weapon), and a fierce or many-limbed foe makes extra attacks by its nature — a wolf bites once, a bear claws twice, a hydra strikes per head — the Guide setting how many, not the HD. It defends as anyone does: a single die to Dodge most blows, freely to Parry a foe it melees, or freely with a shield to Block one attacker (see [[Burners Adventure Game]]).
+A monster spends its pool exactly as a character does: each blow is up to three dice (one die, plus one for a big two-handed stroke and one for an enchanted weapon), and a fierce or many-limbed foe makes extra attacks by its nature — a wolf bites once, a bear claws twice, a hydra strikes per head — the Referee setting how many, not the HD. It defends as anyone does: a single die to Dodge most blows, freely to Parry a foe it melees, or freely with a shield to Block one attacker (see [[Burners Adventure Game]]).
 
 **The damage die sets the weapon's slots** — in Burners a weapon's Class *is* its slots, the dice it throws (see [[Burners Arms and Armor]]):
 
@@ -111,17 +111,17 @@ A monster spends its pool exactly as a character does: each blow is up to three 
 - **Shambling** *(the sluggish dead, oozes, rooted things)*: **acts last, regardless of its pool.** It still rolls and spends dice normally — a zombie's d8 hands hit like mauls — but its tempo is weather, not speed.
 - **A living spear** *(cobra, ambush-hunter)*: acts at the **top of the order regardless of its dice count** — speed and force part ways in a few bodies, and the stat block says so.
 
-**Charge** *(a beast closing at a run — where OSE pounce/leap riders convert)*: a situational bump the Guide adds to the blow — extra dice for the rush, as any situation can add to a blow (see [[Burners Adventure Game]]). This is why the unburdened panther beats the sword line to the strike; **Shambling** things never get it.
+**Charge** *(a beast closing at a run — where OSE pounce/leap riders convert)*: a situational bump the Referee adds to the blow — extra dice for the rush, as any situation can add to a blow (see [[Burners Adventure Game]]). This is why the unburdened panther beats the sword line to the strike; **Shambling** things never get it.
 
 **Receive a Charge** *(maneuver — a braced longer weapon, and you must see it coming)*: your thrust strikes **first**, before the rush lands, and the charger's rush-dice add to *your* blow instead — its force arrives through your point. If it survives and presses in, its attack resolves as normal. This is why the boar spear exists; ambush still beats the unwary, because you cannot brace against what you never saw.
 
-**Multi-attack routines** (claw/claw/bite): this *is* the core's "extra attacks by its nature" — the Guide sets how many blows the creature throws (a wolf bites once, a bear claws twice, a hydra strikes per head), each its own blow of its own dice that the target defends against separately. Spread them across several characters, or land them all on one; save the full spread for a foe meant to threaten the whole line.
+**Multi-attack routines** (claw/claw/bite): this *is* the core's "extra attacks by its nature" — the Referee sets how many blows the creature throws (a wolf bites once, a bear claws twice, a hydra strikes per head), each its own blow of its own dice that the target defends against separately. Spread them across several characters, or land them all on one; save the full spread for a foe meant to threaten the whole line.
 
 **Spellcasting monsters:** convert their list through the Spells section, or skip the list and quote each casting as a blow or a telegraph. A dragon does not need a spellbook; it needs a Breath telegraph and two good tricks.
 
 ### The Defend Router
 
-An OSE save is a pointer to a Burners subsystem — see [[Burners Principles#Route, don't reinvent]] and [[Burners Principles#Granular defense, not binary save]]. **`2d6 +` the fitting Approach** against the Guide's Cost handles most hazards (see *Defend* in [[Burners Adventure Game]]). Hostile magic uses Fuel Defend against the caster's cast total (see [[Burners Sorcerie]]). Ask what the save protects, then route it:
+An OSE save is a pointer to a Burners subsystem — see [[Burners Principles#Route, don't reinvent]] and [[Burners Principles#Granular defense, not binary save]]. **`2d6 +` the fitting Approach** against the Referee's Cost handles most hazards (see *Defend* in [[Burners Adventure Game]]). Hostile magic uses Fuel Defend against the caster's cast total (see [[Burners Sorcerie]]). Ask what the save protects, then route it:
 
 | OSE says | Burners does |
 |---|---|
@@ -167,7 +167,7 @@ Every Resistance above a point or two **names its cause** — see [[Burners Prin
 
 ## Checks, Doors, and Skills
 
-A module check splits two ways. A trained or skilled attempt — thief skills, foraging, listening at doors — becomes **`2d6 +` fitting Approach vs. Heat**, quoted as a **Pay** (the world acts on you — shortfall is the cost) or a **Deal** (you act on it — shortfall is no purchase). A raw attribute check with no skill behind it — bend bars, leap a chasm, stare down a horror — is the same: `2d6 +` Sword, Craft, or Heart vs the Guide's Cost.
+A module check splits two ways. A trained or skilled attempt — thief skills, foraging, listening at doors — becomes **`2d6 +` fitting Approach vs. Heat**, quoted as a **Pay** (the world acts on you — shortfall is the cost) or a **Deal** (you act on it — shortfall is no purchase). A raw attribute check with no skill behind it — bend bars, leap a chasm, stare down a horror — is the same: `2d6 +` Sword, Craft, or Heart vs the Referee's Cost.
 
 | OSE chance | Heat |
 |---|---|
@@ -222,7 +222,7 @@ See [[Burners Principles#Armor and Resistance soak; they never roll]] — *Encha
 
 **2. Special powers — one per plus, beyond enchantment.** The +n is n minor powers, each tied to a tier. A +1 item has one +1-tier power. A +2 adds a second, +2-tier power (noticeably better than the first). A +3 adds a third +3-tier power, and so on. Powers are minor — convenience, flavor, situational edges — not extra dice on every blow and not the legendary third die (that is a *relic*, found and named).
 
-Record them like **Trait Signatures** (see *Signatures* in [[Burners Adventure Game]]): each power you have **found** earns an asterisk on the item line and a footnote at the bottom of the gear block. A **+1** item gets one `*`; a **+2** gets `*` and `**` as each tier is discovered. The Guide knows every power from conversion; the player learns them in play — a sage's appraisal, the blade humming near undead, a Sweet hit that binds a foe for the first time — then writes the footnote.
+Record them like **Trait Signatures** (see *Signatures* in [[Burners Adventure Game]]): each power you have **found** earns an asterisk on the item line and a footnote at the bottom of the gear block. A **+1** item gets one `*`; a **+2** gets `*` and `**` as each tier is discovered. The Referee knows every power from conversion; the player learns them in play — a sage's appraisal, the blade humming near undead, a Sweet hit that binds a foe for the first time — then writes the footnote.
 
 | Tier | Scope |
 |---|---|
@@ -278,7 +278,7 @@ Pick one per tier, or roll **d12** on the column. Re-roll duplicates. Route OSE 
 | 9 | **Purging blow** — once per session, shed one **lingering Cost** on yourself (poison, chill, fear) when you draw blood | *paladin-flavor* |
 | 10 | **Shifting sense** — locate shifting walls or rooms within 10' | *sensory: shifting architecture* |
 | 11 | **Telekinetic tug** — once per session, **Stunt** at range to disarm or trip (one die, no attack) | *extraordinary: telekinesis, toned down* |
-| 12 | **Purpose sting** — vs the sword's designated quarry, on a Sweet hit the foe must **Defend** or suffer a brief **Control** (prone, drop weapon, or flee — Guide picks) | *special purpose alignment power, toned down* |
+| 12 | **Purpose sting** — vs the sword's designated quarry, on a Sweet hit the foe must **Defend** or suffer a brief **Control** (prone, drop weapon, or flee — Referee picks) | *special purpose alignment power, toned down* |
 
 **Weapons — +3-tier** *(OSE extraordinary / special purpose — still not a relic)*
 
@@ -288,7 +288,7 @@ Pick one per tier, or roll **d12** on the column. Re-roll duplicates. Route OSE 
 | 2 | **Draining nick** — once per delve, a Sweet hit on a living foe costs them **1 HP from their maximum** until cured by rest (not OSE level drain) | *energy drain, heavily toned down* |
 | 3 | **Spark on 5** — once per delve, treat a rolled **5** as a **Spark** | *extra damage, one shot* |
 | 4 | **Ward spell** — once per delve, fully **Defend** one hostile spell (compare totals) | *protection from magic* |
-| 5 | **Clairvoyant strike** — once per delve, before one blow, the Guide answers one yes/no about the target's guard or intent | *clairvoyance, toned down* |
+| 5 | **Clairvoyant strike** — once per delve, before one blow, the Referee answers one yes/no about the target's guard or intent | *clairvoyance, toned down* |
 | 6 | **X-ray sweep** — once per delve, one 10' square searched: secret doors and traps revealed | *x-ray vision search* |
 | 7 | **Levitation grip** — once per delve, ignore a fall or cross a gap on the blade's will | *levitation, toned down* |
 | 8 | **Illusion veil** — once per delve, throw a brief **phantasm** (distraction, not damage) | *illusion* |
@@ -389,7 +389,7 @@ Disarming an enchanted weapon denies its Initiative dice and its attack bonus di
 
 **Shields and armor** use the same ladder: a +2 heater is enchanted (shield slots + 1 on the Initiative roll) plus a +1-tier power and a +2-tier power; +1 chain is enchanted (+1 Initiative die while worn) plus one +1-tier power. Do not raise AC or size for the plus — the powers carry the rest.
 
-**Worked example — +2 longsword in a chest:** enchanted arming sword (2 slots → 3 weapon dice on the Initiative roll, +1 blow die). Guide's margin: +1 power = hums near oath-breakers / silver-edge; +2 power = bind on Sweet once per session. On the player's sheet after both are found: `arming sword**` with footnotes `*` and `**` as above.
+**Worked example — +2 longsword in a chest:** enchanted arming sword (2 slots → 3 weapon dice on the Initiative roll, +1 blow die). Referee's margin: +1 power = hums near oath-breakers / silver-edge; +2 power = bind on Sweet once per session. On the player's sheet after both are found: `arming sword**` with footnotes `*` and `**` as above.
 
 **When to roll 2d6 instead** — see below. Use **enchanted + powers** for anonymous module loot (*"+1 sword"*). Roll **2d6** when the text names the item, sets a special purpose (*"+2, +3 vs dragons"*), or reads like a relic — then layer **powers** from the +n on top of whatever rung the table gives.
 

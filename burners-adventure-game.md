@@ -119,11 +119,15 @@ Quick definitions. Details live in the chapters below.
 
 - **Attack:** each blow costs one Fuel die; a weapon of 3+ slots wielded in two hands can add a second die. The faces are the damage. With Sword, you make an extra attack per Sword level, all paid from Fuel. A die rolling 6 is a Spark, see Fighting.
 
-- **Defend:** commit Fuel dice to cut a blow before armor soaks the rest. Limit: one die. No limit if you make at least one melee attack this round (against any foe). Also no limit against hostile magic. A die rolling 6 is a Spark (a Riposte). See Fighting.
+- **Defend:** commit Fuel dice to cut a blow before armor soaks the rest. Limit: one die. Against a melee attack, no limit if you make at least one melee attack this round (against any foe). Against a missile attack, you can spend one extra die if you have Cover, such as a wall, creature, shield, etc. (see Cover) Against hostile magic, no limit. A die rolling 6 is a Spark (a Riposte). See Fighting.
 
-- **Cover:** against a missile or hostile magic, defend behind an object or creature (not your shield — that is held kit). You get one free cover die and may spend up to one more Fuel die (two Fuel dice if you have a shield — three dice in all). If the cover die Sparks, the attack hits the cover instead — that object or creature Defends as if targeted. See Fighting.
+- vs melee: 1 die max, or no limit if you are doing any melee attacks this round
+- vs missile: 1 die max, or 2 if you have Cover
+- vs magic: no limit
 
-- **Spark:** a natural 6 on a Fuel die (or cover die). On Fuel it entitles you to a second combat action: an attack, a Guard, or a Stunt (defending, a Riposte). You still pay for that action from your Fuel. See Fighting.
+- **Cover:** something shielding you from incoming missile fire. If you are engaged in melee and someone is firing missiles into that melee at you, then you may use your melee opponents as Cover; in this case if you Spark on your defense the attack strikes your opponent.
+
+- **Spark:** a natural 6 on a Fuel die. On Fuel it entitles you to a second combat action: an attack, a Guard, or a Stunt (defending, a Riposte). You still pay for that action from your Fuel. See Fighting.
 
 - **Guard:** spend a melee attack to give one Fuel die to an ally to add to their Defend (up to two dice if you have a shield). The dice stack with the ally's own. See Fighting.
 

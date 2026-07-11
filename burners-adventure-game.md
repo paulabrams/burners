@@ -125,7 +125,7 @@ Quick definitions. Details live in the chapters below.
 
 - **Spark:** a natural 6 on a Fuel die (or cover die). On Fuel it entitles you to a second combat action: an attack, a Guard, or a Stunt (defending, a Riposte). You still pay for that action from your Fuel. See Fighting.
 
-- **Guard:** spend a melee attack to give one Fuel die to an ally to add to their Defend (up to two dice if you have a shield). The dice stack with the ally's own. No redirect. See Fighting.
+- **Guard:** spend a melee attack to give one Fuel die to an ally to add to their Defend (up to two dice if you have a shield). The dice stack with the ally's own. See Fighting.
 
 - **Stunt:** spend an attack to knock down, shove, disarm, trip, or grapple a foe instead of dealing damage or Guarding. See Fighting.
 

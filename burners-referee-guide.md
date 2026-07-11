@@ -245,7 +245,7 @@ When an item is not on the [[Burners Equipment]] tables, price it from its slots
 - Plain armaments (odd weapons not on the list): 5 gp per slot.
 - Provisions: 1 gp per meal for the group.
 - Ranged weapons and special materials such as silver add a surcharge when you invent a new piece.
-- Lasting Arcana have no shop price — found, seized, gifted, or inherited. Scrolls are scribed at 100 gp × spell level (anytime, downtime — same as moving a spell into your book). See [[Burners Sorcerie]].
+- Lasting Arcana have no shop price — found, seized, gifted, or inherited. Scrolls and potions are downtime craft at 100 gp × spell level (see [[Burners Sorcerie]]).
 - Heavy or exceptional armaments run far dearer: about 100 gp for a +1 grade, 1,000 gp for a rare +2 (added on a listed or formula price).
 - Elevated quality adds to any item: +10 gp for fine, +100 for rich, +1,000 for noble work.
 - Magic items are rarely for sale at any price; you decide whether one can be found at all. Stocking enchanted arms: [[Burners Referee Magic Items]].

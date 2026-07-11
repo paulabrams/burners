@@ -49,7 +49,7 @@ Quick definitions. Details live in the chapters below.
 
 - **When you make a character:** you start at level 1. Put that level in one Approach. Write up to four Traits. You can leave blanks and fill them in later when play hands you the name. Roll 1d6 for starting HP.
 
-- **Trait:** a skill or quality: *lockpicking*, *steady under fire*, *knows the fens*. You tag each Trait to an Approach. Traits do not raise your Approach level. They say what you can do. Some actions need a specific Trait (like a magic school). Use a Trait well in play and it can earn a **Signature**.
+- **Trait:** a skill or quality: *lockpicking*, *steady under fire*, *knows the fens*. You tag each Trait to an Approach. Traits do not raise your Approach level. They say what you can do. Some actions need a specific Trait (like a magic school, languages, plate armor, or a complex greatsword or longbow). Use a Trait well in play and it can earn a **Signature**.
 
 - **Approach:** one of Sword, Craft, Heart, or Sorcerie.
 
@@ -391,7 +391,7 @@ Armor is what you wear. It soaks on the way in. Its AC comes off every blow befo
 
   - Spells: Stanch and Mend, known Vitae workings from her book.
 
- - Arcana: a wand with Stanch bound, a Vitae working that closes a wound and restores HP, the one thing that helps mid-fight. Once cast, the slot stays active briefly, then used until she sleeps.
+- Arcana: a wand with Stanch bound, a Vitae working that closes a wound and restores HP, the one thing that helps mid-fight. Once cast, the slot stays active briefly, then used until she sleeps.
 
 - **Pip**, Craft 1 (Journeyman). "Has never been caught. Not once."
 
@@ -434,6 +434,7 @@ See [[Burners Referee Magic Items]] for stocking and +n.
 Say what you do. *I pick the lock.* Not *I try to pick the lock.*
 
 The Referee rules one of three ways:
+
 - If the plan is sound and fits who you are, it works. No roll.
 - If it has no chance, it fails. No roll.
 - If it could work but is risky, go to Step 2.
@@ -630,7 +631,7 @@ There is no defense roll to fail; when struck you commit dice from your Fuel and
 
 ## Magic
 
-Magic is prepared, not spontaneous. As a Sorcerer you **bind** workings into **Arcana** (one hour of study with a readable book in hand: yours, or a found grimoire you can still read). **Lasting** Arcana are rare finds, not shop goods. **Scrolls** you scribe anytime for gold (100 gp × level): one-shot Arcana that burn when cast. Your lasting cast leaves the spell active for its duration, then used until you clear it with sleep. Hostile magic is Defended like steel.
+Magic is prepared, not spontaneous. As a Sorcerer you **bind** workings into **Arcana** (one hour of study with a readable book in hand: yours, or a found grimoire you can still read). **Lasting** Arcana are rare finds, not shop goods. **Scrolls** you scribe anytime for gold (100 gp × level): one-shot Arcana that burn when cast. **Potions** are downtime brew for anyone with Vitae or Craft (herbalism/alchemy): 100 gp × level, touch or self only. Your lasting cast leaves the spell active for its duration, then used until you clear it with sleep. Hostile magic is Defended like steel.
 
 Magic touches your game in two places. The Sorcerer title (Sorcerie 1) lets you cast. Your combat cast is one Action that spends at least L Fuel dice (L = the spell's level) and rolls them for the cast total. The spell catalog is [[Burners Sorcerie]]. Common Sorcerie holds the workings you know regardless of tradition (Read Magic, Detect Magic, the Ward Pact family, and the rest).
 

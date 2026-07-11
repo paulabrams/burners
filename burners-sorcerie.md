@@ -115,6 +115,7 @@ A Sorcerer's life is in books — yours, or someone else's that you can still re
 | Reagent inks (move a spell into your book) | — | 100 × level |
 | Reagent inks (copy a spell you already hold in your book) | — | 25 × level |
 | Scribe a scroll (see *Scrolls* under Arcana) | 1 | 100 × level |
+| Brew a potion (see *Brewing potions* under Arcana) | 1 | 100 × level |
 
 **Copies, spares, and backups.** Your personal book is a single point of failure; wise sorcerers keep a duplicate in the vault. Scribing a spell from one of *your* books into another does not destroy the first — only ink and labour:
 

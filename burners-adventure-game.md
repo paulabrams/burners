@@ -121,7 +121,7 @@ Quick definitions. Details live in the chapters below.
 
 - **Defend:** commit Fuel dice to cut a blow before armor soaks the rest. Limit: one die. No limit if you make at least one melee attack this round (against any foe). Also no limit against hostile magic. A die rolling 6 is a Spark (a Riposte). See Fighting.
 
-- **Cover:** against a missile or hostile magic, defend behind an object or creature (not your shield — that is held kit). You get one free cover die and may spend up to one more Fuel die (two Fuel dice if you have a shield — three dice in all). If the cover die Sparks, the attack hits the cover instead — that object or creature Defends as if targeted. See Fighting.
+- **Cover:** against a missile or hostile magic, defend behind an object or creature (not your shield — that is held kit). You get one free cover die, rolled live, and may spend up to one more Fuel die (two Fuel dice if you have a shield — three dice in all). Roll it: a 6 Sparks and the attack hits the cover instead; a 1 means the cover did nothing (zero from that die); 2–5 shaves the blow by its face like any Fuel die. See Fighting.
 
 - **Spark:** a natural 6 on a Fuel die (or cover die). On Fuel it entitles you to a second combat action: an attack, a Guard, or a Stunt (defending, a Riposte). You still pay for that action from your Fuel. See Fighting.
 
@@ -580,11 +580,12 @@ If you empty your hand on offense you are caught winded until the next Roll Init
 
 **Defending.** There is no defense roll. Blows land. When struck, spend Fuel dice and cut the incoming Damage by their faces. Your armor soaks the rest, and what remains comes off your HP. Against most blows you may spend only a single die. If you made at least one **melee** attack this round (an in-reach weapon blow — not thrown, missile, or cast), you may spend as many dice as you like against any blow. Hostile magic has no limit either. Roll a 6 while defending and you may play it as a Spark for a **Riposte**: an immediate counterattack. If you're the archer or mage caught in reach without having meleed, you cut each blow with a single die.
 
-**Cover.** Against a **missile** or **hostile magic**, you may take cover behind an object or creature instead of a bare Defend. Your shield is not Cover — it is held kit; it only buys the extra Fuel die below. You get one free **cover die** (not from Fuel) and may spend up to one additional Fuel die, or up to two Fuel dice if you hold a shield (three dice in all: free cover die plus two Fuel). If the cover die Sparks, the attack hits the cover instead of you — that object or creature must Defend as if it were the original target (a crate splinters or is ruined; a creature takes the shot and Defends for itself).
+**Cover.** Against a **missile** or **hostile magic**, you may take cover behind an object or creature instead of a bare Defend. Your shield is not Cover — it is held kit; it only buys the extra Fuel die below. You get one free **cover die**, rolled live in the moment it matters (not a banked Fuel die, so its face is not known ahead of time), and may spend up to one additional Fuel die, or up to two Fuel dice if you hold a shield (three dice in all: free cover die plus two Fuel). Roll the cover die: a natural 6 Sparks — the attack hits the cover instead of you, and that object or creature must Defend as if it were the original target (a crate splinters or is ruined; a creature takes the shot and Defends for itself). A natural 1 means the cover did nothing — it reduces the blow by zero, though any Fuel dice you spent alongside it still count. Anything else (2–5) shaves the blow by its face, same as a Fuel die.
 
 - Archer vs archer: one kneels behind a wall — free cover die, optional Fuel, Spark dumps the arrow into the stone.
 - An archer fires into a melee; the target uses an ally as cover — Spark on the cover die transfers the shot to that ally, who then Defends.
 - Behind a wall with a shield raised: free cover die and up to two Fuel — the shield is not the cover; it lets you spend deeper while the wall takes the Spark.
+- Diving behind a barrel that comes up a 1: the barrel does nothing this time — it's cover in name only, and only the Fuel you spent alongside it shaves the blow.
 
 **Guard.** Spend a melee attack to give one Fuel die to an ally; they add it to their Defend. With a shield you may give up to two dice. The dice stack with the ally's own. You cannot redirect the blow onto yourself.
 

@@ -76,15 +76,7 @@ Death lands in the fight — stack of wounds, failed Shock at the floor, or coup
 
 Traits come with levels; **Signatures**, named gear, and spell learning are **never bought with XP**. They emerge at the table — one Signature per level in that Approach.
 
-Legendary harness and focus — the **third die** — are looted or earned, never bought at creation. Magic items grant **0 XP**; the item is the reward.
-
----
-
-## Legendary vs enchanted
-
-**Enchanted** (+1 module gear): one extra Fuel die on Initiative and one extra die on each blow. **+n** adds minor powers per tier — not a bigger number on the roll.
-
-**Legendary** (relic): the **third die** on the relevant roll — found, named, often woken by true name. Only a **Veteran** awakens the die on arms and armor; a legendary blade lies inert in untrained hands. A sentient sword or a +3 with special purpose may be a relic; anonymous +1 loot is enchanted + powers, not a relic.
+Magic arms and armor are looted or earned, never bought at creation. Magic items grant **0 XP**; the item is the reward. Extra die needs a Trait; powers for anyone: [[Burners Adventure Game#Enchanted Arms and Armor]]. How you stock and convert them: [[Burners Referee Magic Items]].
 
 ---
 
@@ -101,8 +93,6 @@ An **Invocation** is a bargain, not a spell. No Arcana, no spellbook, no school 
 Out of combat, **Sweet** (6) and **Spicy** (1) ride alongside the sum and never change it. Double Sweet is the perfect roll; double Spicy is a fumble.
 
 **Combat has no Sweet or Spicy.** There you read the dice you spend; a 6 is a **Spark** — a second action you still pay for from Fuel.
-
-A legendary item rolls three dice out of combat, so doubles come often. Power is wild.
 
 ---
 
@@ -132,9 +122,7 @@ When porting material that prints a flat damage number (a trap, a breath quoted 
 
 Twenty militia hacking a high-Resistance thing each land almost nothing while it kills them. That is correct; it is why the village hired Burners.
 
-**No plusses on sums.** A +n from another game never becomes a bonus added to a roll total. It becomes **enchanted** gear with scaled minor powers, a tag, a Signature — or a relic.
-
-**Enchantment in Burners:** an enchanted weapon or shield adds **one extra Fuel die** on Initiative and **one extra die on each blow** (the third die, with two-handed). That is the +1 the module promised — never a bigger number on the roll.
+**No plusses on sums.** A +n from another game never becomes a bonus added to a roll total. It becomes **enchanted** arms or armor — see [[Burners Referee Magic Items]].
 
 ---
 

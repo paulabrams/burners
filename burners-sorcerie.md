@@ -28,7 +28,7 @@ Magic is prepared, not spontaneous: a Sorcerer **binds** workings into **Arcana*
 
 ### The Sorcerer Gate
 
-To work magic you must be a **Sorcerer — Sorcerie 1 or higher.** Below that you are a layman. Legendary arcane relics lie inert until you cross the threshold — see [[Burners Principles#Legendary vs enchanted]].
+To work magic you must be a **Sorcerer — Sorcerie 1 or higher.** Below that you are a layman.
 
 **Two gates stand on high magic.** Your Sorcerie caps the level of spell you may learn and know (the classic gate, below). Your Arcana's Level caps the level you may prepare and cast in the field. To wield a level-*N* working you need both: the knowledge (Sorcerie *N*+) and a vessel to hold it (an Arcana of Level *N*, or your open book as a ritual). Sorcerie also drives out-of-combat casting rolls, Plan A, and how fast you learn.
 
@@ -92,7 +92,7 @@ A starting Sorcerer's two foci come with their apprenticeship; every focus after
 - **Several Arcana** may be carried if you have the slots; each holds its own spells, each within its Level.
 - **Trait match (optional):** the Referee may require a relevant Sorcerie Trait to attune a given Arcana. Default: if you can equip it, you can use it.
 
-**Legendary Arcana.** A legendary focus is still an Arcana (with its own Level, often a high one). Once its true name is discovered and you are a Sorcerer, it grants the third die on casts of spells bound in it (see [[Burners Invocations]] for Relics and true names) — power is wild, with Sweet/Spicy tails. About 1 in 6 speaks.
+**Legendary Arcana.** A legendary focus is still an Arcana (with its own Level, often a high one). Once its true name is discovered and you are a Sorcerer, it grants an extra die on casts of spells bound in it — power is wild, with Sweet/Spicy tails. About 1 in 6 speaks.
 
 ### Spellbooks and Known Spells
 

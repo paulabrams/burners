@@ -119,7 +119,7 @@ Shaping is how Alignment compounds: each pact leaves a Trait that bears on the p
 A **Relic** is a sacred object that serves as **conduit and ark** to a patron — a rallying flag for its power. To the uninitiated a Relic may pass for a cursed or sentient item, since the patron can act through it.
 
 - **Ark.** Carrying a patron's Relic counts **+1 Alignment** with that patron, for Invocations only.
-- **Conduit.** A Relic is often a **legendary item** or **legendary Arcana** — its true name may be the patron's gift, surrendered through an Invocation, and the name wakes the third die (see *Legendary Items* in [[Burners Adventure Game]]).
+- **Conduit.** A Relic is often a **named item** or **legendary Arcana** — its true name may be the patron's gift, surrendered through an Invocation.
 - **Ledger.** A Relic in the wrong hands is a grievance; returning one is the classic Ask.
 
 **Sentient items** are the speaking subset — a bound soul or a splinter of the patron itself, capricious, jealous, and unhinged from confinement. A sentient Relic may aid, argue, or betray; it hates being abandoned, rejected, or "cheated on" with a rival item. Carrying one grows your Alignment whether you like where it's growing or not.

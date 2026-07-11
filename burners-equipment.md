@@ -35,7 +35,7 @@ hero_alt: "A knight returns laden — crossbow, sword, and loot — Albert Robid
 | Quiver with 20 arrows   | 1     | 5         |
 | One silver-tipped arrow | —     | 5         |
 
-## Armor
+## Armor v2
 
 | Armor       | AC  | Slots | Cost (gp) |
 | ----------- | --- | ----- | --------- |
@@ -46,7 +46,19 @@ hero_alt: "A knight returns laden — crossbow, sword, and loot — Albert Robid
 | Field plate | 4   | 4     | 4,000     |
 | Full plate  | 5   | 5     | 8,000     |
 
-- Plate armor can only be worn by Veterans with a "plate armor" Trait.
+## Armor v3
+
+| Armor       | AC  | Slots | Cost (gp) |
+| ----------- | --- | ----- | --------- |
+| Leather     | 1   | 2     | 20        |
+| Gambeson    | 2   | 4     | 30        |
+| Scale mail  | 2   | 3     | 50        |
+| Chain mail  | 3   | 6     | 40        |
+| Plate mail  | 4   | 8     | 60        |
+| Field plate | 4   | 5     | 2,000     |
+| Full plate  | 5   | 7     | 4,000     |
+
+- Leather, gambeson, and mail are open to anyone. Plate and other trained kit: see *Training* under [[Burners Adventure Game#Weapons, Armor, and Shields]].
 - Better armor is **dearer, not heavier**. Each rung of the ladder costs roughly ten times the last, and at the top the price buys *fit*: a fitted harness articulates and carries its weight on the body, so field plate rides lighter than plated mail, and full plate turns that fit into a fifth point of proof. Plated mail is the fortune; field and full plate are the fitted fortune — measured to you by a master armorer.
 - Armor in good repair resells at **half price**; most Burners trade up the ladder this way.
 
@@ -145,4 +157,4 @@ Want something not on these tables? Price it with the **Gold Piece formula** car
 | Exceptional craft, +1 | +100 gp    |
 | Rare craft, +2        | +1,000 gp  |
 
-So an *elegant knight's sword, +1*: fine steel (2 slots × 10 = 20) + "elegant" 10 + "+1" 100 ≈ **130 gp**. Exceptional craft is finer in the fiction, but it is **not** the legendary third die — see [[Burners Principles#Legendary vs enchanted]]. Magic items are rarely for sale at any price.
+So an *elegant knight's sword, +1*: fine steel (2 slots × 10 = 20) + "elegant" 10 + "+1" 100 ≈ **130 gp**. Exceptional craft is finer in the fiction, but it is **not** enchanted magic — see [[Burners Referee Magic Items]]. Magic items are rarely for sale at any price.

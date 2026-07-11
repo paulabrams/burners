@@ -11,7 +11,7 @@ hero_alt: "Free fight outside the walls — Albert Robida"
 
 *Fast, lethal sword-and-sorcerie in the Dragon Isles. Fire makes it good.*
 
-v0.4
+v0.5
 
 ---
 
@@ -49,7 +49,7 @@ Quick definitions. Details live in the chapters below.
 
 - **When you make a character:** you start at level 1. Put that level in one Approach. Write up to four Traits — you can leave blanks and fill them in later when play hands you the name. Roll 1d6 for starting HP.
 
-- **Trait:** a skill or quality — *lockpicking*, *steady under fire*, *knows the fens*. You tag each Trait to an Approach. Traits do not raise your Approach level; they describe what you can credibly do, and some actions need a specific Trait (like wearing plate). Use a Trait well in play and it can earn a **Signature**.
+- **Trait:** a skill or quality — *lockpicking*, *steady under fire*, *knows the fens*. You tag each Trait to an Approach. Traits do not raise your Approach level; they describe what you can credibly do, and some actions need a specific Trait (like a magic school). Use a Trait well in play and it can earn a **Signature**.
 
 - **Approach:** one of Sword, Craft, Heart, or Sorcerie.
 
@@ -77,7 +77,7 @@ Quick definitions. Details live in the chapters below.
 
 - **Empty slots:** free space is speed. Every empty slot adds a die to your Fuel on the Initiative roll, up to four — light kit, quick feet. Dropping something to free a slot is an action.
 
-- **Armor class (AC):** how much your armor shaves off every hit before it reaches you. Leather is 1, gambeson 2, mail 3, plate 4–5. You need to be a Veteran with a *plate armor* Trait to wear plate. See *Armor* under Fighting.
+- **Armor class (AC):** how much your armor shaves off every hit before it reaches you. Leather is 1, gambeson 2, mail 3, plate 4–5. Most harness is open; plate is trained-only (see *Training* under *Weapons, Armor, and Shields*). See *Armor* under Fighting.
 
 ### HP, Heat, and Wounds
 
@@ -92,8 +92,6 @@ Quick definitions. Details live in the chapters below.
 - **Wound effects:** where you were hit matters — a leg wound drops you prone, a head hit narrows your sight, and so on.
 
 - **Shock Check:** when a wound drives you past 0, roll 2d6 + Sword against how far below 0 you are. Beat it and stay fighting; miss and read the raw 2d6 on the Shock table (12 is a shrug, 2 is catastrophe). Past −12 the same roll decides life or death. See *Wounds*.
-
-- **Block:** defend against an attacker you are *not* trading blows with — spend Fuel freely, not just one die. A shield gives you one free Block per round on yourself (you still spend the dice). Otherwise spend an attack to Block, including covering an ally in front of you.
 
 ### Play
 
@@ -115,23 +113,29 @@ Quick definitions. Details live in the chapters below.
 
 - **Combat Round:** one minute, taken in Initiative order. On your turn, take one Action (attack, cast a spell, etc.). Moving and positioning come with it, part of the Action, not a separate step. Defending is not free; it burns your Fuel. Sword governs the exchange: it grants you extra attacks and a deeper pool.
 
+- **Refill:** between rounds (starting between round 1 and 2) roll your level as additional Fuel dice.
+
 - **Fuel:** the dice you rolled for Initiative, kept at their faces and spent through the fight to attack, defend, cast, and riposte. You gain your character level in refill dice at the end of each round (i.e. in-between rounds, after the first combat round).
 
 - **Initiative:** the count of your Fuel showing 3 or 4. You act in descending order; re-read each round.
 
-- **Attack:** each blow costs one die, plus one for a two-handed power attack and one for an enchanted weapon; the faces are the damage. With Sword, you make an extra attack per Sword level, all paid from Fuel. A rolled 6 is a **Spark**. See Fighting.
+- **Attack:** each blow costs one Fuel die, optionally plus one for a two-handed power attack; the faces are the damage. With Sword, you make an extra attack per Sword level, all paid from Fuel. A die rolling 6 is a Spark, see Fighting.
 
-- **Cast:** one Action in combat; spend at least L Fuel dice (L = the spell's level), roll them — the **cast total** is the sum of those faces. On a Spark, you may spend up to L additional Fuel for extra effect. Your Arcana slot goes bound → active → used; used slots clear after 8 hours' sleep. See *Magic* and [[Burners Sorcerie]].
+- **Defend:** commit Fuel dice to cut a blow before armor soaks the rest; this has a limit of one die (or two with a shield). No limit in if you melee attacked that foe this round. Also no limit against hostile magic. A die rolling 6 is a Spark (a Riposte), see Fighting.
 
-- **Defend:** commit Fuel dice to cut a blow before armor soaks the rest — one die to Dodge most blows, or as many as you like against a foe you Parry or Block. Against hostile magic, commit as many dice as you choose and sum their faces against the caster's cast total (see *Defending against a spell*). A rolled 6 is a Spark (defending, a Riposte). See Fighting.
+- **Spark:** a natural 6 die roll. It entitles you to a second combat action — an attack, a Block, or a Stunt (defending, a Riposte) — which you still pay for from your Fuel. See Fighting.
 
-- **Spark:** a natural 6 you play from your Fuel. It entitles you to a second combat action — an attack, a Block, or a Stunt (defending, a Riposte) — which you still pay for from your Fuel. See Fighting.
+- **Block/Guard:** use your action to defend an adjacent ally. This costs one Fuel die, optionally two with a shield. If you are a Veteran you can use one of your extra attacks instead of your action, and you may redirect the attack to yourself (i.e. as a bodyguard).
+
+- anyone can say: "I guard Herrick [for 8]" -- Herrick may take the 8 OR use his own defense instead
+- a Veteran can say: "I guard Herrick *and I take the hit* [for 8]" -- the veteran has redirected the attack to himself and his defense is 8
 
 - **Stunt:** spend an attack to knock down, shove, disarm, trip, or grapple a foe instead of dealing or blocking damage. See Fighting.
 
+- **Spark:** a natural 6. It entitles you to a second combat action — an attack, a Guard, or a Stunt (defending, a Riposte) — which you still pay for from your Fuel. See Fighting.
 - **Prone:** knocked down — by a Stunt, a Shock result, or a waist or leg wound. You cannot Dodge, so any blow you do not actively meet lands whole; but you may still Parry a foe you attack, or Block with a shield or a spent attack, so you guard the foes you engage and take the rest whole. Your extra Veteran attacks let you defend against several foes from the ground; without them you guard one at most. Rising is free unless a foe presses you in melee, when it costs a die (see Stunts). A waist or leg wound pins you down until you reach **full HP**.
 
-- **Refill:** from the second round on, you gain one Fuel die per character level at the top of each round, rolled into your pool before Initiative is re-read. The first round brings none.
+- **Cast:** one Action in combat; spend at least Spell Level Fuel dice, roll them — the **cast total** is the sum of those faces. On a Spark, you may spend up to Spell Level additional Fuel for extra effect. Your Arcana slot goes bound → active → used; used slots clear after 8 hours' sleep. See *Magic* and [[Burners Sorcerie]].
 
 ### Monsters
 
@@ -221,7 +225,7 @@ A weapon's **slots** are the dice it throws on your Initiative roll and the spac
 | Greatsword | 4 | 40 | two-handed |
 | Halberd | 5 | 25 | two-handed |
 
-**Armor** — AC soaks every hit on the way in, one number by the make of the armor. Plate is trained-only: you need to be a Veteran with a *plate armor* Trait to wear it. Full prices are in [[Burners Equipment]].
+**Armor** — AC soaks every hit on the way in, one number by the make of the armor. Full prices are in [[Burners Equipment]].
 
 | Armor | AC | Slots | Cost (gp) |
 | --- | --- | --- | --- |
@@ -242,11 +246,26 @@ A weapon's **slots** are the dice it throws on your Initiative roll and the spac
 | Kite | 4 | 12 |
 | Tower | 5 | 15 |
 
+#### Training
+
+Most kit is open. Strap on leather or mail, pick up a spear or an arming sword, hold a heater: you get the AC, the slots, and the blows.
+
+Some kit is **trained-only**. Without a Trait for it, you cannot use it in a fight (no AC from that harness, no Initiative dice from that weapon or shield, no blows with it). Examples:
+
+- **Plate** — plated mail, field plate, full plate (*plate armor*)
+- **Greatsword**
+- **Poleax** / halberd
+- **Longbow**
+
+Chainmail stays open. It is heavy and awkward, but it is not a harness you have to learn the way plate is.
+
+Enchanted kit and the extra die are separate: see *Enchanted Arms and Armor*.
+
 ### Traits
 
 On your sheet, a Trait is a skill or a quality: arming sword, herbalism, strong, perceptive, raised in the fens. You hold up to four Traits per character level, each tagged to an Approach, but a Trait does not raise that Approach — your level does. You need not claim all four at each level, and a delayed Trait costs nothing, so you can fill one in whenever play hands you the name for it. Traits come free with your levels; you never buy them with XP.
 
-Some actions are trained-only: you cannot attempt them without a specific Trait, whatever your Approach — plate armor is one, and so is each magic school (no Trait in the school, no reading or casting it).
+Some actions are trained-only: you cannot attempt them without a specific Trait, whatever your Approach. Magic schools are one kind (no Trait in the school, no reading or casting it). Complicated arms and armor are another: see *Training* under *Weapons, Armor, and Shields*.
 
 ### Experience
 
@@ -286,8 +305,8 @@ When you reach level 1 in an Approach, you earn its title — which switches on 
 
 | Approach | Title | Switches on |
 | --- | --- | --- |
-| Sword | Veteran | guard an ally with shield or parry, the legendary arms-and-armor die |
-| Sorcerie | Sorcerer | casting through Arcana, the legendary arcane die on loaded spells |
+| Sword | Veteran | extra attacks |
+| Sorcerie | Sorcerer | cast magic spells; identify and use Arcana |
 | Craft | Journeyman | reduce party-wide travel, weather, and survival costs by your Craft level |
 | Heart | Boss | **henchman** slots (one per Heart level), Morale Check for the company, bonus XP for henchmen who delved with you |
 
@@ -339,13 +358,13 @@ You have HP of one d6 per character level, rolled — just 1d6 at first level, r
 
 Heat is the other track, and it is not a pool of hit points. It is the scene's pressure, shared by your whole crew: the difficulty your out-of-combat costs are quoted against, and the clock that tells you how close the job is to going wrong. Every scene opens at a base (a quiet meet 3-4, a working delve or a parley that matters 6, a blown job or a hall on fire 8) and climbs as costs mount. Blows in a fight do not feed it; those go to HP. Heat rises in a fight only when the Referee judges the danger has turned, and it has no ceiling: a hot scene is simply a dangerous one.
 
-Armor is what you wear, and it soaks on the way in — its AC comes off every blow before your HP. AC runs from 1 to 5 by make: leather 1, gambeson 2, chainmail 3, plated mail and field plate 4, full plate 5. The cost is slots and coin. Heavier armor eats more of your twelve and climbs steeply in price, so if you travel light you keep your slots for gear and a fatter pool when you roll Initiative; if you armor up you trade that away for proof. Plate is trained-only (you need to be a Veteran with a *plate armor* Trait). Armor keeps you from being worn down, not from being cut once you are down: in heavy armor you lose HP slowly, but the Wound you take past 0 is raw.
+Armor is what you wear, and it soaks on the way in — its AC comes off every blow before your HP. AC runs from 1 to 5 by make: leather 1, gambeson 2, chainmail 3, plated mail and field plate 4, full plate 5. The cost is slots and coin. Heavier armor eats more of your twelve and climbs steeply in price, so if you travel light you keep your slots for gear and a fatter pool when you roll Initiative; if you armor up you trade that away for proof. Leather, gambeson, and mail are open; **plate is trained-only** (see *Training* under *Weapons, Armor, and Shields*). Armor keeps you from being worn down, not from being cut once you are down: in heavy armor you lose HP slowly, but the Wound you take past 0 is raw.
 
 ## Sample Traits by Approach
 
-- **Sword:** greatsword, arming sword, dagger, spear, axe, bow, shield, wrestling, ambush, tactics, plate armor. Qualities: strong, fearless, relentless, steady, iron-willed, veteran.
+- **Sword:** greatsword, arming sword, dagger, spear, axe, bow, longbow, poleax, shield, wrestling, ambush, tactics, chainmail, plate armor. Qualities: strong, fearless, relentless, steady, iron-willed, veteran.
 
-- **Craft:** lockpicking, stealth, tracking, disguise, sailing, herbalism, smithing, navigation, climbing, swimming, survival, canting. Qualities: nimble, observant, patient, resourceful, quiet, cunning.
+- **Craft:** lockpicking, stealth, tracking, disguise, sailing, herbalism, smithing, navigation, climbing, swimming, survival, canting, hunting bow, knife, wood-ax, staff. Qualities: nimble, observant, patient, resourceful, quiet, cunning.
 
 - **Heart:** persuasion, intimidation, deception, leadership, empathy, trading, medicine, performance, streetwise, languages. Qualities: charming, commanding, loyal, silver-tongued, well-connected.
 
@@ -387,21 +406,21 @@ See [[Burners Principles#Earned in play]]. Your Signature is an asterisk on the 
 
 Signatures take three common shapes; the Referee may allow others:
 
-- **Named item.** You name your sword, dagger, or your rope, and it becomes yours. The named item becomes a narrow edge in its element, a blade that never leaves your grip, a rope that always holds.
+- **Named item.** You name a weapon, shield, armor, or tool on a Trait you already hold (*arming sword* → *Naurdring*; *hunting bow* → *the fen-bow*). That name **is** the Signature: put the asterisk on the Trait. For arms and armor, see *Enchanted Arms and Armor* below.
 
 - **Instinct.** Something you always do becomes a thing that never fails you. Back to the wall, and nothing flanks or surprises you from behind. Poke the chest with a ten-foot pole first, and its traps never catch you. The habit is the trigger; honor it in the fiction and the edge is automatic.
 
 - **Holdout.** A small thing you keep hidden on your person — a boot knife, a flint sewn into your collar, an accelerant vial stitched into a sleeve. Name it and say where it rides. It lives outside your twelve slots and stays with you even when you are searched or stripped of gear. Out of combat it is free to reach; in a fight, drawing it costs one Fuel.
 
-**Item powers** work the same way on your gear. An enchanted weapon, shield, or suit from a module's **+n** loot carries one minor power per plus (see [[Burners OSE Conversions]]). Every power you have **found** — identified by a sage, revealed in use, earned by trial — earns an asterisk on the item line and a footnote describing what it does:
+## Enchanted Arms and Armor
 
-| On your sheet | Meaning |
-|---|---|
-| `arming sword` (enchanted) | Magic steel; the bonus die works once you know it is enchanted |
-| `arming sword*` | One +1-tier power discovered — footnote `*` names it |
-| `arming sword**` | A +2 item; both powers found — footnotes `*` and `**` |
+Anyone can use an enchanted item's **powers** once they have found them.
 
-Write the footnotes at the bottom of your gear block, the way Pip's stealth Signature sits under his Traits. Until you find a power, leave the star off; the Referee knows what is waiting. A **+1** antenna sword might read `bronze sword*` with `* Runs cold near the drowned dead; counts as silver against their Resistance.` once you learn it in the barrow.
+The **extra die** (Initiative pool and on the action) wants a **Trait** for that kit: *arming sword*, *chainmail*, *hunting bow*, *shield*, and so on. Most war Traits sit under Sword, so Veterans usually claim the magic steel. A Journeyman with *hunting bow* can still take the die from a magic hunting bow.
+
+A **Named item** Signature on that Trait (your steel, named) gives you the extra die on that kit the same way.
+
+See [[Burners Referee Magic Items]] for stocking and +n.
 
 ---
 
@@ -444,14 +463,6 @@ See [[Burners Principles#Sweet and Spicy vs Spark]]. Out of combat:
 - Double Spicy (two 1s, a natural 2) is a fumble: the worst fitting outcome lands.
 
 Combat has no Sweet or Spicy — a 6 in Fuel is a **Spark** (see Fighting).
-
-### Legendary Items and the Third Die
-
-See [[Burners Principles#Legendary vs enchanted]]. Your legendary item grants a **third die** when it is the relevant implement of your action.
-
-A relic you've found lies dormant, rolling as ordinary gear, until you discover its true name — read from a tomb-glyph, **surrendered by an Invocation** to the patron it serves, or earned by the deed it was made for. The name wakes the third die and costs no XP; it is a prize of the world, not a purchase.
-
-About one in six of your relics speaks. These are Sentient Items, each a bound soul with its own will and powers that can aid, argue, or betray you. Many more were once sentient but broke over the long ages, most of them mad and silent. So a mute relic in your hands is not safely empty; it may be inert, or a madness too far gone for words.
 
 ### Heat
 
@@ -549,9 +560,8 @@ Each Combat Round is one minute. You act in Initiative order. On your turn you g
 **Rolling Initiative.** When steel comes out, you gather a pool of d6s for what you hold right now, with no rule for surprise — you fight with what you were actually carrying:
 
 - one die per character level;
-- one die per slot if you have a weapon in hand, +1 if enchanted;
-- one die per slot if you have a shield in hand, +1 if enchanted;
-- one die if you are wearing enchanted armor;
+- one die per slot if you have a weapon in hand;
+- one die per slot if you have a shield in hand;
 - one die per empty inventory slot, up to 4.
 
 Roll them all. The faces you rolled, kept as they lie, are your Fuel for the fight. Your Initiative is the count of them showing 3 or 4; you act in descending order and re-read at the top of each round.
@@ -562,7 +572,7 @@ Roll them all. The faces you rolled, kept as they lie, are your Fuel for the fig
 
 **Sparks.** A natural 6 in your Fuel is a **Spark**. Play it — the 6 is spent — and it entitles you to a second combat action this turn, beyond your one Action: an attack, a Block, or a Stunt (a Spark played while defending buys an immediate counterattack, a **Riposte**). The Spark grants only the opening; you still pay for that second action from your Fuel like any other. Roll several 6s and you may play several Sparks.
 
-**Attacking.** You make one attack a round (as a Veteran you make more — see below). It costs one Fuel die, and its face is the damage. Add a second die for a two-handed weapon swung in a big, committed stroke, and a third if the weapon is enchanted — up to three dice a blow, all paid from your Fuel, their faces together the damage. From that, subtract the target's armor AC and any Resistance; the rest comes off their HP, and past 0 the overflow is a Wound. Because armor soaks every blow on the way in, a flurry of small hits is how you cut down the unarmored, while one big two-handed stroke is how you crack a plated foe. Roll a 6 and you may play it as a **Spark** (above) for a second attack, Block, or Stunt.
+**Attacking.** You make one attack a round (as a Veteran you make more — see below). It costs one Fuel die, and its face is the damage. Add a second die for a two-handed weapon swung in a big, committed stroke — up to two dice a blow from mundane steel, all paid from your Fuel, their faces together the damage. From that, subtract the target's armor AC and any Resistance; the rest comes off their HP, and past 0 the overflow is a Wound. Because armor soaks every blow on the way in, a flurry of small hits is how you cut down the unarmored, while one big two-handed stroke is how you crack a plated foe. Roll a 6 and you may play it as a **Spark** (above) for a second attack, Block, or Stunt.
 
 **Veteran Attacks.** As a Veteran you strike more than once: one extra attack per Sword level, so at Sword 1 you make two, at Sword 3 you make four. Each is its own blow of its own dice, all inside your single Attack action, and each may fall on the same foe or spread across several. Any of these attacks may instead be spent to **Block** or on a **Stunt** (below) rather than to strike — so with several attacks you can shield the crew, or trip and disarm, as readily as you deal damage.
 
@@ -580,15 +590,13 @@ Range and reach buy safety: a far arrow risks nothing until the enemy closes, so
 
 See [[Burners Principles#Armor and Resistance soak; they never roll]]. Armor is what you wear; its AC comes off every blow before HP.
 
-- AC by make, one number from 1 to 5: leather 1, a padded gambeson 2, chainmail 3, plated mail and field plate 4, full plate 5. Better armor is dearer and, at the top, better fitted, so a master-made harness carries its weight on the body and field plate rides lighter than plated mail for the same proof. Protection tracks coin, not weight.
+- Leather, gambeson, and mail — AC by make, one number from 1 to 5: leather 1, a padded gambeson 2, chainmail 3, plated mail and field plate 4, full plate 5. Better armor is dearer and, at the top, better fitted, so a master-made harness carries its weight on the body and field plate rides lighter than plated mail for the same proof. Protection tracks coin, not weight.
 
-- Leather, gambeson, and mail — you can wear any of them. Plate is trained-only: you need to be a Veteran (Sword 1) with a *plate armor* Trait to wear plated mail, field plate, or full plate. Past that the price is slots and coin. Heavy armor eats into your twelve, so if you armor up you carry and move with little to spare, while if you travel light you keep your slots for gear and for a fatter pool when you roll Initiative. Heavy soaks, light stays quick.
+- Leather, gambeson, and mail are open. **Plate** (plated mail and above) is trained-only: see *Training* under *Weapons, Armor, and Shields*. The price is slots and coin. Heavy armor eats into your twelve, so if you armor up you carry and move with little to spare, while if you travel light you keep your slots for gear and for a fatter pool when you roll Initiative. Heavy soaks, light stays quick.
 
 - Armor is one number in ordinary play, with no hit locations.
 
-- Training gates the martial arts by threshold, not by dial. As a Veteran (Sword 1) you can guard an ally with shield or blade, wake a legendary item's third die, and wear plate — which also asks a *plate armor* Trait. Light armor, mail, and a plain weapon ask nothing; you can wear and swing them, but it is training that makes them tell.
-
-- A shield is not armor; you hold it, not wear it. Its slots are dice it lends on your Initiative roll (buckler 2, heater 3, tower 5), like any held steel. Holding one lets you **Block** once a round on yourself: defend a single attacker with as many dice as you like, even one you are not striking at, so your shield answers the foe your blade cannot, costing you no attack — though you still spend Fuel to cut the blow. To cover an ally instead, or to Block a second foe, spend one of your attacks (see Fighting). A legendary shield adds its third die and can ward a breath.
+- A shield is not armor; you hold it, not wear it. Its slots are dice it lends on your Initiative roll (buckler 2, heater 3, tower 5), like any held steel. Holding one raises your Defend and Guard cap to two dice. To cover an ally, spend an Action or a Veteran's extra attack on **Guard** (see Fighting).
 
 ### We Burn Undead
 
@@ -606,7 +614,7 @@ So the answer to a crypt full of the shuffling dead is not a magic word — it i
 
 - **A Saint's patron.** If you have dealt with an otherworldly being whose nature opposes the grave (see Invocations), you may turn that being's power on the dead — not your holiness, but the patron's, lent through your pact. Rebuking a lich in another thing's name is the Dragon Isles' true "turning," and it costs what all pacts cost.
 
-- **A named or eldritch edge.** A woken Legendary weapon, a Relic, a holy or Named blade — the same edge that clears any Apex Gate (recall how the Kalla demon fell to the named Alu sickles). What the fire cannot burn, the right eldritch steel can cut.
+- **A named or eldritch edge.** A woken enchanted weapon, a Relic, a Named blade — the same edge that clears any Apex Gate (recall how the Kalla demon fell to the named Alu sickles). What the fire cannot burn, the right eldritch steel can cut.
 
 - **Nerve.** As a Boss you may face down the intelligent dead by sheer presence — cow a wraith, stare down a vampire's thrall — where a skeleton has no will to break but a thinking dead thing does.
 

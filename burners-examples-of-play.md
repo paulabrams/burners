@@ -18,9 +18,9 @@ hero_alt: "Travelers on the road — Albert Robida"
 
 | Burner | Approach | HP | Held | Fuel on the Initiative roll |
 |---|---|---|---|---|
-| **Kragg** | Sword 1 (Veteran) | 4 | war-axe (3 slots, 2-handed, enchanted (Tuned) → +1 die), half mail (AC 2) | 4 empty + 3 axe + 1 enchanted + 1 level = **9** |
+| **Kragg** | Sword 1 (Veteran) | 4 | war-axe (3 slots, 2-handed, enchanted), half mail (AC 2) | 4 empty + 3 axe + 1 level = **8** |
 | **Sefa** | Craft 1 (Journeyman) | 3 | leather (AC 1); **silvered knife** (1 slot) once looted | 4 empty + 1 knife + 1 level = **6** |
-| **Brand** | Heart 1 (Boss) | 5 | sword (2), heater shield (3), gambeson (half suit, AC 2 — padded, no training) | 3 empty + 2 sword + 3 shield + 1 level = **9** |
+| **Brand** | Heart 1 (Boss) | 5 | sword (2), leather (AC 1) | 4 empty + 2 sword + 1 level = **7** |
 | **Ilsa** | Sorcerie 1 (Sorcerer) | 3 | spear (3), a Level-1 wand holding one bound *dart*, quarter suit (AC 1) | 4 empty + 3 spear + 1 level = **8** |
 
 *Reminder — out of combat: `2d6 +` Approach vs Cost. Hostile magic: Fuel Defend vs cast total (see [[Burners Principles#Granular defense, not binary save]]).*
@@ -49,10 +49,10 @@ hero_alt: "Travelers on the road — Albert Robida"
 **Turn 4 — Cellar 2. Covered pit (trap: flat Damage 2, no roll — detect or eat).**
 
 - Sefa checks for traps (Craft): Pay @ 7 → 2d6+1 = **6**, short 1 → **Heat 8**. Pit *not* spotted.
-- Marching order puts Brand on it. It springs, no telegraph, no Fuel up out of combat: Damage 2 − Brand's AC 2 (soaks on the way in) = **0 to HP.** Clean — armor did its job before HP.
+- Marching order puts Brand on it. It springs, no telegraph, no Fuel up out of combat: Damage 2 − Brand's AC 1 (soaks on the way in) = **1 to HP.** Brand 5 → 4.
 - Wandering check: d6 = **1** — encounter. Cellar denizens, hostile by writ: **4 grave-rats** (HD 1, 5 HP each, Armor 0, bite d6 → 2 slots).
 
-### Combat 1 — Grave-rats (4). Heat 8.
+### Combat 1 — Grave-rats (4). Heat 8
 
 **Rolling Initiative.** Crew roll their Fuel (above). The rat pack rolls one pool — 4 (a die per HD) + 2 (best bite) + 8 (Heat) = **14 dice** — and, ganging like a Veteran of many levels, makes one attack per rat (each its own 1-die blow, each defended separately). Initiative is the count of 3s and 4s; Kragg reads highest and acts first.
 
@@ -80,7 +80,7 @@ hero_alt: "Travelers on the road — Albert Robida"
 - Sefa again: 2d6+1 = **12** ✓. Open.
 - Wandering check: d6 = **6**. Nothing.
 
-### Combat 2 — The Cellarer (a wight). Heat 7 → 9.
+### Combat 2 — The Cellarer (a wight). Heat 7 → 9
 
 Buried armed: **grave-sword** (2 slots) and a **grave-byrnie**, old chain still sound (soak 2). HD 3 → **15 HP**. **Resistance 5 vs mundane arms** — grave-cold flesh — with silver the named weakness (it ignores the Resistance, though not the byrnie). The Referee announces it rising from its bier: **+2 Heat → 9.**
 
@@ -89,28 +89,28 @@ Buried armed: **grave-sword** (2 slots) and a **grave-byrnie**, old chain still 
 **Round 1.**
 
 - **Wight**, two grave-sword blows:
-  - → **Brand**: 3 dice (6,5,4 = 15). Brand **Blocks** with the shield (spend freely): 6,6,4 = 16 → cut to 0. Byrnie untested. *(Brand Fuel 9→6.)*
-  - → **Ilsa**: 2 dice (5,5 = 10). Ilsa isn't meleeing it and has no shield → a lone **Dodge** die, a 4 → 10−4 = 6; her quarter suit soaks 1 → **5 to HP.** Ilsa HP 3 → **−2: a Wound.** Location 1d6=4, an **arm** — the spear-arm hangs useless until she reaches full HP. **Shock Check: 2d6 + Sword (0) = 6 vs the wound depth of 2** ✓ — she keeps her feet, shaken, one-armed. *(Fuel 8→7.)*
+  - → **Brand**: 3 dice (6,5,4 = 15). Brand isn't meleeing it and has leather only → Defend cap one: spends a 6 → 9 left; leather soaks 1 → **8 to HP.** Brand 5 → **−3: a Wound.** Location 1d6=2, **torso, winded** — loses a Fuel die. **Shock Check: 2d6 + Sword (0) = 8 vs wound depth 3** ✓ — keeps his feet. *(Brand Fuel 7→5.)*
+  - → **Ilsa**: 2 dice (5,5 = 10). Ilsa isn't meleeing it and has no shield → Defend cap one: a 4 → 10−4 = 6; her quarter suit soaks 1 → **5 to HP.** Ilsa HP 3 → **−2: a Wound.** Location 1d6=4, an **arm** — the spear-arm hangs useless until she reaches full HP. **Shock Check: 2d6 + Sword (0) = 6 vs the wound depth of 2** ✓ — she keeps her feet, shaken, one-armed. *(Fuel 8→7.)*
   - *(Wight spent 5 dice attacking; 9 left.)*
-- **Kragg** attacks the wight (Veteran, two blows; 2-handed + enchanted → up to 3 dice) — and, meleeing it, may **Parry** freely on its turn next round:
-  - Blow A: 6,5,4 = 15. Wight **Parries** (it may, as it struck this round): 6,4 = 10 → 5 left, − byrnie 2 − Resistance 5 = **0.** Nothing.
-  - Blow B: 5,4 = 9. Wight Parries 5,3 = 8 → 1, −2 −5 = **0.** Nothing. *(Wight Fuel 9→5. Mundane steel + Resistance 5 + byrnie 2 is a wall.)*
-- **Brand** attacks: sword, 1 die = 6. Wight Dodges a 5 → 1, −2 −5 = **0.** *(Wight 5→4 dice.)*
-- **Ilsa** casts the wand's *dart* (Level 1) — one Action, spend at least 1 Fuel die and roll it: a 5 → **cast total 5**. The wight **Defends**, committing a 2 → **overrun 3**. Pure sorcery: no AC, and its Resistance is scoped to mundane arms — **3 to HP.** Wight **15 → 12.** The wand's slot goes **used** — that working is spent until she sleeps. *(Ilsa Fuel 7→6; wight 4→3 dice.)*
-- **Sefa**, silvered knife (ignores Resistance): 1 die = 6. The wight, spent down to low dice and not meleeing her, Dodges a 2 → 6−2 = 4; byrnie still soaks 2 (silver beats the curse, not the mail) → **2** through. Wight **12 → 10.**
+- **Kragg** attacks the wight (Veteran, two blows; 2-handed axe) — and, meleeing it, Defends with no cap on its turn next round:
+  - Blow A: 6,5,4 = 15. Wight Defends at the one-die cap (it struck Brand and Ilsa, not Kragg): a 6 → 9 left, − byrnie 2 − Resistance 5 = **2.** Wight **15 → 13.**
+  - Blow B: 5,4 = 9. Wight Defends a 5 → 4, −2 −5 = **0.** Nothing. *(Wight Fuel 9→7.)*
+- **Brand** attacks: sword, 1 die = 6. Wight Defends a 4 → 2, −2 −5 = **0.** *(Wight 7→6 dice.)*
+- **Ilsa** casts the wand's *dart* (Level 1) — one Action, spend at least 1 Fuel die and roll it: a 5 → **cast total 5**. The wight **Defends** (no cap vs magic), committing a 2 → **overrun 3**. Pure sorcery: no AC, and its Resistance is scoped to mundane arms — **3 to HP.** Wight **13 → 10.** The wand's slot goes **used** — that working is spent until she sleeps. *(Ilsa Fuel 7→6; wight 6→5 dice.)*
+- **Sefa**, silvered knife (ignores Resistance): 1 die = 6. The wight, not meleeing her, Defends one die: a 2 → 6−2 = 4; byrnie still soaks 2 (silver beats the curse, not the mail) → **2** through. Wight **10 → 8.**
 
 **Round 2.** Refill: +1 die each. The wight, having burned its 14-die burst, is winded — blows now arrive nearly whole.
 
-- **Wight** (thin Fuel) jabs Kragg, 1 die = 3. Kragg **Parries** a 4 → cut.
-- **Kragg**: 6,4 = 10. Wight Dodges its last die, a 2 → 8, −2 −5 = **1.** Wight **10 → 9.** *(Even now, mundane barely tells.)*
-- **Sefa** (silver): 5. Wight out of dice → no defense. 5 − byrnie 2 = **3**, Resistance bypassed. Wight **9 → 6.**
+- **Wight** (thin Fuel) jabs Kragg, 1 die = 3. Kragg Defends with no cap (meleeing it): a 4 → cut.
+- **Kragg**: 6,4 = 10. Wight Defends its last die, a 2 → 8, −2 −5 = **1.** Wight **8 → 7.** *(Even now, mundane barely tells.)*
+- **Sefa** (silver): 5. Wight out of dice → no defense. 5 − byrnie 2 = **3**, Resistance bypassed. Wight **7 → 4.**
 - **Ilsa**: the wand is used and the spear-arm is dead — she falls back and covers the door. A Sorcerer's ready magic is only what sits bound on her foci; one Level-1 wand is one working.
 - **Brand**: sword 6 − 2 − 5 = **0.** Mundane can't land the finish.
 
 **Round 3.**
 
-- **Sefa** (silver): 6 − byrnie 2 = **4**, Resistance bypassed. Wight **6 → 2.**
-- **Kragg**: 6,5 = 11, no defense left → −2 −5 = **4** → past 0 by 2: **the killing Wound.** The Cellarer falls — chipped by silver and sorcery until even the wall of Resistance couldn't hold the axe out.
+- **Sefa** (silver): 6 − byrnie 2 = **4**, Resistance bypassed. Wight **4 → 0.**
+- **Kragg**: 6,5 = 11, no defense left → −2 −5 = **4** → past 0 by 4: **the killing Wound.** The Cellarer falls — chipped by silver and sorcery until even the wall of Resistance couldn't hold the axe out.
 - Threat overcome → **vent 2 → Heat 7.**
 
 **Turn 7 — Strongbox.**
@@ -121,8 +121,8 @@ Buried armed: **grave-sword** (2 slots) and a **grave-byrnie**, old chain still 
 ### After
 
 - **Downtime:** Heat cools to base; the job stayed quiet, so the town base is unchanged.
-- **Take:** strongbox (Referee: 400 gp + deed papers), 120 gp, silvered knife, **the Cellarer's grave-sword** — old, fine make, a worn-off name (a Signature waiting to be read) — and its **grave-byrnie**, wearable after a Journeyman's mending.
-- **Wounds:** Ilsa sits at **−2 HP** with a dead arm. Rest does nothing while she is negative; each safe night with food climbs her 1 HP — two nights to 0 — then one hour's rest refills her to 3, and at full HP the arm wound closes. Her wand clears to empty on the first night's sleep.
+- **Take:** strongbox (Referee: 400 gp + deed papers), 120 gp, silvered knife, **the Cellarer's grave-sword** — old, fine make, a worn-off name (a Signature waiting to be read) — and its **grave-byrnie** (mail; Kragg claims it).
+- **Wounds:** Ilsa sits at **−2 HP** with a dead arm; Brand at **−3** winded. Rest does nothing while they are negative; each safe night with food climbs 1 HP toward 0, then an hour's rest refills to maximum and wounds close. Ilsa's wand clears to empty on the first night's sleep.
 - **Torches spent:** 2. **Turns:** 7.
 
 ---
@@ -132,12 +132,12 @@ Buried armed: **grave-sword** (2 slots) and a **grave-byrnie**, old chain still 
 - **OSE clocks unchanged:** 10-minute turns, torch tracking, wandering checks every 2nd turn at 1-in-6.
 - **One roll out of combat:** `2d6 + Approach` vs Cost. Traps — see [[Burners Principles#Pools, not fixed numbers]].
 - **Fuel is rolled once, on the Initiative roll, and dwindles** — one Fuel die per character level each round from the second on. The wight's 14-dice pool (swollen by 9 Heat) made round 1 murderous, but it did not refresh: by round 2 it was winded, and the fight turned. A hot scene hits hardest on the first exchange.
-- **Damage is the faces of committed dice**, minus the defender's committed dice, minus armor soak, minus Resistance — in that order. A blow is one die, +1 for a two-handed power stroke, +1 for an enchanted weapon (Kragg's axe), up to three.
-- **Defense by three doors:** a lone **Dodge** die against any blow; unlimited **Parry** against a foe you melee (Kragg); unlimited **Block** with a shield against one attacker even if you never swing at it (Brand). Ilsa, doing neither, cut with one die — and took the Wound.
+- **Damage is the faces of committed dice**, minus the defender's committed dice, minus armor soak, minus Resistance — in that order. A blow is one die, +1 for a two-handed power stroke.
+- **Defense caps:** one die against most blows; two with a shield; no cap against a foe you melee-attacked (Kragg). Brand in leather took the Wound; Ilsa the same. **Guard** covers an adjacent ally.
 - **The Wound model:** see [[Burners Principles#HP is plot armor; past 0 it gets real]].
 - **Casting is the same economy:** Ilsa's *dart* was one Action, one Fuel die rolled for the **cast total**; the wight Defended with a die of its own and ate the **overrun** to HP. Then the slot went **used** — a bound working casts once, and only sleep clears it. Steel and sorcery spend the same pool.
-- **Resistance vs the named weakness:** the wight's Resistance 5 made mundane steel almost useless (Kragg's best blows netted 0–1), while silver ignored the Resistance (Sefa) and pure sorcery ignored both Resistance and armor (Ilsa's dart). The chip came from the weakness and the wand; the finish came from the axe only after the HP wall was gone.
-- **The monster's slot/Fuel economy cuts both ways:** the wight spent its huge pool attacking and parrying the melee line, so by Sefa's turn it could spare only a die or two to Dodge her knife. Tie up its dice, then land the answer.
+- **Resistance vs the named weakness:** the wight's Resistance 5 made mundane steel almost useless (Kragg's best blows netted 0–2), while silver ignored the Resistance (Sefa) and pure sorcery ignored both Resistance and armor (Ilsa's dart). The chip came from the weakness and the wand; the finish came from the axe only after the HP wall was gone.
+- **The monster's slot/Fuel economy cuts both ways:** the wight spent its huge pool attacking and Defending, so by Sefa's turn it could spare only a die or two. Tie up its dice, then land the answer.
 - **Nobody was driven past the floor; nobody died.** That is what a clean job looks like.
 
 ---

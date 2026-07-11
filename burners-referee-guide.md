@@ -190,9 +190,9 @@ Rolling the Delve Die every Turn runs a dungeon hot: any 1 lands about a third o
 
 A monster is any enemy, built on a simple stat block of Hit Dice, hide, and attacks. Its Hit Dice are its level: most humans are 0, most orcs are 1, a veteran higher. See [[Burners Principles#Pools, not fixed numbers]] for how blows work.
 
-- **The monster's pool.** See [[Burners Principles#Pools, not fixed numbers]]. One die per Hit Die, dice for weapon slots, scene Heat as dice (added once per enemy side). It spends Fuel like a character; each blow is up to three committed dice, cut by defense and armor. A plus-mod lifts HP only.
+- **The monster's pool.** See [[Burners Principles#Pools, not fixed numbers]]. One die per Hit Die, dice for weapon slots, scene Heat as dice (added once per enemy side). It spends Fuel like a character; each blow is up to two committed dice from mundane steel, cut by defense and armor. A plus-mod lifts HP only.
 
-- **A heavy blow** is a two-handed weapon swung in a committed stroke: it adds a second die to that blow (a third if the weapon is enchanted), up to three dice.
+- **A heavy blow** is a two-handed weapon swung in a committed stroke: it adds a second die to that blow.
 
 - **Resistance** and **hide** — see [[Burners Principles#Armor and Resistance soak; they never roll]]. Name the scope; name a weakness. A troll regenerates until fire or acid; without it, flee or bring the flame.
 
@@ -212,13 +212,13 @@ The Referee raises or lowers Damage for the situation. Set a value from the band
 | +4 | severe | pinned, ambushed in the dark, several stacked |
 | +5 | dire | helpless while the fight still rages |
 
-The defender's edge runs the same band the other way: partial cover is a 2, hard cover a 4, an attacker who is prone or swinging blind gives you a 2 or 3. When a blow outruns the dice a defender can commit (a lone Dodge die, or as many as they like to Parry a foe they melee or to Block) plus their armor, the excess lands on HP — and past 0 it cuts a score — unless a legendary third die turns it.
+The defender's edge runs the same band the other way: partial cover is a 2, hard cover a 4, an attacker who is prone or swinging blind gives you a 2 or 3. When a blow outruns the dice a defender can commit (a lone Dodge die, or as many as they like to Parry a foe they melee or to Block) plus their armor, the excess lands on HP — and past 0 it cuts a score.
 
 ---
 
 ## Swarms
 
-Foes piling onto one target attack like a single Veteran of many levels: the group makes a bundle of attacks — reckon one per body in reach, or one per Hit Die for a larger creature — each its own blow of up to three dice, each defended separately, and each soaked by armor on the way in. Three orcs on Aldric are three attacks, not one big one. You can Parry the foe you strike at and Block one more with a shield, but the rest you meet with a lone Dodge die each, so a crowd gets through by sheer number of swings. A chokepoint caps how many reach you at once; kill one and the bundle loses its attacks.
+Foes piling onto one target attack like a single Veteran of many levels: the group makes a bundle of attacks — reckon one per body in reach, or one per Hit Die for a larger creature — each its own blow of up to two dice, each defended separately, and each soaked by armor on the way in. Three orcs on Aldric are three attacks, not one big one. You can Parry the foe you strike at and Block one more with a shield, but the rest you meet with a lone Dodge die each, so a crowd gets through by sheer number of swings. A chokepoint caps how many reach you at once; kill one and the bundle loses its attacks.
 
 Keeping the blows separate is deliberate. A single combined Damage would blow past armor in one unsoakable spike; many small hits, each soaked on the way in, mean a mob wears you down through attrition and a draining Fuel pool instead — you run out of dice to defend before you run out of HP. That is the real danger of numbers: not one dreadful blow, but more attacks than you have dice to answer. The counter is avoidance — break line of sight, fight from a chokepoint, raise a legendary shield, or thin the mob until the swings come slower than you can turn them.
 
@@ -241,4 +241,4 @@ When an item is not on the [[Burners Equipment]] tables, price it from its slots
 - Ranged weapons carry a craft premium over their slot rate, and special materials such as silver add a surcharge.
 - Heavy or exceptional armaments run far dearer: about 100 gp for a +1 grade, 1,000 gp for a rare +2.
 - Elevated quality adds to any item: +10 gp for fine, +100 for rich, +1,000 for noble work.
-- Magic items are rarely for sale at any price; you decide whether one can be found at all.
+- Magic items are rarely for sale at any price; you decide whether one can be found at all. Stocking enchanted arms: [[Burners Referee Magic Items]].

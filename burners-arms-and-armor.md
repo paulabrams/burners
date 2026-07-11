@@ -13,7 +13,7 @@ hero_alt: "Crossbowmen in the street — Albert Robida"
 >
 > *Era guide:* Northmarens run early-medieval arms & armor, Southmarens late-medieval/early-Renaissance, the Eldar exotic and magical.
 >
-> **"Legendary" — mind the two senses.** Legends *Legendary Asset* vs Burners **third-die relic** — see [[Burners Principles#Legendary vs enchanted]] and [[Burners Principles#Earned in play]].
+> **"Legendary" — mind the two senses.** Legends *Legendary Asset* vs Burners enchanted arms — see [[Burners Adventure Game#Enchanted Arms and Armor]], [[Burners Referee Magic Items]], and [[Burners Principles#Earned in play]].
 
 ---
 
@@ -28,13 +28,12 @@ Every weapon, armor, or tool sits on one ladder, bottom to top. Only the first t
 1. **Common** — its type's Tags, nothing more.
 2. **Fine steel** — masterwork price; **Trusty** (never sticks, notches, or fails on a Spicy — the worst outcome finds something else).
 3. **Signature** — a name and a history (*"Wren's sword, tuned over twenty years of border duty"*). Worth coin and worth questions, but no bonus of its own. You name an item in play, never at creation.
-4. **Tuned** — fitted to your hand and dialed in: it counts as a **+1 magic weapon**, worth **one extra die in your Call pool** (never a bigger number), plus Trusty. A tuning belongs to one grip — a blade tuned to a dead man's hand must be re-tuned before it wakes for you (a master's fee, or your own Craft 1+, tools, coin, and downtime). Earned in play, never at the start.
-5. **Bane-forged** — made for one enemy. Against its named quarry it *is* their weakness: their Resistance does not soak it. (This is where *"+1, +3 vs. dragons"* goes.)
-6. **Legendary** — the third die, the true name, the 1-in-6 voice. Found, never made (see Legendary Items in [[Burners Adventure Game]]).
+
+Tuned, Bane-forged, and Legendary arms are Referee magic items — see [[Burners Referee Magic Items]]. Trait for the extra die, powers for anyone: [[Burners Adventure Game#Enchanted Arms and Armor]].
 
 ### Signatures and Secrets
 
-A **Signature** is the fiction of that third rung — a name, a look, a history (*"Naurdring the goblin slicer"*; *"a tunic, royal blue with gold embroidering"*). It is not a die bonus; there are none. What it does is lend an action credibility, the way a fitting Theme or Trait does — declare it and the Referee may let the deed simply succeed (Step 1). A woken **legendary** Signature is the sole exception, granting the third die (see Legendary Items). Write it with the item type and Tags, e.g. *"Naurdring, the goblin slicer [Longsword Class3 Slots3…]"*. A **damaged** Asset can lose its Signature — fine velvet is ruined by a crawl through a cavern — so save your best for when it counts.
+A **Signature** is the fiction of that third rung — a name, a look, a history (*"Naurdring the goblin slicer"*; *"a tunic, royal blue with gold embroidering"*). It is not a die bonus; there are none. What it does is lend an action credibility, the way a fitting Theme or Trait does — declare it and the Referee may let the deed simply succeed (Step 1). Write it with the item type and Tags, e.g. *"Naurdring, the goblin slicer [Longsword Class3 Slots3…]"*. A **damaged** Asset can lose its Signature — fine velvet is ruined by a crawl through a cavern — so save your best for when it counts.
 
 A **Secret** is a power hung on an Asset — a ring's hidden compartment, a blade that detects evil, a flask of holy water that mends. Asset Secrets work like any other Secret and share the requirements (a supporting Theme, a Cost to use — usually Heat — and any leash).
 
@@ -182,19 +181,19 @@ The core rates armor as three **suits** — Quarter (AC 1, 2 slots), Half (AC 2,
 
 - **Quarter (AC 1)** — the vitals only: a padded **gambeson** or **arming jack**, a boiled-leather **cuirie**, a lone **breastplate** or **cuirass**, a **concealed mail shirt**, with a cap or coif for the head. What a scout, skirmisher, or mage wears.
 - **Half (AC 2)** — vitals plus arms and hands: a **mail hauberk** or a **coat of plates** (brigandine) with **gauntlets** and a helm (mail coif, kettle hat, sallet). The sword-and-shield line's kit; trained-only (a Trait such as *armored*).
-- **Full (AC 3)** — head to leg: **full mail**, **plated mail**, or articulated **plate** with **greaves**, **faulds**, plated arms, and an enclosing helm (armet, close helm, great helm). The knight's harness; trained-only (a Trait such as *plate armor*).
+- **Full (AC 3)** — head to leg: **full mail**, **plated mail**, or articulated **plate** with **greaves**, **faulds**, plated arms, and an enclosing helm (armet, close helm, great helm). The knight's harness; anyone may wear it for AC.
 
 Better armor is dearer, not heavier — protection tracks expense and slots, not weight. A full suit eats half your twelve slots, so the armored fighter carries little and rolls a thin pool on the Initiative roll, while the light fighter keeps his slots and his speed.
 
 **Gaps and called shots.** Your suit is one number in ordinary play. When a foe deliberately strikes where it does not reach — a called shot, or a swarm at the legs of a half-suited Burner — that blow meets bare flesh (AC 0). Helms, gauntlets, greaves, and gorgets are the pieces that close those gaps, and a fuller suit has fewer. A **closed** helm (armet, great helm) trades sight and hearing for the best cover; open helms and **civil**-looking armor draw less notice in town.
 
-**Materials and named pieces** — adamant, moonsilver, orichalcum (see Eldar Materials), or a *Signature* harness — ride on top as flavor and Secrets. A legendary suit soaks as its tier and lends its third die on your Shock Check (see Item Quality).
+**Materials and named pieces** — adamant, moonsilver, orichalcum (see Eldar Materials), or a *Signature* harness — ride on top as flavor and Secrets.
 
 ---
 
 ## Shields
 
-Held armor, raised against a single blow — a character without strong armor can pick one up and instantly cover a line of attack. A shield's **size** (Legends) is what you add to one defend when you take the **Block** maneuver, once a round; a Veteran may instead Block to cover an ally in their front facing. It guards only the blow you raise it against, so a second foe that round comes in unshielded — which is how numbers beat a shield-man. A legendary shield adds its third die and can ward a breath. Bigger shields defend more (higher **size**) but fill more **Slots** in Burners (prices in [[Burners Equipment]]).
+Held armor, raised against a single blow — a character without strong armor can pick one up and instantly cover a line of attack. A shield's **size** (Legends) is what you add to one defend when you take the **Block** maneuver, once a round; a Veteran may instead Block to cover an ally in their front facing. It guards only the blow you raise it against, so a second foe that round comes in unshielded — which is how numbers beat a shield-man. Bigger shields defend more (higher **size**) but fill more **Slots** in Burners (prices in [[Burners Equipment]]).
 
 ### Shield Types
 

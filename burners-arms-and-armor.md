@@ -197,7 +197,7 @@ Heavy harness eats slots and thins your Initiative pool; light kit keeps empty s
 
 ## Shields
 
-Held steel, raised against a blow. A shield's **slots** are the dice it lends on your Initiative roll (prices in [[Burners Equipment]]): buckler 2, heater 3, rotella 4, kite 4, tower 5. When you **Guard** an ally you may give up to two Fuel dice instead of one; when you take **Cover**, a shield lets you spend up to two Fuel with the free cover die. A shield is not itself Cover (see [[Burners Adventure Game]]).
+Held steel, raised against a blow. A shield's **slots** are the dice it lends on your Initiative roll (prices in [[Burners Equipment]]): buckler 2, heater 3, rotella 4, kite 4, tower 5. Holding one raises your Defend cap to two dice — the same cap **Cover** gives, and the two don't stack past two — and lets you give up to two Fuel dice when you **Guard** an ally. A shield is not itself Cover (see [[Burners Adventure Game]]).
 
 Legends **size** tags below are the old catalog labels for look and heft — use Burners **slots** at the table.
 

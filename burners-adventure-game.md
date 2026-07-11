@@ -119,9 +119,9 @@ Quick definitions. Details live in the chapters below.
 
 - **Attack:** each blow costs one Fuel die; a weapon of 3+ slots wielded in two hands can add a second die. The faces are the damage. With Sword, you make an extra attack per Sword level, all paid from Fuel. A die rolling 6 is a Spark, see Fighting.
 
-- **Defend:** commit Fuel dice to cut a blow before armor soaks the rest. Limit: one die. No limit if you make at least one melee attack this round (against any foe). Also no limit against hostile magic. A die rolling 6 is a Spark (a Riposte). See Fighting.
+- **Defend:** commit Fuel dice to cut a blow before armor soaks the rest. Limit: one die — two if you hold a shield, or if you take Cover (below); the two don't stack past two. No limit if you make at least one melee attack this round (against any foe). Also no limit against hostile magic. A die rolling 6 is a Spark (a Riposte). See Fighting.
 
-- **Cover:** against a missile or hostile magic, defend behind an object or creature (not your shield — that is held kit). You get one free cover die, rolled live, and may spend up to one more Fuel die (two Fuel dice if you have a shield — three dice in all). Roll it: a 6 Sparks and the attack hits the cover instead; a 1 means the cover did nothing (zero from that die); 2–5 shaves the blow by its face like any Fuel die. See Fighting.
+- **Cover:** against a missile or hostile magic, claim cover from an object or creature (not your shield — that's held kit, and grants its own cap above) instead of a bare Defend. It raises your Defend limit to two dice, same as a shield. The die you commit to the cover is rolled live, at the moment of the hit, not at its banked Initiative face: a 6 Sparks and the attack hits the cover instead; a 1 means the cover did nothing; 2–5 shaves the blow by its face like any Fuel die. See Fighting.
 
 - **Spark:** a natural 6 on a Fuel die (or cover die). On Fuel it entitles you to a second combat action: an attack, a Guard, or a Stunt (defending, a Riposte). You still pay for that action from your Fuel. See Fighting.
 
@@ -204,7 +204,7 @@ Two of your school's six 1st-level spells are **not** in your book. Those, deepe
 
 ### Weapons, Armor, and Shields
 
-A weapon's **slots** are the dice it throws on your Initiative roll and the space it fills. A two-hander throws more but leaves no hand for a shield. A shield's slots are dice too, and holding one lets you give up to two dice when you **Guard**, or spend two Fuel with a free cover die when you take **Cover**. You wear armor, not throw it: its **AC** soaks every blow on the way in. This is the play list. Full prices and oddments are in [[Burners Equipment]]. A fuller catalog of arms is in [[Burners Arms and Armor]].
+A weapon's **slots** are the dice it throws on your Initiative roll and the space it fills. A two-hander throws more but leaves no hand for a shield. A shield's slots are dice too, and holding one raises your Defend cap to two dice and lets you give up to two dice when you **Guard** — the same cap **Cover** gives, though the two don't stack past two. You wear armor, not throw it: its **AC** soaks every blow on the way in. This is the play list. Full prices and oddments are in [[Burners Equipment]]. A fuller catalog of arms is in [[Burners Arms and Armor]].
 
 | Weapon | Slots | Cost (gp) | |
 | --- | --- | --- | --- |
@@ -234,7 +234,7 @@ A weapon's **slots** are the dice it throws on your Initiative roll and the spac
 | Field plate | 4 | 5 | 2,000 |
 | Full plate | 5 | 7 | 4,000 |
 
-**Shields**: a shield's slots are dice on the Initiative roll; when you Guard an ally you may give up to two Fuel dice instead of one; when you take Cover you may spend up to two Fuel dice with the free cover die (three in all).
+**Shields**: a shield's slots are dice on the Initiative roll; holding one raises your Defend cap to two dice (the same cap Cover gives — they don't stack to three) and lets you give up to two Fuel dice when you Guard an ally.
 
 | Shield | Slots | Cost (gp) |
 | --- | --- | --- |
@@ -578,14 +578,14 @@ If you empty your hand on offense you are caught winded until the next Roll Init
 
 **Veteran Attacks.** As a Veteran you strike more than once: one extra attack per Sword level. At Sword 1 you make two. At Sword 3 you make four. Each is its own blow of its own dice, all inside your single Attack action. Each may fall on the same foe or spread across several. Any of these attacks may instead be spent to **Guard** or on a **Stunt** (below) rather than to strike. With several attacks you can Guard the crew, or trip and disarm, as readily as you deal damage.
 
-**Defending.** There is no defense roll. Blows land. When struck, spend Fuel dice and cut the incoming Damage by their faces. Your armor soaks the rest, and what remains comes off your HP. Against most blows you may spend only a single die. If you made at least one **melee** attack this round (an in-reach weapon blow — not thrown, missile, or cast), you may spend as many dice as you like against any blow. Hostile magic has no limit either. Roll a 6 while defending and you may play it as a Spark for a **Riposte**: an immediate counterattack. If you're the archer or mage caught in reach without having meleed, you cut each blow with a single die.
+**Defending.** There is no defense roll — except for the cover die, below. Blows land. When struck, spend Fuel dice and cut the incoming Damage by their faces. Your armor soaks the rest, and what remains comes off your HP. Against most blows you may spend only a single die — two if you hold a shield, or if you take Cover (below); the two don't stack past two. If you made at least one **melee** attack this round (an in-reach weapon blow — not thrown, missile, or cast), you may spend as many dice as you like against any blow. Hostile magic has no limit either. Roll a 6 while defending and you may play it as a Spark for a **Riposte**: an immediate counterattack. If you're the archer or mage caught in reach without having meleed, without a shield, and without Cover, you cut each blow with a single die.
 
-**Cover.** Against a **missile** or **hostile magic**, you may take cover behind an object or creature instead of a bare Defend. Your shield is not Cover — it is held kit; it only buys the extra Fuel die below. You get one free **cover die**, rolled live in the moment it matters (not a banked Fuel die, so its face is not known ahead of time), and may spend up to one additional Fuel die, or up to two Fuel dice if you hold a shield (three dice in all: free cover die plus two Fuel). Roll the cover die: a natural 6 Sparks — the attack hits the cover instead of you, and that object or creature must Defend as if it were the original target (a crate splinters or is ruined; a creature takes the shot and Defends for itself). A natural 1 means the cover did nothing — it reduces the blow by zero, though any Fuel dice you spent alongside it still count. Anything else (2–5) shaves the blow by its face, same as a Fuel die.
+**Cover.** Against a **missile** or **hostile magic**, you may claim cover from an object or creature instead of a bare Defend. Your shield is not Cover — it is held kit; it grants its own two-die cap above, and the two caps don't stack. Cover raises your Defend limit to two dice the same way a shield does, but one of those two dice — the **cover die** — is rolled live, in the moment of the hit, instead of at its banked Initiative face. Roll it: a natural 6 Sparks — the attack hits the cover instead of you, and that object or creature must Defend as if it were the original target (a crate splinters or is ruined; a creature takes the shot and Defends for itself). A natural 1 means the cover did nothing — it reduces the blow by zero, though your other Defend die still counts. Anything else (2–5) shaves the blow by its face, same as any Fuel die.
 
-- Archer vs archer: one kneels behind a wall — free cover die, optional Fuel, Spark dumps the arrow into the stone.
+- Archer vs archer: one kneels behind a wall — rolls the cover die live alongside a normal Fuel die; Spark dumps the arrow into the stone.
 - An archer fires into a melee; the target uses an ally as cover — Spark on the cover die transfers the shot to that ally, who then Defends.
-- Behind a wall with a shield raised: free cover die and up to two Fuel — the shield is not the cover; it lets you spend deeper while the wall takes the Spark.
-- Diving behind a barrel that comes up a 1: the barrel does nothing this time — it's cover in name only, and only the Fuel you spent alongside it shaves the blow.
+- Behind a wall with a shield raised: still capped at two dice, not three — the shield doesn't stack with Cover — but the wall's die is the one rolled live, so a Spark still dumps the hit onto the wall instead of you.
+- Diving behind a barrel and rolling a 1 on the cover die: the barrel does nothing this time — it's cover in name only, and only your other Defend die shaves the blow.
 
 **Guard.** Spend a melee attack to give one Fuel die to an ally; they add it to their Defend. With a shield you may give up to two dice. The dice stack with the ally's own. You cannot redirect the blow onto yourself.
 
@@ -605,7 +605,7 @@ Armor is what you wear; its AC comes off every blow before HP.
 
 - Armor is one number in ordinary play, with no hit locations.
 
-- A shield is not armor; you hold it, not wear it. Its slots are dice it lends on your Initiative roll (buckler 2, heater 3, tower 5), like any held steel. When you **Guard** an ally you may give up to two Fuel dice instead of one. When you take **Cover**, a shield lets you spend up to two Fuel dice with the free cover die (three in all) — the shield is not itself Cover (see Fighting).
+- A shield is not armor; you hold it, not wear it. Its slots are dice it lends on your Initiative roll (buckler 2, heater 3, tower 5), like any held steel. Holding one raises your Defend cap to two dice — the same cap **Cover** gives, and the two don't stack past two — and lets you give up to two Fuel dice when you **Guard** an ally. A shield is not itself Cover (see Fighting).
 
 ### We Burn Undead
 

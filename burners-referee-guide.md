@@ -212,7 +212,7 @@ The Referee raises or lowers Damage for the situation. Set a value from the band
 | +4 | severe | pinned, ambushed in the dark, several stacked |
 | +5 | dire | helpless while the fight still rages |
 
-The defender's edge runs the same band the other way: partial cover is a 2, hard cover a 4, an attacker who is prone or swinging blind gives you a 2 or 3. When a blow outruns the dice a defender can commit (a lone die, or as many as they like once they have meleed this round) plus their armor, the excess lands on HP — and past 0 it cuts a score. Against missiles and hostile magic, **Cover** (free cover die + optional Fuel; Spark transfers) is another answer.
+The defender's edge runs the same band the other way: partial cover is a 2, hard cover a 4, an attacker who is prone or swinging blind gives you a 2 or 3. When a blow outruns the dice a defender can commit (a lone die, or as many as they like once they have meleed this round) plus their armor, the excess lands on HP — and past 0 it cuts a score. Against missiles and hostile magic, **Cover** (raises the Defend cap to two dice, same as a shield; that die is rolled live and a Spark transfers the hit) is another answer.
 
 ---
 

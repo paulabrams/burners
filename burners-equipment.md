@@ -9,23 +9,25 @@ hero_alt: "A knight returns laden — crossbow, sword, and loot — Albert Robid
 
 ## Weapons
 
+Prices match Old-School Essentials where the piece has an OSE counterpart.
+
 | Weapon                  | Slots | Cost (gp) |
 | ----------------------- | ----- | --------- |
-| Dagger                  | 1     | 10        |
+| Dagger                  | 1     | 3         |
 | Silver dagger           | 1     | 30        |
-| Club                    | 1     | 1         |
+| Club                    | 1     | 3         |
 | Sling with 30 stones    | 1     | 2         |
-| Small ax                | 2     | 10        |
-| Mace (incl. war hammer) | 2     | 10        |
-| Short sword             | 2     | 20        |
-| Sword                   | 2     | 20        |
+| Small ax                | 2     | 4         |
+| Mace (incl. war hammer) | 2     | 5         |
+| Short sword             | 2     | 7         |
+| Sword                   | 2     | 10        |
 | Hunting bow             | 2     | 25        |
-| Spear                   | 3     | 15        |
-| Longbow                 | 3     | 50        |
-| Crossbow                | 3     | 40        |
-| Battle ax (two-handed)  | 4     | 20        |
-| Two-handed sword        | 4     | 40        |
-| Pole arm (two-handed)   | 5     | 25        |
+| Spear                   | 3     | 3         |
+| Longbow                 | 3     | 40        |
+| Crossbow                | 3     | 30        |
+| Battle ax (two-handed)  | 4     | 7         |
+| Two-handed sword        | 4     | 15        |
+| Pole arm (two-handed)   | 5     | 7         |
 
 ## Ammunition
 
@@ -35,40 +37,29 @@ hero_alt: "A knight returns laden — crossbow, sword, and loot — Albert Robid
 | Quiver with 20 arrows   | 1     | 5         |
 | One silver-tipped arrow | —     | 5         |
 
-## Armor v2
+## Armor
 
 | Armor       | AC  | Slots | Cost (gp) |
 | ----------- | --- | ----- | --------- |
 | Leather     | 1   | 2     | 20        |
 | Gambeson    | 2   | 4     | 30        |
-| Chainmail   | 3   | 5     | 100       |
-| Plated mail | 4   | 6     | 1,000     |
-| Field plate | 4   | 4     | 4,000     |
-| Full plate  | 5   | 5     | 8,000     |
-
-## Armor v3
-
-| Armor       | AC  | Slots | Cost (gp) |
-| ----------- | --- | ----- | --------- |
-| Leather     | 1   | 2     | 20        |
-| Gambeson    | 2   | 4     | 30        |
-| Scale mail  | 2   | 3     | 50        |
 | Chain mail  | 3   | 6     | 40        |
 | Plate mail  | 4   | 8     | 60        |
 | Field plate | 4   | 5     | 2,000     |
 | Full plate  | 5   | 7     | 4,000     |
 
-- Leather, gambeson, and mail are open to anyone. Plate and other trained kit: see *Training* under [[Burners Adventure Game#Weapons, Armor, and Shields]].
-- Better armor is **dearer, not heavier**. Each rung of the ladder costs roughly ten times the last, and at the top the price buys *fit*: a fitted harness articulates and carries its weight on the body, so field plate rides lighter than plated mail, and full plate turns that fit into a fifth point of proof. Plated mail is the fortune; field and full plate are the fitted fortune — measured to you by a master armorer.
-- Armor in good repair resells at **half price**; most Burners trade up the ladder this way.
+- AC is Armor Class: the number of points of damage the armor absorbs on a hit.
+- Plate armor requires training: see *Training* under [[Burners Adventure Game#Weapons, Armor, and Shields]].
+- Field and full plate are rare and must be fitted to you by a master armorer.
+- If an armor is not listed, use the closet entry. For example, "scale mail" can be treated as chain mail.
 
 ## Shield
 
 | Shield  | Slots | Cost (gp) |
 | ------- | ----- | --------- |
-| Buckler | 1     | 3         |
-| Heater  | 2     | 6         |
-| Rotella | 3     | 9         |
+| Buckler | 2     | 3         |
+| Heater  | 3     | 6         |
+| Rotella | 4     | 9         |
 | Kite    | 4     | 12        |
 | Tower   | 5     | 15        |
 
@@ -83,15 +74,20 @@ hero_alt: "A knight returns laden — crossbow, sword, and loot — Albert Robid
 | Wooden pole, 10 feet                          | 1     | 1         |
 | Iron spikes (12)                              | 1     | 1         |
 | Hammer, small                                 | 1     | 2         |
+| Crowbar                                       | 1     | 10        |
+| Grappling hook                                | 1     | 25        |
+| Stakes (3) and mallet                         | 1     | 3         |
 | Tinder box (flint and steel)                  | 1     | 3         |
 | Torches (6)                                   | 1     | 1         |
 | Lantern                                       | 1     | 10        |
 | Waterskin or wineskin                         | 1     | 1         |
+| Wine (2 pints)                                | 1     | 1         |
 | Standard rations, one person one week         | 1     | 5         |
 | Iron rations (preserved), one person one week | 1     | 15        |
 | Mirror, hand-sized steel                      | 1     | 5         |
 | Thieves' tools                                | 1     | 25        |
 | Holy symbol                                   | 1     | 25        |
+| Garlic                                        | 1     | 5         |
 | Wolfsbane (one bunch)                         | 1     | 10        |
 
 ## Incendiaries & Alchemy
@@ -133,21 +129,21 @@ Learning a new spell (copying from a source into your book) burns **100 gp × th
 
 ## Pricing Anything Else
 
-Want something not on these tables? Price it with the **Gold Piece formula** carried from Wåndyr 1.5: a **base rate by slots × category**, then quality added on top. The Referee sets it once and adds it to the list, so it slots in without surprises. (These are the rates the tables above are built from; the Referee's copy lives in [[Burners Referee Guide]].)
+Want something not on these tables? Listed arms, armor, and common gear follow **OSE-style list prices** (with Burners slots, and field/full plate as the fitted exceptions). For anything else, use the **Gold Piece formula** carried from Wåndyr 1.5: a **base rate by slots × category**, then quality on top. The Referee sets it once and adds it to the list. (Referee copy: [[Burners Referee Guide]].)
 
-**Base rate — gp per slot:**
+**Base rate — gp per slot (unlisted items):**
 
 | Category               | gp/slot | Examples                                               |
 | ---------------------- | ------- | ------------------------------------------------------ |
 | Common                 | 1       | clothing, tools, waterskin, rope, torches, provisions  |
-| Plain armaments        | 5       | axes, maces, spears, polearms, plain armor, shields    |
-| Fine steel & specialty | 10      | swords, daggers, books, lockpicks, instruments, Arcana |
+| Plain armaments        | 5       | odd weapons, plain armor variants, shields not listed  |
+| Fine steel & specialty | 10      | books, lockpicks, instruments, Arcana, specialty tools |
 
 - **Provisions:** 1 gp per meal for the group.
-- **Ranged weapons** carry a craft premium over their slot rate (a short bow is 25, not 10); **silver** and other special materials add a surcharge.
-- **Mail and plate** armor carry a material premium over plain armor's 5/slot — mail about the fine-steel rate, plate far dearer (see *Armor*).
+- **Ranged weapons** and **silver** (and other special materials) still carry a craft or material surcharge when you invent a new piece.
+- **Field and full plate** are not slot-formula items — see *Armor*.
 
-**Quality — added on top of the base:**
+**Quality — added on top of the base (or on a listed price):**
 
 | Enhancement           | Adds       |
 | --------------------- | ---------- |
@@ -157,4 +153,4 @@ Want something not on these tables? Price it with the **Gold Piece formula** car
 | Exceptional craft, +1 | +100 gp    |
 | Rare craft, +2        | +1,000 gp  |
 
-So an *elegant knight's sword, +1*: fine steel (2 slots × 10 = 20) + "elegant" 10 + "+1" 100 ≈ **130 gp**. Exceptional craft is finer in the fiction, but it is **not** enchanted magic — see [[Burners Referee Magic Items]]. Magic items are rarely for sale at any price.
+So an *elegant knight's sword, +1*: listed sword **10** + "elegant" 10 + "+1" 100 = **120 gp**. Exceptional craft is finer in the fiction, but it is **not** enchanted magic — see [[Burners Referee Magic Items]]. Magic items are rarely for sale at any price.

@@ -189,8 +189,8 @@ The spread is by design, not accident: as a Veteran you start as an outfitted so
 
 Spend your gold in town from the tables below; everything you carry ready takes an item slot, and whatever you don't spend is yours to keep. A few sample buys:
 
-- **Veteran** (Sword, 100 gp): a gambeson (AC 2) 30, arming sword 20, heater shield 6, for 56 gp with coin to spare. Every blow shaved by 2, a shield adding dice to the Initiative roll and a block when struck. Chainmail (100) and plate (a fortune) are later scores, not starting kit.
-- **Boss** (Heart, 80 gp): a spear 15, leather armor (AC 1) 20, and coin held to outfit or bankroll the henchman — a leader spends on their people.
+- **Veteran** (Sword, 100 gp): a gambeson (AC 2) 30, arming sword 10, heater shield 6, for 46 gp with coin to spare. Every blow shaved by 2, a shield adding dice to the Initiative roll and a block when struck. Chain mail (40) is an early score; plate mail is cheap but trained and heavy; field and full plate are the fitted fortune.
+- **Boss** (Heart, 80 gp): a spear 3, leather armor (AC 1) 20, and coin held to outfit or bankroll the henchman — a leader spends on their people.
 - **Journeyman** (Craft, 60 gp + free bow & pole): thieves' tools 25, leather armor (AC 1) 20, for 45 gp; light, mobile, bow already in hand.
 - **Sorcerer** (Sorcerie, 40 gp + kit): leather armor (AC 1) 20 and oddments — a flask of oil, chalk for ritual circles, a spare dagger; the magic is already yours.
 
@@ -210,20 +210,20 @@ A weapon's **slots** are the dice it throws on your Initiative roll and the spac
 
 | Weapon | Slots | Cost (gp) | |
 | --- | --- | --- | --- |
-| Dagger | 1 | 10 | can be thrown |
-| Club | 1 | 1 | |
+| Dagger | 1 | 3 | can be thrown |
+| Club | 1 | 3 | |
 | Sling | 1 | 2 | ranged |
-| Small ax | 2 | 10 | can be thrown |
-| Mace (incl. war hammer) | 2 | 10 | |
-| Arming sword | 2 | 20 | |
+| Small ax | 2 | 4 | can be thrown |
+| Mace (incl. war hammer) | 2 | 5 | |
+| Arming sword | 2 | 10 | |
 | Short bow | 2 | 25 | ranged, two-handed |
-| Spear | 3 | 15 | two-handed |
-| Longsword | 3 | 30 | two-handed |
-| Longbow | 3 | 50 | ranged, two-handed |
-| Crossbow | 3 | 40 | ranged, two-handed |
-| Battle axe | 4 | 20 | two-handed |
-| Greatsword | 4 | 40 | two-handed |
-| Halberd | 5 | 25 | two-handed |
+| Spear | 3 | 3 | two-handed |
+| Longsword | 3 | 15 | two-handed |
+| Longbow | 3 | 40 | ranged, two-handed |
+| Crossbow | 3 | 30 | ranged, two-handed |
+| Battle axe | 4 | 7 | two-handed |
+| Greatsword | 4 | 15 | two-handed |
+| Halberd | 5 | 7 | two-handed |
 
 **Armor** — AC soaks every hit on the way in, one number by the make of the armor. Full prices are in [[Burners Equipment]].
 
@@ -231,10 +231,10 @@ A weapon's **slots** are the dice it throws on your Initiative roll and the spac
 | --- | --- | --- | --- |
 | Leather | 1 | 2 | 20 |
 | Gambeson | 2 | 4 | 30 |
-| Chainmail | 3 | 5 | 100 |
-| Plated mail | 4 | 6 | 1,000 |
-| Field plate | 4 | 4 | 4,000 |
-| Full plate | 5 | 5 | 8,000 |
+| Chain mail | 3 | 6 | 40 |
+| Plate mail | 4 | 8 | 60 |
+| Field plate | 4 | 5 | 2,000 |
+| Full plate | 5 | 7 | 4,000 |
 
 **Shields** — a shield's slots are dice on the Initiative roll; holding one lets you Block one attacker on yourself each round without limit, even one you are not striking at (spend an attack to cover an ally instead).
 
@@ -252,7 +252,7 @@ Most kit is open. Strap on leather or mail, pick up a spear or an arming sword, 
 
 Some kit is **trained-only**. Without a Trait for it, you cannot use it in a fight (no AC from that harness, no Initiative dice from that weapon or shield, no blows with it). Examples:
 
-- **Plate** — plated mail, field plate, full plate (*plate armor*)
+- **Plate** — plate mail, field plate, full plate (*plate armor*)
 - **Greatsword**
 - **Poleax** / halberd
 - **Longbow**
@@ -358,7 +358,7 @@ You have HP of one d6 per character level, rolled — just 1d6 at first level, r
 
 Heat is the other track, and it is not a pool of hit points. It is the scene's pressure, shared by your whole crew: the difficulty your out-of-combat costs are quoted against, and the clock that tells you how close the job is to going wrong. Every scene opens at a base (a quiet meet 3-4, a working delve or a parley that matters 6, a blown job or a hall on fire 8) and climbs as costs mount. Blows in a fight do not feed it; those go to HP. Heat rises in a fight only when the Referee judges the danger has turned, and it has no ceiling: a hot scene is simply a dangerous one.
 
-Armor is what you wear, and it soaks on the way in — its AC comes off every blow before your HP. AC runs from 1 to 5 by make: leather 1, gambeson 2, chainmail 3, plated mail and field plate 4, full plate 5. The cost is slots and coin. Heavier armor eats more of your twelve and climbs steeply in price, so if you travel light you keep your slots for gear and a fatter pool when you roll Initiative; if you armor up you trade that away for proof. Leather, gambeson, and mail are open; **plate is trained-only** (see *Training* under *Weapons, Armor, and Shields*). Armor keeps you from being worn down, not from being cut once you are down: in heavy armor you lose HP slowly, but the Wound you take past 0 is raw.
+Armor is what you wear, and it soaks on the way in — its AC comes off every blow before your HP. AC runs from 1 to 5 by make: leather 1, gambeson 2, chain mail 3, plate mail and field plate 4, full plate 5. The cost is slots and coin. Through plate mail the prices are ordinary; the tax is bulk — heavy harness eats more of your twelve and leaves a thinner pool when you roll Initiative. Field and full plate are the fitted fortune: same or better proof for less clumsiness (and at full plate, a fifth point of AC). Leather, gambeson, and mail are open; **plate is trained-only** (see *Training* under *Weapons, Armor, and Shields*). Armor keeps you from being worn down, not from being cut once you are down: in heavy armor you lose HP slowly, but the Wound you take past 0 is raw.
 
 ## Sample Traits by Approach
 
@@ -590,9 +590,9 @@ Range and reach buy safety: a far arrow risks nothing until the enemy closes, so
 
 See [[Burners Principles#Armor and Resistance soak; they never roll]]. Armor is what you wear; its AC comes off every blow before HP.
 
-- Leather, gambeson, and mail — AC by make, one number from 1 to 5: leather 1, a padded gambeson 2, chainmail 3, plated mail and field plate 4, full plate 5. Better armor is dearer and, at the top, better fitted, so a master-made harness carries its weight on the body and field plate rides lighter than plated mail for the same proof. Protection tracks coin, not weight.
+- Leather, gambeson, and mail — AC by make, one number from 1 to 5: leather 1, a padded gambeson 2, chain mail 3, plate mail and field plate 4, full plate 5. Through plate mail, coin is ordinary and slots are the tax; field and full plate buy fit (and at full plate, a fifth point of proof).
 
-- Leather, gambeson, and mail are open. **Plate** (plated mail and above) is trained-only: see *Training* under *Weapons, Armor, and Shields*. The price is slots and coin. Heavy armor eats into your twelve, so if you armor up you carry and move with little to spare, while if you travel light you keep your slots for gear and for a fatter pool when you roll Initiative. Heavy soaks, light stays quick.
+- Leather, gambeson, and mail are open. **Plate** (plate mail and above) is trained-only: see *Training* under *Weapons, Armor, and Shields*. The price is slots and coin. Heavy armor eats into your twelve, so if you armor up you carry and move with little to spare, while if you travel light you keep your slots for gear and for a fatter pool when you roll Initiative. Heavy soaks, light stays quick.
 
 - Armor is one number in ordinary play, with no hit locations.
 

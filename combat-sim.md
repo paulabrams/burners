@@ -5,6 +5,8 @@ title: "combat-sim"
 
 # Combat Sim
 
+> **Note:** This page records an older Monte Carlo pass (Parry / Dodge / shield Block). Current rules use locked Initiative each round, Defend without limit after any melee this round, **Guard** (dice to an ally), and **Cover** — see [[Burners Adventure Game]].
+
 A Monte Carlo test of the Burners Fuel/Sparks engine, run to answer one question: is the standard fight fair, and what does a fair fight look like for the sample party?
 
 The sample party (Aldric, Senna, Pip) is run against four foe sets. Each cell below is thousands of simulated fights. The simulator models the Initiative roll, turn order, per-round refill, Veteran extra attacks, two-handed power blows, Sparks, Parry/Dodge/Block scarcity, armor soak on the way in, and the full player death funnel (HP, then overflow cuts Strength, then a Wound and a Shock Check, then death at Strength 0). It is regenerated and appended to on a loop, alternating scenarios; a running total sits at the top.

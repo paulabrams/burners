@@ -109,7 +109,7 @@ Pick one per tier, or roll **d12** on the column. Re-roll duplicates. Route OSE 
 | 5 | **Bind on Sweet** — once per session, a Sweet hit **binds** the foe's weapon without a maneuver | *Binding tag* |
 | 6 | **Healing edge** — once per day, while held, heal 1 HP per round for 6 rounds (combat counts) | *extraordinary: healing, toned down* |
 | 7 | **Feint ward** — once per fight, ignore **1 point of Resistance** from mundane armor only | *extra damage, toned down* |
-| 8 | **Missile ward** — once per session, **Block** softens a breath or area effect you could not fully ward (half the overrun) | *shield crossover* |
+| 8 | **Missile ward** — once per session, **Cover** or **Defend** softens a breath or area effect you could not fully ward (half the overrun) | *shield crossover* |
 | 9 | **Purging blow** — once per session, shed one **lingering Cost** on yourself (poison, chill, fear) when you draw blood | *paladin-flavor* |
 | 10 | **Shifting sense** — locate shifting walls or rooms within 10' | *sensory: shifting architecture* |
 | 11 | **Telekinetic tug** — once per session, **Stunt** at range to disarm or trip (one die, no attack) | *extraordinary: telekinesis, toned down* |
@@ -130,7 +130,7 @@ Pick one per tier, or roll **d12** on the column. Re-roll duplicates. Route OSE 
 | 9 | **Teleport step** — once per delve, blink 30' you can see | *teleportation, heavily toned down* |
 | 10 | **Neutral blessing** — while drawn, **+1** to all hazard **Defends** for the scene (once per delve) | *neutral special purpose* |
 | 11 | **Paralyzing sting** — once per delve vs quarry, Sweet hit → **Defend** or **Control** to prone/stiffen 2d6 rounds | *lawful special purpose, toned down* |
-| 12 | **Petrifying sting** — once per delve vs lawful quarry, Sweet hit → **Defend** or **Control** (stone-slow: half move, no Dodge) 1 round | *chaotic special purpose, heavily toned down* |
+| 12 | **Petrifying sting** — once per delve vs lawful quarry, Sweet hit → **Defend** or **Control** (stone-slow: half move, Defend at one die only) 1 round | *chaotic special purpose, heavily toned down* |
 
 **Shields — +1-tier**
 
@@ -138,7 +138,7 @@ Pick one per tier, or roll **d12** on the column. Re-roll duplicates. Route OSE 
 |---|---|
 | 1 | Boss never splinters on a Spicy |
 | 2 | Faint **silver** gleam when undead or lycanthropes near |
-| 3 | Warn with a chill when a missile is aimed at you (once/fight, +1 to **Dodge** vs that shot) |
+| 3 | Warn with a chill when a missile is aimed at you (once/fight, +1 die on **Cover** or **Defend** vs that shot) |
 | 4 | Shed mud, ice, or blood instantly — never slippery |
 | 5 | **Detect magic** 3×/day within 20' while raised |
 | 6 | Mirror-bright; reflects gaze attacks once/fight at a **Defend** |
@@ -153,18 +153,18 @@ Pick one per tier, or roll **d12** on the column. Re-roll duplicates. Route OSE 
 
 | d12 | Power |
 |---|---|
-| 1 | **Block** once/session extends to an ally behind you without spending an attack |
-| 2 | **Block** softens a breath or area effect at half the overrun |
-| 3 | **Bane-rim** — **ignores Resistance** for one Block vs the named quarry |
-| 4 | Once/session, **bind** an attacker's weapon on a successful **Block** |
+| 1 | **Guard** once/session: give dice to an ally without spending an attack |
+| 2 | **Cover** softens a breath or area effect at half the overrun |
+| 3 | **Bane-rim** — **ignores Resistance** for one Guard or Defend vs the named quarry |
+| 4 | Once/session, **bind** an attacker's weapon when you **Guard** or Defend cleanly |
 | 5 | Once/session, **Stunt** shove without spending an attack (foe your size or less) |
 | 6 | Catch missile — one ranged hit per session cut to 0 before armor |
 | 7 | **Ward** — first hostile spell each delve at you is **Defended** with +1 die |
-| 8 | **Phalanx** — while braced, allies in facing gain your shield's **size** for **Block** fiction |
+| 8 | **Phalanx** — while braced, allies in facing may treat you as **Cover** |
 | 9 | Shed **lingering Cost** once/session when you take a blow on the shield |
 | 10 | **Purify** — holy water splash from the boss once/day |
 | 11 | **Missile magnet** — archers in front facing suffer −1 effective blow die once/fight |
-| 12 | **Second cover** — one ally per session may **Dodge** using your shield die |
+| 12 | **Second cover** — one ally per session may **Defend** using your shield die |
 
 **Armor — +1-tier**
 

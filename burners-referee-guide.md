@@ -81,7 +81,7 @@ A 1 means something is coming. Its partner die tells you how close, running from
 
 | Roll | Lead time | At the table |
 | --- | --- | --- |
-| 1,1 (natural 2) | none | Surprise. It is on them before they know — they defend at the surprise penalty, no Block or Parry against it that first exchange. |
+| 1,1 (natural 2) | none | Surprise. It is on them before they know — they defend at the surprise penalty, one die only that first exchange (no melee yet to open unlimited Defend). |
 | 1,2 | almost none | On top of them, knife-range. Roll initiative as normal, no time to prepare. |
 | 1,3 | little | Close. |
 | 1,4 | some | Nearby, both sides aware at once. |
@@ -192,7 +192,7 @@ A monster is any enemy, built on a simple stat block of Hit Dice, hide, and atta
 
 - **The monster's pool.** See [[Burners Principles#Pools, not fixed numbers]]. One die per Hit Die, dice for weapon slots, scene Heat as dice (added once per enemy side). It spends Fuel like a character; each blow is up to two committed dice from mundane steel, cut by defense and armor. A plus-mod lifts HP only.
 
-- **A heavy blow** is a two-handed weapon swung in a committed stroke: it adds a second die to that blow.
+- **A heavy blow** is a weapon of 3+ slots wielded in two hands: it can add a second die to that blow.
 
 - **Resistance** and **hide** — see [[Burners Principles#Armor and Resistance soak; they never roll]]. Name the scope; name a weakness. A troll regenerates until fire or acid; without it, flee or bring the flame.
 
@@ -212,13 +212,13 @@ The Referee raises or lowers Damage for the situation. Set a value from the band
 | +4 | severe | pinned, ambushed in the dark, several stacked |
 | +5 | dire | helpless while the fight still rages |
 
-The defender's edge runs the same band the other way: partial cover is a 2, hard cover a 4, an attacker who is prone or swinging blind gives you a 2 or 3. When a blow outruns the dice a defender can commit (a lone Dodge die, or as many as they like to Parry a foe they melee or to Block) plus their armor, the excess lands on HP — and past 0 it cuts a score.
+The defender's edge runs the same band the other way: partial cover is a 2, hard cover a 4, an attacker who is prone or swinging blind gives you a 2 or 3. When a blow outruns the dice a defender can commit (a lone die, or as many as they like once they have meleed this round) plus their armor, the excess lands on HP — and past 0 it cuts a score. Against missiles and hostile magic, **Cover** (free cover die + optional Fuel; Spark transfers) is another answer.
 
 ---
 
 ## Swarms
 
-Foes piling onto one target attack like a single Veteran of many levels: the group makes a bundle of attacks — reckon one per body in reach, or one per Hit Die for a larger creature — each its own blow of up to two dice, each defended separately, and each soaked by armor on the way in. Three orcs on Aldric are three attacks, not one big one. You can Parry the foe you strike at and Block one more with a shield, but the rest you meet with a lone Dodge die each, so a crowd gets through by sheer number of swings. A chokepoint caps how many reach you at once; kill one and the bundle loses its attacks.
+Foes piling onto one target attack like a single Veteran of many levels: the group makes a bundle of attacks — reckon one per body in reach, or one per Hit Die for a larger creature — each its own blow of up to two dice, each defended separately, and each soaked by armor on the way in. Three orcs on Aldric are three attacks, not one big one. Once Aldric has meleed this round he Defends without limit against all of them; until then each blow is one die. Allies may **Guard** him (give Fuel dice into his Defend). A chokepoint caps how many reach you at once; kill one and the bundle loses its attacks.
 
 Keeping the blows separate is deliberate. A single combined Damage would blow past armor in one unsoakable spike; many small hits, each soaked on the way in, mean a mob wears you down through attrition and a draining Fuel pool instead — you run out of dice to defend before you run out of HP. That is the real danger of numbers: not one dreadful blow, but more attacks than you have dice to answer. The counter is avoidance — break line of sight, fight from a chokepoint, raise a legendary shield, or thin the mob until the swings come slower than you can turn them.
 

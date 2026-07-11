@@ -28,7 +28,7 @@ Player skill decides whether the world bends; your Approach decides only how muc
 Burners has no save-or-die. Endurance is **Defend** — a graded contest, not a gate you pass or fail.
 
 - **Out of combat**, a hazard is **`2d6 +` the fitting Approach** against the Referee's Cost. You may soften the price, bear it whole, or dodge it clean — but the outcome is a matter of degree, not a single on/off switch.
-- **In combat**, blows land. You **commit Fuel dice** and cut incoming damage by their faces; armor soaks the rest; what remains comes off HP. Parry, Block, and Riposte are ways to spend deeper into the pool — not a roll that erases the hit.
+- **In combat**, blows land. You **commit Fuel dice** and cut incoming damage by their faces; armor soaks the rest; what remains comes off HP. Unlimited Defend (once you have meleed), Cover, Guard, and Riposte are ways to spend deeper into the pool — not a roll that erases the hit.
 - **Hostile magic** uses the same Fuel economy as steel. The caster's **cast total** (sum of faces spent to cast) opposes your **defense total** (sum of faces you commit). Partial defense means partial effect: **overrun** = cast − defense, applied as harm to HP *or* as the spell's hold — never both. There is no "save for half" — you defended as well as your dice allowed.
 
 A binary save asks *did you avoid it?* Burners asks *how much did you stop, and what is left?*

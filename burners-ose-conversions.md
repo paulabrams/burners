@@ -105,7 +105,7 @@ See [[Burners Principles#Pools, not fixed numbers]]. A monster's pool comes from
 - **dice for its weapon's slots** — a held weapon or a natural attack, read from the damage die below;
 - **the scene's Heat as dice** — added to the enemy side once, so a swarm does not multiply it.
 
-A monster spends its pool exactly as a character does: each blow is one die, plus one for a big two-handed stroke, and a fierce or many-limbed foe makes extra attacks by its nature — a wolf bites once, a bear claws twice, a hydra strikes per head — the Referee setting how many, not the HD. It defends as anyone does: a single die to Dodge most blows, freely to Parry a foe it melees, or freely with a shield to Block one attacker (see [[Burners Adventure Game]]).
+A monster spends its pool exactly as a character does: each blow is one die, plus one if the weapon is 3+ slots wielded in two hands, and a fierce or many-limbed foe makes extra attacks by its nature — a wolf bites once, a bear claws twice, a hydra strikes per head — the Referee setting how many, not the HD. It defends as anyone does: one die by default, freely once it has made a melee attack this round (see [[Burners Adventure Game]]).
 
 **The damage die sets the weapon's slots** — the dice it throws on the Initiative roll (see [[Burners Arms and Armor]]; Class and Slots are not always the same on that catalog):
 
@@ -121,7 +121,7 @@ A monster spends its pool exactly as a character does: each blow is one die, plu
 
 **Natural attacks are weapons.** The damage die sets the slots exactly as a blade's does, and those dice go into the pool: a wolf's d6 jaws throw 2, a bear's d8 paw 3, an ogre's swat 4. Natural weapons fill no *inventory* slots (a bite can't be dropped or looted) — the slot count is only its dice on the Initiative roll.
 
-**Initiative comes from the pool, not a Class.** Initiative is the count of the creature's dice showing 3 or 4, re-read each round — so a bigger pool (more HD, a heavier weapon, hotter Heat) tends to act earlier on its own, and there is no Weapon-Class order to track. The exceptions the old stat blocks flagged still hold, set by fiction:
+**Initiative comes from the pool, not a Class.** Initiative is the count of the creature's dice showing 3 or 4 after each round's Roll Initiative; the Referee locks order for that round — so a bigger pool (more HD, a heavier weapon, hotter Heat) tends to act earlier on its own, and there is no Weapon-Class order to track. The exceptions the old stat blocks flagged still hold, set by fiction:
 
 - **Shambling** *(the sluggish dead, oozes, rooted things)*: **acts last, regardless of its pool.** It still rolls and spends dice normally — a zombie's d8 hands hit like mauls — but its tempo is weather, not speed.
 - **A living spear** *(cobra, ambush-hunter)*: acts at the **top of the order regardless of its dice count** — speed and force part ways in a few bodies, and the stat block says so.

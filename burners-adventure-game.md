@@ -125,7 +125,7 @@ Quick definitions. Details live in the chapters below.
 
 - **Spark:** a natural 6 die roll. It entitles you to a second combat action — an attack, a Block, or a Stunt (defending, a Riposte) — which you still pay for from your Fuel. See Fighting.
 
-- **Block/Guard:** use your action to defend an adjacent ally. This costs one Fuel die, optionally two with a shield. If you are a Veteran you can use one of your extra attacks instead of your action, and you may redirect the attack to yourself (i.e. as a bodyguard).
+- **Block:** defend an attacker you are not meleeing — a second foe, an archer, a caster — spending Fuel freely, without the one-die Dodge limit. A shield grants one Block on yourself each round; otherwise spend an attack (a Veteran may use an extra attack) and you may cover an ally in your front facing instead.
 
 - anyone can say: "I guard Herrick [for 8]" -- Herrick may take the 8 OR use his own defense instead
 - a Veteran can say: "I guard Herrick *and I take the hit* [for 8]" -- the veteran has redirected the attack to himself and his defense is 8
@@ -185,11 +185,11 @@ Beyond you may have additional gear and funds to purchase gear based on your App
 | **Craft** (Journeyman) | 60 gp | choice of one "tool of the trade" based on one of your Traits, such as a hunting bow with a quiver of arrows, wood ax, blacksmith's hammer, etc. |
 | **Sorcerie** (Sorcerer) | 40 gp | your **personal spellbook** of four 1st-level spells of your school (known), and **two Level-1 Arcana** of any sorcerer-drip shape |
 
-The spread is by design, not accident: as a Veteran you start as an outfitted soldier; as a Boss, a moneyed leader rich in people; as a Journeyman, a scrappy woodsman poor in coin but woods-ready; as a Sorcerer, someone who spent nearly everything becoming a mage. You earn legendary gear in play — see [[Burners Principles#Earned in play]].
+Veterans start as outfitted soldiers; Bosses as moneyed leaders rich in people; Journeymen as scrappy woodsmen poor in coin but woods-ready; Sorcerers as folk who spent nearly everything becoming mages. You earn legendary gear in play — see [[Burners Principles#Earned in play]].
 
 Spend your gold in town from the tables below; everything you carry ready takes an item slot, and whatever you don't spend is yours to keep. A few sample buys:
 
-- **Veteran** (Sword, 100 gp): a gambeson (AC 2) 30, arming sword 10, heater shield 6, for 46 gp with coin to spare. Every blow shaved by 2, a shield adding dice to the Initiative roll and a block when struck. Chain mail (40) is an early score; plate mail is cheap but trained and heavy; field and full plate are the fitted fortune.
+- **Veteran** (Sword, 100 gp): a gambeson (AC 2) 30, arming sword 10, heater shield 6, for 46 gp with coin to spare. Every blow shaved by 2, a shield adding dice to the Initiative roll and a block when struck. Chain mail (40) comes next; plate wants training; field and full plate are rare fitted harness.
 - **Boss** (Heart, 80 gp): a spear 3, leather armor (AC 1) 20, and coin held to outfit or bankroll the henchman — a leader spends on their people.
 - **Journeyman** (Craft, 60 gp + free bow & pole): thieves' tools 25, leather armor (AC 1) 20, for 45 gp; light, mobile, bow already in hand.
 - **Sorcerer** (Sorcerie, 40 gp + kit): leather armor (AC 1) 20 and oddments — a flask of oil, chalk for ritual circles, a spare dagger; the magic is already yours.
@@ -202,7 +202,7 @@ A Sorcerer's craft comes with a kit — the fruit of your apprenticeship — whi
 - A **spellbook** of four 1st-level spells from your school, all known, carried in a **scrivener's satchel** — the book plus an ink pot, quill, and a sheaf of loose-leaf paper. Plain ink and loose leaves record Facts in the field (scraps, runes, fragments), free; the *special reagent inks* that fix a working permanently into the book are a separate cost (see *Learning a spell* on [[Burners Sorcerie]]).
 - **Read Magic**, free and always known — the working behind *Reading Magic*, not a school spell.
 
-Two of your school's six 1st-level spells are **not** in your book — those, deeper spells, other schools, and better foci are your hunt, earned in play by study and gold. (Learning a *new* spell later costs **100 gp × its level**; see [[Burners Sorcerie]].)
+Two of your school's six 1st-level spells are **not** in your book — those, deeper spells, other schools, and better foci are your hunt. *Read Magic* lets you work a found spell from its source while you carry it; moving it into your book costs **100 gp × its level** and destroys the source — see [[Burners Sorcerie]].
 
 ### Weapons, Armor, and Shields
 
@@ -216,14 +216,14 @@ A weapon's **slots** are the dice it throws on your Initiative roll and the spac
 | Small ax | 2 | 4 | can be thrown |
 | Mace (incl. war hammer) | 2 | 5 | |
 | Arming sword | 2 | 10 | |
-| Short bow | 2 | 25 | ranged, two-handed |
-| Spear | 3 | 3 | two-handed |
+| Short bow / hunting bow | 2 | 25 | ranged, two-handed |
+| Spear | 3 | 3 | can be thrown |
 | Longsword | 3 | 15 | two-handed |
 | Longbow | 3 | 40 | ranged, two-handed |
 | Crossbow | 3 | 30 | ranged, two-handed |
 | Battle axe | 4 | 7 | two-handed |
 | Greatsword | 4 | 15 | two-handed |
-| Halberd | 5 | 7 | two-handed |
+| Halberd / pole arm | 5 | 7 | two-handed |
 
 **Armor** — AC soaks every hit on the way in, one number by the make of the armor. Full prices are in [[Burners Equipment]].
 
@@ -254,10 +254,10 @@ Some kit is **trained-only**. Without a Trait for it, you cannot use it in a fig
 
 - **Plate** — plate mail, field plate, full plate (*plate armor*)
 - **Greatsword**
-- **Poleax** / halberd
+- **Poleax** or **halberd**
 - **Longbow**
 
-Chainmail stays open. It is heavy and awkward, but it is not a harness you have to learn the way plate is.
+Chain mail stays open. It is heavy and awkward, but it is not a harness you have to learn the way plate is.
 
 Enchanted kit and the extra die are separate: see *Enchanted Arms and Armor*.
 
@@ -275,6 +275,10 @@ See [[Burners Principles#Earned in play]]. You buy character level from the XP t
 - **Treasure** — **1 XP per 1 gp** of coins, gems, and jewelry **recovered to safety** — banked in town, not merely pocketed in the delve. Loot you cannot haul home is not loot yet; the clock has teeth. Goods, art objects, and equipment count at their sale value when sold; the Referee sets the number once.
 
 **Magic items grant no XP.** See [[Burners Principles#Earned in play]].
+
+**When you spend it.** XP banks as you earn it. You buy a character level only in civilization — a safe town, haven, or other place where you can train and rest. Mid-delve rank-ups do not happen. Rare emergencies (a vision at a Hallow, a patron's gift on the road) are the Referee's call, not the rule.
+
+**Exploration (optional).** The Referee may award a small XP crumb for a wilderness hex newly mapped or a dungeon room meaningfully explored — enough to notice, not enough to replace treasure. Tune the number to your table's pace; there is no fixed award.
 
 **Henchmen (Boss only).** When XP is awarded, each of your **henchmen** who delved with you and survived splits **half of your own award** — bonus XP, not taken from you or the rest of the crew. One henchman on the job earns 50% of what you earned; two henchmen present split that half between them (25% of your award each). Track henchman XP on a simple line; it feeds the trainee path (see *The Boss — henchmen and command*). Paid hirelings and OSE retainers earn no XP.
 
@@ -322,7 +326,7 @@ Alignment is an Approach worked out when the fiction does not map cleanly to Swo
 
 **Situational Alignment** is the catch-all for the odd moment. Hauled before the Thieves' Guild masters, Heart is close but not quite; the Referee calls **Alignment with the Thieves' Guild** instead, counting canting, streetwise, that season you spent as a fence. Use a fixed Approach for ordinary rolls; reach for situational Alignment only for the particular strange thing in front of you.
 
-**Patron Alignment** is the same math, but the axis is an otherworldly being — a god, saint, d'jinn, dead power, or thing from beyond the veil that has a True Name and a nature. Record it on your sheet when it matters: *Lunara 2*, *the Voice in the Void 1*. It grows the way everything in Burners grows: you take Traits that bear on the patron at level-up, you keep a **Relic** of theirs, you accept their shaping after a pact, you do deeds they favor. A Relic of the patron (their conduit — often legendary Arcana or a named item) counts as +1 Alignment with that patron for Invocations only.
+**Patron Alignment** is the same math, but the axis is an otherworldly being — a god, saint, d'jinn, dead power, or thing from beyond the veil that has a True Name and a nature. Record it on your sheet when it matters: *Lunara 2*, *the Voice in the Void 1*. It grows the way everything in Burners grows: you take Traits that bear on the patron at level-up, you keep a **Relic** of theirs, you accept their shaping after a pact, you do deeds they favor. A Relic of the patron (their conduit — often a named Arcana or other named item) counts as +1 Alignment with that patron for Invocations only.
 
 | Alignment level | What it means at the table |
 |---|---|
@@ -358,11 +362,11 @@ You have HP of one d6 per character level, rolled — just 1d6 at first level, r
 
 Heat is the other track, and it is not a pool of hit points. It is the scene's pressure, shared by your whole crew: the difficulty your out-of-combat costs are quoted against, and the clock that tells you how close the job is to going wrong. Every scene opens at a base (a quiet meet 3-4, a working delve or a parley that matters 6, a blown job or a hall on fire 8) and climbs as costs mount. Blows in a fight do not feed it; those go to HP. Heat rises in a fight only when the Referee judges the danger has turned, and it has no ceiling: a hot scene is simply a dangerous one.
 
-Armor is what you wear, and it soaks on the way in — its AC comes off every blow before your HP. AC runs from 1 to 5 by make: leather 1, gambeson 2, chain mail 3, plate mail and field plate 4, full plate 5. The cost is slots and coin. Through plate mail the prices are ordinary; the tax is bulk — heavy harness eats more of your twelve and leaves a thinner pool when you roll Initiative. Field and full plate are the fitted fortune: same or better proof for less clumsiness (and at full plate, a fifth point of AC). Leather, gambeson, and mail are open; **plate is trained-only** (see *Training* under *Weapons, Armor, and Shields*). Armor keeps you from being worn down, not from being cut once you are down: in heavy armor you lose HP slowly, but the Wound you take past 0 is raw.
+Armor is what you wear, and it soaks on the way in — its AC comes off every blow before your HP. AC runs from 1 to 5 by make: leather 1, gambeson 2, chain mail 3, plate mail and field plate 4, full plate 5. Heavy harness eats more of your twelve and leaves a thinner pool when you roll Initiative. Leather, gambeson, and mail are open; **plate is trained-only** (see *Training* under *Weapons, Armor, and Shields*). Armor keeps you from being worn down, not from being cut once you are down: in heavy armor you lose HP slowly, but the Wound you take past 0 is raw.
 
 ## Sample Traits by Approach
 
-- **Sword:** greatsword, arming sword, dagger, spear, axe, bow, longbow, poleax, shield, wrestling, ambush, tactics, chainmail, plate armor. Qualities: strong, fearless, relentless, steady, iron-willed, veteran.
+- **Sword:** greatsword, arming sword, dagger, spear, axe, bow, longbow, poleax, shield, wrestling, ambush, tactics, chain mail, plate armor. Qualities: strong, fearless, relentless, steady, iron-willed, veteran.
 
 - **Craft:** lockpicking, stealth, tracking, disguise, sailing, herbalism, smithing, navigation, climbing, swimming, survival, canting, hunting bow, knife, wood-ax, staff. Qualities: nimble, observant, patient, resourceful, quiet, cunning.
 
@@ -374,7 +378,7 @@ Armor is what you wear, and it soaks on the way in — its AC comes off every bl
 
 - **Aldric**, Sword 1 (Veteran). "Seen too much to flinch, too little to quit."
 
-  - 4 HP and chainmail (AC 3): every blow he takes is shaved by 3 before it reaches him, so he wears down slowly and is hard to drop. Past 0, his Wound is raw like anyone's.
+  - 4 HP and chain mail (AC 3): every blow he takes is shaved by 3 before it reaches him, so he wears down slowly and is hard to drop. Past 0, his Wound is raw like anyone's.
 
   - Traits: arming sword, shield, plate armor, ambush (Sword).
 
@@ -416,7 +420,7 @@ Signatures take three common shapes; the Referee may allow others:
 
 Anyone can use an enchanted item's **powers** once they have found them.
 
-The **extra die** (Initiative pool and on the action) wants a **Trait** for that kit: *arming sword*, *chainmail*, *hunting bow*, *shield*, and so on. Most war Traits sit under Sword, so Veterans usually claim the magic steel. A Journeyman with *hunting bow* can still take the die from a magic hunting bow.
+The **extra die** (Initiative pool and on the action) wants a **Trait** for that kit: *arming sword*, *chain mail*, *hunting bow*, *shield*, and so on. Most war Traits sit under Sword, so Veterans usually claim the magic steel. A Journeyman with *hunting bow* can still take the die from a magic hunting bow.
 
 A **Named item** Signature on that Trait (your steel, named) gives you the extra die on that kit the same way.
 
@@ -549,7 +553,7 @@ The rules below are **Hour Rest**, the default recovery flavor. The [[Burners Re
 
 The danger is being driven past 0 — every wound is a Shock Check, and you need to cover downed friends. Reach full HP and you are whole again; linger hurt and the penalties ride until you do.
 
-*The crew fights an ogre in a working scene, Heat at 6. Aldric (Sword 1, 4 HP, chainmail (AC 3), arming sword, rotella) rolls Initiative for eight dice — one empty slot, two for the sword, four for the shield, one for his level: 6, 5, 4, 3, 2, 2, 1, 1, three of them showing 3 or 4, so his Initiative is 3. The ogre's pool runs deep, swollen by its Hit Dice and the six points of Heat, so it acts first and swings its great club, three dice for a blow worth 10. Aldric means to trade with it, and against a foe he melees he defends without limit: he spends the 6 and the 4 to cut all 10, his chainmail never tested. The 4 was a quick die, so his Initiative slips to 2. On his turn a Veteran gets two attacks; with a one-handed sword each is a single die, so he spends the 5 and the 3 for blows of 5 and 3 — 8 into the ogre, and with no 6 among them, no Spark. Fuel left: 2, 2, 1, plus the refill each round brings. Next round the ogre swings for 10 again; Aldric spends his 2, 2, 1 and the refill to cut 8, and his chainmail soaks the rest, so nothing lands — but his hand is now empty. The round after, winded, the blow arrives whole: 10 less 3 for chainmail is 7, and with 4 HP he is driven to -3, a leg Wound that leaves him prone. His Shock Check — 2d6 + Sword against that wound-depth of 3 — beats it, so he stays on his feet, but his dice are gone. Finish it or fold.*
+*The crew fights an ogre in a working scene, Heat at 6. Aldric (Sword 1, 4 HP, chain mail (AC 3), arming sword, rotella) rolls Initiative for seven dice — his twelve are full (mail 6, sword 2, shield 4), so no empty-slot dice; two for the sword, four for the shield, one for his level: 6, 5, 4, 3, 2, 2, 1, three of them showing 3 or 4, so his Initiative is 3. The ogre's pool runs deep, swollen by its Hit Dice and the six points of Heat, so it acts first and swings its great club, three dice for a blow worth 10. Aldric means to trade with it, and against a foe he melees he defends without limit: he spends the 6 and the 4 to cut all 10, his chain mail never tested. The 4 was a quick die, so his Initiative slips to 2. On his turn a Veteran gets two attacks; with a one-handed sword each is a single die, so he spends the 5 and the 3 for blows of 5 and 3 — 8 into the ogre, and with no 6 among them, no Spark. Fuel left: 2, 2, 1, plus the refill each round brings. Next round the ogre swings for 10 again; Aldric spends his 2, 2, 1 and the refill to cut 8, and his chainmail soaks the rest, so nothing lands — but his hand is now empty. The round after, winded, the blow arrives whole: 10 less 3 for chainmail is 7, and with 4 HP he is driven to -3, a leg Wound that leaves him prone. His Shock Check — 2d6 + Sword against that wound-depth of 3 — beats it, so he stays on his feet, but his dice are gone. Finish it or fold.*
 
 When you face control magic, it uses the same **Defend** economy as damage but lands on the **effect** lane, not your HP — see [[Burners Principles#Harm and effect are separate lanes]] and *Defending against a spell* in [[Burners Sorcerie]].
 
@@ -590,13 +594,13 @@ Range and reach buy safety: a far arrow risks nothing until the enemy closes, so
 
 See [[Burners Principles#Armor and Resistance soak; they never roll]]. Armor is what you wear; its AC comes off every blow before HP.
 
-- Leather, gambeson, and mail — AC by make, one number from 1 to 5: leather 1, a padded gambeson 2, chain mail 3, plate mail and field plate 4, full plate 5. Through plate mail, coin is ordinary and slots are the tax; field and full plate buy fit (and at full plate, a fifth point of proof).
+- Leather, gambeson, and mail — AC by make: leather 1, gambeson 2, chain mail 3, plate mail and field plate 4, full plate 5.
 
-- Leather, gambeson, and mail are open. **Plate** (plate mail and above) is trained-only: see *Training* under *Weapons, Armor, and Shields*. The price is slots and coin. Heavy armor eats into your twelve, so if you armor up you carry and move with little to spare, while if you travel light you keep your slots for gear and for a fatter pool when you roll Initiative. Heavy soaks, light stays quick.
+- Leather, gambeson, and mail are open. **Plate** (plate mail and above) is trained-only: see *Training* under *Weapons, Armor, and Shields*. Heavy armor eats into your twelve, so if you armor up you carry and move with little to spare, while if you travel light you keep your slots for gear and for a fatter pool when you roll Initiative.
 
 - Armor is one number in ordinary play, with no hit locations.
 
-- A shield is not armor; you hold it, not wear it. Its slots are dice it lends on your Initiative roll (buckler 2, heater 3, tower 5), like any held steel. Holding one raises your Defend and Guard cap to two dice. To cover an ally, spend an Action or a Veteran's extra attack on **Guard** (see Fighting).
+- A shield is not armor; you hold it, not wear it. Its slots are dice it lends on your Initiative roll (buckler 2, heater 3, tower 5), like any held steel. Holding one lets you **Block** one attacker on yourself each round without the one-die Dodge limit. To cover an ally, spend an attack on **Block** (see Fighting).
 
 ### We Burn Undead
 
@@ -606,7 +610,7 @@ See [[Burners Principles#Armor and Resistance soak; they never roll]]. Armor is 
 
 - **Resistance to blades.** A sword through a skeleton finds no organs, no blood, no lungs to collapse — steel does little (treat undead as having Resistance against cutting and piercing weapons; the Referee sets the value by how bony or desiccated the thing is). Bludgeoning that shatters rather than cuts ignores this — a mace or maul works where slicing does not.
 
-- **Vulnerability to fire.** The dead are kindling. Fire ignores their blade-Resistance and bites deep (a torch, a flask of oil, a stray flame — count fire damage at full, or with a bonus, the Referee's call). This is the design pointing at the torch: burning is not flavor, it is the correct, rewarded tactic.
+- **Vulnerability to fire.** The dead are kindling. Fire ignores their blade-Resistance and bites deep (a torch, a flask of oil, a stray flame — count fire damage at full, or with a bonus, the Referee's call). Burning is the right play, not flavor.
 
 So the answer to a crypt full of the shuffling dead is not a magic word — it is oil, flame, and a fast exit. Bring more oil than you think you need. You will use it.
 
@@ -618,7 +622,7 @@ So the answer to a crypt full of the shuffling dead is not a magic word — it i
 
 - **Nerve.** As a Boss you may face down the intelligent dead by sheer presence — cow a wraith, stare down a vampire's thrall — where a skeleton has no will to break but a thinking dead thing does.
 
-So the tiering is clean and needs no new subsystem: torch the horde; deal, name, or dare the lord.
+So: torch the horde; deal, name, or dare the lord.
 
 *"We don't turn undead. We burn undead." — the old barrow wisdom, and more oil than sense.*
 
@@ -630,7 +634,7 @@ There is no defense roll to fail; when struck you commit dice from your Fuel and
 
 ## Magic
 
-Magic is prepared, not spontaneous: as a Sorcerer you **bind** workings into **Arcana** (one hour of study with your spellbook in hand). Your cast leaves the spell active for its duration, then used until you clear it with sleep. Hostile magic lands through the same Defend economy as steel (see [[Burners Principles]]). Magic touches your game in two places: the Sorcerer title (Sorcerie 1) switches casting on for you, and your combat cast is one Action that spends at least L Fuel dice (L = the spell's level) and rolls them for the cast total. The spell catalog is [[Burners Sorcerie]]; the gate-free common school Sorcerie holds the workings you know regardless of tradition (Read Magic, Detect Magic, the Ward Pact family, and the rest).
+Magic is prepared, not spontaneous: as a Sorcerer you **bind** workings into **Arcana** (one hour of study with a readable book in hand — yours, or a found grimoire you can still read). **Lasting** Arcana are rare finds, not shop goods; **scrolls** you scribe anytime for gold (100 gp × level) — one-shot Arcana that burn when cast. Your lasting cast leaves the spell active for its duration, then used until you clear it with sleep. Hostile magic lands through the same Defend economy as steel (see [[Burners Principles]]). Magic touches your game in two places: the Sorcerer title (Sorcerie 1) switches casting on for you, and your combat cast is one Action that spends at least L Fuel dice (L = the spell's level) and rolls them for the cast total. The spell catalog is [[Burners Sorcerie]]; the gate-free common school Sorcerie holds the workings you know regardless of tradition (Read Magic, Detect Magic, the Ward Pact family, and the rest).
 
 The full rules of magic — the Sorcerer gate, Arcana and binding, spellbooks, ritual, the cast, Defend against hostile workings, and Reading Magic — live with the catalog on the **[[Burners Sorcerie]]** page; you need them if you are a Sorcerer (or a Journeyman casting Canting). At the table you need just two things: how a spell hits you (*Defending against a spell*, under Combat) and the quick reference below.
 
@@ -643,11 +647,11 @@ The full rules of magic — the Sorcerer gate, Arcana and binding, spellbooks, r
 ```
 WHO     Sorcerer (Sorcerie 1+); Journeyman+ (Craft 1+) for Canting
 WHAT    school spells ([[Burners Sorcerie]]), by level
-WHERE   bound into Arcana (capacity = the Arcana's Level); book present to bind
-WHEN    bind or replace = 1 hour + book; used slots clear after 8 hours' sleep
+WHERE   bound into Arcana (capacity = the Arcana's Level); readable source present to bind
+WHEN    bind or replace = 1 hour + source; used slots clear after 8 hours' sleep
 HOW     combat cast = one Action spending at least L Fuel dice, rolled for cast total; Spark → up to L extra Fuel; slot → active → used
 DEFEND  hostile magic: Roll initiative if needed; Fuel dice vs cast total (no cap); HP harm OR effect, not both; Warding for adjacent allies
-ROLL    out of combat, 2d6 + Sorcerie; +1 die if legendary Arcana
+ROLL    out of combat, 2d6 + Sorcerie
 LIMITS  learn ≤ Sorcerie · bind ≤ Arcana Level · no HP-fuel · no spell-Signatures
 ```
 
@@ -675,7 +679,7 @@ Disposition is a fact of the world, which the Referee may roll on the Reaction t
 
 A **hireling** (or **retainer**, in the old-school sense) is someone you hire for coin: a torchbearer, a linkboy, a guide, a porter, a dockside sellsword. They are not Burners — ordinary folk (Sword 0, untrained: a thin Fuel pool, no Veteran tricks) and usually the first to die. Bring bodies anyway. Someone has to hold the torch.
 
-**Finding and paying.** You find hirelings in the fiction — a tavern notice, a dockside crew, a debt called in. The offer is a Reaction roll (see [[Burners Referee Guide]]); if you have Heart, add it to the roll — a generous purse eases it, a bad name hardens it. On the old-school standard a delver wants a guaranteed fee *and* a share of the take: reckon roughly 1 gp a day for a common hand — more for a skilled sword or a guide who knows the ground — and at least a half-share of whatever you haul out. If you short the split, soon no one will sign on. **Paid hirelings earn no XP.**
+**Finding and paying.** You find hirelings in the fiction — a tavern notice, a dockside crew, a debt called in. The offer is a Reaction roll (see [[Burners Referee Guide]]); if you have Heart, add it to the roll — a generous purse eases it, a bad name hardens it. On the old-school standard a delver wants a guaranteed fee *and* a share of the take: pay the weekly rate on [[Burners Equipment#Hirelings]] (torchbearer 2 gp/week, sellsword 5, and so on) and at least a half-share of whatever you haul out. If you short the split, soon no one will sign on. Taking a hireling into a dungeon may raise the ask. Food, lodging, and new gear are on you. **Paid hirelings earn no XP.**
 
 When the moment breaks their nerve, the Referee plays it by fiction or calls **2d6 vs the danger** with no modifier — unless a Boss on the delve is anchoring them (see below).
 

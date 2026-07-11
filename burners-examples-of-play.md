@@ -18,10 +18,10 @@ hero_alt: "Travelers on the road — Albert Robida"
 
 | Burner | Approach | HP | Held | Fuel on the Initiative roll |
 |---|---|---|---|---|
-| **Kragg** | Sword 1 (Veteran) | 4 | war-axe (3 slots, 2-handed, enchanted), half mail (AC 2) | 4 empty + 3 axe + 1 level = **8** |
+| **Kragg** | Sword 1 (Veteran) | 4 | war-axe (3 slots, 2-handed, enchanted), gambeson (AC 2) | 4 empty + 3 axe + 1 level = **8** |
 | **Sefa** | Craft 1 (Journeyman) | 3 | leather (AC 1); **silvered knife** (1 slot) once looted | 4 empty + 1 knife + 1 level = **6** |
 | **Brand** | Heart 1 (Boss) | 5 | sword (2), leather (AC 1) | 4 empty + 2 sword + 1 level = **7** |
-| **Ilsa** | Sorcerie 1 (Sorcerer) | 3 | spear (3), a Level-1 wand holding one bound *dart*, quarter suit (AC 1) | 4 empty + 3 spear + 1 level = **8** |
+| **Ilsa** | Sorcerie 1 (Sorcerer) | 3 | spear (3), a Level-1 wand holding one bound *dart*, leather (AC 1) | 4 empty + 3 spear + 1 level = **8** |
 
 *Reminder — out of combat: `2d6 +` Approach vs Cost. Hostile magic: Fuel Defend vs cast total (see [[Burners Principles#Granular defense, not binary save]]).*
 
@@ -82,7 +82,7 @@ hero_alt: "Travelers on the road — Albert Robida"
 
 ### Combat 2 — The Cellarer (a wight). Heat 7 → 9
 
-Buried armed: **grave-sword** (2 slots) and a **grave-byrnie**, old chain still sound (soak 2). HD 3 → **15 HP**. **Resistance 5 vs mundane arms** — grave-cold flesh — with silver the named weakness (it ignores the Resistance, though not the byrnie). The Referee announces it rising from its bier: **+2 Heat → 9.**
+Buried armed: **grave-sword** (2 slots) and a **grave-byrnie**, old chain still sound (AC 3). HD 3 → **15 HP**. **Resistance 5 vs mundane arms** — grave-cold flesh — with silver the named weakness (it ignores the Resistance, though not the byrnie). The Referee announces it rising from its bier: **+2 Heat → 9.**
 
 **Rolling Initiative.** The wight's pool is **14 dice** — 3 (HD) + 2 (sword) + 9 (Heat) — the hot scene fighting back hard. It reads six 3s/4s: **Initiative 6, first**. As a named foe it takes the full Wound rules and strikes twice.
 
@@ -90,7 +90,7 @@ Buried armed: **grave-sword** (2 slots) and a **grave-byrnie**, old chain still 
 
 - **Wight**, two grave-sword blows:
   - → **Brand**: 3 dice (6,5,4 = 15). Brand isn't meleeing it and has leather only → Defend cap one: spends a 6 → 9 left; leather soaks 1 → **8 to HP.** Brand 5 → **−3: a Wound.** Location 1d6=2, **torso, winded** — loses a Fuel die. **Shock Check: 2d6 + Sword (0) = 8 vs wound depth 3** ✓ — keeps his feet. *(Brand Fuel 7→5.)*
-  - → **Ilsa**: 2 dice (5,5 = 10). Ilsa isn't meleeing it and has no shield → Defend cap one: a 4 → 10−4 = 6; her quarter suit soaks 1 → **5 to HP.** Ilsa HP 3 → **−2: a Wound.** Location 1d6=4, an **arm** — the spear-arm hangs useless until she reaches full HP. **Shock Check: 2d6 + Sword (0) = 6 vs the wound depth of 2** ✓ — she keeps her feet, shaken, one-armed. *(Fuel 8→7.)*
+  - → **Ilsa**: 2 dice (5,5 = 10). Ilsa isn't meleeing it and has no shield → Defend cap one: a 4 → 10−4 = 6; her leather soaks 1 → **5 to HP.** Ilsa HP 3 → **−2: a Wound.** Location 1d6=4, an **arm** — the spear-arm hangs useless until she reaches full HP. **Shock Check: 2d6 + Sword (0) = 6 vs the wound depth of 2** ✓ — she keeps her feet, shaken, one-armed. *(Fuel 8→7.)*
   - *(Wight spent 5 dice attacking; 9 left.)*
 - **Kragg** attacks the wight (Veteran, two blows; 2-handed axe) — and, meleeing it, Defends with no cap on its turn next round:
   - Blow A: 6,5,4 = 15. Wight Defends at the one-die cap (it struck Brand and Ilsa, not Kragg): a 6 → 9 left, − byrnie 2 − Resistance 5 = **2.** Wight **15 → 13.**

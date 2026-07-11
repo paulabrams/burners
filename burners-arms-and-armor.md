@@ -45,7 +45,7 @@ Weapons carry **Class** (Legends penetration vs armor) and **Slots** (Burners in
 
 ## Weapons
 
-Weapons are tools of war, designed to slay foes and keep you safe. **Melee** weapons (swords, axes, spears) fight hand-to-hand and have a length — maneuver to the optimal range for yours. **Missile** weapons (bows) attack at distance — keep away from melee and seek lines of sight while using cover.
+Weapons are tools of war. **Melee** weapons (swords, axes, spears) fight hand-to-hand and have a length — get to the range yours wants. **Missile** weapons (bows) attack at distance — keep away from the press and seek lines of sight while using cover.
 
 **Two-handed (`2H`)** weapons need both hands. A `2H` melee weapon used one-handed has **Weapon Class −1** and grants none of its beneficial tags (not an option for bows).
 
@@ -175,17 +175,21 @@ Weapons carry tags for their characteristics; many describe a way to upgrade in 
 
 ## Armor
 
-The core rates armor as three **suits** — Quarter (AC 1, 2 slots), Half (AC 2, 4 slots), Full (AC 3, 6 slots) — each soaking its AC off every blow on the way in (see [[Burners Adventure Game]]). The Legends pieces below are the *flavor* of those suits, not a second system: build the look you like, then read your suit's one number.
+Prices, AC, and slots for the shop list live in [[Burners Equipment]] and the play list in [[Burners Adventure Game]]: leather 1, gambeson 2, chain mail 3, plate mail and field plate 4, full plate 5. Leather, gambeson, and mail are open; **plate is trained-only**.
 
-**How the kit maps to a suit:**
+The Legends pieces below are *look and history* for those rungs — build the harness you like, then read one AC from the Equipment table (or the closest entry: scale as chain mail, and so on).
 
-- **Quarter (AC 1)** — the vitals only: a padded **gambeson** or **arming jack**, a boiled-leather **cuirie**, a lone **breastplate** or **cuirass**, a **concealed mail shirt**, with a cap or coif for the head. What a scout, skirmisher, or mage wears.
-- **Half (AC 2)** — vitals plus arms and hands: a **mail hauberk** or a **coat of plates** (brigandine) with **gauntlets** and a helm (mail coif, kettle hat, sallet). The sword-and-shield line's kit; trained-only (a Trait such as *armored*).
-- **Full (AC 3)** — head to leg: **full mail**, **plated mail**, or articulated **plate** with **greaves**, **faulds**, plated arms, and an enclosing helm (armet, close helm, great helm). The knight's harness; anyone may wear it for AC.
+**How the kit tends to map:**
 
-Better armor is dearer, not heavier — protection tracks expense and slots, not weight. A full suit eats half your twelve slots, so the armored fighter carries little and rolls a thin pool on the Initiative roll, while the light fighter keeps his slots and his speed.
+- **AC 1 (leather, 2 slots)** — vitals only: boiled leather, a cuirie, a light jack, a cap or coif. Scout and mage kit.
+- **AC 2 (gambeson, 4 slots)** — a thick padded jack or arming doublet, often under mail.
+- **AC 3 (chain mail, 6 slots)** — a mail hauberk or byrnie, scale treated the same; helm and gauntlets as you like.
+- **AC 4 (plate mail, 8 slots; field plate, 5 slots)** — coat of plates, brigandine, or plate over mail; field plate is the fitted harness.
+- **AC 5 (full plate, 7 slots)** — enclosed proof, fitted.
 
-**Gaps and called shots.** Your suit is one number in ordinary play. When a foe deliberately strikes where it does not reach — a called shot, or a swarm at the legs of a half-suited Burner — that blow meets bare flesh (AC 0). Helms, gauntlets, greaves, and gorgets are the pieces that close those gaps, and a fuller suit has fewer. A **closed** helm (armet, great helm) trades sight and hearing for the best cover; open helms and **civil**-looking armor draw less notice in town.
+Heavy harness eats slots and thins your Initiative pool; light kit keeps empty slots and speed.
+
+**Gaps and called shots.** Your suit is one number in ordinary play. When a foe deliberately strikes where it does not reach — a called shot, or a swarm at the legs of a lightly harnessed Burner — that blow meets bare flesh (AC 0). Helms, gauntlets, greaves, and gorgets close those gaps. A **closed** helm (armet, great helm) trades sight and hearing for the best cover; open helms and **civil**-looking armor draw less notice in town.
 
 **Materials and named pieces** — adamant, moonsilver, orichalcum (see Eldar Materials), or a *Signature* harness — ride on top as flavor and Secrets.
 
@@ -193,16 +197,18 @@ Better armor is dearer, not heavier — protection tracks expense and slots, not
 
 ## Shields
 
-Held armor, raised against a single blow — a character without strong armor can pick one up and instantly cover a line of attack. A shield's **size** (Legends) is what you add to one defend when you take the **Block** maneuver, once a round; a Veteran may instead Block to cover an ally in their front facing. It guards only the blow you raise it against, so a second foe that round comes in unshielded — which is how numbers beat a shield-man. Bigger shields defend more (higher **size**) but fill more **Slots** in Burners (prices in [[Burners Equipment]]).
+Held steel, raised against a blow. A shield's **slots** are the dice it lends on your Initiative roll (prices in [[Burners Equipment]]): buckler 2, heater 3, rotella 4, kite 4, tower 5. Holding one lets you **Block** one attacker on yourself each round without the one-die Dodge limit; spend an attack to cover an ally instead (see [[Burners Adventure Game]]).
+
+Legends **size** tags below are the old catalog labels for look and heft — use Burners **slots** at the table.
 
 ### Shield Types
 
-- **Buckler** `[size 2 Slots1]` — small fist-gripped companion shield (round *brocchiero* or square *targa*). Cheap, common, the hand still free to grab.
-- **Target** `[size 2 Slots1]` — small round shield strapped to the arm (Scottish target, smaller Viking shield).
-- **Round Shield** `[size 3 Slots2]` — light wooden round shield (Viking shield). Cheap, common.
-- **Heater** `[size 3 Slots2]` — smaller kite shield for mounted or foot combat.
-- **Rotella** `[size 4 Slots3]` — strapped metal round shield held at arm's length.
-- **Large Round** `[size 4 Slots3]` — large wooden round shield.
+- **Buckler** `[size 2 Slots2]` — small fist-gripped companion shield (round *brocchiero* or square *targa*). Common; the hand still free to grab.
+- **Target** `[size 2 Slots2]` — small round shield strapped to the arm (Scottish target, smaller Viking shield).
+- **Round Shield** `[size 3 Slots3]` — light wooden round shield (Viking shield).
+- **Heater** `[size 3 Slots3]` — smaller kite shield for mounted or foot combat.
+- **Rotella** `[size 4 Slots4]` — strapped metal round shield held at arm's length.
+- **Large Round** `[size 4 Slots4]` — large wooden round shield.
 - **Kite** `[size 4 Slots4]` — reverse-teardrop horseman's shield, guarding the flank and leg.
 - **Aspis** `[size 5 Slots5]` — huge deeply-dished wooden shield.
 - **Tower** `[size 5 Slots5]` — tall rectangular shield.
@@ -304,7 +310,7 @@ Some Baal-Mot, Drisi, and Black Wizards tap the vast power of dead dragons — b
 
 ### Ithilrhi (Elven) Assets
 
-- **Ithilrhi (Elven) Chainmail** `[Class3 Slots5 3Qtr-Armor Custom]` — a suit of tiny interlocking rings. If custom-made for the wearer it does **not** require a gambeson (normally needed for chainmail) and can be worn under clothing.
+- **Ithilrhi (Elven) Chainmail** `[Class3 Slots5 3Qtr-Armor Custom]` — a suit of tiny interlocking rings. If custom-made for the wearer it does **not** require a gambeson (normally needed for chain mail) and can be worn under clothing. Treat as chain mail (AC 3) unless the find says otherwise; custom fit may ride lighter (Referee).
 
 ### Magic-User Assets
 

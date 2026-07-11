@@ -9,8 +9,6 @@ hero_alt: "A knight returns laden — crossbow, sword, and loot — Albert Robid
 
 ## Weapons
 
-Prices match Old-School Essentials where the piece has an OSE counterpart.
-
 | Weapon                  | Slots | Cost (gp) |
 | ----------------------- | ----- | --------- |
 | Dagger                  | 1     | 3         |
@@ -20,14 +18,15 @@ Prices match Old-School Essentials where the piece has an OSE counterpart.
 | Small ax                | 2     | 4         |
 | Mace (incl. war hammer) | 2     | 5         |
 | Short sword             | 2     | 7         |
-| Sword                   | 2     | 10        |
-| Hunting bow             | 2     | 25        |
+| Arming sword            | 2     | 10        |
+| Short bow / hunting bow | 2     | 25        |
 | Spear                   | 3     | 3         |
+| Longsword               | 3     | 15        |
 | Longbow                 | 3     | 40        |
 | Crossbow                | 3     | 30        |
 | Battle ax (two-handed)  | 4     | 7         |
-| Two-handed sword        | 4     | 15        |
-| Pole arm (two-handed)   | 5     | 7         |
+| Greatsword              | 4     | 15        |
+| Halberd / pole arm      | 5     | 7         |
 
 ## Ammunition
 
@@ -51,7 +50,7 @@ Prices match Old-School Essentials where the piece has an OSE counterpart.
 - AC is Armor Class: the number of points of damage the armor absorbs on a hit.
 - Plate armor requires training: see *Training* under [[Burners Adventure Game#Weapons, Armor, and Shields]].
 - Field and full plate are rare and must be fitted to you by a master armorer.
-- If an armor is not listed, use the closet entry. For example, "scale mail" can be treated as chain mail.
+- If an armor is not listed, use the closest entry. For example, scale mail can be treated as chain mail.
 
 ## Shield
 
@@ -67,7 +66,7 @@ Prices match Old-School Essentials where the piece has an OSE counterpart.
 
 | Item                                          | Slots | Cost (gp) |
 | --------------------------------------------- | ----- | --------- |
-| Backpack                                      | 1     | 5         |
+| Backpack                                      | 3     | 5         |
 | Sack, small                                   | 1     | 1         |
 | Sack, large                                   | 1     | 2         |
 | Rope, 50 feet                                 | 1     | 1         |
@@ -106,42 +105,47 @@ Prices match Old-School Essentials where the piece has an OSE counterpart.
 | Dwur grenade                  | 1     | 60        |
 | Witchfire (vial)              | 1     | 75        |
 
-## Arcana & Sorcery
+## Hirelings
 
-For the full rules see [[Burners Adventure Game]]. An **Arcana** is a focus (wand, staff, orb, ring, robes, etc.) that holds prepared spells; it is bought by its **Level**, doubling each step. A proper **sorcerer drip** focus is priced below; forcing a **non-drip** object (a dagger, a crown, a boot) to hold a working costs a fortune, from 2,000 gp and doubling likewise. A discreet focus cannot be had — magic answers to a sorcerer's costume.
+Typical costs per week of service. Rare hands (sage, alchemist) only in larger towns. Other types at the Referee's call. Dwarves and elves typically cost double. Taking a hireling into a dungeon may raise the ask. Food, lodging, and new gear are on you — and a delving hand still wants at least a half-share of the haul. See [[Burners Adventure Game#Hirelings and retainers]].
 
-| Arcana Level | Sorcerer drip (gp) | Non-drip (gp) |
-| ------------ | ------------------ | ------------- |
-| 1            | 100                | 2,000         |
-| 2            | 200                | 4,000         |
-| 3            | 400                | 8,000         |
-| 4            | 800                | 16,000        |
-| 5            | 1,600              | 32,000        |
-| 6            | 3,200              | 64,000        |
+| Hireling | gp / week |
+| --- | --- |
+| Noncombatant (servant, torchbearer, porter) | 2 |
+| Horse rider / messenger | 3 |
+| Sailor | 3 |
+| Blacksmith | 5 |
+| Soldier / mercenary (delving) | 5 |
+| Armorer | 25 |
+| Ship captain | 75 |
+| Animal trainer | 125 |
+| Alchemist | 250 |
+| Sage | 500 |
 
-Learning a new spell (copying from a source into your book) burns **100 gp × the spell's level** in reagent inks, plus about a week × its level and a roll — see *Learning a spell* in [[Burners Adventure Game]].
+Garrison troops hired by the month live under *Mercenaries* in [[Burners Adventure Game]].
 
-| Item                                   | Slots | Cost (gp)   |
-| -------------------------------------- | ----- | ----------- |
-| Spellbook, blank                       | 1     | 25          |
-| Scroll case                            | 1     | 5           |
-| Reagent inks (per spell level scribed) | —     | 100 × level |
+## Magic Items
+
+Refer to [[Burners Sorcerie]] for sorcerer items.
+
+Magic items are rarely for sale at any price.
 
 ## Pricing Anything Else
 
-Want something not on these tables? Listed arms, armor, and common gear follow **OSE-style list prices** (with Burners slots, and field/full plate as the fitted exceptions). For anything else, use the **Gold Piece formula** carried from Wåndyr 1.5: a **base rate by slots × category**, then quality on top. The Referee sets it once and adds it to the list. (Referee copy: [[Burners Referee Guide]].)
+Want something not on these tables? You can use classic old school roleplaying game price lists or the quick approximations below.
 
 **Base rate — gp per slot (unlisted items):**
 
-| Category               | gp/slot | Examples                                               |
-| ---------------------- | ------- | ------------------------------------------------------ |
-| Common                 | 1       | clothing, tools, waterskin, rope, torches, provisions  |
-| Plain armaments        | 5       | odd weapons, plain armor variants, shields not listed  |
-| Fine steel & specialty | 10      | books, lockpicks, instruments, Arcana, specialty tools |
+| Category               | gp/slot | Examples                                       |
+| ---------------------- | ------- | ---------------------------------------------- |
+| Common                 | 1       | clothing, tools, rope, torches, provisions     |
+| Plain armaments        | 5       | odd weapons not on the list                    |
+| Fine steel & specialty | 10      | books, lockpicks, instruments, specialty tools |
 
 - **Provisions:** 1 gp per meal for the group.
-- **Ranged weapons** and **silver** (and other special materials) still carry a craft or material surcharge when you invent a new piece.
+- **Ranged weapons** and **silver** (and other special materials) add a surcharge when you invent a new piece.
 - **Field and full plate** are not slot-formula items — see *Armor*.
+- **Lasting Arcana** have no shop price — found or earned; see [[Burners Sorcerie]]. Scrolls are scribed at **100 gp × level** (same as moving a spell into your book).
 
 **Quality — added on top of the base (or on a listed price):**
 
@@ -153,4 +157,4 @@ Want something not on these tables? Listed arms, armor, and common gear follow *
 | Exceptional craft, +1 | +100 gp    |
 | Rare craft, +2        | +1,000 gp  |
 
-So an *elegant knight's sword, +1*: listed sword **10** + "elegant" 10 + "+1" 100 = **120 gp**. Exceptional craft is finer in the fiction, but it is **not** enchanted magic — see [[Burners Referee Magic Items]]. Magic items are rarely for sale at any price.
+So an *elegant knight's sword, +1*: listed arming sword **10** + "elegant" 10 + "+1" 100 = **120 gp**. Exceptional craft is finer in the fiction, but it is **not** enchanted magic — see [[Burners Referee Magic Items]].

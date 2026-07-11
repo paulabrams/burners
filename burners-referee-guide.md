@@ -228,17 +228,24 @@ Keeping the blows separate is deliberate. A single combined Damage would blow pa
 
 The party begins in a safe town, which is a haven but not a home base and not theirs. It offers lodging, food, supplies, law, healing, and rumors: a place to cool off, re-equip, mend wounds, and hear where trouble lies. The party are guests on someone else's ground, and the town has its own authorities and life. Adventures spiral out from it and back to it, and a party may later earn or build a true home base of their own.
 
+**Level here.** XP banks in the field; characters spend it to gain a level only in civilization — this town, another haven, or a place where they can train and rest. Mid-delve rank-ups do not happen. Rare emergencies are your call.
+
+**Exploration crumbs (optional).** A small XP award for a wilderness hex newly mapped or a dungeon room meaningfully explored rewards poking and mapping without replacing treasure. Tune the number; there is no fixed crumb.
+
+**Inventing spells and items.** When a player wants a working or lasting item not in the catalog, treat it as a campaign project: time, rare materials, a teacher or ruin, and a clear failure mode. No price table. Lasting Arcana stay finds; research may yield a scroll or potion formula, or a one-off the table invents together. See [[Burners Sorcerie]].
+
 ---
 
 ## Pricing Unlisted Gear
 
-When an item is not on the [[Burners Equipment]] tables, price it from its slots and category, then adjust for quality and rarity and add it to the list. Listed arms, armor, and common gear use OSE-style list prices (Burners slots; field and full plate are the fitted exceptions). The rates below are for **unlisted** pieces so a new item slots in without surprises.
+When an item is not on the [[Burners Equipment]] tables, price it from its slots and category, then adjust for quality and rarity and add it to the list. Listed gear uses the Equipment prices. The rates below are for **unlisted** pieces.
 
 - Common gear (clothing, tools, a waterskin): 1 gp per slot.
-- Fine steel and specialty goods (books, lockpicks, instruments, Arcana, specialty tools): 10 gp per slot.
-- Plain armaments (odd weapons, plain armor variants, shields not listed): 5 gp per slot.
+- Fine steel and specialty goods (books, lockpicks, instruments, specialty tools): 10 gp per slot.
+- Plain armaments (odd weapons not on the list): 5 gp per slot.
 - Provisions: 1 gp per meal for the group.
-- Ranged weapons and special materials such as silver add a craft or material surcharge when you invent a new piece.
+- Ranged weapons and special materials such as silver add a surcharge when you invent a new piece.
+- Lasting Arcana have no shop price — found, seized, gifted, or inherited. Scrolls are scribed at 100 gp × spell level (anytime, downtime — same as moving a spell into your book). See [[Burners Sorcerie]].
 - Heavy or exceptional armaments run far dearer: about 100 gp for a +1 grade, 1,000 gp for a rare +2 (added on a listed or formula price).
 - Elevated quality adds to any item: +10 gp for fine, +100 for rich, +1,000 for noble work.
 - Magic items are rarely for sale at any price; you decide whether one can be found at all. Stocking enchanted arms: [[Burners Referee Magic Items]].

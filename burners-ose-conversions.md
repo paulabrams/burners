@@ -34,6 +34,9 @@ Burners uses OSE XP awards layered on its own level table (see [[Burners Adventu
 | **Coins, gems, jewelry** | 1 XP per 1 gp recovered to safety |
 | **Magic items** | 0 XP — the item is the reward |
 | **Goods & equipment** | Sale value in gp, when sold |
+| **Exploration (optional)** | Small crumb per hex newly mapped or room meaningfully explored — Referee tunes; no fixed number |
+
+Spend banked XP to gain a level only in civilization (see [[Burners Adventure Game#Experience]]).
 
 ### Monster XP by Hit Dice (OSE)
 
@@ -71,16 +74,28 @@ For fractional or special HD, use the nearest row or the module's printed award.
 
 See [[Burners Principles#Armor and Resistance soak; they never roll]].
 
+**Worn kit** (what a humanoid is wearing) maps to [[Burners Equipment]]:
+
+| OSE armor | Burners AC | Slots (typical) |
+|---|---|---|
+| Leather | 1 | 2 |
+| Chainmail | 3 | 6 |
+| Plate mail | 4 | 8 |
+
+Gambeson, field plate, and full plate are Burners rungs with no OSE shop twin — use the Equipment table when they appear.
+
+**Monster hide and odd ACs** (not a listed suit):
+
 | OSE AC (descending) | Ascending AC | Soak |
 |---|---|---|
 | 9–8 | 10–11 | 0 |
 | 7–6 | 12–13 | 1 |
-| 5–4 | 14–15 | 2 |
-| 3–2 | 16–17 | 3 |
-| 1–0 | 18–19 | 4 |
-| Better than 0 | 20+ | 4+, and ask whether the rest is really **Resistance** |
+| 5–4 | 14–15 | 3 |
+| 3–2 | 16–17 | 4 |
+| 1–0 | 18–19 | 5 |
+| Better than 0 | 20+ | 5+, and ask whether the rest is really **Resistance** |
 
-The fast form: **Soak = (ascending AC − 10) ÷ 2, round down** — it lands exactly on the character suits (leather [12] → 1, chain [14] → 2, plate [16] → 3 = quarter/half/full, AC 1/2/3). A worn suit on a humanoid caps at 3; a monster's own hide may soak past that, but a soak much beyond 4 is usually Resistance wearing an AC.
+A monster's own hide may soak past what worn plate allows; a soak much beyond 5 is usually Resistance wearing an AC.
 
 ### The Damage Die → the Pool
 
@@ -92,7 +107,7 @@ See [[Burners Principles#Pools, not fixed numbers]]. A monster's pool comes from
 
 A monster spends its pool exactly as a character does: each blow is one die, plus one for a big two-handed stroke, and a fierce or many-limbed foe makes extra attacks by its nature — a wolf bites once, a bear claws twice, a hydra strikes per head — the Referee setting how many, not the HD. It defends as anyone does: a single die to Dodge most blows, freely to Parry a foe it melees, or freely with a shield to Block one attacker (see [[Burners Adventure Game]]).
 
-**The damage die sets the weapon's slots** — in Burners a weapon's Class *is* its slots, the dice it throws (see [[Burners Arms and Armor]]):
+**The damage die sets the weapon's slots** — the dice it throws on the Initiative roll (see [[Burners Arms and Armor]]; Class and Slots are not always the same on that catalog):
 
 | OSE damage die | Weapon slots |
 |---|---|
@@ -198,13 +213,13 @@ Port OSE spells onto [[Burners Sorcerie]] when a match exists; otherwise write a
 - **Casting (combat):** one Action; spend at least L Fuel dice, roll them — cast total = sum of faces. On a Spark, may spend up to L additional Fuel for extra effect. The slot goes active, then used.
 - **Casting (NPC / module caster):** roll at least **L dice** for the cast total the same way. A hostile cast **rolls initiative** if no fight is underway.
 - **Defense and damage:** see [[Burners Principles#Granular defense, not binary save]] and [[Burners Principles#Harm and effect are separate lanes]]. Ignore OSE per-caster-level dice and fixed damage lines; overrun to HP 1:1. *Save for half* does not port.
-- **Scrolls** require a Sorcerer (Sorcerie 1+) to read.
+- **Scrolls** require a Sorcerer (or Journeyman for Canting) — treat as a one-shot **Arcana** that self-destructs when cast (see [[Burners Sorcerie]]).
 
 ---
 
 ## Magic Items
 
-Potions, rings, cursed items, and wondrous items port **as written** — they are fiction plus a rule, and the fiction is the value. **Magic items grant no XP**; the item is the reward (see *XP Awards*). Wands and staves are Sorcerer tools — run them as **Arcana** (re-price their effects by spell level; see [[Burners Adventure Game]]), or, for a one-off, keep their charges as a simple budget.
+Potions, rings, cursed items, and wondrous items port **as written** — they are fiction plus a rule, and the fiction is the value. **Magic items grant no XP**; the item is the reward (see *XP Awards*). Wands and staves are Sorcerer tools — run them as **lasting Arcana** (map their effects by spell level; they are finds, not shop goods — see [[Burners Sorcerie]]), or, for a one-off, keep their charges as a simple budget.
 
 ### +n Arms, Shields, and Armor → Enchanted + Powers
 

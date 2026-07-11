@@ -45,7 +45,7 @@ When a module lists a *+1 sword*, *+2 shield*, *+1 plate*, and so on — convert
 |---|---|
 | **+1** | Passive or **once per fight** — sensory tricks, light, faint Bane hints |
 | **+2** | **Once per session** or a stronger passive — named sword powers (flaming, charm, locate), stronger Bane |
-| **+3+** | **Once per delve** or campaign-scoped — extraordinary edges toned down; not wishes or energy drain |
+| **+3+** | **Once per delve**, or once in the campaign for the rarest edges — not wishes or energy drain |
 
 Record them like Trait Signatures: each power you have **found** earns an asterisk on the item line and a footnote. Until you find a power, leave the star off; the Referee knows what is waiting.
 

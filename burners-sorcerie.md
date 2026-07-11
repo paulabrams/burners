@@ -24,19 +24,19 @@ Eight magic schools, each with up to 36 spells ranging from 1st to 6th level. So
 
 ## How Magic Works
 
-Magic is prepared, not spontaneous: a Sorcerer **binds** workings into **Arcana** (an hour of study with spellbook in hand) and releases them in the field. A cast does not empty the focus — the spell stays **active** for its duration, then becomes **used** until a night's sleep clears it. It is utility first — most spells solve problems (light, movement, control, ward); hostile magic lands through the same **Defend** economy as steel. Magic touches the rest of the game in two places: the Sorcerer title (Sorcerie 1) switches casting on, and a combat cast is one Action that spends at least L Fuel dice (L = the working's level) and rolls them for the **cast total**. This chapter is the full rules; the catalog follows below.
+Magic is prepared, not spontaneous: a Sorcerer **binds** workings into **Arcana** (an hour of study with a readable source in hand) and releases them in the field. A cast does not empty the focus — the spell stays **active** for its duration, then becomes **used** until a night's sleep clears it. It is utility first — most spells solve problems (light, movement, control, ward); hostile magic lands through the same **Defend** economy as steel. Magic touches the rest of the game in two places: the Sorcerer title (Sorcerie 1) switches casting on, and a combat cast is one Action that spends at least L Fuel dice (L = the working's level) and rolls them for the **cast total**. This chapter is the full rules; the catalog follows below.
 
 ### The Sorcerer Gate
 
 To work magic you must be a **Sorcerer — Sorcerie 1 or higher.** Below that you are a layman.
 
-**Two gates stand on high magic.** Your Sorcerie caps the level of spell you may learn and know (the classic gate, below). Your Arcana's Level caps the level you may prepare and cast in the field. To wield a level-*N* working you need both: the knowledge (Sorcerie *N*+) and a vessel to hold it (an Arcana of Level *N*, or your open book as a ritual). Sorcerie also drives out-of-combat casting rolls, Plan A, and how fast you learn.
+**Two gates stand on high magic.** Your Sorcerie caps the level of spell you may learn and know (the classic gate, below). Your Arcana's Level caps the level you may prepare and cast in the field. To wield a level-*N* working you need both: the knowledge (Sorcerie *N*+) and a vessel to hold it (an Arcana of Level *N*, or your open book as a ritual). Sorcerie also drives out-of-combat casting rolls and Plan A.
 
 **A school is trained-only.** Each of the seven people-schools keeps its own secret language and spell list, and you must hold a Trait in that school to touch it at all: with the Trait you are its practitioner — literate in its script and able to learn and cast its workings — and without it the runes are chicken-scratch and the spells are closed to you, whatever your Sorcerie. The Trait opens the door; Sorcerie is still the caster level that says how *deep* you may go (the level gate below). The common Sorcerie school asks no such Trait — being a Sorcerer is grammar enough, since every mage shares it.
 
 **Canting is the exception.** The rogue's school of *Canting* rolls Craft, not Sorcerie, and a Journeyman (Craft 1+) — not only a Sorcerer — may learn, bind, and cast its spells through Arcana. Everything else in this chapter applies. See [Canting](#canting) below.
 
-(A Sorcerer's starting kit — two Level-1 Arcana, a four-spell book, and free *Read Magic* — is bought at character creation; see *The Starting Sorcerer* under Starting Gear in [[Burners Adventure Game]].)
+(A Sorcerer's starting kit — two Level-1 Arcana, a four-spell book, and free *Read Magic* — comes with apprenticeship at character creation; see *The Starting Sorcerer* under Starting Gear in [[Burners Adventure Game]].)
 
 ### Spells meshing with combat
 
@@ -60,20 +60,24 @@ An **Arcana** is an item — your portable engine of prepared magic. Fighters ha
 | Archmage's tome | 4 | one 4th, or 2+2, or four 1sts |
 | Great relic | 6 | any mix totaling 6 |
 
-**Buying Arcana — the drip tax.** A proper *sorcerer-drip* focus — wand, staff, rod, orb, crystal, ring, amulet, mask, robes, hat — is bought or commissioned by its Level, doubling each step. Forcing a *non-drip* object — a dagger, a crown, a boot — to hold an Arcana costs a fortune, from 2,000 gp and doubling likewise. Magic answers to a sorcerer's costume: a plain object must be smothered in gaudy adornment to hold a working, so a discreet focus cannot be had cheaply.
+**Lasting Arcana are not for sale.** Wands, staves, rods, orbs, rings, robes, and the rest are **found, seized, gifted, or inherited** — tombs, rival mages, patrons, the odd commission that is really a quest. There is no shop price. A starting Sorcerer's two Level-1 foci are the fruit of apprenticeship; every better vessel after that is a score. They usually look the part (*sorcerer drip*): magic answers to a costume, so a plain boot holding a working is a wonder, not a catalog item.
 
-| Arcana Level | Sorcerer drip | Non-drip |
-| --- | --- | --- |
-| 1 | 100 | 2,000 |
-| 2 | 200 | 4,000 |
-| 3 | 400 | 8,000 |
-| 4 | 800 | 16,000 |
-| 5 | 1,600 | 32,000 |
-| 6 | 3,200 | 64,000 |
+**Scrolls.** A scroll is an inexpensive Arcana you **make**: one spell, Level equal to that spell's level, already bound. Cast it like any Arcana — then the scroll **self-destructs** (ash, blank vellum, spent). It does not clear on sleep; there is nothing left to clear. **1 slot** each (a scroll case is just packaging — each scroll still costs a slot). Anyone who can use Arcana of that school may cast it (Sorcerer; Journeyman for Canting). *Read Magic* identifies what is written before you burn it.
 
-A starting Sorcerer's two foci come with their apprenticeship; every focus after — a replacement, a spare, a higher Level — is paid at these rates, and they are the mage's great gold sink.
+A Sorcerer may scribe a scroll of any spell they hold in a readable source **at any time** (downtime): **100 gp × the spell's level** in reagents — the same gold as moving a spell into your book. No level gate — gold and a known formula. Fill your slots with scrolls if you can afford the ink and the weight. Found scrolls are treasure too.
 
-**The Binding.** Loading a spell into an Arcana **binds** it — a tie between sorcerer, focus, and spell that holds only while that focus stays in one of your item slots. Each spell on a focus is in one of four states:
+| Spell level on scroll | Cost to scribe (gp) |
+| --- | --- |
+| 1 | 100 |
+| 2 | 200 |
+| 3 | 300 |
+| 4 | 400 |
+| 5 | 500 |
+| 6 | 600 |
+
+**Brewing potions.** Downtime work. If you have a **Vitae** Trait, or **Craft** with herbalism or alchemy, you may brew a potion from a known formula — a Vitae working you hold in a readable source, or another recipe the Referee grants. Cost: **100 gp × the spell's level** in reagents and about a week × its level. Touch or self effects only — what a draught can hold. The potion is one dose, **1 slot**; anyone may drink it. No Sorcerie rank gate — the recipe and the gold are the gate. Found potions stay treasure.
+
+**The Binding.** Loading a spell into a lasting Arcana **binds** it — a tie between sorcerer, focus, and spell that holds only while that focus stays in one of your item slots. (Scrolls arrive already bound; you do not rebind them.) Each spell on a lasting focus is in one of four states:
 
 | State | Meaning |
 | --- | --- |
@@ -82,66 +86,74 @@ A starting Sorcerer's two foci come with their apprenticeship; every focus after
 | **Used** | Duration over (or instant effect resolved); the slot is spent. |
 | **Empty** | No spell in the slot. |
 
-- **Bind or replace** — with your spellbook in hand, clear a bound slot or load a fresh binding on an Arcana in one hour (rest and study). You cannot bind into a slot that is active or used.
-- **Cast** — release a bound spell through its Arcana; the slot becomes active for the working's duration, then used. Instant workings become used as soon as they resolve.
-- **Sleep** — after 8 hours of sleep, every used slot on your Arcana clears to empty. Active slots are unaffected; finish or dispel those workings as usual.
-- **Unequip and it snaps.** Move a focus to Baggage, hand it off, drop it, or lose it, and its binding breaks: an active working collapses; every slot on that focus becomes used. Re-equip and you must bind afresh (one hour per Arcana, spellbook present). An Arcana in Baggage does nothing.
-- **No stockpiling foci.** You cannot carry a quiver of pre-loaded wands and swap them mid-fight; your ready magic is only what sits in your equipped slots.
-- **Disarm the mage.** This cuts both ways — snatch an enemy sorcerer's wand, break the staff, tear off the runed robe, and their bindings snap as above. A sorcerer parted from every focus is as harmless as a layman until they recover one and bind again.
+- **Bind or replace** — with a readable source in hand, clear a bound slot or load a fresh binding on a lasting Arcana in one hour (rest and study). You cannot bind into a slot that is active or used.
+- **Cast** — release a bound spell through its Arcana; the slot becomes active for the working's duration, then used. Instant workings become used as soon as they resolve. A scroll, once cast, is gone.
+- **Sleep** — after 8 hours of sleep, every used slot on a **lasting** Arcana clears to empty. Active slots are unaffected; finish or dispel those workings as usual. Scrolls never clear — they are spent.
+- **Unequip and it snaps.** Move a lasting focus to Baggage, hand it off, drop it, or lose it, and its binding breaks: an active working collapses; every slot on that focus becomes used. Re-equip and you must bind afresh (one hour per Arcana, readable source present). An Arcana in Baggage does nothing.
+- **Disarm the mage.** Snatch a wand, break a staff, tear off a runed robe, burn their scrolls — bindings snap, scrolls are lost. A sorcerer parted from every focus is as harmless as a layman until they recover one and bind again (or pull another scroll).
 - **Cast through the Arcana** that binds the spell — that focus must be equipped when you release the working.
-- **Several Arcana** may be carried if you have the slots; each holds its own spells, each within its Level.
-- **Trait match (optional):** the Referee may require a relevant Sorcerie Trait to attune a given Arcana. Default: if you can equip it, you can use it.
-
-**Legendary Arcana.** A legendary focus is still an Arcana (with its own Level, often a high one). Once its true name is discovered and you are a Sorcerer, it grants an extra die on casts of spells bound in it — power is wild, with Sweet/Spicy tails. About 1 in 6 speaks.
+- **Several Arcana** may be carried if you have the slots — lasting finds are scarce; scrolls are how you stock up.
+- **Trait match (optional):** the Referee may require a relevant Sorcerie Trait to attune a given lasting Arcana. Default: if you can equip it, you can use it.
 
 ### Spellbooks and Known Spells
 
-A Sorcerer's magic lives in books, not in Signatures, and learning a spell costs no XP.
+A Sorcerer's life is in books — yours, or someone else's that you can still read.
 
-- **Spellbook** — the physical record, listing every spell you have scribed. It takes item slots by size and must be carried to be used (classic OSR: no book, no magic). Left in camp, its spells are unavailable that delve.
-  - **How many fit?** OSE sets no page-limit — one book holds every spell you know, and what you *may* know is gated by your Sorcerie (your caster level), not by shelf space. A single 1-slot travel-book is enough for your whole repertoire; you split into volumes only by choice (a field-book carried on the delve, a vault-tome kept safe). This is also the home of your scraps: half-read runes, fragments, and puzzles are **Facts** in the margins — free to record in play, not yet known until you spend the learning to make them so.
-- **Known spell** — a spell you have mastered and may cast. A spell must be scribed in a book *and* known before you can bind or cast it; a freshly copied spell sits in the book unknown until learned.
-- **Spells are not Signatures** — see [[Burners Principles#Earned in play]].
+- **Personal spellbook** — your own grimoire. **1 slot.** It holds every spell you have scribed into it. Left in camp, those spells are unavailable that delve. No page-limit: what you *may* know is gated by your Sorcerie, not shelf space. Margins hold **Facts** (scraps, runes, puzzles) — free to jot in plain ink; they are not workings until you spend to make them so.
+- **Readable source** — a captured book, grimoire page, or other written exemplar (not a scroll — scrolls are Arcana, below). Once you have used *Read Magic* on a spell in it (or you already read that school's hand), you may treat that spell as **known** while you **carry the source**. Drop it, lose it, or leave it in town, and those spells are gone from your ready library until you recover the source or move them into your own book.
 
-**The level gate — caster level = spell level.** Your Sorcerie is your caster level: you may learn and know spells of level up to your Sorcerie. A Sorcerie-1 mage learns only 1st-level spells; a Sorcerie-6 up to 6th. Finding a Level-6 relic focus does not let a first-rank sorcerer cast a 6th — they could never have learned it. Knowledge is gated by Sorcerie; the vessel by the Arcana's Level; you need both.
+**The level gate — caster level = spell level.** Your Sorcerie is your caster level: you may know and use spells of level up to your Sorcerie. A Sorcerie-1 mage works only 1st-level spells; a Sorcerie-6 up to 6th. Finding a Level-6 relic focus does not let a first-rank sorcerer cast a 6th. Knowledge is gated by Sorcerie; the vessel by the Arcana's Level; you need both.
 
-**Learning a spell.** With a source — another mage's book, a scroll, a captured grimoire, a teacher — spend downtime copying it into your book: the work burns **100 gp × the spell's level** in special reagent inks (silver-salt, dragon's-gall, powdered gem — the price climbing with level) and about a week × its level, then roll **`2d6 + Sorcerie`** against **`8 + spell level`**. Meet it and the spell is known and scribed; miss and the ink is spoiled — buy fresh and study another week. The Referee may also grant a spell as known. No XP either way. Plain satchel ink is free and records **Facts**, but only reagent inks fix a working permanently.
+**Reading a found spell.** Cast or work *Read Magic* on the writing. Thereafter you can bind and ritual from that spell **in its existing source** — you must carry that book. No gold, no destroy. The Referee may also grant a spell as known (teacher, gift, vision). No XP either way.
 
-**Copies, spares, and backups.** A spellbook is a single point of failure; wise sorcerers keep a duplicate in the vault. Scribing a spell you already know into another of your books needs no roll — it is already yours — only ink and labour:
+**Moving a spell into your book.** If you prefer it in your personal spellbook, copy it: **100 gp × level** in reagent inks and about a week × its level. No roll. **This destroys the written source** — the page or exemplar you took from another book is ruined. You may likewise unmake a **scroll** into your book (same cost and time); the scroll is destroyed without being cast. A living teacher is not destroyed; they teach, and you still pay ink and time to scribe what they give you into your book. Plain satchel ink records **Facts** only; reagent inks fix a working permanently.
 
-- **Blank book** — a bound, blank tome runs about 25 gp (more for a fine or slim travel binding).
-- **Copying a known spell** — 25 gp × its level in reagent ink and a day × its level to scribe.
-- **A full duplicate** — the blank book plus that ink-and-time for every spell in it; a working library is weeks of scribing and a heavy purse.
+| Item | Slots | Cost (gp) |
+| --- | --- | --- |
+| Spellbook, blank | 1 | 25 |
+| Scroll case | 1 | 5 |
+| Reagent inks (move a spell into your book) | — | 100 × level |
+| Reagent inks (copy a spell you already hold in your book) | — | 25 × level |
+| Scribe a scroll (see *Scrolls* under Arcana) | 1 | 100 × level |
 
-Any of your books, present when you bind, lets you load the spells written in it — a copy is as good as the original.
+**Copies, spares, and backups.** Your personal book is a single point of failure; wise sorcerers keep a duplicate in the vault. Scribing a spell from one of *your* books into another does not destroy the first — only ink and labour:
+
+- **Blank book** — as above (more for a fine or slim travel binding).
+- **Copying within your library** — 25 gp × its level in reagent ink and a day × its level.
+- **A full duplicate** — the blank book plus that ink-and-time for every spell in it.
+
+Any readable **book** you carry — yours or a found one you can still read — present when you bind, lets you load the spells written in it into a lasting Arcana. Scrolls are cast (or unmade into your book), not used as a binding library.
+
+**Inventing.** A player who wants a new working or a lasting item not in the catalog is asking for a campaign project, not a shop. The Referee sets time, rare materials, a teacher or ruin to consult, and what failure looks like — no fixed price table. Permanent Arcana stay finds; research may yield a formula for a scroll or potion, or a one-off wonder the table invents together.
 
 ### Ritual Casting
 
-A known spell can be worked straight from your book, with no Arcana — but slowly, rooted in place, and only while you sustain it. Ritual casting is never a combat option.
+A known spell can be worked straight from an open readable source, with no Arcana — but slowly, rooted in place, and only while you sustain it. Ritual casting is never a combat option.
 
-**The cost is time.** Chalk a circle and recite from your open book: ten minutes per spell level all told (a 1st-level ritual takes ten minutes, a 6th a full hour). Beyond the time there is no cost — no Arcana, no gold, no HP — so long as the spell is known and within your Sorcerie. A ritual is not forgotten on use; work it again by paying the time again.
+**The cost is time.** Chalk a circle and recite from the open book: ten minutes per spell level all told (a 1st-level ritual takes ten minutes, a 6th a full hour). Beyond the time there is no cost — no Arcana, no gold, no HP — so long as the spell is within your Sorcerie and the book is open before you. A ritual is not forgotten on use; work it again by paying the time again.
 
-**You must sustain it.** The spell holds only while you stay inside the circle with the book open. Leave the circle or close the book and the ritual collapses retroactively: any ongoing duration ends at once, and any effect the spell produced reverses — a ritual heal un-heals, a conjured wall winks out, a charmed guard comes to their senses. You cannot bank a ritual and carry its fruit away — that is what Arcana are for.
+**You must sustain it.** The spell holds only while you stay inside the circle with the book open. Leave the circle or close the book and the ritual collapses retroactively: any ongoing duration ends at once, and any effect the spell produced reverses — a ritual heal un-heals, a conjured wall winks out, a charmed guard comes to their senses. You cannot bank a ritual and carry its fruit away — that is what Arcana (and scrolls) are for.
 
 **Knowledge is the exception.** Whatever a spell puts in your *mind* stays — *Detect Magic*'s auras, a divination's answer, anything the Referee judges is now simply known. A held ward, a light kept burning, a scrying eye over a still pool, a working you exploit in the moment: these are the rituals that pay.
 
 ### Binding Spells
 
-With your spellbook in hand, spend one hour of rest and study to bind or rebind one Arcana: clear any bound slots, then load known spells up to that focus's Level budget. Slots that are active or used cannot be changed until the working ends or you sleep off the used state.
+With a **readable source** in hand (your spellbook, or a found book you can still read), spend one hour of rest and study to bind or rebind one lasting Arcana: clear any bound slots, then load known spells from books you are carrying, up to that focus's Level budget. Slots that are active or used cannot be changed until the working ends or you sleep off the used state.
 
-- **No book, no binding.** Leave a book in town and you cannot load new spells from it until it is with you.
+- **No source, no binding.** Leave every book in town and you cannot load new spells into a lasting focus until one is with you.
 - Binding costs no HP and no roll — choose the load and mark each slot bound on your sheet. It holds only while that focus stays equipped.
+- **Scrolls** need no binding hour — they are already bound; cast and they are gone.
 
 ### Casting
 
-**No spontaneous magic.** You cannot cast a spell that is not currently bound on an equipped Arcana, and you cannot pay HP to cast from memory. If it isn't bound and ready, it isn't available until you bind it (one hour, spellbook in hand).
+**No spontaneous magic.** You cannot cast a spell that is not currently bound on an equipped Arcana, and you cannot pay HP to cast from memory. If it isn't bound and ready, it isn't available until you bind it (one hour, readable source in hand).
 
 **The cast.**
 
 1. **Say what you do** — name the spell and its effect in the fiction. If it is clever, feasible, and backed by who you are, it may simply work (Step 1). If it is feasible but risky, pay the Cost (Step 2).
 2. **Pay the Cost.**
    - **In combat**, casting is one Action: commit at least L Fuel dice from your pool (L = the working's level) and roll them. The **cast total** is the sum of those faces — the force behind the working. A 6 is a Spark, as with any Action.
-   - **Out of combat** (ritual, exploration, social magic), roll **`2d6 + Sorcerie`** against the Referee's Cost — +1 die if you cast through a legendary Arcana.
+   - **Out of combat** (ritual, exploration, social magic), roll **`2d6 + Sorcerie`** against the Referee's Cost.
 3. **Mark the slot active.** The spell stays on the Arcana: the slot becomes active for its duration, then used when the working ends. Instant effects become used as soon as they resolve. You cannot cast the same bound spell again from that slot while it is active or used.
 
 **When a cast Sparks.** Casting commits at least L Fuel dice (L = the working's level) and rolls them — that minimum never changes. A 6 among them is a Spark. With no Spark the spell resolves as written. With one, you may spend the Spark on the *working itself* — another target caught, a beat longer, a ward pierced, a control that grabs a rung higher (Referee's call) — or spend up to L additional Fuel dice (rolled at their faces, spent for the fight) to push the effect further. A bigger working commits more dice, so it Sparks more often. Multiple Sparks each buy a rider, extra Fuel, or a second action.
@@ -181,7 +193,7 @@ If you have a Trait in a magic school you are a practitioner of it: literate in 
 
 Studying a writing or item is an Action; describe how deep you probe. Interpretation is a Step-2 risk — the deeper the reading, the steeper the Cost (HP, time, noise, or a Spicy twist). Roll it out (Sorcerie, out of danger). On a success the Referee reveals one **Fact** at the depth you reached — a power (what it does), a demand (what it costs), or an omen (what changes about the bearer or world). On a **Sweet** you fully grasp it and a revealed power can be called on demand; on a **Spicy** the reading misleads or trips the power wrongly.
 
-Track each magical item as two short lists, filled in as study and play reveal them: **Facts** (established truths) and **Questions** (open threads). A Fact scribbled here is the same kind of note as a spell-scrap in your book — free to record, and promoted to a known spell only by paying the *Learning a spell* cost above.
+Track each magical item as two short lists, filled in as study and play reveal them: **Facts** (established truths) and **Questions** (open threads). A Fact scribbled here is the same kind of note as a spell-scrap in your book — free to record; to work the spell you still need a readable source (or to move it into your book).
 
 ---
 
@@ -826,9 +838,13 @@ magical writing; that is *Read Magic*.
 #### Read Magic
 
 Sorcerie 1: You read magical script — runes, glyphs, spellbook entries, scroll text —
-well enough to identify a working and, with reagent ink and study, to copy or cast it.
-Without it, magical writing is opaque. **Free and always known** by every Sorcerer; costs
-no slot to know. (The working behind *Reading Magic* in [[Burners Adventure Game]].)
+well enough to identify a working. Once you have read a spell in a **book**, you may bind
+and ritual from that writing while you carry it; moving it into your own book destroys the
+source (see *Spellbooks and Known Spells*). A **scroll** is an Arcana: *Read Magic* tells you
+what it holds before you cast (and destroy) it, or unmake it into your book. Without
+*Read Magic*, magical writing is opaque (unless you already read that school's hand).
+**Free and always known** by every Sorcerer; costs no slot to know. (The working behind
+*Reading Magic* in [[Burners Adventure Game]].)
 
 #### Thaumaturgic Hand
 
@@ -1463,8 +1479,7 @@ Necromantia 5: Trap one spirit in an object for Sorcerie years.
 #### Identify
 
 Sorcerie 5: Study one magic item for ten minutes; learn its powers, its command word if any,
-and whether it is cursed. A legendary Arcana yields its Level but not its true name — that is
-found in play. Best worked as a ritual.
+and whether it is cursed. Best worked as a ritual.
 
 #### Kalla Gate
 

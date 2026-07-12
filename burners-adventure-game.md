@@ -23,7 +23,7 @@ They mean it as an insult. You wear it like a medal.
 
 Because you are defined by one thing: **knowing which move the moment calls for.** When to stand in the press and trade blows. When to give ground and cut your losses. When to look at a thing too big to kill and simply *never draw*. Walk wide and live. And when the footing's gone and the odds have turned, when to *run*, purse be damned, and count breath as winning.
 
-And when the job's finally done and the reckoning comes howling up the stairs behind you, you know the last move, the one that earned the name. **Leave nothing behind but smoke.** Fire settles most debts. Fire makes it good. *What do we do with witches? We burn 'em.* You stand in flame better than townsfolk — when fire comes for you, spend Fuel without the one-die cap (see Defend).
+And when the job's finally done and the reckoning comes howling up the stairs behind you, you know the last move, the one that earned the name. **Leave nothing behind but smoke.** Fire settles most debts. Fire makes it good. *What do we do with witches? We burn 'em.*
 
 Most who take up this trade don't last a season. The docks are full of would-be Burners who didn't know when to run, or drew on the wrong thing in the dark, or stayed one round too long admiring their own work. You won't become a *name* with a song sung about you by being the strongest or the deadliest. You'll become one by reading a bad bet and folding it.
 

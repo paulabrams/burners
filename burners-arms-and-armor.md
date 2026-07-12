@@ -197,7 +197,7 @@ Heavy harness eats slots and thins your Initiative pool; light kit keeps empty s
 
 ## Shields
 
-Held steel, raised against a blow. A shield's **slots** are the dice it lends on your Initiative roll (prices in [[Burners Equipment]]): buckler 2, heater 3, rotella 4, kite 4, tower 5. When you **Guard** an ally you may give up to two Fuel dice instead of one; when you take **Cover**, a shield lets you spend up to two Fuel with the free cover die. A shield is not itself Cover (see [[Burners Adventure Game]]).
+Held steel, raised against a blow. A shield's **slots** are the dice it lends on your Initiative roll (prices in [[Burners Equipment]]): buckler 2, heater 3, rotella 4, kite 4, tower 5. A raised shield can count as **Cover** vs missiles (2 dice on that Defend). **Block** redirects a blow onto you — the shield does not deepen it (see [[Burners Adventure Game]]).
 
 Legends **size** tags below are the old catalog labels for look and heft — use Burners **slots** at the table.
 
@@ -234,7 +234,7 @@ Legends **size** tags below are the old catalog labels for look and heft — use
 - **Dwur grenade** — a sealed Dwur firepot; hurl it for a burst of flame and shrapnel across a small area.
 - **Witchfire (vial)** — eldritch green flame that burns even the wet and the drowned dead, and no water will quench.
 
-**Using fire.** A thrown incendiary is an Action; it lands as an area effect (the blow you cannot dodge) rather than a defended blow. Fire is not stopped by armor: against a monster it comes off its HP, ignoring hide, and against the undead it ignores blade-Resistance and bites deep (see *We Burn Undead*). Fire turned on the party — a trap, a backdraft — feeds Heat like any unsoaked harm. Something set alight keeps burning for a round or two (fire each round) until smothered: dropping prone and rolling, a heavy cloak, or water (witchfire excepted). Blackpowder — boom sticks and Dwur grenades — is a blast rather than a lingering burn, and loud enough to wake every wandering thing on the level, so save it for when subtlety is already spent.
+**Using fire.** A thrown incendiary is an Action; it lands as an area effect (the blow you cannot dodge) rather than a defended blow. Fire is not stopped by a Burner's armor: against a monster it comes off its HP (weapon-Resistance does not apply unless the Resistance names fire), and against the undead it ignores blade-Resistance and bites deep (see *We Burn Undead*). Fire turned on the party — a trap, a backdraft — feeds Heat like any unsoaked harm. Something set alight keeps burning for a round or two (fire each round) until smothered: dropping prone and rolling, a heavy cloak, or water (witchfire excepted). Blackpowder — boom sticks and Dwur grenades — is a blast rather than a lingering burn, and loud enough to wake every wandering thing on the level, so save it for when subtlety is already spent.
 
 ---
 

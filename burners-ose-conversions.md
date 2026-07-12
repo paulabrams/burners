@@ -64,27 +64,36 @@ For fractional or special HD, use the nearest row or the module's printed award.
 |---|---|
 | **HD** | Level, 1:1 — **HD is the monster's level** and the spine of its pool (one die per HD). **HP: use the printed value** (OSE prints 4.5×HD; Burners 5×HD is the same coin). Roll it or nudge it. |
 | **XP** | Award when overcome — **XP by HD** from the table in *XP Awards* (a 1 HD skeleton = 10; HD 2 = 20). Use the module's printed award if given. |
-| **AC** | Armor (soak), per the table below |
+| **AC** | Fold into HP, or Resistance vs weapons if famous for armor — per the table below. Monsters never keep PC AC. |
 | **Damage die** | Read as the natural weapon's **slots** — the dice it throws on the Initiative roll, per the rubric below. A monster has no fixed Damage number; it rolls a pool and spends dice like a character. |
 | **Saves** | Deleted — route the *ability* through the Defend Router |
 | **Morale** | As written |
 | **THAC0 / attack bonus** | Deleted — there are no to-hit rolls; the pool carries it |
 
-### AC → Armor (soak)
+### AC → HP or Resistance
 
-See [[Burners Principles#Armor and Resistance soak; they never roll]].
+See [[Burners Principles#Armor and Resistance soak; they never roll]] and [[Burners Referee Guide#Building and Running Monsters]]. **Monsters do not use PC Armor Class.**
 
-**Worn kit** (what a humanoid is wearing) maps to [[Burners Equipment]]:
+Look up the magnitude below (former soak), then pick one lane — do not double-count:
 
-| OSE armor | Burners AC | Slots (typical) |
+| Lane | When | What you write |
 |---|---|---|
-| Leather | 1 | 2 |
-| Chainmail | 3 | 6 |
-| Plate mail | 4 | 8 |
+| **Fold into HP** (default) | Ordinary hide, leather kit, unclear natural AC | Add **+2 × soak × HD** to HP; no AC, no weapon-Resistance from this AC |
+| **Resistance vs weapons** | Famous for armor (knight in plate, dragon scales) | **Resistance** equal to the soak vs weapons; HP stays printed / 5×HD |
 
-Gambeson, field plate, and full plate are Burners rungs with no OSE shop twin — use the Equipment table when they appear.
+Never fold a separate **Resistance** (undead vs blades, magic-to-hit) into HP — that stays as soak with a named weakness.
 
-**Monster hide and odd ACs** (not a listed suit):
+**Magnitude** (worn kit or odd hide — same bands):
+
+| OSE armor / feel | Soak |
+|---|---|
+| Unarmored / AC 9–8 [10–11] | 0 |
+| Leather / AC 7–6 [12–13] | 1 |
+| Gambeson (Burners rung) | 2 |
+| Chainmail / AC 5–4 [14–15] | 3 |
+| Plate mail / AC 3–2 [16–17] | 4 |
+| Field/full plate / AC 1–0 [18–19] | 5 |
+| Better than 0 [20+] | 5; excess is usually already **Resistance** |
 
 | OSE AC (descending) | Ascending AC | Soak |
 |---|---|---|
@@ -93,9 +102,11 @@ Gambeson, field plate, and full plate are Burners rungs with no OSE shop twin �
 | 5–4 | 14–15 | 3 |
 | 3–2 | 16–17 | 4 |
 | 1–0 | 18–19 | 5 |
-| Better than 0 | 20+ | 5+, and ask whether the rest is really **Resistance** |
+| Better than 0 | 20+ | 5+, ask whether the rest is Resistance |
 
-A monster's own hide may soak past what worn plate allows; a soak much beyond 5 is usually Resistance wearing an AC.
+Worked reads: **orc** AC 6 [13] → soak 1, HD 1 → HP = printed (or 5) **+2**. **Skeleton** leather AC → +2 HP; keep blade Resistance separate. **Knight** in plate → Resistance **4** vs weapons, no HP fold. **Dragon** scales → Resistance vs weapons at the soak band.
+
+When a PC **loots** a suit of armor off a foe, that kit becomes ordinary Burners AC for the wearer — the monster never wore it as AC on its block.
 
 ### The Damage Die → the Pool
 
@@ -198,9 +209,9 @@ Stuck doors, thief skills, foraging, listening at doors — all this table. A tr
 
 **Worked in the margin — the OSE zombie** (AC 8 [11] · HD 2 (9hp) · 1 × weapon, 1d8 · Morale 12):
 
-> **Zombie.** HP 9 (as printed) · Soak 0 · pool = 2 (HD) + 3 (d8 fists) + Heat dice · **Shambling** — acts last · Morale 12 as written · **XP 20** (HD 2).
+> **Zombie.** HP 9 (as printed; soak 0, no fold) · pool = 2 (HD) + 3 (d8 fists) + Heat dice · **Shambling** — acts last · Morale 12 as written · **XP 20** (HD 2).
 
-Read straight off the printed block — HP, soak, the two numbers that build its pool, its tempo, its Morale — with no arithmetic at all.
+Read straight off the printed block — HP (folded if the AC had soak), the two numbers that build its pool, Resistance-if-any, its tempo, its Morale.
 
 ---
 
@@ -238,4 +249,4 @@ Potions, rings, and wondrous items stay as written above. Do not raise AC or siz
 
 ---
 
-> *Read the stat block once, write it in the margin — HP, soak, the pool (HD + weapon slots), Resistance-if-any, XP by HD — route the saves through Defend, and run it.*
+> *Read the stat block once, write it in the margin — HP (folded AC if any), the pool (HD + weapon slots), Resistance-if-any, XP by HD — route the saves through Defend, and run it.*

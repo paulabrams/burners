@@ -28,7 +28,7 @@ Player skill decides whether the world bends; your Approach decides only how muc
 Burners has no save-or-die. Endurance is **Defend** — a graded contest, not a gate you pass or fail.
 
 - **Out of combat**, a hazard is **`2d6 +` the fitting Approach** against the Referee's Cost. You may soften the price, bear it whole, or dodge it clean — but the outcome is a matter of degree, not a single on/off switch.
-- **In combat**, blows land. You **commit Fuel dice** and cut incoming damage by their faces; armor soaks the rest; what remains comes off HP. Unlimited Defend (once you have meleed), Cover, Guard, and Riposte are ways to spend deeper into the pool — not a roll that erases the hit.
+- **In combat**, blows land. You **commit Fuel dice** and cut incoming damage by their faces; a Burner's armor soaks the rest; what remains comes off HP. Unlimited Defend (once you have meleed), Cover (2 dice vs missiles), Block (redirect onto yourself), and Riposte are ways to answer a blow — not a roll that erases the hit. Monsters soak with Resistance only.
 - **Hostile magic** uses the same Fuel economy as steel. The caster's **cast total** (sum of faces spent to cast) opposes your **defense total** (sum of faces you commit). Partial defense means partial effect: **overrun** = cast − defense, applied as harm to HP *or* as the spell's hold — never both. There is no "save for half" — you defended as well as your dice allowed.
 
 A binary save asks *did you avoid it?* Burners asks *how much did you stop, and what is left?*
@@ -116,9 +116,11 @@ When porting material that prints a flat damage number (a trap, a breath quoted 
 
 ## Armor and Resistance soak; they never roll
 
-**Armor** is a flat soak subtracted from every blow before HP — worn mail or a hide that is its own mail. It never enters the exchange as a die.
+**Armor (AC)** is what a Burner wears — a flat soak subtracted from every blow before HP. It never enters the exchange as a die.
 
-**Resistance** is flat damage reduction against a **named kind** of harm — blades, fire, magic. It comes off every hit of that kind, like armor, before HP. It is never a **key**: no "only magic weapons can hurt this." Name the scope, and ideally name a weakness that bypasses it. Wear it down with weight of numbers, or find what it does not resist. A named weakness does not lower Resistance; it **ignores** it. Every Resistance above a point or two **names its cause** — a thing the party can learn and undo.
+**Monsters do not use AC.** Convert module or natural AC into extra HP, or into **Resistance vs weapons** when the creature is famous for its armor (knight, dragon). See [[Burners Referee Guide#Building and Running Monsters]] and [[Burners OSE Conversions]].
+
+**Resistance** is flat damage reduction against a **named kind** of harm — blades, fire, magic, weapons against famous hide. It comes off every hit of that kind before HP. It is never a **key**: no "only magic weapons can hurt this." Name the scope, and ideally name a weakness that bypasses it. Wear it down with weight of numbers, or find what it does not resist. A named weakness does not lower Resistance; it **ignores** it. Every Resistance above a point or two **names its cause** — a thing the party can learn and undo. Never fold Resistance into HP.
 
 Twenty militia hacking a high-Resistance thing each land almost nothing while it kills them. That is correct; it is why the village hired Burners.
 
@@ -130,7 +132,7 @@ Twenty militia hacking a high-Resistance thing each land almost nothing while it
 
 When a hostile working overruns your defense:
 
-- **Damage** applies overrun to HP 1:1 (then AC and Resistance where they apply). **Physical** manifestations — conjured blade, stone shards, dodgeable cone — may be soaked by AC after Defend; **non-physical** workings ignore AC.
+- **Damage** applies overrun to HP 1:1 (then PC AC and Resistance where they apply). **Physical** manifestations — conjured blade, stone shards, dodgeable cone — may be soaked by a Burner's AC after Defend; **non-physical** workings ignore AC. Monsters soak with Resistance only.
 - **Control** (charm, sleep, fear, command…) never chips HP. Fully defended: nothing. Defense fell short: the working takes hold — full or partial per the spell and the overrun (Referee's call on edge cases). Recover when the working ends or is broken.
 
 Never both harm and hold from the same working on the same target. OSE *save for half* does not port.
@@ -159,6 +161,16 @@ A **spell** cone or burst uses **Defend** and overrun like any other hostile wor
 
 ---
 
+## No gotchas
+
+Burners puts information on the table on purpose. Fuel is face-up. Heat is announced. Threats are telegraphed. The crew chooses with eyes open — they may still choose badly, but they were not ambushed by a rule they could not see.
+
+**Warn before the irreversible.** If a move will spring a sharp interaction the player may not have clocked, say so, then let them decide. Example: shooting a missile into a melee when the target can use a Burner as **Cover** — Fuel Sparks are already showing. *"Are you sure you want to put that into the press? He's got a Spark sitting right there."* Procedure: [[Burners Referee Guide#Cover, Sparks, and shooting into the press]].
+
+Hidden monsters, sealed doors, and lies in the fiction are fair. Hidden *rules* are not.
+
+---
+
 ## Route, don't reinvent
 
 Every die, save, check, and bonus from another game is a **pointer** to a Burners subsystem — not a new mechanic to copy.
@@ -175,7 +187,7 @@ Every die, save, check, and bonus from another game is a **pointer** to a Burner
 | +n weapon or armor | Enchanted tiers, extra Fuel die, minor powers |
 | XP for magic items | 0 XP — the item is the reward |
 
-The full OSE routing tables live in [[Burners OSE Conversions]]. Read a stat block once, write the margin note — HP, soak, pool (HD + weapon slots), Resistance-if-any — and run it.
+The full OSE routing tables live in [[Burners OSE Conversions]]. Read a stat block once, write the margin note — HP (folded AC if any), pool (HD + weapon slots), Resistance-if-any — and run it.
 
 ---
 
@@ -184,7 +196,8 @@ The full OSE routing tables live in [[Burners OSE Conversions]]. Read a stat blo
 - **Read the moment.** Is the world bending to a clever plan, or is there a price? Pick the engine.
 - **Spend dice.** Defense is a resource decision, not a permission check.
 - **Name the harm.** Resistance and weaknesses are fiction first; the numbers follow.
-- **Telegraph the big hits.** Dragon breath and collapsing ceilings are choices, not gotchas.
+- **No gotchas.** Face-up Fuel, announced Heat, telegraphed threats — warn before a sharp rule bites (Cover Sparks into the press), then honor the choice.
+- **Telegraph the big hits.** Dragon breath and collapsing ceilings are choices, not surprises sprung cold.
 - **Let the dread work.** Lingering Costs and wound depth do the horror; the Referee does not re-roll every round.
 - **Face the Heat dial.** Foreshadowing in module text is a raise; preparation is a reduction.
 - **Don't double-count dread.** Creature stats and scene Heat are separate levers.

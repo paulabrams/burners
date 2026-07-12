@@ -9,7 +9,7 @@ hero_alt: "A knight returns laden — Albert Robida"
 
 *Referee only.* Who gets the extra die from enchanted arms and armor is in [[Burners Adventure Game#Enchanted Arms and Armor]]. This page is how you stock it, convert it, and run it.
 
-In combat, enchanted arms or armor give **one extra die** when that item is the thing in play (Initiative, a blow, or Defend / Guard with a shield) and you have a **Trait** for that kit. Out of combat they give no extra dice. Anyone who has found an item's powers may use them. A module **+n** means **n minor powers**, not a bigger number on the roll.
+In combat, enchanted arms or armor give **one extra die** when that item is the thing in play (Initiative, a blow, or Defend / Block with a shield) and you have a **Trait** for that kit. Out of combat they give no extra dice. Anyone who has found an item's powers may use them. A module **+n** means **n minor powers**, not a bigger number on the roll.
 
 ## Quality above fine steel
 
@@ -153,10 +153,10 @@ Pick one per tier, or roll **d12** on the column. Re-roll duplicates. Route OSE 
 
 | d12 | Power |
 |---|---|
-| 1 | **Guard** once/session: give dice to an ally without spending an attack |
+| 1 | **Block** once/session: redirect a blow onto yourself without spending an attack |
 | 2 | **Cover** softens a breath or area effect at half the overrun |
-| 3 | **Bane-rim** — **ignores Resistance** for one Guard or Defend vs the named quarry |
-| 4 | Once/session, **bind** an attacker's weapon when you **Guard** or Defend cleanly |
+| 3 | **Bane-rim** — **ignores Resistance** for one Block or Defend vs the named quarry |
+| 4 | Once/session, **bind** an attacker's weapon when you **Block** or Defend cleanly |
 | 5 | Once/session, **Stunt** shove without spending an attack (foe your size or less) |
 | 6 | Catch missile — one ranged hit per session cut to 0 before armor |
 | 7 | **Ward** — first hostile spell each delve at you is **Defended** with +1 die |

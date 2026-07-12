@@ -5,7 +5,7 @@ title: "combat-sim"
 
 # Combat Sim
 
-> **Note:** This page records an older Monte Carlo pass (Parry / Dodge / shield Block). Current rules use locked Initiative each round, Defend without limit after any melee this round, **Guard** (dice to an ally), and **Cover** — see [[Burners Adventure Game]].
+> **Note:** This page records an older Monte Carlo pass (Parry / Dodge / shield Block). Current rules use locked Initiative each round, Defend without limit after any melee this round, **Block** (redirect a blow onto yourself), and **Cover** (2 dice vs missiles) — see [[Burners Adventure Game]]. Monsters fold AC into HP or Resistance; they do not use PC AC.
 
 A Monte Carlo test of the Burners Fuel/Sparks engine, run to answer one question: is the standard fight fair, and what does a fair fight look like for the sample party?
 

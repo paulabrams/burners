@@ -188,15 +188,21 @@ Rolling the Delve Die every Turn runs a dungeon hot: any 1 lands about a third o
 
 ## Building and Running Monsters
 
-A monster is any enemy, built on a simple stat block of Hit Dice, hide, and attacks. Its Hit Dice are its level: most humans are 0, most orcs are 1, a veteran higher. See [[Burners Principles#Pools, not fixed numbers]] for how blows work.
+A monster is any enemy, built on a simple stat block of Hit Dice, HP, Resistance (if any), and attacks. Its Hit Dice are its level: most humans are 0, most orcs are 1, a veteran higher. See [[Burners Principles#Pools, not fixed numbers]] for how blows work.
 
-- **The monster's pool.** See [[Burners Principles#Pools, not fixed numbers]]. One die per Hit Die, dice for weapon slots, scene Heat as dice (added once per enemy side). It spends Fuel like a character; each blow is up to two committed dice from mundane steel, cut by defense and armor. A plus-mod lifts HP only.
+**Monsters do not use PC Armor Class.** Convert module or natural AC one of two ways — never leave it as AC on the block:
+
+- **Default — fold into HP.** Look up the former soak magnitude (see [[Burners OSE Conversions]]), then add **+2 × soak × HD** to HP. Track one number.
+- **Famous for armor** (a knight in plate, a dragon's scales): give **Resistance vs weapons** at that soak magnitude instead of the HP fold. Still not AC.
+- **Never fold Resistance into HP.** Named Resistance (undead vs blades, magic-to-hit, fireproof hide) stays as per-blow soak with a named weakness when it matters. Do not double-count the same AC as both extra HP and weapon-Resistance.
+
+- **The monster's pool.** See [[Burners Principles#Pools, not fixed numbers]]. One die per Hit Die, dice for weapon slots, scene Heat as dice (added once per enemy side). It spends Fuel like a character; each blow is up to two committed dice from mundane steel, cut by defense and any Resistance. A plus-mod lifts HP only.
 
 - **A heavy blow** is a weapon of 3+ slots wielded in two hands: it can add a second die to that blow.
 
-- **Resistance** and **hide** — see [[Burners Principles#Armor and Resistance soak; they never roll]]. Name the scope; name a weakness. A troll regenerates until fire or acid; without it, flee or bring the flame.
+- **Resistance** — see [[Burners Principles#Armor and Resistance soak; they never roll]]. Name the scope; name a weakness. A troll regenerates until fire or acid; without it, flee or bring the flame.
 
-- **HP** is 5 per Hit Die plus modifier — see [[Burners Principles#Attrition, not spike damage]] and [[Burners Principles#Armor and Resistance soak; they never roll]] for hide and chipping. A solo boss wants enough HP to survive the party's first-round burst.
+- **HP** is 5 per Hit Die (or the module's printed value) plus any folded-AC modifier — see [[Burners Principles#Attrition, not spike damage]]. A solo boss wants enough HP to survive the party's first-round burst.
 
 ---
 
@@ -212,15 +218,25 @@ The Referee raises or lowers Damage for the situation. Set a value from the band
 | +4 | severe | pinned, ambushed in the dark, several stacked |
 | +5 | dire | helpless while the fight still rages |
 
-The defender's edge runs the same band the other way: partial cover is a 2, hard cover a 4, an attacker who is prone or swinging blind gives you a 2 or 3. When a blow outruns the dice a defender can commit (a lone die, or as many as they like once they have meleed this round) plus their armor, the excess lands on HP — and past 0 it cuts a score. Against missiles and hostile magic, **Cover** (free cover die + optional Fuel; Spark transfers) is another answer.
+The defender's edge runs the same band the other way: partial cover is a 2, hard cover a 4, an attacker who is prone or swinging blind gives you a 2 or 3. When a blow outruns the dice a defender can commit (a lone die, or as many as they like once they have meleed this round; two vs a missile with Cover) plus their armor, the excess lands on HP — and past 0 it cuts a score.
 
 ---
 
 ## Swarms
 
-Foes piling onto one target attack like a single Veteran of many levels: the group makes a bundle of attacks — reckon one per body in reach, or one per Hit Die for a larger creature — each its own blow of up to two dice, each defended separately, and each soaked by armor on the way in. Three orcs on Aldric are three attacks, not one big one. Once Aldric has meleed this round he Defends without limit against all of them; until then each blow is one die. Allies may **Guard** him (give Fuel dice into his Defend). A chokepoint caps how many reach you at once; kill one and the bundle loses its attacks.
+Foes piling onto one target attack like a single Veteran of many levels: the group makes a bundle of attacks — reckon one per body in reach, or one per Hit Die for a larger creature — each its own blow of up to two dice, each defended separately, and each soaked by the defender's armor on the way in. Three orcs on Aldric are three attacks, not one big one. Once Aldric has meleed this round he Defends without limit against all of them; until then each blow is one die. An ally may **Block** for him (spend one melee attack to redirect one blow onto themselves). A chokepoint caps how many reach you at once; kill one and the bundle loses its attacks.
 
-Keeping the blows separate is deliberate. A single combined Damage would blow past armor in one unsoakable spike; many small hits, each soaked on the way in, mean a mob wears you down through attrition and a draining Fuel pool instead — you run out of dice to defend before you run out of HP. That is the real danger of numbers: not one dreadful blow, but more attacks than you have dice to answer. The counter is avoidance — break line of sight, fight from a chokepoint, raise a legendary shield, or thin the mob until the swings come slower than you can turn them.
+Keeping the blows separate is deliberate. A single combined Damage would blow past armor in one unsoakable spike; many small hits, each soaked on the way in, mean a mob wears you down through attrition and a draining Fuel pool instead — you run out of dice to defend before you run out of HP. That is the real danger of numbers: not one dreadful blow, but more attacks than you have dice to answer. The counter is avoidance — break line of sight, fight from a chokepoint, raise a shield as Cover, or thin the mob until the swings come slower than you can turn them.
+
+---
+
+## Cover, Sparks, and shooting into the press
+
+Fuel is rolled face-up. Everyone can see the 6s.
+
+When a missile flies into a melee, the target may use a **melee foe as Cover** (see [[Burners Adventure Game]]). If they Spark on that Defend, the shot hits that foe instead — often a Burner locked with them. That is the rule working as written, not a gotcha to spring cold.
+
+Before the arrow goes: give a friendly warning. *"Are you sure you want to put that into the press? He's got a Spark sitting right there."* The player still chooses. You telegraphed the risk while the dice were already on the table. See [[Burners Principles#No gotchas]].
 
 ---
 

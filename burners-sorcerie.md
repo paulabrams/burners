@@ -173,7 +173,7 @@ When a spell targets you with harm, control, or another hostile effect, the cast
 
 You may **Defend** as against any blow: commit Fuel dice, roll them, sum the faces. Those dice are spent for the fight. Your **defense total** opposes the cast total. Choose whichever Approach fits; the spell may suggest one (*Defend: Sword*, *Defend: Heart*, and so on). Commit as many Fuel dice as you choose — no cap.
 
-**Warding.** A Sorcerer adjacent to an ally or a tight group may **Defend for them** — commit Fuel on their behalf, as a Veteran Guards for the crew. You still choose the fitting Approach; the protected target does not spend dice.
+**Warding.** A Sorcerer adjacent to an ally or a tight group may **Defend for them** — commit Fuel on their behalf (you stand between them and the working). You still choose the fitting Approach; the protected target does not spend dice.
 
 - **Defense ≥ cast:** fully defended — no effect, no HP loss.
 - **Defense < cast:** **overrun** = cast − defense. Apply per the harm/effect lanes above.

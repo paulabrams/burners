@@ -126,9 +126,9 @@ Garrison troops hired by the month live under *Mercenaries* in [[Burners Adventu
 
 ## Magic Items
 
-Refer to [[Burners Sorcerie]] for sorcerer items: lasting Arcana (finds only), scroll scribing, and potion brewing.
+Refer to [[Burners Sorcerie]] for sorcerer items: Arcana (finds only), scrolls, and potions.
 
-Magic items are rarely for sale at any price. Scrolls and potions you make yourself; lasting foci and enchanted arms you find or earn.
+Magic items are rarely for sale at any price. Scrolls and potions you make yourself; Arcana and enchanted arms you find or earn.
 
 ## Pricing Anything Else
 
@@ -145,7 +145,7 @@ Want something not on these tables? You can use classic old school roleplaying g
 - **Provisions:** 1 gp per meal for the group.
 - **Ranged weapons** and **silver** (and other special materials) add a surcharge when you invent a new piece.
 - **Field and full plate** are not slot-formula items — see *Armor*.
-- **Lasting Arcana** have no shop price — found or earned; see [[Burners Sorcerie]]. Scrolls and potions are crafted at **100 gp × level**.
+- **Arcana** have no shop price — found or earned; see [[Burners Sorcerie]]. Scrolls and potions are crafted at **100 gp × level**.
 
 **Quality — added on top of the base (or on a listed price):**
 

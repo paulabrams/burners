@@ -217,20 +217,20 @@ Read straight off the printed block — HP (folded if the AC had soak), the two 
 
 ## Spells
 
-Port OSE spells onto [[Burners Sorcerie]] when a match exists; otherwise write a one-line effect in the same format (`School L: …`).
+Port OSE spells onto [[Burners Spells]] when a match exists; otherwise write a one-line effect in the same format (`School L: …`).
 
 - **Spell level = prep level L.** Arcana slots run bound → active → used; used slots clear after 8 hours' sleep. Binding or rebinding takes one hour with spellbook in hand. Respect Arcana capacity (levels total ≤ focus Level).
 - **Durations and ranges as written** — the clocks match.
 - **Casting (combat):** one Action; spend at least L Fuel dice, roll them — cast total = sum of faces. On a Spark, may spend up to L additional Fuel for extra effect. The slot goes active, then used.
 - **Casting (NPC / module caster):** roll at least **L dice** for the cast total the same way. A hostile cast **rolls initiative** if no fight is underway.
 - **Defense and damage:** see [[Burners Principles#Granular defense, not binary save]] and [[Burners Principles#Harm and effect are separate lanes]]. Ignore OSE per-caster-level dice and fixed damage lines; overrun to HP 1:1. *Save for half* does not port.
-- **Scrolls** require a Sorcerer (or Journeyman for Canting) — treat as a one-shot **Arcana** that self-destructs when cast (see [[Burners Sorcerie]]).
+- **Scrolls** require a **Sorcerer** (or Journeyman for Canting) — single-use, any form (parchment, feather, charm…), not an Arcana (see [[Burners Sorcerie]]).
 
 ---
 
 ## Magic Items
 
-Potions, rings, cursed items, and wondrous items port **as written** — they are fiction plus a rule, and the fiction is the value. **Magic items grant no XP**; the item is the reward (see *XP Awards*). Wands and staves are Sorcerer tools — run them as **lasting Arcana** (map their effects by spell level; they are finds, not shop goods — see [[Burners Sorcerie]]), or, for a one-off, keep their charges as a simple budget.
+Potions, rings, cursed items, and wondrous items port **as written** — they are fiction plus a rule, and the fiction is the value. **Magic items grant no XP**; the item is the reward (see *XP Awards*). Wands and staves are Sorcerer tools — run them as **Arcana** (map their effects by spell level; they are finds, not shop goods — see [[Burners Sorcerie]]), or, for a one-off, keep their charges as a simple budget.
 
 ### +n Arms, Shields, and Armor → Enchanted + Powers
 

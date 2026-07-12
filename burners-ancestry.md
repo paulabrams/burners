@@ -14,7 +14,7 @@ hero_alt: "The faithful beasts — H. J. Ford"
 > - **Themes** — feed your Burners **Theme**: your name or alias and a short "look" (*"Alu'Kel — desert screamer"*). A Legends Theme is also a mine for Traits.
 > - **Traits** — take as Burners **Traits**, each tagged to an Approach. Up to four per character level, backfilled as you go.
 > - **Assets** — gear. Buy from [[Burners Equipment]]; exotic pieces are in [[Burners Arms and Armor]], with **Slots** assigned there.
-> - **Secrets become Signatures** — see [[Burners Principles#Earned in play]]. Spells that are plainly spells are learned through [[Burners Sorcerie]] instead.
+> - **Secrets become Signatures** — see [[Burners Principles#Earned in play]]. Spells that are plainly spells are learned through [[Burners Sorcerie]] / [[Burners Spells]] instead.
 > - **Gifts** (Drisi, Karrock) — the "Gifts Secret" becomes a **Gifts Signature**; each gift manifested is an innate Asset while it shows.
 > - **Signature Assets** — name items in play, never at creation (see [[Burners Arms and Armor]]).
 > - **Dark Secrets** — Burners has no slot for these; keep one anyway, as written, and hand it to the Referee. It is a hook, and hooks get pulled.

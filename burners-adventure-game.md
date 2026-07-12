@@ -126,7 +126,7 @@ Quick definitions. Details live in the chapters below.
   - vs magic: no limit
   A 6 is a Spark (e.g. a Riposte), except as under Cover. See Fighting.
 
-- **Cover:** fiction that lets you spend 2 dice vs a missile (wall, shield, creature, etc.). Using a melee foe as Cover: if you Spark on that Defend, the shot hits them!
+- **Cover:** fiction that lets you spend 2 dice vs a missile when you are protected by some kind of "cover" (wall, shield, creature, etc.). Using a melee foe as Cover: if you Spark on that Defend, the shot hits them!
 
 - **Spark:** a natural 6 on a Fuel die. On Fuel it entitles you to a second combat action: an attack, a Block, or a Stunt (defending, a Riposte). You still pay for that action from your Fuel. See Fighting.
 
@@ -191,7 +191,7 @@ You may also have gear and coin from your Approach:
 | **Sword** (Veteran) | 100 gp | nothing extra (your coin *is* your kit: buy arms, armor, a shield) |
 | **Heart** (Boss) | 80 gp | one **henchman**: fills your first Heart slot (see *Henchmen* under *The Boss*); basic gear, keep and a share of the take |
 | **Craft** (Journeyman) | 60 gp | choice of one "tool of the trade" based on one of your Traits, such as a hunting bow with a quiver of arrows, wood ax, blacksmith's hammer, etc. |
-| **Sorcerie** (Sorcerer) | 40 gp | your **personal spellbook** of four 1st-level spells of your school (known), and **two Level-1 Arcana** of any focus shape |
+| **Sorcerie** (Sorcerer) | 40 gp | your **personal spellbook** of four 1st-level spells of your school (known), and **two Level-1 Arcana** (wizard drip) |
 
 Veterans start as outfitted soldiers; Bosses as moneyed leaders rich in people; Journeymen as scrappy woodsmen poor in coin but woods-ready; Sorcerers as folk who spent nearly everything becoming mages. You earn legendary gear in play.
 
@@ -206,8 +206,8 @@ Spend your gold in town from the tables below; everything you carry ready takes 
 
 A Sorcerer's craft comes with a kit (the fruit of your apprenticeship). That is why your starting purse (40 gp) is so much lighter than a Veteran's: you already spent most of it becoming a mage. Your kit is:
 
-- **Two Level-1 Arcana** of any focus shape you choose: wand, staff, rod, orb, crystal, ring, amulet, mask, robes, hat.
-- A **spellbook** of four 1st-level spells from your school, all known, carried in a **scrivener's satchel**: the book plus an ink pot, quill, and a sheaf of loose-leaf paper. Plain ink and loose leaves record Facts in the field (scraps, runes, fragments), free; the *special reagent inks* that fix a working permanently into the book are a separate cost (see *Learning a spell* on [[Burners Sorcerie]]).
+- **Two Level-1 Arcana** of wizard drip you choose: wand, staff, rod, orb, crystal, ring, amulet, mask, robes, hat. Never armor, shields, or war kit — see *Arcana* on [[Burners Sorcerie]].
+- A **spellbook** of four 1st-level spells from your school, all known, carried in a **scrivener's satchel**: the book plus an ink pot, quill, and a sheaf of loose-leaf paper. Plain ink and loose leaves record Facts in the field (scraps, runes, fragments), free; the *special reagent inks* that fix a working permanently into the book are a separate cost (see *Spellbooks and Known Spells* on [[Burners Sorcerie]]).
 - **Read Magic**, free and always known. The working behind *Reading Magic*, not a school spell.
 
 Two of your school's six 1st-level spells are **not** in your book. Those, deeper spells, other schools, and better foci are your hunt. *Read Magic* lets you work a found spell from its source while you carry it. Moving it into your book costs **100 gp × its level** and destroys the source. See [[Burners Sorcerie]].
@@ -648,27 +648,27 @@ There is no defense roll to fail; when struck you commit dice from your Fuel and
 
 ## Magic
 
-Magic is prepared, not spontaneous. As a Sorcerer you **bind** workings into **Arcana** (one hour of study with a readable book in hand: yours, or a found grimoire you can still read). **Lasting** Arcana are rare finds, not shop goods. **Scrolls** you scribe anytime for gold (100 gp × level): one-shot Arcana that burn when cast. **Potions** are downtime brew for anyone with Vitae or Craft (herbalism/alchemy): 100 gp × level, touch or self only. Your lasting cast leaves the spell active for its duration, then used until you clear it with sleep. Hostile magic is Defended like steel.
+Magic is prepared, not spontaneous. As a Sorcerer you **bind** workings into **Arcana** (one hour of study with a readable book in hand: yours, or a found grimoire you can still read). Arcana are rare finds, not shop goods. **Scrolls** you make anytime for gold (100 gp × level): single-use workings — parchment, feather, charm, or the like — that burn when cast; **Sorcerer only** (not Arcana). **Potions** are downtime brew for anyone with Vitae or Craft (herbalism/alchemy): 100 gp × level, touch or self only — not Arcana; anyone may drink. A cast from an Arcana leaves the spell active for its duration, then used until you clear it with sleep. Hostile magic is Defended like steel.
 
-Magic touches your game in two places. The Sorcerer title (Sorcerie 1) lets you cast. Your combat cast is one Action that spends at least L Fuel dice (L = the spell's level) and rolls them for the cast total. The spell catalog is [[Burners Sorcerie]]. Common Sorcerie holds the workings you know regardless of tradition (Read Magic, Detect Magic, the Ward Pact family, and the rest).
+Magic touches your game in two places. The Sorcerer title (Sorcerie 1) lets you cast. Your combat cast is one Action that spends at least L Fuel dice (L = the spell's level) and rolls them for the cast total. The spell catalog is [[Burners Spells]]. Common Sorcerie holds the workings you know regardless of tradition (Read Magic, Detect Magic, the Ward Pact family, and the rest).
 
-The full rules of magic live with the catalog on **[[Burners Sorcerie]]**: the Sorcerer gate, Arcana and binding, spellbooks, ritual, the cast, Defend against hostile workings, and Reading Magic. You need them if you are a Sorcerer (or a Journeyman casting Canting). At the table you need just two things: how a spell hits you (*Defending against a spell*, under Combat) and the quick reference below.
+The full rules of magic are on **[[Burners Sorcerie]]** (who can cast, Arcana and binding, spellbooks, ritual, the cast, Defend against hostile workings, Reading Magic). The catalog is **[[Burners Spells]]**. You need them if you are a Sorcerer (or a Journeyman casting Canting). At the table you need just two things: how a spell hits you (*Defending against a spell*, under Combat) and the quick reference below.
 
 ### Relics and sentient items
 
-**Relics** and **sentient items** are covered on [[Burners Invocations]] (Alignment with a patron, Relic +1, true names). They are not spells; they interact with Signatures and legendary items as the Referee defines. Spell magic remains [[Burners Sorcerie]].
+**Relics** and **sentient items** are covered on [[Burners Invocations]] (Alignment with a patron, Relic +1, true names). They are not spells; they interact with Signatures and legendary items as the Referee defines. Spell magic remains [[Burners Sorcerie]] / [[Burners Spells]].
 
 ### Magic, quick reference
 
 ```
 WHO     Sorcerer (Sorcerie 1+); Journeyman+ (Craft 1+) for Canting
-WHAT    school spells ([[Burners Sorcerie]]), by level
+WHAT    school spells ([[Burners Spells]]), by level
 WHERE   bound into Arcana (capacity = the Arcana's Level); readable source present to bind
 WHEN    bind or replace = 1 hour + source; used slots clear after 8 hours' sleep
 HOW     combat cast = one Action spending at least L Fuel dice, rolled for cast total; Spark → up to L extra Fuel; slot → active → used
 DEFEND  hostile magic: Roll initiative if needed; Fuel dice vs cast total (no cap); HP harm OR effect, not both; Warding for adjacent allies
 ROLL    out of combat, 2d6 + Sorcerie
-LIMITS  learn ≤ Sorcerie · bind ≤ Arcana Level · no HP-fuel · no spell-Signatures
+LIMITS  learn ≤ Sorcerie · bind known only, ≤ Arcana Level · ritual = known + open book · no HP-fuel · no spell-Signatures
 ```
 
 ## Lingering Costs: Poison, Petrification, Paralysis
@@ -720,7 +720,7 @@ Their Morale is their own score: 6 for a peasant levy up to 9 for mounted troops
 
 *As a Veteran you rule the melee, as a Journeyman the journey, as a Sorcerer the unseen, and as a Boss you rule the company. Heart is presence, command, and the strange gravity that makes frightened people follow you into a barrow they'd never enter alone. **Anyone can hire hands for coin**: Heart is what gives you **henchmen** who grow with you, and the nerve to keep a company together when the dark turns ugly.*
 
-*Boss is only the mechanical name for the Heart gate. Rename it to fit your character, and your people will address you by that title: Captain, Chief, Coven-Mother, Ser or Dame, Boss. Pick the word your company calls you. The rules are the same under any of them.*
+*Boss is only the mechanical name for Heart 1+. Rename it to fit your character, and your people will address you by that title: Captain, Chief, Coven-Mother, Ser or Dame, Boss. Pick the word your company calls you. The rules are the same under any of them.*
 
 ### Henchmen
 

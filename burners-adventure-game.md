@@ -23,7 +23,7 @@ They mean it as an insult. You wear it like a medal.
 
 Because you are defined by one thing: **knowing which move the moment calls for.** When to stand in the press and trade blows. When to give ground and cut your losses. When to look at a thing too big to kill and simply *never draw*. Walk wide and live. And when the footing's gone and the odds have turned, when to *run*, purse be damned, and count breath as winning.
 
-And when the job's finally done and the reckoning comes howling up the stairs behind you, you know the last move, the one that earned the name. **Leave nothing behind but smoke.** Fire settles most debts. Fire makes it good.
+And when the job's finally done and the reckoning comes howling up the stairs behind you, you know the last move, the one that earned the name. **Leave nothing behind but smoke.** Fire settles most debts. Fire makes it good. *What do we do with witches? We burn 'em.* You stand in flame better than townsfolk — when fire comes for you, spend Fuel without the one-die cap (see Defend).
 
 Most who take up this trade don't last a season. The docks are full of would-be Burners who didn't know when to run, or drew on the wrong thing in the dark, or stayed one round too long admiring their own work. You won't become a *name* with a song sung about you by being the strongest or the deadliest. You'll become one by reading a bad bet and folding it.
 
@@ -122,10 +122,11 @@ Quick definitions. Details live in the chapters below.
 - **Defend:** commit Fuel dice to cut a blow before armor soaks the rest. Caps:
   - vs melee: 1 die; no limit if you made a melee attack this round (any foe)
   - vs missile: 1 die; 2 if you have Cover
+  - vs fire: no limit for you (a Burner or creature born in fire); 1 die for others
   - vs magic: no limit
   A 6 is a Spark (e.g. a Riposte), except as under Cover. See Fighting.
 
-- **Cover:** fiction that lets you spend 2 dice vs a missile (wall, shield, creature…). Using a melee foe as Cover: if you Spark on that Defend, the shot hits them!
+- **Cover:** fiction that lets you spend 2 dice vs a missile (wall, shield, creature, etc.). Using a melee foe as Cover: if you Spark on that Defend, the shot hits them!
 
 - **Spark:** a natural 6 on a Fuel die. On Fuel it entitles you to a second combat action: an attack, a Block, or a Stunt (defending, a Riposte). You still pay for that action from your Fuel. See Fighting.
 
@@ -421,11 +422,15 @@ Signatures take three common shapes; the Referee may allow others:
 
 ## Enchanted Arms and Armor
 
-Anyone can use an enchanted item's **powers** once they have found them.
+**Enchanted, legendary, eldritch, magic** — same class. A module *+1 sword* is a magic sword: woken steel, not a mild bump. It may hum, light the dark, hate a quarry, or speak. The plus is how you stock it (see [[Burners Referee Magic Items]]), not how small it is.
 
-The **extra die** (Initiative pool and on the action) wants a **Trait** for that kit: *arming sword*, *chain mail*, *hunting bow*, *shield*, and so on. Most war Traits sit under Sword, so Veterans usually claim the magic steel. A Journeyman with *hunting bow* can still take the die from a magic hunting bow.
+**Acceptance.** The enchantment only answers someone who holds the fitting **Trait** for that kit — *arming sword*, *chain mail*, *hunting bow*, *heater*, and so on. That is not a roll. The blade accepts you or it does not. Without the Trait you may still carry and swing the steel as ordinary kit (Slots, AC, faces); the magic stays quiet — no extra die, no powers. Most war Traits sit under Sword, so Veterans usually claim the magic steel. A Journeyman with *hunting bow* can still be accepted by a magic hunting bow.
 
-A **Named item** Signature on that Trait (your steel, named) gives you the extra die on that kit the same way.
+With the Trait you are accepted: **one extra die** when that item is the thing in play (Initiative pool and on the blow, Defend, or Block), and its **powers** once you have found them.
+
+A **Named item** Signature on that Trait (your steel, named) is the same acceptance — the name marks it as yours.
+
+**Sentient** blades are enchanted kit that also have a will (see [[Burners Referee Magic Items]]). They still require the Trait to accept you as a wielder; personality, jealousy, and speech sit on top of that.
 
 See [[Burners Referee Magic Items]] for stocking and +n.
 

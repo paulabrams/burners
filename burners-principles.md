@@ -76,7 +76,7 @@ Death lands in the fight — stack of wounds, failed Shock at the floor, or coup
 
 Traits come with levels; **Signatures**, named gear, and spell learning are **never bought with XP**. They emerge at the table — one Signature per level in that Approach.
 
-Magic arms and armor are looted or earned, never bought at creation. Magic items grant **0 XP**; the item is the reward. Extra die needs a Trait; powers for anyone: [[Burners Adventure Game#Enchanted Arms and Armor]]. How you stock and convert them: [[Burners Referee Magic Items]].
+Magic arms and armor are looted or earned, never bought at creation. Magic items grant **0 XP**; the item is the reward. Enchanted = legendary = eldritch: a *+1* is a magic sword. It **accepts** only a matching Trait (no roll) — extra die and powers once found: [[Burners Adventure Game#Enchanted Arms and Armor]]. How you stock and convert them: [[Burners Referee Magic Items]].
 
 ---
 

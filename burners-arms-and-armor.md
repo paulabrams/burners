@@ -13,7 +13,7 @@ hero_alt: "Crossbowmen in the street — Albert Robida"
 >
 > *Era guide:* Northmarens run early-medieval arms & armor, Southmarens late-medieval/early-Renaissance, the Eldar exotic and magical.
 >
-> **"Legendary" — mind the two senses.** Legends *Legendary Asset* vs Burners enchanted arms — see [[Burners Adventure Game#Enchanted Arms and Armor]], [[Burners Referee Magic Items]], and [[Burners Principles#Earned in play]].
+> **"Legendary" — mind the two senses.** Legends *Legendary Asset* (a Signature rung on mundane kit) vs Burners **enchanted / legendary / eldritch** arms (one magical class — a *+1* is a magic sword). Trait acceptance: [[Burners Adventure Game#Enchanted Arms and Armor]]. Stocking: [[Burners Referee Magic Items]]. Signatures earned in play: [[Burners Principles#Earned in play]].
 
 ---
 
@@ -29,7 +29,7 @@ Every weapon, armor, or tool sits on one ladder, bottom to top. Only the first t
 2. **Fine steel** — masterwork price; **Trusty** (never sticks, notches, or fails on a Spicy — the worst outcome finds something else).
 3. **Signature** — a name and a history (*"Wren's sword, tuned over twenty years of border duty"*). Worth coin and worth questions, but no bonus of its own. You name an item in play, never at creation.
 
-Tuned, Bane-forged, and Legendary arms are Referee magic items — see [[Burners Referee Magic Items]]. Trait for the extra die, powers for anyone: [[Burners Adventure Game#Enchanted Arms and Armor]].
+Tuned, Bane-forged, and Legendary arms are Referee magic items — see [[Burners Referee Magic Items]]. Enchanted / legendary / eldritch are one class; Trait acceptance gates the magic: [[Burners Adventure Game#Enchanted Arms and Armor]].
 
 ### Signatures and Secrets
 

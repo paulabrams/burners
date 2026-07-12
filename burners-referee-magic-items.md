@@ -7,9 +7,11 @@ hero_alt: "A knight returns laden — Albert Robida"
 
 # Burners Referee Magic Items
 
-*Referee only.* Who gets the extra die from enchanted arms and armor is in [[Burners Adventure Game#Enchanted Arms and Armor]]. This page is how you stock it, convert it, and run it.
+*Referee only.* Who an enchanted armament **accepts**, and what that means, is in [[Burners Adventure Game#Enchanted Arms and Armor]]. This page is how you stock it, convert it, and run it.
 
-In combat, enchanted arms or armor give **one extra die** when that item is the thing in play (Initiative, a blow, or Defend / Block with a shield) and you have a **Trait** for that kit. Out of combat they give no extra dice. Anyone who has found an item's powers may use them. A module **+n** means **n minor powers**, not a bigger number on the roll.
+**Enchanted = legendary = eldritch = magic.** Same class. A *+1 sword* is a freaking magic sword — woke steel that may talk, burn, or hunt. The plus only sets how many minor powers you stock, not how trivial the find is.
+
+In combat, an enchanted arm or armor the wielder's Trait has **accepted** gives **one extra die** when that item is the thing in play (Initiative, a blow, or Defend / Block with a shield). Out of combat they give no extra dice. **Powers** also require that acceptance (and that the power has been found). Without the Trait the piece is mundane kit in their hands. A module **+n** means **n minor powers**, not a bigger number on the roll.
 
 ## Quality above fine steel
 
@@ -17,7 +19,7 @@ Mundane quality — **Common**, **Fine steel**, **Signature** — lives in [[Bur
 
 ### Tuned
 
-Fitted to one grip and dialed in. A **Tuned** weapon **counts as enchanted** for that grip (extra die if you have the Trait; powers for anyone who has found them) and is **Trusty** (never sticks, notches, or fails on a Spicy). A tuning belongs to one hand: a blade tuned to a dead man's grip must be **re-tuned** before it answers you (a master's fee, or your own Craft 1+, tools, coin, and downtime). Earned in play, never at creation.
+Fitted to one grip and dialed in. A **Tuned** weapon **counts as enchanted** for that grip (accepted only with the Trait; extra die and powers once found) and is **Trusty** (never sticks, notches, or fails on a Spicy). A tuning belongs to one hand: a blade tuned to a dead man's grip must be **re-tuned** before it answers you (a master's fee, or your own Craft 1+, tools, coin, and downtime). Earned in play, never at creation.
 
 ### Bane-forged
 
@@ -25,11 +27,11 @@ Made for one enemy. Against its named quarry it *is* their weakness: their Resis
 
 ### Legendary / named relics
 
-Found, never made. A relic may lie dormant as ordinary gear until you discover its true name — read from a tomb-glyph, **surrendered by an Invocation** to the patron it serves, or earned by the deed it was made for. The name costs no XP. With the matching Trait you get the extra die; anyone may use powers once found.
+Found, never made. A relic may lie dormant as ordinary gear until you discover its true name — read from a tomb-glyph, **surrendered by an Invocation** to the patron it serves, or earned by the deed it was made for. The name costs no XP. With the matching Trait you are accepted (extra die and powers once found).
 
-Named relics and true names matter for fiction and for waking a dormant piece; they do not make a second mechanical tier above "enchanted."
+Named relics and true names matter for fiction and for waking a dormant piece; they do not make a second mechanical tier above "enchanted." Enchanted, legendary, and eldritch are one class.
 
-About one in six relics speaks. These are **Sentient Items**, each a bound soul with its own will and powers that can aid, argue, or betray you. Many more were once sentient but broke over the long ages, most of them mad and silent. A mute relic in your hands is not safely empty; it may be inert, or a madness too far gone for words.
+About one in six relics speaks. These are **Sentient Items**, each a bound soul with its own will and powers that can aid, argue, or betray you. Many more were once sentient but broke over the long ages, most of them mad and silent. A mute relic in your hands is not safely empty; it may be inert, or a madness too far gone for words. Sentience is a **layer on enchanted kit**, not a milder find — the Trait still gates acceptance; ego and speech sit on top (no Oracle roll to "accept"; the Trait is the gate, as with any enchanted arm).
 
 ---
 
@@ -37,7 +39,7 @@ About one in six relics speaks. These are **Sentient Items**, each a bound soul 
 
 When a module lists a *+1 sword*, *+2 shield*, *+1 plate*, and so on — convert in two parts. Keep Slots, AC, and size as the mundane piece would be.
 
-**1. Enchanted.** The item is enchanted. The extra die wants a Trait for that kit; anyone may use its powers once found (see [[Burners Adventure Game#Enchanted Arms and Armor]]).
+**1. Enchanted.** The item is enchanted — a magic sword (or shield, or harness), full stop. Acceptance wants the fitting Trait; without it the enchantment is quiet (see [[Burners Adventure Game#Enchanted Arms and Armor]]).
 
 **2. Special powers — one per plus.** A +1 item has one +1-tier power. A +2 adds a second, +2-tier power. A +3 adds a third, and so on. Powers are minor — convenience, flavor, situational edges — not extra dice on every blow.
 
@@ -51,11 +53,11 @@ Record them like Trait Signatures: each power you have **found** earns an asteri
 
 | On your sheet | Meaning |
 |---|---|
-| `arming sword` (enchanted) | Magic steel; extra die if you have *arming sword* (or the fitting Trait) |
-| `arming sword*` | One +1-tier power discovered — footnote `*` names it (anyone may use it) |
+| `arming sword` (enchanted) | Magic steel; silent until you hold *arming sword* (or the fitting Trait) — then extra die and powers as found |
+| `arming sword*` | Accepted; one +1-tier power discovered — footnote `*` names it |
 | `arming sword**` | A +2 item; both powers found — footnotes `*` and `**` |
 
-**No plusses on sums.** A +n from another game never becomes a bonus added to a roll total. It becomes **enchanted** arms or armor: the extra die with the matching Trait, plus n minor powers anyone can use once found.
+**No plusses on sums.** A +n from another game never becomes a bonus added to a roll total. It becomes **enchanted** arms or armor: acceptance by Trait, the extra die, plus n minor powers once found.
 
 Disarming an enchanted weapon denies its magic while it is out of hand.
 
@@ -73,7 +75,7 @@ OSE treasure swords ([SRD: Swords](https://oldschoolessentials.necroticgnome.com
 2. **Bane vs type** — *"+2 vs lycanthropes"*, *"+3 vs undead"* → a +1-tier or +2-tier power that ignores Resistance (or reads as silver) vs that quarry — not a bigger number.
 3. **Named power** — *flaming*, *light*, *locate objects*, *charm person*, *energy drain*, *wishes* → assign to **+1 / +2 / +3** tiers by potency (below).
 
-**Sentient swords** (30% of magic swords; [SRD: Sentient Swords](https://oldschoolessentials.necroticgnome.com/srd/index.php/Sentient_Swords)) are a **separate layer**: roll INT, Ego, alignment, sensory and extraordinary powers, optional special purpose. Use that procedure only when the module implies personality, control checks, or speech — not for every *+1 longsword*. A sentient blade still converts **enchanted + powers** first; add INT/Ego and the sensory/extraordinary tables on top.
+**Sentient swords** (30% of magic swords; [SRD: Sentient Swords](https://oldschoolessentials.necroticgnome.com/srd/index.php/Sentient_Swords)) are a **layer on enchanted kit**, not a smaller find: roll INT, Ego, alignment, sensory and extraordinary powers, optional special purpose. Use that procedure when the module implies personality, control checks, or speech — and remember every *+1 longsword* is already magic steel that might one day speak. Convert **enchanted + powers** first (Trait acceptance); add INT/Ego and the sensory/extraordinary tables on top. There is no separate Oracle roll for acceptance — the kit Trait is the gate.
 
 OSE **armor and shields** in treasure are usually plain **+n** with no second power ([Treasures: Armour and Shields](https://oldschoolessentials.necroticgnome.com/srd/index.php/Armour_and_Shields)). Invent **+1 / +2** powers from the suggestions below, or steal a sensory or protection theme from rings and cloaks in the same book.
 

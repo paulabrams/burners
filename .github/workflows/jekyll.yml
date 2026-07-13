@@ -31,6 +31,15 @@ jobs:
         run: |
           mkdir -p _site/markdown
           cp markdown/*.md _site/markdown/
+      - name: Publish PDFs under /pdf
+        env:
+          PDF_DEPLOY_SOURCE_DIR: markdown
+          PDF_DEPLOY_DEST_DIR: _site/pdf
+          PDF_DEPLOY_COPY_TO: ""
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc weasyprint
+          bash pdf-deploy.sh
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 

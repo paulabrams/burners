@@ -32,10 +32,12 @@ Each of the seven people-schools lists six spells at every spell level, 1 throug
 
 ### Reading the catalog
 
-**Sorcerie** in an effect = your Sorcerie Approach level (Traits ÷ 4). At Sorcerie 1, `Sorcerie creatures` means 1 creature, `Sorcerie × 10'` means 10', etc. Minimum 1 where a count is implied.
+**Sorcerie** in an effect = your **Sorcerie Approach level** (or Craft Level for Canting).
+At Sorcerie 1, `Sorcerie creatures` means 1 creature, `Sorcerie × 10'` means 10', etc.
+Minimum 1 where a count is implied.
 
-- **Control** — effect lane, not HP; see [[Burners Principles#Harm and effect are separate lanes]] and *Defending against a spell* above.
-- **Wound work:** *Healing Touch* (Vitae 1) closes limb wounds; for open vital wounds use a **Wound Check** — campaign alias *Stanch* (same level).
+- **Control** — effect lane, not HP; see [[Burners Principles#Harm and effect are separate lanes]] and *Defending against a spell* on [[Burners Sorcerie]].
+- **Wound work:** *Healing Touch* (Vitae 1) restores HP / closes limb wounds while the target is **above 0 HP**. *Stanch* (Vitae 1) is the card that works at **0 HP or less**.
 - **Canting** rolls Craft; a **Journeyman (Craft 1+)** with the **Canting** Trait may cast it (see *The Sorcerer* on [[Burners Sorcerie]]).
 
 ---
@@ -87,6 +89,7 @@ Beast Speech — *talk with animals*
 Healing Touch — *cure wounds*
 Joy Song — *lift spirits*
 Light Shield — *protect from evil*
+Stanch — *close a wound at the brink*
 
 #### Vitae Level 2
 
@@ -612,7 +615,8 @@ Umbrakala 1: Sorcerie creatures start attacking each other for one turn or until
 
 #### Healing Touch
 
-Vitae 1: Touch a willing creature — restore **1d6 HP**, or close one **open limb wound** (not vital). Does not auto-close vital wounds. *Campaign alias: **Mend**.*
+Vitae 1: Touch a willing creature who is still **above 0 HP** — restore **1d6 HP**, or close
+one **open limb wound** (not vital). Does nothing at **0 HP or less** — that is *Stanch*.
 
 #### Heat Metal
 
@@ -659,13 +663,21 @@ magical writing; that is *Read Magic*.
 #### Read Magic
 
 Sorcerie 1: You read magical script — runes, glyphs, spellbook entries, scroll text —
-well enough to identify a working. Once you have read a spell in a **book**, you may treat
-it as known while you carry that source and memorize it into your hand on redraw; moving
-it into your own book destroys the source (see *Spellbooks* on [[Burners Sorcerie]]). A **scroll** is a single-use item in any form: *Read Magic* tells you
-what it holds before you cast (and spend) it, or unmake it into your book. Without
+well enough to identify a working and open foreign hands. Once you have read a spell in a
+**book**, you may treat it as known while you carry that source and memorize it into your
+hand on redraw; moving it into your own book destroys the source (see *Spellbooks* on
+[[Burners Sorcerie]]). A **scroll** is a single-use item in any form: *Read Magic* tells
+you what it holds before you cast (and spend) it, or unmake it into your book. Without
 *Read Magic*, magical writing is opaque (unless you already read that school's hand).
-**Free and always known** by every Sorcerer; costs no slot to know. (The working behind
-*Reading Magic* in [[Burners Adventure Game]].)
+You may also probe deeper for **Facts** on a writing or item (Step-2 risk; see *Reading
+Magic* on [[Burners Sorcerie]]). **Free and always known** by every Sorcerer; costs no
+slot to know.
+
+#### Stanch
+
+Vitae 1: Touch a willing creature at **0 HP or less** — restore **1d6 HP** and stabilize
+them enough to count as **help** after a fight (they still make the Craft survival check if
+Wounded). Does not close maimings. *Healing Touch* cannot do this work.
 
 #### Thaumaturgic Hand
 
@@ -757,7 +769,7 @@ Illusione 2: You may alter the look of Sorcerie humanoids as long as they remain
 
 #### Divine Grace
 
-Vitae 2: One ally gains +1 on their next Sorcerie roll or Wound Check within Sorcerie hours (blessing, not stacking).
+Vitae 2: One ally gains +1 on their next Sorcerie roll or Shock / survival check within Sorcerie hours (blessing, not stacking).
 
 #### Dream Message
 
@@ -1185,8 +1197,8 @@ Umbrakala 4: Step between shadows within Sorcerie × 40' once per round for Sorc
 
 #### Shared Ward Pact
 
-Sorcerie 4: Cast over a Ward Pact or Greater Ward Pact you know and name its source as with
-those: either extend that ward to **Sorcerie willing creatures** within 10' (each takes
+Sorcerie 4: Requires a Ward Pact or Greater Ward Pact **in play** (active lasting). Cast to
+extend that named ward: either to **Sorcerie willing creatures** within 10' (each takes
 **−Sorcerie Damage** from the named source), or grant **one** creature outright **immunity**
 to it. Lasts Sorcerie turns. The old **Greater Parma** is simply this cast on the *magic*
 pact.
@@ -1486,7 +1498,7 @@ Thaumaturgy 6: For Sorcerie turns, telekinesis on items within 30' with fine con
 
 #### Perfect Death
 
-Necromantia 6: One living creature at 0 HP or below fails one Wound Check automatically (coup magic). Moral weight.
+Necromantia 6: One living creature at 0 HP or below fails their next post-fight survival check automatically (coup magic). Moral weight.
 
 #### Perfect Illusion
 

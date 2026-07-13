@@ -31,25 +31,28 @@ Think of every spell you know as a card.
 - Your **Arcana slot count** sets your **hand size** — how many cards you may hold.
 - **Casting** a spell **taps** its card.
 - **Burning** a card exiles it to pay for more casting in the same Action.
-- After **8 hours of uninterrupted sleep**, you may recover cards up to your caster level
-  (see *Sleep and recovery*).
+- After **8 hours of uninterrupted sleep**, you may recover up to your caster level in
+  cards (see *Sleep and recovery*).
 
-Every card in your hand is in exactly one zone:
+Every card in your hand is in exactly one zone. **Tapped, lasting, and burned cards all
+still occupy hand size** until recovered (or lasting ends).
 
 | Zone | Meaning | Comes back |
 | --- | --- | --- |
 | **Ready** | In hand, untapped — cast it any time. | — |
 | **Tapped** | Cast. In your discard, or *in play* while a lasting effect runs. | Sleep budget — or a burn recasts it. |
-| **Burned** | Exiled as fuel. Gone. | Sleep budget. Nothing else. |
+| **Burned** | Exiled as fuel. Still fills a hand slot. | Sleep budget. Nothing else. |
 
-**Lasting** is a special case: the card stays *in play* while the effect runs. If you
-spend sleep recovery to untap that card, the effect ends.
+**Lasting** is a special case: the card stays *in play* while the effect runs. On sleep
+redraw or a one-hour swap you may leave lasting cards in place; swapping one out or
+spending sleep recovery to untap it **ends the effect**.
 
 Tapped and burned are very different fates. A tapped card can be bought back with a burn.
 A burned card is spent until you rest — you cannot burn a card to recover a burned card,
 and no working, no gold, no clever reading brings one back early.
 
-**One name per hand.** You cannot hold two cards for the same spell (two *Knock*s).
+**One ready name per hand.** You cannot hold two *ready* cards for the same spell. A
+burn-**copy** under an in-play lasting working is allowed — that is not a second ready card.
 
 ## The Sorcerer
 
@@ -111,7 +114,8 @@ kicks) — they do **not** hold cards. Your **hand** is personal; the cards live
   spellbook cuts off redraws and swaps — the deck can be taken, the hand cannot.
 
 **Initiative.** On Roll Initiative, add **one die per Arcana slot** you declared — all of
-them. Drip riding in those slots does not also add weapon-in-hand dice (no double-dip).
+them, empty or filled. Drip riding in those slots does not also add weapon-in-hand dice.
+Arcana slots **never** also count toward the empty-inventory Initiative dice (max 4).
 
 ### Wizard Drip
 
@@ -147,7 +151,8 @@ normal slot cost** (a staff is 3 Arcana slots, not 1).
    working stays **in play** for its duration, then joins the discard.
 
 The caster is exposed like anyone taking an Action; struck mid-cast, you defend with Sword
-like anyone.
+like anyone. There is **no special cast penalty** — the hit does not abort the working or
+force the card to tap.
 
 **When a cast Sparks.** With a Spark you may spend it on the *working itself* — another
 target caught, a beat longer, a ward pierced (Referee's call) — or spend up to L
@@ -161,13 +166,15 @@ fitting outcome: singe an ally, alert the ward, the card taps with no effect).
 When it comes down to the wire: what will you burn? What won't you need again before you
 rest?
 
-You may **burn** ready cards from your hand **as part of the same cast Action** — the
-burns and the cast together, with at least L Fuel dice rolled as usual — to do one of two
-things:
+You may **burn** ready cards from your hand **as part of the same cast Action** — burns
+and the working together. One Action may burn any number of ready cards (levels covering)
+**and** resolve a cast, recast, or copy; roll at least L Fuel dice for the working that
+lands. Burns enable:
 
 - **Recast** a spell in your discard, or
 - **Copy** a spell you have in play — a second working alongside the first. Place the
-  burned card face-down beneath the active one to mark the copy.
+  burned card face-down beneath the active one to mark the copy (does not break *one ready
+  name*).
 
 **The rules of the fire:**
 
@@ -178,6 +185,7 @@ things:
   is wasted.
 - **Scrolls never burn.** See [Scrolls](#scrolls).
 - **Burned is burned** until sleep recovery spends a card from your budget to return it.
+  Burned cards still occupy hand size.
 
 Every card in your hand is a cast — and every card is also fuel for a repeat of something
 better. You cannot have both.
@@ -190,7 +198,11 @@ budget is **one pool** — each card you recover costs one card from the budget,
 are untapping a tapped card or returning a burned one. Spell level does not matter; five
 1sts and one 5th both cost one card each.
 
-Recovering a **lasting** card untaps it and **ends the effect**.
+A character with **both** Sorcerie and Craft (Canting) uses **one hand** and **one
+split**; the sleep budget is the **higher** of Sorcerie Level and Craft Level.
+
+Recovering a **lasting** card untaps it and **ends the effect**. On redraw you may instead
+**leave lasting cards in place** (see *Changing Your Hand*).
 
 On the same sleep you may **re-split** physical vs Arcana slots and **redraw your hand**
 (see below).
@@ -202,10 +214,12 @@ spellbook, or a captured grimoire you can read (see *Spellbooks*).
 
 - **Rest: full redraw.** On an 8-hour sleep with a readable source in reach, rebuild your
   hand freely from your deck — any known spells, up to your caster level, one per hand
-  slot, unique by name.
+  slot, unique by name. You may **keep lasting cards in play**; swapping one out or
+  spending sleep recovery on it **ends the effect**.
 - **One hour: swap one card.** With an hour of study and the source in hand, exchange one
   card in your hand for one from your deck. **The incoming card inherits the outgoing
-  card's status** — swap out a tapped card and the new card arrives tapped.
+  card's status** — swap out a tapped card and the new card arrives tapped. Swapping out a
+  lasting card **ends its effect**.
 
 ## Scrolls
 
@@ -240,16 +254,19 @@ you have a **Vitae** Trait, or **Craft** with herbalism or alchemy, you may brew
 from a known formula — a Vitae working you hold in a readable source, or another recipe
 the Referee grants. Cost: **100 gp × the spell's level** in reagents and about a week ×
 its level. Touch or self effects only — what a draught can hold. The potion is one dose,
-**1 slot** (physical or Arcana); **anyone may drink it**. Recipe and gold decide it — no
-Sorcerie rank required. Found potions stay treasure.
+**1 physical slot** (never Arcana — potions are not Wizard Drip); **anyone may drink it**.
+Recipe and gold decide it — no Sorcerie rank required. Found potions stay treasure.
 
 ## Ritual Casting
 
-A known spell can still be worked straight from the open book — no card — but slowly,
-rooted in place, and only while you sustain it. Ten minutes per spell level; leave the
-circle or close the book and the working collapses retroactively. What a ritual puts in
-your *mind* stays. Ritual casting taps nothing and burns nothing; the cost is time and
-stillness. Never a combat option.
+A spell **learned into your own book** can be worked straight from an **open readable
+source** — your book, or another book you can read that holds that same working — no card,
+but slowly, rooted in place, and only while you sustain it. Found-book spells you have
+memorized into your hand but not yet scribed are for the hand and redraw only; they are
+**not** ritual fodder until they live in your personal book. Ten minutes per spell level;
+leave the circle or close the book and the working collapses retroactively. What a ritual
+puts in your *mind* stays. Ritual casting taps nothing and burns nothing; the cost is time
+and stillness. Never a combat option.
 
 **Knowledge is the exception.** Whatever a spell puts in your *mind* stays — *Detect
 Magic*'s auras, a divination's answer, anything the Referee judges is now simply known.
@@ -297,7 +314,8 @@ say *Arcana*.
 
 All the card rules apply: **Craft** is caster level in place of Sorcerie; hand size is
 kick count; tapping, burning, and sleep run identically. **Canting Trait** opens the
-school; you need not be a Sorcerer.
+school; you need not be a Sorcerer. A character who also has Sorcerie still runs **one
+hand** and **one split**; sleep recovery uses the **higher** of Sorcerie and Craft.
 
 **Canting drip is different in the fiction — a lot more black.** Kicks hold the working
 kit: rope, picks, a dark lantern, a betty, chalk, a muffler, soft-soled stampers — anything
@@ -339,9 +357,12 @@ dice are spent for the fight. Your **defense total** opposes the cast total. Cho
 whichever Approach fits; the spell may suggest one (*Defend: Sword*, *Defend: Heart*, and
 so on). Commit as many Fuel dice as you choose — no cap.
 
-**Warding.** A Sorcerer adjacent to an ally or a tight group may **Defend for them** —
-commit Fuel on their behalf (see *Ward* in [[Burners Adventure Game]]). No card language;
-Fuel only.
+**Warding.** Any **Sorcerer** (Sorcerie 1+) adjacent to an ally or a tight group may
+**Ward** hostile magic aimed at them — a spell's cast total, magical breath, and the like
+(not mundane fire alone). Commit up to your **Sorcerie Level** in Fuel dice; subtract their
+sum from the attack value. **Each ally then Defends normally** against what remains. No
+school Trait; no card. Craft-only Canting Journeymen cannot Ward. See *Ward* in
+[[Burners Adventure Game]].
 
 - **Defense ≥ cast:** fully defended — no effect, no HP loss.
 - **Defense < cast:** **overrun** = cast − defense. Apply per the harm/effect lanes above.
@@ -351,14 +372,18 @@ allow no Defend. Area workings: each target Defends separately against the same 
 
 ## Reading Magic
 
+Literacy and deeper probe are one working: ***Read Magic*** (Sorcerie 1 — always known to
+every Sorcerer). See its entry on [[Burners Spells]].
+
 If you have a Trait in a magic school you are a practitioner of it: literate in its
 abstruse language up to your level. In a school you are trained in you read the plain
 words of its writing for free — see the runes, count them, know their literal meanings;
-the script of a school you hold no Trait in is chicken-scratch until the *Read Magic*
-working deciphers it. What always costs you is **interpretation**: the enchantment beneath
-the script, what the words do, how they combine, what wakes them.
+the script of a school you hold no Trait in is chicken-scratch until *Read Magic*
+deciphers it.
 
-Studying a writing or item is an Action; describe how deep you probe. Interpretation is a
+**Cast or work *Read Magic*** to open foreign script (found books, scrolls, glyphs). Once
+you have read a book's hand, you can always read that script again. Optionally go deeper:
+studying a writing or item is an Action; describe how deep you probe. Interpretation is a
 Step-2 risk — the deeper the reading, the steeper the Cost (HP, time, noise, or a Spicy
 twist). Roll it out (Sorcerie, out of danger). On a success the Referee reveals one
 **Fact** at the depth you reached — a power (what it does), a demand (what it costs), or
@@ -376,7 +401,7 @@ you still need a readable source (or to move it into your book).
 | Sorcerie | Role |
 | --- | --- |
 | **0** | Cannot cast |
-| **1+** | Sorcerer — magic on |
-| **Higher** | Caster level: learn higher-level spells (up to level = Sorcerie); stronger Sorcerie rolls; sleep recovery budget = Sorcerie Level in cards |
+| **1+** | Sorcerer — magic on; may Ward |
+| **Higher** | Caster level: learn higher-level spells (up to level = Sorcerie); stronger Sorcerie rolls; sleep recovery budget = Sorcerie Level in cards (or higher of Sorcerie/Craft if both) |
 
 See **[[Burners Spells]]** for the school lists and every working.

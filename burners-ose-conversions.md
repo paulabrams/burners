@@ -155,8 +155,8 @@ An OSE save is a pointer to a Burners subsystem — see [[Burners Principles#Rou
 | **Save vs. Poison (or die)** | **Defend** (Craft) to avoid; **lingering Cost** once it lands. See [[Burners Principles#No instant death]]. |
 | **Save vs. Paralysis** | **Defend** (Craft or Sword) at the touch; fall short and you **stiffen** for a stated clock (ghoul-chill, 2d6 rounds) — recoverable, not permanent. |
 | **Save vs. Petrify** | **Counting doom**: repeated **Defends** (Craft or Sword), each miss a step toward stone; it recovers. Averting your eyes is the counterplay, at the price of fighting blind. |
-| **Save vs. Spells / Wands / Rods / Staves** | Fuel **Defend** vs **cast total**; roll initiative OOC. See [[Burners Principles#Granular defense, not binary save]] and [[Burners Principles#Harm and effect are separate lanes]]. Warding: adjacent Sorcerer may Defend for allies. |
-| **Save vs. Death effects** | **Shock Check** and **Wounds** — see [[Burners Principles#No instant death]]. |
+| **Save vs. Spells / Wands / Rods / Staves** | Fuel **Defend** vs **cast total**; roll initiative OOC. See [[Burners Principles#Granular defense, not binary save]] and [[Burners Principles#Harm and effect are separate lanes]]. **Ward:** adjacent Sorcerer commits ≤ Sorcerie Level Fuel to cut the attack, then each ally Defends. |
+| **Save vs. Death effects** | **Shock Check** and **Wounds**, then post-fight help + Craft survival — see [[Burners Principles#No instant death]] and [[Burners Adventure Game#Wounds]]. |
 
 **Which Approach?** Craft to dodge a dart, pit, or poison; Sword to force a door, hold your feet, or stay conscious; Heart against fear and horror; Sorcerie to dredge up what you know against the uncanny. The player may argue for another Approach if the fiction fits. When in doubt: Craft to avoid, Sword to endure.
 
@@ -185,7 +185,7 @@ See [[Burners Principles#Armor and Resistance soak; they never roll]].
 
 Every Resistance above a point or two **names its cause** — see [[Burners Principles#Armor and Resistance soak; they never roll]]. A named weakness **ignores** Resistance, the way a Bane-forged weapon ignores its quarry's soak (see [[Burners Arms and Armor]]).
 
-**Energy drain** (wights, wraiths, spectres): see [[Burners Principles#No instant death]].
+**Energy drain** (wights, wraiths, spectres): **no levels lost.** A successful drain touch opens a **Wound** even above 0 HP. After the fight: help + Craft survival, or die. If you **die from that creature's attack**, its **monster special** may fire (rise as spawn, and so on) — write it on the block; telegraph it. See [[Burners Principles#No instant death]].
 
 **Mobs vs. the unearthly:** see [[Burners Principles#Armor and Resistance soak; they never roll]].
 
@@ -230,7 +230,7 @@ Port OSE spells onto [[Burners Spells]] when a match exists; otherwise write a o
 
 ## Magic Items
 
-Potions, rings, cursed items, and wondrous items port **as written** — they are fiction plus a rule, and the fiction is the value. **Magic items grant no XP**; the item is the reward (see *XP Awards*). Wands and staves are Sorcerer tools — run them as **Arcana** (map their effects by spell level; they are finds, not shop goods — see [[Burners Sorcerie]]), or, for a one-off, keep their charges as a simple budget.
+Potions, rings, cursed items, and wondrous items port **as written** — they are fiction plus a rule, and the fiction is the value. **Magic items grant no XP**; the item is the reward (see *XP Awards*). Wands and staves that fit **Wizard Drip** ride in Arcana slots at full slot cost (finds, not shop goods — see [[Burners Sorcerie]]); they do not add hand cards. Item powers run as magic items, or for a one-off keep charges as a simple budget.
 
 ### +n Arms, Shields, and Armor → Enchanted + Powers
 

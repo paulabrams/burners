@@ -81,17 +81,17 @@ Quick definitions. Details live in the chapters below.
 
 ### HP, Heat, and Wounds
 
-- **HP:** luck and wind, not meat. One d6 per character level, rolled at creation. Reroll at level-up and keep the higher of the new total or old+1. Bites come off your HP first; only overflow past 0 opens a wound. Reach full HP and your wounds close.
+- **HP:** luck and wind, not meat — **hit protection**. One d6 per character level, rolled at creation. Reroll at level-up and keep the higher of the new total or old+1. Bites come off HP first. Reach **full HP** and your wounds close.
 
 - **Heat:** your crew's shared danger gauge. How hot the *scene* is, not your hit points. Most risky actions out of combat quote a Cost against Heat. If you split the party, each group tracks its own Heat.
 
 - **Feeding Heat:** when a risky action goes wrong, Heat usually rises (often 1–2). In a fight, blows hit HP, not Heat. Heat climbs only when the situation turns worse (alarm, reinforcements, a friend down).
 
-- **Wound:** real injury when a blow drives you past 0 HP, or when you're helpless and struck. Your HP tally goes negative; you make a Shock Check. Penalties last until you reach **full HP** (maimings excepted).
+- **Wound:** real injury. You take one when an attack leaves you at **0 HP or less**, when **level drain** hits (even above 0), or when harm lands where **HP cannot help**. Track **wound severity** (sum of overflow from wounding attacks). Penalties last until **full HP** (maimings excepted). See *Wounds*.
 
 - **Wound effects:** where you were hit matters. A leg wound drops you prone. A head hit narrows your sight. And so on.
 
-- **Shock Check:** when a wound drives you past 0, roll 2d6 + Sword against how far below 0 you are. Beat it and stay fighting; miss and read the raw 2d6 on the Shock table (12 is a shrug, 2 is catastrophe). Past −12 the same roll decides life or death. See *Wounds*.
+- **Shock Check:** when a Wound opens, roll **`2d6 + Sword` vs total wound severity** this fight — whether you stay combat-effective, not whether you die. Natural **1+1** always fails; **6+6** always succeeds. See *Wounds*.
 
 ### Play
 
@@ -138,10 +138,7 @@ Quick definitions. Details live in the chapters below.
 
 - **Cast (Sorcerer only):** one Action in combat; spend at least Spell Level Fuel dice and roll them. The **cast total** is the sum of those faces. On a Spark, you may spend up to Spell Level additional Fuel for extra effect. The spell's **card taps** (or stays *in play* if lasting). You may **burn** other ready cards in the same Action to recast from discard or copy a working in play. See *Magic* and [[Burners Sorcerie]].
 
-- **Ward (Sorcerer only):** at any time, magically defend ("ward!") adjacent allies from a hostile magical attack. Commit up to your Sorcerie Level in Fuel dice. This reduces the magical attack value for all of those allies, who then defend normally. This does not take an action. Examples:
-
-- *Vampire charm:* a vampire *charms* a friend. The sorcerer says "Ward!". They are Sorcerie 1 and commit 1 Fuel (value 5), reducing the incoming *charm* attack strength so hopefully their friend brushes it off.
-- *Dragonfire:* a dragon breathes fire on the party! Their sorcerer says "ward!". They are Sorcerie 3 and commit 3 Fuel (total value 21), off the top, for all the allies.
+- **Ward (Sorcerer only):** at any time, cut a **hostile magic** attack (spell cast total, magical breath, and the like — not mundane fire alone) aimed at adjacent allies or a tight group. Commit up to your **Sorcerie Level** in Fuel dice; subtract their sum from the attack value. **Each ally then Defends normally** against what remains. No school Trait required; no card. Does not take an Action. Example: a vampire *charms* a friend — Sorcerie 1 commits 1 Fuel (face 5), cutting the cast total before the friend Defends.
 
 ### Monsters
 
@@ -364,7 +361,7 @@ NOT     spells · Arcana · Sorcerie school
 
 ## HP, Heat, and Armor
 
-You have HP of one d6 per character level, rolled. Just 1d6 at first level. Reroll on each level-up for the higher of the new total or the old plus one. HP is not meat. It is luck, wind, and the reflex to turn a blow. Blows come off your HP as near-misses. Only overflow past 0 opens a Wound, driving your HP into the negative. That running tally is your true flesh until you are whole again (see Wounds and Healing and recovery).
+You have HP of one d6 per character level, rolled. Just 1d6 at first level. Reroll on each level-up for the higher of the new total or the old plus one. HP is not meat. It is luck, wind, and the reflex to turn a blow — **hit protection**. Blows come off your HP as near-misses. An attack that leaves you at **0 or less** opens a **Wound** (see *Wounds*). Overflow past 0 deepens the negative tally and adds to **wound severity**.
 
 Heat is the other track. It is not a pool of hit points. It is the scene's pressure, shared by your whole crew. It is the difficulty your out-of-combat costs are quoted against, and the clock that tells you how close the job is to going wrong. Every scene opens at a base (a quiet meet 3-4, a working delve or a parley that matters 6, a blown job or a hall on fire 8) and climbs as costs mount. Blows in a fight do not feed it; those go to HP. Heat rises in a fight only when the Referee judges the danger has turned. It has no ceiling. A hot scene is simply a dangerous one.
 
@@ -396,11 +393,11 @@ Armor is what you wear. It soaks on the way in. Its AC comes off every blow befo
 
   - 4 HP and leather (AC 1). With Sword 0 her defense is thin and her HP goes fast, so she survives by staying out of reach, not by soaking blows.
 
-  - Traits: marsh-lore, second-sight, witch-blood, studious (Sorcerie).
+  - Traits: marsh-lore, second-sight, witch-blood, Vitae (Sorcerie).
 
-  - Hand: *Stanch* and *Mend*, two Vitae cards ready from her book; three other slots open until she redraws on rest.
+  - Hand: *Read Magic*, *Healing Touch*, *Stanch*, and two other 1sts from her book — all five ready. *Stanch* is the card that helps at 0 HP or less; *Healing Touch* does not.
 
-  - Split: 5 Arcana slots (hand size 5), 7 physical — a wand in one kick of drip, the rest plain kit.
+  - Split: 5 Arcana slots (hand size 5), 7 physical — a wand as Wizard Drip in Arcana slots, the rest plain kit.
 
 - **Pip**, Craft 1 (Journeyman). "Has never been caught. Not once."
 
@@ -501,13 +498,23 @@ A coup de grace finishes a helpless foe outright. A truly helpless foe (bound, a
 
 ### Wounds
 
-When a blow drives you past 0 HP, you open a Wound. Resolve it once, then carry it. Wounds accumulate, and they are yours alone, not shared with your crew.
+You take a **Wound** when:
+
+- an attack leaves you at **0 HP or less**;
+- **level drain** hits you (even if you are still above 0);
+- or harm lands where **HP cannot help** (helpless coup, some poisons, module specials — Referee's call).
+
+Resolve each Wound once, then carry it. Wounds accumulate. Penalties last until you reach **full HP** (maimings excepted).
+
+**Wound severity.** Keep a running total for the fight: for each attack that caused a Wound, add its **overflow** past 0 (damage that drove you below 0 after armor). A blow that lands you **exactly at 0** is severity **0**. Level drain or other non-HP Wounds add **0** unless that same attack also overflowed HP. Severity is not "current negative HP" alone — you can be Wounded while still above 0.
 
 1. Find the location. Use a named spot if someone called it, or roll 1d6: 1 head, 2 torso, 3 waist, 4 arm, 5 hand, 6 leg. A limb is left or right, by the fiction or a coin, and a hit takes one limb.
 
-2. Deepen the wound. The overflow past 0 drives your HP that far below zero, raw, since armor already worked on the way in. This negative tally is your flesh, and it accumulates across every wound. -12 is the floor. Reach it (from this blow, from a later wound, or from the deep bite of a Shock result) and the wound is a killing one, resolved by the Shock Check below. You die unless you pass it or roll a natural 12. Short of -12, that same check simply asks whether you stay standing.
+2. Deepen the tally. If the blow drove you below 0, your HP goes that far negative (armor already worked on the way in). The negative tally is flesh; it accumulates. Severity for the fight rises by that overflow.
 
-3. Apply the effect. A vital wound leaves you up and fighting but carries a location effect. A limb wound disables that limb.
+3. Apply the location effect. A vital wound leaves you up and fighting but carries a location effect. A limb wound disables that limb.
+
+4. **Shock Check** — immediately. This asks whether you stay **combat-effective**, not whether you die.
 
 #### Location effects
 
@@ -525,13 +532,11 @@ Prone is a real penalty. You cannot Dodge, so any blow you do not actively meet 
 
 #### The Shock Check
 
-Every wound puts your footing in question. Roll 2d6 + Sword against your negative HP (how far below 0 you now are). Meet or beat it and you keep your feet, shaken but still fighting. Fall short and the shock lands. Read the raw 2d6 on the table below, worst at the bottom. A natural 2 is the catastrophe. A natural 12 is a clean shrug. Every new wound deepens your tally and raises the bar. The deeper you are cut, the harder it is to stay standing.
-
-When the wound has driven you to -12 or past, the same roll turns lethal. No longer whether you stay standing, but whether you live at all. You cling on (dropped unconscious, held at the brink at -11, alive and out of the fight) if you either meet your negative HP or roll a natural 12. Anything else is death, though the Referee may offer a maiming in its place. The bar is your own depth. If you are hardened you can shrug a blow that just tips you over. If you were flung far past the floor you are beyond saving by any total, and there the natural 12 is the last thread: a 1-in-36 miracle. Sword is grit. Boxcars is fortune. You hang on by the first, or by the second no matter how deep you were driven.
+Every Wound puts your footing in question. Roll **`2d6 + Sword` against total wound severity** this fight. Meet or beat it and you keep fighting, shaken. Fall short and the shock lands — read the raw 2d6 on the table below (worst at the bottom). Natural **1+1 always fails**; natural **6+6 always succeeds**, whatever the Cost.
 
 | 2d6 | Shock |
 | --- | --- |
-| 2 | Knocked out, and the wound bites deep: add the shortfall to your negative HP. |
+| 2 | Knocked out, and the wound bites deep: add the shortfall to your negative HP (and to severity). |
 | 3 | Knocked out: down, out of the fight, senseless. |
 | 4 | Knocked out: down, out of the fight, senseless. |
 | 5 | Sprawled and disarmed: knocked prone, and you drop what you hold. |
@@ -547,23 +552,29 @@ If you have nothing to drop (you're unarmed or casting), the Referee swaps a dis
 
 #### Going Down
 
-A downed ally is knocked out, not dead, until −12 or a coup de grace. Win the fight before they are finished or driven that deep, and they come to when it ends.
+A downed ally is knocked out, not dead — until a coup de grace finishes them, or the fight ends without help (below). Win the fight and get them help.
+
+#### After the fight — survival
+
+After **any fight in which you took a Wound**, you **die** unless you receive **help** in time (an ally's Action, first aid, *Stanch*, Vitae, or other care the Referee accepts).
+
+Helped, you make a **survival check**: **`2d6 + Craft` vs total wound severity**. An ally who assists may let you use **their Craft** in place of yours. Natural **1+1 always fails**; **6+6 always succeeds**. Fail, or go unhelped → **dead**.
+
+Death is death. Some monsters (wights, and other drain undead) have **special rules** that kick in if you die from their attack — rising as spawn, and so on. See the monster and [[Burners Referee Guide]].
 
 #### Healing and recovery
 
 **Full HP closes wounds.** Maimings at the brink do not heal on their own.
 
-The rules below are **Hour Rest**, the default recovery. The [[Burners Referee Guide]] offers **Classic Crawl** (1d3 HP per day in a safe haven) as an alternative. The table or Referee picks one at session zero and keeps it for the campaign.
+- **Hour Rest** (one hour, food and water): recover **all HP** to maximum — **only if you have no Wound**. If you are Wounded, Hour Rest does nothing for HP until you are whole again.
+- **Wounded:** recover **1 HP per day** naturally (safe rest with food) until **full HP**, then the Wound closes. *Stanch*, other Vitae, potions, and chirurgeons can restore HP sooner; *Healing Touch* does not help at **0 HP or less** — that is *Stanch*.
+- **First aid** (Craft): tends a wound in the field; it does not restore HP by itself, but can be the **help** that lets you attempt the survival check.
 
-- **Rest** (one hour, food and water): recover **all HP** if you are at 0 or above. Does not restore HP while you are below 0 (negative). When you hit your maximum, wounds close as above.
-- **Sleep** (eight hours, food): while HP is below 0, recover 1 HP per night toward 0. Once you are at 0 or above, a rest refills you to maximum in an hour (a safe night with food counts). When you hit your maximum, wounds close as above.
-- **First aid** (Craft): tends a wound in the field; it does not restore HP. Vitae can restore HP mid-fight or rouse the fallen; HP gained still counts toward full.
+*Example. Aldric (Sword 1, maximum 4 HP) is driven to −3 by a blow of overflow 3: Wound, severity 3, leg — prone. Shock (`2d6 + Sword` vs 3) beats it; he stays effective but ground-bound. After the fight an ally helps; survival (`2d6 + Craft` vs 3) succeeds. He climbs 1 HP per day (−2, −1, 0, 1…) until full 4; then the Wound closes. Hour Rest would not have filled him while Wounded.*
 
-*Example. Aldric (Sword 1, maximum 4 HP) is driven to −4 with a leg wound: prone, soft-target, the penalties ride. Rest does nothing while he is negative. Each safe night with food adds 1 HP: −3, −2, −1, 0. Four days to climb out of the wound-depth. Then one hour's rest with food and he is back at 4 HP, whole. The leg works. The soft-target clears. The negative tally is gone.*
+The danger is the Wound. Every one is a Shock Check in the fight and a survival check after. Cover downed friends. Reach full HP and you are whole again.
 
-The danger is being driven past 0. Every wound is a Shock Check. You need to cover downed friends. Reach full HP and you are whole again. Linger hurt and the penalties ride until you do.
-
-*The crew fights an ogre in a working scene. Heat at 6. Aldric (Sword 1, 4 HP, chain mail AC 3, arming sword, rotella) rolls Initiative for seven dice. His twelve are full (mail 6, sword 2, shield 4), so no empty-slot dice. Two for the sword, four for the shield, one for his level: 6, 5, 4, 3, 2, 2, 1. Three show 3 or 4, so his Initiative is 3. The Referee locks order; Aldric beats the ogre's count and acts first. On his turn a Veteran gets two attacks. With a one-handed sword (2 slots) each is a single die, so he spends the 5 and the 3 for blows of 5 and 3. Eight into the ogre. No 6 among them, so no Spark. He has meleed this round, so when the ogre's great club comes — three dice for a blow worth 10 — Aldric Defends without limit. He spends the 6 and the 4 to cut all 10. His chain mail is never tested. Order stays locked even though he spent a 4. Fuel left: 2, 2, 1, plus the refill the next Roll Initiative brings. Next round they Roll Initiative — refill one die for his level — and lock order again. The ogre swings for 10 again. Aldric spends his 2, 2, 1 and the refill to cut 8. His chain mail soaks the rest, so nothing lands, but his hand is now empty. The round after, winded, the blow arrives whole: 10 less 3 for chain mail is 7. With 4 HP he is driven to -3, a leg Wound that leaves him prone. His Shock Check (2d6 + Sword against that wound-depth of 3) beats it, so he stays on his feet, but his dice are gone. Finish it or fold.*
+*The crew fights an ogre in a working scene. Heat at 6. Aldric (Sword 1, 4 HP, chain mail AC 3, arming sword, rotella) rolls Initiative for seven dice. His twelve are full (mail 6, sword 2, shield 4), so no empty-slot dice. Two for the sword, four for the shield, one for his level: 6, 5, 4, 3, 2, 2, 1. Three show 3 or 4, so his Initiative is 3. The Referee locks order; Aldric beats the ogre's count and acts first. On his turn a Veteran gets two attacks. With a one-handed sword (2 slots) each is a single die, so he spends the 5 and the 3 for blows of 5 and 3. Eight into the ogre. No 6 among them, so no Spark. He has meleed this round, so when the ogre's great club comes — three dice for a blow worth 10 — Aldric Defends without limit. He spends the 6 and the 4 to cut all 10. His chain mail is never tested. Order stays locked even though he spent a 4. Fuel left: 2, 2, 1, plus the refill the next Roll Initiative brings. Next round they Roll Initiative — refill one die for his level — and lock order again. The ogre swings for 10 again. Aldric spends his 2, 2, 1 and the refill to cut 8. His chain mail soaks the rest, so nothing lands, but his hand is now empty. The round after, winded, the blow arrives whole: 10 less 3 for chain mail is 7. With 4 HP he is driven to −3 — a Wound (severity 3), leg, prone. Shock (`2d6 + Sword` vs 3) beats it, so he stays effective on the ground, but his dice are gone. Finish it or fold — and get him help when it ends.*
 
 When you face control magic, you **Defend** the same way you defend a blow, but a clean overrun lands the effect (stun, hold, charm, sleep), not HP damage. See *Defending against a spell* in [[Burners Sorcerie]].
 
@@ -578,8 +589,8 @@ Each Combat Round is one minute. You act in locked Initiative order. On your tur
 - one die per character level;
 - one die per slot if you have a weapon in hand;
 - one die per slot if you have a shield in hand;
-- one die per **Arcana slot** you declared (all of them — drip in those slots does not also count as weapon-in-hand dice);
-- one die per empty inventory slot, up to 4.
+- one die per **Arcana slot** you declared (all of them, empty or filled — drip in those slots does not also count as weapon-in-hand dice; Arcana slots never also count toward empty-slot dice);
+- one die per empty **physical** inventory slot, up to 4.
 
 Roll them all. The faces you rolled, kept as they lie, are your Fuel for the fight. Your Initiative is the count of them showing 3 or 4. The Referee locks order for the round — highest first. Ties: PCs win; among PCs the players choose who goes first; a PC tied with a foe may act first or yield.
 
@@ -651,7 +662,7 @@ There is no defense roll to fail; when struck you commit dice from your Fuel and
 
 ## Magic
 
-Magic is prepared, not spontaneous. Spells are **cards**: your spellbook is the deck, your **hand** is what you can cast now, and your **Arcana slot count** sets hand size. Arcana slots hold **Wizard Drip** (or a Canting rogue's kicks), not cards — the hand is personal. **Cast** taps a card; **burn** exiles ready cards in the same Action to recast or copy. After 8 hours' sleep you recover up to Sorcerie Level cards (Craft Level for Canting) from tapped/burned/lasting. **Scrolls** are single-use items (physical or Arcana slot), not cards — cast and spent; hand untouched. **Potions** are downtime brew; anyone may drink. Hostile magic is Defended like steel.
+Magic is prepared, not spontaneous. Spells are **cards**: your spellbook is the deck, your **hand** is what you can cast now, and your **Arcana slot count** sets hand size. Arcana slots hold **Wizard Drip** (or a Canting rogue's kicks), not cards — the hand is personal. **Cast** taps a card; **burn** exiles ready cards in the same Action to recast or copy. After 8 hours' sleep you recover up to Sorcerie Level cards (Craft Level for Canting) from tapped/burned/lasting. **Scrolls** are single-use items (physical or Arcana slot), not cards — cast and spent; hand untouched. **Potions** are downtime brew in a **physical** slot; anyone may drink. Hostile magic is Defended like steel.
 
 Magic touches your game in two places. The Sorcerer title (Sorcerie 1) lets you cast. Your combat cast is one Action that spends at least L Fuel dice (L = the spell's level) and rolls them for the cast total. The spell catalog is [[Burners Spells]].
 
@@ -666,13 +677,14 @@ The full rules are on **[[Burners Sorcerie]]**. The catalog is **[[Burners Spell
 ```
 WHO     Sorcerer (Sorcerie 1+); Journeyman + Canting Trait (Craft 1+) for Canting only
 WHAT    school spells ([[Burners Spells]]), by level — cards in hand, deck in spellbook
-HAND    size = Arcana slot count; unique spell names; 7+5 start (Sorcerer: 5 spells ready; Canting: empty)
-WHEN    redraw or swap = sleep + source, or 1 hour swap one card; sleep recovers ≤ Level cards (untap/burn/lasting)
+HAND    size = Arcana slot count; unique spell names; 7+5 start (Sorcerer: 5 spells ready; Canting: empty); multiclass = one hand, sleep = higher of Sorcerie/Craft
+WHEN    redraw or swap = sleep + source, or 1 hour swap one card; sleep recovers ≤ Level cards (untap/burn/lasting; lasting may stay)
 HOW     combat cast = one Action, ≥ L Fuel dice → cast total; tap card; burn ready cards same Action to recast/copy
 SCROLL  item, not card; Action + L Fuel; spent; Sorcerer or Canting Journeyman + school Trait
-DEFEND  hostile magic: initiative if needed; Fuel vs cast total; Warding = Fuel only (no card)
+POTION  physical slot only; downtime brew; anyone drinks
+DEFEND  hostile magic: initiative if needed; Fuel vs cast total; Ward = ≤ Sorcerie Level Fuel cuts attack, then each ally Defends (Sorcerer only; magical breath OK)
 ROLL    out of combat, 2d6 + Sorcerie (or Craft for Canting)
-LIMITS  learn ≤ Sorcerie/Craft · ritual = known + open book · no spontaneous cast · no spell-Signatures
+LIMITS  learn ≤ Sorcerie/Craft · ritual = learned into own book + open readable source · no spontaneous cast · no spell-Signatures
 ```
 
 ## Lingering Costs: Poison, Petrification, Paralysis
@@ -681,7 +693,7 @@ When you **Defend** cleanly you avoid the bite: the fitting Approach against its
 
 ## Area Effects
 
-Counter a monster breath by raising your shield (a legendary shield is broad), by warding it yourself or having an ally cast (an Action and a bump of Heat, cutting the top off for everyone), by cover, or by resistance. A **spell** area effect uses **Defend** and overrun like any other hostile working (see *Defending against a spell* in [[Burners Sorcerie]]).
+Counter a monster breath by raising your shield (a legendary shield is broad), by **Warding** magical breath (Sorcerer Fuel cut, then each ally Defends), by cover, or by resistance. A **spell** area effect uses **Defend** and overrun like any other hostile working (see *Defending against a spell* in [[Burners Sorcerie]]).
 
 ## Influence
 

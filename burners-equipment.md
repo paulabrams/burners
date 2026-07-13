@@ -126,9 +126,12 @@ Garrison troops hired by the month live under *Mercenaries* in [[Burners Adventu
 
 ## Magic Items
 
-Refer to [[Burners Sorcerie]] for sorcerer items: Arcana (finds only), scrolls, and potions.
+Refer to [[Burners Sorcerie]] for sorcerer gear: **Wizard Drip** in Arcana slots (allow-list
+items at full slot cost — finds for enchanted drip), **scrolls**, and **potions** (physical
+slots). Spells live in the **hand** and spellbook, not in the focus.
 
-Magic items are rarely for sale at any price. Scrolls and potions you make yourself; Arcana and enchanted arms you find or earn.
+Magic items are rarely for sale at any price. Scrolls and potions you make yourself;
+enchanted drip and arms you find or earn.
 
 ## Pricing Anything Else
 

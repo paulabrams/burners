@@ -41,7 +41,9 @@ A binary save asks *did you avoid it?* Burners asks *how much did you stop, and 
 
 Lethality lives in **attrition and ambush**, not in big single numbers. Your Fuel only shrinks over a fight; when it runs dry, blows arrive whole. Surprise skips the exchange — a foe you never saw strikes a Fuel you have not rolled.
 
-Past 0 HP, blows open **Wounds**; each is a Shock Check as your negative tally falls toward −12. The stack of wounds drops or kills you — not a single failed save, not the passage of time alone.
+Past 0 HP, blows open **Wounds**; each is a Shock Check (combat-effective). After the fight,
+unhelped Wounds kill; helped, a Craft survival check decides. The stack and the survival roll
+kill you — not a single failed save, not the passage of time alone.
 
 Steel and sorcery share the same pool. The danger is the turn you are winded with workings still flying.
 
@@ -53,11 +55,11 @@ Steel and sorcery share the same pool. The danger is the turn you are winded wit
 
 **HP** is plot armor — luck, wind, near-misses. Blows come off HP and you shrug them. Nothing is torn yet.
 
-Past **0**, the shit gets real. Overflow opens a **Wound**: a negative tally that is your actual flesh, a location, an effect, a Shock Check (−12 is the floor).
+Past **0**, the shit gets real. Overflow opens a **Wound**: a negative tally that is your actual flesh, a location, an effect, a Shock Check for combat footing.
 
 **Reach full HP and every wound closes** — tally, penalties, soft-target marks. Maimings offered at the brink are the exception.
 
-Death lands in the fight — stack of wounds, failed Shock at the floor, or coup de grace on a helpless body — not on a later roll.
+Death lands after the fight — **unhelped Wound**, **failed Craft survival**, or a **coup de grace** on a helpless body — not from classic level loss, and not from Shock alone.
 
 ---
 
@@ -146,16 +148,18 @@ Poison, paralysis, petrification, death rays, and energy drain route into subsys
 - a **Defend** to avoid the touch;
 - a **lingering Cost** (level in HP per round for level rounds, no further defense);
 - a **counting doom** (repeated Defends, each miss a step toward stone);
-- **Shock Checks** and **Wounds** when HP goes past 0;
-- a **telegraphed area effect** you ward, cover, or eat.
+- **Wounds** and **Shock Checks** (combat-effective), then **help + Craft survival** after the fight — see [[Burners Adventure Game#Wounds]];
+- a **telegraphed area effect** you Ward (if magic), cover, or eat.
 
-Death comes in the fight — wounds driven to −12 with a failed Shock Check, or a coup de grace on a helpless body — not on a single failed save out of combat. The Referee may offer a maiming at the brink instead.
+**Energy drain** does **not** strip levels. A successful drain touch (wight, wraith, and kin) opens a **Wound** even if you are still above 0 HP — you are Wounded for recovery and post-fight survival. No Hour Rest until full HP. If you **die** from that creature's attack (unhelped or failed survival), the **monster's special** may fire — rise as spawn, and so on. Write it on the monster; telegraph it at the table.
+
+Death comes from **failed post-fight survival**, **unhelped Wounds after a fight**, or a **coup de grace** on a helpless body — not from a single failed save out of combat, and not from classic level loss. The Referee may offer a maiming at the brink instead.
 
 ---
 
 ## Telegraph the unwinnable
 
-A **monster** area effect — dragon breath, a collapsing ceiling — is often the blow you cannot slip. The Referee telegraphs it ("its chest glows") so warding, cover, or eating the quoted damage is a **choice**, not a gotcha. No Fuel Defend against a dragon's cone.
+A **monster** area effect — dragon breath, a collapsing ceiling — is often the blow you cannot slip as an ordinary Fuel Defend against a cast total. The Referee telegraphs it ("its chest glows") so cover, eating the quoted damage, or (if the breath is **hostile magic**) a Sorcerer's **Ward** is a **choice**, not a gotcha. Mundane cones and collapsing stone are not Warded.
 
 A **spell** cone or burst uses **Defend** and overrun like any other hostile working.
 
@@ -198,7 +202,7 @@ The full OSE routing tables live in [[Burners OSE Conversions]]. Read a stat blo
 - **Name the harm.** Resistance and weaknesses are fiction first; the numbers follow.
 - **No gotchas.** Face-up Fuel, announced Heat, telegraphed threats — warn before a sharp rule bites (Cover Sparks into the press), then honor the choice.
 - **Telegraph the big hits.** Dragon breath and collapsing ceilings are choices, not surprises sprung cold.
-- **Let the dread work.** Lingering Costs and wound depth do the horror; the Referee does not re-roll every round.
+- **Let the dread work.** Lingering Costs and wound severity do the horror; the Referee does not re-roll every round.
 - **Face the Heat dial.** Foreshadowing in module text is a raise; preparation is a reduction.
 - **Don't double-count dread.** Creature stats and scene Heat are separate levers.
 

@@ -118,45 +118,19 @@ The over-extended party is the danger this builds: the grind pushes Heat up even
 
 ### Cooling off — and how HP comes back
 
-Heat cools when the crew acts on the room (see Running Heat). **How fast HP returns is a campaign choice** — pick one flavor before the first session and keep it for the whole campaign.
+Heat cools when the crew acts on the room (see Running Heat). HP and Wounds follow [[Burners Adventure Game#Wounds]]:
 
-**Pick once, keep it.** At session zero — or when a new crew starts — the table or the Referee chooses **Hour Rest** or **Classic Crawl**. Write it on the campaign brief. Do not swap mid-campaign unless everyone agrees to a deliberate reset.
+- **Full HP closes wounds.**
+- **Hour Rest** (one hour, food and water) fills HP to maximum **only if you have no Wound**.
+- **Wounded:** **1 HP per day** with food until full, then the Wound closes. Vitae / *Stanch* / potions can help; *Healing Touch* does not restore at 0 HP or less.
+- **First aid** (Craft) tends a wound and can be the **help** for the post-fight survival check; it does not restore HP by itself.
+- After a fight where you took a Wound: **help**, then **`2d6 + Craft` vs severity** — or die. Monster specials (spawn, etc.) if you die from that creature's attack.
 
-**What both flavors share.** These do not change with the choice:
+**Classic Crawl** (optional campaign flavor): once unwounded and at 0+, use **1d3 HP per full day** in a safe haven instead of Hour Rest for luck recovery. Write the choice at session zero. Wounds and survival still run as above.
 
-- **Full HP closes wounds** — tally, location penalties, soft-target marks (see [[Burners Adventure Game]]). Maimings at the brink do not heal on their own.
-- While HP is **below 0**, recover **1 HP per safe night** with food, climbing toward 0. Real injury, not luck; rest does nothing for the negative tally until then.
-- **First aid** (Craft) tends a wound in the field; it does not restore HP.
-- **Vitae** restores HP mid-fight or rouses the fallen; HP gained still counts toward full.
+### Energy drain and spawners
 
-The choice is only about **plot-armor HP** — luck and bruises at 0 or above.
-
-#### Hour Rest (Burners default)
-
-HP at **0 or above** recovers fast:
-
-- **Rest** (one hour, food and water): recover **all HP** to maximum.
-- A **safe night** with food counts: each night adds 1 HP while you are negative; once you reach 0, rest to full in an hour.
-
-In the dungeon, a cleared room and an hour to eat and bind up puts the crew fight-ready again. Time, torches, the Delve Die, and Heat carry the attrition; HP resets between fights if they earn the pause. A Double 6 safe nook (see The Delve Die) is a genuine rest if they take it.
-
-**Good when:** fast delves, low HP pools, the wound track carries real injury, and you want Heat and the clock to be the grind — not HP drip between rooms.
-
-#### Classic Crawl (OSE-style)
-
-HP at **0 or above** recovers slowly:
-
-- **Natural healing:** **1d3 HP per full day** of complete rest in a **safe haven** — town, camp between jobs, a haven with no delving and no strenuous work. Roll once per day; cannot exceed maximum.
-- An hour's rest in a cleared room **does not** restore HP. It still vents Heat, clears heads, and buys planning time; it just does not close luck.
-- Once you climb from negative to 0 (1 HP per safe night, as above), further recovery is **1d3 per day** in the haven — or Vitae, a potion, a chirurgeon, whatever magic or medicine the campaign offers.
-
-Going deep hurt is the default. The safe town (see below) and healing magic load-bearing; a crew that pushes on bruised is choosing attrition.
-
-**Good when:** OSE pacing, familiar crawl rhythm, and you want dungeon days to leave marks until the party surfaces or spends coin on care.
-
----
-
-**At the table.** State the choice in session zero so nobody assumes the wrong recovery between fights. If you are converting an OSE module, Classic Crawl will feel closer to the module's intent; Hour Rest keeps Burners' cleared-room loop and pushes danger through Fuel, Heat, and wounds instead.
+OSE **energy drain** does **not** strip levels. A successful drain touch (wight, wraith, and kin) opens a **Wound** even if the Burner is still above 0 HP — recovery and post-fight survival apply as usual. If they **die from that creature's attack** (unhelped or failed Craft survival), fire the **monster special** you wrote (rise as spawn, and so on). Telegraph it. Ordinary undead without that special just Wound like steel.
 
 ---
 

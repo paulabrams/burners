@@ -91,7 +91,7 @@ Quick definitions. Details live in the chapters below.
 
 - **Wound effects:** where you were hit matters. A leg wound drops you prone. A head hit narrows your sight. And so on.
 
-- **Shock Check:** when a Wound opens, roll **`2d6 + Sword` vs total wound severity** this fight — whether you stay combat-effective, not whether you die. Natural **1+1** always fails; **6+6** always succeeds. See *Wounds*.
+- **Shock Check:** when a Wound opens, roll **`2d6 + Sword` vs total wound severity** or drop out of the fight. Natural **1+1** always fails; **6+6** always succeeds. See *Wounds*.
 
 ### Play
 

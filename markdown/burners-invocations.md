@@ -57,10 +57,25 @@ Finding or verifying a name is play: a **`2d6 + Sorcerie`** roll (ancient lore) 
 
 ## Making an Invocation
 
-1. **Declare.** Speak the True Name **thrice**, aloud and formal, and state your request in the fiction — what you want, not a spell title. In combat this is an **Action**; out of combat it is a beat the scene waits on. This is not a wish: you ask; the patron decides what your words mean.
-2. **Cost.** The Referee quotes a **Cost** in the same terms as any other risky deed — a number to meet or beat, usually **8** for a typical easy favor, **10** for a serious working, **12** for a world-tilting demand. A request **against** the patron's nature raises Cost by 2; one **squarely in their nature**, backed by deeds already done, may drop it by 2 — or simply succeed without a roll (Step 1, as any well-backed deed can). In a hostile scene, Cost may be the scene's Heat if that is higher.
-3. **Roll.** **`2d6 + Alignment with the patron`** — your Approach roll for this bargain. Meet or beat the Cost and the patron **may answer**. Fall short by the **shortfall**: the unpaid remainder lands as **HP on the caller**, **Heat on the crew**, or **split between them**, as the Referee reads the fiction — speaking a True Name in a barrow is usually personal; shouting one in a tense parley usually riles the room.
-4. **Answer.** On a made roll, the patron **responds** with an Offer and an Ask — that pair is where the Referee **balances** the bargain (see below). On a miss, silence, a wrong listener, or a price paid for nothing — you still bear the shortfall, and in a bad place the wrong thing may have heard its name spoken thrice.
+An Invocation is a **ritual**, not a spell or an attack. You cannot Invoke in the middle of a combat round — gather yourselves before the fight, after, or when the company has bought enough Turns of space (a barred door, a held corridor, broken contact). Rebuking the willful dead follows the same rule: hold the line while the caller works, or wait until the clash pauses.
+
+**Time.** Each **Offer level** you hope to receive needs about **ten minutes** of ritual — one **Turn** per level. A small favor is one Turn; a middling favor two; a serious favor three. The Offer you actually get is capped by the **lower** of: Turns spent, your **Alignment** with the patron, and what the pageantry can bear.
+
+1. **Pageantry.** Gather yourself spiritually, then prepare a place that would please the being. Lay an altar or makeshift shrine: incense, flame, salt, water, song, food or blood, flowers, bones, Relics, sacred objects — whatever fits that patron's nature. Spend the Turns your intended Offer level requires. **What you prepare (and how long you keep the rite) gates what you may ask.** A thimble of moon-water and a hummed bar of song can carry a small favor from Lunara; it will not carry a rebuke. A fresh sea-altar with kelp, salt, and a Relic may support asking Maren to take a drowned wight home — and companions must hold the space for those Turns. Empty hands and a shout are not an Invocation — they are noise, and the wrong listener may hear.
+2. **Declare.** Speak the True Name **thrice**, aloud and formal, and state your request in the fiction — what you want, not a spell title. Ask only what the pageantry can bear. This is not a wish: you ask; the patron decides what your words mean.
+3. **Cost.** The Referee quotes a **Cost** — a number to meet or beat: usually **8** for a small favor, **10** for a middling working, **12** for a serious working. **World-tilting requests are refused** before any roll — end the war, raise the dead kingdom, remake a fate. A request **against** the patron's nature raises Cost by 2; one **squarely in their nature**, backed by deeds already done and fitting pageantry, may drop it by 2 — or simply succeed without a roll (as any well-backed deed can). In a hostile place, Cost may be the scene's Heat if that is higher.
+4. **Roll.** **`2d6 + Alignment with the patron`** — your Approach roll for this bargain. Meet or beat the Cost and the patron **may answer**. Fall short by the **shortfall**: the unpaid remainder lands as **HP on the caller**, **Heat on the crew**, or **split between them**, as the Referee reads the fiction — speaking a True Name in a barrow is usually personal; working a rite in a tense holdfast usually riles the room.
+5. **Answer.** On a made roll, the patron **responds** with an Offer and an Ask — that pair is where the Referee **balances** the bargain (see below). On a miss, silence, a wrong listener, or a price paid for nothing — you still bear the shortfall, and in a bad place the wrong thing may have heard its name spoken thrice.
+
+### Pageantry examples
+
+| Patron | Small — 1 Turn (Cost 8) | Middling — 2 Turns (Cost 10) | Serious — 3 Turns (Cost 12) |
+| --- | --- | --- | --- |
+| **Lunara** | Silver coin in clear water; whisper her name over it | White cloth, moon-water, a song sung thrice, a Relic of the moon | Shrine of silver and night-bloom, harp or choir, Relic on the altar |
+| **Maren-under-the-Waves** | Salt on wet stone; a shell left as courtesy | Kelp, brine-bowl, drowned offering, the Relic comb set open | Sea-altar of black rock, tide-gift of fish or coin, companions silent while the water listens |
+| **Pyrose** | A clean flame and a scrap of iron | Fyreside, ash-circle, witch-wood or fallen thing burned as tithe | Consecrated pyre, iron crown or brand, Relic in the heat, no shadow between you and the fire |
+
+*Thin pageantry may still let you Declare — but the Referee caps the request at what the shrine can honor. Ask beyond the pageantry and the Cost climbs, the Offer twists, or the patron does not hear.*
 
 *The workings of otherworldly beings are mysterious. They may read your request from a different angle and a different sense of time. Word requests with care, or don't — the stories are better when you don't.*
 
@@ -74,18 +89,18 @@ Invocations are **patron-shaped**, not player-authored. The roll only decides wh
 
 ## The Offer and the Ask
 
-When a patron responds, the Referee sets an **Offer level** from **1** up to your **Alignment with the patron**, and an **Ask** to match. **This pair is where the Referee balances the bargain** — not on the Cost roll. The roll only gates whether anyone answers and whether you pay shortfall getting there; the Offer is what the patron actually does with your words (often not what you meant), and the Ask is the real price.
+When a patron responds, the Referee sets an **Offer level** from **1** up to the **lowest** of: Turns spent on the ritual, your **Alignment with the patron**, and what the pageantry can bear — then an **Ask** to match. **This pair is where the Referee balances the bargain** — not on the Cost roll. The roll only gates whether anyone answers and whether you pay shortfall getting there; the Offer is what the patron actually does with your words (often not what you meant), and the Ask is the real price.
 
-Dial freely within the cap: a **thin Offer** with a **light Ask** for a small favor in nature; a **strong Offer** with a **heavy Ask** when the crew is desperate; a **twisted Offer** that serves the patron's agenda when the request was greedy or off-nature. Alignment 1 does not mint treasure or end the campaign — set Offer level accordingly. Refusing the pact costs nothing beyond shortfall already paid; accepting binds you to the Ask.
+Dial freely within the cap: a **thin Offer** with a **light Ask** for a small favor in nature; a **strong Offer** with a **heavy Ask** when the crew is desperate; a **twisted Offer** that serves the patron's agenda when the request was greedy or off-nature. Alignment 1 does not mint treasure — set Offer level accordingly. World-tilting remains refused at Declare. Refusing the pact costs nothing beyond shortfall already paid; accepting binds you to the Ask.
 
-**Offers by level** (guidance, not a menu):
+**Offers by level** (guidance, not a menu). The level is how large a favor the patron lends.
 
-| Level | The patron will… |
-|---|---|
-| **1** | A nudge — a door unbarred, a scent on the wind, a candle that will not gutter, a name whispered back |
-| **2** | A hand — turn the shambling dead from your path, calm a storm long enough to land, mark the liar in the room, close a wound that will not stanch |
-| **3** | An arm — rebuke a willful dead thing in its name, part the flood, strike one foe with its wrath, carry a message across the world |
-| **4+** | A miracle — and no patron grants one lightly, nor cheaply |
+| Level | Scale | Ritual time | Examples |
+|---|---|---|---|
+| **1** | Small favor | 1 Turn (~10 min) | A door unbarred, a scent on the wind, a candle that will not gutter, a name whispered back |
+| **2** | Middling favor | 2 Turns (~20 min) | Turn the shambling dead from your path, calm a storm long enough to land, mark the liar in the room, close a wound that will not stanch |
+| **3** | Serious favor | 3 Turns (~30 min) | Rebuke a willful dead thing in its name, part a flood long enough to cross, strike one foe with its wrath, carry a message to a far shore |
+| **4+** | As grave as the caps allow | 4+ Turns | Still a serious working — never a remade world |
 
 **Asks by nature** (d6, or the Referee picks):
 
@@ -137,17 +152,29 @@ At **Alignment 3+** with a patron, holding their Relic, you may stand as their *
 
 ## The Willful Dead
 
-The mindless dead burn (see *We Burn Undead* in [[Burners Adventure Game]]). The **willful** dead — the lich, the wraith-lord, the vampire in his hall — are an Invocation problem. A Burner aligned to a being whose nature opposes the grave may **rebuke them in the patron's name**: an Invocation, rolled on Alignment, its Offer the rout or barring of the dead thing. That is the Isles' true "turning" — not your holiness, but the patron's, lent through the pact, at the price all pacts carry.
+The mindless dead burn (see *We Burn Undead* in [[Burners Adventure Game]]). The **willful** dead — the lich, the wraith-lord, the vampire in his hall — are an Invocation problem. A Burner aligned to a being whose nature opposes the grave may **rebuke them in the patron's name**: an Invocation with fitting pageantry — **one Turn per Offer level** you can receive — rolled on Alignment, its Offer the rout or barring of the dead thing. You do this before the clash, after, or while companions hold space for the rite — not as a combat Action. That is the Isles' true "turning" — not your holiness, but the patron's, lent through the pact, at the price all pacts carry.
 
 ---
 
-## Worked Example
+## Worked Examples
 
-*Sefa (Craft 1, Traits: marsh-lore, night-fisher, drowned-kin, quiet) stands in the flooded crypt as the Cellarer's wight rises. She knows the name of **Maren-under-the-Waves**, the drowned mother the fen-folk still sing to — and her Traits lean that way: drowned-kin, night-fisher, marsh-lore bear on the patron. Three Traits ÷ 4 is 0 — but she carries Maren's barnacled comb, a Relic looted two delves back: **+1, Alignment 1.***
+### Small favor — Cost 8
 
-*She speaks the name thrice and asks Maren to take this dead thing home. The request is squarely in the patron's nature (the drowned belong to her), so the Referee sets **Cost 8**. Sefa rolls **`2d6 + Alignment`**: 2d6+1 = **9** — she makes the price. The sea answers.*
+*Torren needs a door in the old lighthouse unbarred. He spends **one Turn**: silver coin in clear water, one verse under Lunara's name. Speaks the True Name thrice, asks her to ease the latch. Cost **8**; Alignment 1; Offer cap **1** (Turns and Alignment). He rolls **`2d6+1 = 10`**. Offer level 1: the latch softens as if wet with dew. Ask: leave the coin in the cup until dawn — a light tithe. He accepts.*
 
-*Offer, level 1: the crypt's floodwater rises black and cold, and the wight wades down into it as into a mother's arms — gone, not destroyed. The Ask: return the comb to the fen shrine before the next full moon, and Maren names a shaping Trait: **sea-longing**. Sefa accepts. Next level-up, the Trait is hers — and her Alignment with Maren starts to climb.*
+### Middling working — Cost 10
+
+*The crew must land through a rising squall. Briar spends **two Turns** on the deck-rail: white cloth, moon-water, Relic harp-string, song. They ask Lunara to calm the water long enough to beach. Cost **10**; Alignment 2; Offer cap **2**. Roll **`2d6+2 = 11`**. Offer level 2: the wind drops for one landing. Ask: a taboo — no night-raid against fisherfolk until the next new moon. They accept.*
+
+### Serious working — Cost 12
+
+*Sefa (Craft 1, Traits: marsh-lore, night-fisher, drowned-kin, quiet) and companions bar the crypt door while the Cellarer's wight claws beyond. She cannot call mid-clash. Alignment 1 (Relic) caps Offer at **1**, so **one Turn** of sea-altar is enough for what she can receive — salt and kelp on wet stone, a drowned fish as tide-gift, Maren's barnacled comb open. She speaks the name thrice and asks Maren to take the dead thing home. Cost **12** (the Ask is serious even if the Offer comes back small). Roll **`2d6+1 = 9`** — shortfall **3**, split as 2 HP on Sefa and +1 Heat on the crew. The sea still answers.*
+
+*Offer, level 1: floodwater rises black and cold; the wight wades down as into a mother's arms — gone, not destroyed. Ask: return the comb to the fen shrine before the next full moon, and shaping Trait **sea-longing**. Sefa accepts. Next level-up the Trait is hers — Alignment with Maren starts to climb. (A full serious Offer — level 3 rebuke — would have needed Alignment 3 and three Turns holding the door.)*
+
+### Refused — world-tilting
+
+*Someone asks Pyrose to burn an enemy kingdom from the map. The Referee refuses before Cost: that is not a serious working; it is a remade world. No roll. The fyreside is still hungry — choosing to light it anyway may draw something else.*
 
 ---
 
@@ -157,11 +184,13 @@ The mindless dead burn (see *We Burn Undead* in [[Burners Adventure Game]]). The
 INVOCATION
 WHO     any Burner who knows the True Name
 ALIGN   Traits bearing on the patron ÷ 4 (round down); +1 with their Relic
-CALL    Name thrice + request; Action in combat
-COST    Referee quotes 8 / 10 / 12 (easy / serious / world-tilting); ±2 by nature
+TIME    1 Turn (~10 min) per Offer level hoped for; not a combat Action
+PAGEANT altar / incense / sacrifice / Relic / sacred objects; gates the Ask
+CALL    Name thrice + request (only what the pageantry can bear)
+COST    8 small / 10 middling / 12 serious; no world-tilting; ±2 by nature
 ROLL    2d6 + Alignment vs Cost — meet it or shortfall → HP and/or Heat
 DEBT    one open Ask per patron — no second call until cleared
-OFFER   level 1 … Alignment (nudge / hand / arm / miracle); not a wish
+OFFER   ≤ min(Turns, Alignment, pageantry); small / middling / serious / grave
 ASK     quest · taboo · shaping Trait · Heat owed · Relic errand · tithe
 SHAPE   patron Trait at next level-up (free) or a Signature; refusal sours
 NOT     spells · Arcana · Sorcerie — any Burner may call

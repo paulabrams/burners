@@ -389,18 +389,20 @@ Patron Alignment is **not** Sorcerie.
 
 ### Invocations
 
-An **Invocation** is not a spell. It is a bargain. You call an otherworldly being's True Name thrice, aloud and formal, and state what you want. The Referee quotes a **Cost**. You roll **`2d6 + Alignment with the patron`** to meet it (the same Cost loop as any Approach roll; see *The Two Steps*). Fall short and the **shortfall** lands as HP on you, Heat on the crew, or split between them. Meet it and the patron may answer with an **Offer** (capped at your Alignment level) and an **Ask**. That pair is where the Referee balances the bargain. A patron will not hear you again while a prior Ask is still open. Relics carry +1 Alignment. At Alignment 3+ with Relic in hand you may stand as the patron's saint. Rebuking the willful dead in a patron's name is the Isles' true "turning" (see *We Burn Undead*).
+An **Invocation** is not a spell. It is a bargain and a **ritual**: first **pageantry** (altar, incense, sacrifice, Relics — whatever pleases the being), taking about **ten minutes per Offer level** you hope for (one Turn per level), which gates how large a request you may Declare; then you speak the True Name thrice and ask. Not mid-combat. The Referee quotes a **Cost** — **8** small, **10** middling, **12** serious; world-tilting Asks are refused. You roll **`2d6 + Alignment with the patron`** to meet it (the same Cost loop as any Approach roll; see *The Two Steps*). Fall short and the **shortfall** lands as HP on you, Heat on the crew, or split between them. Meet it and the patron may answer with an **Offer** capped at the **lowest** of Turns spent, Alignment, and pageantry — and an **Ask**. That pair is where the Referee balances the bargain. A patron will not hear you again while a prior Ask is still open. Relics carry +1 Alignment. At Alignment 3+ with Relic in hand you may stand as the patron's saint. Rebuking the willful dead in a patron's name is the Isles' true "turning" (see *We Burn Undead*) — same Turn-per-level and pageantry rules.
 
-The full rules live on **[[Burners Invocations]]**: patrons and their natures, True Names, the Offer and the Ask, shaping, Relics, sentient items, and saints.
+The full rules live on **[[Burners Invocations]]**: patrons and their natures, True Names, pageantry, the Offer and the Ask, shaping, Relics, sentient items, and saints.
 
 ```
 INVOCATION — quick reference
 WHO     you, if you know the True Name
 ALIGN   Traits that bear on the patron, ÷ 4 (round down); +1 if carrying their Relic
-CALL    Name thrice + request; Action in combat
-COST    Referee quotes 8 / 10 / 12 (easy / serious / world-tilting); ±2 by nature
+TIME    ~10 min (1 Turn) per Offer level; pageantry first — not a combat Action
+PAGEANT altar / incense / sacrifice / Relic; gates the Ask
+CALL    Name thrice + request (only what the pageantry can bear)
+COST    8 small / 10 middling / 12 serious; no world-tilting; ±2 by nature
 ROLL    2d6 + Alignment vs Cost — meet it or shortfall → HP and/or Heat
-CAP     Offer level ≤ Alignment with patron; not a wish
+CAP     Offer ≤ min(Turns, Alignment, pageantry); not a wish
 DEBT    one open Ask per patron — no second call until cleared
 ASK     quest · taboo · shaping Trait · Heat later · deed
 NOT     spells · Arcana · Sorcerie school

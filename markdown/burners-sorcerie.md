@@ -26,9 +26,9 @@ switches casting on; a combat cast is one Action that spends at least L Fuel dic
 
 Think of every spell you know as a card.
 
-- Your **spellbook** is your **deck** — the full library of what you know.
-- Your **hand** is your prepared loadout — the spells ready to cast right now.
-- Your **Arcana slot count** sets your **hand size** — how many cards you may hold.
+- Your **spellbook** is your your **deck** of known spells. You can have multiple spellbooks in your library.
+- Your **hand** is the spells you have prepared to cast.
+- Your **Arcana slot count** sets your **hand size**, the number of cards you may hold.
 - **Casting** a spell **taps** its card.
 - **Burning** a card exiles it to pay for more casting in the same Action.
 - After **8 hours of uninterrupted sleep**, you may recover up to your caster level in
@@ -37,11 +37,11 @@ Think of every spell you know as a card.
 Every card in your hand is in exactly one zone. **Tapped, lasting, and burned cards all
 still occupy hand size** until recovered (or lasting ends).
 
-| Zone | Meaning | Comes back |
+| Zone | Meaning |
 | --- | --- | --- |
-| **Ready** | In hand, untapped — cast it any time. | — |
-| **Tapped** | Cast. In your discard, or *in play* while a lasting effect runs. | Sleep budget — or a burn recasts it. |
-| **Burned** | Exiled as fuel. Still fills a hand slot. | Sleep budget. Nothing else. |
+| **Ready** | In hand, untapped — cast it any time. |
+| **Tapped** | Cast. In your discard, or *in play* while a lasting effect runs. |
+| **Burned** | Exiled as fuel. In your discard, or used as a token. |
 
 **Lasting** is a special case: the card stays *in play* while the effect runs. On sleep
 redraw or a one-hour swap you may leave lasting cards in place; swapping one out or
@@ -100,9 +100,11 @@ pack; the split is only for rogues who work Canting magic.
 ## Arcana Slots
 
 You have twelve item slots. As a Sorcerer (or a Canting Journeyman), you **declare a
-split**: so many slots are **physical**, so many are **Arcana**. The **number** of Arcana
-slots is your **hand size**. Arcana slots are inventory for **Wizard Drip** (or a rogue's
-kicks) — they do **not** hold cards. Your **hand** is personal; the cards live in you.
+split**: so many slots are **physical**, so many are **Arcana**. Arcana slots hold
+**Wizard Drip** (or a rogue's kicks) — arcana items, not spells. The **number** of
+Arcana slots is your **hand size**: how many spells you can hold ready. Your **hand**
+is separate from inventory and Arcana slots; it is your ready spells, pictured as
+cards. The cards live in you.
 
 - **Re-split on rest.** On any 8-hour sleep you may redeclare the split. A Sorcerer who
   wants a six-card hand walks into the dark with six Arcana slots of drip; power is paid

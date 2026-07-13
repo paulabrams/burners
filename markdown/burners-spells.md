@@ -1498,7 +1498,7 @@ Thaumaturgy 6: For Sorcerie turns, telekinesis on items within 30' with fine con
 
 #### Perfect Death
 
-Necromantia 6: One living creature at 0 HP or below fails their next post-fight survival check automatically (coup magic). Moral weight.
+Necromantia 6: One living creature **below 0 HP** fails their next post-fight survival check automatically (coup magic). Moral weight.
 
 #### Perfect Illusion
 
@@ -1554,7 +1554,7 @@ Necromantia 6: Trap a dying soul in a gem for Sorcerie days; speak with it.
 
 #### Soul Rend
 
-Necromantia 6: Defend; overrun to HP (− Resistance). If brought to 0 HP, soul is shunted out for Sorcerie hours (recoverable).
+Necromantia 6: Defend; overrun to HP (− Resistance). If driven **below 0 HP**, soul is shunted out for Sorcerie hours (recoverable).
 
 #### Space Fold
 

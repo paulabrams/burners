@@ -196,11 +196,12 @@ def defend(defender, raw, kind="melee"):
 
 
 def wound(target, overflow):
-    """Open / deepen a Wound. overflow is damage past 0 after armor (0 if landed exactly at 0)."""
-    target.wounded = True
+    """Open / deepen a Wound. overflow is damage past 0 after armor (must be > 0)."""
     overflow = max(0, overflow)
-    if overflow > 0:
-        target.hp -= overflow  # deepen negative tally
+    if overflow <= 0:
+        return
+    target.wounded = True
+    target.hp -= overflow  # deepen negative tally
     target.severity += overflow
 
     loc = d6()  # 1 head 2 torso 3 waist 4 arm 5 hand 6 leg
@@ -267,9 +268,11 @@ def land(target, net):
             return
         overflow = net - target.hp
         target.hp = 0
-        wound(target, overflow)
+        if overflow > 0:
+            wound(target, overflow)
+        # exactly at 0: luck spent, not yet Wounded
     else:
-        # already at 0 or below: another wounding blow
+        # already at 0 or below: the next blow drives negative / deepens
         wound(target, net)
 
 

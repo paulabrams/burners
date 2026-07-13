@@ -57,7 +57,7 @@ Finding or verifying a name is play: a **`2d6 + Sorcerie`** roll (ancient lore) 
 
 ## Making an Invocation
 
-An Invocation is a **ritual**, not a spell or an attack. You cannot Invoke in the middle of a combat round — gather yourselves before the fight, after, or when the company has bought enough Turns of space (a barred door, a held corridor, broken contact). Rebuking the willful dead follows the same rule: hold the line while the caller works, or wait until the clash pauses.
+An Invocation is a **ritual**, not a spell or an attack. You cannot Invoke in the middle of a combat round — gather yourselves before the fight, after, or when the company has bought enough Turns of space (a barred door, a held corridor, broken contact). Rebuking the willful dead follows the same rule: they were born of a pact; they answer one. Hold the line while the caller works, or wait until the clash pauses.
 
 **Time.** Each **Offer level** you hope to receive needs about **ten minutes** of ritual — one **Turn** per level. A small favor is one Turn; a middling favor two; a serious favor three. The Offer you actually get is capped by the **lower** of: Turns spent, your **Alignment** with the patron, and what the pageantry can bear.
 
@@ -98,8 +98,8 @@ Dial freely within the cap: a **thin Offer** with a **light Ask** for a small fa
 | Level | Scale | Ritual time | Examples |
 |---|---|---|---|
 | **1** | Small favor | 1 Turn (~10 min) | A door unbarred, a scent on the wind, a candle that will not gutter, a name whispered back |
-| **2** | Middling favor | 2 Turns (~20 min) | Turn the shambling dead from your path, calm a storm long enough to land, mark the liar in the room, close a wound that will not stanch |
-| **3** | Serious favor | 3 Turns (~30 min) | Rebuke a willful dead thing in its name, part a flood long enough to cross, strike one foe with its wrath, carry a message to a far shore |
+| **2** | Middling favor | 2 Turns (~20 min) | Turn shambling husks from your path (they burn after), calm a storm long enough to land, mark the liar in the room, close a wound that will not stanch |
+| **3** | Serious favor | 3 Turns (~30 min) | Rebuke a willful dead thing — rout it, bar it, or claim it home — part a flood long enough to cross, strike one foe with its wrath, carry a message to a far shore |
 | **4+** | As grave as the caps allow | 4+ Turns | Still a serious working — never a remade world |
 
 **Asks by nature** (d6, or the Referee picks):
@@ -152,7 +152,15 @@ At **Alignment 3+** with a patron, holding their Relic, you may stand as their *
 
 ## The Willful Dead
 
-The mindless dead burn (see *We Burn Undead* in [[Burners Adventure Game]]). The **willful** dead — the lich, the wraith-lord, the vampire in his hall — are an Invocation problem. A Burner aligned to a being whose nature opposes the grave may **rebuke them in the patron's name**: an Invocation with fitting pageantry — **one Turn per Offer level** you can receive — rolled on Alignment, its Offer the rout or barring of the dead thing. You do this before the clash, after, or while companions hold space for the rite — not as a combat Action. That is the Isles' true "turning" — not your holiness, but the patron's, lent through the pact, at the price all pacts carry.
+The mindless dead burn — oil, flame, and a fast exit (see [[Burners Burn Undead]]). The **willful** dead remember who fed them.
+
+At the Battle of the Thousandfold Curses, the Eldar had trapped the Kha'din inside the Wintercrowns and were losing. Reshuk, god of the dead, offered the oldest bargain: he would summon his children to win the war, if the living promised to **feed them**. Desperate Eldar agreed. Power surged into the fallen on the field — and they rose not alive, but **Deurg'Gul**, the Undying Ones. By dawn they turned their blades on kin. The Undying Lands became Sepulchre; every later thrall, barrow-wight, Zuhl, and vampire lord is a younger echo of that first Ask.
+
+That is why no priest of the Isles lifts a holy symbol and scatters skeletons. The first undead were born from a **named pact**. Against the willful dead — lich, wraith-lord, Deurg'Gul remnant, vampire in his hall — fire alone seldom answers. You answer with another pact.
+
+**Rebuke.** A Burner aligned to a being whose nature **opposes the grave** — or one that **claims the dead** and will not share them — may rebuke them in the patron's name. Same ritual as any Invocation: pageantry that fits, True Name thrice, **one Turn per Offer level** you can receive, rolled on Alignment. Do this before the clash, after, or while companions hold the space — not as a combat Action. The Offer is the rout, the barring, or the reclaiming of the dead thing: Maren may take a drowned wight home; Pyrose may drive it into the light; a grave-claiming voice may call it to heel. That is the Isles' true "turning" — not your holiness, but the patron's, lent through the pact, at the price all pacts carry.
+
+The shambling kindling still burns. Bring oil.
 
 ---
 
@@ -168,9 +176,9 @@ The mindless dead burn (see *We Burn Undead* in [[Burners Adventure Game]]). The
 
 ### Serious working — Cost 12
 
-*Sefa (Craft 1, Traits: marsh-lore, night-fisher, drowned-kin, quiet) and companions bar the crypt door while the Cellarer's wight claws beyond. She cannot call mid-clash. Alignment 1 (Relic) caps Offer at **1**, so **one Turn** of sea-altar is enough for what she can receive — salt and kelp on wet stone, a drowned fish as tide-gift, Maren's barnacled comb open. She speaks the name thrice and asks Maren to take the dead thing home. Cost **12** (the Ask is serious even if the Offer comes back small). Roll **`2d6+1 = 9`** — shortfall **3**, split as 2 HP on Sefa and +1 Heat on the crew. The sea still answers.*
+*Sefa (Craft 1, Traits: marsh-lore, night-fisher, drowned-kin, quiet) and companions bar the crypt door while the Cellarer's wight claws beyond. She cannot call mid-clash. Alignment 1 (Relic) caps Offer at **1**, so **one Turn** of sea-altar is enough for what she can receive — salt and kelp on wet stone, a drowned fish as tide-gift, Maren's barnacled comb open. She speaks the name thrice and asks Maren to take the dead thing home — claim what the grave left wandering. Cost **12** (rebuke is always a serious working, even when the Offer comes back thin). Roll **`2d6+1 = 9`** — shortfall **3**, split as 2 HP on Sefa and +1 Heat on the crew. The sea still answers.*
 
-*Offer, level 1: floodwater rises black and cold; the wight wades down as into a mother's arms — gone, not destroyed. Ask: return the comb to the fen shrine before the next full moon, and shaping Trait **sea-longing**. Sefa accepts. Next level-up the Trait is hers — Alignment with Maren starts to climb. (A full serious Offer — level 3 rebuke — would have needed Alignment 3 and three Turns holding the door.)*
+*Offer, level 1: floodwater rises black and cold; the wight wades down as into a mother's arms — gone, not destroyed. Ask: return the comb to the fen shrine before the next full moon, and shaping Trait **sea-longing**. Sefa accepts. Next level-up the Trait is hers — Alignment with Maren starts to climb. (A full serious Offer — level 3 rebuke that bars or breaks a willful dead thing — would have needed Alignment 3 and three Turns holding the door.)*
 
 ### Refused — world-tilting
 

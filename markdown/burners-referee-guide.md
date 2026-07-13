@@ -130,13 +130,13 @@ Heat cools when the crew acts on the room (see Running Heat). HP and Wounds foll
 
 ### Energy drain and spawners
 
-OSE **energy drain** does **not** strip levels. A successful drain touch (wight, wraith, and kin) opens a **Wound** even if the Burner is still above 0 HP — recovery and post-fight survival apply as usual. If they **die from that creature's attack** (unhelped or failed Craft survival), fire the **monster special** you wrote (rise as spawn, and so on). Telegraph it. Ordinary undead without that special just Wound like steel.
+No levels lost. Drain opens a **drain Wound** only **past 0** — then Midnight, Incendiary purge, immediate survival, spawn if unclean. Full procedure: [[Burners Burn Undead#Drain Wounds]].
 
 ---
 
 ## Reaction — First Impressions
 
-Disposition is a fact of the world (see Influence in [[Burners Adventure Game|the core rules]]), and when it is not already fixed by the fiction you roll for it. Any NPC, monster, or faction the party meets fresh gets a Reaction: roll 2d6 and read the table. This is the world's own leaning at first contact, not a Persuade check — no one rolls to make it bend, the roll only says how it starts.
+Disposition is a fact of the world (see Influence in [[Burners Adventure Game|the core rules]]), and when it is not already fixed by the fiction you roll for it. Any NPC, monster, or faction the party meets fresh gets a Reaction: roll 2d6 and read the table. This is the world's own leaning at first contact — the roll only says how it starts; what you ask next is still the Two Steps.
 
 Circumstances are the main lever. A drawn blade, a shared enemy, a debt, a standing feud, or a fearsome reputation shift the roll the way a situational modifier shifts a defend — set a plus or minus from the same bands. Where one character is plainly making the approach (the spokesperson, the one who speaks the tongue, the face of the band), add their Heart. And Sweet and Spicy ride along as always: a rolled 6 is a good twist on the meeting, a rolled 1 a complication, whatever the total.
 

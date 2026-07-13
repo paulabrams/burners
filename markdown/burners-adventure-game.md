@@ -81,13 +81,13 @@ Quick definitions. Details live in the chapters below.
 
 ### HP, Heat, and Wounds
 
-- **HP:** luck and wind, not meat — **hit protection**. One d6 per character level, rolled at creation. Reroll at level-up and keep the higher of the new total or old+1. Bites come off HP first. Reach **full HP** and your wounds close.
+- **HP:** luck and wind, not meat — **hit protection**. One d6 per character level, rolled at creation. Reroll at level-up and keep the higher of the new total or old+1. Bites come off HP first; only overflow past 0 opens a Wound. Reach **full HP** and your wounds close.
 
 - **Heat:** your crew's shared danger gauge. How hot the *scene* is, not your hit points. Most risky actions out of combat quote a Cost against Heat. If you split the party, each group tracks its own Heat.
 
 - **Feeding Heat:** when a risky action goes wrong, Heat usually rises (often 1–2). In a fight, blows hit HP, not Heat. Heat climbs only when the situation turns worse (alarm, reinforcements, a friend down).
 
-- **Wound:** real injury. You take one when an attack leaves you at **0 HP or less**, when **level drain** hits (even above 0), or when harm lands where **HP cannot help**. Track **wound severity** (sum of overflow from wounding attacks). Penalties last until **full HP** (maimings excepted). See *Wounds*.
+- **Wound:** real injury. You take one when a blow drives you **past 0 HP**, or when harm lands where **HP cannot help**. Track **wound severity** (sum of overflow from wounding attacks). Penalties last until **full HP** (maimings excepted). See *Wounds*.
 
 - **Wound effects:** where you were hit matters. A leg wound puts you in the dirt. A head hit narrows your sight. And so on.
 
@@ -149,19 +149,6 @@ Quick definitions. Details live in the chapters below.
 - **Resistance:** flat damage reduction against a named kind of harm: fire, silver, blades through bone, famous armor or hide, and so on. A monster's only per-blow soak.
 
 ---
-
-## Defend
-
-There is no separate birthright to withstand a danger. You endure with the same four Approaches you act with.
-
-Outside combat, a **Defend** against a hazard is **`2d6 +` the fitting Approach** against the Referee's Cost. Hostile magic uses Fuel Defend against the caster's cast total (see *Defending against a spell* under Combat and [[Burners Sorcerie]]).
-
-- **Sword:** hold your feet, force a door, stay conscious under a wound.
-- **Craft:** dodge what you cannot fight: a dart, a pit, a floor giving way, a creeping poison.
-- **Heart:** hold your nerve against fear, a charm, a horror from the dark.
-- **Sorcerie:** shrug off a mind-magic and dredge up what you know.
-
-Pick the Approach the danger tests. Where none fits, work it as an Alignment (see Alignment).
 
 ## Character Creation
 
@@ -383,34 +370,13 @@ Alignment is an Approach for when the fiction does not map cleanly to Sword, Cra
 | **0** | Stranger. The patron may not hear, or the Offer is thin. |
 | **1** | Known. Small favors, one clear Ask. |
 | **2** | Favored. Serious Offers; shaping sticks. |
-| **3+** | Saint. Their business is yours; see *Invocations*. |
+| **3+** | Saint. Their business is yours; see [[Burners Invocations]]. |
 
-Patron Alignment is **not** Sorcerie.
-
-### Invocations
-
-An **Invocation** is not a spell. It is a bargain and a **ritual**: first **pageantry** (altar, incense, sacrifice, Relics — whatever pleases the being), taking about **ten minutes per Offer level** you hope for (one Turn per level), which gates how large a request you may Declare; then you speak the True Name thrice and ask. Not mid-combat. The Referee quotes a **Cost** — **8** small, **10** middling, **12** serious; world-tilting Asks are refused. You roll **`2d6 + Alignment with the patron`** to meet it (the same Cost loop as any Approach roll; see *The Two Steps*). Fall short and the **shortfall** lands as HP on you, Heat on the crew, or split between them. Meet it and the patron may answer with an **Offer** capped at the **lowest** of Turns spent, Alignment, and pageantry — and an **Ask**. That pair is where the Referee balances the bargain. A patron will not hear you again while a prior Ask is still open. Relics carry +1 Alignment. At Alignment 3+ with Relic in hand you may stand as the patron's saint. Rebuking the willful dead in a patron's name is the Isles' true "turning" (see *We Burn Undead*) — same Turn-per-level and pageantry rules.
-
-The full rules live on **[[Burners Invocations]]**: patrons and their natures, True Names, pageantry, the Offer and the Ask, shaping, Relics, sentient items, and saints.
-
-```
-INVOCATION — quick reference
-WHO     you, if you know the True Name
-ALIGN   Traits that bear on the patron, ÷ 4 (round down); +1 if carrying their Relic
-TIME    ~10 min (1 Turn) per Offer level; pageantry first — not a combat Action
-PAGEANT altar / incense / sacrifice / Relic; gates the Ask
-CALL    Name thrice + request (only what the pageantry can bear)
-COST    8 small / 10 middling / 12 serious; no world-tilting; ±2 by nature
-ROLL    2d6 + Alignment vs Cost — meet it or shortfall → HP and/or Heat
-CAP     Offer ≤ min(Turns, Alignment, pageantry); not a wish
-DEBT    one open Ask per patron — no second call until cleared
-ASK     quest · taboo · shaping Trait · Heat later · deed
-NOT     spells · Arcana · Sorcerie school
-```
+Patron Alignment is **not** Sorcerie. Calling on the patron — pageantry, True Name, Offer and Ask — is an **Invocation**. The full rules live on [[Burners Invocations]].
 
 ## HP, Heat, and Armor
 
-You have HP of one d6 per character level, rolled. Just 1d6 at first level. Reroll on each level-up for the higher of the new total or the old plus one. HP is not meat. It is luck, wind, and the reflex to turn a blow — **hit protection**. Blows come off your HP as near-misses. An attack that leaves you at **0 or less** opens a **Wound** (see *Wounds*). Overflow past 0 deepens the negative tally and adds to **wound severity**.
+You have HP of one d6 per character level, rolled. Just 1d6 at first level. Reroll on each level-up for the higher of the new total or the old plus one. HP is not meat. It is luck, wind, and the reflex to turn a blow — **hit protection**. Blows come off your HP as near-misses. Only overflow **past 0** opens a **Wound**, driving your HP into the negative (see *Wounds*). That overflow adds to **wound severity**. At **0** you are out of luck, not yet cut — ordinary people have no hit protection and sit at 0 without being Wounded.
 
 Heat is the other track. It is not a pool of hit points. It is the scene's pressure, shared by your whole crew. It is the difficulty your out-of-combat costs are quoted against, and the clock that tells you how close the job is to going wrong. Every scene opens at a base (a quiet meet 3-4, a working delve or a parley that matters 6, a blown job or a hall on fire 8) and climbs as costs mount. Blows in a fight do not feed it; those go to HP. Heat rises in a fight only when the Referee judges the danger has turned. It has no ceiling. A hot scene is simply a dangerous one.
 
@@ -513,6 +479,15 @@ When the Referee asks for a roll, they name the target. Name your Approach.
 
 Roll 2d6 and add your Approach level. Meet or beat the target and you do it clean. Fall short and you pay: HP or a wound if you are in personal peril, or Heat if the trouble is on the crew.
 
+There is no separate birthright to withstand a danger. You endure with the same four Approaches you act with. When a hazard tests you, pick the Approach the danger asks for and roll against the Referee's Cost:
+
+- **Sword:** hold your feet, force a door, stay conscious under a wound.
+- **Craft:** dodge what you cannot fight: a dart, a pit, a floor giving way, a creeping poison.
+- **Heart:** hold your nerve against fear, a charm, a horror from the dark.
+- **Sorcerie:** shrug off a mind-magic and dredge up what you know.
+
+Where none fits, work it as an Alignment (see Alignment). Hostile magic in a fight uses Fuel Defend against the caster's cast total (see *Defending against a spell* under Combat and [[Burners Sorcerie]]).
+
 #### Sweet & Spicy
 
 Out of combat:
@@ -548,13 +523,12 @@ A coup de grace finishes a helpless foe outright. A truly helpless foe (bound, a
 
 You take a **Wound** when:
 
-- an attack leaves you at **0 HP or less**;
-- **level drain** hits you (even if you are still above 0);
+- an attack drives you **below 0 HP** (overflow past 0) — steel, claw, or drain touch alike;
 - or harm lands where **HP cannot help** (helpless coup, some poisons, module specials — Referee's call).
 
-Resolve each Wound once, then carry it. Wounds accumulate. Penalties last until you reach **full HP** (maimings excepted).
+Resolve each Wound once, then carry it. Wounds accumulate. Penalties last until you reach **full HP** (maimings excepted). A blow that lands you **exactly at 0** spends the last of your luck; you are not Wounded until a blow drives you negative. Energy drain does not bypass that cushion — negative energy meets negative hit points.
 
-**Wound severity.** Keep a running total for the fight: for each attack that caused a Wound, add its **overflow** past 0 (damage that drove you below 0 after armor). A blow that lands you **exactly at 0** is severity **0**. Level drain or other non-HP Wounds add **0** unless that same attack also overflowed HP. Severity is not "current negative HP" alone — you can be Wounded while still above 0.
+**Wound severity.** Keep a running total for the fight: for each attack that caused a Wound, add its **overflow** past 0 (damage that drove you below 0 after armor). Non-HP Wounds (where HP cannot help) add **0** unless that same attack also overflowed HP.
 
 1. Find the location. Use a named spot if someone called it, or roll 1d6: 1 head, 2 torso, 3 waist, 4 arm, 5 hand, 6 leg. A limb is left or right, by the fiction or a coin, and a hit takes one limb.
 
@@ -608,14 +582,14 @@ After **any fight in which you took a Wound**, you **die** unless you receive **
 
 Helped, you make a **survival check**: **`2d6 + Craft` vs total wound severity**. An ally who assists may let you use **their Craft** in place of yours. Natural **1+1 always fails**; **6+6 always succeeds**. Fail, or go unhelped → **dead**.
 
-Death is death. Some monsters (wights, and other drain undead) have **special rules** that kick in if you die from their attack — rising as spawn, and so on. See the monster and [[Burners Referee Guide]].
+Death is death. A **drain Wound** from a wight or kin is a death clock — see [[Burners Burn Undead#Drain Wounds]].
 
 #### Healing and recovery
 
 **Full HP closes wounds.** Maimings at the brink do not heal on their own.
 
 - **Hour Rest** (one hour, food and water): recover **all HP** to maximum — **only if you have no Wound**. If you are Wounded, Hour Rest does nothing for HP until you are whole again.
-- **Wounded:** recover **1 HP per day** naturally (safe rest with food) until **full HP**, then the Wound closes. *Stanch*, other Vitae, potions, and chirurgeons can restore HP sooner; *Healing Touch* does not help at **0 HP or less** — that is *Stanch*.
+- **Wounded:** recover **1 HP per day** naturally (safe rest with food) until **full HP**, then the Wound closes. *Stanch*, other Vitae, potions, and chirurgeons can restore HP sooner; *Healing Touch* does not help at **0 HP or less** — that is *Stanch*. An unpurified **drain Wound** ignores ordinary recovery — see [[Burners Burn Undead#Drain Wounds]].
 - **First aid** (Craft): tends a wound in the field; it does not restore HP by itself, but can be the **help** that lets you attempt the survival check.
 
 *Example. Aldric (Sword 1, maximum 4 HP) is driven to −3 by a blow of overflow 3: Wound, severity 3, leg — in the dirt. Shock (`2d6 + Sword` vs 3) beats it; he stays effective but in the dirt. After the fight an ally helps; survival (`2d6 + Craft` vs 3) succeeds. He climbs 1 HP per day (−2, −1, 0, 1…) until full 4; then the Wound closes. Hour Rest would not have filled him while Wounded.*
@@ -682,27 +656,7 @@ Armor is what you wear; its AC comes off every blow before HP.
 
 ### We Burn Undead
 
-*In the Dragon Isles there is no priest who lifts a holy symbol and sends the skeletons scattering. You don't turn undead. You burn undead. The dead are dry: old bone, grave-linen, tomb-dust, the leathered husk of a thing that stopped drinking centuries ago. Nothing takes a torch more gladly. When you meet the walking dead, the plan is rarely subtle. Light the barrow, and stand back.*
-
-**The mindless dead: steel fails, fire feasts.** The shambling horde (skeletons, corpse-things, grave-risen) are monsters with HP, built like any other, with one convention that makes the fiction true:
-
-- **Resistance to blades.** A sword through a skeleton finds no organs, no blood, no lungs to collapse. Steel does little (treat undead as having Resistance against cutting and piercing weapons; the Referee sets the value by how bony or desiccated the thing is). Bludgeoning that shatters rather than cuts ignores this. A mace or maul works where slicing does not.
-
-- **Vulnerability to fire.** The dead are kindling. Fire ignores their blade-Resistance and bites deep. A torch, a flask of oil, a stray flame: count fire damage at full, or with a bonus, the Referee's call. Burning is the right play, not color.
-
-So the answer to a crypt full of the shuffling dead is not a magic word. It is oil, flame, and a fast exit. Bring more oil than you think you need. You will use it.
-
-**The willful dead: the deal, not the torch.** The mighty dead are a different problem. A wraith has no dry flesh to catch. A lich keeps its life hidden in a phylactery the fire never touches. A vampire lord has laughed at torches for a thousand years. Fire alone will not clear them. Against the willful dead you need one of the rarer answers:
-
-- **A Saint's patron.** If you have dealt with an otherworldly being whose nature opposes the grave (see Invocations), you may turn that being's power on the dead: not your holiness, but the patron's, lent through your pact. Rebuking a lich in another thing's name is the Dragon Isles' true "turning," and it costs what all pacts cost.
-
-- **A named or eldritch edge.** A woken enchanted weapon, a Relic, a Named blade. Recall how the Kalla demon fell to the named Alu sickles. What the fire cannot burn, the right eldritch steel can cut.
-
-- **Nerve.** As a Boss you may face down the intelligent dead by sheer presence: cow a wraith, stare down a vampire's thrall. A skeleton has no will to break; a thinking dead thing does.
-
-So: torch the horde; deal, name, or dare the lord.
-
-*"We don't turn undead. We burn undead." — the old barrow wisdom, and more oil than sense.*
+You don't turn undead. You burn undead. Mindless dead: blade-Resistance, fire feasts. Drain touches open a death-clock Wound only **past 0** — Midnight or Incendiary purge, survival at once. Willful dead want a deal, a named edge, or nerve. Full page: [[Burners Burn Undead]].
 
 ### Defending against Damage
 
@@ -716,30 +670,15 @@ Magic is prepared, not spontaneous. Spells are **cards**: your spellbook is the 
 
 Magic touches your game in two places. The Sorcerer title (Sorcerie 1) lets you cast. Your combat cast is one Action that spends at least L Fuel dice (L = the spell's level) and rolls them for the cast total. The spell catalog is [[Burners Spells]].
 
-The full rules are on **[[Burners Sorcerie]]**. The catalog is **[[Burners Spells]]**. You need them if you are a Sorcerer (or a Journeyman on the Canting road). At the table you need how a spell hits you (*Defending against a spell*, under Combat) and the quick reference below.
+The full rules are on **[[Burners Sorcerie]]**. The catalog is **[[Burners Spells]]**. You need them if you are a Sorcerer (or a Journeyman on the Canting road). At the table you need how a spell hits you (*Defending against a spell*, under Combat).
 
 ### Relics and sentient items
 
 **Relics** and **sentient items** are covered on [[Burners Invocations]] (Alignment with a patron, Relic +1, true names). They are not spells; they interact with Signatures and legendary items as the Referee defines. Spell magic remains [[Burners Sorcerie]] / [[Burners Spells]].
 
-### Magic, quick reference
-
-```
-WHO     Sorcerer (Sorcerie 1+); Journeyman + Canting Trait (Craft 1+) for Canting only
-WHAT    school spells ([[Burners Spells]]), by level — cards in hand, deck in spellbook
-HAND    size = Arcana slot count; unique spell names; 7+5 start (Sorcerer: 5 spells ready; Canting: empty); multiclass = one hand, sleep = higher of Sorcerie/Craft
-WHEN    redraw or swap = sleep + source, or 1 hour swap one card; sleep recovers ≤ Level cards (untap/burn/lasting; lasting may stay)
-HOW     combat cast = one Action, ≥ L Fuel dice → cast total; tap card; burn ready cards same Action to recast/copy
-SCROLL  item, not card; Action + L Fuel; spent; Sorcerer or Canting Journeyman + school Trait
-POTION  physical slot only; downtime brew; anyone drinks
-DEFEND  hostile magic: initiative if needed; Fuel vs cast total; Ward = ≤ Sorcerie Level Fuel cuts attack, then each ally Defends (Sorcerer only; magical breath OK)
-ROLL    out of combat, 2d6 + Sorcerie (or Craft for Canting)
-LIMITS  learn ≤ Sorcerie/Craft · ritual = learned into own book + open readable source · no spontaneous cast · no spell-Signatures
-```
-
 ## Lingering Costs: Poison, Petrification, Paralysis
 
-When you **Defend** cleanly you avoid the bite: the fitting Approach against its Cost, Craft against poison (see Defend). Once it lands, it deals its level in damage to your HP each round for a number of rounds equal to its level, with no further defense. You escape it with a cure (an antidote, a Vitae working) or by surviving the duration. Past 0 HP it wounds you each round, deepening your negative tally like any wound, or petrifies or paralyzes you as the effect dictates. The Referee rolls nothing. The dread does the work.
+When you endure cleanly you avoid the bite: the fitting Approach against its Cost, Craft against poison (see *Approach Roll*). Once it lands, it deals its level in damage to your HP each round for a number of rounds equal to its level, with no further defense. You escape it with a cure (an antidote, a Vitae working) or by surviving the duration. Past 0 HP it wounds you each round, deepening your negative tally like any wound, or petrifies or paralyzes you as the effect dictates. The Referee rolls nothing. The dread does the work.
 
 ## Area Effects
 
@@ -747,9 +686,9 @@ Counter a monster breath by raising your shield (a legendary shield is broad), b
 
 ## Influence
 
-There is no Persuade roll for whether the world bends; that is Step 1. Ask the jailer to free the prisoners against his duty and it simply fails. Bribe him to look away and it works, at the cost of the gold or a Spicy twist, and a good read earns the edge on how well. Turn the cultists on each other and you must first manufacture the wedge, then it tips.
+Say what you do and the Referee rules whether it can work (see *The Two Steps*). Ask the jailer to free the prisoners against his duty and it fails. Bribe him to look away and it works — gold or a Spicy twist, and a sharp read softens what you pay. Turn the cultists on each other only after you have built the wedge; then the room tips.
 
-Disposition is a fact of the world, which the Referee may roll on the Reaction table (see [[Burners Referee Guide]]). Heart amplifies a success the fiction already grants. Social costs (coin, favor, time, reputation) are open to haggling.
+Disposition is a fact of the world. When the fiction has not fixed it, the Referee may roll the Reaction table (see [[Burners Referee Guide]]). Heart amplifies a success the fiction already grants. What you pay in coin, favor, time, or reputation is open to haggling.
 
 ## Hirelings and retainers
 

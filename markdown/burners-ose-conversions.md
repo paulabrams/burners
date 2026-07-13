@@ -147,7 +147,7 @@ A monster spends its pool exactly as a character does: each blow is one die, plu
 
 ### The Defend Router
 
-An OSE save is a pointer to a Burners subsystem — see [[Burners Principles#Route, don't reinvent]] and [[Burners Principles#Granular defense, not binary save]]. **`2d6 +` the fitting Approach** against the Referee's Cost handles most hazards (see *Defend* in [[Burners Adventure Game]]). Hostile magic uses Fuel Defend against the caster's cast total (see [[Burners Sorcerie]]). Ask what the save protects, then route it:
+An OSE save is a pointer to a Burners subsystem — see [[Burners Principles#Route, don't reinvent]] and [[Burners Principles#Granular defense, not binary save]]. **`2d6 +` the fitting Approach** against the Referee's Cost handles most hazards (see *Approach Roll* in [[Burners Adventure Game]]). Hostile magic uses Fuel Defend against the caster's cast total (see [[Burners Sorcerie]]). Ask what the save protects, then route it:
 
 | OSE says | Burners does |
 |---|---|
@@ -185,7 +185,7 @@ See [[Burners Principles#Armor and Resistance soak; they never roll]].
 
 Every Resistance above a point or two **names its cause** — see [[Burners Principles#Armor and Resistance soak; they never roll]]. A named weakness **ignores** Resistance, the way a Bane-forged weapon ignores its quarry's soak (see [[Burners Arms and Armor]]).
 
-**Energy drain** (wights, wraiths, spectres): **no levels lost.** A successful drain touch opens a **Wound** even above 0 HP. After the fight: help + Craft survival, or die. If you **die from that creature's attack**, its **monster special** may fire (rise as spawn, and so on) — write it on the block; telegraph it. See [[Burners Principles#No instant death]].
+**Energy drain** (wights, wraiths, spectres): **no levels lost.** Damage to **HP**; **Wound** only **past 0**. Then Midnight / Incendiary purge (**1d6 × N**), immediate Craft survival; die unclean → spawn; die from purge → rest in peace. See [[Burners Burn Undead#Drain Wounds]] and [[Burners Principles#No instant death]].
 
 **Mobs vs. the unearthly:** see [[Burners Principles#Armor and Resistance soak; they never roll]].
 

@@ -17,7 +17,9 @@ module Burners
       'Burners Equipment' => 'burners-equipment',
       'Burners Arms and Armor' => 'burners-arms-and-armor',
       'Burners OSE Conversions' => 'burners-ose-conversions',
-      'Burners Examples of Play' => 'burners-examples-of-play'
+      'Burners Examples of Play' => 'burners-examples-of-play',
+      'Burners Burn Undead' => 'burners-burn-undead',
+      'We Burn Undead' => 'burners-burn-undead'
     }.freeze
 
     module_function

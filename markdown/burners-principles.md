@@ -33,7 +33,7 @@ Burners has no save-or-die. Endurance is **Defend** — a graded contest, not a 
 
 A binary save asks *did you avoid it?* Burners asks *how much did you stop, and what is left?*
 
-**Procedure:** *Defend* in [[Burners Adventure Game]]; *Defending against a spell* in [[Burners Sorcerie]]; *The Defend Router* in [[Burners OSE Conversions]].
+**Procedure:** *Approach Roll* (hazards) and *Defending* under Fighting in [[Burners Adventure Game]]; *Defending against a spell* in [[Burners Sorcerie]]; *The Defend Router* in [[Burners OSE Conversions]].
 
 ---
 
@@ -151,9 +151,9 @@ Poison, paralysis, petrification, death rays, and energy drain route into subsys
 - **Wounds** and **Shock Checks** (combat-effective), then **help + Craft survival** after the fight — see [[Burners Adventure Game#Wounds]];
 - a **telegraphed area effect** you Ward (if magic), cover, or eat.
 
-**Energy drain** does **not** strip levels. A successful drain touch (wight, wraith, and kin) opens a **Wound** even if you are still above 0 HP — you are Wounded for recovery and post-fight survival. No Hour Rest until full HP. If you **die** from that creature's attack (unhelped or failed survival), the **monster's special** may fire — rise as spawn, and so on. Write it on the monster; telegraph it at the table.
+**Energy drain** does **not** strip levels. Drain opens a death-clock Wound only **past 0** — Midnight, Incendiary purge, immediate survival, spawn if unclean. Full procedure: [[Burners Burn Undead#Drain Wounds]].
 
-Death comes from **failed post-fight survival**, **unhelped Wounds after a fight**, or a **coup de grace** on a helpless body — not from a single failed save out of combat, and not from classic level loss. The Referee may offer a maiming at the brink instead.
+Death comes from **failed survival** (after a fight, after Midnight, or after a purge), **unhelped Wounds**, or a **coup de grace** on a helpless body — not from a single failed save out of combat, and not from classic level loss. The Referee may offer a maiming at the brink instead.
 
 ---
 

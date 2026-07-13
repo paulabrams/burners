@@ -85,7 +85,10 @@ while IFS= read -r -d '' md; do
     echo "converting: $base"
     if pandoc "$md" \
         --pdf-engine=weasyprint \
-        --metadata title="$base" \
+        -M title="" \
+        -V maxwidth=none \
+        -V margin-left=0 -V margin-right=0 -V margin-top=0 -V margin-bottom=0 \
+        -V header-includes='<style>@page { margin: 1.2cm; }</style>' \
         -o "$pdf"; then
       converted=$((converted + 1))
     else

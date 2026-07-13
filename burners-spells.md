@@ -7,7 +7,7 @@ hero_alt: "The wizard and his book — H. J. Ford"
 
 # Burners Spells
 
-Eight magic schools, each with up to 36 spells from 1st to 6th level. Sorcerie is the common craft every mage shares; the other seven are the traditions of the peoples of the Dragon Isles. How you bind, cast, and Defend is on **[[Burners Sorcerie]]**.
+Eight magic schools, each with up to 36 spells from 1st to 6th level. Sorcerie is the common craft every mage shares; the other seven are the traditions of the peoples of the Dragon Isles. How you prepare, cast, and Defend is on **[[Burners Sorcerie]]**.
 
 | School | Domain | Tradition |
 | --- | --- | --- |
@@ -36,7 +36,7 @@ Each of the seven people-schools lists six spells at every spell level, 1 throug
 
 - **Control** — effect lane, not HP; see [[Burners Principles#Harm and effect are separate lanes]] and *Defending against a spell* above.
 - **Wound work:** *Healing Touch* (Vitae 1) closes limb wounds; for open vital wounds use a **Wound Check** — campaign alias *Stanch* (same level).
-- **Canting** rolls Craft, and a Journeyman (Craft 1+) — not only a Sorcerer — may prep and cast it (see *The Sorcerer* on [[Burners Sorcerie]]).
+- **Canting** rolls Craft; a **Journeyman (Craft 1+)** with the **Canting** Trait may cast it (see *The Sorcerer* on [[Burners Sorcerie]]).
 
 ---
 
@@ -44,7 +44,7 @@ Each of the seven people-schools lists six spells at every spell level, 1 throug
 
 ### Sorcerie
 
-The common craft — no people's tradition, but the raw grammar of magic that underlies all seven schools. These are the first workings every apprentice learns before a school claims them, and the meta-magics the schools never bother to teach: reading auras, dispelling, warding, making a working last. Sorcerie is written in plain sigils any mage can read, and it needs **no school Trait** — any Sorcerer may learn and bind its spells, whatever their tradition. It never throws force; it handles magic itself.
+The common craft — no people's tradition, but the raw grammar of magic that underlies all seven schools. These are the first workings every apprentice learns before a school claims them, and the meta-magics the schools never bother to teach: reading auras, dispelling, warding. Sorcerie is written in plain sigils any mage can read, and it needs **no school Trait** — any Sorcerer may learn and cast its spells, whatever their tradition. It never throws force; it handles magic itself.
 
 #### Sorcerie Level 1
 
@@ -75,10 +75,6 @@ Shared Ward Pact — *ward the company*
 
 Identify — *read a magic item true*
 
-#### Sorcerie Level 6
-
-Permanency — *make a working last*
-
 ### Vitae
 
 Life force, growth, and harmony. The magic of the Elves, written in living ink that grows and changes like vines. The hallow channel beneficial energies, promote growth, and keep nature's balance.
@@ -105,7 +101,7 @@ Life Bloom — *encourage growth*
 
 Forest Touch — *speak with plants*
 Pacify — *remove violence*
-Star Referee — *find true path*
+Star Guide — *find true path*
 Sun Beam — *channel daylight*
 Thicket — *grow healthy plants*
 Truth Sight — *see through lies*
@@ -663,9 +659,9 @@ magical writing; that is *Read Magic*.
 #### Read Magic
 
 Sorcerie 1: You read magical script — runes, glyphs, spellbook entries, scroll text —
-well enough to identify a working. Once you have read a spell in a **book**, you may bind
-and ritual from that writing while you carry it; moving it into your own book destroys the
-source (see *Spellbooks and Known Spells* on [[Burners Sorcerie]]). A **scroll** is a single-use item in any form: *Read Magic* tells you
+well enough to identify a working. Once you have read a spell in a **book**, you may treat
+it as known while you carry that source and memorize it into your hand on redraw; moving
+it into your own book destroys the source (see *Spellbooks* on [[Burners Sorcerie]]). A **scroll** is a single-use item in any form: *Read Magic* tells you
 what it holds before you cast (and spend) it, or unmake it into your book. Without
 *Read Magic*, magical writing is opaque (unless you already read that school's hand).
 **Free and always known** by every Sorcerer; costs no slot to know. (The working behind
@@ -681,13 +677,13 @@ Illusione 1: You create a silent, motionless illusory image about the size of a 
 
 #### Ward Pact
 
-Sorcerie 1: When you **bind** this working, name **one narrow source of harm** — blades,
+Sorcerie 1: When you **ready** this card in your hand, name **one narrow source of harm** — blades,
 bludgeons, missiles, fire, cold, lightning, the fang-and-claw of beasts, or **magic** (the
 pact traditionally called **Parma Magica** or the **Mage Shield**). Casting raises the ward:
 for Sorcerie turns, attacks of the named source against you suffer **−Sorcerie Damage**, and
 against the magic pact, trivial first-level workings wash off entirely. No help against any
 harm you did not name, nor against magic made physically substantive (conjured stone, a
-flame wall) unless *magic* is the pact. Bind it in two Arcana to hold two pacts at once.
+flame wall) unless *magic* is the pact.
 
 #### Web Weave
 
@@ -819,11 +815,11 @@ Elementale 2: Sorcerie creatures can alter their 'down' direction at will.
 
 #### Greater Ward Pact
 
-Sorcerie 2: As Ward Pact, but the ward you name at binding covers a **whole category**: all
+Sorcerie 2: As Ward Pact, but the ward you name when you ready this card covers a **whole category**: all
 **weapons** (every physical arm, melee or thrown or shot), all **elements** (fire, cold,
 lightning, and their kin), all **magic**, or all the **wild** (fang, claw, horn, sting, and
 natural venom). For Sorcerie turns, anything in that category deals **−Sorcerie Damage** to
-you. One category per binding.
+you. One category per readying.
 
 #### Greed
 
@@ -869,7 +865,7 @@ Necromantia 2: Sense living creatures within Sorcerie × 60' for Sorcerie turns.
 
 Sorcerie 2: For Sorcerie turns you sense the direction to the nearest example of one object
 you name and clearly picture, within Sorcerie × 100'. Finds objects, not creatures, and is
-blind to anything warded (a Dark Anchor, lead, running water at the Referee's call).
+blind to anything warded (a Dark Anchor, lead, running water at the Guide's call).
 
 #### Lock
 
@@ -986,7 +982,7 @@ Umbrakala 3: Plant a nightmare in one sleeper; Defend; if defense < cast, they w
 
 #### Object Memory
 
-Thaumaturgy 3: The Referee answers Sorcerie yes or no questions about an object.
+Thaumaturgy 3: The Guide answers Sorcerie yes or no questions about an object.
 
 #### Ooze Form
 
@@ -1010,7 +1006,7 @@ Illusione 3: You can create illusory sounds that seem to come from Sorcerie dire
 
 #### Psychometry
 
-Necromantia 3: The Referee answers Sorcerie yes or no questions about an object.
+Necromantia 3: The Guide answers Sorcerie yes or no questions about an object.
 
 #### Rain Make
 
@@ -1044,7 +1040,7 @@ Necromantia 3: A creature can smell all scents up to 120' away for Sorcerie turn
 
 Thaumaturgy 3: You can climb surfaces like a spider for Sorcerie turns.
 
-#### Star Referee
+#### Star Guide
 
 Vitae 3: For Sorcerie hours you know the true direction to one named place you have visited before.
 
@@ -1217,7 +1213,7 @@ Necromantia 4: The spirit of a touched dead body appears and will answer Sorceri
 
 #### Stone Tell
 
-Elementale 4: The Referee answers Sorcerie yes or no questions about an object.
+Elementale 4: The Guide answers Sorcerie yes or no questions about an object.
 
 #### Teleport
 
@@ -1503,13 +1499,6 @@ Umbrakala 6: Become living shadow for Sorcerie turns; immune to non-magical weap
 #### Perfect Unity
 
 Vitae 6: For Sorcerie turns, hostile emotions cannot escalate in Sorcerie × 10' — no new fights start; existing fights continue.
-
-#### Permanency
-
-Sorcerie 6: Anchor one ongoing working you know, of level ≤ Sorcerie − 1, so it no longer
-needs sustaining: it holds until dispelled. It permanently occupies one of your Arcana slots
-while it stands (the working lives there; the slot stays **active**, never **used**). You may
-hold one Permanency per Sorcerie level.
 
 #### Plague Wind
 

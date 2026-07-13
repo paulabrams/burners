@@ -109,7 +109,7 @@ Quick definitions. Details live in the chapters below.
 
 ### Combat
 
-- **Roll Initiative!:** at the top of every combat round. Round 1: gather and roll your full pool (character level, weapons and shields in hand, sorcerer arcana, empty slots). Round 2+: refill one Fuel die per character level, roll those into your pool, then count. See Fighting.
+- **Roll Initiative!:** at the top of every combat round. Round 1: gather and roll your full pool (character level, weapons and shields in hand, Arcana slots declared, empty slots). Round 2+: refill one Fuel die per character level, roll those into your pool, then count. See Fighting.
 
 - **Combat Round:** one minute, taken in locked Initiative order. On your turn, take one Action (attack, cast a spell, etc.). Moving and positioning come with it, part of the Action, not a separate step. Defending is not free; it burns your Fuel. Sword governs the exchange: it grants you extra attacks and a deeper pool.
 
@@ -136,7 +136,7 @@ Quick definitions. Details live in the chapters below.
 
 - **Prone:** knocked down by a Stunt, a Shock result, or a waist or leg wound. You cannot Dodge, so any blow you do not actively meet lands whole. If you have made a melee attack this round you Defend without limit; otherwise one die. Extra Veteran attacks let you Block for allies from the ground. Rising is free unless a foe presses you in melee, when it costs a die (see Stunts). A waist or leg wound pins you down until you reach **full HP**.
 
-- **Cast (Sorcerer only):** one Action in combat; spend at least Spell Level Fuel dice and roll them. The **cast total** is the sum of those faces. On a Spark, you may spend up to Spell Level additional Fuel for extra effect. Your Arcana slot goes bound → active → used; used slots clear after 8 hours' sleep. See *Magic* and [[Burners Sorcerie]].
+- **Cast (Sorcerer only):** one Action in combat; spend at least Spell Level Fuel dice and roll them. The **cast total** is the sum of those faces. On a Spark, you may spend up to Spell Level additional Fuel for extra effect. The spell's **card taps** (or stays *in play* if lasting). You may **burn** other ready cards in the same Action to recast from discard or copy a working in play. See *Magic* and [[Burners Sorcerie]].
 
 - **Ward (Sorcerer only):** at any time, magically defend ("ward!") adjacent allies from a hostile magical attack. Commit up to your Sorcerie Level in Fuel dice. This reduces the magical attack value for all of those allies, who then defend normally. This does not take an action. Examples:
 
@@ -191,7 +191,7 @@ You may also have gear and coin from your Approach:
 | **Sword** (Veteran) | 100 gp | nothing extra (your coin *is* your kit: buy arms, armor, a shield) |
 | **Heart** (Boss) | 80 gp | one **henchman**: fills your first Heart slot (see *Henchmen* under *The Boss*); basic gear, keep and a share of the take |
 | **Craft** (Journeyman) | 60 gp | choice of one "tool of the trade" based on one of your Traits, such as a hunting bow with a quiver of arrows, wood ax, blacksmith's hammer, etc. |
-| **Sorcerie** (Sorcerer) | 40 gp | your **personal spellbook** of four 1st-level spells of your school (known), and **two Level-1 Arcana** (wizard drip) |
+| **Sorcerie** (Sorcerer) | 40 gp | **7 physical + 5 Arcana slots** (locked until first sleep); **personal spellbook** with *Read Magic* and four other 1st-level spells (known); **hand of 5** — all five ready |
 
 Veterans start as outfitted soldiers; Bosses as moneyed leaders rich in people; Journeymen as scrappy woodsmen poor in coin but woods-ready; Sorcerers as folk who spent nearly everything becoming mages. You earn legendary gear in play.
 
@@ -206,11 +206,13 @@ Spend your gold in town from the tables below; everything you carry ready takes 
 
 A Sorcerer's craft comes with a kit (the fruit of your apprenticeship). That is why your starting purse (40 gp) is so much lighter than a Veteran's: you already spent most of it becoming a mage. Your kit is:
 
-- **Two Level-1 Arcana** of wizard drip you choose: wand, staff, rod, orb, crystal, ring, amulet, mask, robes, hat. Never armor, shields, or war kit — see *Arcana* on [[Burners Sorcerie]].
-- A **spellbook** of four 1st-level spells from your school, all known, carried in a **scrivener's satchel**: the book plus an ink pot, quill, and a sheaf of loose-leaf paper. Plain ink and loose leaves record Facts in the field (scraps, runes, fragments), free; the *special reagent inks* that fix a working permanently into the book are a separate cost (see *Spellbooks and Known Spells* on [[Burners Sorcerie]]).
-- **Read Magic**, free and always known. The working behind *Reading Magic*, not a school spell.
+- **7 physical slots + 5 Arcana slots** — declare the split at creation; you may not re-split until your first 8-hour sleep. Arcana slots set your **hand size** (5) and hold **Wizard Drip** only — wand, staff, rod, orb, crystal, ring, amulet, mask, robes, hat, at each item's full slot cost. Never armor, shields, or war kit. See *Arcana Slots* on [[Burners Sorcerie]].
+- A **spellbook** in a **scrivener's satchel** (book, ink pot, quill, loose-leaf paper): ***Read Magic*** plus **four other 1st-level spells** from your school, all known. The Referee picks, rolls, lets you choose, or works with you. Plain ink records Facts free; *reagent inks* that fix a working into the book are a separate cost (see *Spellbooks* on [[Burners Sorcerie]]).
+- Your **hand is all five** known spells — ready to cast. Count them on your fingers.
 
-Two of your school's six 1st-level spells are **not** in your book. Those, deeper spells, other schools, and better foci are your hunt. *Read Magic* lets you work a found spell from its source while you carry it. Moving it into your book costs **100 gp × its level** and destroys the source. See [[Burners Sorcerie]].
+Two of your school's six 1st-level spells are **not** in your book. Those, deeper spells, other schools, and found drip are your hunt. *Read Magic* and readable sources (OSE) let you memorize from a found book while you carry it. Moving a spell into your book costs **100 gp × its level** and destroys the source page. See [[Burners Sorcerie]].
+
+A **Canting Journeyman** on the Canting road also starts **7 + 5 kicks**, but with **no spells** and an empty hand until they learn Canting in play.
 
 ### Weapons, Armor, and Shields
 
@@ -316,7 +318,7 @@ When you reach level 1 in an Approach, you earn its title. The title turns on th
 | Approach | Title | Turns on |
 | --- | --- | --- |
 | Sword | Veteran | extra attacks |
-| Sorcerie | Sorcerer | cast magic spells; identify and use Arcana |
+| Sorcerie | Sorcerer | cast from your hand; Arcana slots and wizard drip; read magic |
 | Craft | Journeyman | reduce party-wide travel, weather, and survival costs by your Craft level |
 | Heart | Boss | **henchman** slots (one per Heart level), Morale Check for the company, bonus XP for henchmen who delved with you |
 
@@ -396,9 +398,9 @@ Armor is what you wear. It soaks on the way in. Its AC comes off every blow befo
 
   - Traits: marsh-lore, second-sight, witch-blood, studious (Sorcerie).
 
-  - Spells: Stanch and Mend, known Vitae workings from her book.
+  - Hand: *Stanch* and *Mend*, two Vitae cards ready from her book; three other slots open until she redraws on rest.
 
-- Arcana: a wand with Stanch bound, a Vitae working that closes a wound and restores HP, the one thing that helps mid-fight. Once cast, the slot stays active briefly, then used until she sleeps.
+  - Split: 5 Arcana slots (hand size 5), 7 physical — a wand in one kick of drip, the rest plain kit.
 
 - **Pip**, Craft 1 (Journeyman). "Has never been caught. Not once."
 
@@ -576,6 +578,7 @@ Each Combat Round is one minute. You act in locked Initiative order. On your tur
 - one die per character level;
 - one die per slot if you have a weapon in hand;
 - one die per slot if you have a shield in hand;
+- one die per **Arcana slot** you declared (all of them — drip in those slots does not also count as weapon-in-hand dice);
 - one die per empty inventory slot, up to 4.
 
 Roll them all. The faces you rolled, kept as they lie, are your Fuel for the fight. Your Initiative is the count of them showing 3 or 4. The Referee locks order for the round — highest first. Ties: PCs win; among PCs the players choose who goes first; a PC tied with a foe may act first or yield.
@@ -648,11 +651,11 @@ There is no defense roll to fail; when struck you commit dice from your Fuel and
 
 ## Magic
 
-Magic is prepared, not spontaneous. As a Sorcerer you **bind** workings into **Arcana** (one hour of study with a readable book in hand: yours, or a found grimoire you can still read). Arcana are rare finds, not shop goods. **Scrolls** you make anytime for gold (100 gp × level): single-use workings — parchment, feather, charm, or the like — that burn when cast; **Sorcerer only** (not Arcana). **Potions** are downtime brew for anyone with Vitae or Craft (herbalism/alchemy): 100 gp × level, touch or self only — not Arcana; anyone may drink. A cast from an Arcana leaves the spell active for its duration, then used until you clear it with sleep. Hostile magic is Defended like steel.
+Magic is prepared, not spontaneous. Spells are **cards**: your spellbook is the deck, your **hand** is what you can cast now, and your **Arcana slot count** sets hand size. Arcana slots hold **Wizard Drip** (or a Canting rogue's kicks), not cards — the hand is personal. **Cast** taps a card; **burn** exiles ready cards in the same Action to recast or copy. After 8 hours' sleep you recover up to Sorcerie Level cards (Craft Level for Canting) from tapped/burned/lasting. **Scrolls** are single-use items (physical or Arcana slot), not cards — cast and spent; hand untouched. **Potions** are downtime brew; anyone may drink. Hostile magic is Defended like steel.
 
-Magic touches your game in two places. The Sorcerer title (Sorcerie 1) lets you cast. Your combat cast is one Action that spends at least L Fuel dice (L = the spell's level) and rolls them for the cast total. The spell catalog is [[Burners Spells]]. Common Sorcerie holds the workings you know regardless of tradition (Read Magic, Detect Magic, the Ward Pact family, and the rest).
+Magic touches your game in two places. The Sorcerer title (Sorcerie 1) lets you cast. Your combat cast is one Action that spends at least L Fuel dice (L = the spell's level) and rolls them for the cast total. The spell catalog is [[Burners Spells]].
 
-The full rules of magic are on **[[Burners Sorcerie]]** (who can cast, Arcana and binding, spellbooks, ritual, the cast, Defend against hostile workings, Reading Magic). The catalog is **[[Burners Spells]]**. You need them if you are a Sorcerer (or a Journeyman casting Canting). At the table you need just two things: how a spell hits you (*Defending against a spell*, under Combat) and the quick reference below.
+The full rules are on **[[Burners Sorcerie]]**. The catalog is **[[Burners Spells]]**. You need them if you are a Sorcerer (or a Journeyman on the Canting road). At the table you need how a spell hits you (*Defending against a spell*, under Combat) and the quick reference below.
 
 ### Relics and sentient items
 
@@ -661,14 +664,15 @@ The full rules of magic are on **[[Burners Sorcerie]]** (who can cast, Arcana an
 ### Magic, quick reference
 
 ```
-WHO     Sorcerer (Sorcerie 1+); Journeyman+ (Craft 1+) for Canting
-WHAT    school spells ([[Burners Spells]]), by level
-WHERE   bound into Arcana (capacity = the Arcana's Level); readable source present to bind
-WHEN    bind or replace = 1 hour + source; used slots clear after 8 hours' sleep
-HOW     combat cast = one Action spending at least L Fuel dice, rolled for cast total; Spark → up to L extra Fuel; slot → active → used
-DEFEND  hostile magic: Roll initiative if needed; Fuel dice vs cast total (no cap); HP harm OR effect, not both; Warding for adjacent allies
-ROLL    out of combat, 2d6 + Sorcerie
-LIMITS  learn ≤ Sorcerie · bind known only, ≤ Arcana Level · ritual = known + open book · no HP-fuel · no spell-Signatures
+WHO     Sorcerer (Sorcerie 1+); Journeyman + Canting Trait (Craft 1+) for Canting only
+WHAT    school spells ([[Burners Spells]]), by level — cards in hand, deck in spellbook
+HAND    size = Arcana slot count; unique spell names; 7+5 start (Sorcerer: 5 spells ready; Canting: empty)
+WHEN    redraw or swap = sleep + source, or 1 hour swap one card; sleep recovers ≤ Level cards (untap/burn/lasting)
+HOW     combat cast = one Action, ≥ L Fuel dice → cast total; tap card; burn ready cards same Action to recast/copy
+SCROLL  item, not card; Action + L Fuel; spent; Sorcerer or Canting Journeyman + school Trait
+DEFEND  hostile magic: initiative if needed; Fuel vs cast total; Warding = Fuel only (no card)
+ROLL    out of combat, 2d6 + Sorcerie (or Craft for Canting)
+LIMITS  learn ≤ Sorcerie/Craft · ritual = known + open book · no spontaneous cast · no spell-Signatures
 ```
 
 ## Lingering Costs: Poison, Petrification, Paralysis

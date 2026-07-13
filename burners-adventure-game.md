@@ -89,7 +89,7 @@ Quick definitions. Details live in the chapters below.
 
 - **Wound:** real injury. You take one when an attack leaves you at **0 HP or less**, when **level drain** hits (even above 0), or when harm lands where **HP cannot help**. Track **wound severity** (sum of overflow from wounding attacks). Penalties last until **full HP** (maimings excepted). See *Wounds*.
 
-- **Wound effects:** where you were hit matters. A leg wound drops you prone. A head hit narrows your sight. And so on.
+- **Wound effects:** where you were hit matters. A leg wound puts you in the dirt. A head hit narrows your sight. And so on.
 
 - **Shock Check:** when a Wound opens, roll **`2d6 + Sword` vs total wound severity** or drop out of the fight. Natural **1+1** always fails; **6+6** always succeeds. See *Wounds*.
 
@@ -134,7 +134,7 @@ Quick definitions. Details live in the chapters below.
 
 - **Stunt:** spend an attack to knock down, shove, disarm, trip, or grapple a foe instead of dealing damage or Blocking. See Fighting.
 
-- **Prone:** on the ground — a risky place to be. **Every Fuel die you spend while prone is re-rolled** — the new face is what counts (blow, Defend, cast, Block, Stunt). Rise free on your Action; if a foe presses you in melee, rising costs a die re-rolled **3+** (fail and you stay down; the die is spent either way). You may **throw yourself down** on your turn (dirty fighting — free with your Action) when the pool is trash and you need a scramble.
+- **In the dirt:** flat on the ground — a risky place to be. **Every Fuel die you spend while in the dirt is re-rolled** — the new face is what counts (blow, Defend, cast, Block, Stunt). Rise free on your Action; if a foe presses you in melee, rising costs a die re-rolled **3+** (fail and you stay down; the die is spent either way). You may **throw yourself in the dirt** on your turn (dirty fighting — free with your Action) when the pool is trash and you need a scramble.
 
 - **Cast (Sorcerer only):** one Action in combat; spend at least Spell Level Fuel dice and roll them. The **cast total** is the sum of those faces. On a Spark, you may spend up to Spell Level additional Fuel for extra effect. The spell's **card taps** (or stays *in play* if lasting). You may **burn** other ready cards in the same Action to recast from discard or copy a working in play. See *Magic* and [[Burners Sorcerie]].
 
@@ -174,6 +174,59 @@ Pick the Approach the danger tests. Where none fits, work it as an Alignment (se
 Signatures emerge in play. You do not choose them at creation.
 
 To pick a people to come from (Northmaren, Southmaren, Elf, Alu, Kith, and the rest), see [[Burners Ancestry]]. Each entry is a ready-made look plus a menu of Traits, gear, and the Signatures your kind grows into.
+
+### Traits
+
+On your sheet, a Trait is a skill or a quality: arming sword, herbalism, strong, perceptive, raised in the fens. You hold up to four Traits per character level, each tagged to an Approach. A Trait does not raise that Approach; your level does. You need not claim all four at each level. A delayed Trait costs nothing, so you can fill one in whenever play hands you the name. Traits come free with your levels. You never buy them with XP.
+
+Sample Traits by Approach:
+
+- **Sword** — arms, armor, and the fight.
+  - Skills: dagger, club, spear, axe, arming sword, mace, flail, bow, crossbow, shield, wrestling, boxing, ambush, tactics, cavalry, siege, heraldry, scouting. Trained-only: greatsword, poleax, longbow, plate armor.
+  - Qualities: strong, fearless, relentless, steady, iron-willed, veteran, hard to kill, courageous, steady under fire, dragon-scarred.
+- **Craft** — the practical skills of daily life.
+  - Skills: lockpicking, stealth, tracking, trapping, disguise, sailing, herbalism, smithing, bowyer, fletcher, carpentry, navigation, climbing, swimming, survival, bushcraft, wood lore, hunting, first aid, appraisal, rope use. School Trait:
+  - Qualities: nimble, observant, patient, resourceful, quiet, cunning, light-fingered, sure-footed, raised in the fens, knows the woods.
+  - Magic Schools: *Canting* (see below)
+- **Heart** — people, nerve, and presence.
+  - Skills: persuasion, intimidation, deception, leadership, empathy, trading, medicine, performance, streetwise, linguistics, riding, music, stagecraft, mimicry, ventriloquism, gambling, etiquette.
+  - Qualities: charming, commanding, loyal, silver-tongued, well-connected, witty, jaded, honorable, commanding voice, lucky.
+  - Languages: Northmaren, Southmaren, Eldarin, … (see below)
+- **Sorcerie** — the unseen, and the schools that open it.
+  - Qualities: perceptive, studious, second-sight, ancient-blooded, learned, haunted, witch-blood, marsh-lore, rune-wise, bookish.
+  - Arts (not schools): divination, alchemy, binding, ancient lore — learned as Traits or from books, as the table prefers.
+  - Magic Schools: *Sorcerie*, *Vitae*, *Elementale*, *Thaumaturgy*, *Illusione*, *Umbrakala*, *Necromantia*, *Canting* (see below)
+
+#### Languages (Heart)
+
+**Common tongues**:
+
+You've heard at least enough of all three trade tongues ("common tongues") to get by in daily communication; you can talk to innkeepers, buy gear from a shop, etc. Most Eldar and goblins in the wilds can do the same. A Trait in a trade tongue makes you fluent and literate in it — fit for courts, treaties, and books. Your Heart level determines your overall oratory and literary prowess.
+
+- **Northmaren** — (Northman, Norn) the north: Alglonds, Lyonese, Kith lands, and the river kingdoms.
+- **Southmaren** (Harnendorian, Harn) — the south and the seas; the trading tongue most nations use.
+- **Eldarin** (the Elder Tongue) — old civilizations and the Eldar; nobles and diplomats often learn it.
+
+When taking a Trait in a trade tongue, you can choose specific dialect: Alornean, Kith, Lothian, Avathar, Aquilan street cant, Ashenrise street cant, etc. In Eldarin dialects correspond to ancestry and region: Ithilrhi, Baal, Dwur, Alu, etc.
+
+Other languages will be unfamilar to you unless you have a Trait; they are trained-only.
+
+#### Trained Only
+
+A Trait can gate a thing: without that Trait you cannot attempt it. Magic schools work this way (no Trait in the school, no reading or casting it). So do complicated arms and armor; *Training* under *Weapons, Armor, and Shields*.
+
+#### Magic Schools (Sorcerie)
+
+Magic schools are Sorcerie Traits, and trained-only. Hold the Trait and the school is open; without it you cannot read or cast that tradition. Spells inside an open school are still learned from books. The eight schools:
+
+- **Sorcerie** — the common craft (raw grammar of magic). No Trait needed; being a Sorcerer is enough.
+- **Vitae** — life, growth, harmony (Elves).
+- **Elementale** — fire, weather, dragon-magic (Baal).
+- **Thaumaturgy** — force, mechanisms, engineering magic (Dwur).
+- **Illusione** — perception, thought, dreams (Belerions).
+- **Umbrakala** — shadows, thresholds, paths between (Alu).
+- **Necromantia** — death, spirits, decay (Avathars).
+- **Canting** — the Darkman's secret hedge-magic. Tags to **Craft**, not Sorcerie. Its workings ride the local street dialect — flash paper, marks, patter — but most who speak that cant never cast a card.
 
 ### Starting Gear
 
@@ -267,12 +320,6 @@ Some kit is **trained-only**. Without a Trait for it, you cannot use it in a fig
 Chain mail stays open. It is heavy and awkward, but it is not a harness you have to learn the way plate is.
 
 Enchanted kit and the extra die are separate: see *Enchanted Arms and Armor*.
-
-### Traits
-
-On your sheet, a Trait is a skill or a quality: arming sword, herbalism, strong, perceptive, raised in the fens. You hold up to four Traits per character level, each tagged to an Approach. A Trait does not raise that Approach; your level does. You need not claim all four at each level. A delayed Trait costs nothing, so you can fill one in whenever play hands you the name. Traits come free with your levels. You never buy them with XP.
-
-Some actions are trained-only: you cannot attempt them without a specific Trait, whatever your Approach. Magic schools are one kind (no Trait in the school, no reading or casting it). Complicated arms and armor are another. See *Training* under *Weapons, Armor, and Shields*.
 
 ### Experience
 
@@ -369,13 +416,12 @@ Armor is what you wear. It soaks on the way in. Its AC comes off every blow befo
 
 ## Sample Traits by Approach
 
-- **Sword:** greatsword, arming sword, dagger, spear, axe, bow, longbow, poleax, shield, wrestling, ambush, tactics, chain mail, plate armor. Qualities: strong, fearless, relentless, steady, iron-willed, veteran.
+See *Traits* under Character Creation for the full sample lists. Short form:
 
-- **Craft:** lockpicking, stealth, tracking, disguise, sailing, herbalism, smithing, navigation, climbing, swimming, survival, canting, hunting bow, knife, wood-ax, staff. Qualities: nimble, observant, patient, resourceful, quiet, cunning.
-
-- **Heart:** persuasion, intimidation, deception, leadership, empathy, trading, medicine, performance, streetwise, languages. Qualities: charming, commanding, loyal, silver-tongued, well-connected.
-
-- **Sorcerie:** general Sorcerie Traits (perceptive, studious, second-sight, ancient-blooded, learned, haunted) color the unseen. A **magic school** is a Trait too, and a trained-only one. A *Vitae* or *Elementale* Trait makes you literate in that school and lets you learn its spells at all. Without it the school is closed to you (see *Magic*). You still learn the individual spells inside an open school from books, as you do arts like divination and alchemy.
+- **Sword:** arms, armor, and the fight — skills like arming sword, shield, ambush, tactics; trained-only greatsword, poleax, longbow, plate armor. Qualities: strong, fearless, relentless, steady, iron-willed, veteran.
+- **Craft:** lockpicking, stealth, tracking, disguise, sailing, herbalism, smithing, survival, bushcraft; **Canting** opens the Darkman's school (Craft, not Sorcerie). Qualities: nimble, observant, patient, resourceful, quiet, cunning.
+- **Heart:** persuasion, intimidation, deception, leadership, empathy, trading, medicine, performance, streetwise; languages as Traits (Northmaren, Harn, Eldarin, …). Qualities: charming, commanding, loyal, silver-tongued, well-connected.
+- **Sorcerie:** qualities like perceptive, studious, second-sight, haunted; arts like divination and alchemy. Magic schools are Traits (trained-only): **Vitae**, **Elementale**, **Thaumaturgy**, **Illusione**, **Umbrakala**, **Necromantia**, and **Canting** (Craft). Common **Sorcerie** needs no Trait.
 
 ## Sample Party
 
@@ -522,13 +568,13 @@ Resolve each Wound once, then carry it. Wounds accumulate. Penalties last until 
 
 - **Torso, winded.** The blow knocks the wind out of you: lose one Fuel die at once. If your pool is already empty, you forfeit your next refill instead, so the hit always tells, but once, not forever.
 
-- **Waist, collapsed.** You are prone and cannot stand up until you reach **full HP**.
+- **Waist, collapsed.** You are in the dirt and cannot stand up until you reach **full HP**.
 
 - **Arm or hand.** That limb is unusable. A weapon arm cannot attack; a shield or off arm cannot use a shield.
 
-- **Leg.** You go prone and cannot stand up until you reach **full HP**, the same as a waist wound.
+- **Leg.** You go in the dirt and cannot stand up until you reach **full HP**, the same as a waist wound.
 
-**Prone** — see glossary (spent Fuel is re-rolled; pressed rise needs a re-rolled 3+). You can still Block from the ground. A waist or leg wound holds you down until **full HP**; you cannot rise before then. Prone does not stack, however you ended up there. A fresh, untended wound also makes that spot a soft target. A blow called at an already-wounded spot deals 2 extra damage until you reach **full HP**.
+**In the dirt** — see glossary (spent Fuel is re-rolled; pressed rise needs a re-rolled 3+). You can still Block from the ground. A waist or leg wound holds you down until **full HP**; you cannot rise before then. Being in the dirt does not stack, however you ended up there. A fresh, untended wound also makes that spot a soft target. A blow called at an already-wounded spot deals 2 extra damage until you reach **full HP**.
 
 #### The Shock Check
 
@@ -539,14 +585,14 @@ Every Wound puts your footing in question. Roll **`2d6 + Sword` against total wo
 | 2 | Knocked out, and the wound bites deep: add the shortfall to your negative HP (and to severity). |
 | 3 | Knocked out: down, out of the fight, senseless. |
 | 4 | Knocked out: down, out of the fight, senseless. |
-| 5 | Sprawled and disarmed: knocked prone, and you drop what you hold. |
-| 6 | Sprawled: knocked prone (see Prone). |
+| 5 | Sprawled and disarmed: knocked into the dirt, and you drop what you hold. |
+| 6 | Sprawled: knocked into the dirt (see *In the dirt*). |
 | 7 | Stunned: you lose your next Action. |
 | 8 | Winded: lose one Fuel die at once, or your next refill if your pool is empty. |
 | 9 | Staggered: driven back out of reach, and a foe may step after you. |
 | 10 | Disarmed: you drop what you hold. |
 | 11 | Rocked: you keep your feet, shaken but still fighting. |
-| 12 | Unshaken: shrug it off, and rise for free if you were already prone. |
+| 12 | Unshaken: shrug it off, and rise for free if you were already in the dirt. |
 
 If you have nothing to drop (you're unarmed or casting), the Referee swaps a disarm result for a fitting shock instead: a spell guttering out, a lost hold, a wasted breath.
 
@@ -570,11 +616,11 @@ Death is death. Some monsters (wights, and other drain undead) have **special ru
 - **Wounded:** recover **1 HP per day** naturally (safe rest with food) until **full HP**, then the Wound closes. *Stanch*, other Vitae, potions, and chirurgeons can restore HP sooner; *Healing Touch* does not help at **0 HP or less** — that is *Stanch*.
 - **First aid** (Craft): tends a wound in the field; it does not restore HP by itself, but can be the **help** that lets you attempt the survival check.
 
-*Example. Aldric (Sword 1, maximum 4 HP) is driven to −3 by a blow of overflow 3: Wound, severity 3, leg — prone. Shock (`2d6 + Sword` vs 3) beats it; he stays effective but ground-bound. After the fight an ally helps; survival (`2d6 + Craft` vs 3) succeeds. He climbs 1 HP per day (−2, −1, 0, 1…) until full 4; then the Wound closes. Hour Rest would not have filled him while Wounded.*
+*Example. Aldric (Sword 1, maximum 4 HP) is driven to −3 by a blow of overflow 3: Wound, severity 3, leg — in the dirt. Shock (`2d6 + Sword` vs 3) beats it; he stays effective but in the dirt. After the fight an ally helps; survival (`2d6 + Craft` vs 3) succeeds. He climbs 1 HP per day (−2, −1, 0, 1…) until full 4; then the Wound closes. Hour Rest would not have filled him while Wounded.*
 
 The danger is the Wound. Every one is a Shock Check in the fight and a survival check after. Cover downed friends. Reach full HP and you are whole again.
 
-*The crew fights an ogre in a working scene. Heat at 6. Aldric (Sword 1, 4 HP, chain mail AC 3, arming sword, rotella) rolls Initiative for seven dice. His twelve are full (mail 6, sword 2, shield 4), so no empty-slot dice. Two for the sword, four for the shield, one for his level: 6, 5, 4, 3, 2, 2, 1. Three show 3 or 4, so his Initiative is 3. The Referee locks order; Aldric beats the ogre's count and acts first. On his turn a Veteran gets two attacks. With a one-handed sword (2 slots) each is a single die, so he spends the 5 and the 3 for blows of 5 and 3. Eight into the ogre. No 6 among them, so no Spark. He has meleed this round, so when the ogre's great club comes — three dice for a blow worth 10 — Aldric Defends without limit. He spends the 6 and the 4 to cut all 10. His chain mail is never tested. Order stays locked even though he spent a 4. Fuel left: 2, 2, 1, plus the refill the next Roll Initiative brings. Next round they Roll Initiative — refill one die for his level — and lock order again. The ogre swings for 10 again. Aldric spends his 2, 2, 1 and the refill to cut 8. His chain mail soaks the rest, so nothing lands, but his hand is now empty. The round after, winded, the blow arrives whole: 10 less 3 for chain mail is 7. With 4 HP he is driven to −3 — a Wound (severity 3), leg, prone. Shock (`2d6 + Sword` vs 3) beats it, so he stays effective on the ground, but his dice are gone. Finish it or fold — and get him help when it ends.*
+*The crew fights an ogre in a working scene. Heat at 6. Aldric (Sword 1, 4 HP, chain mail AC 3, arming sword, rotella) rolls Initiative for seven dice. His twelve are full (mail 6, sword 2, shield 4), so no empty-slot dice. Two for the sword, four for the shield, one for his level: 6, 5, 4, 3, 2, 2, 1. Three show 3 or 4, so his Initiative is 3. The Referee locks order; Aldric beats the ogre's count and acts first. On his turn a Veteran gets two attacks. With a one-handed sword (2 slots) each is a single die, so he spends the 5 and the 3 for blows of 5 and 3. Eight into the ogre. No 6 among them, so no Spark. He has meleed this round, so when the ogre's great club comes — three dice for a blow worth 10 — Aldric Defends without limit. He spends the 6 and the 4 to cut all 10. His chain mail is never tested. Order stays locked even though he spent a 4. Fuel left: 2, 2, 1, plus the refill the next Roll Initiative brings. Next round they Roll Initiative — refill one die for his level — and lock order again. The ogre swings for 10 again. Aldric spends his 2, 2, 1 and the refill to cut 8. His chain mail soaks the rest, so nothing lands, but his hand is now empty. The round after, winded, the blow arrives whole: 10 less 3 for chain mail is 7. With 4 HP he is driven to −3 — a Wound (severity 3), leg, in the dirt. Shock (`2d6 + Sword` vs 3) beats it, so he stays effective in the dirt, but his dice are gone. Finish it or fold — and get him help when it ends.*
 
 When you face control magic, you **Defend** the same way you defend a blow, but a clean overrun lands the effect (stun, hold, charm, sleep), not HP damage. See *Defending against a spell* in [[Burners Sorcerie]].
 
@@ -589,8 +635,8 @@ Each Combat Round is one minute. You act in locked Initiative order. On your tur
 - one die per character level;
 - one die per slot if you have a weapon in hand;
 - one die per slot if you have a shield in hand;
-- one die per **Arcana slot** you declared (all of them, empty or filled — drip in those slots does not also count as weapon-in-hand dice; Arcana slots never also count toward empty-slot dice);
-- one die per empty **physical** inventory slot, up to 4.
+- one die per empty inventory slot, up to 4;
+- one die per Arcana slot. (Empty or full. Do not double-count empty Arcana slots.)
 
 Roll them all. The faces you rolled, kept as they lie, are your Fuel for the fight. Your Initiative is the count of them showing 3 or 4. The Referee locks order for the round — highest first. Ties: PCs win; among PCs the players choose who goes first; a PC tied with a foe may act first or yield.
 
@@ -606,9 +652,9 @@ If you empty your hand on offense you are caught winded until the next Roll Init
 
 **Veteran Attacks.** As a Veteran you strike more than once: one extra attack per Sword level. At Sword 1 you make two. At Sword 3 you make four. Each is its own blow of its own dice, all inside your single Attack action. Each may fall on the same foe or spread across several. Any of these attacks may instead be spent to **Block** or on a **Stunt** (below) rather than to strike. With several attacks you can Block for the crew, or trip and disarm, as readily as you deal damage.
 
-**Defending.** There is no defense roll. Blows land. When struck, spend Fuel dice and cut the incoming Damage by their faces. Your armor soaks the rest, and what remains comes off your HP. Caps: **melee** — one die, or no limit if you made a melee attack this round (any foe); **missile** — one die, or two if you have Cover; **hostile magic** — no limit. While **Prone**, same caps — but every die you spend is re-rolled. Roll a 6 while defending and you may play it as a Spark for a **Riposte**: an immediate counterattack (except as under Cover). If you're the archer or mage caught in reach without having meleed, you cut each melee blow with a single die.
+**Defending.** There is no defense roll. Blows land. When struck, spend Fuel dice and cut the incoming Damage by their faces. Your armor soaks the rest, and what remains comes off your HP. Caps: **melee** — one die, or no limit if you made a melee attack this round (any foe); **missile** — one die, or two if you have Cover; **hostile magic** — no limit. While **in the dirt**, same caps — but every die you spend is re-rolled. Roll a 6 while defending and you may play it as a Spark for a **Riposte**: an immediate counterattack (except as under Cover). If you're the archer or mage caught in reach without having meleed, you cut each melee blow with a single die.
 
-*Example — dirty fighting. Aldric's Fuel is a ruin: 2, 2, 1, 1. The ogre's club is coming for 10 and he has already meleed, so he may Defend without limit — but those faces will not cut it. He throws himself flat (prone, free with what's left of the exchange). He dumps all four dice into the Defend; each re-rolls: 5, 4, 6, 1 = 16. Club stopped, and the 6 is a Spark for a Riposte from the dirt. Cinema. Next he still has to rise under the press — a die re-rolled 3+ — or keep scrambling on the ground.*
+*Example — dirty fighting. Aldric's Fuel is a ruin: 2, 2, 1, 1. The ogre's club is coming for 10 and he has already meleed, so he may Defend without limit — but those faces will not cut it. He throws himself in the dirt (free with what's left of the exchange). He dumps all four dice into the Defend; each re-rolls: 5, 4, 6, 1 = 16. Club stopped, and the 6 is a Spark for a Riposte from the dirt. Cinema. Next he still has to rise under the press — a die re-rolled 3+ — or keep scrambling in the dirt.*
 
 **Cover.** Fiction that lets you spend two dice vs a missile (wall, raised shield, creature…). Using a melee foe as Cover: if you Spark on that Defend, the shot hits them instead of Riposting. The blow never touches their Fuel or AC until it redirects.
 
@@ -616,7 +662,7 @@ If you empty your hand on offense you are caught winded until the next Roll Init
 
 **Stunts.** A **Stunt** is what you do with an attack instead of dealing damage or Blocking: a knockdown, a shove, a disarm, a trip, a grapple, a feint that pins a foe in place. You spend an attack as you would to strike, and its dice are the force behind it. The target may resist by Defending as against a blow. Where there is no real contest, the Referee simply rules it. Size is the fiction the Referee weighs. A foe your own size or smaller is a fair contest. One size up (you wrestling an ogre alone) is a hard sell that wants a tool, a trap, or numbers. Two sizes up (you against a giant) simply cannot be toppled by one body. You need a tool, a trap, or the crowd. A braced or many-legged base counts a size larger, and it cuts both ways when something bigger grabs at you. Disarm turns on grip, not mass, so size does not apply. Spend the attack and lose the contest and it is gone for nothing. A botched grab at something far larger, the Referee may turn against you. Any attack can be a Stunt. You spend one of your several on it as a Veteran, or a Spark buys one. You can end a fight by taking a foe off their feet or their sword out of their hand, not only by cutting them down.
 
-A Stunt that leaves a lasting state (prone, disarmed, grappled) is what gives it teeth. The state itself is the price. **Prone** — spent Fuel is re-rolled; rising under a press needs a re-rolled 3+ (see Prone). Disarmed, you have no weapon. Shaking it off is part of your action and free when nothing presses you. Under a foe's steel, pay as the state demands (Prone's 3+, or a die for other recoveries). (No die to spare? It comes out of your next refill, so it always lands.) A Stunt does not spend a foe's HP. It strips their guard or their weapon. If your side keeps them pressed it grinds recovery from them. They may instead pay nothing and fight from the state — swinging bare-handed, or Defending with re-rolled Fuel — until a turn they would rather spend the die shaking it. The choice of which hurts less is theirs.
+A Stunt that leaves a lasting state (in the dirt, disarmed, grappled) is what gives it teeth. The state itself is the price. **In the dirt** — spent Fuel is re-rolled; rising under a press needs a re-rolled 3+ (see *In the dirt*). Disarmed, you have no weapon. Shaking it off is part of your action and free when nothing presses you. Under a foe's steel, pay as the state demands (in the dirt: a re-rolled 3+, or a die for other recoveries). (No die to spare? It comes out of your next refill, so it always lands.) A Stunt does not spend a foe's HP. It strips their guard or their weapon. If your side keeps them pressed it grinds recovery from them. They may instead pay nothing and fight from the state — swinging bare-handed, or Defending with re-rolled Fuel — until a turn they would rather spend the die shaking it. The choice of which hurts less is theirs.
 
 Range and reach buy safety. A far arrow risks nothing until the enemy closes, so soften foes at a distance and fear the melee. Damage and a foe's defense belong to the situation. A shield wall is tougher from the front. A swarm combines into one bigger threat that thins as you kill it. A chokepoint caps how many reach you. Narrate the cause, so you can attack the reason.
 

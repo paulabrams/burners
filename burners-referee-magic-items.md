@@ -115,7 +115,7 @@ Pick one per tier, or roll **d12** on the column. Re-roll duplicates. Route OSE 
 | 9 | **Purging blow** — once per session, shed one **lingering Cost** on yourself (poison, chill, fear) when you draw blood | *paladin-flavor* |
 | 10 | **Shifting sense** — locate shifting walls or rooms within 10' | *sensory: shifting architecture* |
 | 11 | **Telekinetic tug** — once per session, **Stunt** at range to disarm or trip (one die, no attack) | *extraordinary: telekinesis, toned down* |
-| 12 | **Purpose sting** — vs the sword's designated quarry, on a Sweet hit the foe must **Defend** or suffer a brief **Control** (prone, drop weapon, or flee — Referee picks) | *special purpose alignment power, toned down* |
+| 12 | **Purpose sting** — vs the sword's designated quarry, on a Sweet hit the foe must **Defend** or suffer a brief **Control** (into the dirt, drop weapon, or flee — Referee picks) | *special purpose alignment power, toned down* |
 
 **Weapons — +3-tier** *(OSE extraordinary / special purpose — still not a relic)*
 
@@ -131,7 +131,7 @@ Pick one per tier, or roll **d12** on the column. Re-roll duplicates. Route OSE 
 | 8 | **Illusion veil** — once per delve, throw a brief **phantasm** (distraction, not damage) | *illusion* |
 | 9 | **Teleport step** — once per delve, blink 30' you can see | *teleportation, heavily toned down* |
 | 10 | **Neutral blessing** — while drawn, **+1** to all hazard **Defends** for the scene (once per delve) | *neutral special purpose* |
-| 11 | **Paralyzing sting** — once per delve vs quarry, Sweet hit → **Defend** or **Control** to prone/stiffen 2d6 rounds | *lawful special purpose, toned down* |
+| 11 | **Paralyzing sting** — once per delve vs quarry, Sweet hit → **Defend** or **Control** into the dirt / stiffen 2d6 rounds | *lawful special purpose, toned down* |
 | 12 | **Petrifying sting** — once per delve vs lawful quarry, Sweet hit → **Defend** or **Control** (stone-slow: half move, Defend at one die only) 1 round | *chaotic special purpose, heavily toned down* |
 
 **Shields — +1-tier**

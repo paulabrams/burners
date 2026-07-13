@@ -170,9 +170,9 @@ Initiative is the count of 3s and 4s. Kragg reads **3**, the sharper **2**, Ilsa
 
 **Round 1.**
 
-- **Kragg** (Veteran, two attacks; the axe stays sheathed — this is a tavern) spends one attack as a **Stunt**: heaves the table into the sharper. Force 5,4 = 9; the sharper Defends 4,2 = 6 → bowled over, **prone**, and his concentration goes with his footing — but the working is already in the air; it resolves on his turn. Second attack spent to **Block** for Brand: if a blow comes for Brand, it redirects onto Kragg. *(Kragg 5→2 dice; order stays locked.)*
+- **Kragg** (Veteran, two attacks; the axe stays sheathed — this is a tavern) spends one attack as a **Stunt**: heaves the table into the sharper. Force 5,4 = 9; the sharper Defends 4,2 = 6 → bowled over, **in the dirt**, and his concentration goes with his footing — but the working is already in the air; it resolves on his turn. Second attack spent to **Block** for Brand: if a blow comes for Brand, it redirects onto Kragg. *(Kragg 5→2 dice; order stays locked.)*
 - **Sharper** (from the floor) finishes the cast — *Bewitch* (Illusione 1, ready in hand): commits 1 Fuel die = **5**. **Cast total 5.** The card taps. Brand may Defend — but **Ilsa is adjacent and Wards**: Sorcerie 1, she commits **1** Fuel die (a 4), cutting the cast to **1**. **Brand then Defends** with 1 die (a 3) → fully defended. No charm, no HP. *(Ilsa 6→5; Brand 5→4; sharper 7→6.)*
-- **Ilsa** (her Action still unspent — Ward is not a turn): casts *dart* from her hand at the sharper. 1 die = **6** — cast total 6, and the 6 is a **Spark**. The card taps. The sharper, prone and rattled, Defends with 2 dice: 3,2 = **5**. **Overrun 1** → 1 to HP (5 HP → 4). She spends the Spark on the working itself: the Referee lets the dart pin his casting hand to the floorboards — no ready cards until he frees it. *(Ilsa 5→4; sharper 6→4.)*
+- **Ilsa** (her Action still unspent — Ward is not a turn): casts *dart* from her hand at the sharper. 1 die = **6** — cast total 6, and the 6 is a **Spark**. The card taps. The sharper, in the dirt and rattled, Defends with 2 dice: 3,2 = **5**. **Overrun 1** → 1 to HP (5 HP → 4). She spends the Spark on the working itself: the Referee lets the dart pin his casting hand to the floorboards — no ready cards until he frees it. *(Ilsa 5→4; sharper 6→4.)*
 - **Bravo 1** lunges at Sefa, knife out: 1 die = **4**. Sefa has not meleed this round → one die: spends a 3 → 1 through, no armor tonight → **Sefa 3 HP → 2.** *(Sefa 5→4.)*
 - **Brand** rises, sword *now* in hand (drawing comes free with his Action), and swings at bravo 1: 1 die = **5** → 5 dmg, bravo 1 (5 HP) **down**. *(Brand 5→4.)*
 - **Sefa** draws the holdout — **1 Fuel to pull it in a fight** — and marks bravo 2. *(Sefa 4→3.)*
@@ -180,7 +180,7 @@ Initiative is the count of 3s and 4s. Kragg reads **3**, the sharper **2**, Ilsa
 
 **Round 2.** Roll Initiative: refill +1 die each, count, lock order; Kragg still tops it.
 
-- **Kragg** hauls the sharper up by the collar — a **Stunt** to grapple, force 4,3 = 7 against a prone, pinned man; the Referee rules there is no real contest. Held fast. *(Kragg 3→1.)*
+- **Kragg** hauls the sharper up by the collar — a **Stunt** to grapple, force 4,3 = 7 against a man in the dirt, pinned; the Referee rules there is no real contest. Held fast. *(Kragg 3→1.)*
 - **Sharper**, ringless and in a fist: folds. "Enough — *enough*."
 - **Bravo 2** — his principal just quit: **Morale check: 10 — breaks**, and he's out the door.
 - Fight over. It never rose past the floor: **Heat 5**, and the room saw the *other* table start it.

@@ -187,12 +187,12 @@ The Referee raises or lowers Damage for the situation. Set a value from the band
 | Band | Feel | Examples |
 | --- | --- | --- |
 | +1 | slight edge | bad footing, downhill, a mild distraction |
-| +2 | clear advantage | from behind, flanked, prone, grappled |
+| +2 | clear advantage | from behind, flanked, foe in the dirt, grappled |
 | +3 | strong | surprised, blinded, struck mid-cast |
 | +4 | severe | pinned, ambushed in the dark, several stacked |
 | +5 | dire | helpless while the fight still rages |
 
-The defender's edge runs the same band the other way: partial cover is a 2, hard cover a 4, an attacker who is prone or swinging blind gives you a 2 or 3. When a blow outruns the dice a defender can commit (a lone die, or as many as they like once they have meleed this round; two vs a missile with Cover) plus their armor, the excess lands on HP — and past 0 it cuts a score.
+The defender's edge runs the same band the other way: partial cover is a 2, hard cover a 4, an attacker who is in the dirt or swinging blind gives you a 2 or 3. When a blow outruns the dice a defender can commit (a lone die, or as many as they like once they have meleed this round; two vs a missile with Cover) plus their armor, the excess lands on HP — and past 0 it cuts a score.
 
 ---
 

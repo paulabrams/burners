@@ -14,3 +14,7 @@ defaults:
       path: ""
     values:
       layout: "default"
+  - scope:
+      path: "markdown"
+    values:
+      permalink: /:basename:output_ext

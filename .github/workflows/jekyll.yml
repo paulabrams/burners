@@ -27,6 +27,10 @@ jobs:
         with:
           source: ./
           destination: ./_site
+      - name: Publish raw markdown under /markdown
+        run: |
+          mkdir -p _site/markdown
+          cp markdown/*.md _site/markdown/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
 

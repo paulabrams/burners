@@ -116,15 +116,23 @@ if [[ ${#COPY_TO[@]} -gt 0 ]]; then
   printf 'also mirrored to: %s\n' "${COPY_TO[@]}"
 fi
 
-# Optional zips (CI sets PDF_DEPLOY_ZIP_DIR=_site/downloads).
-ZIP_DIR="${PDF_DEPLOY_ZIP_DIR:-}"
-if [[ -n "$ZIP_DIR" ]]; then
-  mkdir -p "$ZIP_DIR"
-  ZIP_DIR_ABS="$(cd "$ZIP_DIR" && pwd)"
-  PDF_ZIP="$ZIP_DIR_ABS/burners-pdfs.zip"
-  MD_ZIP="$ZIP_DIR_ABS/burners-markdown.zip"
-  rm -f "$PDF_ZIP" "$MD_ZIP"
-  (cd "$DEST_DIR" && zip -q "$PDF_ZIP" ./*.pdf)
-  (cd "$SOURCE_DIR" && zip -q "$MD_ZIP" ./*.md)
-  echo "zips: $PDF_ZIP , $MD_ZIP"
+# Optional zips. Always refresh repo downloads/ for the site; CI may also set
+# PDF_DEPLOY_ZIP_DIR=_site/downloads so the built artifact has fresh zips.
+write_zips() {
+  local out="$1"
+  [[ -z "$out" ]] && return 0
+  mkdir -p "$out"
+  local out_abs pdf_zip md_zip
+  out_abs="$(cd "$out" && pwd)"
+  pdf_zip="$out_abs/burners-pdfs.zip"
+  md_zip="$out_abs/burners-markdown.zip"
+  rm -f "$pdf_zip" "$md_zip"
+  (cd "$DEST_DIR" && zip -q "$pdf_zip" ./*.pdf)
+  (cd "$SOURCE_DIR" && zip -q "$md_zip" ./*.md)
+  echo "zips: $pdf_zip , $md_zip"
+}
+
+write_zips "$SCRIPT_DIR/downloads"
+if [[ -n "${PDF_DEPLOY_ZIP_DIR:-}" && "$(cd "${PDF_DEPLOY_ZIP_DIR}" 2>/dev/null && pwd)" != "$(cd "$SCRIPT_DIR/downloads" && pwd)" ]]; then
+  write_zips "$PDF_DEPLOY_ZIP_DIR"
 fi

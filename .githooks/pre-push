@@ -22,8 +22,8 @@ fi
 echo "pre-push: markdown changed — running pdf-deploy.sh"
 bash "$root/pdf-deploy.sh"
 
-# If PDFs changed, ask for another commit rather than pushing stale binaries.
-if ! git diff --quiet -- pdf/; then
-  echo "pre-push: pdf/ updated. Commit the PDFs, then push again." >&2
+# If PDFs or download zips changed, ask for another commit rather than pushing stale binaries.
+if ! git diff --quiet -- pdf/ downloads/; then
+  echo "pre-push: pdf/ or downloads/ updated. Commit them, then push again." >&2
   exit 1
 fi

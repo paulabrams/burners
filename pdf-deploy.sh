@@ -118,21 +118,35 @@ fi
 
 # Optional zips. Always refresh repo downloads/ for the site; CI may also set
 # PDF_DEPLOY_ZIP_DIR=_site/downloads so the built artifact has fresh zips.
+# Write via temp + cmp so unchanged archives do not dirty git.
 write_zips() {
   local out="$1"
   [[ -z "$out" ]] && return 0
   mkdir -p "$out"
-  local out_abs pdf_zip md_zip
+  local out_abs tmp pdf_zip md_zip
   out_abs="$(cd "$out" && pwd)"
+  tmp="$(mktemp -d)"
   pdf_zip="$out_abs/burners-pdfs.zip"
   md_zip="$out_abs/burners-markdown.zip"
-  rm -f "$pdf_zip" "$md_zip"
-  (cd "$DEST_DIR" && zip -q "$pdf_zip" ./*.pdf)
-  (cd "$SOURCE_DIR" && zip -q "$md_zip" ./*.md)
-  echo "zips: $pdf_zip , $md_zip"
+  (cd "$DEST_DIR" && zip -q "$tmp/burners-pdfs.zip" ./*.pdf)
+  (cd "$SOURCE_DIR" && zip -q "$tmp/burners-markdown.zip" ./*.md)
+  for pair in "burners-pdfs.zip:$pdf_zip" "burners-markdown.zip:$md_zip"; do
+    local name="${pair%%:*}" dest="${pair#*:}"
+    if [[ ! -f "$dest" ]] || ! cmp -s "$tmp/$name" "$dest"; then
+      mv "$tmp/$name" "$dest"
+      echo "zip updated: $dest"
+    else
+      echo "zip up-to-date: $dest"
+    fi
+  done
+  rm -rf "$tmp"
 }
 
 write_zips "$SCRIPT_DIR/downloads"
-if [[ -n "${PDF_DEPLOY_ZIP_DIR:-}" && "$(cd "${PDF_DEPLOY_ZIP_DIR}" 2>/dev/null && pwd)" != "$(cd "$SCRIPT_DIR/downloads" && pwd)" ]]; then
-  write_zips "$PDF_DEPLOY_ZIP_DIR"
+if [[ -n "${PDF_DEPLOY_ZIP_DIR:-}" ]]; then
+  zip_dir_abs="$(cd "$PDF_DEPLOY_ZIP_DIR" && pwd)"
+  downloads_abs="$(cd "$SCRIPT_DIR/downloads" && pwd)"
+  if [[ "$zip_dir_abs" != "$downloads_abs" ]]; then
+    write_zips "$PDF_DEPLOY_ZIP_DIR"
+  fi
 fi

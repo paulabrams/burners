@@ -105,24 +105,35 @@ hero_alt: "A knight returns laden — crossbow, sword, and loot — Albert Robid
 | Dwur grenade                  | 1     | 60        |
 | Witchfire (vial)              | 1     | 75        |
 
-## Hirelings
+## Hirelings and specialists
 
-Typical costs per week of service. Rare hands (sage, alchemist) only in larger towns. Other types at the Referee's call. Dwarves and elves typically cost double. **Hirelings will not enter dangerous places** (no barrow or delve) — see [[Burners Company]]. Food, lodging, and new gear are on you. Retainers and henchmen who do delve want at least a half-share of the haul.
+Week rates for servants, trades, and camp/wall hands who are **not** on the adventure. Food and lodging in the rate; new gear on you. Rare hands (sage, alchemist) only in larger towns. Dwarves and elves typically cost double. Other types at the Referee's call.
 
-| Hireling | gp / week |
+Anyone who accompanies the party into danger — torchbearer, packbearer, rescued specialist — is a **retainer** for that stretch: you outfit them; survivors take at least a **half-share** (no flat wage for the delve). Loyalty, XP, Muster: [[Burners Muster]].
+
+| Service | gp / week |
 | --- | --- |
 | Noncombatant (servant, torchbearer, porter) | 2 |
 | Horse rider / messenger | 3 |
 | Sailor | 3 |
 | Blacksmith | 5 |
-| Soldier / mercenary (camp, wall, road — not the barrow) | 5 |
+| Soldier / mercenary (camp, wall, road) | 5 |
 | Armorer | 25 |
 | Ship captain | 75 |
 | Animal trainer | 125 |
 | Alchemist | 250 |
 | Sage | 500 |
 
-Garrison troops hired by the month live under *Mercenaries* in [[Burners Company]].
+**Garrison troops** (month hire, OSE mercenaries):
+
+| Troop | gp / month | Troop | gp / month |
+| --- | --- | --- | --- |
+| Peasant levy | 1 | Archer | 5 |
+| Light footman | 2 | Light horseman / longbowman | 10 |
+| Heavy footman | 3 | Medium horseman / mounted archer | 15 |
+| Crossbowman | 4 | Heavy horseman | 20 |
+
+Food and basic kit in the rate; wages double in wartime. Morale is their own score (6 levy up to 9 mounted), checked on 2d6 as OSE. If individuals from a garrison accompany an adventure, treat them as retainers for that stretch ([[Burners Muster]]).
 
 ## Magic Items
 

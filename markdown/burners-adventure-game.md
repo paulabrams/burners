@@ -71,11 +71,11 @@ Quick definitions. Details live in the chapters below.
 
 - **Gold pieces (gp):** all prices use traditional gold pieces.
 
-- **Inventory slots:** twelve slots for weapons, armor, gear, and baggage. Big items (a sword, a shield, a backpack) use more than one. Anything carried in your hands outside those twelve slots costs no slots but occupies your hands. A **Boss** may split some of the twelve into **Company** seats (see *Company*).
+- **Inventory slots:** twelve slots for weapons, armor, gear, and baggage. Big items (a sword, a shield, a backpack) use more than one. Anything carried in your hands outside those twelve slots costs no slots but occupies your hands. A **Boss** may split some of the twelve into **Muster slots** (see *Muster*).
 
 - **Baggage:** small items can share a slot if they ride in a pouch, quiver, or satchel (1 slot). A backpack (3 slots) holds bedroll, rope, rations, and loot efficiently, but takes ten minutes to unpack.
 
-- **Empty slots:** free space is speed. Every empty slot adds a die to your Fuel on the Initiative roll, up to four. Light kit, quick feet. Dropping something to free a slot is an action. Company and Arcana slots never also count as empty.
+- **Empty slots:** free space is speed. Every empty slot adds a die to your Fuel on the Initiative roll, up to four. Light kit, quick feet. Dropping something to free a slot is an action. Muster and Arcana slots never also count as empty.
 
 - **Armor class (AC):** how much your armor shaves off every hit before it reaches you. Leather is 1, gambeson 2, mail 3, plate 4–5. Most harness is open; plate is trained-only (see *Training* under *Weapons, Armor, and Shields*). See *Armor* under Fighting.
 
@@ -105,15 +105,15 @@ Quick definitions. Details live in the chapters below.
 
 - **Alignment:** like an Approach, but for a specific situation or bond with a patron, guild, or power. Count every relevant Trait across all your Approaches, divide by 4, round down. See *Alignment*.
 
-- **Muster:** Heart 1+ loadout. Split physical / Company seats; **one seat per hand**. See *Company* and [[Burners Company]].
+- **Muster:** Heart 1+ loadout. Split physical / **Muster slots**; **one slot per retainer**. See *Muster* and [[Burners Muster]].
 
-- **Manage:** Boss Action — one Mustering hand uses half round **up** that round instead of down. See [[Burners Company]].
+- **Manage:** Boss Action — one Mustering retainer uses half round **up** that round instead of down. See [[Burners Muster]].
 
 - **Sweet and Spicy:** a rolled 6 is Sweet (a good twist); a rolled 1 is Spicy (a complication). These ride alongside the sum and never change it. Two 6s (a natural 12) is the perfect roll. Two 1s (a natural 2) is a fumble.
 
 ### Combat
 
-- **Roll Initiative!:** at the top of every combat round. Round 1: gather and roll your full pool (character level, weapons and shields in hand, Arcana slots, Company slots, empty slots). Round 2+: refill one Fuel die per character level, roll those into your pool, then count. See Fighting.
+- **Roll Initiative!:** at the top of every combat round. Round 1: gather and roll your full pool (character level, weapons and shields in hand, Arcana slots, Muster slots, empty slots). Round 2+: refill one Fuel die per character level, roll those into your pool, then count. See Fighting.
 
 - **Combat Round:** one minute, taken in locked Initiative order. On your turn, take one Action (attack, cast a spell, etc.). Moving and positioning come with it, part of the Action, not a separate step. Defending is not free; it burns your Fuel. Sword governs the exchange: it grants you extra attacks and a deeper pool.
 
@@ -230,7 +230,7 @@ You may also have gear and coin from your Approach:
 | Approach | Gold | Comes with |
 | --- | --- | --- |
 | **Sword** (Veteran) | 100 gp | nothing extra (your coin *is* your kit: buy arms, armor, a shield) |
-| **Heart** (Boss) | 80 gp | **11 physical + 1 Company**; one **loyal retainer** seated (level 1, Sword 1 or Craft 1, half power); basic gear, keep and a share of the take (see [[Burners Company]]) |
+| **Heart** (Boss) | 80 gp | **11 physical + 1 Muster**; one **loyal retainer** Mustering (level 1, Sword 1 or Craft 1, half power); basic gear from the purse, **half-share** when they live (see [[Burners Muster]]) |
 | **Craft** (Journeyman) | 60 gp | choice of one "tool of the trade" based on one of your Traits, such as a hunting bow with a quiver of arrows, wood ax, blacksmith's hammer, etc. |
 | **Sorcerie** (Sorcerer) | 40 gp | **7 physical + 5 Arcana slots** (locked until first sleep); **personal spellbook** with *Read Magic* and four other 1st-level spells (known); **hand of 5** — all five ready |
 
@@ -239,7 +239,7 @@ Veterans start as outfitted soldiers; Bosses as moneyed leaders rich in people; 
 Spend your gold in town from the tables below; everything you carry ready takes an item slot, and whatever you don't spend is yours to keep. A few sample buys:
 
 - **Veteran** (Sword, 100 gp): a gambeson (AC 2) 30, arming sword 10, heater shield 6, for 46 gp with coin to spare. Every blow shaved by 2, a shield adding dice to the Initiative roll and Cover vs missiles. Chain mail (40) comes next; plate wants training; field and full plate are rare fitted harness.
-- **Boss** (Heart, 80 gp): a spear 3, leather armor (AC 1) 20, and coin held to outfit or bankroll the loyal retainer. **11 physical + 1 Company** — starter loyal retainer seated (level 1, Sword or Craft, half power). A leader spends on their people. You may not re-Muster until your first sleep or first real job outfit.
+- **Boss** (Heart, 80 gp): a spear 3, leather armor (AC 1) 20, and coin held to **outfit** the loyal retainer. **11 physical + 1 Muster** — starter loyal retainer Mustering (level 1, Sword or Craft, half power). A leader spends on their people. You may not re-Muster until your first sleep or first real job outfit.
 - **Journeyman** (Craft, 60 gp + free bow & pole): thieves' tools 25, leather armor (AC 1) 20, for 45 gp; light, mobile, bow already in hand.
 - **Sorcerer** (Sorcerie, 40 gp + kit): leather armor (AC 1) 20 and oddments (a flask of oil, chalk for ritual circles, a spare dagger). The magic is already yours.
 
@@ -316,7 +316,7 @@ Enchanted kit and the extra die are separate: see *Enchanted Arms and Armor*.
 
 You buy character level from the XP table below. You never buy Traits, Signatures, or spell learning with XP. You earn XP from:
 
-- **Monsters:** award XP by Hit Dice when a foe is overcome (killed, routed, or otherwise neutralized as treasure). A 1 HD skeleton is 10 XP; a ~4 HD boss is 125. Split among survivors **as in OSE** when retainers delve (they keep half). See [[Burners Company]]. The Referee has the full Hit Dice table.
+- **Monsters:** award XP by Hit Dice when a foe is overcome (killed, routed, or otherwise neutralized as treasure). A 1 HD skeleton is 10 XP; a ~4 HD boss is 125. Split among survivors **as in OSE** when retainers delve (they keep half). See [[Burners Muster]]. The Referee has the full Hit Dice table.
 - **Treasure:** **1 XP per 1 gp** of coins, gems, and jewelry **recovered to safety**, banked in town, not merely pocketed in the delve. Loot you cannot haul home is not loot yet. Goods, art objects, and equipment count at their sale value when sold. The Referee sets the number once. Same split rules.
 
 **Magic items grant no XP.**
@@ -325,7 +325,7 @@ You buy character level from the XP table below. You never buy Traits, Signature
 
 **Exploration (optional).** The Referee may award a small XP crumb for a wilderness hex newly mapped or a dungeon room meaningfully explored: enough to notice, not enough to replace treasure. Tune the number to your table's pace; there is no fixed award.
 
-**Company and XP.** Delving retainers: **OSE XP** (Mustered or not). **Loyal** is a Morale tag. See [[Burners Company]].
+**Muster and XP.** Retainers: **OSE XP** (Mustered or not). Mustering: player-run, no fight Loyalty while Boss active. See [[Burners Muster]]. **Loyal** is a tag.
 
 You earn by overcoming monsters and hauling treasure home.
 
@@ -355,11 +355,11 @@ When you reach level 1 in an Approach, you earn its title. The title turns on th
 | Sword | Veteran | extra attacks |
 | Sorcerie | Sorcerer | cast from your hand; Arcana slots and wizard drip; read magic |
 | Craft | Journeyman | reduce party-wide travel, weather, and survival costs by your Craft level |
-| Heart | Boss | **Muster** (1 seat per hand); **Manage**; Loyalty/Morale |
+| Heart | Boss | **Muster** (1 slot per retainer); **Manage**; Loyalty |
 
 **The Journeyman's craft (Craft 1+).** As a Veteran you rule the melee. As a Journeyman you rule the journey. Your Craft level reduces party-wide costs from travel, weather, and survival: cold, heat, hunger, thirst, exhaustion, forced marches, rough terrain, getting lost. When the Referee quotes such a cost, subtract your Craft level from it for everyone you are guiding. Often that drops the cost low enough that the Referee waives the roll. Example: the biting cold rain adds 6 Heat, and you are a Journeyman with Craft 3 who has a deadfall shelter and a fire going. You cut it to 3. Without Craft 1+ you can endure the wilds yourself, but you cannot shepherd others through them.
 
-**The Boss's command (Heart 1+).** As a Veteran you rule the melee. As a Journeyman, the journey. As a Sorcerer, the unseen. As a Boss, the company. Heart unlocks **Muster**: split your twelve into physical kit and **Company** seats — **one seat per hand**. Packing cost is the tax. Hands in those seats are **yours to play and roll**; unseated hired help stays NPCs run by the Referee. Spend your **Action** to **Manage** one Mustering hand (half round **up** that round). Delving retainers take XP **as in OSE** whether Mustering or not. The Referee checks **Loyalty** (OSE-style: 2d6 ≤ Loyalty, with mods); your **Heart** often eases the check when you lead from the front. **Loyal** is a tag (+3 Loyalty; they act loyally when they hold) — apply it to a hireling or retainer when the bond is real. **Any delver** can hire for coin. Full rules: [[Burners Company]].
+**The Boss's command (Heart 1+).** As a Veteran you rule the melee. As a Journeyman, the journey. As a Sorcerer, the unseen. As a Boss, the Muster. Heart unlocks **Muster**: split your twelve into physical kit and **Muster slots** — **one slot per retainer**. Packing cost is the tax. Mustering retainers are **yours to play and roll** — like a PC — and make **no Loyalty checks in a fight** while you are active; retainers not Mustering stay Referee NPCs and check more often. Spend your **Action** to **Manage** one Mustering retainer (half round **up** that round). Retainers take XP **as in OSE** whether Mustering or not. After the job (and when you are down or fled), the Referee checks **Loyalty** (`2d6` ≤ Loyalty, with mods); **Mustered** retainers always add your **Heart** while you are active. **Loyal** is a tag (+3 Loyalty; they act loyally when they hold) — apply it when the bond is real. **Any delver** can hire retainers for coin. Full rules: [[Burners Muster]].
 
 ## Alignment
 
@@ -427,17 +427,15 @@ See *Traits* under Character Creation for the full sample lists. Short form:
 
 - **Mara**, Heart 1 (Boss). "Pays in coin and reputation. Collects both."
 
-  - 5 HP and leather (AC 1). Split: **11 physical + 1 Company** — Nell seated (1 seat).
-
-  - Traits: leadership, streetwise, intimidation, loyal (Heart).
-
+  - 5 HP and leather (AC 1). Split: **11 physical + 1 Muster** — Nell Mustering (1 slot).
+  - Sword 1: one extra attack.
+  - Traits: leadership, streetwise, intimidation, loyal (Heart); *spear* (Sword).
   - Held: spear. Coin kept back to outfit Nell. Re-Muster locked until first sleep.
-
-  - Loyal retainer: **Nell** — level 1, Sword 1, Traits *spear* and *steady under fire*, HP ⌊1d6/2⌋ (min 1), Loyalty **10**; see [[Burners Company]].
+  - Loyal retainer: **Nell** — level 1, Sword 1, Traits *spear* and *steady under fire*, HP ⌊1d6/2⌋ (min 1), Loyalty **10**; see [[Burners Muster]].
 
 ## Signatures
 
-Your Signature is an asterisk on the Trait it springs from: a knack that showed up at your table. You earn one per level in that Approach. (Company retainers earn at most **⌊Approach / 2⌋** — see [[Burners Company]].)
+Your Signature is an asterisk on the Trait it springs from: a knack that showed up at your table. You earn one per level in that Approach. (Retainers earn at most **⌊Approach / 2⌋** — see [[Burners Muster]].)
 
 Signatures take three common shapes; the Referee may allow others:
 
@@ -627,7 +625,7 @@ Each Combat Round is one minute. You act in locked Initiative order. On your tur
 - one die per slot if you have a shield in hand;
 - one die per empty inventory slot, up to 4;
 - one die per Arcana slot. (Empty or full. Do not double-count empty Arcana slots.)
-- one die per Company slot (Boss). (Empty or filled. Do not double-count empty Company slots.)
+- one die per Muster slot (Boss). (Empty or filled. Do not double-count empty Muster slots.)
 
 Roll them all. The faces you rolled, kept as they lie, are your Fuel for the fight. Your Initiative is the count of them showing 3 or 4. The Referee locks order for the round — highest first. Ties: PCs win; among PCs the players choose who goes first; a PC tied with a foe may act first or yield.
 
@@ -691,15 +689,15 @@ The full rules are on **[[Burners Sorcerie]]**. The catalog is **[[Burners Spell
 
 **Relics** and **sentient items** are covered on [[Burners Invocations]] (Alignment with a patron, Relic +1, true names). They are not spells; they interact with Signatures and legendary items as the Referee defines. Spell magic remains [[Burners Sorcerie]] / [[Burners Spells]].
 
-## Company
+## Muster
 
 *Ok boys, check your kit, check your weapons, it's today. You get a pint and a chaser, no more. Let's go*
 
-Anyone with coin can hire a torchbearer or a sellsword. A **Boss (Heart 1+)** **Musters** today's crew: **physical / Company** split, **one Company seat per hand**. Hands in seats: **Boss player plays and rolls**. Otherwise: Referee NPCs. Heart often modifies Loyalty checks when you lead. Spend your Action to **Manage** one Mustering hand (half round up). Delving retainers: **OSE XP**. **Loyal** (+3 Loyalty, act loyally) is a tag for hirelings or retainers.
+Anyone with coin can hire a retainer for the adventure. A **Boss (Heart 1+)** **Musters** today's crew: **physical / Muster** split, **one Muster slot per retainer**. Mustering: Boss player plays and rolls; no fight Loyalty while the Boss is active; Heart on Loyalty checks. Not Mustering: Referee NPCs, check Loyalty more often. Spend your Action to **Manage** one Mustering retainer (half round up). Retainers: **OSE XP**. **Loyal** (+3 Loyalty, act loyally) is a tag.
 
-Starting Boss: **11 physical + 1 Company**, starter **loyal retainer** seated (level 1, Sword or Craft). Re-Muster before a job or on any 8-hour sleep.
+Starting Boss: **11 physical + 1 Muster**, starter **loyal retainer** Mustering (level 1, Sword or Craft). Re-Muster before a job or on any 8-hour sleep.
 
-Hirelings, retainers, half power, Manage, Loyalty/Morale, and example hands: **[[Burners Company]]**.
+Retainers, half power, Manage, Loyalty, and examples: **[[Burners Muster]]**.
 
 ## Lingering Costs: Poison, Petrification, Paralysis
 

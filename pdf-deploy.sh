@@ -118,7 +118,17 @@ fi
 
 # Optional zips. Always refresh repo downloads/ for the site; CI may also set
 # PDF_DEPLOY_ZIP_DIR=_site/downloads so the built artifact has fresh zips.
-# Write via temp + cmp so unchanged archives do not dirty git.
+# zip -X omits Unix UT extras (access time) so recreating an unchanged tree
+# does not dirt git. Compare by member CRC+size+name, not raw bytes of old zips.
+zip_payload_fp() {
+  /usr/bin/python3 - "$1" <<'PY'
+import sys, zipfile
+z = zipfile.ZipFile(sys.argv[1])
+for i in sorted(z.infolist(), key=lambda x: x.filename):
+    print(f"{i.filename}\t{i.CRC:08x}\t{i.file_size}")
+PY
+}
+
 write_zips() {
   local out="$1"
   [[ -z "$out" ]] && return 0
@@ -128,15 +138,15 @@ write_zips() {
   tmp="$(mktemp -d)"
   pdf_zip="$out_abs/burners-pdfs.zip"
   md_zip="$out_abs/burners-markdown.zip"
-  (cd "$DEST_DIR" && zip -q "$tmp/burners-pdfs.zip" ./*.pdf)
-  (cd "$SOURCE_DIR" && zip -q "$tmp/burners-markdown.zip" ./*.md)
+  (cd "$DEST_DIR" && zip -q -X "$tmp/burners-pdfs.zip" ./*.pdf)
+  (cd "$SOURCE_DIR" && zip -q -X "$tmp/burners-markdown.zip" ./*.md)
   for pair in "burners-pdfs.zip:$pdf_zip" "burners-markdown.zip:$md_zip"; do
     local name="${pair%%:*}" dest="${pair#*:}"
-    if [[ ! -f "$dest" ]] || ! cmp -s "$tmp/$name" "$dest"; then
+    if [[ -f "$dest" ]] && cmp -s <(zip_payload_fp "$tmp/$name") <(zip_payload_fp "$dest"); then
+      echo "zip up-to-date: $dest"
+    else
       mv "$tmp/$name" "$dest"
       echo "zip updated: $dest"
-    else
-      echo "zip up-to-date: $dest"
     fi
   done
   rm -rf "$tmp"

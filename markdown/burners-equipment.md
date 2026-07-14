@@ -107,7 +107,7 @@ hero_alt: "A knight returns laden — crossbow, sword, and loot — Albert Robid
 
 ## Hirelings
 
-Typical costs per week of service. Rare hands (sage, alchemist) only in larger towns. Other types at the Referee's call. Dwarves and elves typically cost double. Taking a hireling into a dungeon may raise the ask. Food, lodging, and new gear are on you — and a delving hand still wants at least a half-share of the haul. See [[Burners Adventure Game#Hirelings and retainers]].
+Typical costs per week of service. Rare hands (sage, alchemist) only in larger towns. Other types at the Referee's call. Dwarves and elves typically cost double. Taking a hireling into a dungeon may raise the ask. Food, lodging, and new gear are on you — and a delving hand still wants at least a half-share of the haul. See [[Burners Company]].
 
 | Hireling | gp / week |
 | --- | --- |
@@ -122,7 +122,7 @@ Typical costs per week of service. Rare hands (sage, alchemist) only in larger t
 | Alchemist | 250 |
 | Sage | 500 |
 
-Garrison troops hired by the month live under *Mercenaries* in [[Burners Adventure Game]].
+Garrison troops hired by the month live under *Mercenaries* in [[Burners Company]].
 
 ## Magic Items
 

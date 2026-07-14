@@ -13,6 +13,7 @@ module Burners
       'Burners Referee Guide' => 'burners-referee-guide',
       'Burners Sorcerie' => 'burners-sorcerie',
       'Burners Invocations' => 'burners-invocations',
+      'Burners Company' => 'burners-company',
       'Burners Ancestry' => 'burners-ancestry',
       'Burners Equipment' => 'burners-equipment',
       'Burners Arms and Armor' => 'burners-arms-and-armor',

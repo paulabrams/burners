@@ -71,11 +71,11 @@ Quick definitions. Details live in the chapters below.
 
 - **Gold pieces (gp):** all prices use traditional gold pieces.
 
-- **Inventory slots:** twelve slots for weapons, armor, gear, and baggage. Big items (a sword, a shield, a backpack) use more than one. Anything carried in your hands outside those twelve slots costs no slots but occupies your hands.
+- **Inventory slots:** twelve slots for weapons, armor, gear, and baggage. Big items (a sword, a shield, a backpack) use more than one. Anything carried in your hands outside those twelve slots costs no slots but occupies your hands. A **Boss** may split some of the twelve into **Company** seats (see *Company*).
 
 - **Baggage:** small items can share a slot if they ride in a pouch, quiver, or satchel (1 slot). A backpack (3 slots) holds bedroll, rope, rations, and loot efficiently, but takes ten minutes to unpack.
 
-- **Empty slots:** free space is speed. Every empty slot adds a die to your Fuel on the Initiative roll, up to four. Light kit, quick feet. Dropping something to free a slot is an action.
+- **Empty slots:** free space is speed. Every empty slot adds a die to your Fuel on the Initiative roll, up to four. Light kit, quick feet. Dropping something to free a slot is an action. Company and Arcana slots never also count as empty.
 
 - **Armor class (AC):** how much your armor shaves off every hit before it reaches you. Leather is 1, gambeson 2, mail 3, plate 4–5. Most harness is open; plate is trained-only (see *Training* under *Weapons, Armor, and Shields*). See *Armor* under Fighting.
 
@@ -105,11 +105,13 @@ Quick definitions. Details live in the chapters below.
 
 - **Alignment:** like an Approach, but for a specific situation or bond with a patron, guild, or power. Count every relevant Trait across all your Approaches, divide by 4, round down. See *Alignment*.
 
+- **Muster:** Heart 1+ loadout. Split physical / Company seats; seat hands by Handling (1–4 Company slots each). See *Company* and [[Burners Company]].
+
 - **Sweet and Spicy:** a rolled 6 is Sweet (a good twist); a rolled 1 is Spicy (a complication). These ride alongside the sum and never change it. Two 6s (a natural 12) is the perfect roll. Two 1s (a natural 2) is a fumble.
 
 ### Combat
 
-- **Roll Initiative!:** at the top of every combat round. Round 1: gather and roll your full pool (character level, weapons and shields in hand, Arcana slots declared, empty slots). Round 2+: refill one Fuel die per character level, roll those into your pool, then count. See Fighting.
+- **Roll Initiative!:** at the top of every combat round. Round 1: gather and roll your full pool (character level, weapons and shields in hand, Arcana slots, Company slots, empty slots). Round 2+: refill one Fuel die per character level, roll those into your pool, then count. See Fighting.
 
 - **Combat Round:** one minute, taken in locked Initiative order. On your turn, take one Action (attack, cast a spell, etc.). Moving and positioning come with it, part of the Action, not a separate step. Defending is not free; it burns your Fuel. Sword governs the exchange: it grants you extra attacks and a deeper pool.
 
@@ -226,7 +228,7 @@ You may also have gear and coin from your Approach:
 | Approach | Gold | Comes with |
 | --- | --- | --- |
 | **Sword** (Veteran) | 100 gp | nothing extra (your coin *is* your kit: buy arms, armor, a shield) |
-| **Heart** (Boss) | 80 gp | one **henchman**: fills your first Heart slot (see *Henchmen* under *The Boss*); basic gear, keep and a share of the take |
+| **Heart** (Boss) | 80 gp | **11 physical + 1 Company**; one **henchman** seated (Handling 1 until first pressure); basic gear, keep and a share of the take (see [[Burners Company]]) |
 | **Craft** (Journeyman) | 60 gp | choice of one "tool of the trade" based on one of your Traits, such as a hunting bow with a quiver of arrows, wood ax, blacksmith's hammer, etc. |
 | **Sorcerie** (Sorcerer) | 40 gp | **7 physical + 5 Arcana slots** (locked until first sleep); **personal spellbook** with *Read Magic* and four other 1st-level spells (known); **hand of 5** — all five ready |
 
@@ -235,7 +237,7 @@ Veterans start as outfitted soldiers; Bosses as moneyed leaders rich in people; 
 Spend your gold in town from the tables below; everything you carry ready takes an item slot, and whatever you don't spend is yours to keep. A few sample buys:
 
 - **Veteran** (Sword, 100 gp): a gambeson (AC 2) 30, arming sword 10, heater shield 6, for 46 gp with coin to spare. Every blow shaved by 2, a shield adding dice to the Initiative roll and Cover vs missiles. Chain mail (40) comes next; plate wants training; field and full plate are rare fitted harness.
-- **Boss** (Heart, 80 gp): a spear 3, leather armor (AC 1) 20, and coin held to outfit or bankroll the henchman. A leader spends on their people.
+- **Boss** (Heart, 80 gp): a spear 3, leather armor (AC 1) 20, and coin held to outfit or bankroll the henchman. **11 physical + 1 Company** — the starter henchman seated. A leader spends on their people. You may not re-Muster until your first sleep or first real job outfit.
 - **Journeyman** (Craft, 60 gp + free bow & pole): thieves' tools 25, leather armor (AC 1) 20, for 45 gp; light, mobile, bow already in hand.
 - **Sorcerer** (Sorcerie, 40 gp + kit): leather armor (AC 1) 20 and oddments (a flask of oil, chalk for ritual circles, a spare dagger). The magic is already yours.
 
@@ -321,7 +323,7 @@ You buy character level from the XP table below. You never buy Traits, Signature
 
 **Exploration (optional).** The Referee may award a small XP crumb for a wilderness hex newly mapped or a dungeon room meaningfully explored: enough to notice, not enough to replace treasure. Tune the number to your table's pace; there is no fixed award.
 
-**Henchmen (Boss only).** When XP is awarded, each of your **henchmen** who delved with you and survived splits **half of your own award**. That is bonus XP, not taken from you or the rest of the crew. One henchman on the job earns 50% of what you earned. Two henchmen present split that half between them (25% of your award each). Track henchman XP on a simple line; it feeds the trainee path (see *The Boss, henchmen and command*). Paid hirelings earn no XP.
+**Henchmen (Boss only).** When XP is awarded, each of your **henchmen** who delved with you and survived splits **half of your own award**. That is bonus XP, not taken from you or the rest of the crew. One henchman on the job earns 50% of what you earned. Two henchmen present split that half between them (25% of your award each). Track henchman XP on a simple line; it feeds the trainee path on [[Burners Company]]. Paid hirelings and retainers earn no XP.
 
 You earn by overcoming monsters and hauling treasure home.
 
@@ -351,11 +353,11 @@ When you reach level 1 in an Approach, you earn its title. The title turns on th
 | Sword | Veteran | extra attacks |
 | Sorcerie | Sorcerer | cast from your hand; Arcana slots and wizard drip; read magic |
 | Craft | Journeyman | reduce party-wide travel, weather, and survival costs by your Craft level |
-| Heart | Boss | **henchman** slots (one per Heart level), Morale Check for the company, bonus XP for henchmen who delved with you |
+| Heart | Boss | **Muster** (physical / Company split); Morale Check for the company; bonus XP for henchmen who delved with you |
 
 **The Journeyman's craft (Craft 1+).** As a Veteran you rule the melee. As a Journeyman you rule the journey. Your Craft level reduces party-wide costs from travel, weather, and survival: cold, heat, hunger, thirst, exhaustion, forced marches, rough terrain, getting lost. When the Referee quotes such a cost, subtract your Craft level from it for everyone you are guiding. Often that drops the cost low enough that the Referee waives the roll. Example: the biting cold rain adds 6 Heat, and you are a Journeyman with Craft 3 who has a deadfall shelter and a fire going. You cut it to 3. Without Craft 1+ you can endure the wilds yourself, but you cannot shepherd others through them.
 
-**The Boss's command (Heart 1+).** As a Veteran you rule the melee. As a Journeyman, the journey. As a Sorcerer, the unseen. As a Boss, the company. Your Heart gives you **henchman** slots (one per Heart level), not day-rate hirelings. It also anchors whether hirelings on a delve you lead hold or break (Morale Check: 2d6 + your Heart). Henchmen who delved with you earn bonus XP from your award without costing the party. **Any delver** can hire torchbearers and sellswords for coin. Heart is what makes *henchmen* yours. See *Hirelings and retainers* and *The Boss, henchmen and command*.
+**The Boss's command (Heart 1+).** As a Veteran you rule the melee. As a Journeyman, the journey. As a Sorcerer, the unseen. As a Boss, the company. Heart unlocks **Muster**: you split your twelve into physical kit and **Company** seats, and seat today's crew (each hand costs Company slots equal to their Handling, 1–4). There is no Heart hard-cap on how many seats you declare within the twelve — the packing cost and Handling are the tax. Your Heart still steadies nerve (**Morale Check:** `2d6 + Heart`). Henchmen who delved with you earn bonus XP from your award. **Any delver** can hire for coin. Heart is what lets you Muster *henchmen* as inventory. Full rules: [[Burners Company]].
 
 ## Alignment
 
@@ -405,7 +407,7 @@ See *Traits* under Character Creation for the full sample lists. Short form:
 
 - **Senna**, Sorcerie 1 (Sorcerer). "Reads the world like a book nobody else can open."
 
-  - 4 HP and leather (AC 1). With Sword 0 her defense is thin and her HP goes fast, so she survives by staying out of reach, not by soaking blows.
+  - 4 HP and leather (AC 1). With **Approach 0** in Sword her defense is thin and her HP goes fast, so she survives by staying out of reach, not by soaking blows.
 
   - Traits: marsh-lore, second-sight, witch-blood, Vitae (Sorcerie).
 
@@ -420,6 +422,16 @@ See *Traits* under Character Creation for the full sample lists. Short form:
   - Traits: stealth, lockpicking, disguise, nimble (Craft).
 
   - Signature: Mizzle (on his stealth), slipping away unseen the moment a scene turns against him.
+
+- **Mara**, Heart 1 (Boss). "Pays in coin and reputation. Collects both."
+
+  - 5 HP and leather (AC 1). Split: **11 physical + 1 Company** — Nell seated (Handling 1 until first pressure).
+
+  - Traits: leadership, streetwise, intimidation, loyal (Heart).
+
+  - Held: spear. Coin kept back to outfit Nell. Re-Muster locked until first sleep.
+
+  - Henchman: **Nell** (*spear*, *steady under fire*) — see [[Burners Company]].
 
 ## Signatures
 
@@ -613,6 +625,7 @@ Each Combat Round is one minute. You act in locked Initiative order. On your tur
 - one die per slot if you have a shield in hand;
 - one die per empty inventory slot, up to 4;
 - one die per Arcana slot. (Empty or full. Do not double-count empty Arcana slots.)
+- one die per Company slot (Boss). (Empty or filled. Do not double-count empty Company slots.)
 
 Roll them all. The faces you rolled, kept as they lie, are your Fuel for the fight. Your Initiative is the count of them showing 3 or 4. The Referee locks order for the round — highest first. Ties: PCs win; among PCs the players choose who goes first; a PC tied with a foe may act first or yield.
 
@@ -676,6 +689,16 @@ The full rules are on **[[Burners Sorcerie]]**. The catalog is **[[Burners Spell
 
 **Relics** and **sentient items** are covered on [[Burners Invocations]] (Alignment with a patron, Relic +1, true names). They are not spells; they interact with Signatures and legendary items as the Referee defines. Spell magic remains [[Burners Sorcerie]] / [[Burners Spells]].
 
+## Company
+
+*Ok boys, check your kit, check your weapons, it's today. You get a pint and a chaser, no more. Let's go*
+
+Anyone with coin can hire a torchbearer or a sellsword. A **Boss (Heart 1+)** **Musters** today's crew: declare a **physical / Company** split of the twelve and seat hands into Company slots. Each person costs **Company slots equal to their Handling (1–4)**. There is no Heart hard-cap on seats within the twelve — packing cost and Handling are the tax. Heart steadies nerve (`2d6 + Heart` on a Morale Check) and pays henchmen bonus XP.
+
+Starting Boss: **11 physical + 1 Company**, starter henchman seated. Re-Muster before a job or on any 8-hour sleep.
+
+Hirelings, retainers, henchmen, job Traits, Handling, Morale, trainees, and example hands: **[[Burners Company]]**.
+
 ## Lingering Costs: Poison, Petrification, Paralysis
 
 When you endure cleanly you avoid the bite: the fitting Approach against its Cost, Craft against poison (see *Approach Roll*). Once it lands, it deals its level in damage to your HP each round for a number of rounds equal to its level, with no further defense. You escape it with a cure (an antidote, a Vitae working) or by surviving the duration. Past 0 HP it wounds you each round, deepening your negative tally like any wound, or petrifies or paralyzes you as the effect dictates. The Referee rolls nothing. The dread does the work.
@@ -689,75 +712,3 @@ Counter a monster breath by raising your shield (a legendary shield is broad), b
 Say what you do and the Referee rules whether it can work (see *The Two Steps*). Ask the jailer to free the prisoners against his duty and it fails. Bribe him to look away and it works — gold or a Spicy twist, and a sharp read softens what you pay. Turn the cultists on each other only after you have built the wedge; then the room tips.
 
 Disposition is a fact of the world. When the fiction has not fixed it, the Referee may roll the Reaction table (see [[Burners Referee Guide]]). Heart amplifies a success the fiction already grants. What you pay in coin, favor, time, or reputation is open to haggling.
-
-## Hirelings and retainers
-
-*Torchbearers, linkboys, porters, sellswords: someone has to hold the light. Any delver with coin can hire them: a daily fee, a half-share of the haul, and the hope they do not bolt when it gets ugly.*
-
-A **hireling** (or **retainer**) is someone you hire for coin: a torchbearer, a linkboy, a guide, a porter, a dockside sellsword. They are not Burners. Ordinary folk (Sword 0, untrained: a thin Fuel pool, no Veteran tricks) and usually the first to die. Bring bodies anyway. Someone has to hold the torch.
-
-**Finding and paying.** You find hirelings in the fiction: a tavern notice, a dockside crew, a debt called in. The offer is a Reaction roll (see [[Burners Referee Guide]]). If you have Heart, add it to the roll. A generous purse eases it; a bad name hardens it. A delver wants a guaranteed fee *and* a share of the take. Pay the weekly rate on [[Burners Equipment#Hirelings]] (torchbearer 2 gp/week, sellsword 5, and so on) and at least a half-share of whatever you haul out. If you short the split, soon no one will sign on. Taking a hireling into a dungeon may raise the ask. Food, lodging, and new gear are on you. **Paid hirelings earn no XP.**
-
-When the moment breaks their nerve, the Referee plays it by fiction or calls **2d6 vs the danger** with no modifier, unless a Boss on the delve is anchoring them (see below).
-
-### Keep it lean
-
-Run hirelings as simple Sword-0 NPCs. Do not run loyalty scores unless you want to.
-
-### The fuller company
-
-Everything above is enough for you to play. What follows is texture if you want to run a real retinue.
-
-**Types.** You define each hireling by one Trait naming their job (torchbearer, porter, guide, spearman, houndmaster) and the tools of that trade in their slots. An unusually good one has a Signature or a second Trait: a veteran sellsword's shield-wall, a guide who knows the old roads. They fight as Sword-0 NPCs, rolling a thin Fuel with no Veteran tricks and monster-style low HP. Armor still soaks for them on the way in, as it does for you. Common hands: pack-bearers and linkboys (carry loads, hold light); spearmen and sellswords (a weapon and a little armor); shield-bearers (resupply your broken shields); squires (ready your weapons, help you don armor); war-dogs (a bite and a thick hide).
-
-**Mercenaries, the garrison.** Mercenaries are soldiers-for-hire, not companions. They hold a wall, guard a camp, or march with an army, but they will not descend into a barrow. Post notices and hire by the month; food and basic kit are included in the rate, and every wage doubles in wartime.
-
-| Troop | gp / month | Troop | gp / month |
-| --- | --- | --- | --- |
-| Peasant levy | 1 | Archer | 5 |
-| Light footman | 2 | Light horseman / longbowman | 10 |
-| Heavy footman | 3 | Medium horseman / mounted archer | 15 |
-| Crossbowman | 4 | Heavy horseman | 20 |
-
-Their Morale is their own score: 6 for a peasant levy up to 9 for mounted troops, checked on 2d6. If a Boss is on the field, they can steady them the same way they steady delving hirelings.
-
-## The Boss, henchmen and command (Heart 1+)
-
-*As a Veteran you rule the melee, as a Journeyman the journey, as a Sorcerer the unseen, and as a Boss you rule the company. Heart is presence, command, and the strange gravity that makes frightened people follow you into a barrow they'd never enter alone. **Anyone can hire hands for coin**: Heart is what gives you **henchmen** who grow with you, and the nerve to keep a company together when the dark turns ugly.*
-
-*Boss is only the mechanical name for Heart 1+. Rename it to fit your character, and your people will address you by that title: Captain, Chief, Coven-Mother, Ser or Dame, Boss. Pick the word your company calls you. The rules are the same under any of them.*
-
-### Henchmen
-
-A **henchman** is not a day-rate hireling. They are *your* sworn companion: keep, a half-share of treasure, and the bond that lets them grow with you. Only a **Boss (Heart 1+)** may have henchmen. Any delver can hire a torchbearer; only a Boss fills a **henchman slot**.
-
-**Slots.** You have one henchman slot per **Heart level**. A starting Boss (Heart 1) begins with **one slot filled**: the henchman from starting gear. Each time your Heart rises, you gain an empty slot. Fill it in play by nurturing a relationship with an NPC: a hireling who stayed when it mattered, a guide you kept your word to, a sellsword you pulled out of the barrow. The Referee decides when the bond is real. Not a Reaction roll on day one, but earned trust.
-
-**On the delve.** Henchmen who come with you into the dark count against your **Handling** budget when you lead the company (see below) and receive your Morale Check when the moment breaks. They want a daily fee or keep *and* at least a half-share of treasure recovered.
-
-**XP, the Heart benefit.** When the crew earns XP, figure **your** award first (your share of monsters slain and treasure banked). Each henchman who **delved with you and survived** splits **half of your award** as **bonus XP**: not taken from you, not taken from the other PCs. One henchman present: they gain 50% of what you gained. Two henchmen present: they split that half (25% of your award each). Track their total on a margin line; it feeds advancement on the trainee path below.
-
-**Replacing a henchman.** A slot emptied by death or departure stays empty until you fill it through play. Word of how you treat henchmen travels; abuse the bond and filling the next slot gets harder.
-
-### Leading the company
-
-When **you** lead the delve, your Heart sets how many bodies you can wrangle and whether they hold.
-
-**Handling: how many will follow.** Each hireling or henchman in the company you lead has a **Handling** of 1 to 4. A docile torchbearer is 1. A surly sellsword is 4. Your **Heart level caps the company's total Handling**, not raw bodies. With Heart 3 you might lead three meek porters (1+1+1), or one steady sword (2) and a linkboy (1), or two henchmen (2+2) if you have the slots. The Referee sets Handling the first time someone meets real pressure. Settled henchmen may lower it. If no Boss is leading the delve, there is no Handling cap. Hire who you can pay and the fiction supports.
-
-**Nerve: whether they hold or run.** Whenever the company faces something that would break ordinary resolve (a fight turning against them, a horror rising from the crypt, a comrade cut down, wages long overdue), the Referee calls a Morale Check for the affected hirelings:
-
-> **Morale Check:** roll **2d6 + your Heart** against the moment's danger. The Referee sets the number, as for any check. A routine scare is low. A wraith clawing free of its tomb is high.
->
-> - **Meet or beat → they hold.** Your presence steadies them. They stay in the fight, keep the torch high, do the job.
-> - **Fall short → they break.** They flee, freeze, drop the torch and bolt, or throw down their tools and demand to leave. The Referee plays the failure by fiction.
-
-Leading from the front, sharing the risk, and keeping your word all give the Referee reason to ease the check; treating hirelings as arrow-fodder gives reason to harden it (word gets around, and so does the price of your recruits).
-
-### Keep it lean
-
-That's the Heart benefit: **henchman** slots and bonus XP; **Handling** and **Morale** when you lead the company. Run henchmen as Sword-0 NPCs with a margin-line XP total. Paid hirelings need no sheet unless you want one.
-
-**From henchman to Burner.** A henchman whose XP total would reach the next character level on the table (at half your pace, they lag naturally) may be promoted to a **trainee adventurer**. They shed Handling, begin earning Traits and Signatures, and climb toward a full Burner build. When your character dies, you may take a trainee as your new Burner. The Referee may also field the rare professional adventurer: a full PC-built NPC with their own goals. These are uncommon. Nearly everyone with a real sheet is a player at the table.
-
-*You don't give your strength away. You make others braver than they have any right to be, and lead them somewhere they'll probably regret.*

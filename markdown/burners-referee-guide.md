@@ -130,7 +130,7 @@ Heat cools when the crew acts on the room (see Running Heat). HP and Wounds foll
 
 ### Fallen Wounds
 
-Any of the Fallen that **wounds** you opens a **Fallen Wound**. Midnight and purge deepen by `1d6` + `1d6` per level drain. Full procedure: [[Burners Burn Undead#Fallen Wounds]].
+Any of the Fallen that **wounds** you opens a **Fallen Wound**. Midnight / Purge: husks deepen by **1**; major / draining Fallen deepen by `1d6` + `1d6` per drain. Full procedure: [[Burners Burn Undead#Fallen Wounds]].
 
 ---
 

@@ -185,7 +185,7 @@ See [[Burners Principles#Armor and Resistance soak; they never roll]].
 
 Every Resistance above a point or two **names its cause** — see [[Burners Principles#Armor and Resistance soak; they never roll]]. A named weakness **ignores** Resistance, the way a Bane-forged weapon ignores its quarry's soak (see [[Burners Arms and Armor]]).
 
-**Undead & energy drain** (OSE): **no levels lost.** Any of the Fallen that **wounds** you opens a **Fallen Wound**. Midnight / Incendiary purge deepen by `1d6` + `1d6` per OSE energy-drain level (skeleton `1d6`; wight drain 1 → `2d6`). Immediate Craft survival; die unclean → spawn; die from purge → no spawn. See [[Burners Burn Undead#Fallen Wounds]] and [[Burners Principles#No instant death]].
+**Undead & energy drain** (OSE): **no levels lost.** Any of the Fallen that **wounds** you opens a **Fallen Wound**. Midnight / Purge: husks deepen by **1**; drainers by `1d6` + `1d6` per OSE drain level (wight `2d6`). Immediate Craft survival; die unclean → spawn; die from purge → no spawn. See [[Burners Burn Undead#Fallen Wounds]] and [[Burners Principles#No instant death]].
 
 **Mobs vs. the unearthly:** see [[Burners Principles#Armor and Resistance soak; they never roll]].
 

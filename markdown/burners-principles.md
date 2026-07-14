@@ -151,7 +151,7 @@ Poison, paralysis, petrification, death rays, and wounds from the Fallen route i
 - **Wounds** and **Shock Checks** (combat-effective), then **help + Craft survival** after the fight — see [[Burners Adventure Game#Wounds]];
 - a **telegraphed area effect** you Ward (if magic), cover, or eat.
 
-**Any of the Fallen** that **wounds** you leaves a **Fallen Wound** — not level loss. Midnight and Incendiary purge deepen by `1d6` + `1d6` per level drain; immediate survival; spawn if unclean. Full procedure: [[Burners Burn Undead#Fallen Wounds]].
+**Any of the Fallen** that **wounds** you leaves a **Fallen Wound** — not level loss. Midnight and Incendiary purge: husks deepen by **1**; major / draining Fallen by `1d6` + `1d6` per drain; immediate survival; spawn if unclean. Full procedure: [[Burners Burn Undead#Fallen Wounds]].
 
 Death comes from **failed survival** (after a fight, after Midnight, or after a purge), **unhelped Wounds**, or a **coup de grace** on a helpless body — not from a single failed save out of combat, and not from classic level loss. The Referee may offer a maiming at the brink instead.
 

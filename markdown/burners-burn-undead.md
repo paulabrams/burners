@@ -31,7 +31,7 @@ The hard ask is your own. Anyone the Fallen slew may look only dead — a friend
 
 ### Fire Turns Undead
 
-- **Turn Undead:** 1 Turn outside a fight. Brand, holy water, or holy oil. `2d6 + Heart` vs Hit Dice + Heat. Meet: husks that fear fire recoil 1 Turn. Miss: they come on. Flask spent; torch not.
+- **Turn Undead:** 1 Turn outside a fight. Use a torch, bonfire, holy oil, or other Incendiaries to show the undead you mean to burn them, driving them back. If asked by the Referee, roll `2d6 + Heart` vs Hit Dice + Heat. Meet: husks that fear fire recoil 1 Turn. Miss: they come on. Flask spent; torch not.
 - **Brandish:** combat Action. Fuel attack (or Stunt) with torch, brand, holy water, or holy oil. Ignores blade-Resistance on husks that fear fire. Stunt: they Defend; failure drives them from your light 1 round. No effect on willful Fallen. Thrown fire: [[Burners Arms and Armor#Incendiaries & Alchemy]].
 
 ### Fire Burns Undead
@@ -40,12 +40,12 @@ The hard ask is your own. Anyone the Fallen slew may look only dead — a friend
 
 ### Fallen Wounds
 
+- **Fallen:** anyone slain by undead becomes undead. Everyone knows this.
 - **Fallen Wound:** a Wound opened by the Fallen. A Fallen Wound does not heal naturally, neither after rest nor sleep.
-- **Midnight:** each night while unclean, roll `1d6` plus `1d6` per level drain of the Fallen that cut you (skeleton or zombie: `1d6`; barrow-wight, drain 1: `2d6`; wraith or vampire with drain 2: `3d6`). Deepen severity and HP by the total; then Survival.
-- **Purge:** spend one Incendiary; roll the same dice as Midnight; deepen severity and HP by the total; then Survival.
+- **Midnight:** each night while unclean, deepen severity and HP by the Fallen that cut you, then Survival. Husk (skeleton, zombie, or other Fallen with no level drain): deepen by **1**. Major Fallen (wight, wraith, spectre, vampire, or any with level drain): roll `1d6` + `1d6` per drain (wight drain 1: `2d6`; drain 2: `3d6`).
+- **Purge:** spend one Incendiary; deepen as Midnight for that Fallen; then Survival.
 - **Survival:** immediate `2d6 + Craft` vs severity (helped if a friend holds you). Fail or alone → die. Die unclean → spawn. Die from Purge → no spawn. Live after Midnight: still unclean. Live after Purge: Wound purified (ordinary injury thereafter).
 - **Major help:** sanctuary or living power purify without Purge.
-- **Spawn:** anyone slain by undead becomes undead.
 
 *Example. Herrick 3 HP, gambeson AC 2 vs barrow-wight (drain 1). Blow 5 soak 2 → 0 (no Wound). Blow 9 soak 2 → −4: Fallen Wound severity 4. Shock + helped after-fight survival OK; still unclean. Midnight or Purge: roll `2d6`, deepen by the total → Survival (purified if Purge and live; dead unclean → spawn; dead from Purge → no spawn).*
 

@@ -63,7 +63,7 @@ Quick definitions. Details live in the chapters below.
 
 - **Character level:** your overall rank. You buy levels with XP (see *Experience*). Every level you gain is one level you place in an Approach, up to four more Traits, and a reroll of your HP.
 
-- **Signature:** an asterisk on a Trait. A knack that showed up at your table. You never buy it, and it is not a spell.
+- **Signature:** an asterisk on a Trait. A knack that showed up at your table — a named item, a **named companion**, an instinct, a holdout. You never buy it, and it is not a spell.
 
 - **Theme:** your name or alias and a short line on who you are. For the other players, not the mechanics.
 
@@ -71,7 +71,7 @@ Quick definitions. Details live in the chapters below.
 
 - **Gold pieces (gp):** all prices use traditional gold pieces.
 
-- **Inventory slots:** twelve slots for weapons, armor, gear, and baggage. Big items (a sword, a shield, a backpack) use more than one. Anything carried in your hands outside those twelve slots costs no slots but occupies your hands. A **Boss** may split some of the twelve into **Muster slots** (see *Muster*).
+- **Inventory slots:** twelve slots for weapons, armor, gear, and baggage. Big items (a sword, a shield, a backpack) use more than one. Anything carried in your hands outside those twelve slots costs no slots but occupies your hands. A **Boss** may split some of the twelve into **Muster slots** (see *Muster*). Pack beasts and mounts you buy to carry or ride sit **off** the twelve — see [[Burners Equipment#Animals and mounts]].
 
 - **Baggage:** small items can share a slot if they ride in a pouch, quiver, or satchel (1 slot). A backpack (3 slots) holds bedroll, rope, rations, and loot efficiently, but takes ten minutes to unpack.
 
@@ -173,10 +173,10 @@ On your sheet, a Trait is a skill or a quality: arming sword, herbalism, strong,
 Sample Traits by Approach:
 
 - **Sword** — arms, armor, and the fight.
-  - Skills: dagger, club, spear, axe, arming sword, mace, flail, bow, crossbow, shield, wrestling, boxing, ambush, tactics, cavalry, siege, heraldry, scouting. Trained-only: greatsword, poleax, longbow, plate armor.
+  - Skills: dagger, club, spear, axe, arming sword, mace, flail, bow, crossbow, shield, wrestling, boxing, ambush, tactics, cavalry, warhorse, siege, heraldry, scouting. Trained-only: greatsword, poleax, longbow, plate armor.
   - Qualities: strong, fearless, relentless, steady, iron-willed, veteran, hard to kill, courageous, steady under fire, dragon-scarred.
 - **Craft** — the practical skills of daily life.
-  - Skills: lockpicking, stealth, tracking, trapping, disguise, sailing, herbalism, smithing, bowyer, fletcher, carpentry, navigation, climbing, swimming, survival, bushcraft, wood lore, hunting, first aid, appraisal, rope use. School Trait:
+  - Skills: lockpicking, stealth, tracking, trapping, disguise, sailing, herbalism, smithing, bowyer, fletcher, carpentry, navigation, climbing, swimming, survival, bushcraft, wood lore, hunting, dogs, falconry, first aid, appraisal, rope use. School Trait:
   - Qualities: nimble, observant, patient, resourceful, quiet, cunning, light-fingered, sure-footed, raised in the fens, knows the woods.
   - Magic Schools: *Canting* (see below)
 - **Heart** — people, nerve, and presence.
@@ -437,9 +437,11 @@ See *Traits* under Character Creation for the full sample lists. Short form:
 
 Your Signature is an asterisk on the Trait it springs from: a knack that showed up at your table. You earn one per level in that Approach. (Retainers earn at most **⌊Approach / 2⌋** — see [[Burners Muster]].)
 
-Signatures take three common shapes; the Referee may allow others:
+Signatures take four common shapes; the Referee may allow others:
 
 - **Named item.** You name a weapon, shield, armor, or tool on a Trait you already hold (*arming sword* → *Naurdring*; *hunting bow* → *the fen-bow*). That name **is** the Signature: put the asterisk on the Trait. For arms and armor, see *Enchanted Arms and Armor* below.
+
+- **Named companion.** A trained animal on a Trait you already hold (*warhorse* → *Bracken*; *dogs* → *Rook*). That name **is** the Signature. Ordinary pack and riding stock needs none — buy them, ride or load them; they stay off your twelve ([[Burners Equipment#Animals and mounts]]). They are not retainers and do not take Muster slots. If yours is gone, train another when you can and change the name.
 
 - **Instinct.** Something you always do becomes a thing that never fails you. Back to the wall, and nothing flanks or surprises you from behind. Poke the chest with a ten-foot pole first, and its traps never catch you. The habit is the trigger; honor it in the fiction and the edge is automatic.
 

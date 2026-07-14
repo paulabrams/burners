@@ -105,6 +105,21 @@ hero_alt: "A knight returns laden — crossbow, sword, and loot — Albert Robid
 | Dwur grenade                  | 1     | 60        |
 | Witchfire (vial)              | 1     | 75        |
 
+## Animals and mounts
+
+Bought to carry or ride. They sit **off** your twelve slots — not Muster, not inventory. A pack mule's load is its own, not yours.
+
+| Animal | Cost (gp) |
+| --- | --- |
+| Mule | 30 |
+| Riding horse | 75 |
+| War horse | 250 |
+| War dog | 25 |
+| Hunting dog | 25 |
+| Falcon / hawk | 50 |
+
+Feed and stabling when you are in town (Referee). Ordinary stock needs no special Trait beyond what the job asks (*riding*, pack work). A **trained, named** companion — your horse, your dog — is a **Signature** on that Trait, not a Muster slot and not a second price: see *Signatures* on [[Burners Adventure Game]].
+
 ## Hirelings and specialists
 
 Week rates for servants, trades, and camp/wall hands who are **not** on the adventure. Food and lodging in the rate; new gear on you. Rare hands (sage, alchemist) only in larger towns. Dwarves and elves typically cost double. Other types at the Referee's call.

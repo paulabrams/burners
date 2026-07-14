@@ -84,7 +84,13 @@ Job names are Traits, tagged to Sword or Craft. A retainer fills their item slot
 
 **Squires** keep weapons ready (*"Squire, my sword!"*). They may help a fighter don armor.
 
-**War dogs** hold *bite* (and often a thick hide).
+---
+
+## Animals (not Muster)
+
+Muster seats **people**. A mule bought to haul, or a horse you ride, is a **bought asset** — off the twelve, not a Muster slot. Prices: [[Burners Equipment#Animals and mounts]].
+
+A **trained, named** companion (your warhorse, your dog) is a **Signature** on the Trait that covers the work — not a retainer and not a Muster slot. See *Signatures* on [[Burners Adventure Game]].
 
 ---
 
@@ -188,13 +194,6 @@ All examples use half power (round down) unless a Boss **manages** them that rou
 - **Traits (2):** *squire*, *arming sword* (Sword).
 - **Kit:** master's spare blade, oil, strap kit.
 - Proud of the harness; looks to his own skin when the line bucks.
-
-### Rook — war dog (loyal)
-
-- **Level 1.** Sword 1. HP ⌊1d6/2⌋ (min 1). Loyalty **10** (7+3 loyal).
-- **Traits (2):** *bite*, *thick hide* (Sword).
-- **Kit:** collar, scars, mean bark.
-- Bonded after the fen job. When Loyalty holds, acts loyally. Sleeps on the Boss's blanket.
 
 ### Nell — spear (loyal)
 

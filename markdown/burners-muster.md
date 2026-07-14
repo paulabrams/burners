@@ -62,11 +62,11 @@ After-adventure Loyalty (will they stay?) still belongs to the Referee for every
 
 **Default:** half, always round **down**.
 
-**Managed:** The Boss spends **their Action** that round to **manage** one **Mustered** retainer. Until the next Roll Initiative, that retainer uses **half round up** for Approach rolls, Shock, Veteran extras, and Fuel level-die counts in that window. HP on the sheet does not rewrite mid-fight.
+**Managed:** The Boss spends **their Action** that round to **manage** the Muster — the Boss takes no other Action that round. Until the next Roll Initiative, up to **Heart** Mustering retainers (your choice if you Muster more than Heart) use **half round up** for Approach rolls, Shock, Veteran extras, and Fuel level-die counts. HP on the sheet does not rewrite mid-fight. Excess Mustering retainers stay at half down.
 
-- One Action → **one** retainer for that round.
-- Only a retainer you are Mustering.
-- Managing again next round costs another Action.
+- One Action → up to **Heart** Mustering retainers that round.
+- Only retainers you are Mustering.
+- Managing again next round costs another Action (no Boss Action of your own that round).
 
 ---
 
@@ -159,7 +159,7 @@ The Referee may field a rare **professional adventurer**: an NPC built as a PC. 
 
 ## Example Retainers
 
-All examples use half power (round down) unless a Boss **manages** them that round. Each Mustering retainer costs **1** Muster slot.
+All examples use half power (round down) unless a Boss **manages** them that round (up to Heart at once). Each Mustering retainer costs **1** Muster slot.
 
 ### Cob — lantern bearer
 

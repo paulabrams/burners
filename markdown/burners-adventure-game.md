@@ -107,7 +107,7 @@ Quick definitions. Details live in the chapters below.
 
 - **Muster:** Heart 1+ loadout. Split physical / **Muster slots**; **one slot per retainer**. See *Muster* and [[Burners Muster]].
 
-- **Manage:** Boss Action — one Mustering retainer uses half round **up** that round instead of down. See [[Burners Muster]].
+- **Manage:** Boss Action — forgo your Action; up to **Heart** Mustering retainers use half round **up** that round instead of down. See [[Burners Muster]].
 
 - **Sweet and Spicy:** a rolled 6 is Sweet (a good twist); a rolled 1 is Spicy (a complication). These ride alongside the sum and never change it. Two 6s (a natural 12) is the perfect roll. Two 1s (a natural 2) is a fumble.
 
@@ -355,11 +355,11 @@ When you reach level 1 in an Approach, you earn its title. The title turns on th
 | Sword | Veteran | extra attacks |
 | Sorcerie | Sorcerer | cast from your hand; Arcana slots and wizard drip; read magic |
 | Craft | Journeyman | reduce party-wide travel, weather, and survival costs by your Craft level |
-| Heart | Boss | **Muster** (1 slot per retainer); **Manage**; Loyalty |
+| Heart | Boss | **Muster** (1 slot per retainer); **Manage** (up to Heart); Loyalty |
 
 **The Journeyman's craft (Craft 1+).** As a Veteran you rule the melee. As a Journeyman you rule the journey. Your Craft level reduces party-wide costs from travel, weather, and survival: cold, heat, hunger, thirst, exhaustion, forced marches, rough terrain, getting lost. When the Referee quotes such a cost, subtract your Craft level from it for everyone you are guiding. Often that drops the cost low enough that the Referee waives the roll. Example: the biting cold rain adds 6 Heat, and you are a Journeyman with Craft 3 who has a deadfall shelter and a fire going. You cut it to 3. Without Craft 1+ you can endure the wilds yourself, but you cannot shepherd others through them.
 
-**The Boss's command (Heart 1+).** As a Veteran you rule the melee. As a Journeyman, the journey. As a Sorcerer, the unseen. As a Boss, the Muster. Heart unlocks **Muster**: split your twelve into physical kit and **Muster slots** — **one slot per retainer**. Packing cost is the tax. Mustering retainers are **yours to play and roll** — like a PC — and make **no Loyalty checks in a fight** while you are active; retainers not Mustering stay Referee NPCs and check more often. Spend your **Action** to **Manage** one Mustering retainer (half round **up** that round). Retainers take XP **as in OSE** whether Mustering or not. After the job (and when you are down or fled), the Referee checks **Loyalty** (`2d6` ≤ Loyalty, with mods); **Mustered** retainers always add your **Heart** while you are active. **Loyal** is a tag (+3 Loyalty; they act loyally when they hold) — apply it when the bond is real. **Any delver** can hire retainers for coin. Full rules: [[Burners Muster]].
+**The Boss's command (Heart 1+).** As a Veteran you rule the melee. As a Journeyman, the journey. As a Sorcerer, the unseen. As a Boss, the Muster. Heart unlocks **Muster**: split your twelve into physical kit and **Muster slots** — **one slot per retainer**. Packing cost is the tax. Mustering retainers are **yours to play and roll** — like a PC — and make **no Loyalty checks in a fight** while you are active; retainers not Mustering stay Referee NPCs and check more often. Spend your **Action** to **Manage** the Muster (you take no other Action): up to your **Heart** Mustering retainers get half round **up** that round. Retainers take XP **as in OSE** whether Mustering or not. After the job (and when you are down or fled), the Referee checks **Loyalty** (`2d6` ≤ Loyalty, with mods); **Mustered** retainers always add your **Heart** while you are active. **Loyal** is a tag (+3 Loyalty; they act loyally when they hold) — apply it when the bond is real. **Any delver** can hire retainers for coin. Full rules: [[Burners Muster]].
 
 ## Alignment
 
@@ -693,7 +693,7 @@ The full rules are on **[[Burners Sorcerie]]**. The catalog is **[[Burners Spell
 
 *Ok boys, check your kit, check your weapons, it's today. You get a pint and a chaser, no more. Let's go*
 
-Anyone with coin can hire a retainer for the adventure. A **Boss (Heart 1+)** **Musters** today's crew: **physical / Muster** split, **one Muster slot per retainer**. Mustering: Boss player plays and rolls; no fight Loyalty while the Boss is active; Heart on Loyalty checks. Not Mustering: Referee NPCs, check Loyalty more often. Spend your Action to **Manage** one Mustering retainer (half round up). Retainers: **OSE XP**. **Loyal** (+3 Loyalty, act loyally) is a tag.
+Anyone with coin can hire a retainer for the adventure. A **Boss (Heart 1+)** **Musters** today's crew: **physical / Muster** split, **one Muster slot per retainer**. Mustering: Boss player plays and rolls; no fight Loyalty while the Boss is active; Heart on Loyalty checks. Not Mustering: Referee NPCs, check Loyalty more often. Spend your Action to **Manage** the Muster (forgo your Action; up to **Heart** retainers get half round up). Retainers: **OSE XP**. **Loyal** (+3 Loyalty, act loyally) is a tag.
 
 Starting Boss: **11 physical + 1 Muster**, starter **loyal retainer** Mustering (level 1, Sword or Craft). Re-Muster before a job or on any 8-hour sleep.
 

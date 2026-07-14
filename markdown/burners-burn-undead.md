@@ -40,12 +40,11 @@ The hard ask is your own. Anyone the Fallen slew may look only dead — a friend
 
 ### Fallen Wounds
 
-- **Fallen:** anyone slain by undead becomes undead. Everyone knows this.
+- **Fallen:** as everyone knows, anyone slain by undead becomes undead.
 - **Fallen Wound:** a Wound opened by the Fallen. A Fallen Wound does not heal naturally, neither after rest nor sleep.
-- **Midnight:** each night while unclean, deepen severity and HP by the Fallen that cut you, then Survival. Husk (skeleton, zombie, or other Fallen with no level drain): deepen by **1**. Major Fallen (wight, wraith, spectre, vampire, or any with level drain): roll `1d6` + `1d6` per drain (wight drain 1: `2d6`; drain 2: `3d6`).
-- **Purge:** spend one Incendiary; deepen as Midnight for that Fallen; then Survival.
-- **Survival:** immediate `2d6 + Craft` vs severity (helped if a friend holds you). Fail or alone → die. Die unclean → spawn. Die from Purge → no spawn. Live after Midnight: still unclean. Live after Purge: Wound purified (ordinary injury thereafter).
-- **Major help:** sanctuary or living power purify without Purge.
+  - **Midnight:** first night unclean, and each night after — deepen severity and HP by the Fallen that cut you, then Survival. Husk (skeleton, zombie, or other Fallen with no level drain): deepen by **1**. Major Fallen (wight, wraith, spectre, vampire, or any with level drain): roll `1d6` + `1d6` per drain (wight drain 1: `2d6`; drain 2: `3d6`).
+- **Purge:** 1 Turn. Spend one Incendiary; deepen severity and HP as Midnight; then Survival. Live: Wound purified. Die: no spawn.
+- **Survival:** immediate `2d6 + Craft` vs severity (helped if a friend holds you). Fail or alone → die. Die unclean → spawn. Live after Midnight: still unclean.
 
 *Example. Herrick 3 HP, gambeson AC 2 vs barrow-wight (drain 1). Blow 5 soak 2 → 0 (no Wound). Blow 9 soak 2 → −4: Fallen Wound severity 4. Shock + helped after-fight survival OK; still unclean. Midnight or Purge: roll `2d6`, deepen by the total → Survival (purified if Purge and live; dead unclean → spawn; dead from Purge → no spawn).*
 

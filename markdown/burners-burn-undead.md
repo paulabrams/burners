@@ -49,3 +49,38 @@ The hard ask is your own. Anyone the Fallen slew may look only dead — a friend
 *Example. Herrick 3 HP, gambeson AC 2 vs barrow-wight (drain 1). Blow 5 soak 2 → 0 (no Wound). Blow 9 soak 2 → −4: Fallen Wound severity 4. Shock + helped after-fight survival OK; still unclean. Midnight or Purge: roll `2d6`, deepen by the total → Survival (purified if Purge and live; dead unclean → spawn; dead from Purge → no spawn).*
 
 *A note to old school players: undead do not cause level loss on touch unless you prefer that to the above.*
+
+### Picking an OSE monster (stats & XP)
+
+**Burn Undead** is how undead *work* — fire, Fallen Wounds, spawn, no level drain. **OSE** is the shelf you take numbers from: Hit Dice, AC, attacks, special kit, Morale, **printed XP**.
+
+Prefer the monster's **printed XP** from the [OSE SRD](http://oldschoolessentials.necroticgnome.com/srd/index.php) (or the full [Awarding XP](http://oldschoolessentials.necroticgnome.com/srd/index.php/Awarding_XP) table: base by HD + bonus per `*` ability). The short HD→XP chart in [[Burners OSE Conversions]] is a coarse shortcut — e.g. it lists HD 3 as 60, but a [Wight](http://oldschoolessentials.necroticgnome.com/srd/index.php/Wight) is HD `3*` and **XP 50**.
+
+| Use from OSE | Do not use from OSE |
+|---|---|
+| HD → Fuel spine; **printed XP** (or HD + `*` table) | Energy drain (levels lost) |
+| AC → Armor soak | Cleric Turn Undead as written |
+| Attacks / damage die → claw/weapon slots | Anything that contradicts fire / Fallen Wound |
+| Printed specials you keep (gaseous form, regen, charm…) | — |
+| Silver / magic to hit → Resistance (weakness bypasses) | — |
+
+**Husk or Major Fallen?** OSE name tells Midnight deepen (XP from SRD):
+
+| OSE | HD | XP (SRD) | Band | Midnight deepen |
+|---|---|---:|---|---|
+| Skeleton | 1 | 10 | Husk | +1 |
+| Zombie | 2 | 20 | Husk | +1 |
+| Ghoul | 2\* | 25 | Husk | +1 (paralysis stays if you want it) |
+| [Wight](http://oldschoolessentials.necroticgnome.com/srd/index.php/Wight) | 3\* | **50** | Major, drain 1 | `2d6` |
+| Wraith | 4\* | 125 | Major, drain 1 | `2d6` |
+| [Mummy](http://oldschoolessentials.necroticgnome.com/srd/index.php/Mummy) | 5+1\* | **400** | Husk\* | +1 (\*no OSE drain — disease as written or skip) |
+| Spectre | 6\*\* | 725 | Major, drain 2 | `3d6` |
+| [Vampire](http://oldschoolessentials.necroticgnome.com/srd/index.php/Vampire) | 7–9\*\* | 1,250 / 1,750 / 2,300 | Major, drain 2 | `3d6` |
+
+\*Or call mummy Major if you want it to feel willful — fire is already its doom.
+
+**Hybrids (like a draugr):** take **kit** from the OSE monster that matches fiction, take **HD / shell** from how hard you want the fight, take **Major / drain N** from the OSE drain ladder (or one step below if you dialled the fight). For XP, either:
+- printed award of the nearest whole monster, or
+- build it: HD base + one bonus per special ability you keep (`*` on the Awarding XP table).
+
+**Example — Lothian A4 Draugr:** **Monster XP 50** (stock wight, OSE RAW). Payday: coffin + lung vault **gp ×2**, then **1 XP per 1 gp**. Not a fatter kill award. Party said vampire; pinholes = sleeper clue. Fallen Wound, not level drain.

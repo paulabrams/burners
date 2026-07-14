@@ -50,7 +50,7 @@ Spend banked XP to gain a level only in civilization (see [[Burners Adventure Ga
 | 5 | 250 | 17–20 | 8,500 |
 | 6 | 500 | 21+ | 10,000+ |
 
-For fractional or special HD, use the nearest row or the module's printed award.
+For fractional or special HD, **prefer the monster's printed XP** or the full OSE [Awarding XP](http://oldschoolessentials.necroticgnome.com/srd/index.php/Awarding_XP) table (base + bonus per `*` ability). This short chart is a coarse shortcut — e.g. HD 3 reads **60** here, but an OSE [Wight](http://oldschoolessentials.necroticgnome.com/srd/index.php/Wight) (`3*`) is **50 XP**.
 
 **Converting a module hoard.** Roll or place treasure as OSE directs. Coins, gems, and jewelry pay **1 XP per gp** when banked in town — not when first pocketed in the delve. Art objects and mundane goods pay at their sale value when sold. Magic items pay **0 XP**; the item is the reward. Split awards among the crew as you prefer.
 

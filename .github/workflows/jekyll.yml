@@ -27,6 +27,9 @@ jobs:
         with:
           source: ./
           destination: ./_site
+      # jekyll-build-pages writes _site as root; reclaim for later steps
+      - name: Fix _site ownership
+        run: sudo chown -R "$USER:$USER" _site
       - name: Publish raw markdown under /markdown
         run: |
           mkdir -p _site/markdown

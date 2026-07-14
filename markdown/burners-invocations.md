@@ -57,11 +57,11 @@ Finding or verifying a name is play: a **`2d6 + Sorcerie`** roll (ancient lore) 
 
 ## Making an Invocation
 
-An Invocation is a **ritual**, not a spell or an attack. You cannot Invoke in the middle of a combat round — gather yourselves before the fight, after, or when the company has bought enough Turns of space (a barred door, a held corridor, broken contact). Rebuking the willful dead follows the same rule: they were born of a pact; they answer one. Hold the line while the caller works, or wait until the clash pauses.
+An Invocation is a **ritual**, not a spell or an attack. You cannot Invoke in the middle of a combat round — gather yourselves before the fight, after, or when the company has bought enough Turns of space (a barred door, a held corridor, broken contact). Hold the line while the caller works, or wait until the clash pauses.
 
 **Time.** Each **Offer level** you hope to receive needs about **ten minutes** of ritual — one **Turn** per level. A small favor is one Turn; a middling favor two; a serious favor three. The Offer you actually get is capped by the **lower** of: Turns spent, your **Alignment** with the patron, and what the pageantry can bear.
 
-1. **Pageantry.** Gather yourself spiritually, then prepare a place that would please the being. Lay an altar or makeshift shrine: incense, flame, salt, water, song, food or blood, flowers, bones, Relics, sacred objects — whatever fits that patron's nature. Spend the Turns your intended Offer level requires. **What you prepare (and how long you keep the rite) gates what you may ask.** A thimble of moon-water and a hummed bar of song can carry a small favor from Lunara; it will not carry a rebuke. A fresh sea-altar with kelp, salt, and a Relic may support asking Maren to take a drowned wight home — and companions must hold the space for those Turns. Empty hands and a shout are not an Invocation — they are noise, and the wrong listener may hear.
+1. **Pageantry.** Gather yourself spiritually, then prepare a place that would please the being. Lay an altar or makeshift shrine: incense, flame, salt, water, song, food or blood, flowers, bones, Relics, sacred objects — whatever fits that patron's nature. Spend the Turns your intended Offer level requires. **What you prepare (and how long you keep the rite) gates what you may ask.** A thimble of moon-water and a hummed bar of song can carry a small favor from Lunara; it will not part a flood. A fresh sea-altar with kelp, salt, and a Relic may support asking Maren to ease a landing — and companions must hold the space for those Turns. Empty hands and a shout are not an Invocation — they are noise, and the wrong listener may hear.
 2. **Declare.** Speak the True Name **thrice**, aloud and formal, and state your request in the fiction — what you want, not a spell title. Ask only what the pageantry can bear. This is not a wish: you ask; the patron decides what your words mean.
 3. **Cost.** The Referee quotes a **Cost** — a number to meet or beat: usually **8** for a small favor, **10** for a middling working, **12** for a serious working. **World-tilting requests are refused** before any roll — end the war, raise the dead kingdom, remake a fate. A request **against** the patron's nature raises Cost by 2; one **squarely in their nature**, backed by deeds already done and fitting pageantry, may drop it by 2 — or simply succeed without a roll (as any well-backed deed can). In a hostile place, Cost may be the scene's Heat if that is higher.
 4. **Roll.** **`2d6 + Alignment with the patron`** — your Approach roll for this bargain. Meet or beat the Cost and the patron **may answer**. Fall short by the **shortfall**: the unpaid remainder lands as **HP on the caller**, **Heat on the crew**, or **split between them**, as the Referee reads the fiction — speaking a True Name in a barrow is usually personal; working a rite in a tense holdfast usually riles the room.
@@ -98,8 +98,8 @@ Dial freely within the cap: a **thin Offer** with a **light Ask** for a small fa
 | Level | Scale | Ritual time | Examples |
 |---|---|---|---|
 | **1** | Small favor | 1 Turn (~10 min) | A door unbarred, a scent on the wind, a candle that will not gutter, a name whispered back |
-| **2** | Middling favor | 2 Turns (~20 min) | Turn shambling husks from your path (they burn after), calm a storm long enough to land, mark the liar in the room, close a wound that will not stanch |
-| **3** | Serious favor | 3 Turns (~30 min) | Rebuke a willful dead thing — rout it, bar it, or claim it home — part a flood long enough to cross, strike one foe with its wrath, carry a message to a far shore |
+| **2** | Middling favor | 2 Turns (~20 min) | Calm a storm long enough to land, mark the liar in the room, close a wound that will not stanch, find a lost name on the wind |
+| **3** | Serious favor | 3 Turns (~30 min) | Part a flood long enough to cross, strike one foe with its wrath, carry a message to a far shore, bar a door until dawn |
 | **4+** | As grave as the caps allow | 4+ Turns | Still a serious working — never a remade world |
 
 **Asks by nature** (d6, or the Referee picks):
@@ -152,15 +152,7 @@ At **Alignment 3+** with a patron, holding their Relic, you may stand as their *
 
 ## The Willful Dead
 
-The mindless dead burn — oil, flame, and a fast exit (see [[Burners Burn Undead]]). The **willful** dead remember who fed them.
-
-At the Battle of the Thousandfold Curses, the Eldar had trapped the Kha'din inside the Wintercrowns and were losing. Reshuk, god of the dead, offered the oldest bargain: he would summon his children to win the war, if the living promised to **feed them**. Desperate Eldar agreed. Power surged into the fallen on the field — and they rose not alive, but **Deurg'Gul**, the Undying Ones. By dawn they turned their blades on kin. The Undying Lands became Sepulchre; every later thrall, barrow-wight, Zuhl, and vampire lord is a younger echo of that first Ask.
-
-That is why no priest of the Isles lifts a holy symbol and scatters skeletons. The first undead were born from a **named pact**. Against the willful dead — lich, wraith-lord, Deurg'Gul remnant, vampire in his hall — fire alone seldom answers. You answer with another pact.
-
-**Rebuke.** A Burner aligned to a being whose nature **opposes the grave** — or one that **claims the dead** and will not share them — may rebuke them in the patron's name. Same ritual as any Invocation: pageantry that fits, True Name thrice, **one Turn per Offer level** you can receive, rolled on Alignment. Do this before the clash, after, or while companions hold the space — not as a combat Action. The Offer is the rout, the barring, or the reclaiming of the dead thing: Maren may take a drowned wight home; Pyrose may drive it into the light; a grave-claiming voice may call it to heel. That is the Isles' true "turning" — not your holiness, but the patron's, lent through the pact, at the price all pacts carry.
-
-The shambling kindling still burns. Bring oil.
+Why the Fallen walk — Reshuk's bargain, the Deurg'Gul, Sepulchre — lives on [[Burners Burn Undead]]. Against them you bring fire, a woken edge, or nerve. Invocations do not stand in for steel.
 
 ---
 
@@ -176,9 +168,9 @@ The shambling kindling still burns. Bring oil.
 
 ### Serious working — Cost 12
 
-*Sefa (Craft 1, Traits: marsh-lore, night-fisher, drowned-kin, quiet) and companions bar the crypt door while the Cellarer's wight claws beyond. She cannot call mid-clash. Alignment 1 (Relic) caps Offer at **1**, so **one Turn** of sea-altar is enough for what she can receive — salt and kelp on wet stone, a drowned fish as tide-gift, Maren's barnacled comb open. She speaks the name thrice and asks Maren to take the dead thing home — claim what the grave left wandering. Cost **12** (rebuke is always a serious working, even when the Offer comes back thin). Roll **`2d6+1 = 9`** — shortfall **3**, split as 2 HP on Sefa and +1 Heat on the crew. The sea still answers.*
+*Sefa (Craft 1, Traits: marsh-lore, night-fisher, drowned-kin, quiet) and companions need the flooded undercroft fordable before the tide locks them in. Alignment 1 (Relic) caps Offer at **1**, so **one Turn** of sea-altar is enough for what she can receive — salt and kelp on wet stone, a drowned fish as tide-gift, Maren's barnacled comb open. She speaks the name thrice and asks Maren to part the water long enough to cross. Cost **12**. Roll **`2d6+1 = 9`** — shortfall **3**, split as 2 HP on Sefa and +1 Heat on the crew. The sea still answers.*
 
-*Offer, level 1: floodwater rises black and cold; the wight wades down as into a mother's arms — gone, not destroyed. Ask: return the comb to the fen shrine before the next full moon, and shaping Trait **sea-longing**. Sefa accepts. Next level-up the Trait is hers — Alignment with Maren starts to climb. (A full serious Offer — level 3 rebuke that bars or breaks a willful dead thing — would have needed Alignment 3 and three Turns holding the door.)*
+*Offer, level 1: the flood draws back for one crossing. Ask: return the comb to the fen shrine before the next full moon, and shaping Trait **sea-longing**. Sefa accepts. Next level-up the Trait is hers — Alignment with Maren starts to climb. (A full serious Offer — a longer parting, three Turns and Alignment 3 — would have bought more time.)*
 
 ### Refused — world-tilting
 

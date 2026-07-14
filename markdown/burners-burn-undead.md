@@ -7,76 +7,46 @@ hero_alt: "A figure falling through smoke — Albert Robida"
 
 # We Burn Undead
 
-*In the Dragon Isles there is no priest who lifts a holy symbol and sends the skeletons scattering. You don't turn undead. You burn undead. The dead are dry: old bone, grave-linen, tomb-dust, the leathered husk of a thing that stopped drinking centuries ago. Nothing takes a torch more gladly. When you meet the walking dead, the plan is rarely subtle. Light the barrow, and stand back.*
+*What is dead cannot die.*
 
-*"We don't turn undead. We burn undead." — the old barrow wisdom, and more oil than sense.*
+*The Fallen of the Dragon Isles were made by Eldar gods — and they fear naught except fyre. The dead are dry: old bone, grave-linen, tomb-dust, the leathered husk of a thing that stopped drinking centuries ago. Nothing takes a torch more gladly. Light the barrow, and stand back.*
 
----
+*"We burn undead." — the old barrow wisdom, and more oil than sense.*
 
-## The Mindless Dead
+At the Battle of the Thousandfold Curses the Eldar had trapped the Kha'din inside the Wintercrowns and were losing. Reshuk, god of the dead, offered the oldest bargain: he would summon his children to win the war, if the living promised to feed them. Desperate Eldar agreed. Power surged into the fallen on the field, and they rose not alive, but Deurg'Gul, the Undying Ones — what lesser tongues call the Fallen. By dawn they turned their blades on kin. The Undying Lands became Sepulchre — also called Dearg-dul country, Tir'Na'Deurg'Gul, the Sea of Bones. Some say the Kha'din's own curses raised the dead, and Reshuk only turned them against the host that spoke them. Either way, every later thrall, barrow-wight, Zuhl, and vampire lord is a younger echo of that first bargain.
 
-**Steel fails, fire feasts.** The shambling horde (skeletons, corpse-things, grave-risen) are monsters with HP, built like any other, with one convention that makes the fiction true:
+Folklore says the Fallen are beyond most threats to mortal man — hunger, age, and disease leave them alone. Arrows, illusions, charm, sleep, fear, hold, and magics aimed at the living fail. Yet the joys of life are shut: they cannot endure sunlight long, cannot cross running water, cannot enter a house uninvited, cannot take bread nor ale nor salt, beasts will not bear them, and many other regrets.
 
-- **Resistance to blades.** A sword through a skeleton finds no organs, no blood, no lungs to collapse. Steel does little (treat undead as having Resistance against cutting and piercing weapons; the Referee sets the value by how bony or desiccated the thing is). Bludgeoning that shatters rather than cuts ignores this. A mace or maul works where slicing does not.
+The old tales may wander and contradict one another, but all agree "fyre makes it gute!". Dry bone and grave-linen are kindling — torch, oil, naphtha, a thrown pot, holy water or holy oil. Burning purifies what should never have walked; a brand thrust into the press turns the husks that fear fire. Willful Fallen laugh at bare flame. Bring more oil than you think you need.
 
-- **Vulnerability to fire.** The dead are kindling. Fire ignores their blade-Resistance and bites deep. A torch, a flask of oil, a stray flame: count fire damage at full, or with a bonus, the Referee's call. Burning is the right play, not color.
+The Fallen remember what they were. Heart turns them because you call up what they miss — old longings, duties, loves, and fears — while the fyre brand is what they cannot endure.
 
-So the answer to a crypt full of the shuffling dead is not a magic word. It is oil, flame, and a fast exit. Bring more oil than you think you need. You will use it.
+The hard ask is your own. Anyone the Fallen slew may look only dead — a friend, a hireling, a Boss's sworn hand. Carry them home for a clean burial and by Midnight they may rise as that thing's spawn. Put them on the pyre with the bones and they rest. Same choice waits for the living when a Fallen Wound opens. When the Fallen wound you, they do more than cut: the hunger that raised the Deurg'Gul reaches through and begins to claim you. As Midnight nears the cut grips, chills, and writhes. The body already knows the hour is coming.
 
----
-
-## Incendiaries
-
-Kit that burns: flask of oil, molotov, naphtha, alchemist's fire, witchfire, pitch pot, clay firepot, torch-and-oil, **holy water** (it burns undead and drain Wounds like fire), Dwur charges when subtlety is already spent. Full list, prices, and how thrown fire works: [[Burners Arms and Armor#Incendiaries & Alchemy]] and [[Burners Equipment]].
+> "Boys, hold Herrick down and bring the fyre, we need to purge him."
 
 ---
 
-## Drain Wounds
+## Game Rules: Undead
 
-OSE **energy drain** does **not** strip levels. Negative energy meets negative hit points.
+### Fire Turns Undead
 
-A successful drain touch (wight, wraith, spectre, and kin) deals damage to **HP** like any other blow. Hit protection still cushions. The horror begins only when overflow opens a **Wound** — **past 0**. Ordinary people sit at 0 without a Wound; a drain that leaves them at 0 has not yet cut the soul. Ordinary undead without a drain special just Wound like steel.
+- **Turn Undead:** 1 Turn outside a fight. Brand, holy water, or holy oil. `2d6 + Heart` vs Hit Dice + Heat. Meet: husks that fear fire recoil 1 Turn. Miss: they come on. Flask spent; torch not.
+- **Brandish:** combat Action. Fuel attack (or Stunt) with torch, brand, holy water, or holy oil. Ignores blade-Resistance on husks that fear fire. Stunt: they Defend; failure drives them from your light 1 round. No effect on willful Fallen. Thrown fire: [[Burners Arms and Armor#Incendiaries & Alchemy]].
 
-A **drain Wound** is not a steel cut. It will not heal naturally (no **1 HP per day**) and trivial means will not close it (*Stanch*, routine Vitae, chirurgeon, Hour Rest). It is a death clock. If they **die from an unpurified drain Wound**, they **rise as spawn** of that undead. Telegraph it.
+### Fire Burns Undead
 
-### Midnight
+- **Pyre of the Fallen:** 1 Turn outside a fight. Pyre + Incendiaries; burn bones of the fallen and bodies of those they slew. Burned: no spawn. Unburned: may rise.
 
-Each night at **Midnight**, while the Wound is unclean, deal **1d6 HP damage per OSE drain level** the creature would have stripped (wight 1 → 1d6; spectre 2 → 2d6). That damage deepens the negative tally and severity like any blow past 0. As the hour nears, the Wound grips, chills, and writhes — they feel the night coming on. No surprise tick.
+### Fallen Wounds
 
-### Purge
+- **Fallen Wound:** a Wound opened by the Fallen. A Fallen Wound does not heal naturally, neither after rest nor sleep.
+- **Midnight:** each night while unclean, roll `1d6` plus `1d6` per level drain of the Fallen that cut you (skeleton or zombie: `1d6`; barrow-wight, drain 1: `2d6`; wraith or vampire with drain 2: `3d6`). Deepen severity and HP by the total; then Survival.
+- **Purge:** spend one Incendiary; roll the same dice as Midnight; deepen severity and HP by the total; then Survival.
+- **Survival:** immediate `2d6 + Craft` vs severity (helped if a friend holds you). Fail or alone → die. Die unclean → spawn. Die from Purge → no spawn. Live after Midnight: still unclean. Live after Purge: Wound purified (ordinary injury thereafter).
+- **Major help:** sanctuary or living power purify without Purge.
+- **Spawn:** anyone slain by undead becomes undead.
 
-Burn it out. Spend **any Incendiary** from kit. Holy water burns like fire for this work. The item is used up.
+*Example. Herrick 3 HP, gambeson AC 2 vs barrow-wight (drain 1). Blow 5 soak 2 → 0 (no Wound). Blow 9 soak 2 → −4: Fallen Wound severity 4. Shock + helped after-fight survival OK; still unclean. Midnight or Purge: roll `2d6`, deepen by the total → Survival (purified if Purge and live; dead unclean → spawn; dead from Purge → no spawn).*
 
-*"Boys, hold Herrick down, we need to purge him."*
-
-Cost: the same **1d6 HP per drain level**, paid once as the iron. Same flesh tax either way — Midnight or the purge. Waiting does not spare the damage; it only leaves the Wound unclean.
-
-### Immediate survival
-
-After Midnight damage, and after a Purge, make the **survival check at once**: **`2d6 + Craft` vs total wound severity**, with help as usual. Do not wait for “after the fight.” Fail or go unhelped → **dead**. Die unclean → **spawn**. Die from the purge → **rest in peace** — no spawn. Survive the purge and the Wound is **purified**: an ordinary Wound from then on (normal recovery, no further Midnight ticks, later death does not spawn).
-
-The ordinary after-fight survival check still applies when the drain Wound **first** opens in combat. It does not purify. Wound procedure: [[Burners Adventure Game#Wounds]].
-
-### Major help
-
-A named power, sanctuary, or Invocation / high working the Referee accepts can purify **without** the fire tax. Ride for it, or take the iron.
-
-### Example
-
-*Herrick (3 HP, gambeson AC 2) faces a barrow wight (1 level drain). First hit: 5 damage, armor soaks 2 → 3 to HP. He drops from 3 to 0 — luck spent, not yet a Wound, no classic level drain. Next hit: 9 less 2 armor is 7. He goes to −4 — a **drain Wound**, severity 4. Shock and after-fight survival with help keep him alive tonight. They will not close it. As midnight nears the cut writhes. At Midnight he takes 1d6 (wight = 1 level); severity climbs; survival at once. Or: “Boys, hold Herrick down.” They spend a flask of oil, purge for 1d6, survival at once — purified ordinary Wound, or dead clean.*
-
----
-
-## The Willful Dead
-
-The mighty dead are a different problem. A wraith has no dry flesh to catch. A lich keeps its life hidden in a phylactery the fire never touches. A vampire lord has laughed at torches for a thousand years. Fire alone will not clear them.
-
-Torch the horde; deal, name, or dare the lord:
-
-- **A Saint's patron.** Rebuke in another being's name — the Isles' true "turning." Not your holiness: the patron's, lent through the pact. Full ritual and history of the first undead bargain: [[Burners Invocations#The Willful Dead]].
-
-- **A named or eldritch edge.** A woken enchanted weapon, a Relic, a Named blade. What the fire cannot burn, the right eldritch steel can cut.
-
-- **Nerve.** As a Boss you may face down the intelligent dead by sheer presence: cow a wraith, stare down a vampire's thrall. A skeleton has no will to break; a thinking dead thing does.
-
-The shambling kindling still burns. Bring oil.
+*A note to old school players: undead do not cause level loss on touch unless you prefer that to the above.*

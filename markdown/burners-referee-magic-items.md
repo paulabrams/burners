@@ -144,7 +144,7 @@ Pick one per tier, or roll **d12** on the column. Re-roll duplicates. Route OSE 
 | 4 | Shed mud, ice, or blood instantly — never slippery |
 | 5 | **Detect magic** 3×/day within 20' while raised |
 | 6 | Mirror-bright; reflects gaze attacks once/fight at a **Defend** |
-| 7 | Holy symbol etched inside — turn undead once/session at **Heart** |
+| 7 | Holy water etched inside — **Turn Undead** once/session at **Heart** (brandish; see [[Burners Burn Undead#Fire Turns Undead, Fire Burns Undead]]) |
 | 8 | Arrow notch — first arrow each fight **Defended** as if one extra die spent |
 | 9 | Rally flash — ally in front facing gains +1 on next **Morale** check |
 | 10 | Boss rings when struck by magic |

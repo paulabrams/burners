@@ -128,9 +128,9 @@ Heat cools when the crew acts on the room (see Running Heat). HP and Wounds foll
 
 **Classic Crawl** (optional campaign flavor): once unwounded and at 0+, use **1d3 HP per full day** in a safe haven instead of Hour Rest for luck recovery. Write the choice at session zero. Wounds and survival still run as above.
 
-### Energy drain and spawners
+### Fallen Wounds
 
-No levels lost. Drain opens a **drain Wound** only **past 0** — then Midnight, Incendiary purge, immediate survival, spawn if unclean. Full procedure: [[Burners Burn Undead#Drain Wounds]].
+Any of the Fallen that **wounds** you opens a **Fallen Wound**. Midnight and purge deepen by `1d6` + `1d6` per level drain. Full procedure: [[Burners Burn Undead#Fallen Wounds]].
 
 ---
 

@@ -523,10 +523,10 @@ A coup de grace finishes a helpless foe outright. A truly helpless foe (bound, a
 
 You take a **Wound** when:
 
-- an attack drives you **below 0 HP** (overflow past 0) — steel, claw, or drain touch alike;
+- an attack drives you **below 0 HP** (overflow past 0) — steel, claw, or the walking dead alike;
 - or harm lands where **HP cannot help** (helpless coup, some poisons, module specials — Referee's call).
 
-Resolve each Wound once, then carry it. Wounds accumulate. Penalties last until you reach **full HP** (maimings excepted). A blow that lands you **exactly at 0** spends the last of your luck; you are not Wounded until a blow drives you negative. Energy drain does not bypass that cushion — negative energy meets negative hit points.
+Resolve each Wound once, then carry it. Wounds accumulate. Penalties last until you reach **full HP** (maimings excepted). A blow that lands you **exactly at 0** spends the last of your luck; you are not Wounded until a blow drives you negative. A Wound from the **Fallen** is a **Fallen Wound** — see [[Burners Burn Undead#Fallen Wounds]].
 
 **Wound severity.** Keep a running total for the fight: for each attack that caused a Wound, add its **overflow** past 0 (damage that drove you below 0 after armor). Non-HP Wounds (where HP cannot help) add **0** unless that same attack also overflowed HP.
 
@@ -582,14 +582,14 @@ After **any fight in which you took a Wound**, you **die** unless you receive **
 
 Helped, you make a **survival check**: **`2d6 + Craft` vs total wound severity**. An ally who assists may let you use **their Craft** in place of yours. Natural **1+1 always fails**; **6+6 always succeeds**. Fail, or go unhelped → **dead**.
 
-Death is death. A **drain Wound** from a wight or kin is a death clock — see [[Burners Burn Undead#Drain Wounds]].
+Death is death. A **Fallen Wound** from the Fallen is a death clock — see [[Burners Burn Undead#Fallen Wounds]].
 
 #### Healing and recovery
 
 **Full HP closes wounds.** Maimings at the brink do not heal on their own.
 
 - **Hour Rest** (one hour, food and water): recover **all HP** to maximum — **only if you have no Wound**. If you are Wounded, Hour Rest does nothing for HP until you are whole again.
-- **Wounded:** recover **1 HP per day** naturally (safe rest with food) until **full HP**, then the Wound closes. *Stanch*, other Vitae, potions, and chirurgeons can restore HP sooner; *Healing Touch* does not help at **0 HP or less** — that is *Stanch*. An unpurified **drain Wound** ignores ordinary recovery — see [[Burners Burn Undead#Drain Wounds]].
+- **Wounded:** recover **1 HP per day** naturally (safe rest with food) until **full HP**, then the Wound closes. *Stanch*, other Vitae, potions, and chirurgeons can restore HP sooner; *Healing Touch* does not help at **0 HP or less** — that is *Stanch*. An unpurified **Fallen Wound** ignores ordinary recovery — see [[Burners Burn Undead#Fallen Wounds]].
 - **First aid** (Craft): tends a wound in the field; it does not restore HP by itself, but can be the **help** that lets you attempt the survival check.
 
 *Example. Aldric (Sword 1, maximum 4 HP) is driven to −3 by a blow of overflow 3: Wound, severity 3, leg — in the dirt. Shock (`2d6 + Sword` vs 3) beats it; he stays effective but in the dirt. After the fight an ally helps; survival (`2d6 + Craft` vs 3) succeeds. He climbs 1 HP per day (−2, −1, 0, 1…) until full 4; then the Wound closes. Hour Rest would not have filled him while Wounded.*
@@ -656,7 +656,7 @@ Armor is what you wear; its AC comes off every blow before HP.
 
 ### We Burn Undead
 
-You don't turn undead. You burn undead. Mindless dead: blade-Resistance, fire feasts. Drain touches open a death-clock Wound only **past 0** — Midnight or Incendiary purge, survival at once. Willful dead want a deal, a named edge, or nerve. Full page: [[Burners Burn Undead]].
+You burn the Fallen — **Turn** them outside a fight (1 Turn, `2d6 + Heart` vs HD + Heat), **Brandish** in the press (Fuel), or **Pyre of the Fallen** (burn the bones so they do not walk again). A Wound from the Fallen is a **Fallen Wound**. Willful Fallen laugh at bare flame — woken edge, or nerve. Full page: [[Burners Burn Undead]].
 
 ### Defending against Damage
 

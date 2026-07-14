@@ -143,7 +143,7 @@ Never both harm and hold from the same working on the same target. OSE *save for
 
 ## No instant death
 
-Poison, paralysis, petrification, death rays, and energy drain route into subsystems Burners already has:
+Poison, paralysis, petrification, death rays, and wounds from the Fallen route into subsystems Burners already has:
 
 - a **Defend** to avoid the touch;
 - a **lingering Cost** (level in HP per round for level rounds, no further defense);
@@ -151,7 +151,7 @@ Poison, paralysis, petrification, death rays, and energy drain route into subsys
 - **Wounds** and **Shock Checks** (combat-effective), then **help + Craft survival** after the fight — see [[Burners Adventure Game#Wounds]];
 - a **telegraphed area effect** you Ward (if magic), cover, or eat.
 
-**Energy drain** does **not** strip levels. Drain opens a death-clock Wound only **past 0** — Midnight, Incendiary purge, immediate survival, spawn if unclean. Full procedure: [[Burners Burn Undead#Drain Wounds]].
+**Any of the Fallen** that **wounds** you leaves a **Fallen Wound** — not level loss. Midnight and Incendiary purge deepen by `1d6` + `1d6` per level drain; immediate survival; spawn if unclean. Full procedure: [[Burners Burn Undead#Fallen Wounds]].
 
 Death comes from **failed survival** (after a fight, after Midnight, or after a purge), **unhelped Wounds**, or a **coup de grace** on a helpless body — not from a single failed save out of combat, and not from classic level loss. The Referee may offer a maiming at the brink instead.
 

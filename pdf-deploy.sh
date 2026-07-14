@@ -7,6 +7,11 @@
 #
 # Only converts a file when its PDF is missing or the .md is newer than the
 # existing PDF, so re-runs are cheap.
+#
+# Optional: set PDF_DEPLOY_ZIP_DIR to also write burners-pdfs.zip and
+# burners-markdown.zip there (CI uses _site/downloads on push to main).
+# Local push: optional .githooks/pre-push runs this when markdown changes
+# (enable with: git config core.hooksPath .githooks).
 
 set -euo pipefail
 
@@ -109,4 +114,17 @@ done < <(find "$SOURCE_DIR" -type f -name '*.md' -print0)
 echo "done: $converted converted, $skipped up-to-date, $failed failed -> $DEST_DIR"
 if [[ ${#COPY_TO[@]} -gt 0 ]]; then
   printf 'also mirrored to: %s\n' "${COPY_TO[@]}"
+fi
+
+# Optional zips (CI sets PDF_DEPLOY_ZIP_DIR=_site/downloads).
+ZIP_DIR="${PDF_DEPLOY_ZIP_DIR:-}"
+if [[ -n "$ZIP_DIR" ]]; then
+  mkdir -p "$ZIP_DIR"
+  ZIP_DIR_ABS="$(cd "$ZIP_DIR" && pwd)"
+  PDF_ZIP="$ZIP_DIR_ABS/burners-pdfs.zip"
+  MD_ZIP="$ZIP_DIR_ABS/burners-markdown.zip"
+  rm -f "$PDF_ZIP" "$MD_ZIP"
+  (cd "$DEST_DIR" && zip -q "$PDF_ZIP" ./*.pdf)
+  (cd "$SOURCE_DIR" && zip -q "$MD_ZIP" ./*.md)
+  echo "zips: $PDF_ZIP , $MD_ZIP"
 fi

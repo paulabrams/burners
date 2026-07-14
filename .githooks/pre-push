@@ -1,0 +1,29 @@
+#!/usr/bin/env bash
+# Rebuild repo pdf/ (and Supernote copy targets) before pushing main.
+# Enable once:  git config core.hooksPath .githooks
+set -euo pipefail
+root="$(git rev-parse --show-toplevel)"
+cd "$root"
+
+# Only spend the convert cost when markdown or the deploy script changed.
+if git diff --cached --quiet -- markdown/ pdf-deploy.sh pdf-deploy-config.json 2>/dev/null \
+  && git diff --quiet -- markdown/ pdf-deploy.sh pdf-deploy-config.json; then
+  # Also check commits about to be pushed vs upstream for markdown changes.
+  remote_ref="$(git rev-parse --abbrev-ref '@{upstream}' 2>/dev/null || true)"
+  if [[ -n "${remote_ref:-}" ]]; then
+    if git diff --quiet "$remote_ref"...HEAD -- markdown/ pdf-deploy.sh pdf-deploy-config.json; then
+      exit 0
+    fi
+  else
+    exit 0
+  fi
+fi
+
+echo "pre-push: markdown changed — running pdf-deploy.sh"
+bash "$root/pdf-deploy.sh"
+
+# If PDFs changed, ask for another commit rather than pushing stale binaries.
+if ! git diff --quiet -- pdf/; then
+  echo "pre-push: pdf/ updated. Commit the PDFs, then push again." >&2
+  exit 1
+fi

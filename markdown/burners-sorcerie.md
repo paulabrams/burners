@@ -20,8 +20,8 @@ Magic is prepared, not spontaneous — but the preparation lives in **you**, not
 someone can snatch. A Sorcerer exists in two realms at once, and their pack proves it.
 Utility first — most spells solve problems (light, movement, control, ward); hostile
 magic lands through the same **Defend** economy as steel. The Sorcerer title (Sorcerie 1)
-switches casting on; a combat cast is one Action that spends at least L Fuel dice
-(L = the working's level) and rolls them for the **cast total**.
+switches casting on; a combat cast is one Action that spends at least SL Fuel dice
+(SL = the working's level) and rolls them for the **cast total**.
 
 ## Spells Are Cards
 
@@ -145,8 +145,8 @@ normal slot cost** (a staff is 3 Arcana slots, not 1).
 **The cast.**
 
 1. **Say what you do** — name the spell and its effect in the fiction.
-2. **Pay the Cost.** In combat, casting is one Action: commit at least L Fuel dice
-   (L = the working's level) and roll them for the **cast total**, as ever. Out of combat,
+2. **Pay the Cost.** In combat, casting is one Action: commit at least SL Fuel dice
+   (SL = the working's level) and roll them for the **cast total**, as ever. Out of combat,
    roll **2d6 + Sorcerie** (or **2d6 + Craft** for Canting) against the Referee's Cost.
    Sparks, Double Spicy fumbles, and Defending against a spell run as written in
    [[Burners Adventure Game]].
@@ -158,7 +158,7 @@ like anyone. There is **no special cast penalty** — the hit does not abort the
 force the card to tap.
 
 **When a cast Sparks.** With a Spark you may spend it on the *working itself* — another
-target caught, a beat longer, a ward pierced (Referee's call) — or spend up to L
+target caught, a beat longer, a ward pierced (Referee's call) — or spend up to SL
 additional Fuel dice to push the effect further.
 
 **Double Spicy** on a combat cast is a fumble — the working goes wrong (the Referee's worst
@@ -171,7 +171,7 @@ rest?
 
 You may **burn** ready cards from your hand **as part of the same cast Action** — burns
 and the working together. One Action may burn any number of ready cards (levels covering)
-**and** resolve a cast, recast, or copy; roll at least L Fuel dice for the working that
+**and** resolve a cast, recast, or copy; roll at least SL Fuel dice for the working that
 lands. Burns enable:
 
 - **Recast** a spell in your discard, or
@@ -230,7 +230,7 @@ A **scroll** is a single-use working — **not** a card. One spell, already writ
 parchment, feather, wax seal, charm on a string — call it a scroll either way. **1 slot**
 each; it may ride in a **physical or Arcana** slot.
 
-- **Cast** it as any spell of that level: one Action in combat, at least L Fuel dice for
+- **Cast** it as any spell of that level: one Action in combat, at least SL Fuel dice for
   the cast total — then it is **spent** (ash, blank vellum, snapped charm). Your **hand is
   untouched**; no card taps.
 - **Cast only.** A scroll can never be burned as fuel.
@@ -349,8 +349,8 @@ See [[Burners Principles#Granular defense, not binary save]] and [[Burners Princ
 and effect are separate lanes]].
 
 When a spell targets you with harm, control, or another hostile effect, the caster's
-**cast total** is the sum of the Fuel dice spent to cast (at least L dice for a level-L
-working).
+**cast total** is the sum of the Fuel dice spent to cast (at least SL Fuel dice for a
+level-SL working).
 
 **Roll initiative.** A hostile spell is an attack like any other. If no fight is yet
 underway, roll initiative — the caster gains no free first strike.

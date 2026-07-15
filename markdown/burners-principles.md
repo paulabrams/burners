@@ -108,7 +108,7 @@ In combat, only **Sword** answers. The diplomat, locksmith, and archmage are bod
 
 Creatures fight like characters. On Initiative they roll a **Fuel pool** and spend dice to attack, defend, Spark, and Riposte. A blow is the **faces of the dice committed** — cut by defense and armor — not a fixed Damage stat on a stat block. There are no to-hit rolls; the pool carries how hard and how often a foe strikes.
 
-Spells work the same way: cast at least L Fuel dice; the **cast total** is the attack value.
+Spells work the same way: cast at least SL Fuel dice; the **cast total** is the attack value.
 
 When porting material that prints a flat damage number (a trap, a breath quoted in hp), convert by the die or treat it as a telegraphed area effect — never paste a legacy save and a legacy damage line and call it done.
 

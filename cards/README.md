@@ -48,7 +48,7 @@ these two files in, and fill faces from `markdown/burners-spells.md`.
 
 ```
 ┌─────────────────────────┐
-│ NAME              [L:N] │  spell level = min Fuel dice in combat
+│ NAME             [SL:N] │  SL = min Fuel dice in combat
 │ School · Instant/Lasting│  type line (+ Control, Free-known, …)
 ├─────────────────────────┤
 │      [SVG line art]     │  ~1.15" art frame
@@ -98,7 +98,7 @@ Defend, Sorcerie, tap, burn.
 | Magic | Burners |
 | --- | --- |
 | Hand | Ready spells |
-| Mana cost | Spell level (pay ≥ L Fuel in combat) |
+| Mana cost | Spell level (pay ≥ SL Fuel in combat) |
 | Tap | Rotate after cast |
 | Permanent / duration | Lasting — leave in play |
 | Exile | Burn (face-down) |

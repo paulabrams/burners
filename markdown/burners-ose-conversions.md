@@ -219,10 +219,10 @@ Read straight off the printed block — HP (folded if the AC had soak), the two 
 
 Port OSE spells onto [[Burners Spells]] when a match exists; otherwise write a one-line effect in the same format (`School L: …`).
 
-- **Spell level = cast level L.** Hand holds prepared cards; Arcana slot count sets hand size; drip rides in Arcana slots at full item cost. Sleep recovers up to caster Level cards (untap/burn/lasting); redraw or one-hour swap needs a readable source.
+- **Spell level = cast level SL.** Hand holds prepared cards; Arcana slot count sets hand size; drip rides in Arcana slots at full item cost. Sleep recovers up to caster Level cards (untap/burn/lasting); redraw or one-hour swap needs a readable source.
 - **Durations and ranges as written** — the clocks match.
-- **Casting (combat):** one Action; spend at least L Fuel dice, roll them — cast total = sum of faces. Tap the card. On a Spark, may spend up to L additional Fuel for extra effect. May burn ready cards in the same Action to recast or copy.
-- **Casting (NPC / module caster):** roll at least **L dice** for the cast total the same way. A hostile cast **rolls initiative** if no fight is underway.
+- **Casting (combat):** one Action; spend at least SL Fuel dice, roll them — cast total = sum of faces. Tap the card. On a Spark, may spend up to SL additional Fuel for extra effect. May burn ready cards in the same Action to recast or copy.
+- **Casting (NPC / module caster):** roll at least **SL Fuel dice** for the cast total the same way. A hostile cast **rolls initiative** if no fight is underway.
 - **Defense and damage:** see [[Burners Principles#Granular defense, not binary save]] and [[Burners Principles#Harm and effect are separate lanes]]. Ignore OSE per-caster-level dice and fixed damage lines; overrun to HP 1:1. *Save for half* does not port.
 - **Scrolls** require a **Sorcerer** (or Journeyman + Canting for Canting) — single-use items, any form; not cards (see [[Burners Sorcerie]]).
 

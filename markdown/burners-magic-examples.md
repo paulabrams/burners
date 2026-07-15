@@ -17,10 +17,10 @@ target. The full procedure is on [[Burners Sorcerie]]; the catalog is [[Burners 
   Referee names a Cost — quoted against the outcome you want and the pressure of the
   scene, not the spell's level — and you roll **2d6 + Sorcerie** (Craft for Canting) to
   pay less. Small ask in a quiet scene, small Cost. No price on the table, no roll.
-- **Combat engine.** Casting is one Action: spend at least L Fuel dice (L = the spell's
+- **Combat engine.** Casting is one Action: spend at least SL Fuel dice (SL = the spell's
   level). Only a working aimed at an unwilling target uses the **cast total** — the
   target Defends, and overrun lands the harm or the effect. A utility or sensory working
-  simply happens; extra Fuel past L buys nothing there.
+  simply happens; extra Fuel past SL buys nothing there.
 - **What the magic causes is a new question.** An illusory sound may call for a Morale
   check; a fog changes position and cover; a friendly face still will not open the vault.
   Those follow their own rules, and neither the cast total nor the caster's dice modify

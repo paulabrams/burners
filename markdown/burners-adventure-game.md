@@ -140,7 +140,7 @@ Quick definitions. Details live in the chapters below.
 
 - **In the dirt:** flat on the ground — a risky place to be. **Every Fuel die you spend while in the dirt is re-rolled** — the new face is what counts (blow, Defend, cast, Block, Stunt). Rise free on your Action; if a foe presses you in melee, rising costs a die re-rolled **3+** (fail and you stay down; the die is spent either way). You may **throw yourself in the dirt** on your turn (dirty fighting — free with your Action) when the pool is trash and you need a scramble.
 
-- **Cast (Sorcerer only):** one Action in combat; spend at least Spell Level Fuel dice and roll them. The **cast total** is the sum of those faces. On a Spark, you may spend up to Spell Level additional Fuel for extra effect. The spell's **card taps** (or stays *in play* if lasting). You may **burn** other ready cards in the same Action to recast from discard or copy a working in play. See *Magic* and [[Burners Sorcerie]].
+- **Cast (Sorcerer only):** one Action in combat; spend at least SL Fuel dice and roll them. The **cast total** is the sum of those faces. On a Spark, you may spend up to SL additional Fuel for extra effect. The spell's **card taps** (or stays *in play* if lasting). You may **burn** other ready cards in the same Action to recast from discard or copy a working in play. See *Magic* and [[Burners Sorcerie]].
 
 - **Ward (Sorcerer only):** at any time, cut a **hostile magic** attack (spell cast total, magical breath, and the like — not mundane fire alone) aimed at adjacent allies or a tight group. Commit up to your **Sorcerie Level** in Fuel dice; subtract their sum from the attack value. **Each ally then Defends normally** against what remains. No school Trait required; no card. Does not take an Action. Example: a vampire *charms* a friend — Sorcerie 1 commits 1 Fuel (face 5), cutting the cast total before the friend Defends.
 
@@ -709,7 +709,7 @@ There is no defense roll to fail; when struck you commit dice from your Fuel and
 
 Magic is prepared, not spontaneous. Spells are **cards**: your spellbook is the deck, your **hand** is what you can cast now, and your **Arcana slot count** sets hand size. Arcana slots hold **Wizard Drip** (or a Canting rogue's kicks), not cards — the hand is personal. **Cast** taps a card; **burn** exiles ready cards in the same Action to recast or copy. After 8 hours' sleep you recover up to Sorcerie Level cards (Craft Level for Canting) from tapped/burned/lasting. **Scrolls** are single-use items (physical or Arcana slot), not cards — cast and spent; hand untouched. **Potions** are downtime brew in a **physical** slot; anyone may drink. Hostile magic is Defended like steel.
 
-Magic touches your game in two places. The Sorcerer title (Sorcerie 1) lets you cast. Your combat cast is one Action that spends at least L Fuel dice (L = the spell's level) and rolls them for the cast total. The spell catalog is [[Burners Spells]].
+Magic touches your game in two places. The Sorcerer title (Sorcerie 1) lets you cast. Your combat cast is one Action that spends at least SL Fuel dice (SL = the spell's level) and rolls them for the cast total. The spell catalog is [[Burners Spells]].
 
 The full rules are on **[[Burners Sorcerie]]**. The catalog is **[[Burners Spells]]**. You need them if you are a Sorcerer (or a Journeyman on the Canting road). At the table you need how a spell hits you (*Defending against a spell*, under Combat).
 

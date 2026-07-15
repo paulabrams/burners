@@ -229,19 +229,43 @@ You may also have gear and coin from your Approach:
 
 | Approach | Gold | Comes with |
 | --- | --- | --- |
-| **Sword** (Veteran) | 100 gp | nothing extra (your coin *is* your kit: buy arms, armor, a shield) |
-| **Heart** (Boss) | 80 gp | **11 physical + 1 Muster**; one **loyal retainer** Mustering (level 1, Sword 1 or Craft 1, half power); basic gear from the purse, **half-share** when they live (see [[Burners Muster]]) |
-| **Craft** (Journeyman) | 60 gp | choice of one "tool of the trade" based on one of your Traits, such as a hunting bow with a quiver of arrows, wood ax, blacksmith's hammer, etc. |
-| **Sorcerie** (Sorcerer) | 40 gp | **7 physical + 5 Arcana slots** (locked until first sleep); **personal spellbook** with *Read Magic* and four other 1st-level spells (known); **hand of 5** — all five ready |
+| **Sword** (Veteran) | 100 gp | <ul><li>nothing extra (your coin *is* your kit: buy arms, armor, a shield)</li></ul> |
+| **Heart** (Boss) | 80 gp | <ul><li>**11 physical + 1 Muster**</li><li>one **loyal retainer** Mustering (level 1, Sword 1 or Craft 1, half power)</li><li>basic gear from the purse</li><li>**half-share** when they live (see [[Burners Muster]])</li></ul> |
+| **Craft** (Journeyman) | 60 gp | <ul><li>choice of one "tool of the trade" based on one of your Traits</li><li>examples: hunting bow with quiver of arrows, wood ax, blacksmith's hammer, etc.</li></ul> |
+| **Sorcerie** (Sorcerer) | 40 gp | <ul><li>**7 physical + 5 Arcana slots** (locked until first sleep)</li><li>**personal spellbook** with *Read Magic* and four other 1st-level spells (known)</li><li>**hand of 5** — all five ready</li></ul> |
 
 Veterans start as outfitted soldiers; Bosses as moneyed leaders rich in people; Journeymen as scrappy woodsmen poor in coin but woods-ready; Sorcerers as folk who spent nearly everything becoming mages. You earn legendary gear in play.
 
-Spend your gold in town from the tables below; everything you carry ready takes an item slot, and whatever you don't spend is yours to keep. A few sample buys:
+Spend your gold in town from the tables below; everything you carry ready takes an item slot, and whatever you don't spend is yours to keep.
 
-- **Veteran** (Sword, 100 gp): a gambeson (AC 2) 30, arming sword 10, heater shield 6, for 46 gp with coin to spare. Every blow shaved by 2, a shield adding dice to the Initiative roll and Cover vs missiles. Chain mail (40) comes next; plate wants training; field and full plate are rare fitted harness.
-- **Boss** (Heart, 80 gp): a spear 3, leather armor (AC 1) 20, and coin held to **outfit** the loyal retainer. **11 physical + 1 Muster** — starter loyal retainer Mustering (level 1, Sword or Craft, half power). A leader spends on their people. You may not re-Muster until your first sleep or first real job outfit.
-- **Journeyman** (Craft, 60 gp + free bow & pole): thieves' tools 25, leather armor (AC 1) 20, for 45 gp; light, mobile, bow already in hand.
-- **Sorcerer** (Sorcerie, 40 gp + kit): leather armor (AC 1) 20 and oddments (a flask of oil, chalk for ritual circles, a spare dagger). The magic is already yours.
+### The Starting Veteran
+
+A Veteran's coin *is* the kit. Your purse (100 gp) is the fat one because you carry no apprenticeship gifts — you buy steel and harness in town.
+
+A sample buy: gambeson (AC 2) 30, arming sword 10, heater shield 6 — 46 gp with coin to spare. Every blow shaved by 2; the shield adds dice to the Initiative roll and Cover vs missiles. Chain mail (40) comes next when you have the silver. Plate wants a Trait (*plate armor*); field and full plate are rare fitted harness.
+
+At Sword 1 you are already a Veteran: **two attacks** a round. See *Veteran Attacks* under Combat.
+
+### The Starting Boss
+
+A Boss starts rich in people, not in steel. Your purse (80 gp) outfits you and your first loyal retainer. Declare **11 physical slots + 1 Muster slot** at creation — you may not re-Muster until your first 8-hour sleep or your first real job outfit.
+
+Your kit is:
+
+- **11 physical + 1 Muster** — one Muster slot holds today's retainer
+- one **loyal retainer** Mustering: level 1, Sword 1 or Craft 1, half power (2 Traits, HP ⌊1d6 / 2⌋ min 1, Loyalty **10**)
+- basic gear for them paid from your purse
+- **half-share** of treasure recovered when they live (that is their pay)
+
+A sample buy: a spear 3, leather armor (AC 1) 20, and the rest held to outfit the retainer. A leader spends on their people. Manage, Loyalty, half power, and the rest of Muster live on [[Burners Muster]].
+
+### The Starting Journeyman
+
+A Journeyman is poor in coin but woods-ready. Your purse (60 gp) is light because apprenticeship already gave you a **tool of the trade** tied to one of your Traits — a hunting bow with a quiver of arrows, a wood ax, a blacksmith's hammer, thieves' tools, whatever fits the fiction. Pick that free.
+
+A sample buy after the free tool: leather armor (AC 1) 20, and oddments that fit the road (a second tool, chalk, oil, a spare knife). Keep slots free for travel gear; your Craft is how the band endures the wilds (see *The Journeyman's craft*).
+
+A **Canting Journeyman** who takes the **Canting** Trait and walks that road declares **7 physical + 5 kicks** the same way a Sorcerer does — but starts with **no spells** and an empty hand until they learn Canting in play. See *The Canting Journeyman* on [[Burners Sorcerie]].
 
 ### The Starting Sorcerer
 
@@ -251,9 +275,11 @@ A Sorcerer's craft comes with a kit (the fruit of your apprenticeship). That is 
 - A **spellbook** in a **scrivener's satchel** (book, ink pot, quill, loose-leaf paper): ***Read Magic*** plus **four other 1st-level spells** from your school, all known. The Referee picks, rolls, lets you choose, or works with you. Plain ink records Facts free; *reagent inks* that fix a working into the book are a separate cost (see *Spellbooks* on [[Burners Sorcerie]]).
 - Your **hand is all five** known spells — ready to cast. Count them on your fingers.
 
+A sample buy with what is left: leather armor (AC 1) 20 and oddments (a flask of oil, chalk for ritual circles, a spare dagger). The magic is already yours.
+
 Two of your school's six 1st-level spells are **not** in your book. Those, deeper spells, other schools, and found drip are your hunt. *Read Magic* and readable sources (OSE) let you memorize from a found book while you carry it. Moving a spell into your book costs **100 gp × its level** and destroys the source page. See [[Burners Sorcerie]].
 
-A **Canting Journeyman** on the Canting road also starts **7 + 5 kicks**, but with **no spells** and an empty hand until they learn Canting in play.
+Canting rogues use the same split for kicks — see *The Starting Journeyman*.
 
 ### Weapons, Armor, and Shields
 

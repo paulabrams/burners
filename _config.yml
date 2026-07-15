@@ -8,6 +8,7 @@ kramdown:
   auto_id_stripping: true
 exclude:
   - sims/
+  - cards/
   - README.md
 defaults:
   - scope:

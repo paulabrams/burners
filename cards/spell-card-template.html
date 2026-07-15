@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Burners Spell Cards — Template</title>
+  <link rel="stylesheet" href="spell-cards.css" />
+</head>
+<body>
+  <header class="sheet-header no-print">
+    <h1>Burners Spell Cards — Template</h1>
+    <p>Copy this kit into a campaign character folder. Print Letter at <strong>Actual size / 100%</strong>. Cards are true MTG size (2.5&quot; × 3.5&quot;) — six per page.</p>
+  </header>
+
+  <main class="sheet">
+
+    <!-- Duplicate this article per known spell. Text from markdown/burners-spells.md -->
+    <article class="card" aria-label="Sample Spell">
+      <div class="card-name-row">
+        <h2 class="card-name">Sample Spell</h2>
+        <div class="level-pip" title="Spell level">1</div>
+      </div>
+      <p class="type-line">School · Instant</p>
+      <div class="art" aria-hidden="true">
+        <svg viewBox="0 0 120 80" fill="none" stroke="#111" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round">
+          <rect x="30" y="16" width="60" height="48" rx="2" />
+          <circle cx="60" cy="40" r="12" />
+          <path d="M60 22v36M42 40h36" />
+        </svg>
+      </div>
+      <div class="rules">
+        <p>School 1: Paste the effect from Burners Spells here. Tighten only if it overflows.</p>
+      </div>
+      <div class="footer">
+        <span>1 Fuel</span>
+        <span>Tap</span>
+      </div>
+    </article>
+
+    <!-- Lasting example footer: Tap → In play · Lasting -->
+    <!-- Control example type-line: Illusione · Instant · Control -->
+
+    <article class="card back" aria-label="Card back">
+      <svg class="back-mark" viewBox="0 0 100 100" fill="none" stroke="#111" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <circle cx="50" cy="50" r="42" />
+        <circle cx="50" cy="50" r="30" />
+        <path d="M50 20v60M20 50h60" />
+        <path d="M32 32c12 8 24 8 36 0M32 68c12-8 24-8 36 0" />
+        <path d="M32 68c8-12 8-24 0-36M68 68c-8-12-8-24 0-36" />
+        <circle cx="50" cy="50" r="6" fill="#111" stroke="none" />
+      </svg>
+      <p class="back-title">Character Name</p>
+      <p class="back-sub">Sorcerie · Spell</p>
+      <p class="back-note">Face-down = burned (exile) until sleep recovery.</p>
+    </article>
+
+    <article class="card zones" aria-label="Table zones">
+      <div class="card-name-row">
+        <h2 class="card-name">Table Zones</h2>
+        <div class="level-pip" title="Reminder">?</div>
+      </div>
+      <p class="type-line">Reminder · Burners hand</p>
+      <ul class="zones-list">
+        <li>
+          <strong>Ready</strong>
+          Face-up, upright — cast anytime.
+        </li>
+        <li>
+          <strong>Tapped</strong>
+          Rotate 90° — cast, in discard (or lasting still running).
+        </li>
+        <li>
+          <strong>In play</strong>
+          Lasting effect active; leave the card out until it ends.
+        </li>
+        <li>
+          <strong>Burned</strong>
+          Flip face-down / exile — fuel for recast or copy. Still fills hand size.
+        </li>
+      </ul>
+      <div class="footer">
+        <span>Sleep: recover up to Sorcerie cards</span>
+      </div>
+    </article>
+
+  </main>
+
+  <p class="cut-hint">
+    See <code>README.md</code> in this folder. Worked example: Lothian Campaign / Bellemy Wrenfeather / bellemy-spell-cards.
+  </p>
+</body>
+</html>

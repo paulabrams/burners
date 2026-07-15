@@ -95,11 +95,25 @@
         letter-spacing: 0.04em;
         color: var(--primary-color);
         cursor: pointer;
-        list-style-position: outside;
+        list-style: none;
+        position: relative;
+        padding-left: 1.1em;
+        margin-left: -1.1em; /* hang marker; "Books" lines up with Downloads */
       }
 
       details.download-list > summary::-webkit-details-marker {
+        display: none;
+      }
+
+      details.download-list > summary::before {
+        content: "▸";
+        position: absolute;
+        left: 0;
         color: var(--secondary-color);
+      }
+
+      details.download-list[open] > summary::before {
+        content: "▾";
       }
 
       details.download-list ul {

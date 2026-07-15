@@ -39,10 +39,11 @@ Every card in your hand is in exactly one zone. **Tapped, lasting, and burned ca
 still occupy hand size** until recovered (or lasting ends).
 
 | Zone | Meaning |
-| --- | --- | --- |
+| --- | --- |
 | **Ready** | In hand, untapped — cast it any time. |
-| **Tapped** | Cast. In your discard, or *in play* while a lasting effect runs. |
-| **Burned** | Exiled as fuel. In your discard, or used as a token. |
+| **Discard** | Cast, with no lasting effect. |
+| **In play** | Cast, with a lasting effect running. Moves to Discard when the effect ends. |
+| **Burned** | Exiled — a step beyond Discard. Cannot be used until recovered. |
 
 **Lasting** is a special case: the card stays *in play* while the effect runs. On sleep
 redraw or a one-hour swap you may leave lasting cards in place; swapping one out or
@@ -68,6 +69,12 @@ throw a 6th. The power is in the practitioner.
 **A school is trained-only.** Each of the seven people-schools keeps its own secret
 language and spell list; you must hold a Trait in that school to touch it at all. The
 common Sorcerie school asks no Trait — being a Sorcerer is grammar enough.
+
+**Hedge wizards.** Village casters, chapel priests, roadside apothecaries — still
+**Sorcerers**. Same cards, same Arcana split. They may work common Sorcerie alone, or a
+people-school without the high look (Vitae in mortar-and-vial drip is still Vitae). The
+school is the Trait and the list; the drip is costume. There is no separate Craft hedge
+school for mending — healing stays Vitae.
 
 **Canting is the exception.** The rogue's school rolls **Craft**, not Sorcerie. A
 **Journeyman (Craft 1+)** with the **Canting** Trait may learn, hold, and cast Canting
@@ -124,7 +131,9 @@ Arcana slots **never** also count toward the empty-inventory Initiative dice (ma
 
 An Arcana slot may carry a physical item — but only **Wizard Drip**: staff, wand, rod,
 orb, ring, runed robe, talisman, the costume of the craft. Each item costs its **full
-normal slot cost** (a staff is 3 Arcana slots, not 1).
+normal slot cost** (a staff is 3 Arcana slots, not 1). Hedge drip counts the same —
+goat-horn hat, hand-bell, mortar, vial-rack — as long as it is the costume of *that*
+caster's craft.
 
 - Drip keeps its mundane function. A wizard's staff is still a staff — swing it, lean on
   it, bar a door with it.
@@ -252,13 +261,14 @@ each; it may ride in a **physical or Arcana** slot.
 
 ## Potions
 
-A **potion** is a single-use draught — **not** a card, **not** drip. Downtime work. If
-you have a **Vitae** Trait, or **Craft** with herbalism or alchemy, you may brew a potion
-from a known formula — a Vitae working you hold in a readable source, or another recipe
-the Referee grants. Cost: **100 gp × the spell's level** in reagents and about a week ×
-its level. Touch or self effects only — what a draught can hold. The potion is one dose,
-**1 physical slot** (never Arcana — potions are not Wizard Drip); **anyone may drink it**.
-Recipe and gold decide it — no Sorcerie rank required. Found potions stay treasure.
+A **potion** is a single-use draught — **not** a card, **not** drip. Downtime work. A
+**Sorcerer** who holds the school's Trait (or common Sorcerie — no Trait needed) may brew
+a potion from a known formula — a working they hold in a readable source. **Craft**
+herbalism and alchemy do not bottle spells; that is the sorcerer's job. Cost: **100 gp ×
+the spell's level** in reagents and about a week × its level. Touch or self effects only
+— what a draught can hold. The potion is one dose, **1 physical slot** (never Arcana —
+potions are not Wizard Drip); **anyone may drink it**. Recipe and gold decide it — no
+caster rank beyond the Trait. Found potions stay treasure.
 
 ## Ritual Casting
 
@@ -273,6 +283,32 @@ and stillness. Never a combat option.
 
 **Knowledge is the exception.** Whatever a spell puts in your *mind* stays — *Detect
 Magic*'s auras, a divination's answer, anything the Referee judges is now simply known.
+
+## Binding Nodes
+
+A **Node** is a place where ley lines cross and the Astral presses close. Its power shapes
+the surrounding **Regio** and often opens onto a Kalla. To bind one is to make yourself
+its **Guldur** — its node-master. This is not a spell and cannot be held as a card.
+
+First find the Node's heart and learn enough of its nature to work there: its signs, its
+present master, and what it demands. Then draw a **magic circle** around the heart in the
+materials the place answers to — chalk, salt, ash, blood, silver, living roots. Inscribe
+your mark among the Node's signs and work within the unbroken circle for **8 uninterrupted
+hours**. You must remain inside throughout. Companions may guard the circle, but only the
+claimant binds.
+
+If the Node is unclaimed and its demand has been met, the binding simply works. If it is
+hostile, wounded, or already claimed, this is a Step-2 risk: roll **2d6 + Sorcerie**
+against the Referee's Cost. A present master may **Defend** the claim with Sorcerie. Break
+the circle, leave it, or lose the contest and the rite fails; the Node answers according
+to its nature.
+
+A successful binding displaces the former master and reveals the Node's established
+**Facts**: what its Regio changes, where its gates lead, what the Guldur may command, and
+what price or duty the bond carries. There is no universal bonus and no free recovery of
+cards — every Node is a place and a power of its own. Binding one gives authority over
+what that Node already is; it does not make the place harmless, portable, or wholly
+obedient.
 
 ## Spellbooks
 

@@ -11,7 +11,8 @@ hero_alt: "The wizard and his book — H. J. Ford"
 
 How magic works: who can cast, spellbooks, Arcana slots and drip, the hand, the cast,
 burning, ritual, and Defend against hostile workings. Scrolls and potions are at the end.
-The spell lists live on **[[Burners Spells]]**.
+The spell lists live on **[[Burners Spells]]**; worked rulings for every 1st-level
+spell are on **[[Burners Magic Examples]]**.
 
 ## How Magic Works
 

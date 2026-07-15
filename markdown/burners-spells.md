@@ -7,7 +7,7 @@ hero_alt: "The wizard and his book — H. J. Ford"
 
 # Burners Spells
 
-Eight magic schools, each with up to 36 spells from 1st to 6th level. Sorcerie is the common craft every mage shares; the other seven are the traditions of the peoples of the Dragon Isles. How you prepare, cast, and Defend is on **[[Burners Sorcerie]]**.
+Eight magic schools, each with up to 36 spells from 1st to 6th level. Sorcerie is the common craft every mage shares; the other seven are the traditions of the peoples of the Dragon Isles. How you prepare, cast, and Defend is on **[[Burners Sorcerie]]**; worked rulings for every 1st-level spell are on **[[Burners Magic Examples]]**.
 
 | School | Domain | Tradition |
 | --- | --- | --- |

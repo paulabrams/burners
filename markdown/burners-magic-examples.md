@@ -112,9 +112,10 @@ the caster's Sorcerie level — Craft for Canting — exactly as in the catalog.
 
 #### Light Shield
 
-- **Combat.** Cast on Brand before the crypt door opens: evil-aligned blows against him
-  suffer −1 Damage for Sorcerie turns, and a weak evil's charm fails against him
-  outright. A willing ally is not a contest — no Defend, no cast total to weigh.
+- **Combat.** Cast on Brand before the crypt door opens: blows by undead or unbound
+  spirits against him suffer −1 Damage for Sorcerie turns, and a weak spirit's charm or
+  possession fails against him outright. A willing ally is not a contest — no Defend, no
+  cast total to weigh. #needs-playtest
 
 #### Stanch
 

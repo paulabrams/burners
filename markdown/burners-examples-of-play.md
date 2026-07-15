@@ -21,7 +21,7 @@ hero_alt: "Travelers on the road — Albert Robida"
 | **Kragg** | Sword 1 (Veteran) | 4 | war-axe (3 slots, 2-handed, enchanted), gambeson (AC 2) | 4 empty + 3 axe + 1 level = **8** |
 | **Sefa** | Craft 1 (Journeyman) | 3 | leather (AC 1); **silvered knife** (1 slot) once looted | 4 empty + 1 knife + 1 level = **6** |
 | **Brand** | Heart 1 (Boss) | 5 | sword (2), leather (AC 1) | 4 empty + 2 sword + 1 level = **7** |
-| **Ilsa** | Sorcerie 1 (Sorcerer) | 3 | spear (3 physical); **5 Arcana** (hand size 5 — *dart* ready among them); wand drip in Arcana; leather (AC 1) | 5 Arcana + 3 spear + 1 level = **9** (no empty physical) |
+| **Ilsa** | Sorcerie 1 (Sorcerer) | 3 | spear (3 physical); **5 Arcana** (hand size 5 — *Adhere* ready among them); wand drip in Arcana; leather (AC 1) | 5 Arcana + 3 spear + 1 level = **9** (no empty physical) |
 
 *Reminder — out of combat: `2d6 +` Approach vs Cost. Hostile magic: Fuel Defend vs cast total (see [[Burners Principles#Granular defense, not binary save]]).*
 
@@ -96,15 +96,15 @@ Buried armed: **grave-sword** (2 slots) and a **grave-byrnie** (old chain — lo
   - Blow A: 6,5,4 = 15. Wight has already meleed this round, so Defends freely: a 6 → 9 left, − Resistance 5 = **4.** Wight **15 → 11.**
   - Blow B: 5,4 = 9. Wight Defends a 5 → 4, −5 = **0.** Nothing. *(Wight Fuel 9→7.)*
 - **Brand** attacks: sword, 1 die = 6. Wight Defends a 4 → 2, −5 = **0.** *(Wight 7→6 dice.)*
-- **Ilsa** casts *dart* from her hand (Level 1) — one Action, spend at least 1 Fuel die and roll it: a 5 → **cast total 5**. The card **taps**. The wight **Defends** (no cap vs magic), committing a 2 → **overrun 3**. Pure sorcery: Resistance scoped to mundane arms — **3 to HP.** Wight **11 → 8.** *(Ilsa Fuel 7→6; wight 6→5 dice.)*
-- **Sefa**, silvered knife (ignores Resistance): 1 die = 6. Wight Defends freely (already meleed): a 2 → 6−2 = **4** through. Wight **8 → 4.**
+- **Ilsa** casts *Adhere* from her hand (Thaumaturgy 1) — one Action, spend at least 1 Fuel die and roll it: a 5 → **cast total 5**. The card **taps**. The wight **Defends** (no cap vs magic), committing a 2 → **overrun 3**. The working sticks its sword-arm to the grave-byrnie — effect lane, **no HP**. Wight stays **11**. *(Ilsa Fuel 7→6; wight 6→5 dice.)*
+- **Sefa**, silvered knife (ignores Resistance): 1 die = 6. Wight Defends freely (already meleed): a 2 → 6−2 = **4** through. Wight **11 → 7.**
 
-**Round 2.** Roll Initiative: refill +1 die each, lock order. The wight, having burned its 14-die burst, is winded — blows now arrive nearly whole.
+**Round 2.** Roll Initiative: refill +1 die each, lock order. The wight, having burned its 14-die burst, is winded — and its sword-arm is glued to its own mail.
 
-- **Wight** (thin Fuel) jabs Kragg, 1 die = 3. Kragg has not meleed yet this round → one die: a 4 → cut.
-- **Kragg**: 6,4 = 10. Having meleed, he will Defend freely for any further blows. Wight Defends its last die, a 2 → 8, −5 = **3.** Wight **4 → 1.** *(Even now, mundane barely tells.)*
-- **Sefa** (silver): 5. Wight out of dice → no defense. Resistance bypassed → **5** through → past 0 by 4: **the killing Wound.** The Cellarer falls — chipped by silver and sorcery until even the wall of Resistance couldn't hold.
-- **Ilsa**: *dart* is tapped and the spear-arm is dead — she falls back and covers the door. Ready magic is what sits ready in her hand; sleep recovers up to Sorcerie Level cards.
+- **Wight** spends its Action tearing at the stuck arm: one Fuel die spent to no avail this round — no blow lands. *(Stuck is the whole point of the card.)*
+- **Kragg**: 6,4 = 10. Having meleed, he will Defend freely for any further blows. Wight Defends its last die, a 2 → 8, −5 = **3.** Wight **7 → 4.** *(Even now, mundane barely tells.)*
+- **Sefa** (silver): 5. Wight out of dice → no defense. Resistance bypassed → **5** through → past 0 by 1: **the killing Wound.** The Cellarer falls — steel and silver dealt the damage; the working only took its arm out of the fight.
+- **Ilsa**: *Adhere* is tapped and the spear-arm is dead — she falls back and covers the door. Ready magic is what sits ready in her hand; sleep recovers up to Sorcerie Level cards.
 - Threat overcome → **vent 2 → Heat 7.**
 
 **Turn 7 — Strongbox.**
@@ -116,7 +116,7 @@ Buried armed: **grave-sword** (2 slots) and a **grave-byrnie** (old chain — lo
 
 - **Downtime:** Heat cools to base; the job stayed quiet, so the town base is unchanged.
 - **Take:** strongbox (Referee: 400 gp + deed papers), 120 gp, silvered knife, **the Cellarer's grave-sword** — old, fine make, a worn-off name (a Signature waiting to be read) — and its **grave-byrnie** (mail; Kragg claims it).
-- **Wounds:** Ilsa sits at **−2 HP** (severity 2) with a dead arm; Brand at **−3** (severity 3) winded. After the fight, allies **help**; each makes **`2d6 + Craft` vs severity** (or die). Helped and passed: **1 HP per day** with food until **full HP**, then the Wound closes. Hour Rest does nothing while Wounded. Ilsa may spend a sleep-recovery card to untap *dart*.
+- **Wounds:** Ilsa sits at **−2 HP** (severity 2) with a dead arm; Brand at **−3** (severity 3) winded. After the fight, allies **help**; each makes **`2d6 + Craft` vs severity** (or die). Helped and passed: **1 HP per day** with food until **full HP**, then the Wound closes. Hour Rest does nothing while Wounded. Ilsa may spend a sleep-recovery card to untap *Adhere*.
 - **Torches spent:** 2. **Turns:** 7.
 
 ---
@@ -129,9 +129,9 @@ Buried armed: **grave-sword** (2 slots) and a **grave-byrnie** (old chain — lo
 - **Damage is the faces of committed dice**, minus the defender's committed dice, minus a Burner's armor AC or a monster's Resistance — in that order. A blow is one die; a weapon of 3+ slots wielded in two hands can add a second. Monsters have no AC.
 - **Defense:** melee 1 die (no limit once you have meleed this round); missile 1 die (2 with Cover); magic no limit. **Block** spends one melee attack to redirect a blow onto yourself. **Cover** lets you spend 2 vs a missile; Spark while using a melee foe as Cover dumps the shot into them.
 - **The Wound model:** see [[Burners Principles#HP is plot armor; past 0 it gets real]].
-- **Casting is the same economy:** Ilsa's *dart* was one Action, one Fuel die rolled for the **cast total**; the card **tapped**; the wight Defended with a die of its own and ate the **overrun** to HP. Steel and sorcery spend the same pool. Sleep recovers up to Sorcerie Level cards.
-- **Resistance vs the named weakness:** the wight's Resistance 5 (grave-cold and the byrnie as one wall) made mundane steel almost useless, while silver ignored the Resistance (Sefa) and pure sorcery ignored it too (Ilsa's dart). The chip came from the weakness and the wand; silver finished it.
-- **The monster's slot/Fuel economy cuts both ways:** the wight spent its huge pool attacking and Defending, so by Sefa's turn it could spare only a die or two. Tie up its dice, then land the answer.
+- **Casting is the same economy:** Ilsa's *Adhere* was one Action, one Fuel die rolled for the **cast total**; the card **tapped**; the wight Defended with a die of its own and ate the **overrun** as control — sword-arm stuck, no HP lost. Hostile utility spends the same Fuel pool as steel, and lives in the effect lane. Sleep recovers up to Sorcerie Level cards.
+- **Resistance vs the named weakness:** the wight's Resistance 5 (grave-cold and the byrnie as one wall) made mundane steel almost useless, while silver ignored the Resistance (Sefa). Sorcery did not chip the Resistance at all — it took the monster's arm out of the exchange so the fighters could finish. **Sorcerers solve; fighters kill.**
+- **The monster's slot/Fuel economy cuts both ways:** the wight spent its huge pool attacking and Defending, so by Sefa's turn it could spare only a die or two. Tie up its dice — or its arm — then land the answer.
 - **Nobody died.** Shock kept them combat-effective; help after the fight bought the Craft survival checks. That is what a clean job looks like.
 
 ---
@@ -172,11 +172,11 @@ Initiative is the count of 3s and 4s. Kragg reads **3**, the sharper **2**, Ilsa
 
 - **Kragg** (Veteran, two attacks; the axe stays sheathed — this is a tavern) spends one attack as a **Stunt**: heaves the table into the sharper. Force 5,4 = 9; the sharper Defends 4,2 = 6 → bowled over, **in the dirt**, and his concentration goes with his footing — but the working is already in the air; it resolves on his turn. Second attack spent to **Block** for Brand: if a blow comes for Brand, it redirects onto Kragg. *(Kragg 5→2 dice; order stays locked.)*
 - **Sharper** (from the floor) finishes the cast — *Bewitch* (Illusione 1, ready in hand): commits 1 Fuel die = **5**. **Cast total 5.** The card taps. Brand may Defend — but **Ilsa is adjacent and Wards**: Sorcerie 1, she commits **1** Fuel die (a 4), cutting the cast to **1**. **Brand then Defends** with 1 die (a 3) → fully defended. No charm, no HP. *(Ilsa 6→5; Brand 5→4; sharper 7→6.)*
-- **Ilsa** (her Action still unspent — Ward is not a turn): casts *dart* from her hand at the sharper. 1 die = **6** — cast total 6, and the 6 is a **Spark**. The card taps. The sharper, in the dirt and rattled, Defends with 2 dice: 3,2 = **5**. **Overrun 1** → 1 to HP (5 HP → 4). She spends the Spark on the working itself: the Referee lets the dart pin his casting hand to the floorboards — no ready cards until he frees it. *(Ilsa 5→4; sharper 6→4.)*
+- **Ilsa** (her Action still unspent — Ward is not a turn): casts *Adhere* from her hand at the sharper. 1 die = **6** — cast total 6, and the 6 is a **Spark**. The card taps. The sharper, in the dirt and rattled, Defends with 2 dice: 3,2 = **5**. **Overrun 1** — his casting hand sticks to the floorboards (effect lane, **no HP**; he stays at 5). She spends the Spark on the working itself: the Referee lets the glue catch his other wrist as well — no ready cards until he washes free. *(Ilsa 5→4; sharper 6→4.)*
 - **Bravo 1** lunges at Sefa, knife out: 1 die = **4**. Sefa has not meleed this round → one die: spends a 3 → 1 through, no armor tonight → **Sefa 3 HP → 2.** *(Sefa 5→4.)*
 - **Brand** rises, sword *now* in hand (drawing comes free with his Action), and swings at bravo 1: 1 die = **5** → 5 dmg, bravo 1 (5 HP) **down**. *(Brand 5→4.)*
 - **Sefa** draws the holdout — **1 Fuel to pull it in a fight** — and marks bravo 2. *(Sefa 4→3.)*
-- **Bravo 2** hesitates — his partner is down, the sharper is pinned. **Morale check (2d6 under Morale 7): 6 — holds**, barely. He circles.
+- **Bravo 2** hesitates — his partner is down, the sharper is stuck to the boards. **Morale check (2d6 under Morale 7): 6 — holds**, barely. He circles.
 
 **Round 2.** Roll Initiative: refill +1 die each, count, lock order; Kragg still tops it.
 

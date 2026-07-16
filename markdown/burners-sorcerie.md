@@ -288,7 +288,7 @@ Magic*'s auras, a divination's answer, anything the Referee judges is now simply
 
 A **Node** is a place where ley lines cross and the Astral presses close. Its power shapes
 the surrounding **Regio** and often opens onto a Kalla. To bind one is to make yourself
-its **Guldur** — its node-master. This is not a spell and cannot be held as a card.
+its **Guldur** — its node-master.
 
 First find the Node's heart and learn enough of its nature to work there: its signs, its
 present master, and what it demands. Then draw a **magic circle** around the heart in the
@@ -305,10 +305,53 @@ to its nature.
 
 A successful binding displaces the former master and reveals the Node's established
 **Facts**: what its Regio changes, where its gates lead, what the Guldur may command, and
-what price or duty the bond carries. There is no universal bonus and no free recovery of
-cards — every Node is a place and a power of its own. Binding one gives authority over
-what that Node already is; it does not make the place harmless, portable, or wholly
-obedient.
+what price or duty the bond carries. Every Node is a place and a power of its own. Binding
+one gives authority over what that Node already is; it does not make the place harmless,
+portable, or wholly obedient.
+
+### Node Cards
+
+A bound Node enters your **deck** as a **Node card**. On redraw, you may put it in your
+hand like any other card. It occupies hand size, but it is **not a spell**: it cannot be
+cast, copied, scribed into a book, made into a scroll, or brewed into a potion.
+
+Each Node has a **level from 0 to 6 in each school** — Vitae, Elementale, Thaumaturgy,
+Illusione, Umbrakala, Necromantia, and Sorcerie. Many Nodes are a **single school**; some
+are multi. Levels of 0 are simply omitted. Many also have an **alignment** (Black, White,
+or mixed): that shapes the Regio and the bond's price, not which spells the Node feeds.
+
+For a chosen school in which the Node has level 1 or higher, the Node **counts as a card
+of that school level** — whether you tap it or burn it.
+
+- **Tap for power.** Move a ready Node card to your **Discard**. It supplies Fuel dice
+  equal to its level in that school for a cast of that school. The Node goes to Discard,
+  not the spell you are casting.
+- **Burn for power.** Burn a ready Node card. It counts as burned cards with total levels
+  equal to its level in that school, toward recasting or copying a spell of that school.
+- **Recover normally.** Discarded and burned Node cards recover like other cards during
+  sleep.
+- **The bond is live.** If the Node is sealed, corrupted, captured, or contested, its card
+  may go inert or answer dangerously until the place is dealt with.
+
+### Node Works
+
+Magical research can write a working into a book, into a Node, or into the bond between a
+Guldur and a Node.
+
+- **Invent a spell.** The working becomes a spell in your book and deck, handled by the
+  normal spell rules.
+- **Build a working into the Node.** The working belongs to the place: a ward, gate, omen,
+  prison, weather, hidden road, or engine. It works at the Node or in its Regio for whoever
+  the Node accepts. It does not occupy your hand.
+- **Bind a working to the Node card.** The Node card gains text. While it is ready in your
+  hand, you may use that researched working by moving the Node to Discard. The working's
+  school must be one in which the Node has level at least equal to the working's level.
+
+Creating a new Node Work takes serious downtime: **one season** of access to the Node,
+specialist materials, and whatever Cost the Referee sets. Binding an existing known spell
+to a Node is easier but still major work: use the same research procedure, with a shorter
+clock if the table wants one. Old Nodes often have Works already installed; discovering
+what they do is treasure.
 
 ## Spellbooks
 

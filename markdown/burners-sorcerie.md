@@ -32,8 +32,14 @@ Think of every spell you know as a card.
 - Your **Arcana slot count** sets your **hand size**, the number of cards you may hold.
 - **Casting** a spell **taps** its card.
 - **Burning** a card exiles it to pay for more casting in the same Action.
-- After **8 hours of uninterrupted sleep**, you may recover up to your caster level in
-  cards (see *Sleep and recovery*).
+- After **8 hours of uninterrupted sleep**, two paths (see *Sleep and recovery*):
+  - **No readable source** — recover up to your caster level in cards from among tapped,
+    burned, and lasting; re-split physical vs Arcana if you wish, but your hand stays as
+    it is except what the budget restores.
+  - **Readable source in reach** — your personal spellbook, or any grimoire you carry and
+    have cast *Read Magic* on — re-split freely and **full redraw** your hand from your
+    whole deck. Every card you put in arrives **ready**; the limited recovery budget does
+    not apply.
 
 Every card in your hand is in exactly one zone. **Tapped, lasting, and burned cards all
 still occupy hand size** until recovered (or lasting ends).
@@ -204,30 +210,36 @@ better. You cannot have both.
 
 ## Sleep and Recovery
 
-After **8 hours of uninterrupted sleep**, you may recover up to **Sorcerie Level** cards
-(**Craft Level** for Canting) from among your tapped, burned, and lasting cards. That
-budget is **one pool** — each card you recover costs one card from the budget, whether you
-are untapping a tapped card or returning a burned one. Spell level does not matter; five
-1sts and one 5th both cost one card each.
+After **8 hours of uninterrupted sleep**, choose one path:
+
+**Without a readable source** (your spellbook lost, left in camp, or no grimoire you can
+read in reach): recover up to **Sorcerie Level** cards (**Craft Level** for Canting) from
+among your tapped, burned, and lasting cards. That budget is **one pool** — each card you
+recover costs one card from the budget, whether you are untapping a tapped card or returning
+a burned one. Spell level does not matter; five 1sts and one 5th both cost one card each.
+You may still **re-split** physical vs Arcana slots; your hand otherwise stays as cast left
+it, except what the budget restores.
+
+**With a readable source in reach** — your personal spellbook, or any captured grimoire you
+**carry** and have cast *Read Magic* on (see *Spellbooks*) — skip the limited budget.
+**Re-split** physical vs Arcana freely and **full redraw** your hand from your deck (see
+*Changing Your Hand*). Every card you put in arrives **ready**. You may **keep lasting
+cards in place**; swapping one out **ends the effect**.
 
 A character with **both** Sorcerie and Craft (Canting) uses **one hand** and **one
-split**; the sleep budget is the **higher** of Sorcerie Level and Craft Level.
+split**; the sleep budget (when used) is the **higher** of Sorcerie Level and Craft Level.
 
-Recovering a **lasting** card untaps it and **ends the effect**. On redraw you may instead
-**leave lasting cards in place** (see *Changing Your Hand*).
-
-On the same sleep you may **re-split** physical vs Arcana slots and **redraw your hand**
-(see below).
+Recovering a **lasting** card through the limited budget untaps it and **ends the effect**.
 
 ## Changing Your Hand
 
 Choosing or changing the cards in your hand requires a **readable source** — your
 spellbook, or a captured grimoire you can read (see *Spellbooks*).
 
-- **Rest: full redraw.** On an 8-hour sleep with a readable source in reach, rebuild your
-  hand freely from your deck — any known spells, up to your caster level, one per hand
-  slot, unique by name. You may **keep lasting cards in play**; swapping one out or
-  spending sleep recovery on it **ends the effect**.
+- **Rest: full redraw.** Requires a readable source in reach (see *Sleep and recovery*).
+  Rebuild your hand freely from your deck — any known spells, up to your caster level, one
+  per hand slot, unique by name. You may **keep lasting cards in place**; swapping one out
+  **ends the effect**.
 - **One hour: swap one card.** With an hour of study and the source in hand, exchange one
   card in your hand for one from your deck. **The incoming card inherits the outgoing
   card's status** — swap out a tapped card and the new card arrives tapped. Swapping out a
@@ -272,14 +284,14 @@ caster rank beyond the Trait. Found potions stay treasure.
 
 ## Ritual Casting
 
-A spell **learned into your own book** can be worked straight from an **open readable
-source** — your book, or another book you can read that holds that same working — no card,
-but slowly, rooted in place, and only while you sustain it. Found-book spells you have
-memorized into your hand but not yet scribed are for the hand and redraw only; they are
-**not** ritual fodder until they live in your personal book. Ten minutes per spell level;
-leave the circle or close the book and the working collapses retroactively. What a ritual
-puts in your *mind* stays. Ritual casting taps nothing and burns nothing; the cost is time
-and stillness. Never a combat option.
+A spell **ready in your hand** can be worked as a **ritual** — slowly, rooted in place,
+and only while you sustain it. You must hold the card; no spontaneous book-cast. Ten
+minutes per spell level; leave the circle or break the working and it collapses
+retroactively. Never a combat option. Burns are not part of a ritual.
+
+Cast as usual. When the card would **enter the discard** — an instant as it resolves, or a
+lasting working when its effect ends — it **returns to your hand ready** instead. The
+card is not spent.
 
 **Knowledge is the exception.** Whatever a spell puts in your *mind* stays — *Detect
 Magic*'s auras, a divination's answer, anything the Referee judges is now simply known.
@@ -370,7 +382,9 @@ Your deck is a book, and a book can be lost.
 - **Moving a spell into your book.** Copy it: **100 gp × level** in reagent inks and about
   a week × its level. No roll. **This destroys the written source** you copied from (page,
   exemplar, or scroll unmade into the book). A living teacher is not destroyed; you still
-  pay ink and time to scribe what they teach.
+  pay ink and time to scribe what they teach. **Slot note:** your personal book is still
+  **1 slot** no matter how many spells it holds; each found grimoire you keep for redraw
+  is another slot. Scribing consolidates — gold and time buy pack space.
 - **Copies within your library** — **25 gp × level** and a day × level; your first book is
   not destroyed.
 

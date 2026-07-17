@@ -18,25 +18,25 @@ The clocks already match: OSE turns and rounds are Burners turns and rounds. Dur
 - **Turns (10 min) and rounds (1 min)** — all durations as written.
 - **Morale (2–12, checked on 2d6)** — use the module's score directly. A Boss's arts work on it as usual.
 - **Reaction rolls (2d6)** — as written; a character leading the parley adds **Heart**.
-- **Number Appearing, Treasure Type, coin values** — as written; prices are already gold-denominated. Treasure Type hoards convert to gp as written; award **1 XP per gp** only when the crew **recovers it to safety** (see *XP Awards*).
+- **Number Appearing, Treasure Type, coin values** — as written; prices are already gold-denominated. Treasure Type hoards convert to gp as written; award **1 XP per gp** when the crew **claims** the haul (see [[Burners Experience]]).
 - **Movement rates** — read as relative speed and reach; resolve in fiction and zones.
-- **XP** — OSE awards for slain monsters (by HD) and treasure recovered to safety (1 XP per gp). Magic items: no XP. See [[Burners Adventure Game]] and the table below.
+- **XP** — OSE awards for slain monsters (by HD) and treasure when claimed (1 XP per gp). Magic items: no XP. See [[Burners Experience]] and the table below.
 
 ---
 
 ## XP Awards
 
-Burners uses OSE XP awards layered on its own level table (see [[Burners Adventure Game]]). Port treasure types and coin values as written; award XP only when treasure is **recovered to safety**, not when first picked up.
+Burners uses OSE XP awards layered on its own level table (see [[Burners Experience]]). Port treasure types and coin values as written; award treasure XP when the haul is **claimed**. Shares: [[Burners Experience]].
 
 | Source | Award |
 |---|---|
 | **Monster slain** | XP by Hit Dice (table below) |
-| **Coins, gems, jewelry** | 1 XP per 1 gp recovered to safety |
+| **Coins, gems, jewelry** | 1 XP per 1 gp when claimed |
 | **Magic items** | 0 XP — the item is the reward |
 | **Goods & equipment** | Sale value in gp, when sold |
-| **Exploration (optional)** | Small crumb per hex newly mapped or room meaningfully explored — Referee tunes; no fixed number |
+| **Exploration (optional)** | Small crumb — Referee tunes on the monster XP scale; see [[Burners Experience]] |
 
-Spend banked XP to gain a level only in civilization (see [[Burners Adventure Game#Experience]]).
+Spend banked XP to gain a level only in civilization (see [[Burners Experience]]).
 
 ### Monster XP by Hit Dice (OSE)
 
@@ -52,7 +52,7 @@ Spend banked XP to gain a level only in civilization (see [[Burners Adventure Ga
 
 For fractional or special HD, **prefer the monster's printed XP** or the full OSE [Awarding XP](http://oldschoolessentials.necroticgnome.com/srd/index.php/Awarding_XP) table (base + bonus per `*` ability). This short chart is a coarse shortcut — e.g. HD 3 reads **60** here, but an OSE [Wight](http://oldschoolessentials.necroticgnome.com/srd/index.php/Wight) (`3*`) is **50 XP**.
 
-**Converting a module hoard.** Roll or place treasure as OSE directs. Coins, gems, and jewelry pay **1 XP per gp** when banked in town — not when first pocketed in the delve. Art objects and mundane goods pay at their sale value when sold. Magic items pay **0 XP**; the item is the reward. Delving retainers: **OSE XP** whether Mustering or not (see [[Burners Muster]]).
+**Converting a module hoard.** Roll or place treasure as OSE directs. Coins, gems, and jewelry pay **1 XP per gp** when **claimed** — left behind grants nothing until claimed. Art objects and mundane goods pay at their sale value when sold. Magic items pay **0 XP**; the item is the reward. Delving retainers: full share if Mustering, half if not (see [[Burners Muster]]). Full procedure: [[Burners Experience]].
 
 ---
 

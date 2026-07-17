@@ -23,11 +23,11 @@ Anyone with coin can hire. Only a **Boss (Heart 1+)** **Musters** — splitting 
 
 **Recruitment.** Taverns, help-wanted notices, dockside crews, debts called in. The Referee plays the applicants. Explain the job and the share; Reaction roll (see [[Burners Referee Guide]]); Heart on the roll if you have it. A fair outfit and a clear half-share ease it; bad reputation hardens it.
 
-**Pay.** No up-front wage for the adventure. You **equip** them from your purse (arms, kit, food on the road). Survivors of the job take at least a **half-share** of treasure recovered to safety — that is their pay. Flat coin alone will not buy a delve.
+**Pay.** No up-front wage for the adventure. You **equip** them from your purse (arms, kit, food on the road). Survivors of the job take at least a **half-share** of treasure taken — that is their pay. Flat coin alone will not buy a delve.
 
 **Sheet.** Half-power track (below). Usually starts **level 1**, climbs on XP, never above the hiring Boss (or lead PC). **Sword or Craft only** — never Sorcerie, never Heart, never Muster. By default they **put themselves first**. **Loyalty 7.**
 
-**XP.** As in OSE — share the pot, keep half of their award (they follow orders rather than decide) — Mustering or not. Levels in civilization on the Burner XP table.
+**XP.** Share the pot evenly with everyone present on the job. A **Mustering** retainer keeps a **full** share — the Boss plays them like a PC. A retainer **not** Mustering keeps **half** of their award (OSE: they follow orders). Levels in civilization on the Burner XP table. Full procedure: [[Burners Experience]].
 
 **Loyal** is a **tag** after a real bond (Referee's call). +3 Loyalty; when they hold, they **act loyally** — prioritize their patron, Block for them, stay on their heel. Abuse the bond and the tag can fall — word travels.
 

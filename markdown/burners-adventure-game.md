@@ -61,7 +61,7 @@ Quick definitions. Details live in the chapters below.
 
   - **Sorcerie:** magic and the unseen. Spell schools, divination, binding, alchemy, ancient lore.
 
-- **Character level:** your overall rank. You buy levels with XP (see *Experience*). Every level you gain is one level you place in an Approach, up to four more Traits, and a reroll of your HP.
+- **Character level:** your overall rank. You buy levels with XP (see [[Burners Experience]]). Every level you gain is one level you place in an Approach, up to four more Traits, and a reroll of your HP.
 
 - **Signature:** an asterisk on a Trait. A knack that showed up at your table — a named item, a **named companion**, an instinct, a holdout. You never buy it, and it is not a spell.
 
@@ -340,35 +340,11 @@ Enchanted kit and the extra die are separate: see *Enchanted Arms and Armor*.
 
 ### Experience
 
-You buy character level from the XP table below. You never buy Traits, Signatures, or spell learning with XP. You earn XP from:
-
-- **Monsters:** award XP by Hit Dice when a foe is overcome (killed, routed, or otherwise neutralized as treasure). A 1 HD skeleton is 10 XP; a ~4 HD boss is 125. Split among survivors **as in OSE** when retainers delve (they keep half). See [[Burners Muster]]. The Referee has the full Hit Dice table.
-- **Treasure:** **1 XP per 1 gp** of coins, gems, and jewelry **recovered to safety**, banked in town, not merely pocketed in the delve. Loot you cannot haul home is not loot yet. Goods, art objects, and equipment count at their sale value when sold. The Referee sets the number once. Same split rules.
-
-**Magic items grant no XP.**
-
-**When you spend it.** XP banks as you earn it. You buy a character level only in civilization: a safe town, haven, or other place where you can train and rest. Mid-delve rank-ups do not happen. Rare emergencies (a vision at a Hallow, a patron's gift on the road) are the Referee's call, not the rule.
-
-**Exploration (optional).** The Referee may award a small XP crumb for a wilderness hex newly mapped or a dungeon room meaningfully explored: enough to notice, not enough to replace treasure. Tune the number to your table's pace; there is no fixed award.
-
-**Muster and XP.** Retainers: **OSE XP** (Mustered or not). Mustering: player-run, no fight Loyalty while Boss active. See [[Burners Muster]]. **Loyal** is a tag.
-
-You earn by overcoming monsters and hauling treasure home.
+Awards, claimed treasure, present-only shares, and who tracks what: [[Burners Experience]]. You never buy Traits, Signatures, or spell learning with XP. Retainers take XP per [[Burners Muster]] (full share if Mustering; half if not).
 
 ### Approach Level
 
-Your character level is bought with XP from one table. Every level you gain is a single point you place in an Approach, so your Approach levels always sum to your character level. At 4th level you might be Sword 3 and Sorcerie 1, or Sword 2 with Craft 1 and Heart 1, however your play has shaped you. You place each point as you level and do not move the ones already set.
-
-| Character level | XP |
-| --- | --- |
-| 1 | 0 |
-| 2 | 2,000 |
-| 3 | 4,000 |
-| 4 | 8,000 |
-| 5 | 16,000 |
-| 6 | 32,000 |
-| 7 | 64,000 |
-| 8 | 120,000 |
+Your character level is bought with XP from the table on [[Burners Experience]]. Every level you gain is a single point you place in an Approach, so your Approach levels always sum to your character level. At 4th level you might be Sword 3 and Sorcerie 1, or Sword 2 with Craft 1 and Heart 1, however your play has shaped you. You place each point as you level and do not move the ones already set.
 
 Your roll is 2d6 plus your Approach level. With no level in that Approach you are Approach 0: you still roll 2d6, just without a bonus. That missing bonus is the whole disadvantage. You can still attempt things at Approach 0, but that Approach's trained advantages stay locked until you reach level 1. One point is the line between a townsman and a practitioner.
 
@@ -385,7 +361,7 @@ When you reach level 1 in an Approach, you earn its title. The title turns on th
 
 **The Journeyman's craft (Craft 1+).** As a Veteran you rule the melee. As a Journeyman you rule the journey. Your Craft level reduces party-wide costs from travel, weather, and survival: cold, heat, hunger, thirst, exhaustion, forced marches, rough terrain, getting lost. When the Referee quotes such a cost, subtract your Craft level from it for everyone you are guiding. Often that drops the cost low enough that the Referee waives the roll. Example: the biting cold rain adds 6 Heat, and you are a Journeyman with Craft 3 who has a deadfall shelter and a fire going. You cut it to 3. Without Craft 1+ you can endure the wilds yourself, but you cannot shepherd others through them.
 
-**The Boss's command (Heart 1+).** As a Veteran you rule the melee. As a Journeyman, the journey. As a Sorcerer, the unseen. As a Boss, the Muster. Heart unlocks **Muster**: split your twelve into physical kit and **Muster slots** — **one slot per retainer**. Packing cost is the tax. Mustering retainers are **yours to play and roll** — like a PC — and make **no Loyalty checks in a fight** while you are active; retainers not Mustering stay Referee NPCs and check more often. Spend your **Action** to **Manage** the Muster (you take no other Action): up to your **Heart** Mustering retainers get half round **up** that round. Retainers take XP **as in OSE** whether Mustering or not. After the job (and when you are down or fled), the Referee checks **Loyalty** (`2d6` ≤ Loyalty, with mods); **Mustered** retainers always add your **Heart** while you are active. **Loyal** is a tag (+3 Loyalty; they act loyally when they hold) — apply it when the bond is real. **Any delver** can hire retainers for coin. Full rules: [[Burners Muster]].
+**The Boss's command (Heart 1+).** As a Veteran you rule the melee. As a Journeyman, the journey. As a Sorcerer, the unseen. As a Boss, the Muster. Heart unlocks **Muster**: split your twelve into physical kit and **Muster slots** — **one slot per retainer**. Packing cost is the tax. Mustering retainers are **yours to play and roll** — like a PC — and make **no Loyalty checks in a fight** while you are active; retainers not Mustering stay Referee NPCs and check more often. Spend your **Action** to **Manage** the Muster (you take no other Action): up to your **Heart** Mustering retainers get half round **up** that round. Mustering retainers take a **full** XP share; others keep half — see [[Burners Muster]]. After the job (and when you are down or fled), the Referee checks **Loyalty** (`2d6` ≤ Loyalty, with mods); **Mustered** retainers always add your **Heart** while you are active. **Loyal** is a tag (+3 Loyalty; they act loyally when they hold) — apply it when the bond is real. **Any delver** can hire retainers for coin. Full rules: [[Burners Muster]].
 
 ## Alignment
 
@@ -721,7 +697,7 @@ The full rules are on **[[Burners Sorcerie]]**. The catalog is **[[Burners Spell
 
 *Ok boys, check your kit, check your weapons, it's today. You get a pint and a chaser, no more. Let's go*
 
-Anyone with coin can hire a retainer for the adventure. A **Boss (Heart 1+)** **Musters** today's crew: **physical / Muster** split, **one Muster slot per retainer**. Mustering: Boss player plays and rolls; no fight Loyalty while the Boss is active; Heart on Loyalty checks. Not Mustering: Referee NPCs, check Loyalty more often. Spend your Action to **Manage** the Muster (forgo your Action; up to **Heart** retainers get half round up). Retainers: **OSE XP**. **Loyal** (+3 Loyalty, act loyally) is a tag.
+Anyone with coin can hire a retainer for the adventure. A **Boss (Heart 1+)** **Musters** today's crew: **physical / Muster** split, **one Muster slot per retainer**. Mustering: Boss player plays and rolls; no fight Loyalty while the Boss is active; Heart on Loyalty checks; **full** XP share. Not Mustering: Referee NPCs, check Loyalty more often; **half** XP award. Spend your Action to **Manage** the Muster (forgo your Action; up to **Heart** retainers get half round up). **Loyal** (+3 Loyalty, act loyally) is a tag.
 
 Starting Boss: **11 physical + 1 Muster**, starter **loyal retainer** Mustering (level 1, Sword or Craft). Re-Muster before a job or on any 8-hour sleep.
 

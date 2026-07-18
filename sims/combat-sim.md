@@ -1,116 +1,85 @@
 # Combat Sim
 
-Monte Carlo pass of the Burners Fuel/Sparks engine against the **current** rules
-(Defend without limit after any melee this round, **Block** as redirect-onto-self,
-**Cover** vs missiles, Shock as `2d6 + Sword` vs wound severity, monsters with
-AC folded into HP). Simulator: `sims/sim.py`. Sample party: Aldric / Senna / Pip.
+Monte Carlo pass of the Burners Fuel/Sparks engine under **binary armor**:
 
-Each baseline cell is 8,000 fights; curves use 4,000. Heat 6 unless noted.
-All-melee, no surprise, no ranged softening — a worst case that favors the monsters.
+- Defend cuts Damage first.
+- Remaining Damage at or below AC / Resistance stops; higher Damage sinks in whole.
+- Monsters use normal AC rather than folded-AC HP.
+- At 0 HP a monster is **Cracked!**; the next damaging hit drops it.
+
+Simulator: `sims/sim.py`. Sample party: Aldric / Senna / Pip. Each baseline cell is 8,000 fights; curves use 4,000. Heat 6 unless noted. All-melee, no surprise, no ranged softening — a worst case that favors the monsters.
 
 ## The short answer
 
-Headcount is still the lethal axis. Five equal Hit-Die mooks in the open is the
-knife-edge for this party (~69% win, ~25% TPK). Holding the front (Aldric draws)
-lifts that to ~78%. A lone ogre or troll without adds is still a near-certain win;
-adds flip the fight. Regeneration alone (with AC folded into HP, no per-blow
-Resistance) barely saves a solo troll — fire still matters, but the scary troll
-is the one with friends.
+Binary armor makes the exchange swingier. Armor completely catches weak remainders, but once a blow beats AC it loses none of its force. The extra hit required after a monster reaches 0 also gives enemy numbers more time to drain Fuel.
 
-Compared to the older Parry/Dodge/shield-Block pass: unlimited Defend after any
-melee makes the party a little safer at the fair fight (was ~52% at five orcs;
-now ~69%), and the gradient stays steep — six orcs in the open is already a likely wipe.
+For this three-Burner sample, **four orcs are now the knife-edge**: about 70% party wins in the open, 79% behind Aldric. Five orcs are usually lethal: about 20% wins in the open, 37% behind Aldric. Solo ogres and trolls remain near-certain wins because three Burners can focus them.
 
 ## Baseline (open melee, Heat 6)
 
 | Scenario | win% | rounds | Ald% | Sen% | Pip% | stand | TPK% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3 Orcs | 99.6 | 4.5 | 99.4 | 97.2 | 97.4 | 2.91 | 0.2 |
-| 5 Orcs | 68.6 | 15.5 | 72.2 | 62.9 | 64.6 | 1.83 | 24.5 |
-| Ogre | 99.7 | 4.6 | 97.4 | 98.9 | 98.4 | 2.93 | 0.1 |
-| Troll | 99.7 | 6.6 | 99.6 | 99.2 | 98.5 | 2.96 | 0.0 |
+| 3 Orcs | 97.2 | 7.5 | 94.0 | 90.3 | 90.5 | 2.68 | 1.6 |
+| 5 Orcs | 20.6 | 16.6 | 20.7 | 19.9 | 20.4 | 0.47 | 72.0 |
+| Ogre | 99.5 | 4.1 | 89.8 | 98.3 | 97.0 | 2.84 | 0.2 |
+| Troll | 99.8 | 5.7 | 95.5 | 98.4 | 97.6 | 2.90 | 0.0 |
 
 Front line (Aldric holds; monsters swing at him first):
 
 | Scenario | win% | rounds | Ald% | Sen% | Pip% | stand | TPK% |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 3 Orcs | 99.7 | 4.3 | 98.8 | 99.5 | 98.7 | 2.96 | 0.2 |
-| 5 Orcs | 77.9 | 12.7 | 67.7 | 79.1 | 79.1 | 2.19 | 18.9 |
-| Ogre | 99.5 | 4.6 | 98.5 | 98.0 | 98.3 | 2.93 | 0.2 |
-| Troll | 99.9 | 6.4 | 99.5 | 99.7 | 98.8 | 2.98 | 0.0 |
+| 3 Orcs | 97.9 | 6.8 | 88.4 | 97.5 | 96.5 | 2.79 | 1.5 |
+| 5 Orcs | 35.6 | 14.6 | 14.3 | 38.6 | 38.0 | 0.85 | 59.4 |
+| Ogre | 99.2 | 4.3 | 93.2 | 95.3 | 97.3 | 2.84 | 0.4 |
+| Troll | 99.8 | 5.4 | 95.7 | 99.6 | 97.8 | 2.92 | 0.0 |
 
-Heat sweep (3 Orcs, open) — still a gentle dial:
+## Heat sweep (3 Orcs, open)
 
 | Heat | win% | rounds | TPK% |
 | --- | --- | --- | --- |
-| 0 | 100.0 | 3.0 | 0.0 |
-| 3 | 99.9 | 3.6 | 0.1 |
-| 6 | 99.7 | 4.4 | 0.1 |
-| 9 | 99.4 | 5.2 | 0.3 |
-| 12 | 98.7 | 6.2 | 0.7 |
+| 0 | 99.7 | 4.6 | 0.1 |
+| 3 | 98.9 | 5.9 | 0.6 |
+| 6 | 97.4 | 7.5 | 1.8 |
+| 9 | 94.7 | 9.4 | 3.5 |
+| 12 | 90.1 | 11.2 | 7.0 |
 
-## Fair-fight curve (orc count)
+## Orc count curve
 
 | Orcs | Open win % | Open TPK % | Front win % | Front TPK % |
 | --- | --- | --- | --- | --- |
-| 3 | 99.7 | 0.2 | 99.8 | 0.1 |
-| 4 | 95.2 | 3.2 | 96.1 | 2.9 |
-| 5 | 68.8 | 24.8 | 77.9 | 18.5 |
-| 6 | 29.8 | 63.6 | 44.7 | 49.9 |
-| 7 | 7.6 | 89.1 | 16.8 | 79.9 |
-| 8 | 1.1 | 98.5 | 4.6 | 93.4 |
+| 3 | 97.1 | 1.8 | 98.0 | 1.4 |
+| 4 | 69.8 | 23.2 | 78.7 | 18.0 |
+| 5 | 20.1 | 72.0 | 36.6 | 58.0 |
+| 6 | 2.2 | 96.1 | 9.9 | 87.4 |
+| 7 | 0.1 | 99.8 | 1.6 | 97.8 |
+| 8 | 0.0 | 100.0 | 0.2 | 99.6 |
 
-Five in the open is the fair window; six is a likely wipe. Front-line play buys
-about one orc of margin. The coverage story under current rules: once a Burner has
-meleed this round they Defend without limit against **every** melee blow, and Aldric
-can spend an attack to **Block** (redirect) for a friend. The fifth and sixth bodies
-still win by draining Fuel faster than the 1-die refill restores it.
-
-## HP roll at the fair fight
-
-Fixed starting HP, 5 Orcs, open, Heat 6 (N=4,000):
-
-| Party HP each | win % |
-| --- | --- |
-| 2 | 57.0 |
-| 3 | 67.2 |
-| 4 | 75.6 |
-| 5 | 82.0 |
-| 6 | 87.3 |
-
-Rolling 1d6 (mean ~3.5) lands near ~69%, in line with the table. The level-1 HP
-lottery still matters most when the fight is already on the knife-edge.
+Front-line play buys roughly one orc of margin. Numbers drain Fuel, and every Cracked foe still needs a finishing blow.
 
 ## Solos and adds
 
 | Scenario | win % | TPK % | rounds |
 | --- | --- | --- | --- |
-| Ogre alone | 99.7 | 0.1 | 4.6 |
-| Ogre + 2 Orcs | 80.5 | 9.8 | 14.9 |
-| Ogre + 4 Orcs | 13.6 | 73.6 | 18.7 |
-| Troll alone | 99.9 | 0.0 | 6.6 |
-| Troll + 2 Orcs | 81.3 | 5.1 | 17.4 |
+| Ogre alone | 99.6 | 0.1 | 4.2 |
+| Ogre + 2 Orcs | 60.1 | 24.2 | 18.7 |
+| Ogre + 4 Orcs | 1.4 | 94.6 | 12.7 |
+| Troll alone | 99.8 | 0.0 | 5.8 |
+| Troll + 2 Orcs | 62.3 | 20.3 | 20.7 |
 
-A lone melee monster still cannot beat three focused Burners who have all meleed
-(unlimited Defend, gang damage). Adds split focus and eat Block budget — that is
-still the lever. Area/breath and regeneration remain the other two roads; this pass
-did not re-sweep breath.
+Adds split focus, eat Block budget, and survive for a finishing hit. A lone melee monster still cannot beat three focused Burners who have all meleed.
 
 ## Troll regeneration
 
-Solo troll, open, Heat 6. HP is `5 × HD +` folded soak (`25 + 20 = 45`); no
-per-blow Resistance. Under that conversion, regen is a weak solo lever:
+Solo troll, open, Heat 6. HP 25, hide as gambeson (AC 2):
 
-| Regen / round | win % | stale % |
-| --- | --- | --- |
-| 0 | 99.8 | 0.2 |
-| 1 | 99.3 | 0.7 |
-| 2 | 99.1 | 0.9 |
-| 3 | 96.5 | 3.5 |
+| Regen / round | win % | stale % | TPK % |
+| --- | --- | --- | --- |
+| 0 | 99.8 | 0.1 | 0.1 |
+| 1 | 98.4 | 1.6 | 0.0 |
+| 2 | 96.1 | 3.9 | 0.1 |
+| 3 | 87.5 | 12.4 | 0.1 |
 
-Fire on a regen-3 solo: win ~99.8% (stale ~0.2%). A Resistance-lane troll (soak
-kept as per-blow Resistance instead of folded HP) would chip much slower and make
-regen matter more — worth a follow-up if you run hide as Resistance.
+The simulator does not currently regenerate a troll after it reaches Cracked. Set `FIRE = True` to suppress regeneration before Cracked.
 
 ## Combatants
 
@@ -120,23 +89,19 @@ regen matter more — worth a follow-up if you run hide as Resistance.
 | Senna | Sorcerie 1 | 1d6 | AC 1 | 5 | 1 | one Stanch; dagger otherwise |
 | Pip | Craft 1 | 1d6 | AC 1 | 7 | 1 | two-handed spear (2 dice) |
 
-| Foe | HD | HP | Resistance | Pool | Attacks | Blow |
-| --- | --- | --- | --- | --- | --- | --- |
-| Orc | 1 | 1d8+2 (fold soak 1) | 0 | 4 | 1 | 1 |
-| Ogre | 4+2 | 4d6+2+8 (fold soak 1) | 0 | 10 | 1 | 3 |
-| Troll | 5 | 45 (5×HD + fold soak 2) | 0 | 9 | 3 | 1 each |
+| Foe | HD | HP | AC | Resistance | Pool | Attacks | Blow |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Orc | 1 | 1d8 | 1 (leather) | 0 | 4 | 1 | 1 |
+| Ogre | 4+2 | 4d6+2 | 1 (hide as leather) | 0 | 10 | 1 | 3 |
+| Troll | 5 | 25 | 2 (hide as gambeson) | 0 | 9 | 3 | 1 each |
 
 ## Engine notes
 
-- Defend caps: melee 1 die, or unlimited if you meleed this round; missile 1 / 2 with
-  Cover; hostile magic unlimited. In the dirt, spent dice are re-rolled.
+- Defend caps: melee 1 die, or unlimited if you meleed this round; missile 1 / 2 with Cover; hostile magic unlimited. In the dirt, spent dice are re-rolled.
 - Block spends one attack and redirects the blow onto the blocker (PCs only).
 - Shock: `2d6 + Sword` vs total wound severity; fail → shock table on the raw 2d6.
-- Post-fight: wounded Burners need help + `2d6 + Craft` vs severity or die (Pip's
-  Craft 1 helps allies). All-down mid-fight counts as a coup / TPK.
-- Monsters die at 0 HP. Heat dice join the enemy pools once at the Call.
-- Not modeled: Ward, called shots, soft-target bonuses, Stunts, rising-under-press
-  beyond dirt re-rolls, terrain chokepoints in the baseline (toggle `CHOKE` in the sim).
+- Post-fight: wounded Burners need help + `2d6 + Craft` vs severity or die. All-down mid-fight counts as a coup / TPK.
+- Not modeled: Ward, poleax armor-break Sparks, called shots, Stunts, morale, or terrain chokepoints in the baseline.
 
 ## How to re-run
 
@@ -144,4 +109,4 @@ regen matter more — worth a follow-up if you run hide as Resistance.
 python3 sims/sim.py
 ```
 
-Toggles at the top of `sim.py`: `OGRE_ATTACKS`, `TROLL_REGEN`, `CHOKE`, `PARTY_HP`, `FIRE`, `OGRE_HP`.
+Toggles at the top of `sim.py`: `BINARY_ARMOR`, `OGRE_ATTACKS`, `TROLL_REGEN`, `CHOKE`, `PARTY_HP`, `FIRE`, `OGRE_HP`.

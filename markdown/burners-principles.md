@@ -23,15 +23,15 @@ Player skill decides whether the world bends; your Approach decides only how muc
 
 ---
 
-## Granular defense, not binary save
+## Granular Defend, binary armor
 
 Burners has no save-or-die. Endurance is **Defend** — a graded contest, not a gate you pass or fail.
 
 - **Out of combat**, a hazard is **`2d6 +` the fitting Approach** against the Referee's Cost. You may soften the price, bear it whole, or dodge it clean — but the outcome is a matter of degree, not a single on/off switch.
-- **In combat**, blows land. You **commit Fuel dice** and cut incoming damage by their faces; a Burner's armor soaks the rest; what remains comes off HP. Unlimited Defend (once you have meleed), Cover (2 dice vs missiles), Block (redirect onto yourself), and Riposte are ways to answer a blow — not a roll that erases the hit. Monsters soak with Resistance only.
+- **In combat**, blows land. You **commit Fuel dice** and cut incoming damage by their faces. Armor then tests what remains: Damage at or below AC stops; higher Damage sinks in whole. Unlimited Defend (once you have meleed), Cover (2 dice vs missiles), Block (redirect onto yourself), and Riposte are ways to answer a blow.
 - **Hostile magic** uses the same Fuel economy as steel. The caster's **cast total** (sum of faces spent to cast) opposes your **defense total** (sum of faces you commit). Partial defense means partial effect: **overrun** = cast − defense, applied as harm to HP *or* as the spell's hold — never both. There is no "save for half" — you defended as well as your dice allowed.
 
-A binary save asks *did you avoid it?* Burners asks *how much did you stop, and what is left?*
+A binary save asks *did you avoid it?* Burners asks *how much did you cut, and can your armor stop what is left?*
 
 **Procedure:** *Approach Roll* (hazards) and *Defending* under Fighting in [[Burners Adventure Game]]; *Defending against a spell* in [[Burners Sorcerie]]; *The Defend Router* in [[Burners OSE Conversions]].
 
@@ -47,7 +47,7 @@ kill you — not a single failed save, not the passage of time alone.
 
 Steel and sorcery share the same pool. The danger is the turn you are winded with workings still flying.
 
-**Taking foes out:** chip to 0 so the next blow wounds and fells; one-shots only against the genuinely weak. Mooks fall fast; bosses are a siege.
+**Taking foes out:** chip a monster to 0 and shout **Cracked!** It fights on, AC and Resistance gone; the next blow fells it. One-shots belong to the genuinely weak. Mooks fall fast; bosses are a siege.
 
 ---
 
@@ -78,7 +78,7 @@ Death lands after the fight — **unhelped Wound**, **failed Craft survival**, o
 
 Traits come with levels; **Signatures**, named gear, and spell learning are **never bought with XP**. They emerge at the table — one Signature per level in that Approach.
 
-Magic arms and armor are looted or earned, never bought at creation. Magic items grant **0 XP**; the item is the reward. Enchanted = legendary = eldritch: a *+1* is a magic sword. It **accepts** only a matching Trait (no roll) — extra die and powers once found: [[Burners Adventure Game#Enchanted Arms and Armor]]. How you stock and convert them: [[Burners Referee Magic Items]].
+Magic arms and armor are looted or earned, never bought at creation. Magic items grant **0 XP**; the item is the reward. Enchanted = legendary = eldritch: a *+1* is a magic sword. It **accepts** only a matching Trait (no roll) — extra die and powers once found. Accepted enchanted armor may burn additional Fuel after its AC fails: [[Burners Adventure Game#Enchanted Arms and Armor]]. How you stock and convert them: [[Burners Referee Magic Items]].
 
 ---
 
@@ -106,7 +106,7 @@ In combat, only **Sword** answers. The diplomat, locksmith, and archmage are bod
 
 ## Pools, not fixed numbers
 
-Creatures fight like characters. On Initiative they roll a **Fuel pool** and spend dice to attack, defend, Spark, and Riposte. A blow is the **faces of the dice committed** — cut by defense and armor — not a fixed Damage stat on a stat block. There are no to-hit rolls; the pool carries how hard and how often a foe strikes.
+Creatures fight like characters. On Initiative they roll a **Fuel pool** and spend dice to attack, defend, Spark, and Riposte. A blow is the **faces of the dice committed** — cut by Defend, then tested against armor — not a fixed Damage stat on a stat block. There are no to-hit rolls; the pool carries how hard and how often a foe strikes.
 
 Spells work the same way: cast at least SL Fuel dice; the **cast total** is the attack value.
 
@@ -116,15 +116,15 @@ When porting material that prints a flat damage number (a trap, a breath quoted 
 
 ---
 
-## Armor and Resistance soak; they never roll
+## Armor and Resistance are thresholds; they never roll
 
-**Armor (AC)** is what a Burner wears — a flat soak subtracted from every blow before HP. It never enters the exchange as a die.
+**Armor (AC)** is what someone wears — a binary threshold tested after Defend. Damage **≤ AC** stops; Damage **> AC** hits HP in full. Never subtract AC.
 
-**Monsters do not use AC.** Convert module or natural AC into extra HP, or into **Resistance vs weapons** when the creature is famous for its armor (knight, dragon). See [[Burners Referee Guide#Building and Running Monsters]] and [[Burners OSE Conversions]].
+**Monsters use the same AC bands.** Describe worn kit directly (*that orc is in gambeson*) and natural protection in human armor terms (a giant crab **as plate**, a dragon **as full plate** or harder). See [[Burners Referee Guide#Building and Running Monsters]] and [[Burners OSE Conversions]].
 
-**Resistance** is flat damage reduction against a **named kind** of harm — blades, fire, magic, weapons against famous hide. It comes off every hit of that kind before HP. It is never a **key**: no "only magic weapons can hurt this." Name the scope, and ideally name a weakness that bypasses it. Wear it down with weight of numbers, or find what it does not resist. A named weakness does not lower Resistance; it **ignores** it. Every Resistance above a point or two **names its cause** — a thing the party can learn and undo. Never fold Resistance into HP.
+**Resistance** is the same kind of threshold against a **named kind** of harm — blades, fire, magic. Applicable Damage at or below it stops; higher Damage sinks in whole. It is never a **key**: no "only magic weapons can hurt this." Name the scope and a weakness that bypasses it. AC and Resistance never add; use the highest applicable threshold.
 
-Twenty militia hacking a high-Resistance thing each land almost nothing while it kills them. That is correct; it is why the village hired Burners.
+Twenty militia hacking below a high-Resistance threshold do nothing while it kills them. That is correct; it is why the village hired Burners.
 
 **No plusses on sums.** A +n from another game never becomes a bonus added to a roll total. It becomes **enchanted** arms or armor — see [[Burners Referee Magic Items]].
 
@@ -134,7 +134,7 @@ Twenty militia hacking a high-Resistance thing each land almost nothing while it
 
 When a hostile working overruns your defense:
 
-- **Damage** applies overrun to HP 1:1 (then PC AC and Resistance where they apply). **Physical** manifestations — conjured blade, stone shards, dodgeable cone — may be soaked by a Burner's AC after Defend; **non-physical** workings ignore AC. Monsters soak with Resistance only.
+- **Damage** applies overrun to HP 1:1 after any applicable threshold. **Physical** manifestations — conjured blade, stone shards, dodgeable cone — test against AC after Defend; **non-physical** workings ignore AC. Named Resistance applies to PCs and monsters alike.
 - **Control** (charm, sleep, fear, command…) never chips HP. Fully defended: nothing. Defense fell short: the working takes hold — full or partial per the spell and the overrun (Referee's call on edge cases). Recover when the working ends or is broken.
 
 Never both harm and hold from the same working on the same target. OSE *save for half* does not port.
@@ -191,7 +191,7 @@ Every die, save, check, and bonus from another game is a **pointer** to a Burner
 | +n weapon or armor | Enchanted tiers, extra Fuel die, minor powers |
 | XP for magic items | 0 XP — the item is the reward |
 
-The full OSE routing tables live in [[Burners OSE Conversions]]. Read a stat block once, write the margin note — HP (folded AC if any), pool (HD + weapon slots), Resistance-if-any — and run it.
+The full OSE routing tables live in [[Burners OSE Conversions]]. Read a stat block once, write the margin note — HP, AC, pool (HD + weapon slots), Resistance-if-any — and run it.
 
 ---
 

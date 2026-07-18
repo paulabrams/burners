@@ -427,7 +427,7 @@ Each spell has a name, level, and effect on [[Burners Spells]] — run it as wri
 this chapter, the spell list, or the Referee says otherwise. Where a spell's effect must
 mesh with combat:
 
-- **HP and damage** that target a creature come off HP. Physical effects may be soaked by
+- **HP and damage** that target a creature come off HP. Physical effects test against
   AC after Defend (see [[Burners Principles#Harm and effect are separate lanes]]).
 - **Hostile magic** is opposed with **Defend** — Fuel dice vs the caster's cast total. A
   hostile cast where no fight is yet underway still rolls initiative. Choose whichever
@@ -438,7 +438,7 @@ mesh with combat:
 
 ## Defending against a spell
 
-See [[Burners Principles#Granular defense, not binary save]] and [[Burners Principles#Harm
+See [[Burners Principles#Granular Defend, binary armor]] and [[Burners Principles#Harm
 and effect are separate lanes]].
 
 When a spell targets you with harm, control, or another hostile effect, the caster's

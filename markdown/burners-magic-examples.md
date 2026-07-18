@@ -139,7 +139,7 @@ the caster's Sorcerie level — Craft for Canting — exactly as in the catalog.
   Referee prices the smoke and the light — a Cost against Heat — not the burning
   itself.
 - **Combat.** A 60' cone: every creature caught Defends separately against the same
-  cast total, and overrun goes to HP less Resistance.
+  cast total, and overrun goes to HP after any applicable Resistance threshold.
 
 #### Fog Cloud
 
@@ -154,7 +154,7 @@ the caster's Sorcerie level — Craft for Canting — exactly as in the catalog.
 - **World.** The strongbox's iron hasp glows until the wax seals run and the lock's
   temper goes — quiet work in an empty counting-house, priced only if discovery is on
   the table.
-- **Combat.** One foe's sword glows hot: the holder takes **1d6** to HP less Resistance
+- **Combat.** One foe's sword glows hot: the holder takes **1d6** to HP if it beats Resistance
   each round for Sorcerie turns, unless they drop it. As written the drop is the
   defense — the spell offers no Defend roll.
 
@@ -255,7 +255,7 @@ the caster's Sorcerie level — Craft for Canting — exactly as in the catalog.
 
 - **Combat.** Cast on yourself as the arrows start: while you move, every attack
   against you suffers −Sorcerie Damage for Sorcerie turns. Nothing opposes it — the
-  working shaves blows on the way in; your Fuel still Defends them.
+  working softens the blow before Defend and the AC threshold.
 
 #### Visual Illusion
 
@@ -283,7 +283,7 @@ the caster's Sorcerie level — Craft for Canting — exactly as in the catalog.
 #### Cloak of Shadows
 
 - **Combat.** In torchlight and gloom you fight at +Sorcerie AC for Sorcerie turns. It
-  is soak, not stealth: blows still land and Fuel still Defends; the shadow just
+  is armor, not stealth: blows still land and Fuel still Defends; the shadow just
   thickens the skin.
 
 #### Darksight

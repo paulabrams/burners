@@ -46,7 +46,7 @@ The hard ask is your own. Anyone the Fallen slew may look only dead — a friend
 - **Purge:** 1 Turn. Spend one Incendiary; deepen severity and HP as Midnight; then Survival. Live: Wound purified. Die: no spawn.
 - **Survival:** immediate `2d6 + Craft` vs severity (helped if a friend holds you). Fail or alone → die. Die unclean → spawn. Live after Midnight: still unclean.
 
-*Example. Herrick 3 HP, gambeson AC 2 vs barrow-wight (drain 1). Blow 5 soak 2 → 0 (no Wound). Blow 9 soak 2 → −4: Fallen Wound severity 4. Shock + helped after-fight survival OK; still unclean. Midnight or Purge: roll `2d6`, deepen by the total → Survival (purified if Purge and live; dead unclean → spawn; dead from Purge → no spawn).*
+*Example. Herrick 3 HP, gambeson AC 2 vs barrow-wight (drain 1). Blow 2 goes tink → 0 (no Wound). Blow 5 beats AC and sinks in whole → −2: Fallen Wound severity 2. Shock + helped after-fight survival OK; still unclean. Midnight or Purge: roll `2d6`, deepen by the total → Survival (purified if Purge and live; dead unclean → spawn; dead from Purge → no spawn).*
 
 *A note to old school players: undead do not cause level loss on touch unless you prefer that to the above.*
 
@@ -59,7 +59,7 @@ Prefer the monster's **printed XP** from the [OSE SRD](http://oldschoolessential
 | Use from OSE | Do not use from OSE |
 |---|---|
 | HD → Fuel spine; **printed XP** (or HD + `*` table) | Energy drain (levels lost) |
-| AC → Armor soak | Cleric Turn Undead as written |
+| AC → binary Armor Class | Cleric Turn Undead as written |
 | Attacks / damage die → claw/weapon slots | Anything that contradicts fire / Fallen Wound |
 | Printed specials you keep (gaseous form, regen, charm…) | — |
 | Silver / magic to hit → Resistance (weakness bypasses) | — |

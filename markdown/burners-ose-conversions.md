@@ -64,28 +64,23 @@ For fractional or special HD, **prefer the monster's printed XP** or the full OS
 |---|---|
 | **HD** | Level, 1:1 — **HD is the monster's level** and the spine of its pool (one die per HD). **HP: use the printed value** (OSE prints 4.5×HD; Burners 5×HD is the same coin). Roll it or nudge it. |
 | **XP** | Award when overcome — **XP by HD** from the table in *XP Awards* (a 1 HD skeleton = 10; HD 2 = 20). Use the module's printed award if given. |
-| **AC** | Fold into HP, or Resistance vs weapons if famous for armor — per the table below. Monsters never keep PC AC. |
+| **AC** | Convert to Burners AC — the same binary threshold used by PCs — per the table below. |
 | **Damage die** | Read as the natural weapon's **slots** — the dice it throws on the Initiative roll, per the rubric below. A monster has no fixed Damage number; it rolls a pool and spends dice like a character. |
 | **Saves** | Deleted — route the *ability* through the Defend Router |
 | **Morale** | As written |
 | **THAC0 / attack bonus** | Deleted — there are no to-hit rolls; the pool carries it |
 
-### AC → HP or Resistance
+### AC → Burners AC
 
-See [[Burners Principles#Armor and Resistance soak; they never roll]] and [[Burners Referee Guide#Building and Running Monsters]]. **Monsters do not use PC Armor Class.**
+See [[Burners Principles#Armor and Resistance are thresholds; they never roll]] and [[Burners Referee Guide#Building and Running Monsters]]. **Monsters use the same AC bands as PCs.**
 
-Look up the magnitude below (former soak), then pick one lane — do not double-count:
+Look up the AC below and write it on the monster. After Defend, Damage at or below AC goes *tink!*; higher Damage sinks in whole. Never subtract AC and never fold it into HP.
 
-| Lane | When | What you write |
-|---|---|---|
-| **Fold into HP** (default) | Ordinary hide, leather kit, unclear natural AC | Add **+2 × soak × HD** to HP; no AC, no weapon-Resistance from this AC |
-| **Resistance vs weapons** | Famous for armor (knight in plate, dragon scales) | **Resistance** equal to the soak vs weapons; HP stays printed / 5×HD |
+A separate **Resistance** (undead vs blades, magic-to-hit) stays a named threshold with a weakness. AC and Resistance never add; use the highest one that applies.
 
-Never fold a separate **Resistance** (undead vs blades, magic-to-hit) into HP — that stays as soak with a named weakness.
+**AC bands** (worn kit or odd hide — same words):
 
-**Magnitude** (worn kit or odd hide — same bands):
-
-| OSE armor / feel | Soak |
+| OSE armor / feel | Burners AC |
 |---|---|
 | Unarmored / AC 9–8 [10–11] | 0 |
 | Leather / AC 7–6 [12–13] | 1 |
@@ -95,7 +90,7 @@ Never fold a separate **Resistance** (undead vs blades, magic-to-hit) into HP �
 | Field/full plate / AC 1–0 [18–19] | 5 |
 | Better than 0 [20+] | 5; excess is usually already **Resistance** |
 
-| OSE AC (descending) | Ascending AC | Soak |
+| OSE AC (descending) | Ascending AC | Burners AC |
 |---|---|---|
 | 9–8 | 10–11 | 0 |
 | 7–6 | 12–13 | 1 |
@@ -104,9 +99,9 @@ Never fold a separate **Resistance** (undead vs blades, magic-to-hit) into HP �
 | 1–0 | 18–19 | 5 |
 | Better than 0 | 20+ | 5+, ask whether the rest is Resistance |
 
-Worked reads: **orc** AC 6 [13] → soak 1, HD 1 → HP = printed (or 5) **+2**. **Skeleton** leather AC → +2 HP; keep blade Resistance separate. **Knight** in plate → Resistance **4** vs weapons, no HP fold. **Dragon** scales → Resistance vs weapons at the soak band.
+Worked reads: **orc** AC 6 [13] → **AC 1**, HP printed (or 5). **Skeleton** AC 7 [12] → **AC 1**; keep blade Resistance separate. **Knight** in plate → **AC 4**. **Dragon** scales → **AC 4–5+**, described as plate or full plate.
 
-When a PC **loots** a suit of armor off a foe, that kit becomes ordinary Burners AC for the wearer — the monster never wore it as AC on its block.
+When a PC **loots** a suit of armor off a foe, that kit keeps its ordinary Burners AC for the wearer.
 
 ### The Damage Die → the Pool
 
@@ -147,7 +142,7 @@ A monster spends its pool exactly as a character does: each blow is one die, plu
 
 ### The Defend Router
 
-An OSE save is a pointer to a Burners subsystem — see [[Burners Principles#Route, don't reinvent]] and [[Burners Principles#Granular defense, not binary save]]. **`2d6 +` the fitting Approach** against the Referee's Cost handles most hazards (see *Approach Roll* in [[Burners Adventure Game]]). Hostile magic uses Fuel Defend against the caster's cast total (see [[Burners Sorcerie]]). Ask what the save protects, then route it:
+An OSE save is a pointer to a Burners subsystem — see [[Burners Principles#Route, don't reinvent]] and [[Burners Principles#Granular Defend, binary armor]]. **`2d6 +` the fitting Approach** against the Referee's Cost handles most hazards (see *Approach Roll* in [[Burners Adventure Game]]). Hostile magic uses Fuel Defend against the caster's cast total (see [[Burners Sorcerie]]). Ask what the save protects, then route it:
 
 | OSE says | Burners does |
 |---|---|
@@ -155,7 +150,7 @@ An OSE save is a pointer to a Burners subsystem — see [[Burners Principles#Rou
 | **Save vs. Poison (or die)** | **Defend** (Craft) to avoid; **lingering Cost** once it lands. See [[Burners Principles#No instant death]]. |
 | **Save vs. Paralysis** | **Defend** (Craft or Sword) at the touch; fall short and you **stiffen** for a stated clock (ghoul-chill, 2d6 rounds) — recoverable, not permanent. |
 | **Save vs. Petrify** | **Counting doom**: repeated **Defends** (Craft or Sword), each miss a step toward stone; it recovers. Averting your eyes is the counterplay, at the price of fighting blind. |
-| **Save vs. Spells / Wands / Rods / Staves** | Fuel **Defend** vs **cast total**; roll initiative OOC. See [[Burners Principles#Granular defense, not binary save]] and [[Burners Principles#Harm and effect are separate lanes]]. **Ward:** adjacent Sorcerer commits ≤ Sorcerie Level Fuel to cut the attack, then each ally Defends. |
+| **Save vs. Spells / Wands / Rods / Staves** | Fuel **Defend** vs **cast total**; roll initiative OOC. See [[Burners Principles#Granular Defend, binary armor]] and [[Burners Principles#Harm and effect are separate lanes]]. **Ward:** adjacent Sorcerer commits ≤ Sorcerie Level Fuel to cut the attack, then each ally Defends. |
 | **Save vs. Death effects** | **Shock Check** and **Wounds**, then post-fight help + Craft survival — see [[Burners Principles#No instant death]] and [[Burners Adventure Game#Wounds]]. |
 
 **Which Approach?** Craft to dodge a dart, pit, or poison; Sword to force a door, hold your feet, or stay conscious; Heart against fear and horror; Sorcerie to dredge up what you know against the uncanny. The player may argue for another Approach if the fiction fits. When in doubt: Craft to avoid, Sword to endure.
@@ -175,19 +170,19 @@ So a Sword 3 stands at an effective 13, a Craft 2 at 12. This is a fallback for 
 
 ### "Magic Weapons to Hit" → Resistance
 
-See [[Burners Principles#Armor and Resistance soak; they never roll]].
+See [[Burners Principles#Armor and Resistance are thresholds; they never roll]].
 
 | OSE says | Burners Resistance | The feel |
 |---|---|---|
-| Silver or magic to hit | **Resistance ~3–4** vs mundane arms; silver (or the named weakness) **bypasses it entirely** | *Resistant.* Soldiers grind it down slowly; a mob still drags it under; the smart play is the weakness. |
+| Silver or magic to hit | **Resistance ~3–4** vs mundane arms; silver (or the named weakness) **bypasses it entirely** | *Resistant.* Weak blows bounce; a committed blow or the weakness gets in. |
 | +1 or better to hit | **High Resistance** vs mundane arms — enough that ordinary blows barely tell — bypassed by a legendary/named blade or the stated weakness | *Unearthly.* Mortal steel is folklore against it; the right edge makes it mortal. |
 | +2/+3 or better to hit | **Not a bigger number** — the same high Resistance plus a weakness that must be *discovered*, or a fiction gate (*it cannot fall while the phylactery stands*) | *A puzzle wearing a stat.* |
 
-Every Resistance above a point or two **names its cause** — see [[Burners Principles#Armor and Resistance soak; they never roll]]. A named weakness **ignores** Resistance, the way a Bane-forged weapon ignores its quarry's soak (see [[Burners Arms and Armor]]).
+Every Resistance above a point or two **names its cause** — see [[Burners Principles#Armor and Resistance are thresholds; they never roll]]. A named weakness **ignores** Resistance, the way a Bane-forged weapon ignores its quarry's threshold (see [[Burners Arms and Armor]]).
 
 **Undead & energy drain** (OSE): **no levels lost.** Any of the Fallen that **wounds** you opens a **Fallen Wound**. Midnight / Purge: husks deepen by **1**; drainers by `1d6` + `1d6` per OSE drain level (wight `2d6`). Immediate Craft survival; die unclean → spawn; die from purge → no spawn. See [[Burners Burn Undead#Fallen Wounds]] and [[Burners Principles#No instant death]].
 
-**Mobs vs. the unearthly:** see [[Burners Principles#Armor and Resistance soak; they never roll]].
+**Mobs vs. the unearthly:** see [[Burners Principles#Armor and Resistance are thresholds; they never roll]].
 
 ---
 
@@ -209,9 +204,9 @@ Stuck doors, thief skills, foraging, listening at doors — all this table. A tr
 
 **Worked in the margin — the OSE zombie** (AC 8 [11] · HD 2 (9hp) · 1 × weapon, 1d8 · Morale 12):
 
-> **Zombie.** HP 9 (as printed; soak 0, no fold) · pool = 2 (HD) + 3 (d8 fists) + Heat dice · **Shambling** — acts last · Morale 12 as written · **XP 20** (HD 2).
+> **Zombie.** HP 9 · AC 0 · pool = 2 (HD) + 3 (d8 fists) + Heat dice · **Shambling** — acts last · Morale 12 as written · **XP 20** (HD 2).
 
-Read straight off the printed block — HP (folded if the AC had soak), the two numbers that build its pool, Resistance-if-any, its tempo, its Morale.
+Read straight off the printed block — HP, converted AC, the two numbers that build its pool, Resistance-if-any, its tempo, its Morale.
 
 ---
 
@@ -223,7 +218,7 @@ Port OSE spells onto [[Burners Spells]] when a match exists; otherwise write a o
 - **Durations and ranges as written** — the clocks match.
 - **Casting (combat):** one Action; spend at least SL Fuel dice, roll them — cast total = sum of faces. Tap the card. On a Spark, may spend up to SL additional Fuel for extra effect. May burn ready cards in the same Action to recast or copy.
 - **Casting (NPC / module caster):** roll at least **SL Fuel dice** for the cast total the same way. A hostile cast **rolls initiative** if no fight is underway.
-- **Defense and damage:** see [[Burners Principles#Granular defense, not binary save]] and [[Burners Principles#Harm and effect are separate lanes]]. Ignore OSE per-caster-level dice and fixed damage lines; overrun to HP 1:1. *Save for half* does not port.
+- **Defense and damage:** see [[Burners Principles#Granular Defend, binary armor]] and [[Burners Principles#Harm and effect are separate lanes]]. Ignore OSE per-caster-level dice and fixed damage lines; overrun to HP 1:1. *Save for half* does not port.
 - **Scrolls** require a **Sorcerer** (or Journeyman + Canting for Canting) — single-use items, any form; not cards (see [[Burners Sorcerie]]).
 
 ---
@@ -249,4 +244,4 @@ Potions, rings, and wondrous items stay as written above. Do not raise AC or siz
 
 ---
 
-> *Read the stat block once, write it in the margin — HP (folded AC if any), the pool (HD + weapon slots), Resistance-if-any, XP by HD — route the saves through Defend, and run it.*
+> *Read the stat block once, write it in the margin — HP, AC, pool (HD + weapon slots), Resistance-if-any, XP by HD — route the saves through Defend, and run it.*

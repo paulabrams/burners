@@ -47,7 +47,7 @@ hero_alt: "A knight returns laden — crossbow, sword, and loot — Albert Robid
 | Field plate | 4   | 5     | 2,000     |
 | Full plate  | 5   | 7     | 4,000     |
 
-- AC is Armor Class: the number of points of damage the armor absorbs on a hit.
+- AC is Armor Class: after Defend, Damage at or below AC goes *tink!*; higher Damage sinks in whole.
 - Plate armor requires training: see *Training* under [[Burners Adventure Game#Weapons, Armor, and Shields]].
 - Field and full plate are rare and must be fitted to you by a master armorer.
 - If an armor is not listed, use the closest entry. For example, scale mail can be treated as chain mail.

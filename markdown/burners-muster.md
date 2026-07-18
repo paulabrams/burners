@@ -49,7 +49,7 @@ Retainers are not Burners. **Everything that scales with level or Approach is ha
 | **Approach rolls** | **`2d6 + ⌊Approach / 2⌋`** |
 | **Shock and other Approach math** | Same half (Shock: **`2d6 + ⌊Sword / 2⌋`**) |
 
-**Not halved:** shares, Muster slots (**1 per retainer**), Loyalty, kit on their person. Armor still soaks. Full Wound and Shock once HP is spent.
+**Not halved:** shares, Muster slots (**1 per retainer**), Loyalty, kit on their person. Armor keeps its binary AC. Full Wound and Shock once HP is spent.
 
 ### Who plays them
 

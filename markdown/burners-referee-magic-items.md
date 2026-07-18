@@ -11,7 +11,7 @@ hero_alt: "A knight returns laden — Albert Robida"
 
 **Enchanted = legendary = eldritch = magic.** Same class. A *+1 sword* is a freaking magic sword — woke steel that may talk, burn, or hunt. The plus only sets how many minor powers you stock, not how trivial the find is.
 
-In combat, an enchanted arm or armor the wielder's Trait has **accepted** gives **one extra die** when that item is the thing in play (Initiative, a blow, or Defend / Block with a shield). Out of combat they give no extra dice. **Powers** also require that acceptance (and that the power has been found). Without the Trait the piece is mundane kit in their hands. A module **+n** means **n minor powers**, not a bigger number on the roll.
+In combat, an enchanted arm or armor the wielder's Trait has **accepted** gives **one extra die** when that item is the thing in play (Initiative, a blow, or Defend / Block with a shield). Accepted **enchanted armor** also holds after its AC fails: before recording Damage against HP, the wearer may spend any number of additional Fuel beyond the normal Defend cap, then test AC again. It cannot hold against gaps, harm that ignores AC, or armor broken by a poleax. Out of combat enchanted kit gives no extra dice. **Powers** also require acceptance (and that the power has been found). Without the Trait the piece is mundane kit in their hands. A module **+n** means **n minor powers**, not a bigger number on the roll.
 
 ## Quality above fine steel
 
@@ -23,7 +23,7 @@ Fitted to one grip and dialed in. A **Tuned** weapon **counts as enchanted** for
 
 ### Bane-forged
 
-Made for one enemy. Against its named quarry it *is* their weakness: their Resistance does not soak it. (This is where module *"+1, +3 vs. dragons"* goes — as a power on enchanted steel, not a bigger number.)
+Made for one enemy. Against its named quarry it *is* their weakness: it bypasses their Resistance. (This is where module *"+1, +3 vs. dragons"* goes — as a power on enchanted steel, not a bigger number.)
 
 ### Legendary / named relics
 
@@ -110,7 +110,7 @@ Pick one per tier, or roll **d12** on the column. Re-roll duplicates. Route OSE 
 | 4 | **Charm** — once per week, a **Control** working (Heart vs Heart) on one touched foe — it lands or it doesn't, and it is not puppetry | *Sword +2, Charm Person* |
 | 5 | **Bind on Sweet** — once per session, a Sweet hit **binds** the foe's weapon without a maneuver | *Binding tag* |
 | 6 | **Healing edge** — once per day, while held, heal 1 HP per round for 6 rounds (combat counts) | *extraordinary: healing, toned down* |
-| 7 | **Feint ward** — once per fight, ignore **1 point of Resistance** from mundane armor only | *extra damage, toned down* |
+| 7 | **Feint ward** — once per fight, treat AC or Resistance as **1 lower** for one blow | *extra damage, toned down* |
 | 8 | **Missile ward** — once per session, **Cover** or **Defend** softens a breath or area effect you could not fully ward (half the overrun) | *shield crossover* |
 | 9 | **Purging blow** — once per session, shed one **lingering Cost** on yourself (poison, chill, fear) when you draw blood | *paladin-flavor* |
 | 10 | **Shifting sense** — locate shifting walls or rooms within 10' | *sensory: shifting architecture* |
@@ -191,7 +191,7 @@ Pick one per tier, or roll **d12** on the column. Re-roll duplicates. Route OSE 
 |---|---|
 | 1 | **Bane-mail** — **ignores Resistance** from one blow per session vs quarry |
 | 2 | **Ward** — first hostile spell each delve: **Defend** with +1 die |
-| 3 | **Soak trick** — once/session, treat AC as **+1** vs one blow |
+| 3 | **Turn the blow** — once/session, treat AC as **+1** vs one blow |
 | 4 | **Close the gap** — once/delve, ignore one **called shot** to an uncovered location |
 | 5 | **Shed Cost** — lose one **lingering Cost** when you reach **full HP** |
 | 6 | **Shock cushion** — once/session, **Shock Check** at **+1** |

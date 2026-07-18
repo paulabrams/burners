@@ -83,4 +83,4 @@ Prefer the monster's **printed XP** from the [OSE SRD](http://oldschoolessential
 - printed award of the nearest whole monster, or
 - build it: HD base + one bonus per special ability you keep (`*` on the Awarding XP table).
 
-**Example — Lothian A4 Draugr:** **Monster XP 50** (stock wight, OSE RAW). Payday: coffin + lung vault **gp ×2**, then **1 XP per 1 gp**. Not a fatter kill award. Party said vampire; pinholes = sleeper clue. Fallen Wound, not level drain.
+**Example — Lothian A4 Draugr:** **Monster XP 500** (keyed; HD 5 shell, not stock wight / not OSE vampire). Payday: coffin + lung vault listed gp at **1 XP per 1 gp**. Party said vampire; pinholes = sleeper clue. Fallen Wound, not level drain.

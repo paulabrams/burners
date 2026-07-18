@@ -40,6 +40,7 @@ jobs:
           PDF_DEPLOY_DEST_DIR: _site/pdf
           PDF_DEPLOY_COPY_TO: ""
           PDF_DEPLOY_ZIP_DIR: _site/downloads
+          PDF_DEPLOY_SKIP_EXTRA: "1"
         run: |
           sudo apt-get update
           sudo apt-get install -y pandoc weasyprint zip

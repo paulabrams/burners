@@ -31,7 +31,7 @@ Heat is the crew's shared gauge and the spine of every scene — the full player
 
 **Work the valves.** Heat falls when the crew acts on the room, not on request: fell or lose a named threat, −2; remove a named source (quench the fire, learn the ward-phrase), −1 or more; a Double Sweet vents 1; a steadying word or plan you buy, −1 once a scene. Folding ends the scene and cools to the next base. Downtime — a safe camp, a town between jobs — cools to base; a job that ended loud raises the base of what follows until the crew lies low and spends coin. Carousing is maintenance, not vice.
 
-Heat has no ceiling and no Redline; its whole value joins the enemy's pool on the Initiative roll, a die per point. The hotter the room, the deeper the enemy rolls — more Initiative (they act first) and more dice for stunts, ripostes, and defense — so a very hot scene simply fights back harder. That is the genre's moment with a number on it: finish it or fold.
+Heat joins the enemy's pool on the Initiative roll, a die per point. The hotter the room, the deeper the enemy rolls — more Initiative (they act first) and more dice for Man-handles, Counterattacks, and defense — so a very hot scene simply fights back harder. That is the genre's moment with a number on it: finish it or fold.
 
 ---
 
@@ -162,21 +162,17 @@ Rolling the Delve Die every Turn runs a dungeon hot: any 1 lands about a third o
 
 ## Building and Running Monsters
 
-A monster is any enemy, built on a simple stat block of Hit Dice, HP, AC (if any), Resistance (if any), and attacks. Its Hit Dice are its level: most humans are 0, most orcs are 1, a veteran higher. See [[Burners Principles#Pools, not fixed numbers]] for how blows work.
+A monster is any enemy, built on a simple stat block of Hit Dice, HP, Resistance (if any), and attacks. Its Hit Dice are its level: most humans are 0, most orcs are 1, a veteran higher. See [[Burners Principles#Pools, not fixed numbers]] for how blows work.
 
-**Monsters use PC Armor Class.** Read worn kit directly and describe natural armor in the same human terms: leather 1, gambeson 2, chain 3, plate 4, full plate 5. An orc in leather is AC 1; a giant crab is **as plate**, AC 4; a dragon may be **as full plate** or harder.
+**Describe Monsters in terms of human armor.** Describe monster armor in human terms so that players may make informed decisions: leather 1, gambeson 2, chain 3, plate 4, full plate 5. An orc in leather is AC 1; a giant crab is **as plate**, AC 4; a dragon may be **as full plate** or harder.
 
-AC is a threshold, not subtraction. After Defend, Damage at or below AC goes *tink!*; Damage above AC sinks in whole. Do not fold AC into HP.
-
-**Named Resistance** (undead vs blades, fireproof hide) stays separate with a named weakness. It is also a threshold, not subtraction. AC and Resistance never add; use the highest applicable threshold.
-
-- **The monster's pool.** See [[Burners Principles#Pools, not fixed numbers]]. One die per Hit Die, dice for weapon slots, scene Heat as dice (added once per enemy side). It spends Fuel like a character; each blow is up to two committed dice from mundane steel, cut by Defend, then tested against AC or Resistance. A plus-mod lifts HP only.
+- **The monster's pool.** See [[Burners Principles#Pools, not fixed numbers]]. One die per Hit Die, dice for weapon slots, scene Heat as dice (added once per enemy side). It burns Fuel like a character; each blow is up to two burned dice from mundane steel, cut by defense and any Resistance. A plus-mod lifts HP only.
 
 - **A heavy blow** is a weapon of 3+ slots wielded in two hands: it can add a second die to that blow.
 
-- **Resistance** — see [[Burners Principles#Armor and Resistance are thresholds; they never roll]]. Name the scope; name a weakness. A troll regenerates until fire or acid; without it, flee or bring the flame.
+- **Resistance** — see [[Burners Principles#Armor and Resistance soak; they never roll]]. Name the scope; name a weakness. A troll regenerates until fire or acid; without it, flee or bring the flame.
 
-- **HP** is 5 per Hit Die (or the module's printed value) — see [[Burners Principles#Attrition, not spike damage]]. A solo boss wants enough HP to survive the party's first-round burst.
+- **HP** is 5 per Hit Die (or the module's printed value) plus any folded-AC modifier — see [[Burners Principles#Attrition, not spike damage]]. A solo boss wants enough HP to survive the party's first-round burst.
 
 - **Cracked! / Splatted!** Damage through armor comes off HP. At **0 down to −Max HP** the monster is **Cracked!**: no AC, no Resistance, no Fuel refill on Roll Initiative. Keep remaining Fuel; the next damaging hit finishes it. **Past −Max HP** it is **Splatted!** — dead now. Cracked foes often flee or whimper off; uncracked monsters keep the free Fuel and do the real work. Named or solo foes may use full PC Wounds and Shock instead.
 
@@ -194,15 +190,15 @@ The Referee raises or lowers Damage for the situation. Set a value from the band
 | +4 | severe | pinned, ambushed in the dark, several stacked |
 | +5 | dire | helpless while the fight still rages |
 
-The defender's edge runs the same band the other way: partial cover is a 2, hard cover a 4, an attacker who is in the dirt or swinging blind gives you a 2 or 3. After Defend, compare what remains with AC: at or below it the blow stops; above it the full remainder lands on HP — and past 0 it cuts a score.
+The defender's edge runs the same band the other way: partial cover is a 2, hard cover a 4, an attacker who is in the dirt or swinging blind gives you a 2 or 3. When a blow outruns the dice a defender can burn (a lone die, or as many as they like once they have meleed this round; two vs a missile with Cover) plus their armor, the excess lands on HP — and past 0 it cuts a score.
 
 ---
 
 ## Swarms
 
-Foes piling onto one target attack like a single Veteran of many levels: the group makes a bundle of attacks — reckon one per body in reach, or one per Hit Die for a larger creature — each its own blow of up to two dice, each defended and tested against armor separately. Three orcs on Aldric are three attacks, not one big one. Once Aldric has meleed this round he Defends without limit against all of them; until then each blow is one die. An ally may **Block** for him (spend one melee attack to redirect one blow onto themselves). A chokepoint caps how many reach you at once; kill one and the bundle loses its attacks.
+Foes piling onto one target attack like a single Veteran of many levels: the group makes a bundle of attacks — reckon one per body in reach, or one per Hit Die for a larger creature — each its own blow of up to two dice, each defended separately, and each soaked by the defender's armor on the way in. Three orcs on Aldric are three attacks, not one big one. Once Aldric has meleed this round he Defends without limit against all of them; until then each blow is one die. An ally may **Block** for him (spend one melee attack to redirect one blow onto themselves). A chokepoint caps how many reach you at once; kill one and the bundle loses its attacks.
 
-Keeping the blows separate is deliberate. A single combined Damage would punch through armor in one spike; many small hits may go *tink!* after Defend, but a mob drains Fuel until a whole blow gets through. That is the real danger of numbers: not one dreadful blow, but more attacks than you have dice to answer. The counter is avoidance — break line of sight, fight from a chokepoint, raise a shield as Cover, or thin the mob until the swings come slower than you can turn them.
+Keeping the blows separate is deliberate. A single combined Damage would blow past armor in one unsoakable spike; many small hits, each soaked on the way in, mean a mob wears you down through attrition and a draining Fuel pool instead — you run out of dice to defend before you run out of HP. That is the real danger of numbers: not one dreadful blow, but more attacks than you have dice to answer. The counter is avoidance — break line of sight, fight from a chokepoint, raise a shield as Cover, or thin the mob until the swings come slower than you can turn them.
 
 ---
 
@@ -210,7 +206,7 @@ Keeping the blows separate is deliberate. A single combined Damage would punch t
 
 Fuel is rolled face-up. Everyone can see the 6s.
 
-When a missile flies into a melee, the target may use a **melee foe as Cover** (see [[Burners Adventure Game]]). If they Spark on that Defend, the shot hits that foe instead — often a Burner locked with them. That is the rule working as written, not a gotcha to spring cold.
+When a missile flies into a melee, the target may use a **melee foe as Cover** (see [[Burners Adventure Game]]). If they Fuel a Spark on that Defend, the shot hits that foe instead — often a Burner locked with them. That is the rule working as written, not a gotcha to spring cold.
 
 Before the arrow goes: give a friendly warning. *"Are you sure you want to put that into the press? He's got a Spark sitting right there."* The player still chooses. You telegraphed the risk while the dice were already on the table. See [[Burners Principles#No gotchas]].
 

@@ -80,6 +80,7 @@ between pages (`break-inside: avoid`). CSS variables in `spell-cards.css`:
 
 A 3×3 of full-size cards overflows Letter at 100% — that is why smaller decks still
 paginate rather than shrink.
+
 ## Ink / print rules
 
 - **No page or card background fills** — `background: none` on body and `.card`.
@@ -98,7 +99,7 @@ Defend, Sorcerie, tap, burn.
 | Magic | Burners |
 | --- | --- |
 | Hand | Ready spells |
-| Mana cost | Spell level (pay ≥ SL Fuel in combat) |
+| Mana cost | Spell level (burn ≥ SL Fuel in combat) |
 | Tap | Rotate after cast |
 | Permanent / duration | Lasting — leave in play |
 | Exile | Burn (face-down) |

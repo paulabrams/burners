@@ -9,6 +9,8 @@ kramdown:
 exclude:
   - sims/
   - cards/
+  - experiments/
+  - pdf-experiments/
   - README.md
 defaults:
   - scope:

@@ -31,7 +31,7 @@ Anyone with coin can hire. Only a **Boss (Heart 1+)** **Musters** — splitting 
 
 **Loyal** is a **tag** after a real bond (Referee's call). +3 Loyalty; when they hold, they **act loyally** — prioritize their patron, Block for them, stay on their heel. Abuse the bond and the tag can fall — word travels.
 
-**Starter (Boss).** A starting Boss begins with one **loyal retainer** at level 1: Sword 1 or Craft 1, 2 Traits, HP = ⌊1d6 / 2⌋ (min 1), Loyalty **10** (7+3), basic kit paid from the Boss's purse, and a **half-share** of the take when they live.
+**Starter (Boss).** A starting Boss begins with one **loyal retainer** at level 1: Sword 1 or Craft 1, 2 Traits, HP = **1d3**, Loyalty **10** (7+3), basic kit paid from the Boss's purse, and a **half-share** of the take when they live.
 
 ---
 
@@ -43,13 +43,13 @@ Retainers are not Burners. **Everything that scales with level or Approach is ha
 | --- | --- |
 | **Traits** | **2 per retainer level** (half of a Burner's 4) |
 | **Signatures** | At most **⌊Approach / 2⌋** per Approach — earned in play, never bought |
-| **HP** | Roll **1d6 per retainer level**, then **⌊total / 2⌋** (minimum **1**). On level-up: PC-style reroll (keep higher of new total or old+1), then half again. |
+| **HP** | **1d3 per retainer level** (about 2 per level on average; minimum **1**). On level-up: reroll the whole total (keep higher of new total or old+1). |
 | **Fuel level dice / refill** | **⌊retainer level / 2⌋**, minimum **1** |
 | **Veteran extras** | **⌊Sword / 2⌋** extras (Sword 1 → one attack) |
 | **Approach rolls** | **`2d6 + ⌊Approach / 2⌋`** |
 | **Shock and other Approach math** | Same half (Shock: **`2d6 + ⌊Sword / 2⌋`**) |
 
-**Not halved:** shares, Muster slots (**1 per retainer**), Loyalty, kit on their person. Armor keeps its binary AC. Full Wound and Shock once HP is spent.
+**Not halved:** shares, Muster slots (**1 per retainer**), Loyalty, kit on their person. Armor still soaks. Full Wound and Shock once HP is spent.
 
 ### Who plays them
 
@@ -169,35 +169,35 @@ All examples use half power (round down) unless a Boss **manages** them that rou
 
 ### Cob — lantern bearer
 
-- **Level 1, Craft 1.** HP ⌊1d6/2⌋ (min 1). Loyalty **7**.
+- **Level 1, Craft 1.** HP **1d3**. Loyalty **7**.
 - **Traits (2):** *lantern-bearer*, *quiet* (Craft).
 - **Kit:** hooded lantern, flask of oil, flint and steel, spare torch.
 - Half-share when the haul comes home.
 
 ### Merrin — packbearer
 
-- **Level 1, Craft 1.** HP ⌊1d6/2⌋ (min 1). Loyalty **7**.
+- **Level 1, Craft 1.** HP **1d3**. Loyalty **7**.
 - **Traits (2):** *packbearer*, *broad-backed* (Craft).
 - **Kit:** rope, waterskins, spare rations, room for the haul.
 - Road and barrow; climbs on XP.
 
 ### Bren — shield bearer
 
-- **Level 1, Sword 1.** HP ⌊1d6/2⌋ (min 1). Loyalty **7** (+1 well kept / −1 neglected).
+- **Level 1, Sword 1.** HP **1d3**. Loyalty **7** (+1 well kept / −1 neglected).
 - **Traits (2):** *shield-bearer*, *steady* (Sword).
 - **Kit:** two heaters, spare buckler, leather.
 - Puts self first.
 
 ### Tam — squire
 
-- **Level 1, Sword 1.** HP ⌊1d6/2⌋ (min 1). Loyalty **7**.
+- **Level 1, Sword 1.** HP **1d3**. Loyalty **7**.
 - **Traits (2):** *squire*, *arming sword* (Sword).
 - **Kit:** master's spare blade, oil, strap kit.
 - Proud of the harness; looks to his own skin when the line bucks.
 
 ### Nell — spear (loyal)
 
-- **Level 1, Sword 1.** HP ⌊1d6/2⌋ (min 1). Loyalty **10** (7+3 loyal).
+- **Level 1, Sword 1.** HP **1d3**. Loyalty **10** (7+3 loyal).
 - **Traits (2):** *spear*, *steady under fire* (Sword).
 - **Kit:** spear, gambeson (AC 2), kettle helm.
 - Starter bond for a green Boss. Outfitted from the Boss's purse; half-share when she lives. When she holds, she prioritizes the Boss.

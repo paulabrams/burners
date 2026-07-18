@@ -11,7 +11,7 @@ hero_alt: "A knight returns laden — Albert Robida"
 
 **Enchanted = legendary = eldritch = magic.** Same class. A *+1 sword* is a freaking magic sword — woke steel that may talk, burn, or hunt. The plus only sets how many minor powers you stock, not how trivial the find is.
 
-In combat, an enchanted arm or armor the wielder's Trait has **accepted** gives **one extra die** when that item is the thing in play (Initiative, a blow, or Defend / Block with a shield). Accepted **enchanted armor** also holds after its AC fails: before recording Damage against HP, the wearer may spend any number of additional Fuel beyond the normal Defend cap, then test AC again. It cannot hold against gaps, harm that ignores AC, or armor broken by a poleax. Out of combat enchanted kit gives no extra dice. **Powers** also require acceptance (and that the power has been found). Without the Trait the piece is mundane kit in their hands. A module **+n** means **n minor powers**, not a bigger number on the roll.
+In combat, an enchanted arm or armor the wielder's Trait has **accepted** gives **one extra die** when that item is the thing in play (Initiative, a blow, or Defend / Block with a shield). Out of combat they give no extra dice. **Powers** also require that acceptance (and that the power has been found). Without the Trait the piece is mundane kit in their hands. A module **+n** means **n minor powers**, not a bigger number on the roll.
 
 ## Quality above fine steel
 
@@ -23,7 +23,7 @@ Fitted to one grip and dialed in. A **Tuned** weapon **counts as enchanted** for
 
 ### Bane-forged
 
-Made for one enemy. Against its named quarry it *is* their weakness: it bypasses their Resistance. (This is where module *"+1, +3 vs. dragons"* goes — as a power on enchanted steel, not a bigger number.)
+Made for one enemy. Against its named quarry it *is* their weakness: their Resistance does not soak it. (This is where module *"+1, +3 vs. dragons"* goes — as a power on enchanted steel, not a bigger number.)
 
 ### Legendary / named relics
 
@@ -110,11 +110,11 @@ Pick one per tier, or roll **d12** on the column. Re-roll duplicates. Route OSE 
 | 4 | **Charm** — once per week, a **Control** working (Heart vs Heart) on one touched foe — it lands or it doesn't, and it is not puppetry | *Sword +2, Charm Person* |
 | 5 | **Bind on Sweet** — once per session, a Sweet hit **binds** the foe's weapon without a maneuver | *Binding tag* |
 | 6 | **Healing edge** — once per day, while held, heal 1 HP per round for 6 rounds (combat counts) | *extraordinary: healing, toned down* |
-| 7 | **Feint ward** — once per fight, treat AC or Resistance as **1 lower** for one blow | *extra damage, toned down* |
+| 7 | **Feint ward** — once per fight, ignore **1 point of Resistance** from mundane armor only | *extra damage, toned down* |
 | 8 | **Missile ward** — once per session, **Cover** or **Defend** softens a breath or area effect you could not fully ward (half the overrun) | *shield crossover* |
 | 9 | **Purging blow** — once per session, shed one **lingering Cost** on yourself (poison, chill, fear) when you draw blood | *paladin-flavor* |
 | 10 | **Shifting sense** — locate shifting walls or rooms within 10' | *sensory: shifting architecture* |
-| 11 | **Telekinetic tug** — once per session, **Stunt** at range to disarm or trip (one die, no attack) | *extraordinary: telekinesis, toned down* |
+| 11 | **Telekinetic tug** — once per session, **Man-handle** at range to trip or shove without a Spark; Fuel it with one die | *extraordinary: telekinesis, toned down* |
 | 12 | **Purpose sting** — vs the sword's designated quarry, on a Sweet hit the foe must **Defend** or suffer a brief **Control** (into the dirt, drop weapon, or flee — Referee picks) | *special purpose alignment power, toned down* |
 
 **Weapons — +3-tier** *(OSE extraordinary / special purpose — still not a relic)*
@@ -145,7 +145,7 @@ Pick one per tier, or roll **d12** on the column. Re-roll duplicates. Route OSE 
 | 5 | **Detect magic** 3×/day within 20' while raised |
 | 6 | Mirror-bright; reflects gaze attacks once/fight at a **Defend** |
 | 7 | Holy water etched inside — **Turn Undead** once/session at **Heart** (brandish; see [[Burners Burn Undead#Fire Turns Undead, Fire Burns Undead]]) |
-| 8 | Arrow notch — first arrow each fight **Defended** as if one extra die spent |
+| 8 | Arrow notch — first arrow each fight **Defended** as if one extra die burned |
 | 9 | Rally flash — ally in front facing gains +1 on next **Morale** check |
 | 10 | Boss rings when struck by magic |
 | 11 | Never heavy — counts as one slot less for encumbrance fiction only |
@@ -159,7 +159,7 @@ Pick one per tier, or roll **d12** on the column. Re-roll duplicates. Route OSE 
 | 2 | **Cover** softens a breath or area effect at half the overrun |
 | 3 | **Bane-rim** — **ignores Resistance** for one Block or Defend vs the named quarry |
 | 4 | Once/session, **bind** an attacker's weapon when you **Block** or Defend cleanly |
-| 5 | Once/session, **Stunt** shove without spending an attack (foe your size or less) |
+| 5 | Once/session, **Man-handle** shove without a Spark; Fuel it with one die (foe your size or less) |
 | 6 | Catch missile — one ranged hit per session cut to 0 before armor |
 | 7 | **Ward** — first hostile spell each delve at you is **Defended** with +1 die |
 | 8 | **Phalanx** — while braced, allies in facing may treat you as **Cover** |
@@ -191,7 +191,7 @@ Pick one per tier, or roll **d12** on the column. Re-roll duplicates. Route OSE 
 |---|---|
 | 1 | **Bane-mail** — **ignores Resistance** from one blow per session vs quarry |
 | 2 | **Ward** — first hostile spell each delve: **Defend** with +1 die |
-| 3 | **Turn the blow** — once/session, treat AC as **+1** vs one blow |
+| 3 | **Soak trick** — once/session, treat AC as **+1** vs one blow |
 | 4 | **Close the gap** — once/delve, ignore one **called shot** to an uncovered location |
 | 5 | **Shed Cost** — lose one **lingering Cost** when you reach **full HP** |
 | 6 | **Shock cushion** — once/session, **Shock Check** at **+1** |

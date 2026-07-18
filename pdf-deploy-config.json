@@ -3,5 +3,9 @@
   "dest_dir": "/Users/paul/obsidian/mainvault/gm/rpg-original/burners/pdf",
   "copy_to": [
     "/Users/paul/Library/Containers/com.ratta.supernote/Data/Library/Application Support/com.ratta.supernote/1077336689350103040/Supernote/INBOX/Burners"
-  ]
+  ],
+  "extra_source_dirs": [
+    "/Users/paul/obsidian/mainvault/gm/rpg-original/burners/experiments"
+  ],
+  "extra_dest_dir": "/Users/paul/obsidian/mainvault/gm/rpg-original/burners/pdf-experiments"
 }

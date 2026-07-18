@@ -20,7 +20,7 @@ Magic is prepared, not spontaneous — but the preparation lives in **you**, not
 someone can snatch. A Sorcerer exists in two realms at once, and their pack proves it.
 Utility first — most spells solve problems (light, movement, control, ward); hostile
 magic lands through the same **Defend** economy as steel. The Sorcerer title (Sorcerie 1)
-switches casting on; a combat cast is one Action that spends at least SL Fuel dice
+switches casting on; a combat cast is one Action that burns at least SL Fuel dice
 (SL = the working's level) and rolls them for the **cast total**.
 
 ## Spells Are Cards
@@ -160,7 +160,7 @@ caster's craft.
 **The cast.**
 
 1. **Say what you do** — name the spell and its effect in the fiction.
-2. **Pay the Cost.** In combat, casting is one Action: commit at least SL Fuel dice
+2. **Pay the Cost.** In combat, casting is one Action: burn at least SL Fuel dice
    (SL = the working's level) and roll them for the **cast total**, as ever. Out of combat,
    roll **2d6 + Sorcerie** (or **2d6 + Craft** for Canting) against the Referee's Cost.
    Sparks, Double Spicy fumbles, and Defending against a spell run as written in
@@ -172,9 +172,9 @@ The caster is exposed like anyone taking an Action; struck mid-cast, you defend 
 like anyone. There is **no special cast penalty** — the hit does not abort the working or
 force the card to tap.
 
-**When a cast Sparks.** With a Spark you may spend it on the *working itself* — another
-target caught, a beat longer, a ward pierced (Referee's call) — or spend up to SL
-additional Fuel dice to push the effect further.
+**When a cast Sparks.** Fuel it with one or more additional Fuel dice, up to SL, and
+burn that Fuel on the *working itself* — another target caught, a beat longer, a ward
+pierced (Referee's call). Add no Fuel and the Spark fades.
 
 **Double Spicy** on a combat cast is a fumble — the working goes wrong (the Referee's worst
 fitting outcome: singe an ally, alert the ward, the card taps with no effect).
@@ -427,8 +427,8 @@ Each spell has a name, level, and effect on [[Burners Spells]] — run it as wri
 this chapter, the spell list, or the Referee says otherwise. Where a spell's effect must
 mesh with combat:
 
-- **HP and damage** that target a creature come off HP. Physical effects test against
-  AC after Defend (see [[Burners Principles#Harm and effect are separate lanes]]).
+- **HP and damage** that target a creature come off HP. Physical effects may be soaked by
+  AC before Defend (see [[Burners Principles#Harm and effect are separate lanes]]).
 - **Hostile magic** is opposed with **Defend** — Fuel dice vs the caster's cast total. A
   hostile cast where no fight is yet underway still rolls initiative. Choose whichever
   Approach fits; a spell may suggest one (*Defend: Sword*). Procedure: *Defending against
@@ -438,18 +438,18 @@ mesh with combat:
 
 ## Defending against a spell
 
-See [[Burners Principles#Granular Defend, binary armor]] and [[Burners Principles#Harm
+See [[Burners Principles#Granular defense, not binary save]] and [[Burners Principles#Harm
 and effect are separate lanes]].
 
 When a spell targets you with harm, control, or another hostile effect, the caster's
-**cast total** is the sum of the Fuel dice spent to cast (at least SL Fuel dice for a
+**cast total** is the sum of the Fuel dice burned to cast (at least SL Fuel dice for a
 level-SL working).
 
 **Roll initiative.** A hostile spell is an attack like any other. If no fight is yet
 underway, roll initiative — the caster gains no free first strike.
 
-You may **Defend** as against any blow: commit Fuel dice, roll them, sum the faces. Those
-dice are spent for the fight. Your **defense total** opposes the cast total. Choose
+You may **Defend** as against any blow: burn Fuel dice, roll them, sum the faces. Those
+dice are burned for the fight. Your **defense total** opposes the cast total. Choose
 whichever Approach fits; the spell may suggest one (*Defend: Sword*, *Defend: Heart*, and
 so on). Commit as many Fuel dice as you choose — no cap.
 

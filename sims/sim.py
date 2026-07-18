@@ -9,8 +9,8 @@ Models:
     hostile magic unlimited. In the dirt: every spent die is re-rolled
   - Block: spend one attack to redirect a blow aimed at an ally onto yourself
   - Sparks (spent 6) buy an extra attack / Block / Riposte
-  - Binary AC/Resistance: remaining damage <= threshold stops; higher damage sinks in whole
-  - Monsters: Cracked at 0 down to -Max HP (no AC/Resistance, no Fuel refill; next hit finishes);
+  - PC armor AC soaks; monsters use Resistance (if any) or folded-AC HP — never PC AC
+  - Monsters: Cracked at 0 down to -Max HP (no Resistance, no Fuel refill; next hit finishes);
     Splatted past -Max HP
   - Wound funnel: overflow → negative HP + severity → location → Shock (2d6+Sword vs severity);
     post-fight help + Craft survival or die
@@ -30,8 +30,6 @@ CHOKE = None
 PARTY_HP = None
 FIRE = False
 OGRE_HP = None
-# Kept as a comparison switch for old runs. Current rules are binary.
-BINARY_ARMOR = True
 
 
 def shock_result(twod6):
@@ -65,8 +63,8 @@ class C:
         self.side = side
         self.hp_max = hp_max
         self.hp = hp_max
-        self.armor = armor              # worn or natural AC, same bands for PCs and monsters
-        self.resistance = resistance    # named threshold; never added to AC
+        self.armor = armor              # PC AC; monsters use resistance instead
+        self.resistance = resistance    # monster per-blow soak (0 if AC was folded into HP)
         self.call_dice_fn = call_dice_fn
         self.attacks = attacks
         self.blow_dice = blow_dice
@@ -101,10 +99,10 @@ class C:
     def active(self):
         return not self.down and not self.dead
 
-    def threshold(self):
+    def soak(self):
         if self.monster and self.cracked:
             return 0
-        return max(self.armor, self.resistance)
+        return self.resistance if self.monster else self.armor
 
     def do_call(self):
         self.fuel = [d6() for _ in range(self.call_dice_fn())]
@@ -162,7 +160,7 @@ def spend_to_cut(defender, need, maxd):
             used += 1
             if die == 6:
                 sparked = True
-    elif (need == 2 or (BINARY_ARMOR and need == 1)) and used < maxd:
+    elif need == 2 and used < maxd:
         die = defender.spend()
         if die is not None:
             spent += die
@@ -182,40 +180,26 @@ def maybe_dirty_fight(defender, undef, maxd):
         defender.prone = True
 
 
-def apply_armor(remaining, threshold):
-    """Apply AC/Resistance to damage already cut by Fuel Defend."""
-    remaining = max(0, remaining)
-    if threshold <= 0:
-        return remaining
-    if BINARY_ARMOR:
-        # Threshold: bounce or full sink — never subtract.
-        return 0 if remaining <= threshold else remaining
-    return max(0, remaining - threshold)
-
-
 def defend(defender, raw, kind="melee"):
-    threshold = defender.threshold()
-    # Still aim to cut down to the armor threshold (same spend target either mode).
-    undef = max(0, raw - threshold)
+    soak = defender.soak()
+    undef = max(0, raw - soak)
     if undef == 0:
         return 0, False
     maxd = defend_cap(defender, kind)
     maybe_dirty_fight(defender, undef, maxd)
     if maxd <= 0 or not defender.fuel:
-        return apply_armor(raw, threshold), False
+        return undef, False
     if maxd == 1:
-        should_defend = undef >= 2 or undef >= (defender.hp if defender.hp > 0 else 1)
-        if BINARY_ARMOR:
-            # One point of cutting can turn a full hit into a complete bounce.
-            should_defend = raw > threshold
-        if should_defend:
+        if undef >= 2 or undef >= (defender.hp if defender.hp > 0 else 1):
             die = defender.spend()
             if die is None:
-                return apply_armor(raw, threshold), False
-            return apply_armor(raw - die, threshold), die == 6
-        return apply_armor(raw, threshold), False
+                return undef, False
+            net = max(0, raw - die - soak)
+            return net, die == 6
+        return undef, False
     spent, sparked = spend_to_cut(defender, undef, maxd)
-    return apply_armor(raw - spent, threshold), sparked
+    net = max(0, raw - spent - soak)
+    return net, sparked
 
 
 def wound(target, overflow):
@@ -332,7 +316,7 @@ def apply_hit(attacker, target, raw, target_allies, kind="melee"):
     if riposte and target.active and attacker.active and target.fuel:
         die = target.spend()
         if die is not None:
-            land(attacker, apply_armor(die, attacker.threshold()))
+            land(attacker, max(0, die - attacker.soak()))
 
 
 def take_turn(actor, allies, foes):
@@ -449,22 +433,22 @@ def make_party():
 
 
 def make_orc():
-    # HD 1, printed 1d8 HP, leather-equivalent AC 1.
-    return C("Orc", "foe", hp_max=random.randint(1, 8), armor=1,
+    # HD 1, soak 1 folded → printed 1d8 + 2; Resistance 0
+    return C("Orc", "foe", hp_max=random.randint(1, 8) + 2, armor=0,
              call_dice_fn=lambda: 4, attacks=1, blow_dice=1, reserve=1, monster=True)
 
 
 def make_ogre():
-    # HD 4+2; printed 4d6+2 HP; thick hide as leather AC 1.
-    hp = OGRE_HP if OGRE_HP is not None else sum(d6() for _ in range(4)) + 2
-    return C("Ogre", "foe", hp_max=hp, armor=1,
+    # HD 4+2; printed 4d6+2; soak 1 folded → +2*1*4 = +8; club still 3 dice (size)
+    hp = OGRE_HP if OGRE_HP is not None else sum(d6() for _ in range(4)) + 2 + 8
+    return C("Ogre", "foe", hp_max=hp, armor=0,
              call_dice_fn=lambda: 10, attacks=OGRE_ATTACKS, blow_dice=3, reserve=3,
              monster=True)
 
 
 def make_troll():
-    # HD 5; HP 5*HD; rubbery hide as gambeson AC 2; claw/claw/bite.
-    return C("Troll", "foe", hp_max=25, armor=2,
+    # HD 5; HP 5*HD + fold soak 2 → 25 + 20 = 45; claw/claw/bite
+    return C("Troll", "foe", hp_max=45, armor=0,
              call_dice_fn=lambda: 9, attacks=3, blow_dice=1, reserve=3,
              monster=True, regen=TROLL_REGEN)
 

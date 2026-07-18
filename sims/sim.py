@@ -10,7 +10,8 @@ Models:
   - Block: spend one attack to redirect a blow aimed at an ally onto yourself
   - Sparks (spent 6) buy an extra attack / Block / Riposte
   - Binary AC/Resistance: remaining damage <= threshold stops; higher damage sinks in whole
-  - Monsters use the same AC bands; at 0 HP they are Cracked and the next damaging hit drops them
+  - Monsters: Cracked at 0 down to -Max HP (no AC/Resistance, no Fuel refill; next hit finishes);
+    Splatted past -Max HP
   - Wound funnel: overflow → negative HP + severity → location → Shock (2d6+Sword vs severity);
     post-fight help + Craft survival or die
 
@@ -109,6 +110,8 @@ class C:
         self.fuel = [d6() for _ in range(self.call_dice_fn())]
 
     def refill(self):
+        if self.monster and self.cracked:
+            return
         if self.forfeit_refill:
             self.forfeit_refill = False
             return
@@ -281,8 +284,11 @@ def land(target, net):
         if target.cracked:
             target.dead = True
             return
-        target.hp = max(0, target.hp - net)
-        if target.hp == 0:
+        target.hp -= net
+        if target.hp <= -target.hp_max:
+            target.dead = True  # Splatted!
+            return
+        if target.hp <= 0:
             target.cracked = True
         return
     if target.hp > 0:

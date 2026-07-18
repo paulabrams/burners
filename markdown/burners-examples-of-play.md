@@ -59,7 +59,7 @@ hero_alt: "Travelers on the road — Albert Robida"
 **Round 1.**
 
 - **Kragg** attacks: spends a 5 → rat 1 (5 HP) reaches 0: **Cracked!** He rolled a 6 — plays it as a **Spark** for a second attack, spends the 6 → the finishing blow drops rat 1.
-- **Brand** attacks: spends a 5 → rat 2 is **Cracked!**
+- **Brand** attacks: spends a 5 → rat 2 is **Cracked!** (no Fuel refill from here).
 - **Ilsa** (spear) attacks: spends a 4 → the Cracked rat drops.
 - **Rats** act: rats 3 and 4 bite Sefa. She Defends the first 3 with a 4. Against the second 4 she spends a 3; the 1 left goes *tink!* against leather AC 1.
 
@@ -99,11 +99,11 @@ Buried armed: **grave-sword** (2 slots) and a **grave-byrnie** (old chain, **AC 
 - **Ilsa** casts *Adhere* from her hand (Thaumaturgy 1) — one Action, spend at least 1 Fuel die and roll it: a 5 → **cast total 5**. The card **taps**. The wight **Defends** (no cap vs magic), committing a 2 → **overrun 3**. The working sticks its sword-arm to the grave-byrnie — effect lane, **no HP**. Wight stays **11**. *(Ilsa Fuel 7→6; wight 6→5 dice.)*
 - **Sefa**, silvered knife (ignores Resistance): 1 die = 6. Wight Defends freely (already meleed): a 2 → 4 left. That beats chain AC 3, so **all 4 hit.** Wight **6 → 2.**
 
-**Round 2.** Roll Initiative: refill +1 die each, lock order. The wight, having burned its 14-die burst, is winded — and its sword-arm is glued to its own mail.
+**Round 2.** Roll Initiative: refill +1 die each (Cracked foes get none), lock order. The wight, having burned its 14-die burst, is winded — and its sword-arm is glued to its own mail.
 
 - **Wight** spends its Action tearing at the stuck arm: one Fuel die spent to no avail this round — no blow lands. *(Stuck is the whole point of the card.)*
-- **Kragg**: 6,4 = 10. Having meleed, he will Defend freely for any further blows. Wight Defends its last die, a 2 → 8; that beats Resistance 5, so **all 8 hit.** Wight **2 → 0: Cracked!** Its protections are gone, but it still fights. *(Wight out of dice.)*
-- **Sefa** (silver): 5. The Cracked wight has no AC or Resistance. The finishing blow lands and the Cellarer falls — steel and silver dealt the damage; the working only took its arm out of the fight.
+- **Kragg**: 6,4 = 10. Having meleed, he will Defend freely for any further blows. Wight Defends its last die, a 2 → 8; that beats Resistance 5, so **all 8 hit.** Wight **2 → −6.** Max HP is 15, so −6 is still within −Max: **Cracked!** No AC, no Resistance, no more Fuel refill. *(Wight out of dice.)*
+- **Sefa** (silver): 5. The Cracked wight has no protections and no refill. The finishing blow lands and the Cellarer falls — steel and silver dealt the damage; the working only took its arm out of the fight.
 - **Ilsa**: *Adhere* is tapped and the spear-arm is dead — she falls back and covers the door. Ready magic is what sits ready in her hand; sleep recovers up to Sorcerie Level cards.
 - Threat overcome → **vent 2 → Heat 7.**
 
@@ -125,8 +125,8 @@ Buried armed: **grave-sword** (2 slots) and a **grave-byrnie** (old chain, **AC 
 
 - **OSE clocks unchanged:** 10-minute turns, torch tracking, wandering checks every 2nd turn at 1-in-6.
 - **One roll out of combat:** `2d6 + Approach` vs Cost. Traps — see [[Burners Principles#Pools, not fixed numbers]].
-- **Fuel is rolled on each Roll Initiative** — full pool on round 1; from round 2 on, refill one Fuel die per character level and roll those in, then lock order. The wight's 14-dice pool (swollen by 9 Heat) made round 1 murderous; by round 2 the refill was thin and the fight turned. A hot scene hits hardest on the first exchange.
-- **Damage is the faces of committed dice**, cut by the defender's committed dice. Then compare what remains with the highest applicable AC or Resistance: at or below it the blow stops; above it the full remainder hits HP. A blow is one die; a weapon of 3+ slots wielded in two hands can add a second.
+- **Fuel is rolled on each Roll Initiative** — full pool on round 1; from round 2 on, refill one Fuel die per character level and roll those in, then lock order. **Cracked** monsters get no refill. The wight's 14-dice pool (swollen by 9 Heat) made round 1 murderous; by round 2 the refill was thin and the fight turned. A hot scene hits hardest on the first exchange.
+- **Damage is the faces of committed dice**, cut by the defender's committed dice. Then compare what remains with the highest applicable AC or Resistance: at or below it the blow stops; above it the full remainder hits HP. A blow is one die; a weapon of 3+ slots wielded in two hands can add a second. Monsters at **0 down to −Max HP** are **Cracked!** (no AC/Resistance, no Fuel refill; next damaging hit finishes). **Past −Max HP** they are **Splatted!**
 - **Defense:** melee 1 die (no limit once you have meleed this round); missile 1 die (2 with Cover); magic no limit. **Block** spends one melee attack to redirect a blow onto yourself. **Cover** lets you spend 2 vs a missile; Spark while using a melee foe as Cover dumps the shot into them.
 - **The Wound model:** see [[Burners Principles#HP is plot armor; past 0 it gets real]].
 - **Casting is the same economy:** Ilsa's *Adhere* was one Action, one Fuel die rolled for the **cast total**; the card **tapped**; the wight Defended with a die of its own and ate the **overrun** as control — sword-arm stuck, no HP lost. Hostile utility spends the same Fuel pool as steel, and lives in the effect lane. Sleep recovers up to Sorcerie Level cards.

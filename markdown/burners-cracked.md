@@ -11,8 +11,8 @@ status: active
 
 | Remaining Damage vs AC | Result |
 |---|---|
-| **≤ Harden** | *Tink!* — no damage |
-| **> Harden** | **Full** damage (nothing subtracted) |
+| **≤ AC** | *Tink!* — no damage |
+| **> AC** | **Full** damage (nothing subtracted) |
 
 Always express armor and natural protection in the same human terms:
 
@@ -29,6 +29,20 @@ Fiction is kit when it wears kit: *that orc is in gambeson*, *mail*, *plate*. Na
 
 **Poleax Spark:** break armor instead of taking the extra action. Resolve that blow at AC 0; that armor gives no AC for the rest of the fight.
 
-**0 HP → Cracked!** Still fights. AC and Resistance are gone; the next hit drops them — even a 1 finishes.
-
 Named Resistance (silver, fire…) uses the same binary rule. AC and Resistance never add; use the highest applicable threshold.
+
+## Cracked! and Splatted!
+
+Damage through armor comes off HP.
+
+| Monster HP | Result |
+|---|---|
+| **Above 0** | Still fighting |
+| **0 down to −Max HP** | **Cracked!** |
+| **Past −Max HP** | **Splatted!** — dead now |
+
+**Cracked!** No AC. No Resistance. No Fuel refill on Roll Initiative. Keep whatever Fuel remains; spend it if you must. The next damaging hit finishes them — even a 1.
+
+In play, Cracked monsters often whimper off, flee, or surrender. The Ref naturally shifts Fuel and attention to whoever is still standing.
+
+Named or solo foes may use full PC Wounds and Shock instead.

@@ -47,7 +47,7 @@ kill you — not a single failed save, not the passage of time alone.
 
 Steel and sorcery share the same pool. The danger is the turn you are winded with workings still flying.
 
-**Taking foes out:** chip a monster to 0 and shout **Cracked!** It fights on, AC and Resistance gone; the next blow fells it. One-shots belong to the genuinely weak. Mooks fall fast; bosses are a siege.
+**Taking foes out:** chip a monster to 0 and shout **Cracked!** No AC, no Resistance, no Fuel refill — the next damaging hit finishes it. Overflow past −Max HP is **Splatted!** One-shots belong to the genuinely weak. Mooks fall fast; bosses are a siege.
 
 ---
 

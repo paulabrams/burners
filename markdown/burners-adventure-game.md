@@ -146,7 +146,7 @@ Quick definitions. Details live in the chapters below.
 
 ### Monsters
 
-- **Monster:** an enemy, regardless of species. Its Hit Dice are its level; its HP is 5 per Hit Die plus any modifier. Its armor, hide, or shell uses the same AC bands as human armor: an orc in leather is AC 1; a giant crab is as plate, AC 4. At 0 HP it is **Cracked!** and fights on; the next blow drops it. AC and Resistance no longer protect a Cracked monster — even Damage 1 finishes. A fierce or many-limbed foe makes extra attacks by its nature; a named or solo foe may take the full Wound and Shock Check rules instead when the scene calls for it.
+- **Monster:** an enemy, regardless of species. Its Hit Dice are its level; its HP is 5 per Hit Die plus any modifier. Its armor, hide, or shell uses the same AC bands as human armor: an orc in leather is AC 1; a giant crab is as plate, AC 4. Damage through armor comes off HP: **above 0** it fights; **0 down to −Max HP** it is **Cracked!** (no AC, no Resistance, no Fuel refill; next damaging hit finishes it); **past −Max HP** it is **Splatted!** A fierce or many-limbed foe makes extra attacks by its nature; a named or solo foe may take the full Wound and Shock Check rules instead when the scene calls for it.
 
 - **Damage:** the faces of the dice committed to a blow, cut by Defend. Armor and Resistance then test what remains: at or below the applicable number, the blow stops; above it, the full remainder hits HP.
 

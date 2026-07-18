@@ -178,7 +178,7 @@ AC is a threshold, not subtraction. After Defend, Damage at or below AC goes *ti
 
 - **HP** is 5 per Hit Die (or the module's printed value) — see [[Burners Principles#Attrition, not spike damage]]. A solo boss wants enough HP to survive the party's first-round burst.
 
-- **Cracked!** At 0 HP a monster stays active, but its AC and Resistance no longer apply. The next blow drops it — even Damage 1. Named or solo foes may use full PC Wounds and Shock instead.
+- **Cracked! / Splatted!** Damage through armor comes off HP. At **0 down to −Max HP** the monster is **Cracked!**: no AC, no Resistance, no Fuel refill on Roll Initiative. Keep remaining Fuel; the next damaging hit finishes it. **Past −Max HP** it is **Splatted!** — dead now. Cracked foes often flee or whimper off; uncracked monsters keep the free Fuel and do the real work. Named or solo foes may use full PC Wounds and Shock instead.
 
 ---
 

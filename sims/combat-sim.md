@@ -5,7 +5,8 @@ Monte Carlo pass of the Burners Fuel/Sparks engine under **binary armor**:
 - Defend cuts Damage first.
 - Remaining Damage at or below AC / Resistance stops; higher Damage sinks in whole.
 - Monsters use normal AC rather than folded-AC HP.
-- At 0 HP a monster is **Cracked!**; the next damaging hit drops it.
+- At **0 down to −Max HP** a monster is **Cracked!** (no AC/Resistance, no Fuel refill; next damaging hit drops it).
+- **Past −Max HP** it is **Splatted!**
 
 Simulator: `sims/sim.py`. Sample party: Aldric / Senna / Pip. Each baseline cell is 8,000 fights; curves use 4,000. Heat 6 unless noted. All-melee, no surprise, no ranged softening — a worst case that favors the monsters.
 
@@ -54,7 +55,7 @@ Front line (Aldric holds; monsters swing at him first):
 | 7 | 0.1 | 99.8 | 1.6 | 97.8 |
 | 8 | 0.0 | 100.0 | 0.2 | 99.6 |
 
-Front-line play buys roughly one orc of margin. Numbers drain Fuel, and every Cracked foe still needs a finishing blow.
+Front-line play buys roughly one orc of margin. Numbers drain Fuel; Cracked foes get no refill and often fall to a finishing poke, while overkill past −Max HP Splats them outright.
 
 ## Solos and adds
 
@@ -66,7 +67,7 @@ Front-line play buys roughly one orc of margin. Numbers drain Fuel, and every Cr
 | Troll alone | 99.8 | 0.0 | 5.8 |
 | Troll + 2 Orcs | 62.3 | 20.3 | 20.7 |
 
-Adds split focus, eat Block budget, and survive for a finishing hit. A lone melee monster still cannot beat three focused Burners who have all meleed.
+Adds split focus, eat Block budget, and leave Cracked survivors with no refill. A lone melee monster still cannot beat three focused Burners who have all meleed.
 
 ## Troll regeneration
 
@@ -79,7 +80,7 @@ Solo troll, open, Heat 6. HP 25, hide as gambeson (AC 2):
 | 2 | 96.1 | 3.9 | 0.1 |
 | 3 | 87.5 | 12.4 | 0.1 |
 
-The simulator does not currently regenerate a troll after it reaches Cracked. Set `FIRE = True` to suppress regeneration before Cracked.
+The simulator does not regenerate a troll after it reaches Cracked (refill and regen both stop). Set `FIRE = True` to suppress regeneration before Cracked.
 
 ## Combatants
 

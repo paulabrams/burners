@@ -41,7 +41,7 @@ The hard ask is your own. Anyone the Fallen slew may look only dead — a friend
 ### Fallen Wounds
 
 - **Fallen:** as everyone knows, anyone slain by undead becomes undead.
-- **Fallen Wound:** a Wound opened by the Fallen. A Fallen Wound does not heal naturally, neither after rest nor sleep.
+- **Fallen Wound:** a Wound opened by the Fallen — an **aggravated Wound**. It does not heal naturally (rest, sleep, or the day's climb), and **normal healing spells and potions do not improve HP** until purified. Aggravated Wounds in general: [[Burners Adventure Game#Healing and recovery]].
   - **Midnight:** first night unclean, and each night after — deepen severity and HP by the Fallen that cut you, then Survival. Husk (skeleton, zombie, or other Fallen with no level drain): deepen by **1**. Major Fallen (wight, wraith, spectre, vampire, or any with level drain): roll `1d6` + `1d6` per drain (wight drain 1: `2d6`; drain 2: `3d6`).
 - **Purge:** 1 Turn. Spend one Incendiary; deepen severity and HP as Midnight; then Survival. Live: Wound purified. Die: no spawn.
 - **Survival:** immediate `2d6 + Craft` vs severity (helped if a friend holds you). Fail or alone → die. Die unclean → spawn. Live after Midnight: still unclean.

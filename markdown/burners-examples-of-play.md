@@ -82,7 +82,7 @@ hero_alt: "Travelers on the road — Albert Robida"
 
 ### Combat 2 — The Cellarer (a wight). Heat 7 → 9
 
-Buried armed: **grave-sword** (2 slots) and a **grave-byrnie** (old chain — loot for a Burner, not AC on the block). HD 3 → **15 HP**. **Resistance 5 vs mundane arms** — grave-cold flesh and the mail as one wall — with silver the named weakness (it ignores the Resistance). The Referee announces it rising from its bier: **+2 Heat → 9.**
+Buried armed: **grave-sword** (2 slots) and a **grave-byrnie** (old chain — loot for a Burner, not AC on the block). HD 3 → **18 HP** (15 base + 3 for Resistance 5). **Resistance 5 vs mundane arms** — grave-cold flesh and the mail as one wall — with silver the named weakness (grants **+1 extra die** on attacks). The Referee announces it rising from its bier: **+2 Heat → 9.**
 
 **Rolling Initiative.** The wight's pool is **14 dice** — 3 (HD) + 2 (sword) + 9 (Heat) — the hot scene fighting back hard. It reads six 3s/4s: **Initiative 6, first**. As a named foe it takes the full Wound rules and strikes twice.
 
@@ -97,13 +97,13 @@ Buried armed: **grave-sword** (2 slots) and a **grave-byrnie** (old chain — lo
   - Blow B: 5,4 = 9. Resistance 5 leaves 4; Wight burns a 5 → **0.** Nothing. *(Wight Fuel 9→7.)*
 - **Brand** attacks: sword, 1 die = 6. Resistance 5 leaves 1; Wight burns a 4 → **0.** *(Wight 7→6 dice.)*
 - **Ilsa** casts *Adhere* from her hand (Thaumaturgy 1) — one Action, burn at least 1 Fuel die and roll it: a 5 → **cast total 5**. The card **taps**. The wight **Defends** (no cap vs magic), burning a 2 → **overrun 3**. The working sticks its sword-arm to the grave-byrnie — effect lane, **no HP**. Wight stays **11**. *(Ilsa Fuel 7→6; wight 6→5 dice.)*
-- **Sefa**, silvered knife (ignores Resistance): 1 die = 6. Wight Defends freely (already meleed): a 2 → 6−2 = **4** through. Wight **11 → 7.**
+- **Sefa**, silvered knife (grants +1 die vs silver weakness): **2 dice** = 6,3 = 9. Wight Defends freely (already meleed): burns 2 dice → 9−2 = 7, −5 Resistance = **2** through. Wight **11 → 9.**
 
 **Round 2.** Roll Initiative: refill +1 die each, lock order. The wight, having burned its 14-die burst, is winded — and its sword-arm is glued to its own mail.
 
 - **Wight** spends its Action tearing at the stuck arm: one Fuel die burned to no avail this round — no blow lands. *(Stuck is the whole point of the card.)*
 - **Kragg**: 6,4 = 10. Having meleed, he will Defend freely for any further blows. Wight Defends its last die, a 2 → 8, −5 = **3.** Wight **7 → 4.** *(Even now, mundane barely tells.)*
-- **Sefa** (silver): 5. Wight out of dice → no defense. Resistance bypassed → **5** through → past 0 by 1: **the killing Wound.** The Cellarer falls — steel and silver dealt the damage; the working only took its arm out of the fight.
+- **Sefa** (silver knife grants +1 die): **2 dice** = 5,4 = 9. Wight out of dice → no defense. 9 − 5 Resistance = **4** through → past 0 by 1: **the killing Wound.** The Cellarer falls — steel and silver dealt the damage; the working only took its arm out of the fight.
 - **Ilsa**: *Adhere* is tapped and the spear-arm is dead — she falls back and covers the door. Ready magic is what sits ready in her hand; sleep recovers up to Sorcerie Level cards.
 - Threat overcome → **vent 2 → Heat 7.**
 

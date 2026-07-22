@@ -62,7 +62,7 @@ Prefer the monster's **printed XP** from the [OSE SRD](http://oldschoolessential
 | AC → Armor soak | Cleric Turn Undead as written |
 | Attacks / damage die → claw/weapon slots | Anything that contradicts fire / Fallen Wound |
 | Printed specials you keep (gaseous form, regen, charm…) | — |
-| Silver / magic to hit → Resistance (weakness bypasses) | — |
+| Silver / magic to hit → Resistance (weakness grants +1 die) | — |
 
 **Husk or Major Fallen?** OSE name tells Midnight deepen (XP from SRD):
 

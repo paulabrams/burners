@@ -1001,7 +1001,7 @@ Thaumaturgy 3: Repair one broken mundane object up to chair-size; magical items 
 
 #### Mind Shatter
 
-Umbrakala 3: Psychic — ignores Resistance. Defend; overrun to HP **or** stunned 1 turn if defense < cast (not both).
+Umbrakala 3: Psychic — no AC. Defend; overrun to HP **or** stunned 1 turn if defense < cast (not both). Resistance applies.
 
 #### Mirror Image
 
@@ -1041,11 +1041,11 @@ Vitae 3: Sorcerie creatures in sight develop an intense hatred of violence for S
 
 #### Pain Echo
 
-Necromantia 3: One creature feels your wound pain; if you have an open wound, they take **1d6** HP (ignores Resistance).
+Necromantia 3: One creature feels your wound pain; if you have an open wound, they take **1d6** HP (no AC, Resistance applies).
 
 #### Phantasmal Force
 
-Illusione 3: Moving illusion. If believed: psychic — ignores AC. Defend; overrun to HP (− Resistance).
+Illusione 3: Moving illusion. If believed: psychic — no AC. Defend; overrun to HP (Resistance applies).
 
 #### Phantom Sound
 

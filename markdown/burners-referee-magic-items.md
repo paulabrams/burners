@@ -72,7 +72,7 @@ Potions, rings, cursed items, and wondrous items port as written in [[Burners OS
 OSE treasure swords ([SRD: Swords](https://oldschoolessentials.necroticgnome.com/srd/index.php/Swords)) layer three kinds of bonus:
 
 1. **The plus** — attack and damage bonus → Burners **enchanted** (no to-hit).
-2. **Bane vs type** — *"+2 vs lycanthropes"*, *"+3 vs undead"* → a +1-tier or +2-tier power that ignores Resistance (or reads as silver) vs that quarry — not a bigger number.
+2. **Bane vs type** — *"+2 vs lycanthropes"*, *"+3 vs undead"* → a +1-tier or +2-tier power that grants an **extra die** (or reads as silver) vs that quarry — not a bigger number.
 3. **Named power** — *flaming*, *light*, *locate objects*, *charm person*, *energy drain*, *wishes* → assign to **+1 / +2 / +3** tiers by potency (below).
 
 **Sentient swords** (30% of magic swords; [SRD: Sentient Swords](https://oldschoolessentials.necroticgnome.com/srd/index.php/Sentient_Swords)) are a **layer on enchanted kit**, not a smaller find: roll INT, Ego, alignment, sensory and extraordinary powers, optional special purpose. Use that procedure when the module implies personality, control checks, or speech — and remember every *+1 longsword* is already magic steel that might one day speak. Convert **enchanted + powers** first (Trait acceptance); add INT/Ego and the sensory/extraordinary tables on top. There is no separate Oracle roll for acceptance — the kit Trait is the gate.
@@ -87,8 +87,8 @@ Pick one per tier, or roll **d12** on the column. Re-roll duplicates. Route OSE 
 
 | d12 | Power | OSE root |
 |---|---|---|
-| 1 | **Bane-hint** — hums or chills within 20' of the named quarry (undead, lycanthropes, dragons, spellcasters, enchanted things); does not bypass Resistance until the **+2** power is found | *+2/+3 vs type* |
-| 2 | **Silver-edge** — counts as **silver** vs Resistance once per fight | *vs lycanthropes* |
+| 1 | **Bane-hint** — hums or chills within 20' of the named quarry (undead, lycanthropes, dragons, spellcasters, enchanted things); does not grant extra die until the **+2** power is found | *+2/+3 vs type* |
+| 2 | **Silver-edge** — counts as **silver** vs Resistance once per fight; grants **+1 extra die** vs creatures with silver weakness | *vs lycanthropes* |
 | 3 | **Detect magic** — on command, magic within 20' may be made to glow; 3×/day | *sensory: detect magic* |
 | 4 | **Detect trap** — sense traps within 10'; 3×/day | *sensory: detect traps* |
 | 5 | **Secret door** — find secret doors within 10'; 3×/day | *sensory: locate secret doors* |
@@ -104,7 +104,7 @@ Pick one per tier, or roll **d12** on the column. Re-roll duplicates. Route OSE 
 
 | d12 | Power | OSE root |
 |---|---|---|
-| 1 | **Bane-forged** — **ignores Resistance** vs the named quarry (undead, dragons, regenerating foes, enchanted creatures, spellcasters) | *+3 vs type* |
+| 1 | **Bane-forged** — grants **+1 extra die** on attacks vs the named quarry (undead, dragons, regenerating foes, enchanted creatures, spellcasters) | *+3 vs type* |
 | 2 | **Flaming** — blade ignites on command; once per session, +1 effective blow die vs trolls, plant-things, or undead while lit | *Sword +1, Flaming* |
 | 3 | **Locate object** — once per day, sense one named object-type within 120' | *Sword +1, Locate Objects* |
 | 4 | **Charm** — once per week, a **Control** working (Heart vs Heart) on one touched foe — it lands or it doesn't, and it is not puppetry | *Sword +2, Charm Person* |
@@ -121,7 +121,7 @@ Pick one per tier, or roll **d12** on the column. Re-roll duplicates. Route OSE 
 
 | d12 | Power | OSE root |
 |---|---|---|
-| 1 | **Deep Bane** — **ignores Resistance** vs quarry; once per delve, a killing blow on-quarry cannot be shrugged off (no instant death — drives to **0 HP** and holds) | *special purpose* |
+| 1 | **Deep Bane** — grants **+1 extra die** vs quarry; once per delve, a killing blow on-quarry cannot be shrugged off (no instant death — drives to **0 HP** and holds) | *special purpose* |
 | 2 | **Draining nick** — once per delve, a Sweet hit on a living foe costs them **1 HP from their maximum** until cured by rest (not OSE level drain) | *energy drain, heavily toned down* |
 | 3 | **Spark on 5** — once per delve, treat a rolled **5** as a **Spark** | *extra damage, one shot* |
 | 4 | **Ward spell** — once per delve, fully **Defend** one hostile spell (compare totals) | *protection from magic* |
@@ -157,7 +157,7 @@ Pick one per tier, or roll **d12** on the column. Re-roll duplicates. Route OSE 
 |---|---|
 | 1 | **Block** once/session: redirect a blow onto yourself without spending an attack |
 | 2 | **Cover** softens a breath or area effect at half the overrun |
-| 3 | **Bane-rim** — **ignores Resistance** for one Block or Defend vs the named quarry |
+| 3 | **Bane-rim** — grants **+1 extra die** for one Block or Defend vs the named quarry |
 | 4 | Once/session, **bind** an attacker's weapon when you **Block** or Defend cleanly |
 | 5 | Once/session, **Man-handle** shove without a Spark; Fuel it with one die (foe your size or less) |
 | 6 | Catch missile — one ranged hit per session cut to 0 before armor |
@@ -189,7 +189,7 @@ Pick one per tier, or roll **d12** on the column. Re-roll duplicates. Route OSE 
 
 | d12 | Power |
 |---|---|
-| 1 | **Bane-mail** — **ignores Resistance** from one blow per session vs quarry |
+| 1 | **Bane-mail** — grants **+1 extra die** on one attack per session vs quarry |
 | 2 | **Ward** — first hostile spell each delve: **Defend** with +1 die |
 | 3 | **Soak trick** — once/session, treat AC as **+1** vs one blow |
 | 4 | **Close the gap** — once/delve, ignore one **called shot** to an uncovered location |

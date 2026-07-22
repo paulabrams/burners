@@ -179,11 +179,15 @@ See [[Burners Principles#Armor and Resistance soak; they never roll]].
 
 | OSE says | Burners Resistance | The feel |
 |---|---|---|
-| Silver or magic to hit | **Resistance ~3–4** vs mundane arms; silver (or the named weakness) **bypasses it entirely** | *Resistant.* Soldiers grind it down slowly; a mob still drags it under; the smart play is the weakness. |
-| +1 or better to hit | **High Resistance** vs mundane arms — enough that ordinary blows barely tell — bypassed by a legendary/named blade or the stated weakness | *Unearthly.* Mortal steel is folklore against it; the right edge makes it mortal. |
-| +2/+3 or better to hit | **Not a bigger number** — the same high Resistance plus a weakness that must be *discovered*, or a fiction gate (*it cannot fall while the phylactery stands*) | *A puzzle wearing a stat.* |
+| Silver or magic to hit | **Resistance ~3–4** vs mundane arms; silver (or the named weakness) grants **+1 extra die** on attacks | *Resistant.* Soldiers grind it down slowly; a mob still drags it under; the smart play is the weakness. |
+| +1 or better to hit | **High Resistance ~5–6** vs mundane arms — enough that ordinary blows barely tell — exploited by a legendary/named blade or the stated weakness for **+1 extra die** | *Unearthly.* Mortal steel is folklore against it; the right edge makes it mortal. |
+| +2/+3 or better to hit | **Not a bigger number** — the same high Resistance plus a weakness that must be *discovered* (grants **+1 extra die** when found), or a fiction gate (*it cannot fall while the phylactery stands*) | *A puzzle wearing a stat.* |
 
-Every Resistance above a point or two **names its cause** — see [[Burners Principles#Armor and Resistance soak; they never roll]]. A named weakness **ignores** Resistance, the way a Bane-forged weapon ignores its quarry's soak (see [[Burners Arms and Armor]]).
+Every Resistance above a point or two **names its cause** — see [[Burners Principles#Armor and Resistance soak; they never roll]]. A named weakness grants an **extra die** on the attack, the way a Bane-forged weapon grants an extra die against its quarry (see [[Burners Arms and Armor]]).
+
+**Monsters with Resistance should be compensated.** When a creature has meaningful Resistance (3+), consider boosting its HP by **+3 to +5 per HD** or adding **+1 to +2 dice** to its pool to keep it threatening even when the weakness is exploited. The weakness should still feel rewarding, but the creature should remain dangerous.
+
+**Worked examples:** **Werewolf** (OSE: AC 5 [14], HD 4, 2 attacks, silver or +1 to hit) → **Resistance 4 vs mundane arms; silver +1 die.** HP **25** (20 + 5 boost). Pool = 4 (HD) + 2 per bite + Heat. **Wight** (OSE: AC 5 [14], HD 3, silver or +1 to hit) → **Resistance 5 vs mundane; silver +1 die.** HP **18** (15 + 3 boost). **Troll** (OSE: HD 6+3, regen, fire/acid stops it) → **Resistance 3 vs weapons; fire/acid +1 die + stops regen.** HP **38** (33 + 5 boost).
 
 **Undead & energy drain** (OSE): **no levels lost.** Any of the Fallen that **wounds** you opens a **Fallen Wound**. Midnight / Purge: husks deepen by **1**; drainers by `1d6` + `1d6` per OSE drain level (wight `2d6`). Immediate Craft survival; die unclean → spawn; die from purge → no spawn. See [[Burners Burn Undead#Fallen Wounds]] and [[Burners Principles#No instant death]].
 

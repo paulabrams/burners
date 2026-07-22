@@ -122,7 +122,7 @@ When porting material that prints a flat damage number (a trap, a breath quoted 
 
 **Monsters do not use AC.** Convert module or natural AC into extra HP, or into **Resistance vs weapons** when the creature is famous for its armor (knight, dragon). See [[Burners Referee Guide#Building and Running Monsters]] and [[Burners OSE Conversions]].
 
-**Resistance** is flat damage reduction against a **named kind** of harm — blades, fire, magic, weapons against famous hide. It comes off every hit of that kind before HP. It is never a **key**: no "only magic weapons can hurt this." Name the scope, and ideally name a weakness that bypasses it. Wear it down with weight of numbers, or find what it does not resist. A named weakness does not lower Resistance; it **ignores** it. Every Resistance above a point or two **names its cause** — a thing the party can learn and undo. Never fold Resistance into HP.
+**Resistance** is flat damage reduction against a **named kind** of harm — blades, fire, magic, weapons against famous hide. It comes off every hit of that kind before HP. It is never a **key**: no "only magic weapons can hurt this." Name the scope, and ideally name a weakness that **exploits** it. Wear it down with weight of numbers, or find what it does not resist. A named weakness does not lower Resistance; it grants an **extra die** on the attack. Every Resistance above a point or two **names its cause** — a thing the party can learn and undo. Never fold Resistance into HP.
 
 Twenty militia hacking a high-Resistance thing each land almost nothing while it kills them. That is correct; it is why the village hired Burners.
 

@@ -170,7 +170,15 @@ A monster is any enemy, built on a simple stat block of Hit Dice, HP, Resistance
 
 - **A heavy blow** is a weapon of 3+ slots wielded in two hands: it can add a second die to that blow.
 
-- **Resistance** — see [[Burners Principles#Armor and Resistance soak; they never roll]]. Name the scope; name a weakness. A troll regenerates until fire or acid; without it, flee or bring the flame.
+- **Resistance** — see [[Burners Principles#Armor and Resistance soak; they never roll]]. Name the scope; name a weakness. A troll regenerates until fire or acid; without it, flee or bring the flame. **Weaknesses grant an extra die** rather than bypassing Resistance — so a creature with meaningful Resistance (3+) should have **boosted HP** (add +3 to +5 per HD) or **extra dice** (add +1 to +2 to its pool) to remain threatening even when the weakness is exploited.
+
+**How weaknesses work:** When a Burner attacks with the named weakness (silver vs werewolf, fire vs mummy, can-opener vs giant crab shell), they burn **one extra die** on that attack. A 1-slot dagger normally burns 1 die; with silver against a werewolf it burns 2. A 3-slot spear wielded two-handed normally burns 2 dice; with fire-oil against a mummy it burns 3. The Resistance still applies — the extra die is more damage, not a bypass. This keeps resistant creatures dangerous even when their weakness is found, rewarding preparation without trivializing the fight.
+
+**Example creatures with Resistance:**
+
+- **Werewolf** — HD 4 → HP **25** (20 base + 5 for Resistance 4). **Resistance 4 vs mundane arms; silver grants +1 die.** Pool = 4 (HD) + 2 (bite d6) + Heat. Savage and fast; the silver burns but doesn't make it fragile.
+- **Mummy** — HD 5 → HP **30** (25 base + 5 for Resistance 5). **Resistance 5 vs weapons; fire grants +1 die.** Pool = 5 (HD) + 2 (fists d6) + Heat. **Shambling** (acts last). Dry wrappings catch flame, but the ancient dead are tough even burning.
+- **Giant Crab** — HD 3 → HP **20** (15 base + 5 for Resistance 5). **Resistance 5 vs cutting/piercing (shell); bludgeon or can-opener grants +1 die.** Pool = 3 (HD) + 3 (claws d8 each, two attacks) + Heat. That shell is legend; bring a mace.
 
 - **HP** is 5 per Hit Die (or the module's printed value) plus any folded-AC modifier — see [[Burners Principles#Attrition, not spike damage]]. A solo boss wants enough HP to survive the party's first-round burst.
 

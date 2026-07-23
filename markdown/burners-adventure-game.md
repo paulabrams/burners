@@ -49,7 +49,7 @@ Quick definitions. Details live in the chapters below.
 
 - **When you make a character:** you start at level 1. Put that level in one Approach. Write up to four Traits. You can leave blanks and fill them in later when play hands you the name. Roll 1d6 for starting HP.
 
-- **Trait:** a skill or quality: *lockpicking*, *steady under fire*, *knows the fens*. You tag each Trait to an Approach. Traits do not raise your Approach level. They say what you can do. Some actions need a specific Trait (like a magic school, languages, plate armor, or a complex greatsword or longbow). Use a Trait well in play and it can earn a **Signature**.
+- **Trait:** a skill or quality: *lockpicking*, *steady under fire*, *knows the fens*. You tag each Trait to its Approach — the lists under *Traits* are locked homes, not soft samples. Traits do not raise your Approach level. They say what you can do. Some actions need a specific Trait (like a magic school, languages, plate armor, or a complex greatsword or longbow). Use a Trait well in play and it can earn a **Signature**.
 
 - **Approach:** one of Sword, Craft, Heart, or Sorcerie.
 
@@ -155,13 +155,13 @@ To pick a people to come from (Northmaren, Southmaren, Elf, Alu, Kith, and the r
 
 On your sheet, a Trait is a skill or a quality: arming sword, herbalism, strong, perceptive, raised in the fens. You hold up to four Traits per character level, each tagged to an Approach. A Trait does not raise that Approach; your level does. You need not claim all four at each level. A delayed Trait costs nothing, so you can fill one in whenever play hands you the name. Traits come free with your levels. You never buy them with XP.
 
-Sample Traits by Approach:
+**Traits by Approach — locked.** Each Trait belongs to one Approach. Write it under that Approach and nowhere else. Martial arms and armor are Sword (see *Arms and Armor*); languages are Heart; magic schools are Sorcerie. *Peasant weapons* (tools and hunting implements) are Craft. The lists below are the homes — not samples you may rehome.
 
 - **Sword** — arms, armor, and the fight.
   - Skills: dagger, club, spear, axe, arming sword, mace, flail, bow, crossbow, shield, wrestling, boxing, ambush, tactics, cavalry, warhorse, siege, heraldry, scouting. Trained-only: greatsword, poleax, longbow, plate armor.
   - Qualities: strong, fearless, relentless, steady, iron-willed, veteran, hard to kill, courageous, steady under fire, dragon-scarred.
 - **Craft** — the practical skills of daily life.
-  - Skills: lockpicking, stealth, tracking, trapping, disguise, sailing, herbalism, smithing, bowyer, fletcher, carpentry, navigation, climbing, swimming, survival, bushcraft, wood lore, hunting, dogs, falconry, first aid, appraisal, rope use. School Trait:
+  - Skills: lockpicking, stealth, tracking, trapping, disguise, sailing, herbalism, smithing, bowyer, fletcher, carpentry, navigation, climbing, swimming, survival, bushcraft, wood lore, hunting, dogs, falconry, first aid, appraisal, rope use. Peasant weapons: knife, hatchet, wood ax, hunting bow, spear, club, sickle, scythe, grain flail, pitchfork, shovel.
   - Qualities: nimble, observant, patient, resourceful, quiet, cunning, light-fingered, sure-footed, raised in the fens, knows the woods.
   - Magic Schools: *Canting* (see below)
 - **Heart** — people, nerve, and presence.
@@ -173,7 +173,24 @@ Sample Traits by Approach:
   - Arts (not schools): divination, alchemy, binding, ancient lore — learned as Traits or from books, as the table prefers.
   - Magic Schools: *Sorcerie*, *Vitae*, *Elementale*, *Thaumaturgy*, *Illusione*, *Umbrakala*, *Necromantia*, *Canting* (see below)
 
-#### Languages (Heart)
+### Arms and Armor (Sword)
+
+Traits for weapons, shields, and armor are **Sword**. Write *arming sword*, *poleax*, *plate armor*, *heater*, *longbow* under Sword — never under Craft, Heart, or Sorcerie. The common folk may take *peasant weapons* under Craft, which are effectively "weapon-like tools" of the common man, hunting implements, and the like. (Examples: knife, hatchet, wood ax, hunting bow, spear, club, sickle, scythe, grain flail, pitch fork, shovel, etc.)
+
+**Open kit.** Most weapons and armor work in a fight with no Trait — AC, slots, and blows as written. A Trait is still how you earn a Signature on that kit, and how enchanted steel accepts you.
+
+**Trained-only.** Some kit needs a Trait before it works in a fight (no AC from that harness, no Initiative dice from that weapon or shield, no blows with it):
+
+- **Plate**: plate mail, field plate, full plate (*plate armor*)
+- **Greatsword**
+- **Poleax** or **halberd**
+- **Longbow**
+
+Chain mail stays open. It is heavy and awkward, but it is not a harness you have to learn the way plate is. Fuller catalog tags: [[Burners Arms and Armor]]. Buy-list: *Weapons, Armor, and Shields* below.
+
+**Enchanted arms and armor.** Magic weapons, shields, and armor answer only a fitting Trait — without it you swing ordinary steel (Slots, AC, faces) and the magic stays quiet. Most martial Traits sit under Sword, so **Veterans** usually claim the magic steel. A Journeyman with *hunting bow* can still be accepted by a magic hunting bow. Full rule: *Enchanted Arms and Armor*.
+
+### Languages (Heart)
 
 **Common tongues**:
 
@@ -187,11 +204,7 @@ When taking a Trait in a trade tongue, you can choose specific dialect: Alornean
 
 Other languages will be unfamilar to you unless you have a Trait; they are trained-only.
 
-#### Trained Only
-
-A Trait can gate a thing: without that Trait you cannot attempt it. Magic schools work this way (no Trait in the school, no reading or casting it). So do complicated arms and armor; *Training* under *Weapons, Armor, and Shields*.
-
-#### Magic Schools (Sorcerie)
+### Magic Schools (Sorcerie)
 
 Magic schools are Sorcerie Traits, and trained-only. Hold the Trait and the school is open; without it you cannot read or cast that tradition. Spells inside an open school are still learned from books. The eight schools:
 
@@ -310,18 +323,7 @@ A weapon's **slots** are the dice it throws on your Initiative roll and the spac
 
 #### Training
 
-Most kit is open. Strap on leather or mail, pick up a spear or an arming sword, hold a heater: you get the AC, the slots, and the blows.
-
-Some kit is **trained-only**. Without a Trait for it, you cannot use it in a fight (no AC from that harness, no Initiative dice from that weapon or shield, no blows with it). Examples:
-
-- **Plate**: plate mail, field plate, full plate (*plate armor*)
-- **Greatsword**
-- **Poleax** or **halberd**
-- **Longbow**
-
-Chain mail stays open. It is heavy and awkward, but it is not a harness you have to learn the way plate is.
-
-Enchanted kit and the extra die are separate: see *Enchanted Arms and Armor*.
+Open kit, trained-only kit, and where those Traits live: *Arms and Armor (Sword)* under Character Creation. Enchanted kit and the extra die: *Enchanted Arms and Armor*.
 
 ### Experience
 
@@ -373,7 +375,7 @@ Heat is the other track. It is not a pool of hit points. It is the scene's press
 
 Armor is what you wear. It soaks on the way in. Its AC comes off every blow before your HP. AC runs from 1 to 5 by make: leather 1, gambeson 2, chain mail 3, plate mail and field plate 4, full plate 5. Heavy harness eats more of your twelve and leaves a thinner pool when you roll Initiative. Leather, gambeson, and mail are open. **Plate is trained-only** (see *Training* under *Weapons, Armor, and Shields*). Armor keeps you from being worn down, not from being cut once you are down. In heavy armor you lose HP slowly, but the Wound you take past 0 is raw.
 
-## Sample Traits by Approach
+## Traits by Approach
 
 See *Traits* under Character Creation.
 

@@ -240,6 +240,8 @@ Catalog **size** tags below are labels for look and heft — use Burners **slots
 
 The Eldar of aeons past made many things — dark and beautiful, bright and deadly. You might find Eldar relics in deep caverns or guardian battles, or meet Eldar (living or undead) wielding archaic blades of mysterious metals. The mightiest works are named in story, often borne by famous (or infamous) heroes.
 
+**Trait acceptance.** Enchanted weapons, shields, and armor answer only someone who holds the fitting **Trait** for that kit (*arming sword*, *longbow*, *chain mail*, *heater*…). Without the Trait you may carry and swing them as ordinary steel — Slots, AC, faces — but the magic stays quiet (no extra die, no powers). Most martial Traits sit under **Sword**, so **Veterans** usually claim the magic arms and harness. A Journeyman with *hunting bow* can still be accepted by a magic hunting bow. Full rule: [[Burners Adventure Game#Enchanted Arms and Armor]].
+
 **Designing Eldar items** — think in terms of Signatures. *"Drisi Orichalcum plate armor"* protects vs hostile magic (Resistance to magic where it covers you); a *"Drisi Vakaar Dagger"* could open Wounds that resist ordinary healing and make the Shock Check harder; the *"Avathar Book of Shadows"* carries a "shadow magic" Signature. Be creative and flexible rather than definitive.
 
 ### Eldar Materials
@@ -309,6 +311,8 @@ Some Baal-Mot, Drisi, and Black Wizards tap the vast power of dead dragons — b
 ### Ithilrhi (Elven) Items
 
 - **Ithilrhi (Elven) Chainmail** `[Class3 Slots5 3Qtr-Armor Custom]` — a suit of tiny interlocking rings. If custom-made for the wearer it does **not** require a gambeson (normally needed for chain mail) and can be worn under clothing. Treat as chain mail (AC 3) unless the find says otherwise; custom fit may ride lighter (Referee).
+- **Runesword** `[varies by sword type]` — legendary rune-inscribed sword wielded by Eldar battlesingers. Needs a Sword Trait for the sword type (*arming sword*, *longsword*, *greatsword*…).
+- **Singing Bow** — an Elven warbow exquisitely carved and inlaid with silver leaf, channeling vim into arrows as they leave the bow. Needs a Sword Trait (*longbow* / *warbow*; Trained).
 
 ### Arcana (Wizard Drip)
 
@@ -320,8 +324,6 @@ Sorcerers hold these in **Arcana slots** as Wizard Drip (see [[Burners Sorcerie]
 - **Hamsa** — an ornate amulet depicting the "hand of the goddess" with the third eye; worn on a chain or pin.
 - **Hex Hands** — your hands covered in magical tattoos, very potent when used together.
 - **Ioun Stone** — a rare stone, crystal ball, or dracontia. Held in one or two hands, or (when Trained) released to hover beside you.
-- **Runesword** `[varies by sword type]` — legendary rune-inscribed sword wielded by Eldar battlesingers.
-- **Singing Bow** — an Elven warbow exquisitely carved and inlaid with silver leaf, channeling vim into arrows as they leave the bow.
 - **Sorcerer's Focus** — your clean-shaven head tattooed with magical ink, tracing patterns to project your thoughts into reality.
 - **Summoner's Grimoire** — a book of summoning and binding rituals; the magic-user must recite the ritual directly from the book, often inscribing magic circles or patterns on the floor per the ritual.
 - **The Evil Eye** — one of your eyes capable of a truly malevolent glare, yet prone to becoming bloodshot if used too often.

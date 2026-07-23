@@ -7,17 +7,17 @@ hero_alt: "The faithful beasts — H. J. Ford"
 
 # Burners Ancestry
 
-*The complete **Ancestry** section (the races and peoples of the Dragon Isles) imported from **Legends of the Dragon Isles RPG**, for use with Burners (see [[Burners Adventure Game]]). Faithful to the source; structural run-together lines split, light typo fixes only.*
+*The races and peoples of the Dragon Isles, for use with Burners (see [[Burners Adventure Game]]).*
 
-> **Reading a Legends ancestry in Burners.** Each entry below ends in a block of Legends terms. Map them like this:
+> **Reading an ancestry block.** Each entry ends in a short pick-list. Map them like this:
 >
-> - **Themes** — feed your Burners **Theme**: your name or alias and a short "look" (*"Alu'Kel — desert screamer"*). A Legends Theme is also a mine for Traits.
+> - **Themes** — feed your Burners **Theme**: your name or alias and a short "look" (*"Alu'Kel — desert screamer"*). Also a mine for Traits.
 > - **Traits** — take as Burners **Traits**, each tagged to an Approach. Up to four per character level, backfilled as you go.
 > - **Assets** — gear. Buy from [[Burners Equipment]]; exotic pieces are in [[Burners Arms and Armor]], with **Slots** assigned there.
-> - **Secrets become Signatures** — see [[Burners Principles#Earned in play]]. Spells that are plainly spells are learned through [[Burners Sorcerie]] / [[Burners Spells]] instead.
-> - **Gifts** (Drisi, Karrock) — the "Gifts Secret" becomes a **Gifts Signature**; each gift manifested is an innate Asset while it shows.
+> - **Signatures** — powers and named edges earned in play — see [[Burners Principles#Earned in play]]. Spells that are plainly spells are learned through [[Burners Sorcerie]] / [[Burners Spells]] instead.
+> - **Gifts** (Drisi, Karrock) — take a **Gifts Signature**; each gift manifested is an innate Asset while it shows.
 > - **Signature Assets** — name items in play, never at creation (see [[Burners Arms and Armor]]).
-> - **Dark Secrets** — Burners has no slot for these; keep one anyway, as written, and hand it to the Referee. It is a hook, and hooks get pulled.
+> - **Hooks** — hand one to the Referee. It is a lever, and levers get pulled.
 > - **Paths** — goals and quests. XP stays OSE only — see [[Burners Principles#Earned in play]]. A completed Path pays off in fiction, Traits, or a Signature emerging.
 
 ---
@@ -48,9 +48,9 @@ Northmaren strongholds are works of engineering that would make the Dwur proud. 
 
 **Assets:** cuirass, plate armor, sword, lance, poleax, longsword, rondel, warhorse, canoe, silk rope, Elven cloak, hunting bow, long bow, war bow, bread, cheese, Elven way bread.
 
-**Secrets:** detect evil, sense truth, holy aura, Elfsight, Starlight, Blessing of Lunara, Healing of Lunara, Purify water, Find Path, horse whisperer.
+**Signatures:** detect evil, sense truth, holy aura, Elfsight, Starlight, Blessing of Lunara, Healing of Lunara, Purify water, Find Path, horse whisperer.
 
-**Dark Secrets:** family slain by Avathars, impious, deserter, fears undead.
+**Hooks:** family slain by Avathars, impious, deserter, fears undead.
 
 **Paths:** battle the Avathars, earn knight's armor, become a knight, build a river fort, strengthen the forest, purify forest tainted by Avathars, hunt Avathars, win new lands in the south.
 
@@ -72,9 +72,9 @@ Southmaren nobles are most often found in the major cities of Aquila and Madriga
 
 **Assets:** cuirass, sidesword, buckler, parrying dagger, storta, spadone, partisan, crossbow, boots, guildmaster silver pin, spellbook, vial of poison, vial of poison antidote, deer meat, wineskin, traveling rations.
 
-**Secrets:** black wizard spells, lock picking, magic appraisal, forgery, bribery, sword tricks, riding tricks, archery stick shot, horse whisperer, poison/antidote brewing.
+**Signatures:** black wizard spells, lock picking, magic appraisal, forgery, bribery, sword tricks, riding tricks, archery stick shot, horse whisperer, poison/antidote brewing.
 
-**Dark Secrets:** owes a debt, liar, thief, blackmailed, gigolo, flat broke, lost soul.
+**Hooks:** owes a debt, liar, thief, blackmailed, gigolo, flat broke, lost soul.
 
 **Paths:** find a magical rapier, learn black wizard spells, make it rich, pay off debt, blood debt vs goblyns, soul owned by a black wizard, orphan, raised by slave traders.
 
@@ -90,9 +90,9 @@ The Aethiiri (Elves) are beautiful hallowed Eldar of light, filled with sacred m
 
 **Assets:** sword, bow, knife, spear, leaf armor, Elven cloak, silver trumpet, mandolin, harp, holy water, way bread.
 
-**Secrets:** starlight, moonlight, healing touch, holy water, water of visions.
+**Signatures:** starlight, moonlight, healing touch, holy water, water of visions.
 
-**Dark Secrets:** vow of vengeance against the dark elves, family slain by Kha'din.
+**Hooks:** vow of vengeance against the dark elves, family slain by Kha'din.
 
 **Paths:** root out evil in the young kingdoms, find a weirstone of Lunara, learn a new song, bring a new saint to Lunara.
 
@@ -120,9 +120,9 @@ Secretly, as one of the oldest of the Eldar, the Alu see it as one of their sacr
 
 **Assets:** Alu demon mask, Alu silk robes, Alu bladegrass armor, Alu curved longsword (e.g. katana, scimitar, falchion, shotel), throwing dart knives (e.g. kunai, trumbash), hooked blades (e.g. sickle, kusari-gama, kama, khopesh, trumbash), bladegrass whip, night iron mail, hunting bow, longbow, silk slippers, horse, falcon, saffron, lamb, rice balls, sake bottle.
 
-**Secrets:** arrow cutting, leaping, shadow step, invisibility, illusion, mirror image, shadow image, hide in shadows, shadow mask, binding words, circle of binding, binding chains, oni strength, tengu wings (grow from the back), shapeshift to Gallu.
+**Signatures:** arrow cutting, leaping, shadow step, invisibility, illusion, mirror image, shadow image, hide in shadows, shadow mask, binding words, circle of binding, binding chains, oni strength, tengu wings (grow from the back), shapeshift to Gallu.
 
-**Dark Secrets:** clan outcast, sole survivor, vengeful, consorts with shadows, assassin.
+**Hooks:** clan outcast, sole survivor, vengeful, consorts with shadows, assassin.
 
 **Paths:** defeat an Akuma in single combat, hunt Kha'din and purge them, master a disguise, master the flute, recover an ancient sword, recover a demon mask.
 
@@ -146,9 +146,9 @@ Avathars worship the Duirgurth, the Gods of Death who preside over "the many dea
 
 **Assets:** black cape and hat, sunglasses/sungoggles, breath mask, plague doctor mask, gothic fluted plate armor, bat-winged ax, goupillon flail, mangual triple flail, longsword, executioner's sword, greatsword, gothic halberd, siege arbalest, pavise, blood purity potion, healing potion in syringe, poison vial, poison dagger, poison antidote, belladonna perfume (poison), syringe, black bread, blood sausage, potatoes, wineskin.
 
-**Secrets:** shadow sight, poison use, flail high guard, vampiricy, vampiric regeneration, vampiric immunities, bat familiar, wolf familiar, change to bat, change to wolf, energy drain, raise skeleton, raise zombie, corpse grinder, lifeblood, blood familiar, innate spells of death, negative energy channeling, headsman, blood sight, rage of Kurg, hunter of the unfaithful, immune to charm and sleep, create ash child.
+**Signatures:** shadow sight, poison use, flail high guard, vampiricy, vampiric regeneration, vampiric immunities, bat familiar, wolf familiar, change to bat, change to wolf, energy drain, raise skeleton, raise zombie, corpse grinder, lifeblood, blood familiar, innate spells of death, negative energy channeling, headsman, blood sight, rage of Kurg, hunter of the unfaithful, immune to charm and sleep, create ash child.
 
-**Dark Secrets:** sunlight vulnerability, demi-vampiric (requires blood), schemer, vengeful and petty, deserter.
+**Hooks:** sunlight vulnerability, demi-vampiric (requires blood), schemer, vengeful and petty, deserter.
 
 **Paths:** become a necromancer, become a Vampire Lord, gather Elf blood, capture thralls, corrupt a saint.
 
@@ -164,9 +164,9 @@ Baal are dragon worshipers from the "Draconian Empire" of Akkar. Baal are elegan
 
 **Assets:** silk robes, ornate silk hat, fluted plate armor, flamberge sword, spear, smoked meat, water, incense, book of dragon rituals.
 
-**Secrets:** speak for dragons, conjure flames, purifying flames (burns Taint), flaming sword, flame circle (ritual), immune to charm and sleep, sacrificial rites (ritual), summon dragon, dragon scales (manifests scale armor as an Innate Asset), dragon wings (grow from the back).
+**Signatures:** speak for dragons, conjure flames, purifying flames (burns Taint), flaming sword, flame circle (ritual), immune to charm and sleep, sacrificial rites (ritual), summon dragon, dragon scales (manifests scale armor as an Innate Asset), dragon wings (grow from the back).
 
-**Dark Secrets:** as greedy and cruel as any dragon, secretly a Baal'Mot.
+**Hooks:** as greedy and cruel as any dragon, secretly a Baal'Mot.
 
 **Paths:** find a dragon to serve, expand the Regio of my dragon, purge all Baal'Mot.
 
@@ -205,11 +205,11 @@ Drisi warriors are known for their skill with the spear, javelin, partisan, and 
 
 **Assets:** dory (light spear), aspis (shield), dagger, khopesh (sickle sword), crescent moon ax, crescent moon spade, gada (mace), monk spade, pilose (conical helm), orichalcum aspis, orichalcum pilose, adamant dory, orichalcum khopesh, vakaar dagger.
 
-**Secrets:** charm person, charm snakes, sticks to snakes, spray poison, suggestion.
+**Signatures:** charm person, charm snakes, sticks to snakes, spray poison, suggestion.
 
-**Drisi Gifts:** Take an Innate Asset for each of your "gifts", e.g. serpent scale armor, dragon scale armor, snakes for hair, poison bite, poison blood, heat vision (q.v. pit viper), sleep venom, etc. Also take a "Drisi Gifts" Secret; when used this manifests your gifts, making them available to use as well as visible. Otherwise you appear human, and your gifts are unavailable to use, as well as undetectable.
+**Drisi Gifts:** Take an Innate Asset for each of your "gifts", e.g. serpent scale armor, dragon scale armor, snakes for hair, poison bite, poison blood, heat vision (q.v. pit viper), sleep venom, etc. Also take a "Drisi Gifts" Signature; when used this manifests your gifts, making them available to use as well as visible. Otherwise you appear human, and your gifts are unavailable to use, as well as undetectable.
 
-**Dark Secrets:** disguised serpentman, owes sacrifices to Set.
+**Hooks:** disguised serpentman, owes sacrifices to Set.
 
 **Paths:** become a son of Set, build a cult of Set, summon the Yellow King, summon an avatar of Vilothuus, find a lost bowl of Hygeia or staff of Asclepius, find a great library, subvert a human kingdom.
 
@@ -229,9 +229,9 @@ Even Dwur who wander afar from the forge are sure to carry tools to tinker and f
 
 **Assets:** hammer, axe, skullcap, three-quarter plate armor, tinkering tools, crafting tools, lantern, flintlock pistol, flintlock rifle, blunderbuss, runelock, sausages, beer, whiskey.
 
-**Secrets:** Runelock, create golem, craft Dwurstone.
+**Signatures:** Runelock, create golem, craft Dwurstone.
 
-**Dark Secrets:** family slain by Gobbah, quest of vengeance.
+**Hooks:** family slain by Gobbah, quest of vengeance.
 
 **Paths:** invent something new, craft a new gun, visit a new young kingdom, regain the old Dwur homelands in Forandol mountains.
 
@@ -267,15 +267,15 @@ Although Karrocks were given humanity by the Dwur and can lead mortal lives, the
 
 **Assets:** stone mace, stone maul, poleax, iron-shod staff, tetsubo, lantern, colorful cloak, monk robes, simple loincloth, sausages, beer, whiskey.
 
-**Secrets:** feat of strength, summon greatclub, stone shape, shape stone, earth shatter.
+**Signatures:** feat of strength, summon greatclub, stone shape, shape stone, earth shatter.
 
-**Karrock Gifts:** Take an Innate Asset for each of your "Karrock gifts" when you are made of stone, e.g. stoneskin, stoneshirt, stonefists, etc. Also take a "Karrock Gifts" Secret; when used this manifests those Innate Assets, making them available to use as well as visible. Otherwise you appear human, and your gifts are unavailable to use, as well as undetectable.
+**Karrock Gifts:** Take an Innate Asset for each of your "Karrock gifts" when you are made of stone, e.g. stoneskin, stoneshirt, stonefists, etc. Also take a "Karrock Gifts" Signature; when used this manifests those Innate Assets, making them available to use as well as visible. Otherwise you appear human, and your gifts are unavailable to use, as well as undetectable.
 
-**Dark Secrets:** war atrocities, recurring war nightmares.
+**Hooks:** war atrocities, recurring war nightmares.
 
 **Paths:** find the Karrock homeland, find an arkenstone, become truly patient.
 
-**Karrock Paths:** You can consume gems and precious stones to earn XP on Paths for Karrock Gifts. (Tip: look up reputed gemstone powers for inspiration.) For example, you might work towards gaining a "stone strength" Trait or Secret by consuming a precious stone (such as agate or black onyx). Also if you find a truly magical stone then you may be able to gain its power.
+**Karrock Paths:** You can consume gems and precious stones to earn XP on Paths for Karrock Gifts. (Tip: look up reputed gemstone powers for inspiration.) For example, you might work towards gaining a "stone strength" Trait or Signature by consuming a precious stone (such as agate or black onyx). Also if you find a truly magical stone then you may be able to gain its power.
 
 ## Kith
 
@@ -297,9 +297,9 @@ The ancestors of the Kith came from the far northern lands of the midnight sun, 
 
 **Assets:** greatsword, lochaber ax, dragonbone axe, saex, small ax, dragonbone dagger, war bow, war drum, cloak (esp. deer hide, wolf, bear, etc.), drinking skull, venison, grog, gold wrist band, gold torc.
 
-**Secrets:** understand bird's song, dragon eyes, dragon skin, dragon awe, burning blood, burning eye, stone heart, dragon fury, strength of the wyrm.
+**Signatures:** understand bird's song, dragon eyes, dragon skin, dragon awe, burning blood, burning eye, stone heart, dragon fury, strength of the wyrm.
 
-**Dark Secrets:** seeks pain, only own what I can carry, keeps drinking skulls, family slain by Baal/Drunes/Drisi/Wyrms.
+**Hooks:** seeks pain, only own what I can carry, keeps drinking skulls, family slain by Baal/Drunes/Drisi/Wyrms.
 
 **Paths:** master the winged axe, master the dragonspear, master the greatsword, slay a wyrm, slay a dragon, slay Baal, slay Drunes, raid Baal lands, establish trade with the south.
 
@@ -321,12 +321,12 @@ Vôzen are Eldar with ancient origins. Aeons ago, the Baal'Yr alchemists discove
 
 **Assets:** sidesword, dagger, merchant's outfit, alchemists robes, master alchemist pin, potion of healing, potion of water breathing, alchemy kit.
 
-**Secrets:** one secret identity, breathe water, squeeze flat, survive fall.
+**Signatures:** one secret identity, breathe water, squeeze flat, survive fall.
 
-**Identity Secrets:** Each identity is a Secret. When you use the identity Secret you instantly assume that identity, and remain that way until you use a different identity Secret or want to go back to your own identity.
+**Identity Signatures:** Each identity is a Signature. When you use the identity Signature you instantly assume that identity, and remain that way until you use a different identity Signature or want to go back to your own identity.
 
-**Dark Secrets:** fears fire, fears hot water, fears spicy food, fears dragons and Baal, fears helplessness/capture, murdered one of my doppelgängers, secretly a spy, always takes any potions found.
+**Hooks:** fears fire, fears hot water, fears spicy food, fears dragons and Baal, fears helplessness/capture, murdered one of my doppelgängers, secretly a spy, always takes any potions found.
 
 **Paths:** sip my potion of water breathing to learn how to breath water, overcome fear of fire, tip my potion of healing to learn how to heal myself, learn to endure spicy food, perfect next identity, go bush camping, kill off my doppelgängers, steal the identity of a noble/merchant/alchemist.
 
-**Alchemical Paths:** You can sip Potions to gain XP towards Paths dealing with alchemical pursuits or powers. For example, you might work towards gaining a "strength" Trait or Secret by sipping a potion of strength. Sipping a potion lets you know what the potion does, but does not trigger any of the normal potion effects or side effects. You get XP after sipping all of the potion. You can also consume alchemical components, working towards the reputed or presumed abilities of that component. For example the "heart of a basilisk" might allow you to "resist petrification" or gain the ability to change your "stone to flesh".
+**Alchemical Paths:** You can sip Potions to gain XP towards Paths dealing with alchemical pursuits or powers. For example, you might work towards gaining a "strength" Trait or Signature by sipping a potion of strength. Sipping a potion lets you know what the potion does, but does not trigger any of the normal potion effects or side effects. You get XP after sipping all of the potion. You can also consume alchemical components, working towards the reputed or presumed abilities of that component. For example the "heart of a basilisk" might allow you to "resist petrification" or gain the ability to change your "stone to flesh".

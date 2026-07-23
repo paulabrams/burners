@@ -7,13 +7,13 @@ hero_alt: "Crossbowmen in the street — Albert Robida"
 
 # Burners Arms and Armor
 
-*The complete **Advanced Assets** section (Signatures, Secrets, weapons, armor, shields, and magic/Eldar items) imported from **Legends of the Dragon Isles RPG**, for use with Burners (see [[Burners Adventure Game]]). This is the optional expanded catalog; the lean starting buy-list with slots and prices lives in [[Burners Equipment]]. Faithful to the source; structural run-together lines split, light typo fixes only.*
+*The optional expanded catalog of arms, armor, shields, and Eldar materials (see [[Burners Adventure Game]]). The lean starting buy-list with slots and prices lives in [[Burners Equipment]].*
 
-> **Reading the numbers in Burners.** This is a Legends catalog: **Class** (weapons) and **size** (shields) are comparison stats — Weapon Class vs Armor Class, or shield size vs a blow, for ±1 damage in Legends. **Slots** are the Burners stat: inventory space and dice on the Initiative roll (see [[Burners Adventure Game]] and [[Burners Equipment]]). Class and Slots are listed separately because they are not always the same (a military **Dagger** is Class2 but 1 slot; a **Mace** is Class3 but 2 slots). Armor maps onto the core's **suits** (AC and slots in [[Burners Equipment]]). Enchantment — see [[Burners Principles#Armor soaks; monsters use white and red Hit Dice]]. Import Legends' names, tags, and flavor wholesale; assign **Slots** from the lean list where an item appears there, otherwise by the same bulk/handiness ladder.
+> **Reading the numbers.** **Class** (weapons) and **size** (shields) are comparison tags — Weapon Class vs Armor Class for Break Armor and soft-target reads (WC > AC), or shield size for look and heft. **Slots** are the inventory and Initiative-dice stat (see [[Burners Adventure Game]] and [[Burners Equipment]]). Class and Slots are listed separately because they are not always the same (a military **Dagger** is Class2 but 1 slot; a **Mace** is Class3 but 2 slots). Armor maps onto the core's **suits** (AC and slots in [[Burners Equipment]]). Enchantment — see [[Burners Principles#Armor soaks; monsters use white and red Hit Dice]]. Assign **Slots** from the lean list where an item appears there, otherwise by the same bulk/handiness ladder.
 >
 > *Era guide:* Northmarens run early-medieval arms & armor, Southmarens late-medieval/early-Renaissance, the Eldar exotic and magical.
 >
-> **"Legendary" — mind the two senses.** Legends *Legendary Asset* (a Signature rung on mundane kit) vs Burners **enchanted / legendary / eldritch** arms (one magical class — a *+1* is a magic sword). Trait acceptance: [[Burners Adventure Game#Enchanted Arms and Armor]]. Stocking: [[Burners Referee Magic Items]]. Signatures earned in play: [[Burners Principles#Earned in play]].
+> **"Legendary" — mind the two senses.** A *Signature* rung on mundane kit (name and history) vs **enchanted / legendary / eldritch** arms (one magical class — a *+1* is a magic sword). Trait acceptance: [[Burners Adventure Game#Enchanted Arms and Armor]]. Stocking: [[Burners Referee Magic Items]]. Signatures earned in play: [[Burners Principles#Earned in play]].
 
 ---
 
@@ -31,15 +31,13 @@ Every weapon, armor, or tool sits on one ladder, bottom to top. Only the first t
 
 Tuned, Bane-forged, and Legendary arms are Referee magic items — see [[Burners Referee Magic Items]]. Enchanted / legendary / eldritch are one class; Trait acceptance gates the magic: [[Burners Adventure Game#Enchanted Arms and Armor]].
 
-### Signatures and Secrets
+### Signatures
 
-A **Signature** is the fiction of that third rung — a name, a look, a history (*"Naurdring the goblin slicer"*; *"a tunic, royal blue with gold embroidering"*). It is not a die bonus; there are none. What it does is lend an action credibility, the way a fitting Theme or Trait does — declare it and the Referee may let the deed simply succeed (Step 1). Write it with the item type and Tags, e.g. *"Naurdring, the goblin slicer [Longsword Class3 Slots3…]"*. A **damaged** Asset can lose its Signature — fine velvet is ruined by a crawl through a cavern — so save your best for when it counts.
-
-A **Secret** is a power hung on an Asset — a ring's hidden compartment, a blade that detects evil, a flask of holy water that mends. Asset Secrets work like any other Secret and share the requirements (a supporting Theme, a Cost to use — usually Heat — and any leash).
+A **Signature** is the fiction of that third rung — a name, a look, a history (*"Naurdring the goblin slicer"*; *"a tunic, royal blue with gold embroidering"*). It is not a die bonus; there are none. What it does is lend an action credibility, the way a fitting Theme or Trait does — declare it and the Referee may let the deed simply succeed (Step 1). Write it with the item type and Tags, e.g. *"Naurdring, the goblin slicer [Longsword Class3 Slots3…]"*. A **damaged** Asset can lose its Signature — fine velvet is ruined by a crawl through a cavern — so save your best for when it counts. Enchanted kit carries **powers** once found — see [[Burners Adventure Game#Enchanted Arms and Armor]] and [[Burners Referee Magic Items]].
 
 ## Asset Tags
 
-Weapons carry **Class** (Legends penetration vs armor) and **Slots** (Burners inventory and Initiative dice). Shields carry **size** (Legends block comparison) and **Slots**. Armor pieces carry **Class** in Legends terms; in Burners play, read **AC** and **Slots** from the suit tables in [[Burners Equipment]]. Some tags take a value — `Class2`, `Far3`, `Slots2` — which defaults to **1** when omitted.
+Weapons carry **Class** (penetration / Break Armor) and **Slots** (inventory and Initiative dice). Shields carry **size** (look and heft) and **Slots**. Armor pieces may list Class for catalog flavor; in play, read **AC** and **Slots** from the suit tables in [[Burners Equipment]]. Some tags take a value — `Class2`, `Far3`, `Slots2` — which defaults to **1** when omitted.
 
 ---
 
@@ -115,7 +113,7 @@ Strongly associated with military units; most need training in a military order.
 
 ### Projectile Weapons
 
-Shoot ammunition. The three main types are bows, crossbows, and guns. Loading/reloading costs Maneuvers equal to the `Reload` tag.
+Shoot ammunition. The three main types are bows, crossbows, and guns. Loading/reloading costs Actions equal to the `Reload` tag.
 
 - **Primitive Bow** `[Class1 Slots1 2H Far2 Reload1 Primitive Civil]` — self-made/primitive shortbow, all-wood arrows, sharpened wood tips, no fletching.
 - **Hunting Sling** `[Class1 Slots1 2H Far4 Reload3 Primitive Civil]` — common light sling, stones or clay; years of practice.
@@ -140,7 +138,7 @@ Shoot ammunition. The three main types are bows, crossbows, and guns. Loading/re
 
 Weapons carry tags for their characteristics; many describe a way to upgrade in specific circumstances. Weapons fall into **main weapons** (spears, axes) and **sidearms** (swords, daggers); larger weapons have higher Class and more tags.
 
-- **Weapon Class** — the weapon's penetration vs contemporary armor. (Legends: compare WC vs AC, ±1 damage.) **Slots** — inventory space and Initiative dice in Burners (see [[Burners Equipment]]).
+- **Weapon Class** — the weapon's penetration vs contemporary armor. Used for Break Armor (WC > AC) and soft-target reads. **Slots** — inventory space and Initiative dice (see [[Burners Equipment]]).
 - **Military Weapons** — Class3+ are "military weapons," not usually permitted in civilized areas unless they have the `Civil` tag.
 - **2H (Two-Handed)** — optimized for two hands; longer and heavier. Used one-handed: WC −1 and no asset-tag benefits.
 
@@ -154,22 +152,22 @@ Weapons carry tags for their characteristics; many describe a way to upgrade in 
 
 **Advanced weapon tags:**
 
-- **Accurate** — capable of very long shots for a skilled marksman. Spend an Action (with a supporting Theme/Trait like *marksman, archer, sharpshooter*) to raise optimal range one step (e.g. `Far` → `Far3`), up to double normal range. Lost if you move or take another Action.
-- **Binding** — can "bind" a foe's weapon with sticky contact. Spend a Maneuver to bind; upgrade attacks and defenses vs that foe. Re-binding in response to a bind: whoever binds last is "winning the bind."
+- **Accurate** — capable of very long shots for a skilled marksman. Spend an Action (with a supporting Trait like *marksman, archer, sharpshooter*) to raise optimal range one step (e.g. `Far` → `Far3`), up to double normal range. Lost if you move or take another Action.
+- **Binding** — can "bind" a foe's weapon with sticky contact. Spend an attack to bind; upgrade attacks and defenses vs that foe. Re-binding in response to a bind: whoever binds last is "winning the bind."
 - **Breaching** — strong enough to force doors, chests, windows; other weapons break under such abuse.
 - **Civil** — less threatening; legal to carry in towns.
-- **Control** — (long swords, short polearms) easily turned to strike any direction; ideal for area control and fending off multiple foes. If the Referee raises Heat for being surrounded/flanked, spend a Maneuver to negate the raise. Two hands only, at the listed range (e.g. `Control-Medium`).
-- **Cutty** — can cleave soft targets. After a Sweet against a soft target (your WC beats their AC) you may attack again with the same weapon.
+- **Control** — (long swords, short polearms) easily turned to strike any direction; ideal for area control and fending off multiple foes. If the Referee raises Heat for being surrounded/flanked, spend an Action to negate the raise. Two hands only, at the listed range (e.g. `Control-Medium`).
+- **Cutty** — can cleave soft targets. After a Spark against a soft target (your WC beats their AC) you may Fuel another attack with the same weapon.
 - **Custom** — higher-quality, bespoke, perfectly made.
 - **Defensive** — equivalent to a shield, using Weapon Class.
-- **Fragile** — breaks on a Fumble.
+- **Fragile** — breaks on a Double Spicy, or when the Referee names a botched blow.
 - **Handguard** — complex hilt (rapier rings, basket hilt) protecting the hand; counts as **AC 2** armor for the weapon hand.
 - **Hooking** — (sickles, some polearms) can cut behind the target. When you Aim you may strike the rear instead of left/right for **+1 WC**.
 - **Piercing** — extended rigid blade 2+ ft, reaching deep. **+1 WC vs Large Monsters** (whose vitals sit deeper, giving them higher AC).
 - **Primitive** — easy to build (low skill, time, materials); found among primitive tribes or improvised when nothing else is at hand.
-- **Reload** — must be reloaded before attacking again (bows, crossbows, firearms). The number = Maneuvers needed (min 1).
+- **Reload** — must be reloaded before attacking again (bows, crossbows, firearms). The number = Actions needed (min 1).
 - **Trained** — **trained-only** in Burners: without a Trait for that kit you cannot use it in a fight (no Initiative dice, no blows). Examples: *greatsword*, *longbow*, *plate armor*.
-- **Stabbity** — optimized for stabbing/"shanking." After a Sweet hit you may spend a Maneuver to attack again with the same weapon in the **same Hit Location**.
+- **Stabbity** — optimized for stabbing/"shanking." After a Spark you may Fuel another attack with the same weapon into the **same Wound**.
 
 ---
 
@@ -177,7 +175,7 @@ Weapons carry tags for their characteristics; many describe a way to upgrade in 
 
 Prices, AC, and slots for the shop list live in [[Burners Equipment]] and the play list in [[Burners Adventure Game]]: leather 1, gambeson 2, chain mail 3, plate mail and field plate 4, full plate 5. Leather, gambeson, and mail are open; **plate is trained-only**.
 
-The Legends pieces below are *look and history* for those rungs — build the harness you like, then read one AC from the Equipment table (or the closest entry: scale as chain mail, and so on).
+The pieces below are *look and history* for those rungs — build the harness you like, then read one AC from the Equipment table (or the closest entry: scale as chain mail, and so on).
 
 **How the kit tends to map:**
 
@@ -199,7 +197,7 @@ Heavy harness eats slots and thins your Initiative pool; light kit keeps empty s
 
 Held steel, raised against a blow. A shield's **slots** are the dice it lends on your Initiative roll (prices in [[Burners Equipment]]): buckler 2, heater 3, rotella 4, kite 4, tower 5. A raised shield can count as **Cover** vs missiles (2 dice on that Defend). **Block** redirects a blow onto you — the shield does not deepen it (see [[Burners Adventure Game]]).
 
-Legends **size** tags below are the old catalog labels for look and heft — use Burners **slots** at the table.
+Catalog **size** tags below are labels for look and heft — use Burners **slots** at the table.
 
 ### Shield Types
 
@@ -242,7 +240,7 @@ Legends **size** tags below are the old catalog labels for look and heft — use
 
 The Eldar of aeons past made many things — dark and beautiful, bright and deadly. You might find Eldar relics in deep caverns or guardian battles, or meet Eldar (living or undead) wielding archaic blades of mysterious metals. The mightiest works are named in story, often borne by famous (or infamous) heroes.
 
-**Designing Eldar Assets** — think in terms of Signatures. *"Drisi Orichalcum plate armor"* protects vs hostile magic (Resistance to magic where it covers you); a *"Drisi Vakaar Dagger"* could open Wounds that resist stabilization (the Strength they cut won't come back on its own, and the Death Save comes harder); the *"Avathar Book of Shadows"* carries a "shadow magic" Signature. Be creative and flexible rather than definitive.
+**Designing Eldar Assets** — think in terms of Signatures. *"Drisi Orichalcum plate armor"* protects vs hostile magic (Resistance to magic where it covers you); a *"Drisi Vakaar Dagger"* could open Wounds that resist ordinary healing and make the Shock Check harder; the *"Avathar Book of Shadows"* carries a "shadow magic" Signature. Be creative and flexible rather than definitive.
 
 ### Eldar Materials
 
@@ -251,7 +249,7 @@ The Eldar of aeons past made many things — dark and beautiful, bright and dead
 - **Moonsilver** — silvery steel alloy that absorbs and sheds moonlight; revered by devotees of Lunara. Alu and Elves love it for jewelry, armor, swords.
 - **Night Iron** — dark steel alloy that absorbs light, darker than dark; Alu used it for armor and blades. Its source and making are unknown.
 - **Orichalcum** — brassy alchemical alloy cast into amulets, rings, weapons, armor; reputed to resist magic. Favored by Alu, Baal, and Drisi. **Grants Resistance to magic on any location it covers — but pay +1 Heat to cast magic through such a location.**
-- **Vakaar** — infamous meteoritic-iron alloy, blackened/purple/green flecked blood-red; almost only used for "venom blades" whose Wounds don't heal naturally and resist stabilization (the score they cut won't recover on its own, and the Death Save comes harder). Often wavy-bladed. Making it is lost lore — folded in darkness, washed with acid, poison, venom, blood, souls, and dark prayers to the Serpent Gods.
+- **Vakaar** — infamous meteoritic-iron alloy, blackened/purple/green flecked blood-red; almost only used for "venom blades" whose Wounds don't heal naturally and resist ordinary healing (the score they cut won't recover on its own, and the Shock Check comes harder). Often wavy-bladed. Making it is lost lore — folded in darkness, washed with acid, poison, venom, blood, souls, and dark prayers to the Serpent Gods.
 
 ### Alu Assets
 

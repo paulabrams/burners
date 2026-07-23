@@ -83,7 +83,7 @@ An Invocation is a **ritual**, not a spell or an attack. You cannot Invoke in th
 
 Invocations are **patron-shaped**, not player-authored. The roll only decides whether you are **heard** and whether you pay **shortfall** — it does not grant what you asked for. What you get, and what it costs you afterward, is the **Offer and the Ask**.
 
-**One open Ask.** A patron will not heed a **second** Invocation from you while an Ask from a prior **accepted** pact remains uncleared. If the only debt is a **shaping Trait** you have not taken yet, they wait until you take it at level-up. Spam the names and you still pay the **shortfall** for nothing — Wåndyr tables learned that lesson the hard way.
+**One open Ask.** A patron will not heed a **second** Invocation from you while an Ask from a prior **accepted** pact remains uncleared. If the only debt is a **shaping Trait** you have not taken yet, they wait until you take it at level-up. Spam the names and you still pay the **shortfall** for nothing.
 
 ---
 

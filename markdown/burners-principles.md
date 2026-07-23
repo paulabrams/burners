@@ -86,7 +86,7 @@ Magic arms and armor are looted or earned, never bought at creation. Magic items
 
 An **Invocation** is a bargain, not a spell. No Arcana, no spellbook, no school Trait. **Patron Alignment** is not Sorcerie level — a torch-hand may be Lunara 3 and never cast; a Sorcerer may know every school and stand a stranger to every god.
 
-**Not wishes.** Players will reach for Invocations whenever they are stuck — Wåndyr taught that the hard way. The **Cost roll** gates whether a patron hears you; the **Offer and Ask** are where the Referee balances what you get against what you owe. Neither is a menu for rewriting the scene.
+**Not wishes.** Players will reach for Invocations whenever they are stuck. The **Cost roll** gates whether a patron hears you; the **Offer and Ask** are where the Referee balances what you get against what you owe. Neither is a menu for rewriting the scene.
 
 ---
 

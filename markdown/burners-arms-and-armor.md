@@ -17,9 +17,9 @@ hero_alt: "Crossbowmen in the street — Albert Robida"
 
 ---
 
-## Advanced Assets
+## Advanced Kit
 
-Advanced rules for Assets beyond the basics (skippable for a casual game). Everything past plain, common gear is **earned in play** — see [[Burners Principles#Earned in play]].
+Advanced rules for kit beyond the basics (skippable for a casual game). Everything past plain, common gear is **earned in play** — see [[Burners Principles#Earned in play]].
 
 ### Item Quality
 
@@ -33,9 +33,9 @@ Tuned, Bane-forged, and Legendary arms are Referee magic items — see [[Burners
 
 ### Signatures
 
-A **Signature** is the fiction of that third rung — a name, a look, a history (*"Naurdring the goblin slicer"*; *"a tunic, royal blue with gold embroidering"*). It is not a die bonus; there are none. What it does is lend an action credibility, the way a fitting Theme or Trait does — declare it and the Referee may let the deed simply succeed (Step 1). Write it with the item type and Tags, e.g. *"Naurdring, the goblin slicer [Longsword Class3 Slots3…]"*. A **damaged** Asset can lose its Signature — fine velvet is ruined by a crawl through a cavern — so save your best for when it counts. Enchanted kit carries **powers** once found — see [[Burners Adventure Game#Enchanted Arms and Armor]] and [[Burners Referee Magic Items]].
+A **Signature** is the fiction of that third rung — a name, a look, a history (*"Naurdring the goblin slicer"*; *"a tunic, royal blue with gold embroidering"*). It is not a die bonus; there are none. What it does is lend an action credibility, the way a fitting Theme or Trait does — declare it and the Referee may let the deed simply succeed (Step 1). Write it with the item type and Tags, e.g. *"Naurdring, the goblin slicer [Longsword Class3 Slots3…]"*. A **damaged** item can lose its Signature — fine velvet is ruined by a crawl through a cavern — so save your best for when it counts. Enchanted kit carries **powers** once found — see [[Burners Adventure Game#Enchanted Arms and Armor]] and [[Burners Referee Magic Items]].
 
-## Asset Tags
+## Item Tags
 
 Weapons carry **Class** (penetration / Break Armor) and **Slots** (inventory and Initiative dice). Shields carry **size** (look and heft) and **Slots**. Armor pieces may list Class for catalog flavor; in play, read **AC** and **Slots** from the suit tables in [[Burners Equipment]]. Some tags take a value — `Class2`, `Far3`, `Slots2` — which defaults to **1** when omitted.
 
@@ -140,7 +140,7 @@ Weapons carry tags for their characteristics; many describe a way to upgrade in 
 
 - **Weapon Class** — the weapon's penetration vs contemporary armor. Used for Break Armor (WC > AC) and soft-target reads. **Slots** — inventory space and Initiative dice (see [[Burners Equipment]]).
 - **Military Weapons** — Class3+ are "military weapons," not usually permitted in civilized areas unless they have the `Civil` tag.
-- **2H (Two-Handed)** — optimized for two hands; longer and heavier. Used one-handed: WC −1 and no asset-tag benefits.
+- **2H (Two-Handed)** — optimized for two hands; longer and heavier. Used one-handed: WC −1 and no tag benefits.
 
 **Range tags** (optimal distance — upgrade if you're at your optimal range and the foe is not):
 
@@ -236,11 +236,11 @@ Catalog **size** tags below are labels for look and heft — use Burners **slots
 
 ---
 
-## Magic Items / Eldar Assets
+## Magic Items / Eldar Kit
 
 The Eldar of aeons past made many things — dark and beautiful, bright and deadly. You might find Eldar relics in deep caverns or guardian battles, or meet Eldar (living or undead) wielding archaic blades of mysterious metals. The mightiest works are named in story, often borne by famous (or infamous) heroes.
 
-**Designing Eldar Assets** — think in terms of Signatures. *"Drisi Orichalcum plate armor"* protects vs hostile magic (Resistance to magic where it covers you); a *"Drisi Vakaar Dagger"* could open Wounds that resist ordinary healing and make the Shock Check harder; the *"Avathar Book of Shadows"* carries a "shadow magic" Signature. Be creative and flexible rather than definitive.
+**Designing Eldar items** — think in terms of Signatures. *"Drisi Orichalcum plate armor"* protects vs hostile magic (Resistance to magic where it covers you); a *"Drisi Vakaar Dagger"* could open Wounds that resist ordinary healing and make the Shock Check harder; the *"Avathar Book of Shadows"* carries a "shadow magic" Signature. Be creative and flexible rather than definitive.
 
 ### Eldar Materials
 
@@ -251,7 +251,7 @@ The Eldar of aeons past made many things — dark and beautiful, bright and dead
 - **Orichalcum** — brassy alchemical alloy cast into amulets, rings, weapons, armor; reputed to resist magic. Favored by Alu, Baal, and Drisi. **Grants Resistance to magic on any location it covers — but pay +1 Heat to cast magic through such a location.**
 - **Vakaar** — infamous meteoritic-iron alloy, blackened/purple/green flecked blood-red; almost only used for "venom blades" whose Wounds don't heal naturally and resist ordinary healing (the score they cut won't recover on its own, and the Shock Check comes harder). Often wavy-bladed. Making it is lost lore — folded in darkness, washed with acid, poison, venom, blood, souls, and dark prayers to the Serpent Gods.
 
-### Alu Assets
+### Alu Items
 
 - **Alu Dart Knives (as-en)** `[Class1 Slots1 Close Short Stabbity Far1]` — the Alu warriors' dart-like throwing knives.
 - **Alu Sickle Sword (av-tlen)** `[Class2 Slots2 Medium Binding Defensive Hooking Cutty]` — deeply curved sickle sword that hooks and traps limbs; also clears jungle/bladegrass.
@@ -261,7 +261,7 @@ The Eldar of aeons past made many things — dark and beautiful, bright and dead
 - **Alu Bladegrass Cuirass** `[Class3 Slots5 Body-Armor]` — thick bladegrass over torso and head, including a war mask.
 - **Alu Smoke Egg** `[Class0 Slots1 Far1]` — egg/thin-metal capsule of smoke, orichalcum dust, or chili powder; thrown or crushed for a person-sized cloud.
 
-### Avathar Assets
+### Avathar Items
 
 Avathars have specialized potion-delivery instruments, requiring training from the Royal Avathar Guild of Alchemists.
 
@@ -270,7 +270,7 @@ Avathars have specialized potion-delivery instruments, requiring training from t
 - **Dead Man's Switch** — a failsafe on a catheter that auto-delivers the potion if you fall unconscious or otherwise helpless (paralyzed, petrified, beguiled).
 - **Blood Flies** — gruesome pets fed on the Avathar's demi-vampiric blood, trained to alert him to food (all but automatic at flesh-and-blood detection and tracking — a Craft roll there can simply succeed). Recallable and hideable, but disgusting (hinder social rolls).
 
-### Drisi Assets
+### Drisi Items
 
 Relics of the Drisi empires that ruled aeons ago — found in any land or underworld.
 
@@ -281,7 +281,7 @@ Relics of the Drisi empires that ruled aeons ago — found in any land or underw
 - **Orichalcum Breastplate** `[Class3 Slots4 Body-Armor]` — brassy Eldar-steel front breastplate over clothing.
 - **Vakaar Falchion** `[Class3 Slots2 Medium Binding Defensive Cutty]` — evil wavy-bladed sword of cracked dark-purple/green steel; wounds don't heal naturally.
 
-### Draconecroalchemy Assets
+### Draconecroalchemy Items
 
 Some Baal-Mot, Drisi, and Black Wizards tap the vast power of dead dragons — bringing the enmity of Baal.
 
@@ -290,7 +290,7 @@ Some Baal-Mot, Drisi, and Black Wizards tap the vast power of dead dragons — b
 - **Dragonbone Dagger** — assassin's blade; wounds will not heal on their own.
 - **Dragonbone Staff** — potent focus for controlling and conjuring fire; five feet to honor the Dragon Gods, turned from black dragonbone, etched with draconic symbols. Smooth and warm — or burning hot to those who displease the Dragon Gods. Prized by Black Wizards, heretical to dragon worshipers.
 
-### Dwur Assets
+### Dwur Items
 
 **Thaumatagonnes ("Runelocks")** are the Dwur's famous firearms and cannons — heavy fantastically-shaped barrels covered in Thaumaturgical runes that strengthen them for more powerful alchemical powder. Some bear further enchantments the Alglond firearms can't match. A rune on the striker magically resets it when spoken — but a Runelock can only be reloaded if you are **Trained** (*Runelock*, Dwur only), and the Traits *Dwur* and *Thaumaturge* each reduce Reload by 1.
 
@@ -306,13 +306,13 @@ Some Baal-Mot, Drisi, and Black Wizards tap the vast power of dead dragons — b
 - **Thaumagonne** `[Class7 Slots5 2H Far4 Reload10 Trained]` — Dwur Thaumaturgical handgonne, rune-etched alchemist's iron.
 - **Thaumacannon** `[Class8 Slots6 Crew Far4 Reload12 Trained]` — Dwur Thaumaturgical cannon (heavy ~20# barrel on a stock/staff/frame), barrels cast as dragons/rockets/mountains. An alchemist loads fire, stone, shot, or explosive/incendiary concoctions, charging it with one specific spell (e.g. fireball, lightning bolt) you must describe.
 
-### Ithilrhi (Elven) Assets
+### Ithilrhi (Elven) Items
 
 - **Ithilrhi (Elven) Chainmail** `[Class3 Slots5 3Qtr-Armor Custom]` — a suit of tiny interlocking rings. If custom-made for the wearer it does **not** require a gambeson (normally needed for chain mail) and can be worn under clothing. Treat as chain mail (AC 3) unless the find says otherwise; custom fit may ride lighter (Referee).
 
-### Magic-User Assets
+### Arcana (Wizard Drip)
 
-Magic-users use wands, orbs, and other "magical focuses" to help channel magic, such as these.
+Sorcerers hold these in **Arcana slots** as Wizard Drip (see [[Burners Sorcerie]]) — wands, orbs, focuses, and the like.
 
 - **Book of Shadows** — a grimoire of Umbracala shadow-magic spells.
 - **Diadem of the Third Eye** — a pendant suspended above your brow, in the position of your third eye, usually a jewel or precious stone.
@@ -329,9 +329,9 @@ Magic-users use wands, orbs, and other "magical focuses" to help channel magic, 
 - **Wizard's Wand** — a sturdy rod the length of your arm (fingertips to elbow), often bundled sticks, to help channel magic.
 - **Wizard's Staff** — a stout staff, ideal for defense and focusing power.
 
-## Legendary Asset Names
+## Legendary Item Names
 
-Legendary Assets are kick-ass, so they should have kick-ass names. Examples to kick-start your own:
+Legendary items are kick-ass, so they should have kick-ass names. Examples to kick-start your own:
 
 **Weapon Names:** Asskicka!, Skullcrusher, Sineater, Inquisitor, Sunblade, Dawnbreaker, Tranquility, Lightbringer, Nightfall, Patience, Harmony, Mercy, Sword of Life, Hater, Twilight, Doomsong, Soulsplitter, Starhammer, Soultaker, Widowmaker, Frostcutter, Bloodletter, Kinslayer, Fellcleanser.
 

@@ -1,9 +1,9 @@
 ---
-layout: default
+
+## layout: default
 title: "Burners OSE Conversions"
 hero: /images/lancelot-speed-pd/knight-approaching-distant-castle.png
 hero_alt: "A knight rides toward the distant keep — Lancelot Speed"
----
 
 # Burners ↔ OSE Conversions
 
@@ -28,29 +28,29 @@ The clocks already match: OSE turns and rounds are Burners turns and rounds. Dur
 
 Burners uses OSE XP awards layered on its own level table (see [[Burners Experience]]). Port treasure types and coin values as written; award treasure XP when the haul is **claimed**. Shares: [[Burners Experience]].
 
-| Source | Award |
-|---|---|
-| **Monster slain** | XP by Hit Dice (table below) |
-| **Coins, gems, jewelry** | 1 XP per 1 gp when claimed |
-| **Magic items** | 0 XP — the item is the reward |
-| **Goods & equipment** | Sale value in gp, when sold |
+| Source                     | Award                                                                           |
+| -------------------------- | ------------------------------------------------------------------------------- |
+| **Monster slain**          | XP by Hit Dice (table below)                                                    |
+| **Coins, gems, jewelry**   | 1 XP per 1 gp when claimed                                                      |
+| **Magic items**            | 0 XP — the item is the reward                                                   |
+| **Goods & equipment**      | Sale value in gp, when sold                                                     |
 | **Exploration (optional)** | Small crumb — Referee tunes on the monster XP scale; see [[Burners Experience]] |
 
 Spend banked XP to gain a level only in civilization (see [[Burners Experience]]).
 
 ### Monster XP by Hit Dice (OSE)
 
-| HD | XP | HD | XP |
-|---|---|---|---|
-| under 1 | 5 | 7 | 950 |
-| 1 | 10 | 8 | 1,900 |
-| 2 | 20 | 9–10 | 2,750 |
-| 3 | 60 | 11–12 | 4,500 |
-| 4 | 125 | 13–16 | 6,000 |
-| 5 | 250 | 17–20 | 8,500 |
-| 6 | 500 | 21+ | 10,000+ |
+| HD      | XP  | HD    | XP      |
+| ------- | --- | ----- | ------- |
+| under 1 | 5   | 7     | 950     |
+| 1       | 10  | 8     | 1,900   |
+| 2       | 20  | 9–10  | 2,750   |
+| 3       | 60  | 11–12 | 4,500   |
+| 4       | 125 | 13–16 | 6,000   |
+| 5       | 250 | 17–20 | 8,500   |
+| 6       | 500 | 21+   | 10,000+ |
 
-For fractional or special HD, **prefer the monster's printed XP** or the full OSE [Awarding XP](http://oldschoolessentials.necroticgnome.com/srd/index.php/Awarding_XP) table (base + bonus per `*` ability). This short chart is a coarse shortcut — e.g. HD 3 reads **60** here, but an OSE [Wight](http://oldschoolessentials.necroticgnome.com/srd/index.php/Wight) (`3*`) is **50 XP**.
+For fractional or special HD, **prefer the monster's printed XP** or the full OSE [Awarding XP](http://oldschoolessentials.necroticgnome.com/srd/index.php/Awarding_XP) table (base + bonus per `*` ability). This short chart is a coarse shortcut — e.g. HD 3 reads **60** here, but an OSE [Wight](http://oldschoolessentials.necroticgnome.com/srd/index.php/Wight) (`3`*) is **50 XP**.
 
 **Converting a module hoard.** Roll or place treasure as OSE directs. Coins, gems, and jewelry pay **1 XP per gp** when **claimed** — left behind grants nothing until claimed. Art objects and mundane goods pay at their sale value when sold. Magic items pay **0 XP**; the item is the reward. Delving retainers: full share if Mustering, half if not (see [[Burners Muster]]). Full procedure: [[Burners Experience]].
 
@@ -60,77 +60,51 @@ For fractional or special HD, **prefer the monster's printed XP** or the full OS
 
 ### The Stat Line
 
-| OSE | Burners |
-|---|---|
-| **HD** | Level, 1:1 — **HD is the monster's level** and the spine of its pool (one die per HD). **HP: use the printed value** (OSE prints 4.5×HD; Burners 5×HD is the same coin). Roll it or nudge it. |
-| **XP** | Award when overcome — **XP by HD** from the table in *XP Awards* (a 1 HD skeleton = 10; HD 2 = 20). Use the module's printed award if given. |
-| **AC** | Fold into HP, or Resistance vs weapons if famous for armor — per the table below. Monsters never keep PC AC. |
-| **Damage die** | Read as the natural weapon's **slots** — the dice it throws on the Initiative roll, per the rubric below. A monster has no fixed Damage number; it rolls a pool and burns dice like a character. |
-| **Saves** | Deleted — route the *ability* through the Defend Router |
-| **Morale** | As written |
-| **THAC0 / attack bonus** | Deleted — there are no to-hit rolls; the pool carries it |
+| OSE                      | Burners                                                                                                                                                                                          |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **HD**                   | Level, 1:1. Table pile = **2 × HD** (white armor / red meat). |
+| **XP**                   | Award when overcome — **XP by HD** from the table in *XP Awards* (a 1 HD skeleton = 10; HD 2 = 20). Use the module's printed award if given.                                                     |
+| **AC**                   | Hint for the **white/red mix** only — soft kit → some white; shell/plate → mostly white; naked/sushi → all red. Suggest a **right tool** fiction players may claim with Fuel (poleax, slicing, silver…). |
+| **Damage die**           | Quote weight for Referee speed attacks (d6 → quote 3, etc.) — see [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]]. |
+| **Saves**                | Deleted — route the *ability* through the Defend Router                                                                                                                                          |
+| **Morale**               | As written                                                                                                                                                                                       |
+| **THAC0 / attack bonus** | Deleted — there are no to-hit rolls                                                                                                                                         |
 
-### AC → HP or Resistance
+### 2 × HD white/red mix
 
-See [[Burners Principles#Armor and Resistance soak; they never roll]] and [[Burners Referee Guide#Building and Running Monsters]]. **Monsters do not use PC Armor Class.**
+See [[Burners Principles#Armor soaks; monsters use white and red Hit Dice]] and [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]]. **Monsters do not use PC Armor Class.**
 
-Look up the magnitude below (former soak), then pick one lane — do not double-count:
+**Referee speed (preferred):**
 
-| Lane | When | What you write |
-|---|---|---|
-| **Fold into HP** (default) | Ordinary hide, leather kit, unclear natural AC | Add **+2 × soak × HD** to HP; no AC, no weapon-Resistance from this AC |
-| **Resistance vs weapons** | Famous for armor (knight in plate, dragon scales) | **Resistance** equal to the soak vs weapons; HP stays printed / 5×HD |
+1. Put **2 × HD** dice on the table.
+2. Paint the **mix**: naked/sushi/no kit → **all red**; soft kit (leather, shield) → **some white**; mail/heavier → more white; true shell/plate/scales → **mostly or all white**. Soft armor **adds whites into the mix** — not a flat soak outside the budget.
+3. Hard shell/plate / sushi often suggests a **right tool** players can claim by spending **1 Fuel** + fiction (poleax, slicing, silver…). Hits are always ⌈damage ÷ 5⌉; closed → −1 unless they pay.
 
-Never fold a separate **Resistance** (undead vs blades, magic-to-hit) into HP — that stays as soak with a named weakness.
+Do **not** invent a tiny soak “just because the book had AC.” AC 1–2 as flat damage reduction was a **Referee math tax** — players never changed tactics for it.
 
-**Magnitude** (worn kit or odd hide — same bands):
+Worked: **orc in leather** HD 1 → **1W1R**. **Wolf / naked tough** → **all red** (2 × HD). **Wet Devil** HD 8 → **16 red**. **Giant crab** HD 3 → **6 white**; poleax as right tool. **Knight in plate** → heavy white in 2 × HD; magic or pollaxe as right tool. **Dragon** → mostly white; name fire / soft underbelly / etc.
 
-| OSE armor / feel | Soak |
-|---|---|
-| Unarmored / AC 9–8 [10–11] | 0 |
-| Leather / AC 7–6 [12–13] | 1 |
-| Gambeson (Burners rung) | 2 |
-| Chainmail / AC 5–4 [14–15] | 3 |
-| Plate mail / AC 3–2 [16–17] | 4 |
-| Field/full plate / AC 1–0 [18–19] | 5 |
-| Better than 0 [20+] | 5; excess is usually already **Resistance** |
-
-| OSE AC (descending) | Ascending AC | Soak |
-|---|---|---|
-| 9–8 | 10–11 | 0 |
-| 7–6 | 12–13 | 1 |
-| 5–4 | 14–15 | 3 |
-| 3–2 | 16–17 | 4 |
-| 1–0 | 18–19 | 5 |
-| Better than 0 | 20+ | 5+, ask whether the rest is Resistance |
-
-Worked reads: **orc** AC 6 [13] → soak 1, HD 1 → HP = printed (or 5) **+2**. **Skeleton** leather AC → +2 HP; keep blade Resistance separate. **Knight** in plate → Resistance **4** vs weapons, no HP fold. **Dragon** scales → Resistance vs weapons at the soak band.
-
-When a PC **loots** a suit of armor off a foe, that kit becomes ordinary Burners AC for the wearer — the monster never wore it as AC on its block.
+When a PC **loots** a suit of armor off a foe, that kit becomes ordinary Burners AC for the wearer — the monster’s white dice were the table paint, not PC AC.
 
 ### The Damage Die → the Pool
 
-See [[Burners Principles#Pools, not fixed numbers]]. A monster's pool comes from three sources:
-
-- **one die per Hit Die** — HD is the creature's level and the spine of its pool;
-- **dice for its weapon's slots** — a held weapon or a natural attack, read from the damage die below;
-- **the scene's Heat as dice** — added to the enemy side once, so a swarm does not multiply it.
+See [[Burners Principles#Pools, not fixed numbers]]. Preferred Referee play is **Heat-only pool + free quoted attack/Defend** — [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]]. Weapon slots / damage dice still tell **quote weight** (and optional full-dice ports); they are not a second Initiative pile for the Referee.
 
 A monster spends its pool exactly as a character does: each blow is one die, plus one if the weapon is 3+ slots wielded in two hands, and a fierce or many-limbed foe makes extra attacks by its nature — a wolf bites once, a bear claws twice, a hydra strikes per head — the Referee setting how many, not the HD. It defends as anyone does: one die by default, freely once it has made a melee attack this round (see [[Burners Adventure Game]]).
 
-**The damage die sets the weapon's slots** — the dice it throws on the Initiative roll (see [[Burners Arms and Armor]]; Class and Slots are not always the same on that catalog):
+**The damage die sets the weapon's slots** — useful for **blow weight** and for optional PC-like kit on armed monsters (see [[Burners Arms and Armor]]; Class and slots are not always the same on that catalog):
 
 | OSE damage die | Weapon slots |
-|---|---|
-| 1d4 | 1 |
-| 1d6 | 2 |
-| 1d8 | 3 |
-| 1d10 | 4 |
-| 1d12, 2d6+ | 5 |
+| -------------- | ------------ |
+| 1d4            | 1            |
+| 1d6            | 2            |
+| 1d8            | 3            |
+| 1d10           | 4            |
+| 1d12, 2d6+     | 5            |
 
-*Check: an orc (HD 1, sword d8) rolls 1 (HD) + 3 (sword) + Heat dice. An ogre (HD 4+2, d10 club) rolls 4–5 (HD) + 4 (club) + Heat — the deep pool that lets it act first and hit hard.*
+*Check: an orc (HD 1, Heat 3) → **3 + min(1, 6) = 4**. An ogre (HD 5, Heat 6) → **6 + min(5, 12) = 11**. Damage die still guides whether a blow burns one die or two.*
 
-**Natural attacks are weapons.** The damage die sets the slots exactly as a blade's does, and those dice go into the pool: a wolf's d6 jaws throw 2, a bear's d8 paw 3, an ogre's swat 4. Natural weapons fill no *inventory* slots (a bite can't be dropped or looted) — the slot count is only its dice on the Initiative roll.
+**Natural attacks are weapons for the blow**, not for the Initiative pile: a wolf's d6 jaws still feel like 2-slot steel when you burn; those dice are not added again on Roll Initiative.
 
 **Initiative comes from the pool, not a Class.** Initiative is the count of the creature's dice showing 3 or 4 after each round's Roll Initiative; the Referee locks order for that round — so a bigger pool (more HD, a heavier weapon, hotter Heat) tends to act earlier on its own, and there is no Weapon-Class order to track. The exceptions the old stat blocks flagged still hold, set by fiction:
 
@@ -147,16 +121,16 @@ A monster spends its pool exactly as a character does: each blow is one die, plu
 
 ### The Defend Router
 
-An OSE save is a pointer to a Burners subsystem — see [[Burners Principles#Route, don't reinvent]] and [[Burners Principles#Granular defense, not binary save]]. **`2d6 +` the fitting Approach** against the Referee's Cost handles most hazards (see *Approach Roll* in [[Burners Adventure Game]]). Hostile magic uses Fuel Defend against the caster's cast total (see [[Burners Sorcerie]]). Ask what the save protects, then route it:
+An OSE save is a pointer to a Burners subsystem — see [[Burners Principles#Route, don't reinvent]] and [[Burners Principles#Granular defense, not binary save]]. `2d6 +` **the fitting Approach** against the Referee's Cost handles most hazards (see *Approach Roll* in [[Burners Adventure Game]]). Hostile magic uses Fuel Defend against the caster's cast total (see [[Burners Sorcerie]]). Ask what the save protects, then route it:
 
-| OSE says | Burners does |
-|---|---|
-| **Save vs. Breath** | **Area effect** — see [[Burners Principles#Telegraph the unwinnable]]. |
-| **Save vs. Poison (or die)** | **Defend** (Craft) to avoid; **lingering Cost** once it lands. See [[Burners Principles#No instant death]]. |
-| **Save vs. Paralysis** | **Defend** (Craft or Sword) at the touch; fall short and you **stiffen** for a stated clock (ghoul-chill, 2d6 rounds) — recoverable, not permanent. |
-| **Save vs. Petrify** | **Counting doom**: repeated **Defends** (Craft or Sword), each miss a step toward stone; it recovers. Averting your eyes is the counterplay, at the price of fighting blind. |
+| OSE says                                    | Burners does                                                                                                                                                                                                                                                                           |
+| ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Save vs. Breath**                         | **Area effect** — see [[Burners Principles#Telegraph the unwinnable]].                                                                                                                                                                                                                 |
+| **Save vs. Poison (or die)**                | **Defend** (Craft) to avoid; **lingering Cost** once it lands. See [[Burners Principles#No instant death]].                                                                                                                                                                            |
+| **Save vs. Paralysis**                      | **Defend** (Craft or Sword) at the touch; fall short and you **stiffen** for a stated clock (ghoul-chill, 2d6 rounds) — recoverable, not permanent.                                                                                                                                    |
+| **Save vs. Petrify**                        | **Counting doom**: repeated **Defends** (Craft or Sword), each miss a step toward stone; it recovers. Averting your eyes is the counterplay, at the price of fighting blind.                                                                                                           |
 | **Save vs. Spells / Wands / Rods / Staves** | Fuel **Defend** vs **cast total**; roll initiative OOC. See [[Burners Principles#Granular defense, not binary save]] and [[Burners Principles#Harm and effect are separate lanes]]. **Ward:** adjacent Sorcerer burns ≤ Sorcerie Level Fuel to cut the attack, then each ally Defends. |
-| **Save vs. Death effects** | **Shock Check** and **Wounds**, then post-fight help + Craft survival — see [[Burners Principles#No instant death]] and [[Burners Adventure Game#Wounds]]. |
+| **Save vs. Death effects**                  | **Shock Check** and **Wounds**, then post-fight help + Craft survival — see [[Burners Principles#No instant death]] and [[Burners Adventure Game#Wounds]].                                                                                                                             |
 
 **Which Approach?** Craft to dodge a dart, pit, or poison; Sword to force a door, hold your feet, or stay conscious; Heart against fear and horror; Sorcerie to dredge up what you know against the uncanny. The player may argue for another Approach if the fiction fits. When in doubt: Craft to avoid, Sword to endure.
 
@@ -165,43 +139,43 @@ An OSE save is a pointer to a Burners subsystem — see [[Burners Principles#Rou
 Burners has no ability scores on the sheet. On the rare occasion a module wants an actual number — an opposed feat of might, a stat-keyed gate — derive one on the fly as **10 + the fitting Approach level**:
 
 | Old score | Approach |
-|---|---|
-| STR | Sword |
-| DEX, CON | Craft |
-| WIS, CHA | Heart |
-| INT | Sorcerie |
+| --------- | -------- |
+| STR       | Sword    |
+| DEX, CON  | Craft    |
+| WIS, CHA  | Heart    |
+| INT       | Sorcerie |
 
-So a Sword 3 stands at an effective 13, a Craft 2 at 12. This is a fallback for the odd direct comparison, not a number to track — most endurance routes through a **Defend (`2d6 +` Approach)** and most contests are a **Pay** or **Deal** roll the same way.
+So a Sword 3 stands at an effective 13, a Craft 2 at 12. This is a fallback for the odd direct comparison, not a number to track — most endurance routes through a **Defend (**`2d6 +` **Approach)** and most contests are a **Pay** or **Deal** roll the same way.
 
-### "Magic Weapons to Hit" → Resistance
+### "Magic Weapons to Hit" → armor + right tool
 
-See [[Burners Principles#Armor and Resistance soak; they never roll]].
+See [[Burners Principles#Armor soaks; monsters use white and red Hit Dice]].
 
-| OSE says | Burners Resistance | The feel |
-|---|---|---|
-| Silver or magic to hit | **Resistance ~3–4** vs mundane arms; silver (or the named weakness) **bypasses it entirely** | *Resistant.* Soldiers grind it down slowly; a mob still drags it under; the smart play is the weakness. |
-| +1 or better to hit | **High Resistance** vs mundane arms — enough that ordinary blows barely tell — bypassed by a legendary/named blade or the stated weakness | *Unearthly.* Mortal steel is folklore against it; the right edge makes it mortal. |
-| +2/+3 or better to hit | **Not a bigger number** — the same high Resistance plus a weakness that must be *discovered*, or a fiction gate (*it cannot fall while the phylactery stands*) | *A puzzle wearing a stat.* |
+| OSE says               | Burners                                                                                         | The feel                                                                                                |
+| ---------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| Silver or magic to hit | Heavy **white** in the 2 × HD mix; players may spend Fuel to claim silver/magic as the right tool | *Resistant.* Ordinary steel pays the −1; the smart play is the claim. |
+| +1 or better to hit    | Same; right-tool fiction = legendary blade or stated weakness                                 | *Unearthly.* Mortal steel is folklore; the right edge makes it mortal.                       |
+| +2/+3 or better to hit | Same — the right tool may need *discovery*, or a fiction gate (*phylactery*)              | *A puzzle wearing a stack.* Not a bigger Resistance number.                                              |
 
-Every Resistance above a point or two **names its cause** — see [[Burners Principles#Armor and Resistance soak; they never roll]]. A named weakness **ignores** Resistance, the way a Bane-forged weapon ignores its quarry's soak (see [[Burners Arms and Armor]]).
+The **right tool** is a **player spend** (1 Fuel + fiction), not a Ref auto-switch — see [[Burners Principles#Armor soaks; monsters use white and red Hit Dice]]. Same spirit as a Bane-forged weapon (see [[Burners Arms and Armor]]).
 
 **Undead & energy drain** (OSE): **no levels lost.** Any of the Fallen that **wounds** you opens a **Fallen Wound**. Midnight / Purge: husks deepen by **1**; drainers by `1d6` + `1d6` per OSE drain level (wight `2d6`). Immediate Craft survival; die unclean → spawn; die from purge → no spawn. See [[Burners Burn Undead#Fallen Wounds]] and [[Burners Principles#No instant death]].
 
-**Mobs vs. the unearthly:** see [[Burners Principles#Armor and Resistance soak; they never roll]].
+**Mobs vs. the unearthly:** see [[Burners Principles#Armor soaks; monsters use white and red Hit Dice]].
 
 ---
 
 ## Checks, Doors, and Skills
 
-A module check splits two ways. A trained or skilled attempt — thief skills, foraging, listening at doors — becomes **`2d6 +` fitting Approach vs. Heat**, quoted as a **Pay** (the world acts on you — shortfall is the cost) or a **Deal** (you act on it — shortfall is no purchase). A raw attribute check with no skill behind it — bend bars, leap a chasm, stare down a horror — is the same: `2d6 +` Sword, Craft, or Heart vs the Referee's Cost.
+A module check splits two ways. A trained or skilled attempt — thief skills, foraging, listening at doors — becomes `2d6 +` **fitting Approach vs. Heat**, quoted as a **Pay** (the world acts on you — shortfall is the cost) or a **Deal** (you act on it — shortfall is no purchase). A raw attribute check with no skill behind it — bend bars, leap a chasm, stare down a horror — is the same: `2d6 +` Sword, Craft, or Heart vs the Referee's Cost.
 
 | OSE chance | Heat |
-|---|---|
-| 5-in-6 | 6 |
-| 4-in-6 | 7 |
-| 3-in-6 | 8 |
-| 2-in-6 | 9 |
-| 1-in-6 | 10 |
+| ---------- | ---- |
+| 5-in-6     | 6    |
+| 4-in-6     | 7    |
+| 3-in-6     | 8    |
+| 2-in-6     | 9    |
+| 1-in-6     | 10   |
 
 Stuck doors, thief skills, foraging, listening at doors — all this table. A trained Approach shifts the odds; that is the point of being a Burner.
 
@@ -209,9 +183,9 @@ Stuck doors, thief skills, foraging, listening at doors — all this table. A tr
 
 **Worked in the margin — the OSE zombie** (AC 8 [11] · HD 2 (9hp) · 1 × weapon, 1d8 · Morale 12):
 
-> **Zombie.** HP 9 (as printed; soak 0, no fold) · pool = 2 (HD) + 3 (d8 fists) + Heat dice · **Shambling** — acts last · Morale 12 as written · **XP 20** (HD 2).
+> **Zombie.** HD 2 → **4 red** (AC 8 → no kit) · Heat dish for the side · **Shambling** — acts last · Morale 12 as written · **XP 20**. Quote fists as heavy (**4**).
 
-Read straight off the printed block — HP (folded if the AC had soak), the two numbers that build its pool, Resistance-if-any, its tempo, its Morale.
+Read straight off the printed block — 2 × HD (white/red mix), Heat, right-tool-if-any, tempo, Morale.
 
 ---
 
@@ -244,9 +218,9 @@ Potions, rings, and wondrous items stay as written above. Do not raise AC or siz
 
 - **Lethality is comparable** — B/X at low levels is brutal and Burners characters are lean. Large mobs can spike past any defend; use swarm splitting and chokepoints.
 - **Foreshadowing is mechanical** — see [[Burners Principles#Heat is scene pressure]].
-- **Solo bosses** need HP enough to survive the party's first-round burst, or they die before their first telegraph.
+- **Solo bosses** need enough white (and red) in 2 × HD to survive the party's first-round burst, or they die before their first telegraph.
 - **Don't double-count dread** — see [[Burners Principles#Heat is scene pressure]].
 
 ---
 
-> *Read the stat block once, write it in the margin — HP (folded AC if any), the pool (HD + weapon slots), Resistance-if-any, XP by HD — route the saves through Defend, and run it.*
+> *Read the stat block once, write it in the margin — 2 × HD (white/red mix), Heat, right-tool-if-any, XP by HD — route the saves through Defend, and run it.*

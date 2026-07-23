@@ -31,7 +31,7 @@ The hard ask is your own. Anyone the Fallen slew may look only dead — a friend
 
 ### Fire Turns Undead
 
-- **Turn Undead:** 1 Turn outside a fight. Use a torch, bonfire, holy oil, or other Incendiaries to show the undead you mean to burn them, driving them back. If asked by the Referee, roll `2d6 + Heart` vs Hit Dice + Heat. Meet: husks that fear fire recoil 1 Turn. Miss: they come on. Flask spent; torch not.
+- **Turn Undead:** 1 Turn outside a fight. Use a torch, bonfire, holy oil, or other Incendiaries to show the undead you mean to burn them, driving them back. If asked by the Referee, roll `2d6 + Heart` vs **Hit Dice + Heat**. **HD** is the kind in the firelight (a zombie knot is HD **1**, not thirty summed) — or the worst husk among them if mixed. **Heat** already prices how many press the room. Meet: husks that fear fire and can see the flame recoil **1 Turn** (the knot in reach of the light, not every corpse in the bottle). Miss: they come on. Flask spent; torch not.
 - **Brandish:** combat Action. Fuel an attack with torch, brand, holy water, or holy oil, or Fuel a Spark to **Man-handle**. Ignores blade-Resistance on husks that fear fire. Man-handle: they Defend; failure drives them from your light 1 round. No effect on willful Fallen. Thrown fire: [[Burners Arms and Armor#Incendiaries & Alchemy]].
 
 ### Fire Burns Undead

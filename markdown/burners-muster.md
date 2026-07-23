@@ -112,7 +112,7 @@ Muster slots hold **people**, not gear. Kit rides on them; outfit and new gear c
 
 Muster slots buy packing, Fuel, Initiative, Manage, **Boss-player control**, **no fight Loyalty while the Boss is active**, and **Heart on Loyalty checks** — not a different XP track.
 
-**Non-Bosses** may still hire retainers. Without Muster they do not gain Muster-slot Initiative; the Referee runs those NPCs.
+**Non-Bosses** may still hire retainers. Without Muster they do not gain Muster-slot Initiative; by the book the Referee runs those NPCs. **Table practice (preferred):** the **hiring player's player** still rolls and plays the hireling in a fight — Initiative, Fuel, attacks — so the retainer is not stuck last as a forgotten Ref turn. The Referee keeps **Loyalty** checks (and takes the sheet back if the hirer is down, fled, or absent). Mustering remains the Boss privilege for full share, no-fight-Loyalty, and Manage.
 
 ---
 

@@ -77,7 +77,7 @@ Quick definitions. Details live in the chapters below.
 
 - **Empty slots:** free space is speed. Every empty slot adds a die to your Fuel on the Initiative roll, up to four. Light kit, quick feet. Dropping something to free a slot is an action. Muster and Arcana slots never also count as empty.
 
-- **Armor class (AC):** damage reduction provided by armor against weapon attacks. Leather 1, gambeson 2, mail 3, plate 4.
+- **Armor class (AC):** damage soaked by armor before HP. Leather 1, gambeson 2, mail 3, plate mail / field plate 4, full plate 5.
 
 ### HP, Heat, and Wounds
 
@@ -91,7 +91,7 @@ Quick definitions. Details live in the chapters below.
 
 - **Wound effects:** where you were hit matters. A leg wound puts you in the dirt. A head hit narrows your sight. And so on.
 
-- **Shock Check:** when a Wound opens, roll **`2d6 + Sword` vs total wound severity** or drop out of the fight. Natural **1+1** always fails; **6+6** always succeeds. See *Wounds*.
+- **Shock Check:** when a Wound opens, roll **`2d6 + Sword` vs total wound severity**. Fail and the shock table lands (dirt, stun, knockout…). Natural **1+1** always fails; **6+6** always succeeds. See *Wounds*.
 
 ### Play
 
@@ -105,9 +105,7 @@ Quick definitions. Details live in the chapters below.
 
 - **Alignment:** like an Approach, but for a specific situation or bond with a patron, guild, or power. Count every relevant Trait across all your Approaches, divide by 4, round down. See *Alignment*.
 
-- **Muster:** Heart 1+ loadout. Split physical / **Muster slots**; **one slot per retainer**. See *Muster* and [[Burners Muster]].
-
-- **Manage:** Boss Action — forgo your Action; up to **Heart** Mustering retainers use half round **up** that round instead of down. See [[Burners Muster]].
+- **Muster / Manage:** Heart 1+ — hire and run retainers. Full rules: [[Burners Muster]].
 
 - **Sweet and Spicy:** a rolled 6 is Sweet (a good twist); a rolled 1 is Spicy (a complication). These ride alongside the sum and never change it. Two 6s (a natural 12) is the perfect roll. Two 1s (a natural 2) is a fumble.
 
@@ -129,34 +127,15 @@ See *Combat*.
   - **Flurry (Spark):** When attacking, Fuel a Spark to attack again (burn Fuel as for a normal attack); armor applies normally.
   - **Man-handle (Spark):** Fuel a Spark to shove, grab, trip, or knock down a foe. The Referee may provide free defense dice for foes who are hard to man-handle; for example, bullying a ruffian is easier than wrestling a bear.
   - **Impale (Spark):** When attacking with a Stabbity weapon (dagger, rondel, short sword…), Fuel a Spark to thrust deeper into the same spot; armor does not soak the Fuel you burn to Fuel it.
+  - **Sever (Spark):** Only vs foes with **too many parts** — octopus, spider, hydra, swarm-limbs, and the like. When attacking with a Cutty / chopping weapon (poleax, battle ax, greatsword, cleaver…), Fuel a Spark with **1** Fuel to hack off one spare limb or head. That part's attack is gone for the fight. Not for ordinary humanoids (use Wounds / Man-handle).
 
-- **Defend:** armor soaks the blow first; burn Fuel to cut the damage that remains. Caps:
-  - vs melee: 1 die; no limit if you made a melee attack this round (any foe)
-  - vs missile: 1 die; 2 if you have Cover
-  - vs fire: no limit for you (a Burner or creature born in fire); 1 die for others
-  - vs magic: no limit
-  - **Counterattack (Spark):** Fuel a Spark with another die for an immediate counterattack, except as under Cover.
+- **Defend:** armor soaks the blow first; burn Fuel to cut the damage that remains. Caps: melee 1 die (no limit if you meleed this round); missile 1 die (2 with Cover); hostile magic no limit. **Counterattack** / **Cover** / **Block** / **In the dirt**: see *Combat*.
 
-- **Cover:** fiction that lets you burn 2 dice vs a missile when you are protected by some kind of "cover" (wall, shield, creature, etc.).
-  - **Hit the Cover (Spark):** If you Fuel a Spark under Cover, the attack hits the cover.
-
-- **Block:** spend an attack and "block!" an attack aimed at an adjacent ally, interposing yourself between them and the attack. The attack redirects to you; defend it normally. You are "taking a hit for the team".
-
-- **In the dirt:** flat on the ground — a risky place to be. **All Fuel burned while in the dirt must be re-rolled** — the new face is what counts (blow, Defend, cast, Block, Man-handle). Rise free on your Action; if a foe presses you in melee, rising costs a die re-rolled **3+** (fail and you stay down; the die is burned either way). You may **throw yourself in the dirt** on your turn (dirty fighting — free with your Action) when the pool is trash and you need a scramble.
-
-- **Cast (Sorcerer only):** one Action in combat; burn at least SL Fuel dice and roll them. The **cast total** is the sum of those faces. On a Spark, you may Fuel it with one or more additional Fuel dice, up to SL, for extra effect. The spell's **card taps** (or stays *in play* if lasting). You may **burn** other ready cards in the same Action to recast from discard or copy a working in play. See *Magic* and [[Burners Sorcerie]].
-
-- **Ward (Sorcerer only):** at any time, cut a **hostile magic** attack (spell cast total, magical breath, and the like — not mundane fire alone) aimed at adjacent allies or a tight group. Burn up to your **Sorcerie Level** in Fuel; subtract the sum from the attack value. **Each ally then Defends normally** against what remains. No school Trait required; no card. Does not take an Action. Example: a vampire *charms* a friend — Sorcerie 1 burns 1 Fuel (face 5), cutting the cast total before the friend Defends.
+- **Cast / Ward (Sorcerer):** combat cast and cutting hostile magic for allies. Full procedure: [[Burners Sorcerie]].
 
 ### Monsters
 
-- **Monster:** an enemy, regardless of species.
-
-- **Damage:** the faces of Fuel burned on a blow. Armor (PC AC) or Resistance (monsters) soaks first; Defend cuts what remains; anything left comes off HP.
-
-- **Resistance:** flat damage reduction against a named kind of harm: fire, silver, blades through bone, famous armor or hide, and so on.
-
-- **Cracked! / Splatted!** Damage through armor comes off HP. At **0 down to −Max HP** the monster is **Cracked!**: no AC, no Resistance, no Fuel refill on Roll Initiative. Keep remaining Fuel; the next damaging hit finishes it. **Past −Max HP** it is **Splatted!** — dead now. Named or solo foes may use full PC Wounds and Shock instead.
+- **Monster:** an enemy. You announce damage; the Referee converts it. You hear **Cracked!** when the shell goes. Full procedure: [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]].
 
 ---
 
@@ -367,7 +346,7 @@ When you reach level 1 in an Approach, you earn its title. The title turns on th
 
 **The Journeyman's craft (Craft 1+).** As a Veteran you rule the melee. As a Journeyman you rule the journey. Your Craft level reduces party-wide costs from travel, weather, and survival: cold, heat, hunger, thirst, exhaustion, forced marches, rough terrain, getting lost. When the Referee quotes such a cost, subtract your Craft level from it for everyone you are guiding. Often that drops the cost low enough that the Referee waives the roll. Example: the biting cold rain adds 6 Heat, and you are a Journeyman with Craft 3 who has a deadfall shelter and a fire going. You cut it to 3. Without Craft 1+ you can endure the wilds yourself, but you cannot shepherd others through them.
 
-**The Boss's command (Heart 1+).** As a Veteran you rule the melee. As a Journeyman, the journey. As a Sorcerer, the unseen. As a Boss, the Muster. Heart unlocks **Muster**: split your twelve into physical kit and **Muster slots** — **one slot per retainer**. Packing cost is the tax. Mustering retainers are **yours to play and roll** — like a PC — and make **no Loyalty checks in a fight** while you are active; retainers not Mustering stay Referee NPCs and check more often. Spend your **Action** to **Manage** the Muster (you take no other Action): up to your **Heart** Mustering retainers get half round **up** that round. Mustering retainers take a **full** XP share; others keep half — see [[Burners Muster]]. After the job (and when you are down or fled), the Referee checks **Loyalty** (`2d6` ≤ Loyalty, with mods); **Mustered** retainers always add your **Heart** while you are active. **Loyal** is a tag (+3 Loyalty; they act loyally when they hold) — apply it when the bond is real. **Any delver** can hire retainers for coin. Full rules: [[Burners Muster]].
+**The Boss's command (Heart 1+).** As a Veteran you rule the melee. As a Journeyman, the journey. As a Sorcerer, the unseen. As a Boss, the Muster. Heart unlocks **Muster** and **Manage**. Anyone with coin can hire retainers; a Boss Mustering them plays them at the table. Full rules: [[Burners Muster]].
 
 ## Alignment
 
@@ -396,12 +375,7 @@ Armor is what you wear. It soaks on the way in. Its AC comes off every blow befo
 
 ## Sample Traits by Approach
 
-See *Traits* under Character Creation for the full sample lists. Short form:
-
-- **Sword:** arms, armor, and the fight — skills like arming sword, shield, ambush, tactics; trained-only greatsword, poleax, longbow, plate armor. Qualities: strong, fearless, relentless, steady, iron-willed, veteran.
-- **Craft:** lockpicking, stealth, tracking, disguise, sailing, herbalism, smithing, survival, bushcraft; **Canting** opens the Darkman's school (Craft, not Sorcerie). Qualities: nimble, observant, patient, resourceful, quiet, cunning.
-- **Heart:** persuasion, intimidation, deception, leadership, empathy, trading, medicine, performance, streetwise; languages as Traits (Northmaren, Harn, Eldarin, …). Qualities: charming, commanding, loyal, silver-tongued, well-connected.
-- **Sorcerie:** qualities like perceptive, studious, second-sight, haunted; arts like divination and alchemy. Magic schools are Traits (trained-only): **Vitae**, **Elementale**, **Thaumaturgy**, **Illusione**, **Umbrakala**, **Necromantia**, and **Canting** (Craft). Common **Sorcerie** needs no Trait.
+See *Traits* under Character Creation.
 
 ## Sample Party
 
@@ -508,7 +482,7 @@ There is no separate birthright to withstand a danger. You endure with the same 
 - **Heart:** hold your nerve against fear, a charm, a horror from the dark.
 - **Sorcerie:** shrug off a mind-magic and dredge up what you know.
 
-Where none fits, work it as an Alignment (see Alignment). Hostile magic in a fight uses Fuel Defend against the caster's cast total (see *Defending against a spell* under Combat and [[Burners Sorcerie]]).
+Where none fits, work it as an Alignment (see Alignment). Hostile magic in a fight uses Fuel Defend against the caster's cast total — see [[Burners Sorcerie]].
 
 #### Sweet & Spicy
 
@@ -537,9 +511,9 @@ Being surprised, caught, or outmaneuvered is not a bypass. The Referee adds a si
 
 A coup de grace finishes a helpless foe outright. A truly helpless foe (bound, asleep, or pinned and ignored), finished at leisure, is dispatched by the finishing action rather than a defend.
 
-**A shown threat sets the room.** A monster's menace, shown before it strikes, is its Hit Dice. Reveal a threat and its HD become the floor of the Heat gauge, climbing in stages as the crew learns it: spoor, then half-eaten kills, then the beast itself at full HD. A pack sets the floor by summed Hit Dice, capped by chokepoints and the dark. Its presence sets the room. Its attacks still quote its own Damage (Hit Dice plus weapon) against your defense and HP. Conceal the threat instead and it raises no Heat; it strikes from surprise. Overcome or evade it and the menace vents away.
+**A shown threat sets the room.** When the crew learns a menace is real, Heat rises with that reveal. Conceal it and it raises no Heat — it strikes from surprise instead. Overcome or evade it and the menace vents away. How the Referee floors the gauge (Hit Dice, packs, chokepoints): [[Burners Referee Guide]].
 
-**Venting Heat.** The gauge falls when the crew acts on the room, not on demand. Overcome a named threat (a sentry silenced, a door barred, a beast felled) and it drops 2. Remove a named source (quench the fire, kill the lantern, learn the ward-phrase) and it drops 1, more if that source set the temperature. A Double Sweet on any roll vents 1. A word or a plan that steadies the room, if the Referee buys it, vents 1 once a scene. Folding ends the scene and cools the gauge to the next scene's base. Downtime (a safe camp or a town between jobs) returns Heat to base. A job that ended loud raises the base of what follows until the crew lies low.
+**Venting Heat.** The gauge falls when the crew acts on the room, not on demand — silence a sentry, bar a door, quench the fire, steady the room with a plan the Referee buys. A Double Sweet vents 1. Folding ends the scene and cools the gauge to the next scene's base. Downtime returns Heat to base. A job that ended loud raises the base of what follows until the crew lies low.
 
 ### Wounds
 
@@ -650,14 +624,15 @@ If you empty your hand on offense you are caught winded until the next Roll Init
 - **Spark: Flurry.** When attacking, Fuel the Spark to attack again (burn Fuel as for a normal attack); armor applies normally.
 - **Spark: Man-handle.** Fuel a Spark to "man-handle": shove, grab, trip, or knock down, or otherwise grapple/wrestle with foe. The Referee may provide free defense dice for foes who are hard to man-handle; for example, man-handling a ruffian is easier than wrestling a bear.
 - **Spark: Impale.** When attacking with a Stabbity weapon (dagger, rondel, short sword…), Fuel the Spark to thrust deeper into the same spot; armor does not soak the Fuel you burn to Fuel it.
+- **Spark: Sever.** Only vs foes with **too many parts** — octopus, spider, hydra, swarm-limbs, and the like. When attacking with a Cutty / chopping weapon (poleax, battle ax, greatsword, cleaver…), Fuel the Spark with **1** Fuel to hack off one spare limb or head. That part's attack is gone for the fight. Not for ordinary humanoids (use Wounds / Man-handle). Soft many-part pests may simply drop a segment and flee. A part that is the whole fight (one neck left on a hydra) may be denied or cost more.
 - **Spark: Counterattack.** After a Defend Sparks, Fuel it with another die for an immediate counterattack; that die's face is its damage.
 - **Spark: Break Armor.** Break armor so it provides no AC for the rest of the fight. This requires an armor-piercing weapon whose Weapon Class exceeds the armor's AC (WC > AC; see [[Burners Arms and Armor]]). Fuel the Spark with 1 Fuel. Against poor-quality or ruined armor — a skeleton's rusty mail, a rotten shield — the Spark itself is fuel enough.
 
-**Attacking.** You make one attack a round (as a Veteran you make more; see below). Burn one Fuel die; its face is the damage. A weapon of **3+ slots wielded in two hands** can burn a second die. Up to two dice a blow from mundane steel, all burned from your Fuel, their faces together the damage. Resolve the blow in order: the target's soak first (a Burner's **armor AC**, or a monster's **Resistance** if any — monsters have no AC; see [[Burners Referee Guide]]), then the defender may burn Fuel to cut what remains (see *Defending*), then anything left comes off HP. Past 0 the overflow is a Wound. Because armor soaks every blow on the way in, a flurry of small hits is how you cut down an unarmored Burner; heavier steel cracks plated kit. Hunting bows and other 2-slot arms stay one die.
+**Attacking.** You make one attack a round (as a Veteran you make more; see below). Burn one Fuel die; its face is the damage. A weapon of **3+ slots wielded in two hands** can burn a second die. Up to two dice a blow from mundane steel, all burned from your Fuel, their faces together the damage. Against a Burner: **armor AC** soaks first, then Defend, then HP — past 0 the overflow is a Wound. Against a monster: announce the damage; the Referee converts it (see *Monsters* in the glossary). Because armor soaks every blow on the way in, a flurry of small hits is how you cut down an unarmored Burner; heavier steel cracks plated kit. Hunting bows and other 2-slot arms stay one die.
 
 **Veteran Attacks.** As a Veteran you strike more than once: one extra attack per Sword level. At Sword 1 you make two. At Sword 3 you make four. Each is its own blow of its own dice, all inside your single Attack action. Each may fall on the same foe or spread across several. Any of these attacks may instead be spent to **Block** an attack intended for an ally.
 
-**Defending.** There is no defense roll. Blows land. When struck, your armor soaks the incoming Damage first. Then burn Fuel dice and cut the damage that remains by their faces; anything left comes off your HP. Caps: **melee** — one die, or no limit if you made a melee attack this round (any foe); **missile** — one die, or two if you have Cover; **hostile magic** — no limit. While **in the dirt**, same caps — but all Fuel burned must be re-rolled. If a natural 6 Sparks while defending, Fuel it with another die for a **Counterattack** (except as under Cover). If you're the archer or mage caught in reach without having meleed, you cut each melee blow with a single die.
+**Defending.** There is no defense roll. Blows land. When struck, your armor soaks the incoming Damage first. Then burn Fuel dice and cut the damage that remains by their faces; anything left comes off your HP. Caps: **melee** — one die, or no limit if you made a melee attack this round (any foe); **missile** — one die, or two if you have Cover; **hostile magic** — no limit (Defend against the cast total; overrun may land control instead of HP — [[Burners Sorcerie]]). Fire from an incendiary is an area effect, not a defended blow — [[Burners Arms and Armor#Incendiaries & Alchemy]]. While **in the dirt**, same caps — but all Fuel burned must be re-rolled. If a natural 6 Sparks while defending, Fuel it with another die for a **Counterattack** (except as under Cover). If you're the archer or mage caught in reach without having meleed, you cut each melee blow with a single die.
 
 *Example — dirty fighting. Aldric's Fuel is a ruin: 2, 2, 1, 1. The ogre's club is coming for 13 and he has already meleed, so he may Defend without limit. His chain mail soaks 3 first, leaving 10 — but those faces will not cut it. He throws himself in the dirt (free with what's left of the exchange). He dumps three dice into the Defend; each re-rolls: 5, 4, 6 = 15. Club stopped, and the 6 Sparks. He Fuels the Spark with his last die; it re-rolls to 1, an immediate Counterattack from the dirt for 1 Damage. Cinema. Next he still has to rise under the press — a die re-rolled 3+ — or keep scrambling in the dirt.*
 
@@ -683,35 +658,21 @@ Armor is what you wear; its AC comes off every blow before HP.
 
 ### We Burn Undead
 
-You burn the Fallen — **Turn** them outside a fight (1 Turn, `2d6 + Heart` vs HD + Heat), **Brandish** in the press (Fuel), or **Pyre of the Fallen** (burn the bones so they do not walk again). A Wound from the Fallen is a **Fallen Wound**. Willful Fallen laugh at bare flame — woken edge, or nerve. Full page: [[Burners Burn Undead]].
-
-### Defending against Damage
-
-There is no defense roll to fail; when struck your armor soaks first, then you burn Fuel to cut what remains (see Combat). Soften foes at range, strike hard, and break off before your dice run out.
-
-**Defending against a spell.** Hostile magic uses Fuel Defend against the caster's **cast total**, the same way you cut a blow. Full procedure: *Defending against a spell* in [[Burners Sorcerie]].
+Wounds inflicted by the Fallen (undead) fester and fell the victim, who joins their dismal ranks. The Fallen burn cheerily in **fyre**, and fear naught else. [[Burners Burn Undead]].
 
 ## Magic
 
-Magic is prepared, not spontaneous. Spells are **cards**: your spellbook is the deck, your **hand** is what you can cast now, and your **Arcana slot count** sets hand size. Arcana slots hold **Wizard Drip** (or a Canting rogue's kicks), not cards — the hand is personal. **Cast** taps a card; **burn** exiles ready cards in the same Action to recast or copy. After 8 hours' sleep you recover up to Sorcerie Level cards (Craft Level for Canting) from tapped/burned/lasting. **Scrolls** are single-use items (physical or Arcana slot), not cards — cast and spent; hand untouched. **Potions** are downtime brew in a **physical** slot; anyone may drink. Hostile magic is Defended like steel.
-
-Magic touches your game in two places. The Sorcerer title (Sorcerie 1) lets you cast. Your combat cast is one Action that burns at least SL Fuel dice (SL = the spell's level) and rolls them for the cast total. The spell catalog is [[Burners Spells]].
-
-The full rules are on **[[Burners Sorcerie]]**. The catalog is **[[Burners Spells]]**. You need them if you are a Sorcerer (or a Journeyman on the Canting road). At the table you need how a spell hits you (*Defending against a spell*, under Combat).
+Spells are **cards** in a hand sized by your Arcana slots. The Sorcerer title (Sorcerie 1) lets you cast; in a fight that is one Action burning at least SL Fuel for the cast total. Hostile magic is Defended like steel. Full rules: **[[Burners Sorcerie]]**. Catalog: **[[Burners Spells]]**. Canting Journeymen walk the same road under Craft.
 
 ### Relics and sentient items
 
-**Relics** and **sentient items** are covered on [[Burners Invocations]] (Alignment with a patron, Relic +1, true names). They are not spells; they interact with Signatures and legendary items as the Referee defines. Spell magic remains [[Burners Sorcerie]] / [[Burners Spells]].
+**Relics** and **sentient items** are covered on [[Burners Invocations]]. They are not spells. Spell magic remains [[Burners Sorcerie]] / [[Burners Spells]].
 
 ## Muster
 
 *Ok boys, check your kit, check your weapons, it's today. You get a pint and a chaser, no more. Let's go*
 
-Anyone with coin can hire a retainer for the adventure. A **Boss (Heart 1+)** **Musters** today's crew: **physical / Muster** split, **one Muster slot per retainer**. Mustering: Boss player plays and rolls; no fight Loyalty while the Boss is active; Heart on Loyalty checks; **full** XP share. Not Mustering: Referee NPCs, check Loyalty more often; **half** XP award. Spend your Action to **Manage** the Muster (forgo your Action; up to **Heart** retainers get half round up). **Loyal** (+3 Loyalty, act loyally) is a tag.
-
-Starting Boss: **11 physical + 1 Muster**, starter **loyal retainer** Mustering (level 1, Sword or Craft). Re-Muster before a job or on any 8-hour sleep.
-
-Retainers, half power, Manage, Loyalty, and examples: **[[Burners Muster]]**.
+Anyone with coin can hire a retainer. A **Boss (Heart 1+)** **Musters** today's crew and plays them at the table. Starting Boss kit, Manage, Loyalty, half power, and examples: **[[Burners Muster]]**.
 
 ## Lingering Costs: Poison, Petrification, Paralysis
 
@@ -719,7 +680,7 @@ When you endure cleanly you avoid the bite: the fitting Approach against its Cos
 
 ## Area Effects
 
-Counter a monster breath by raising your shield (a legendary shield is broad), by **Warding** magical breath (Sorcerer Fuel cut, then each ally Defends), by cover, or by resistance. A **spell** area effect uses **Defend** and overrun like any other hostile working (see *Defending against a spell* in [[Burners Sorcerie]]).
+Counter a monster breath by raising your shield (a legendary shield is broad), by **Warding** magical breath, by cover, or by resistance. A **spell** area effect Defends like any other hostile working — see [[Burners Sorcerie]].
 
 ## Influence
 

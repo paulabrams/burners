@@ -592,7 +592,7 @@ Illusione 1: Anything magical within line of sight glows and reveals its propert
 
 #### Dragon's Breath
 
-Elementale 1: Cone 60'. Each target may Defend; overrun to HP (− Resistance).
+Elementale 1: Cone 60'. Each target may Defend; overrun to HP (− AC if physical; monsters → Hits).
 
 #### Filch
 
@@ -627,7 +627,7 @@ one **open limb wound** (not vital). Does nothing at **0 HP or less** — that i
 
 #### Heat Metal
 
-Elementale 1: One metal object glows hot for Sorcerie turns; holder takes **1d6** per round to HP (− Resistance). Unless dropped.
+Elementale 1: One metal object glows hot for Sorcerie turns; holder takes **1d6** per round to HP (− AC if physical; monsters → Hits). Unless dropped.
 
 #### Icy Touch
 
@@ -815,7 +815,7 @@ Illusione 2: You appear dead for Sorcerie hours; vital signs absent. Wound check
 
 #### Fire Shield
 
-Elementale 2: Flames wreath you for Sorcerie turns; melee attackers take **1d6** to HP (− Resistance) when their blow lands.
+Elementale 2: Flames wreath you for Sorcerie turns; melee attackers take **1d6** to HP (− AC if physical; monsters → Hits) when their blow lands.
 
 
 #### Fleet Pad
@@ -868,7 +868,7 @@ Thaumaturgy 2: Make Sorcerie objects hover 2' above the ground, frictionless. Th
 
 #### Ice Heart
 
-Umbrakala 2: An ice layer spreads across a surface, up to Sorcerie × 10' in radius; creatures touched may Defend; overrun to HP (− Resistance).
+Umbrakala 2: An ice layer spreads across a surface, up to Sorcerie × 10' in radius; creatures touched may Defend; overrun to HP (− AC if physical; monsters → Hits).
 
 #### Increase Gravity
 
@@ -952,7 +952,7 @@ Thaumaturgy 3: Mechanisms (locks, traps, clockwork) obey simple commands for Sor
 
 #### Corpse Explosion
 
-Necromantia 3: 10' burst from one corpse. Each target may Defend; overrun to HP (− Resistance).
+Necromantia 3: 10' burst from one corpse. Each target may Defend; overrun to HP (− AC if physical; monsters → Hits).
 
 #### Darkmans Cloak
 
@@ -989,7 +989,7 @@ Illusione 3: Sorcerie creatures are invisible for as long as they can hold their
 
 #### Lightning Strike
 
-Elementale 3: Defend; overrun to HP (− Resistance).
+Elementale 3: Defend; overrun to HP (− AC if physical; monsters → Hits).
 
 #### Liquid Air
 
@@ -1001,7 +1001,7 @@ Thaumaturgy 3: Repair one broken mundane object up to chair-size; magical items 
 
 #### Mind Shatter
 
-Umbrakala 3: Psychic — ignores Resistance. Defend; overrun to HP **or** stunned 1 turn if defense < cast (not both).
+Umbrakala 3: Psychic — ignores AC (monsters → Hits). Defend; overrun to HP **or** stunned 1 turn if defense < cast (not both).
 
 #### Mirror Image
 
@@ -1041,11 +1041,11 @@ Vitae 3: Sorcerie creatures in sight develop an intense hatred of violence for S
 
 #### Pain Echo
 
-Necromantia 3: One creature feels your wound pain; if you have an open wound, they take **1d6** HP (ignores Resistance).
+Necromantia 3: One creature feels your wound pain; if you have an open wound, they take **1d6** HP (ignores AC (monsters → Hits)).
 
 #### Phantasmal Force
 
-Illusione 3: Moving illusion. If believed: psychic — ignores AC. Defend; overrun to HP (− Resistance).
+Illusione 3: Moving illusion. If believed: psychic — ignores AC. Defend; overrun to HP (− AC if physical; monsters → Hits).
 
 #### Phantom Sound
 
@@ -1097,7 +1097,7 @@ Vitae 3: For Sorcerie hours you know the true direction to one named place you h
 
 #### Steam Form
 
-Elementale 3: Your body and gear become scalding steam for Sorcerie turns. You pass through small gaps; creatures you pass through take **1d6** to HP (− Resistance) — stepping clear is the defense. Cold or a strong wind disperses you for a round. You cannot cast other spells while vapor. #needs-playtest
+Elementale 3: Your body and gear become scalding steam for Sorcerie turns. You pass through small gaps; creatures you pass through take **1d6** to HP (− AC if physical; monsters → Hits) — stepping clear is the defense. Cold or a strong wind disperses you for a round. You cannot cast other spells while vapor. #needs-playtest
 
 
 #### Strengthen
@@ -1106,7 +1106,7 @@ Thaumaturgy 3: One object gains Sorcerie × 5 structural HP; breaks only under d
 
 #### Sun Beam
 
-Vitae 3: A beam of daylight (torch-bright, 60' radius) for Sorcerie turns; undead and shadow creatures in it take **1d6** per round to HP (− Resistance).
+Vitae 3: A beam of daylight (torch-bright, 60' radius) for Sorcerie turns; undead and shadow creatures in it take **1d6** per round to HP (− AC if physical; monsters → Hits).
 
 
 #### Thaumaturgic Seal
@@ -1150,7 +1150,7 @@ Umbrakala 4: You switch bodies with a creature you touch for Sorcerie turns. If 
 
 #### Death Touch
 
-Necromantia 4: Melee touch. Necrotic. Defend; overrun to HP (− Resistance).
+Necromantia 4: Melee touch. Necrotic. Defend; overrun to HP (− AC if physical; monsters → Hits).
 
 #### Death Ward
 
@@ -1166,7 +1166,7 @@ Necromantia 4: Marked creature suffers −Sorcerie on all Defends for Sorcerie d
 
 #### Drain Life
 
-Necromantia 4: Touch. Defend; overrun to HP (− Resistance). You heal half the HP dealt (round down).
+Necromantia 4: Touch. Defend; overrun to HP (− AC if physical; monsters → Hits). You heal half the HP dealt (round down).
 
 #### Dream Walking
 
@@ -1174,7 +1174,7 @@ Illusione 4: Enter the dream of one sleeping creature within touch for Sorcerie 
 
 #### Earthquake
 
-Elementale 4: The ground shakes violently for Sorcerie rounds. Each target may Defend; overrun to HP (− Resistance).
+Elementale 4: The ground shakes violently for Sorcerie rounds. Each target may Defend; overrun to HP (− AC if physical; monsters → Hits).
 
 #### False Memory
 
@@ -1443,7 +1443,7 @@ Elementale 5: Your skin counts as AC +Sorcerie (max +4) for Sorcerie turns; move
 
 #### Storm Call
 
-Elementale 5: Thunderstorm in Sorcerie × 40' for Sorcerie hours; each round one random target in the storm: **1d6** per round to HP (− Resistance).
+Elementale 5: Thunderstorm in Sorcerie × 40' for Sorcerie hours; each round one random target in the storm: **1d6** per round to HP (− AC if physical; monsters → Hits).
 
 #### Summon Cube
 
@@ -1459,7 +1459,7 @@ Umbrakala 5: Pass through Sorcerie closed doors/windows as if open; no sound.
 
 #### Thunder Call
 
-Elementale 5: Burst in Sorcerie × 10'. Each target may Defend; overrun to HP (− Resistance). Deafened 1 turn if overrun lands.
+Elementale 5: Burst in Sorcerie × 10'. Each target may Defend; overrun to HP (− AC if physical; monsters → Hits). Deafened 1 turn if overrun lands.
 
 #### Time Slip
 
@@ -1475,7 +1475,7 @@ Elementale 5: A spring of seawater erupts, producing a thousand cubic feet of wa
 
 #### Vampiric Touch
 
-Necromantia 5: Touch. Defend; overrun to HP (− Resistance). You heal the HP dealt (cannot exceed max HP).
+Necromantia 5: Touch. Defend; overrun to HP (− AC if physical; monsters → Hits). You heal the HP dealt (cannot exceed max HP).
 
 #### Vision
 
@@ -1610,7 +1610,7 @@ Necromantia 6: Trap a dying soul in a gem for Sorcerie days; speak with it.
 
 #### Soul Rend
 
-Necromantia 6: Defend; overrun to HP (− Resistance). If driven **below 0 HP**, soul is shunted out for Sorcerie hours (recoverable).
+Necromantia 6: Defend; overrun to HP (− AC if physical; monsters → Hits). If driven **below 0 HP**, soul is shunted out for Sorcerie hours (recoverable).
 
 #### Space Fold
 

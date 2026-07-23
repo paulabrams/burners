@@ -162,7 +162,7 @@ Rolling the Delve Die every Turn runs a dungeon hot: any 1 lands about a third o
 
 ## Building and Running Monsters
 
-A monster is any enemy: Hit Dice, attacks, and a public **2 × HD** dice pile (white/red). Its Hit Dice are its level: most humans are 0, most orcs are 1, a veteran higher. See [[Burners Principles#Pools, not fixed numbers]] for how blows work.
+A monster is any enemy: Hit Dice, attacks, and a public **2 × HD** dice pile (white/red). Its Hit Dice are its level: most humans are 0, most orcs are 1, a veteran higher. How blows land on that pile: this section. Burner-side Fuel economy: [[Burners Principles#Pools, not fixed numbers]].
 
 ### Monsters at speed (preferred Referee mode)
 

@@ -68,7 +68,7 @@ Death lands after the fight — **unhelped Wound**, **failed Craft survival**, o
 **Heat** is one shared gauge for the whole crew — the temperature of the scene, not any one body's flesh. It prices most out-of-combat Costs and clocks when a job turns dangerous.
 
 - Heat is **never a damage buffer**; blows in a fight go to HP, not Heat.
-- Heat **feeds the monster pool once** on Initiative (one die per point, enemy side). **Don't double-count dread:** the creature's 2 × HD pile and weapon quotes are its own; Heat prices only the situation — the dark, the alarm, the flanking.
+- Heat **is** the monster Initiative / press dish (one die per point, enemy side). **Don't double-count dread:** the creature's 2 × HD pile and weapon quotes are its own; Heat prices only the situation — the dark, the alarm, the flanking.
 - Module foreshadowing is mechanical: boxed danger is a **Heat raise**; rooms that let the party prepare are Heat reductions waiting to be claimed.
 - When the party splits, each live scene runs its own Heat.
 
@@ -106,9 +106,11 @@ In combat, only **Sword** answers. The diplomat, locksmith, and archmage are bod
 
 ## Pools, not fixed numbers
 
-Creatures fight like characters. On Initiative they roll a **Fuel pool** and burn dice to attack, defend, Fuel Sparks, and Counterattack. A blow is the **faces of the dice burned** — cut by defense and armor — not a fixed Damage stat on a stat block. There are no to-hit rolls; the pool carries how hard and how often a foe strikes.
+**Preferred (Referee speed):** the enemy side rolls **Heat only** for Initiative and optional press. Attacks are **free quotes**. Durability is the public **2 × HD** white/red pile — see [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]]. Burners still roll fat Fuel pools and burn faces to attack and Defend.
 
-Spells work the same way: cast at least SL Fuel dice; the **cast total** is the attack value.
+**Optional (full-dice foes):** run a named foe like a character — Fuel pool, burn to attack and Defend — when you want the slow fight. Most nights, don't.
+
+Spells work the same way for casters: cast at least SL Fuel dice; the **cast total** is the attack value.
 
 When porting material that prints a flat damage number (a trap, a breath quoted in hp), convert by the die or treat it as a telegraphed area effect — never paste a legacy save and a legacy damage line and call it done.
 

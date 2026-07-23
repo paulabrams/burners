@@ -119,6 +119,6 @@ Sample dump **5, 6, 11, 5, 10, 9, 2, 3, 2** with no right-tool spends:
 
 - Rewrite `sims/hd-sim.py` for always-ceil + −1 closed + Fuel right-tool
 - Lothian crab / Wet Devil / campaign-game-system paint counts
-- Examples of play if they still teach Resistance 5 notepad HP
+- Examples of play rewritten for Hits / Heat-only (keep current)
 
 Canonical pointer for published rules: [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]].

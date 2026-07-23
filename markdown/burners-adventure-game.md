@@ -503,9 +503,9 @@ Heat is your crew's shared danger clock, not a pool of hit points. It is the pre
 | A narrative shortfall (a blown sneak, a hard parley) | +Heat by an amount the Referee sets, usually 1 or 2 |
 | A risky out-of-combat action | its Cost, usually a bump of Heat, which you roll to reduce |
 | Fresh danger revealed (a threat shown, an alarm, reinforcements) | +Heat by the Referee's call, often the threat's Hit Dice |
-| A blow in a fight | nothing to Heat; it goes to the target's HP |
+| A blow in a fight | nothing to Heat; harm goes to Burners' HP (or the monster pile) |
 
-Heat is the margin the whole crew shares. It climbs until the crew acts on the room to bring it down. It has no ceiling. A very hot scene is simply a very dangerous one, quoted against and escalating until you cool it or leave. There is no personal pool of Heat and no bypass. Personal harm is what HP and Wounds are for. In a fight, Heat is mostly still. It climbs only when the Referee judges the danger has turned, and often not at all. But its level still bites. Whatever the gauge stands at is added to the enemy's pool on the Initiative roll, a die per point. A hot scene simply fights back harder.
+Heat is the margin the whole crew shares. It climbs until the crew acts on the room to bring it down. It has no ceiling. A very hot scene is simply a very dangerous one, quoted against and escalating until you cool it or leave. There is no personal pool of Heat and no bypass. Personal harm is what HP and Wounds are for. In a fight, Heat is mostly still. It climbs only when the Referee judges the danger has turned, and often not at all. But its level still bites: **Heat is the enemy side's Initiative / press dish** (one die per point — preferred Referee play). A hot scene simply fights back a little harder. How monsters take damage: *Monsters* in the glossary, and [[Burners Referee Guide]].
 
 Being surprised, caught, or outmaneuvered is not a bypass. The Referee adds a situational Damage modifier and you defend as normal against the higher number.
 
@@ -592,7 +592,7 @@ Death is death. A **Fallen Wound** from the Fallen is a death clock — see [[Bu
 
 The danger is the Wound. Every one is a Shock Check in the fight and a survival check after. Cover downed friends. Reach full HP and you are whole again.
 
-*The crew fights an ogre in a working scene. Heat at 6. Aldric (Sword 1, 4 HP, chain mail AC 3, arming sword, rotella) rolls Initiative for seven dice. His twelve are full (mail 6, sword 2, shield 4), so no empty-slot dice. Two for the sword, four for the shield, one for his level: 6, 5, 4, 3, 2, 2, 1. Three show 3 or 4, so his Initiative is 3. The Referee locks order; Aldric beats the ogre's count and acts first. On his turn a Veteran gets two attacks. With a one-handed sword (2 slots) each is a single die, so he burns the 5 and the 3 for blows of 5 and 3. Eight into the ogre. No 6 among them, so no Spark. He has meleed this round, so when the ogre's great club comes — three dice for a blow worth 10 — Aldric Defends without limit. His chain mail soaks 3 first, leaving 7; he burns the 6 and the 1 to cut the rest. Fuel left: 4, 2, 2, plus the refill the next Roll Initiative brings. Over the following rounds his refill cannot keep pace with the club. Each blow becomes 7 after armor, then eats through his Fuel. Eventually he is caught winded and all 7 lands. With 4 HP he is driven to −3 — a Wound (severity 3), leg, in the dirt. Shock (`2d6 + Sword` vs 3) beats it, so he stays effective in the dirt, but his dice are gone. Finish it or fold — and get him help when it ends.*
+*The crew fights an ogre in a working scene. Heat at 6. Aldric (Sword 1, 4 HP, chain mail AC 3, arming sword, rotella) rolls Initiative for seven dice. His twelve are full (mail 6, sword 2, shield 4), so no empty-slot dice. Two for the sword, four for the shield, one for his level: 6, 5, 4, 3, 2, 2, 1. Three show 3 or 4, so his Initiative is 3. The Referee locks order; Aldric beats the ogre's count and acts first. On his turn a Veteran gets two attacks. With a one-handed sword (2 slots) each is a single die, so he burns the 5 and the 3 for blows of 5 and 3 — announces **8** and **3**; the Referee converts to Hits on the ogre's pile (HD ~4 → 8 dice white/red). No 6 among them, so no Spark. He has meleed this round, so when the ogre's club comes — free quote **5**, pressed with a Heat die for **10** — Aldric Defends without limit. His chain mail soaks 3 first, leaving 7; he burns the 6 and the 1 to cut the rest. Fuel left: 4, 2, 2, plus the refill the next Roll Initiative brings. Over the following rounds his refill cannot keep pace with the club. Each pressed quote becomes 7 after armor, then eats through his Fuel. Eventually he is caught winded and all 7 lands. With 4 HP he is driven to −3 — a Wound (severity 3), leg, in the dirt. Shock (`2d6 + Sword` vs 3) beats it, so he stays effective in the dirt, but his dice are gone. Finish it or fold — and get him help when it ends.*
 
 When you face control magic, you **Defend** the same way you defend a blow, but a clean overrun lands the effect (stun, hold, charm, sleep), not HP damage. See *Defending against a spell* in [[Burners Sorcerie]].
 
@@ -680,7 +680,7 @@ When you endure cleanly you avoid the bite: the fitting Approach against its Cos
 
 ## Area Effects
 
-Counter a monster breath by raising your shield (a legendary shield is broad), by **Warding** magical breath, by cover, or by resistance. A **spell** area effect Defends like any other hostile working — see [[Burners Sorcerie]].
+Counter a monster breath by raising your shield (a legendary shield is broad), by **Warding** magical breath, by cover, or by eating the quoted damage. A **spell** area effect Defends like any other hostile working — see [[Burners Sorcerie]].
 
 ## Influence
 

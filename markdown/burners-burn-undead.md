@@ -32,7 +32,7 @@ The hard ask is your own. Anyone the Fallen slew may look only dead — a friend
 ### Fire Turns Undead
 
 - **Turn Undead:** 1 Turn outside a fight. Use a torch, bonfire, holy oil, or other Incendiaries to show the undead you mean to burn them, driving them back. If asked by the Referee, roll `2d6 + Heart` vs **Hit Dice + Heat**. **HD** is the kind in the firelight (a zombie knot is HD **1**, not thirty summed) — or the worst husk among them if mixed. **Heat** already prices how many press the room. Meet: husks that fear fire and can see the flame recoil **1 Turn** (the knot in reach of the light, not every corpse in the bottle). Miss: they come on. Flask spent; torch not.
-- **Brandish:** combat Action. Fuel an attack with torch, brand, holy water, or holy oil, or Fuel a Spark to **Man-handle**. Ignores blade-Resistance on husks that fear fire. Man-handle: they Defend; failure drives them from your light 1 round. No effect on willful Fallen. Thrown fire: [[Burners Arms and Armor#Incendiaries & Alchemy]].
+- **Brandish:** combat Action. Fuel an attack with torch, brand, holy water, or holy oil, or Fuel a Spark to **Man-handle**. Against husks that fear fire, the brand *is* the right tool (pay the Fuel claim as usual at Referee speed). Man-handle: force them from your light 1 round on a fail of their contest (or just rule it if they have no press). No effect on willful Fallen. Thrown fire: [[Burners Arms and Armor#Incendiaries & Alchemy]].
 
 ### Fire Burns Undead
 
@@ -58,11 +58,11 @@ Prefer the monster's **printed XP** from the [OSE SRD](http://oldschoolessential
 
 | Use from OSE | Do not use from OSE |
 |---|---|
-| HD → Fuel spine; **printed XP** (or HD + `*` table) | Energy drain (levels lost) |
-| AC → Armor soak | Cleric Turn Undead as written |
-| Attacks / damage die → claw/weapon slots | Anything that contradicts fire / Fallen Wound |
+| HD → **2 × HD** pile (white/red); **printed XP** (or HD + `*` table) | Energy drain (levels lost) |
+| AC → hint for **white/red mix** only | Cleric Turn Undead as written |
+| Attacks / damage die → quote weight / claw slots | Anything that contradicts fire / Fallen Wound |
 | Printed specials you keep (gaseous form, regen, charm…) | — |
-| Silver / magic to hit → Resistance (weakness bypasses) | — |
+| Silver / magic to hit → heavy white; players claim silver/magic as the **right tool** | — |
 
 **Husk or Major Fallen?** OSE name tells Midnight deepen (XP from SRD):
 

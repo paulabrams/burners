@@ -86,36 +86,34 @@ Worked: **orc in leather** HD 1 → **1W1R**. **Wolf / naked tough** → **all r
 
 When a PC **loots** a suit of armor off a foe, that kit becomes ordinary Burners AC for the wearer — the monster’s white dice were the table paint, not PC AC.
 
-### The Damage Die → the Pool
+### The Damage Die → quotes (and optional full-dice)
 
-See [[Burners Principles#Pools, not fixed numbers]]. Preferred Referee play is **Heat-only pool + free quoted attack/Defend** — [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]]. Weapon slots / damage dice still tell **quote weight** (and optional full-dice ports); they are not a second Initiative pile for the Referee.
+Preferred Referee play is **Heat-only pool + free quoted attacks** — no free monster Defend — [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]]. The OSE damage die sets **quote weight** (and optional full-dice ports when you run a foe like a PC). It is **not** a second Initiative pile.
 
-A monster spends its pool exactly as a character does: each blow is one die, plus one if the weapon is 3+ slots wielded in two hands, and a fierce or many-limbed foe makes extra attacks by its nature — a wolf bites once, a bear claws twice, a hydra strikes per head — the Referee setting how many, not the HD. It defends as anyone does: one die by default, freely once it has made a melee attack this round (see [[Burners Adventure Game]]).
+**Quote from the die (preferred):**
 
-**The damage die sets the weapon's slots** — useful for **blow weight** and for optional PC-like kit on armed monsters (see [[Burners Arms and Armor]]; Class and slots are not always the same on that catalog):
+| OSE damage die | Quote (rough) |
+| -------------- | ------------: |
+| 1d4            | **2** |
+| 1d6            | **2** or **3** |
+| 1d8            | **4** |
+| 1d10           | **5** |
+| 1d12, 2d6+     | **5** (or two quotes) |
 
-| OSE damage die | Weapon slots |
-| -------------- | ------------ |
-| 1d4            | 1            |
-| 1d6            | 2            |
-| 1d8            | 3            |
-| 1d10           | 4            |
-| 1d12, 2d6+     | 5            |
+**Optional full-dice ports** (named foes you want to burn Fuel like a Burner): treat the damage die as weapon slots for blow weight — 1d4 → 1 slot, 1d6 → 2, 1d8 → 3, etc. — and roll a Fuel pool. See [[Burners Arms and Armor]]. Most nights, don't.
 
-*Check: an orc (HD 1, Heat 3) → **3 + min(1, 6) = 4**. An ogre (HD 5, Heat 6) → **6 + min(5, 12) = 11**. Damage die still guides whether a blow burns one die or two.*
+**Natural attacks** are quotes (or weapon slots on a full-dice port), not Initiative dice.
 
-**Natural attacks are weapons for the blow**, not for the Initiative pile: a wolf's d6 jaws still feel like 2-slot steel when you burn; those dice are not added again on Roll Initiative.
+**Initiative** is the count of **Heat** dice showing 3 or 4 (preferred). A hotter room tends to act earlier. Optional full-dice foes may add their own pool — label that choice at the table. Fiction tempo still holds:
 
-**Initiative comes from the pool, not a Class.** Initiative is the count of the creature's dice showing 3 or 4 after each round's Roll Initiative; the Referee locks order for that round — so a bigger pool (more HD, a heavier weapon, hotter Heat) tends to act earlier on its own, and there is no Weapon-Class order to track. The exceptions the old stat blocks flagged still hold, set by fiction:
+- **Shambling** *(the sluggish dead, oozes, rooted things)*: **acts last**, regardless of dice.
+- **A living spear** *(cobra, ambush-hunter)*: acts at the **top of the order** regardless of dice count.
 
-- **Shambling** *(the sluggish dead, oozes, rooted things)*: **acts last, regardless of its pool.** It still rolls and burns dice normally — a zombie's d8 hands hit like mauls — but its tempo is weather, not speed.
-- **A living spear** *(cobra, ambush-hunter)*: acts at the **top of the order regardless of its dice count** — speed and force part ways in a few bodies, and the stat block says so.
+**Charge** *(a beast closing at a run — where OSE pounce/leap riders convert)*: a situational bump the Referee adds to the quote — as any situation can bump a blow (see [[Burners Adventure Game]]). **Shambling** things never get it.
 
-**Charge** *(a beast closing at a run — where OSE pounce/leap riders convert)*: a situational bump the Referee adds to the blow — extra dice for the rush, as any situation can add to a blow (see [[Burners Adventure Game]]). This is why the unburdened panther beats the sword line to the strike; **Shambling** things never get it.
+**Receive a Charge** *(maneuver — a braced longer weapon, and you must see it coming)*: your thrust strikes **first**, before the rush lands, and the charger's rush adds to *your* blow instead. If it survives and presses in, its attack resolves as normal.
 
-**Receive a Charge** *(maneuver — a braced longer weapon, and you must see it coming)*: your thrust strikes **first**, before the rush lands, and the charger's rush-dice add to *your* blow instead — its force arrives through your point. If it survives and presses in, its attack resolves as normal. This is why the boar spear exists; ambush still beats the unwary, because you cannot brace against what you never saw.
-
-**Multi-attack routines** (claw/claw/bite): this *is* the core's "extra attacks by its nature" — the Referee sets how many blows the creature throws (a wolf bites once, a bear claws twice, a hydra strikes per head), each its own blow of its own dice that the target defends against separately. Spread them across several characters, or land them all on one; save the full spread for a foe meant to threaten the whole line.
+**Multi-attack routines** (claw/claw/bite): the Referee sets how many **quotes** the creature throws (a wolf bites once, a bear claws twice, a hydra strikes per head), each defended separately. Spread them across several characters, or land them all on one.
 
 **Spellcasting monsters:** convert their list through the Spells section, or skip the list and quote each casting as a blow or a telegraph. A dragon does not need a spellbook; it needs a Breath telegraph and two good tricks.
 
@@ -155,7 +153,7 @@ See [[Burners Principles#Armor soaks; monsters use white and red Hit Dice]].
 | ---------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
 | Silver or magic to hit | Heavy **white** in the 2 × HD mix; players may spend Fuel to claim silver/magic as the right tool | *Resistant.* Ordinary steel pays the −1; the smart play is the claim. |
 | +1 or better to hit    | Same; right-tool fiction = legendary blade or stated weakness                                 | *Unearthly.* Mortal steel is folklore; the right edge makes it mortal.                       |
-| +2/+3 or better to hit | Same — the right tool may need *discovery*, or a fiction gate (*phylactery*)              | *A puzzle wearing a stack.* Not a bigger Resistance number.                                              |
+| +2/+3 or better to hit | Same — the right tool may need *discovery*, or a fiction gate (*phylactery*)              | *A puzzle wearing a stack.* Not a bigger soak number.                                              |
 
 The **right tool** is a **player spend** (1 Fuel + fiction), not a Ref auto-switch — see [[Burners Principles#Armor soaks; monsters use white and red Hit Dice]]. Same spirit as a Bane-forged weapon (see [[Burners Arms and Armor]]).
 

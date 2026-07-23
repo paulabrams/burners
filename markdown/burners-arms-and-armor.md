@@ -85,7 +85,7 @@ Versatile sidearms, particularly excellent at defense — able to parry and defl
 - **Falchion** `[Class3 Slots2 Medium Binding Defensive Cutty]` — curved sword with a clipped tip that can bind a foe's weapon (storta, malchus, scimitar).
 - **Longsword** `[Class3 Slots3 2H Short-Medium Control-Medium Binding Defensive Piercing Cutty]` — bastard sword, kriegsmesser, or Alu "av-kel" sword.
 - **Swiss Saber** `[Class3 Slots3 2H Medium Binding Handguard Defensive Piercing Cutty]` — a curved longsword with an elaborate handguard.
-- **Greatsword** `[Class4 Slots4 2H Medium-Long Control-Medium Handguard Binding Defensive Piercing Cutty Secret]` — two-handed sword (spadone, montante, zweihänder). Can attack in any direction.
+- **Greatsword** `[Class4 Slots4 2H Medium-Long Control-Medium Handguard Binding Defensive Piercing Cutty Trained]` — two-handed sword (spadone, montante, zweihänder). Can attack in any direction.
 
 ### Military Weapons
 
@@ -120,19 +120,19 @@ Shoot ammunition. The three main types are bows, crossbows, and guns. Loading/re
 - **Primitive Bow** `[Class1 Slots1 2H Far2 Reload1 Primitive Civil]` — self-made/primitive shortbow, all-wood arrows, sharpened wood tips, no fletching.
 - **Hunting Sling** `[Class1 Slots1 2H Far4 Reload3 Primitive Civil]` — common light sling, stones or clay; years of practice.
 - **Hunting Bow** `[Class2 Slots2 2H Far4 Reload1 Civil]` — most common short bow. Broadheads usual; round heads (Class1) for birds/small game.
-- **War Sling** `[Class2 Slots2 2H Far3 Reload4 Secret]` — larger, more powerful war sling, cast-lead aerodynamic shot.
-- **Warbow** `[Class3 Slots3 2H Far3 Accurate Reload1 Secret]` — heavy-draw short bow, armor-piercing bodkins; years of training/conditioning.
+- **War Sling** `[Class2 Slots2 2H Far3 Reload4 Trained]` — larger, more powerful war sling, cast-lead aerodynamic shot.
+- **Warbow** `[Class3 Slots3 2H Far3 Accurate Reload1 Trained]` — heavy-draw short bow, armor-piercing bodkins; years of training/conditioning.
 - **Hunting Crossbow** `[Class3 Slots3 2H Far4 Accurate Reload3]` — easy to shoot.
-- **Longbow** `[Class3 Slots3 Far5 Accurate Reload1 Secret]` — large self bow, taller than the archer; great power, range, accuracy; slower than hunting bows.
-- **Heavy Longbow** `[Class4 Slots4 Far5 Accurate Reload2 Secret]` — heavy-draw longbow, military arrows (50% heavier); years of conditioning.
+- **Longbow** `[Class3 Slots3 Far5 Accurate Reload1 Trained]` — large self bow, taller than the archer; great power, range, accuracy; slower than hunting bows.
+- **Heavy Longbow** `[Class4 Slots4 Far5 Accurate Reload2 Trained]` — heavy-draw longbow, military arrows (50% heavier); years of conditioning.
 - **Heavy Crossbow** `[Class5 Slots4 Far4 Accurate Reload7]` — military crossbow, easy to learn, hard-hitting, cumbersome and slow to reload.
 - **Flintlock Pistol** `[Class5 Slots2 Far4 Accurate Reload7]` — basic Dwur pistol.
 - **Doubloon** `[Class5 Slots2 Far2 Reload7 (each)]` — double-shot flintlock pistol/blunderbuss, often nautical/pirate themed.
 - **Shotgonne** `[Class5 Slots3 Far2 Reload9 (each)]` — double-barreled hand cannon for "intimate encounters"; each barrel loaded, primed, fired independently.
-- **Siege Arbalest** `[Class6 Slots5 Far5 Accurate Reload12 Secret]` — very heavy, powerful crossbow; extremely slow to reload.
-- **Arquebus** `[Class6 Slots4 Far4 Accurate Reload9 Secret]` — newer, more accurate hand cannon with a true rifle shape and matchlock.
-- **Flintlock Rifle** `[Class6 Slots4 Far5 Accurate Reload8 Secret]` — a rifle using a flintlock.
-- **Handgonne** `[Class7 Slots5 Far3 Reload12 Secret]` — hand cannon: heavy barrel, handle, and socket for a stock or staff.
+- **Siege Arbalest** `[Class6 Slots5 Far5 Accurate Reload12 Trained]` — very heavy, powerful crossbow; extremely slow to reload.
+- **Arquebus** `[Class6 Slots4 Far4 Accurate Reload9 Trained]` — newer, more accurate hand cannon with a true rifle shape and matchlock.
+- **Flintlock Rifle** `[Class6 Slots4 Far5 Accurate Reload8 Trained]` — a rifle using a flintlock.
+- **Handgonne** `[Class7 Slots5 Far3 Reload12 Trained]` — hand cannon: heavy barrel, handle, and socket for a stock or staff.
 
 **Bows vs Crossbows.** Bows need more training (warbows are a specialist profession), are simpler to craft, need strength/conditioning, are lighter and easier to aim/reload on the move, and shoot faster. Crossbows need no strength to hold ready and are better for fielding armies (less training; troops fight even when weakened). A bow is "ready" only with an arrow nocked — drawing/releasing is part of the attack, never held drawn long. Crossbows aren't carried loaded (the bolt falls out if tilted).
 
@@ -168,7 +168,7 @@ Weapons carry tags for their characteristics; many describe a way to upgrade in 
 - **Piercing** — extended rigid blade 2+ ft, reaching deep. **+1 WC vs Large Monsters** (whose vitals sit deeper, giving them higher AC).
 - **Primitive** — easy to build (low skill, time, materials); found among primitive tribes or improvised when nothing else is at hand.
 - **Reload** — must be reloaded before attacking again (bows, crossbows, firearms). The number = Maneuvers needed (min 1).
-- **Secret** — requires a lifetime of dedication: you need a specific Theme or a Secret to use it (e.g. the longbow needs a *Longbowman* Theme or *Longbow* Secret).
+- **Trained** — **trained-only** in Burners: without a Trait for that kit you cannot use it in a fight (no Initiative dice, no blows). Examples: *greatsword*, *longbow*, *plate armor*.
 - **Stabbity** — optimized for stabbing/"shanking." After a Sweet hit you may spend a Maneuver to attack again with the same weapon in the **same Hit Location**.
 
 ---
@@ -191,7 +191,7 @@ Heavy harness eats slots and thins your Initiative pool; light kit keeps empty s
 
 **Gaps and called shots.** Your suit is one number in ordinary play. When a foe deliberately strikes where it does not reach — a called shot, or a swarm at the legs of a lightly harnessed Burner — that blow meets bare flesh (AC 0). Helms, gauntlets, greaves, and gorgets close those gaps. A **closed** helm (armet, great helm) trades sight and hearing for the best cover; open helms and **civil**-looking armor draw less notice in town.
 
-**Materials and named pieces** — adamant, moonsilver, orichalcum (see Eldar Materials), or a *Signature* harness — ride on top as flavor and Secrets.
+**Materials and named pieces** — adamant, moonsilver, orichalcum (see Eldar Materials), or a *Signature* harness — ride on top as flavor; AC still comes from the suit.
 
 ---
 
@@ -228,13 +228,13 @@ Legends **size** tags below are the old catalog labels for look and heft — use
 - **Pitch pot** — spread and light to raise a brief wall of fire across a passage or doorway.
 - **Naphtha (dragon's-blood oil)** — superior oil that clings and burns hotter and longer; hard to beat out.
 - **Clay firepot** — bursts into a spread of sticky fire, catching a cluster of foes at once.
-- **Holy water (vial)** — splashed or thrown; sears undead and fiends like burning acid, ignoring their blade-Resistance.
+- **Holy water (vial)** — splashed or thrown; sears undead and fiends like burning acid (fire / right tool vs husks that fear it — see [[Burners Burn Undead]]).
 - **Alchemist's fire (vial)** — clinging flame that catches on contact and burns for several rounds until smothered.
 - **Dwur boom stick** — a blackpowder charge on a haft; a loud, bright blast that shatters bone and staggers the dead.
 - **Dwur grenade** — a sealed Dwur firepot; hurl it for a burst of flame and shrapnel across a small area.
 - **Witchfire (vial)** — eldritch green flame that burns even the wet and the drowned dead, and no water will quench.
 
-**Using fire.** A thrown incendiary is an Action; it lands as an area effect (the blow you cannot dodge) rather than a defended blow. Fire is not stopped by a Burner's armor: against a monster it comes off its HP (weapon-Resistance does not apply unless the Resistance names fire), and against the Fallen it ignores blade-Resistance and bites deep (see [[Burners Burn Undead]]). The same kit **purges a Fallen Wound** — spend one Incendiary (holy water or holy oil) to burn the curse clean. Fire turned on the party — a trap, a backdraft — feeds Heat like any unsoaked harm. Something set alight keeps burning for a round or two (fire each round) until smothered: dropping in the dirt and rolling, a heavy cloak, or water (witchfire excepted). Blackpowder — boom sticks and Dwur grenades — is a blast rather than a lingering burn, and loud enough to wake every wandering thing on the level, so save it for when subtlety is already spent.
+**Using fire.** A thrown incendiary is an Action; it lands as an area effect (the blow you cannot dodge) rather than a defended blow. Fire is not stopped by a Burner's armor. Against a monster it is damage the Referee converts to Hits on the pile (fire often *is* the right tool — or opens soft husks cold). Against the Fallen it bites deep (see [[Burners Burn Undead]]). The same kit **purges a Fallen Wound** — spend one Incendiary (holy water or holy oil) to burn the curse clean. Fire turned on the party — a trap, a backdraft — feeds Heat like any unsoaked harm. Something set alight keeps burning for a round or two (fire each round) until smothered: dropping in the dirt and rolling, a heavy cloak, or water (witchfire excepted). Blackpowder — boom sticks and Dwur grenades — is a blast rather than a lingering burn, and loud enough to wake every wandering thing on the level, so save it for when subtlety is already spent.
 
 ---
 
@@ -242,7 +242,7 @@ Legends **size** tags below are the old catalog labels for look and heft — use
 
 The Eldar of aeons past made many things — dark and beautiful, bright and deadly. You might find Eldar relics in deep caverns or guardian battles, or meet Eldar (living or undead) wielding archaic blades of mysterious metals. The mightiest works are named in story, often borne by famous (or infamous) heroes.
 
-**Designing Eldar Assets** — think in terms of Signatures and Secrets. *"Drisi Orichalcum plate armor"* protects vs hostile magic (Resistance to magic where it covers you); a *"Drisi Vakaar Dagger"* could open Wounds that resist stabilization (the Strength they cut won't come back on its own, and the Death Save comes harder); the *"Avathar Book of Shadows"* is a Book-of-Secrets with a "shadow magic" Signature. Be creative and flexible rather than definitive.
+**Designing Eldar Assets** — think in terms of Signatures. *"Drisi Orichalcum plate armor"* protects vs hostile magic (Resistance to magic where it covers you); a *"Drisi Vakaar Dagger"* could open Wounds that resist stabilization (the Strength they cut won't come back on its own, and the Death Save comes harder); the *"Avathar Book of Shadows"* carries a "shadow magic" Signature. Be creative and flexible rather than definitive.
 
 ### Eldar Materials
 
@@ -294,19 +294,19 @@ Some Baal-Mot, Drisi, and Black Wizards tap the vast power of dead dragons — b
 
 ### Dwur Assets
 
-**Thaumatagonnes ("Runelocks")** are the Dwur's famous firearms and cannons — heavy fantastically-shaped barrels covered in Thaumaturgical runes that strengthen them for more powerful alchemical powder. Some bear further enchantments the Alglond firearms can't match. A rune on the striker magically resets it when spoken — but a Runelock can only be reloaded with the **Runelock** Secret (Dwur only), and the Themes *Dwur* and *Thaumaturge* each reduce Reload by 1.
+**Thaumatagonnes ("Runelocks")** are the Dwur's famous firearms and cannons — heavy fantastically-shaped barrels covered in Thaumaturgical runes that strengthen them for more powerful alchemical powder. Some bear further enchantments the Alglond firearms can't match. A rune on the striker magically resets it when spoken — but a Runelock can only be reloaded if you are **Trained** (*Runelock*, Dwur only), and the Traits *Dwur* and *Thaumaturge* each reduce Reload by 1.
 
-- **Runelock Dwuringer Pistol** `[Class3 Slots2 Far2 Accurate Reload6 Secret]` — single-shot holdout pistol that fits in a belt buckle or boot.
-- **Runelock Revolver** `[Class4 Slots3 Far3 Accurate Reload5 Secret]` — six shots; reload cost covers 1–6 cartridges.
-- **Runelock Pistol** `[Class5 Slots2 Far3 Accurate Reload5 Secret]` — single shot.
-- **Runelock Holy Water Sprinkler** `[Class4 Slots4 2H Far Reload7 Secret]` — "hand-cannon-mace-pistol" with four pistols in the mace head; each barrel loaded and fired independently.
-- **Runelock Doppelpistol** `[Class5 Slots3 Far2 Accurate Reload5 Secret]` — two barrels, each loaded and fired independently.
-- **Runelock Dungeon Sweeper** `[Class6 Slots4 2H Far3 Reload5 Secret]` — double-barreled shotgun for up-close combat; each barrel independent.
-- **Thaumasweeper** `[Class6 Slots4 2H Far3 Reload6 Secret]` — Dwur Thaumaturgical "dungeon sweeper" cast in alchemist's iron, rune-etched.
-- **Runelock Carbine** `[Class7 Slots4 2H Far4 Reload5 Secret]` — light rifle.
-- **Runelock Longrifle** `[Class8 Slots5 2H Far5 Heavy Accurate Reload6 Secret]` — long-barreled heavy rifle.
-- **Thaumagonne** `[Class7 Slots5 2H Far4 Reload10 Secret]` — Dwur Thaumaturgical handgonne, rune-etched alchemist's iron.
-- **Thaumacannon** `[Class8 Slots6 Crew Far4 Reload12 Secret]` — Dwur Thaumaturgical cannon (heavy ~20# barrel on a stock/staff/frame), barrels cast as dragons/rockets/mountains. An alchemist loads fire, stone, shot, or explosive/incendiary concoctions, charging it with one specific spell (e.g. fireball, lightning bolt) you must describe.
+- **Runelock Dwuringer Pistol** `[Class3 Slots2 Far2 Accurate Reload6 Trained]` — single-shot holdout pistol that fits in a belt buckle or boot.
+- **Runelock Revolver** `[Class4 Slots3 Far3 Accurate Reload5 Trained]` — six shots; reload cost covers 1–6 cartridges.
+- **Runelock Pistol** `[Class5 Slots2 Far3 Accurate Reload5 Trained]` — single shot.
+- **Runelock Holy Water Sprinkler** `[Class4 Slots4 2H Far Reload7 Trained]` — "hand-cannon-mace-pistol" with four pistols in the mace head; each barrel loaded and fired independently.
+- **Runelock Doppelpistol** `[Class5 Slots3 Far2 Accurate Reload5 Trained]` — two barrels, each loaded and fired independently.
+- **Runelock Dungeon Sweeper** `[Class6 Slots4 2H Far3 Reload5 Trained]` — double-barreled shotgun for up-close combat; each barrel independent.
+- **Thaumasweeper** `[Class6 Slots4 2H Far3 Reload6 Trained]` — Dwur Thaumaturgical "dungeon sweeper" cast in alchemist's iron, rune-etched.
+- **Runelock Carbine** `[Class7 Slots4 2H Far4 Reload5 Trained]` — light rifle.
+- **Runelock Longrifle** `[Class8 Slots5 2H Far5 Heavy Accurate Reload6 Trained]` — long-barreled heavy rifle.
+- **Thaumagonne** `[Class7 Slots5 2H Far4 Reload10 Trained]` — Dwur Thaumaturgical handgonne, rune-etched alchemist's iron.
+- **Thaumacannon** `[Class8 Slots6 Crew Far4 Reload12 Trained]` — Dwur Thaumaturgical cannon (heavy ~20# barrel on a stock/staff/frame), barrels cast as dragons/rockets/mountains. An alchemist loads fire, stone, shot, or explosive/incendiary concoctions, charging it with one specific spell (e.g. fireball, lightning bolt) you must describe.
 
 ### Ithilrhi (Elven) Assets
 
@@ -321,7 +321,7 @@ Magic-users use wands, orbs, and other "magical focuses" to help channel magic, 
 - **Eye of Horus** — one of your palms tattooed with magical patterns resembling a third eye.
 - **Hamsa** — an ornate amulet depicting the "hand of the goddess" with the third eye; worn on a chain or pin.
 - **Hex Hands** — your hands covered in magical tattoos, very potent when used together.
-- **Ioun Stone** — a rare stone, crystal ball, or dracontia. Held in one or two hands, or (with a Secret) released to hover beside you.
+- **Ioun Stone** — a rare stone, crystal ball, or dracontia. Held in one or two hands, or (when Trained) released to hover beside you.
 - **Runesword** `[varies by sword type]` — legendary rune-inscribed sword wielded by Eldar battlesingers.
 - **Singing Bow** — an Elven warbow exquisitely carved and inlaid with silver leaf, channeling vim into arrows as they leave the bow.
 - **Sorcerer's Focus** — your clean-shaven head tattooed with magical ink, tracing patterns to project your thoughts into reality.

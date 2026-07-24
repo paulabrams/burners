@@ -195,7 +195,7 @@ A monster is any enemy: Hit Dice, attacks, and a public **2 × HD** dice pile (w
 | 11–15 | 3 | 2 | 3 |
 | 16–20 | 4 | 3 | 4 |
 
-**Cracked!** = last white gone — signal only. **Dead** = pile gone; scoop.
+**Cracked!** = last white gone — signal only. **Dead** = pile reaches zero; scoop. Monsters die at zero, never below zero. For tougher foes, add levels (hit dice), not negative HP.
 
 **Tactics:** claim the right tool with Fuel + fiction when it matters — the player holds the story. Scraps after Cracked. A **1**+**2** is still 1 Hit (ceil); closed → bounce unless they pay.
 

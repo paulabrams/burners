@@ -11,7 +11,8 @@ Heat pile is separate (Initiative + optional press); not modeled as offense dice
 monsters deal flat quotes. PCs burn blow_dice d6 as a simplified Fuel spend each attack.
 
 Cracked: HD <= half (floor) AND a Spark this blow → no further meaning except
-quotes stay; dead at 0 HD. (Spark = any PC blow that includes a face-6 burned.)
+quotes stay; dead at 0 HD, never below. (Spark = any PC blow that includes a face-6 burned.)
+For tougher monsters, add levels (hit dice), not negative HP.
 """
 from __future__ import annotations
 
@@ -148,7 +149,7 @@ def apply_pc_damage(
         m.cracked = True
     if m.hd <= 0:
         m.dead = True
-        m.hd = 0
+        m.hd = 0  # Monsters die at zero, never go below zero
 
 
 def monster_swing(m: Monster, pcs: list[PC], max_attacks: int | None = None) -> None:
@@ -349,7 +350,7 @@ def main() -> None:
     random.seed(20260722)
     N = 8000
     print("=== Hit Dice Referee-speed sim ===")
-    print("rule: round(dmg/10); hard −1; kryptonite skips −1; dead at 0 HD")
+    print("rule: round(dmg/10); hard −1; kryptonite skips −1; dead at 0 HD (never below)")
     print("PC blows: fighters 3d6 Fuel faces, supports 2d6 (matches Herrick's 15-ish)\n")
 
     crabs = fight_crabs(N)

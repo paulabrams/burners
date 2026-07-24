@@ -36,7 +36,7 @@ Session 3 pain: notepad HP, a shared Heat/HD mishmash, and weak “does it look 
 | **Right tool** | Player spends **1 Fuel** + names the fiction. Face adds to damage; skip the −1 this blow. Suggest poleax vs shell, slicing vs sushi, silver, holy — but the claim is theirs. |
 | **Cracked!** | Last white gone — signal only; no more armor −1 (a flesh weakness still costs Fuel if you claim the right tool). |
 | **Heat** | One shared dish — not the Hit Dice pile. Rubric: aim Heat at shown **HD**; lower if disadvantaged, higher if it owns the room. Refresh each round. |
-| **Dead** | All dice / cards gone. Scoop the stack. |
+| **Dead** | All dice / cards gone — the monster dies at zero, never below zero. Scoop the stack. For tougher monsters, add levels (hit dice), not negative HP. |
 
 ### Paint (mix inside 2 × HD)
 

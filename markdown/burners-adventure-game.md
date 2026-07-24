@@ -135,7 +135,7 @@ See *Combat*.
 
 ### Monsters
 
-- **Monster:** an enemy. You announce damage; the Referee converts it. You hear **Cracked!** when the shell goes. Full procedure: [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]].
+- **Monster:** an enemy. You announce damage; the Referee converts it. You hear **Cracked!** when the shell goes. Monsters die at zero hit dice, never below. Full procedure: [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]].
 
 ---
 

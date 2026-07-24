@@ -164,7 +164,11 @@ Rolling the Delve Die every Turn runs a dungeon hot: any 1 lands about a third o
 
 A monster is any enemy: Hit Dice, attacks, and a public **2 × HD** dice pile (white/red). Its Hit Dice are its level: most humans are 0, most orcs are 1, a veteran higher. How blows land on that pile: this section. Burner-side Fuel economy: [[Burners Principles#Pools, not fixed numbers]].
 
-**Monsters vs PCs:** PCs go negative (wounds, overflow past 0). Monsters die at exactly 0, never negative. For a tougher boss, add HP upfront (e.g., +10 HP), not negative HP capacity.
+**Monsters vs PCs vs ordinary people:**
+
+- **PCs and retainers:** Can go negative (wounds, overflow past 0).
+- **Monsters:** Die at exactly 0, never negative. For a tougher boss, add HP upfront (e.g., +10 HP), not negative HP capacity.
+- **Ordinary people (civilians):** Have 0 HP (no hit protection) — effectively HD 0.
 
 ### Monsters at speed (preferred Referee mode)
 

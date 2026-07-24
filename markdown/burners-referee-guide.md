@@ -164,6 +164,12 @@ Rolling the Delve Die every Turn runs a dungeon hot: any 1 lands about a third o
 
 A monster is any enemy: Hit Dice, attacks, and a public **2 × HD** dice pile (white/red). Its Hit Dice are its level: most humans are 0, most orcs are 1, a veteran higher. How blows land on that pile: this section. Burner-side Fuel economy: [[Burners Principles#Pools, not fixed numbers]].
 
+**Monsters vs PCs vs ordinary people:**
+
+- **PCs and retainers:** Can go negative (wounds, overflow past 0).
+- **Monsters:** Die at exactly 0, never negative. For a tougher boss, add HP upfront (e.g., +10 HP), not negative HP capacity.
+- **Ordinary people (civilians):** Have 0 HP (no hit protection) — effectively HD 0.
+
 ### Monsters at speed (preferred Referee mode)
 
 **Monsters have Hit Dice.** Put **2 × HD** dice on the table — **white** (armor/shell) and **red** (meat). Poker chips under the mini, or dice-as-tokens. That pile replaces notepad HP. Players like a fat Fuel pool; you keep the enemy side **small and quotable**.
@@ -195,7 +201,7 @@ A monster is any enemy: Hit Dice, attacks, and a public **2 × HD** dice pile (w
 | 11–15 | 3 | 2 | 3 |
 | 16–20 | 4 | 3 | 4 |
 
-**Cracked!** = last white gone — signal only. **Dead** = pile gone; scoop.
+**Cracked!** = last white gone — signal only. **Dead** = pile reaches zero; scoop. Monsters die at zero, never below. Negative HP is a PC-only mechanic (wounds). For a tougher boss, add HP upfront (e.g., +10 HP), not negative HP.
 
 **Tactics:** claim the right tool with Fuel + fiction when it matters — the player holds the story. Scraps after Cracked. A **1**+**2** is still 1 Hit (ceil); closed → bounce unless they pay.
 

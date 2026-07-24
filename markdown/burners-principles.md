@@ -47,7 +47,7 @@ kill you — not a single failed save, not the passage of time alone.
 
 Steel and sorcery share the same pool. The danger is the turn you are winded with workings still flying.
 
-**Taking foes out (Referee speed):** monsters put **2 × HD** dice on the table (**white** armor / **red** meat). Soft kit paints more white; naked/sushi stay all red. **Hits = ⌈damage ÷ 5⌉** always; closed → **−1** unless the player **spends 1 Fuel** and claims the right tool. **Cracked!** = last white gone (signal). **Dead** when the pile reaches zero — monsters die at zero, never below. For tougher foes, add hit dice. No free Defend; no negative band. [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]].
+**Taking foes out (Referee speed):** monsters put **2 × HD** dice on the table (**white** armor / **red** meat). Soft kit paints more white; naked/sushi stay all red. **Hits = ⌈damage ÷ 5⌉** always; closed → **−1** unless the player **spends 1 Fuel** and claims the right tool. **Cracked!** = last white gone (signal). **Dead** when the pile reaches zero — monsters die at zero, never below. Negative HP is a PC-only mechanic. For a tougher boss, add HP upfront (e.g., +10 HP). No free Defend; no negative band. [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]].
 
 ---
 

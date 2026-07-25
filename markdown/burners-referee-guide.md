@@ -83,28 +83,38 @@ Every room, encounter, or travel scene should answer three questions. Build it i
 
 ## Turn Tracker
 
-A world Turn is ten minutes. Track Turns on paper where the players can see it. One line per Turn: a check mark `x`, then noise if they made any — `!` for noise, `!!` for extra noise. Shouting, kicking in doors, fighting, casting spells, and the like all count. Optionally note light, WM rolls, and what happened.
+A world Turn is ten minutes. Track Turns on paper where the players can see it. Number them **1 through 6**, then wrap back to **1** — six Turns is an hour, and a torch burns exactly one cycle. Even turns (2, 4, 6) are when the schedule comes round; the count itself tells you, so write nothing for the check. A bare check mark works too if you prefer not to count. Write noise if they made any — `!` for noise, `!!` for extra noise. Shouting, kicking in doors, fighting, casting spells, and the like all count. Note light and what happened.
+
+The paper holds what the characters themselves know: time spent, noise made, light burning low, and what they did with the Turn. It is a log of the delve, not a record of your procedure.
+
+When the count wraps, an hour has passed — a torch is spent, a lantern marks one of its four. Mark the wrap in the margin if you like (`h2`, `h3`) so absolute delve length stays visible without an endless turn count. There is no required rest Turn. If the crew wants to recover HP, that is an [[Burners Adventure Game#Wounds|Hour Rest]]: a full cycle spent quiet, with food and water, and no Wound on the Burner who rests. Even turns still fire during a rest hour unless the place is truly safe.
 
 ```
-X  enter, listen the door
-X  Bellamy lantern (24) · WM 5
-X ! forced the grate
-X  WM 2
-X  search the shrine
-X  WM 4
-X !! fight in the nave · lantern out · WM 3
-X  WM 2
+1  enter, listen at the door
+2  Bellamy lantern lit (24)
+3 ! forced the grate — the screech carries
+4  long hall, water dripping somewhere ahead
+5  search the shrine
+6 !! fight in the nave · lantern out
+— hour —
+1  bind wounds in the dark
+2  feeling along the north wall
 ```
 
-### Wandering monsters (d6)
+### Wandering monsters (1-in-6)
 
-Check at the start of every other Turn, or **immediately** when you write a bang (`!` / `!!`). Roll **1d6** and write the result ("WM n") on the line.
+Every check is the same: roll **1d6**, and a **1** finds something. What changes is **how often** you roll. Each signature is a reason to pick up the die:
 
-| Condition | Chance |
-| --- | --- |
-| Quiet | 1-in-6 |
-| Noise | 2-in-6 if there was `!` in the past 20 minutes or `!!` in the past hour |
-| Dark | 2-in-6 if quiet; 3-in-6 with noise and/or wounds |
+- **Time** — even turns (2, 4, 6); the dungeon breathing
+- **Noise** — when you write `!` or `!!`; roll now
+- **Dark** — when light fails; roll now
+- **Wounds** — when a fight ends and someone is Wounded; roll now
+
+So on turn 2 you roll once for time. If they then yell, you roll again for noise — another 1-in-6, not a bigger pool. A bloody scrap in the dark that ends with the lantern dead can throw three or four dice across the beat, each its own 1-in-6. The chance never climbs past "one in six"; the crew just hears the die more often.
+
+One roll per trigger. A bang on an even turn is two rolls (time, then noise), not one combined pool.
+
+Write nothing for the check. The turn number already tells you when the schedule comes round, and a bang is its own reminder — so the paper never has to say "the dungeon rolled for you." What the players get is the sound of the die and, when it lands, something coming down the hall. If you want the moment on the log, write what the place did — *water stops dripping*, *a door closes two rooms off* — not that you checked.
 
 When an encounter lands, set distance and warning from the fiction (or the module), roll Reaction if the thing can parley, and build it per Building and Running Monsters (below).
 
@@ -114,16 +124,16 @@ Whatever comes was already doing something before the dice said so. Say what in 
 
 Track burn on the paper — do not hide it behind a die.
 
-- **Torch:** 30′ for 1 hour (6 Turns). Bundle of 6: 1 gp, 1 slot ([[Burners Equipment]]).
-- **Lantern:** 30′ for 4 hours (24 Turns) per flask. Lantern 10 gp; oil 2 gp; 1 slot each.
-- **Candle:** 5′ for 1 hour (6 Turns). Bundle of 6: 1 gp, 1 slot.
+- **Torch:** 30′ for 1 hour — one full cycle (6 Turns). Bundle of 6: 1 gp, 1 slot ([[Burners Equipment]]).
+- **Lantern:** 30′ for 4 hours (24 Turns / four cycles) per flask. Lantern 10 gp; oil 2 gp; 1 slot each.
+- **Candle:** 5′ for 1 hour — one cycle. Bundle of 6: 1 gp, 1 slot.
 - **Rag-on-a-stick:** as candle, up to ~20 minutes if lucky. Free, 1 slot.
 
 ---
 
 ## The Grind — Supplies, Fatigue
 
-Light lives on the Turn Tracker. Fatigue is why the party cannot crawl forever, and it needs no separate die — it feeds Heat, because Heat is the crew's shared wind and nerve, and wearing down a long crawl is exactly the loss of those. When the fiction calls for a grind tick (long haul, thin air, lingering too long), raise the gauge, usually +1, and it rides there until the crew vents it. Supplies (rations, water, ammunition) run down the same way when you say they should.
+Light lives on the Turn Tracker. Fatigue is why the party cannot crawl forever, and it needs no separate die — it feeds Heat, because Heat is the crew's shared wind and nerve, and wearing down a long crawl is exactly the loss of those. When the fiction calls for a grind tick (long haul, thin air, lingering too long), raise the gauge, usually +1, and it rides there until the crew vents it. Supplies (rations, water, ammunition) run down the same way when you say they should. An Hour Rest on the tracker (a full quiet cycle with food and water) is how unwounded Burners fill HP — see [[Burners Adventure Game#Wounds]] — not a tax for failing to sit every hour.
 
 A Journeyman keeps the band fresh. The [[Burners Adventure Game|Journeyman's craft]] reduces party-wide travel, weather, and survival costs by the Journeyman's Craft level, and fatigue in the dark is a survival cost like any other. Subtract the Journeyman's Craft from the tick for everyone they are leading: Craft 1 shrugs off a routine +1 entirely. Fatigue bites when the party has no Journeyman, when the Journeyman is down or split off from the group, or when the place is harsh enough to outrun their level. Scale the tick to the dungeon — a mild crawl adds 1, a brutal one (heat, thin air, crushing dark) adds 2 or 3, so a Journeyman's Craft matters more the worse the ground gets.
 
@@ -169,7 +179,7 @@ Reaction sets the starting disposition; the Two Steps and Influence carry the sp
 
 ## Frequency — running hot or cool
 
-The default Turn Tracker (WM every other Turn, Quiet 1-in-6, bangs immediate at Noise) is classic dungeon tempo. Loud crews and dark crawls hit the higher rows and feel the pressure. If a job should run hotter, check every Turn instead of every other, or treat Dark as the floor even in lit halls. If cooler, keep Quiet at 1-in-6 and only bang-check on `!!`.
+The default Turn Tracker (count 1–6 and wrap, a check on even turns, plus a roll whenever noise, dark, or wounds fire) is classic dungeon tempo. Loud, dark, bloody crawls hear the die more often and feel the pressure. If a job should run hotter, check every turn. If cooler, only bang-check on `!!`.
 
 ### Delve Die (optional)
 

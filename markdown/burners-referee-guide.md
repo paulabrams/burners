@@ -306,7 +306,7 @@ Mark the Turn, and mark it loud — a flight is `!!` on the tracker. Heat does n
 
 Fuel is rolled face-up. Everyone can see the 6s.
 
-When a missile flies into a melee, the target may use a **melee foe as Cover** (see [[Burners Adventure Game]]). If they Fuel a Spark on that Defend, the shot hits that foe instead — often a Burner locked with them. That is the rule working as written, not a gotcha to spring cold.
+When a missile flies into a melee, the target may use a **melee foe as Cover** (see [[Burners Adventure Game]]). If they Spark on that Defend, the shot hits that foe instead — often a Burner locked with them. The Spark itself is fuel enough; nothing more is burned, and the foe it lands on may not declare Cover to put it back. That is the rule working as written, not a gotcha to spring cold.
 
 Before the arrow goes: give a friendly warning. *"Are you sure you want to put that into the press? He's got a Spark sitting right there."* The player still chooses. You telegraphed the risk while the dice were already on the table. See [[Burners Principles#No gotchas]].
 

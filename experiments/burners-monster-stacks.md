@@ -1,13 +1,11 @@
 ---
-title: "Burners — Monster Stacks (retired experiment)"
-status: retired — rolled into Referee Guide § Monsters at speed
+title: "Burners — Monster Stacks"
+status: experiment / preferred Referee speed
 ---
 
-# Monster Stacks (retired)
+# Monster Stacks
 
-This experiment graduated. Canonical procedure: [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]]. Worked paint notes below are kept for reference only.
-
-**Monsters have Hit Dice.** Deal each monster a **Monster Stack** of **2 × HD** playing cards. **Face-down = closed** (armored / shell). **Face-up = open** (meat). The stack is a life clock — pop closed first; when faces show, **Cracked!** Ignore rank and suit. Heat is a separate dish for the whole enemy side (scene gauge — it does **not** refresh each round).
+**Monsters have Hit Dice.** Deal each monster a **Monster Stack** of **2 × HD** playing cards. **Face-down = closed** (armored / shell). **Face-up = open** (meat). The stack is a life clock — pop closed first; when faces show, **Cracked!** Ignore rank and suit. Heat is a separate dish for the whole enemy side.
 
 ## Why
 
@@ -38,7 +36,7 @@ Session 3 pain: notepad HP, a shared Heat/HD mishmash, and weak “does it look 
 | **Face-up** | Open — meat. Pluck after the last face-down is gone (or from the start if sushi). |
 | **Right tool** | Player names the fiction and burns **one extra Fuel** into the blow. Suggest poleax vs shell, slicing vs sushi, silver, holy — but the claim is theirs. |
 | **Cracked!** | Last face-down gone — faces show; the armor −1 ends (flesh that shrugs your edge still shrugs it). |
-| **Heat** | One shared dish — not the Hit Dice stack. Rubric: aim Heat at shown **HD**; lower if disadvantaged, higher if it owns the room. Scene gauge — does not refresh each round. |
+| **Heat** | One shared dish — not the Hit Dice stack. Rubric: aim Heat at shown **HD**; lower if disadvantaged, higher if it owns the room. Refresh each round. |
 | **Dead** | Stack empty. Scoop. |
 
 ### Paint (mix inside 2 × HD)
@@ -122,4 +120,4 @@ Sample dump **5, 6, 11, 5, 10, 9, 2, 3, 2** — all wrong-edge blows:
 - Lothian crab / Wet Devil / campaign-game-system paint counts
 - Examples of play rewritten for Hits / Heat-only (keep current)
 
-Canonical text: [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]]. This page is retired.
+Canonical pointer for published rules: [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]]. Experiment home: this page.

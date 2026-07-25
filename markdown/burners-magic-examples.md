@@ -43,7 +43,7 @@ the caster's Sorcerie level — Craft for Canting — exactly as in the catalog.
 - **World.** Sweeping the reliquary before the abbot returns: for Sorcerie turns,
   anything magical in sight glows to your eye, and you may ask its rough school and
   strength up to Sorcerie times. The sweep itself is free; if lingering is the danger,
-  the Referee quotes a roll against Heat, not against the spell.
+  the Referee quotes the Cost against Heat, not against the spell.
 
 #### Ward Pact
 
@@ -136,7 +136,7 @@ the caster's Sorcerie level — Craft for Canting — exactly as in the catalog.
 #### Dragon's Breath
 
 - **World.** Burning the web-choked corridor clear: the flame does what flame does. The
-  Referee prices the smoke and the light — a roll against Heat — not the burning
+  Referee prices the smoke and the light — a Cost against Heat — not the burning
   itself.
 - **Combat.** A 60' cone: every creature caught Defends separately against the same
   cast total, and overrun goes to HP (− AC if physical; monsters → Hits).

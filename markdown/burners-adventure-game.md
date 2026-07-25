@@ -35,7 +35,7 @@ Most who take up this trade don't last a season. The docks are full of would-be 
 
 ## What You Do
 
-Say what you do: *I pick the lock*, not *I try to pick the lock*. If the plan is sound, it works. If the moment is risky, the Referee names the target (usually Heat) and you roll `2d6 + Approach` — meet it clean, or fall short and feed the gauge.
+Say what you do: *I pick the lock*, not *I try to pick the lock*. If the plan is sound, it works. If the moment is risky, the Referee names what it costs, and you roll to pay less.
 
 Your character is built from four **Approaches** (Sword, Craft, Heart, Sorcerie), a list of **Traits**, and **twelve equipment slots**.
 
@@ -83,9 +83,9 @@ Quick definitions. Details live in the chapters below.
 
 - **HP:** luck and wind, not meat — **hit protection**. One d6 per character level, rolled at creation. Reroll at level-up and keep the higher of the new total or old+1. Bites come off HP first; only overflow past 0 opens a Wound. Reach **full HP** and your wounds close.
 
-- **Heat:** your crew's shared danger gauge — how hot the *scene* is, not anyone's nerve or hit points. Out of combat, roll `2d6 + Approach` against Heat (or a named target). If you split the party, each group tracks its own Heat.
+- **Heat:** your crew's shared danger gauge. How hot the *scene* is, not your hit points. Most risky actions out of combat quote a Cost against Heat. If you split the party, each group tracks its own Heat.
 
-- **Feeding Heat:** a shortfall on that roll raises Heat (compress big misses — usually +1 or +2). Blows in a fight hit HP or the Monster Stack, not Heat. Heat climbs in a fight only when the situation turns worse (alarm, reinforcements), announced.
+- **Feeding Heat:** when a risky action goes wrong, Heat usually rises (often 1–2). In a fight, blows hit HP, not Heat. Heat climbs only when the situation turns worse (alarm, reinforcements, a friend down).
 
 - **Wound:** real injury. You take one when a blow drives you **past 0 HP**, or when harm lands where **HP cannot help**. Track **wound severity** (sum of overflow from wounding attacks). Penalties last until **full HP** (maimings excepted). See *Wounds*.
 
@@ -95,9 +95,9 @@ Quick definitions. Details live in the chapters below.
 
 ### Play
 
-- **World Turn:** ten minutes of out-of-combat time. You take one World Action. On a delve the Referee tracks Turns **1–6** then wraps (an hour); light burns on that paper; noise you make is marked `!` / `!!`. Wandering checks are always 1-in-6 — on even turns, and again when you are loud, when light fails, or when a fight ends with Wounds. A full quiet cycle with food and water is an **Hour Rest** (fills HP if unwounded). Full procedure: [[Burners Referee Guide#Turn Tracker]].
+- **World Turn:** ten minutes of out-of-combat time. You take one World Action.
 
-- **Two Steps:** say what you do; if the moment is risky, the Referee names the target (usually the scene's Heat) and you roll `2d6 + Approach` — meet it clean, or fall short and feed Heat.
+- **Two Steps:** say what you do; if the moment is risky, the Referee names the Cost (usually Heat) and you roll to pay less.
 
 - **Trained-only:** an action you cannot attempt without a specific Trait, whatever your Approach.
 
@@ -115,7 +115,7 @@ See *Combat*.
 
 - **Roll Initiative!:** at the top of every combat round. Round 1: gather and roll your full pool (character level, weapons and shields in hand, Arcana slots, Muster slots, empty slots). Round 2+: refill one Fuel die per character level, roll those into your pool, then count.
 
-- **Combat Round:** one minute, taken in locked Initiative order. On your turn, take one Action (attack, cast a spell, etc.). Moving and positioning come with it, part of the Action, not a separate step. Defending is not free; it burns your Fuel. Sword governs the exchange: it grants you extra attacks.
+- **Combat Round:** one minute, taken in locked Initiative order. On your turn, take one Action (attack, cast a spell, etc.). Moving and positioning come with it, part of the Action, not a separate step. Defending is not free; it burns your Fuel. Sword governs the exchange: it grants you extra attacks and a deeper pool.
 
 - **Initiative:** the count of your Fuel showing 3 or 4 after you Roll Initiative. The Referee locks order for that round; spending a 3 or 4 does not change who goes when until the next Roll Initiative. Ties: PCs win (players choose among themselves; a PC may act before a foe or yield).
 
@@ -126,17 +126,16 @@ See *Combat*.
 - **Attack:** use your action to make an attack, either melee or missile. You must burn one Fuel die per attack, with the option to burn a second die if your weapon is 3+ slots and wielded in both hands. Deals damage of total Fuel die faces used. With Sword, you make an extra attack per Sword level, all burning Fuel.
   - **Flurry (Spark):** When attacking, Fuel a Spark to attack again (burn Fuel as for a normal attack); armor applies normally.
   - **Man-handle (Spark):** Fuel a Spark to shove, grab, trip, or knock down a foe. The Referee may provide free defense dice for foes who are hard to man-handle; for example, bullying a ruffian is easier than wrestling a bear.
-  - **Impale (Spark):** On a Stabbity weapon (dagger, rondel, short sword…), Fuel a Spark, then burn another attack with the same weapon into the **same Wound** (see Arms *Stabbity*).
+  - **Impale (Spark):** When attacking with a Stabbity weapon (dagger, rondel, short sword…), Fuel a Spark to thrust deeper into the same spot; armor does not soak the Fuel you burn to Fuel it.
   - **Sever (Spark):** Only vs foes with **too many parts** — octopus, spider, hydra, swarm-limbs, and the like. When attacking with a Cutty / chopping weapon (poleax, battle ax, greatsword, cleaver…), Fuel a Spark with **1** Fuel to hack off one spare limb or head. That part's attack is gone for the fight. Not for ordinary humanoids (use Wounds / Man-handle).
 
-- **Defend:** armor soaks the blow first; burn Fuel to cut the damage that remains. Caps: melee 1 die (no limit if you meleed this round); missile 1 die (2 with Cover); hostile magic no limit. **Counterattack** / **Cover** / **Block**: see *Combat*.
-- **In the dirt:** all Fuel you burn while down must be re-rolled; to rise under a press, you need a re-rolled **3+**. A waist or leg Wound holds you down until **full HP**. Once per fight, when a blow would land, you may throw yourself in the dirt for free (see *Combat*).
+- **Defend:** armor soaks the blow first; burn Fuel to cut the damage that remains. Caps: melee 1 die (no limit if you meleed this round); missile 1 die (2 with Cover); hostile magic no limit. **Counterattack** / **Cover** / **Block** / **In the dirt**: see *Combat*.
 
 - **Cast / Ward (Sorcerer):** combat cast and cutting hostile magic for allies. Full procedure: [[Burners Sorcerie]].
 
 ### Monsters
 
-- **Monster:** an enemy with a public **Monster Stack** (playing cards). You announce damage; the Referee converts to Hits. **Cracked!** means the last face-down (armor) card is gone — the shell's −1 ends and the meat shows. Dead = stack empty. Full procedure: [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]].
+- **Monster:** an enemy. You announce damage; the Referee converts it. You hear **Cracked!** when the last face-down card goes. Full procedure: [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]].
 
 ---
 
@@ -372,7 +371,7 @@ Patron Alignment is **not** Sorcerie. Calling on the patron — pageantry, True 
 
 You have HP of one d6 per character level, rolled. Just 1d6 at first level. Reroll on each level-up for the higher of the new total or the old plus one. HP is not meat. It is luck, wind, and the reflex to turn a blow — **hit protection**. Blows come off your HP as near-misses. Only overflow **past 0** opens a **Wound**, driving your HP into the negative (see *Wounds*). That overflow adds to **wound severity**. At **0** you are out of luck, not yet cut — ordinary people have no hit protection and sit at 0 without being Wounded.
 
-Heat is the other track. It is not a pool of hit points. It is the scene's pressure, shared by your whole crew — the usual target for out-of-combat Approach rolls (`2d6 + Approach` vs Heat), and the clock that tells you how close the job is to going wrong. Every scene opens at a base (a quiet meet 3–4, a working delve or a parley that matters 6, a blown job or a hall on fire 8) and climbs as shortfalls and revealed danger mount. Blows in a fight do not feed it; those go to HP or the Monster Stack. Heat rises in a fight only when the Referee judges the danger has turned. It has no ceiling. A hot scene is simply a dangerous one.
+Heat is the other track. It is not a pool of hit points. It is the scene's pressure, shared by your whole crew. It is the difficulty your out-of-combat costs are quoted against, and the clock that tells you how close the job is to going wrong. Every scene opens at a base (a quiet meet 3-4, a working delve or a parley that matters 6, a blown job or a hall on fire 8) and climbs as costs mount. Blows in a fight do not feed it; those go to HP. Heat rises in a fight only when the Referee judges the danger has turned. It has no ceiling. A hot scene is simply a dangerous one.
 
 Armor is what you wear. It soaks on the way in. Its AC comes off every blow before your HP. AC runs from 1 to 5 by make: leather 1, gambeson 2, chain mail 3, plate mail and field plate 4, full plate 5. Heavy harness eats more of your twelve and leaves a thinner pool when you roll Initiative. Leather, gambeson, and mail are open. **Plate is trained-only** (see *Training* under *Weapons, Armor, and Shields*). Armor keeps you from being worn down, not from being cut once you are down. In heavy armor you lose HP slowly, but the Wound you take past 0 is raw.
 
@@ -413,9 +412,10 @@ See *Traits* under Character Creation.
 - **Mara**, Heart 1 (Boss). "Pays in coin and reputation. Collects both."
 
   - 5 HP and leather (AC 1). Split: **11 physical + 1 Muster** — Nell Mustering (1 slot).
-  - Traits: leadership, streetwise, intimidation, loyal (Heart).
-  - Coin kept back to outfit Nell. Re-Muster locked until first sleep.
-  - Loyal retainer: **Nell** — level 1, Sword 1, Traits *spear* and *steady under fire*, HP **1d3**, Loyalty **10**; spear in Nell's hands; see [[Burners Muster]].
+  - Sword 1: one extra attack.
+  - Traits: leadership, streetwise, intimidation, loyal (Heart); *spear* (Sword).
+  - Held: spear. Coin kept back to outfit Nell. Re-Muster locked until first sleep.
+  - Loyal retainer: **Nell** — level 1, Sword 1, Traits *spear* and *steady under fire*, HP **1d3**, Loyalty **10**; see [[Burners Muster]].
 
 ## Signatures
 
@@ -465,9 +465,9 @@ Your Theme and Traits help the Referee see that you could do it. They do not ski
 
 #### Step 2: Pay the Cost
 
-A risky deed needs a roll. The Referee names the **target** — usually the scene's **Heat**, sometimes a harder named number (a masterwork lock, a sheer climb). Name your Approach and roll.
+A risky deed has a Cost, usually a bump of Heat. The Referee names the Cost. You roll to pay less of it.
 
-Meet or beat the target and you do it clean. Fall short and the shortfall feeds **Heat** (compress big misses — often +1 or +2, not the full gap). Where Heat does not fit, the price is HP, a Wound, time, noise, position, or a Spicy twist.
+You still do the thing. The dice say what it cost you. Where Heat does not fit, the price is time, noise, position, or a Spicy twist.
 
 You roll when there is a price, or when the outcome is uncertain.
 
@@ -475,7 +475,7 @@ You roll when there is a price, or when the outcome is uncertain.
 
 When the Referee asks for a roll, they name the target. Name your Approach.
 
-Roll **`2d6 +` Approach**. Meet or beat the target and you do it clean. Fall short and you pay: Heat if the trouble is on the crew (shortfall feeds the gauge), or HP / a Wound if you are in personal peril.
+Roll 2d6 and add your Approach level. Meet or beat the target and you do it clean. Fall short and you pay: HP or a wound if you are in personal peril, or Heat if the trouble is on the crew.
 
 There is no separate birthright to withstand a danger. You endure with the same four Approaches you act with. When a hazard tests you, pick the Approach the danger asks for and roll against the Referee's Cost:
 
@@ -498,30 +498,24 @@ Combat has no Sweet or Spicy. A 6 in Fuel is a **Spark** (see Combat).
 
 ### Heat
 
-Heat is your crew's shared danger clock — the pressure of the *scene*, not a pool of hit points and not anyone's nerve. Out of combat it is the usual roll target: **`2d6 + Approach` vs Heat** (or a harder named number when the fiction demands). Blade and claw feed HP or the Monster Stack, not Heat.
+Heat is your crew's shared danger clock, not a pool of hit points. It is the pressure of the scene. It does two jobs. It is the difficulty many out-of-combat costs are quoted against. It is also the clock that tells you how close the job is to going wrong. Blade and claw feed HP, not Heat. What feeds Heat is everything else that costs the crew.
 
-What feeds the gauge:
+| Cost | How it lands |
+| --- | --- |
+| A narrative shortfall (a blown sneak, a hard parley) | +Heat by an amount the Referee sets, usually 1 or 2 |
+| A risky out-of-combat action | its Cost, usually a bump of Heat, which you roll to reduce |
+| Fresh danger revealed (a threat shown, an alarm, reinforcements) | +Heat by the Referee's call, often the threat's Hit Dice |
+| A blow in a fight | nothing to Heat; harm goes to Burners' HP (or the monster pile) |
 
-- A shortfall on an Approach roll — usually +1 or +2 (compress big misses)
-- Fresh danger revealed — a threat shown, an alarm, reinforcements — by the Referee's call, often toward the threat's Hit Dice
-- A blow in a fight — **nothing** to Heat; harm goes to Burners' HP or the Monster Stack
+Heat is the margin the whole crew shares. It climbs until the crew acts on the room to bring it down. It has no ceiling. A very hot scene is simply a very dangerous one, quoted against and escalating until you cool it or leave. There is no personal pool of Heat and no bypass. Personal harm is what HP and Wounds are for. In a fight, Heat is mostly still. It climbs only when the Referee judges the danger has turned, and often not at all. But its level still bites: **Heat is the enemy side's Initiative / press dish** (one die per point — preferred Referee play). A hot scene simply fights back a little harder. How monsters take damage: *Monsters* in the glossary, and [[Burners Referee Guide]].
 
-Heat climbs until the crew acts on the room to bring it down. It has no ceiling. There is no personal pool of Heat. In a fight, Heat is mostly still; it climbs only when the Referee judges the danger has turned. Its level still bites: **Heat is the enemy side's Initiative / press dish** (one die per point — preferred Referee play). How monsters take damage: *Monsters* in the glossary, and [[Burners Referee Guide]].
+Being surprised, caught, or outmaneuvered is not a bypass. The Referee adds a situational Damage modifier and you defend as normal against the higher number.
 
-**Surprise.** There is no separate surprise round. If your Fuel is not up yet, take the blow with armor only. The Referee may also add a situational Damage band when you are ambushed or outmaneuvered.
+A coup de grace finishes a helpless foe outright. A truly helpless foe (bound, asleep, or pinned and ignored), finished at leisure, is dispatched by the finishing action rather than a defend.
 
-A coup de grace finishes a helpless foe outright. A truly helpless foe (bound, asleep, or pinned and ignored), finished at leisure, is dispatched by the finishing action rather than a Defend.
+**A shown threat sets the room.** When the crew learns a menace is real, Heat rises with that reveal. Conceal it and it raises no Heat — it strikes from surprise instead. Overcome or evade it and the menace vents away. How the Referee floors the gauge (Hit Dice, packs, chokepoints): [[Burners Referee Guide]].
 
-**A shown threat sets the room.** When the crew learns a menace is real, Heat rises with that reveal and that raise **floors** the gauge — roughly the shown threat's **HD** (packs and chokepoints as the Referee judges). Vents cannot drop Heat below that floor while the threat remains. Conceal the menace and it raises no Heat — it strikes from surprise instead. Overcome or evade it and the floor lifts with the vent.
-
-**Venting Heat.** The gauge falls when the crew acts on the room, not on demand:
-
-- Fell or lose a named threat: **−2**
-- Remove a named source (quench the fire, learn the ward-phrase): **−1** or more
-- A Double Sweet: **−1**
-- A steadying word or plan the Referee buys: **−1** once a scene
-
-Folding ends the scene and cools to the next base. Downtime returns Heat to base. A job that ended loud raises the base of what follows until the crew lies low and spends coin.
+**Venting Heat.** The gauge falls when the crew acts on the room, not on demand — silence a sentry, bar a door, quench the fire, steady the room with a plan the Referee buys. A Double Sweet vents 1. Folding ends the scene and cools the gauge to the next scene's base. Downtime returns Heat to base. A job that ended loud raises the base of what follows until the crew lies low.
 
 ### Wounds
 
@@ -554,7 +548,7 @@ Resolve each Wound once, then carry it. Wounds accumulate. Penalties last until 
 
 - **Leg.** You go in the dirt and cannot stand up until you reach **full HP**, the same as a waist wound.
 
-**In the dirt.** All Fuel you burn while down must be re-rolled. To rise under a press, spend a die that shows **3+** after that re-roll (no die to spare? it comes out of your next refill). A waist or leg Wound holds you down until **full HP**; you cannot rise before then. Being in the dirt does not stack, however you ended up there. Once per fight, when a blow would land, you may throw yourself in the dirt for free — the blow still resolves, but you are down. A fresh, untended wound also makes that spot a soft target. A blow called at an already-wounded spot deals 2 extra damage until you reach **full HP**.
+**In the dirt** — see glossary (all Fuel burned while in the dirt must be re-rolled; pressed rise needs a re-rolled 3+). A waist or leg wound holds you down until **full HP**; you cannot rise before then. Being in the dirt does not stack, however you ended up there. A fresh, untended wound also makes that spot a soft target. A blow called at an already-wounded spot deals 2 extra damage until you reach **full HP**.
 
 #### The Shock Check
 
@@ -592,10 +586,9 @@ Death is death. A **Fallen Wound** from the Fallen is a death clock — see [[Bu
 
 **Full HP closes wounds.** Maimings at the brink do not heal on their own.
 
-- **Hour Rest** (one hour / one Turn-Tracker cycle, food and water): recover **all HP** to maximum — **only if you have no Wound**. If you are Wounded, Hour Rest does nothing for HP until you are whole again.
+- **Hour Rest** (one hour, food and water): recover **all HP** to maximum — **only if you have no Wound**. If you are Wounded, Hour Rest does nothing for HP until you are whole again.
 - **Wounded:** recover **1 HP per day** naturally (safe rest with food) until **full HP**, then the Wound closes. *Stanch*, other Vitae, potions, and chirurgeons can restore HP sooner; *Healing Touch* does not help at **0 HP or less** — that is *Stanch*. An **aggravated Wound** (Fallen, disease, moon-sick, and the like) ignores ordinary recovery — natural climb, Hour Rest, and normal healing spells/potions do not improve HP until the Wound is cleared (Purge / Cure Disease / the fitting cleanse). See [[Burners Burn Undead#Fallen Wounds]].
 - **First aid** (Craft): tends a wound in the field; it does not restore HP by itself, but can be the **help** that lets you attempt the survival check.
-- **Classic Crawl** (optional, session zero): once unwounded and at 0+, use **1d3 HP per full day** in a safe haven instead of Hour Rest for luck recovery. Wounds and survival still run as above.
 
 *Example. Aldric (Sword 1, maximum 4 HP) is driven to −3 by a blow of overflow 3: Wound, severity 3, leg — in the dirt. Shock (`2d6 + Sword` vs 3) beats it; he stays effective but in the dirt. After the fight an ally helps; survival (`2d6 + Craft` vs 3) succeeds. He climbs 1 HP per day (−2, −1, 0, 1…) until full 4; then the Wound closes. Hour Rest would not have filled him while Wounded.*
 
@@ -609,7 +602,7 @@ When you face control magic, you **Defend** the same way you defend a blow, but 
 
 Each Combat Round is one minute. You act in locked Initiative order. On your turn you get one Action: attack, cast, or feat. Moving, readying, taking cover, or aiming come with it, part of the same Action rather than a turn of their own. Only a demanding shift (rising from the ground, or breaking away under threat) costs you the Action itself. Defending is not free. You burn Fuel whenever you are struck.
 
-**Rolling Initiative.** Say **Roll Initiative** at the top of every round. You fight with what you were actually carrying. There is no separate surprise round: if Fuel is not up yet, take the blow with armor only; the Referee may add a situational Damage band when you are ambushed.
+**Rolling Initiative.** Say **Roll Initiative** at the top of every round. There is no separate surprise rule. You fight with what you were actually carrying.
 
 **Round 1.** Gather a pool of d6s for what you hold right now:
 
@@ -632,7 +625,7 @@ If you empty your hand on offense you are caught winded until the next Roll Init
 
 - **Spark: Flurry.** When attacking, Fuel the Spark to attack again (burn Fuel as for a normal attack); armor applies normally.
 - **Spark: Man-handle.** Fuel a Spark to "man-handle": shove, grab, trip, or knock down, or otherwise grapple/wrestle with foe. The Referee may provide free defense dice for foes who are hard to man-handle; for example, man-handling a ruffian is easier than wrestling a bear.
-- **Spark: Impale.** On a Stabbity weapon (dagger, rondel, short sword…), Fuel the Spark, then burn another attack with the same weapon into the **same Wound** (Arms *Stabbity*).
+- **Spark: Impale.** When attacking with a Stabbity weapon (dagger, rondel, short sword…), Fuel the Spark to thrust deeper into the same spot; armor does not soak the Fuel you burn to Fuel it.
 - **Spark: Sever.** Only vs foes with **too many parts** — octopus, spider, hydra, swarm-limbs, and the like. When attacking with a Cutty / chopping weapon (poleax, battle ax, greatsword, cleaver…), Fuel the Spark with **1** Fuel to hack off one spare limb or head. That part's attack is gone for the fight. Not for ordinary humanoids (use Wounds / Man-handle). Soft many-part pests may simply drop a segment and flee. A part that is the whole fight (one neck left on a hydra) may be denied or cost more.
 - **Spark: Counterattack.** After a Defend Sparks, Fuel it with another die for an immediate counterattack; that die's face is its damage.
 - **Spark: Break Armor.** Break armor so it provides no AC for the rest of the fight. This requires an armor-piercing weapon whose Weapon Class exceeds the armor's AC (WC > AC; see [[Burners Arms and Armor]]). Fuel the Spark with 1 Fuel. Against poor-quality or ruined armor — a skeleton's rusty mail, a rotten shield — the Spark itself is fuel enough.
@@ -649,7 +642,7 @@ If you empty your hand on offense you are caught winded until the next Roll Init
 
 **Block.** Spend an attack to interpose yourself between an adjacent ally and a threat attacking that ally. The blow redirects onto you; Defend it normally — before their armor soaks or they burn Fuel. One attack covers one blow.
 
-**Man-handle.** Fuel a Spark to "man-handle": shove, grab, trip, or knock down, or otherwise grapple/wrestle a foe. Burn Fuel to Fuel the Spark; those faces are its force. The target may resist by Defending as against a blow. The Referee may provide free defense dice for foes who are hard to man-handle; bullying a ruffian is easier than wrestling a bear. Where there is no real contest, the Referee simply rules it. Fuel the Spark and lose the contest and it is gone for nothing. A Man-handle that leaves a lasting state (in the dirt, grappled) is what gives it teeth. **In the dirt** — see *Wounds* above. Under a foe's steel, pay as the state demands. (No die to spare? It comes out of your next refill, so it always lands.) A Man-handle does not spend a foe's HP. It strips their guard or footing. If your side keeps them pressed it grinds recovery from them. They may instead pay nothing and fight from the state — Defending with re-rolled Fuel — until a turn they would rather burn the die shaking it.
+**Man-handle.** Fuel a Spark to "man-handle": shove, grab, trip, or knock down, or otherwise grapple/wrestle a foe. Burn Fuel to Fuel the Spark; those faces are its force. The target may resist by Defending as against a blow. The Referee may provide free defense dice for foes who are hard to man-handle; bullying a ruffian is easier than wrestling a bear. Where there is no real contest, the Referee simply rules it. Fuel the Spark and lose the contest and it is gone for nothing. A Man-handle that leaves a lasting state (in the dirt, grappled) is what gives it teeth. **In the dirt** — all Fuel burned must be re-rolled; rising under a press needs a re-rolled 3+ (see *In the dirt*). Under a foe's steel, pay as the state demands. (No die to spare? It comes out of your next refill, so it always lands.) A Man-handle does not spend a foe's HP. It strips their guard or footing. If your side keeps them pressed it grinds recovery from them. They may instead pay nothing and fight from the state — Defending with re-rolled Fuel — until a turn they would rather burn the die shaking it.
 
 Range and reach buy safety. A far arrow risks nothing until the enemy closes, so soften foes at a distance and fear the melee. Damage and a foe's defense belong to the situation. A shield wall is tougher from the front. A swarm combines into one bigger threat that thins as you kill it. A chokepoint caps how many reach you. Narrate the cause, so you can attack the reason.
 
@@ -671,7 +664,7 @@ Wounds inflicted by the Fallen (undead) fester and fell the victim, who joins th
 
 ## Magic
 
-Spells are **cards** in a hand sized by your Arcana slots. The Sorcerer title (Sorcerie 1) lets you cast; in a fight that is one Action burning at least SL Fuel for the cast total. Hostile magic is Defended like steel. Out of combat, casting is **noise** on the Turn Tracker (`!`) — magic is loud. Full rules: **[[Burners Sorcerie]]**. Catalog: **[[Burners Spells]]**. Canting Journeymen walk the same road under Craft.
+Spells are **cards** in a hand sized by your Arcana slots. The Sorcerer title (Sorcerie 1) lets you cast; in a fight that is one Action burning at least SL Fuel for the cast total. Hostile magic is Defended like steel. Full rules: **[[Burners Sorcerie]]**. Catalog: **[[Burners Spells]]**. Canting Journeymen walk the same road under Craft.
 
 ### Relics and sentient items
 

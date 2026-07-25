@@ -25,9 +25,9 @@ Heat is the crew's shared gauge and the spine of every scene — the full player
 | 6 | Working — the vault, the wilderness, the parley that matters |
 | 8 | Loud — the job blown, the chase, the hall on fire |
 
-**Feed it.** Every shortfall on an Approach roll raises Heat — compress big misses; a botched sneak is +1 or +2, not +5. A blown roll or a hard parley feeds it the same way. You may raise it by fiat when fresh danger walks in (reinforcements, a lit lantern, the storm arriving), announced. Blows in a fight go to HP or the Monster Stack — they do **not** feed Heat. Wounds do not feed Heat; they carry their own pressure (and may fire a wandering-monster check when the scrap ends — see Turn Tracker).
+**Feed it.** Every shortfall the crew can't soak raises Heat by what they fell short — compress big misses, a botched sneak is +1 or +2, not +5. A blow past a defense, a blown roll, a hard parley all feed it, and you may raise it by fiat when fresh danger walks in (reinforcements, a lit lantern, the storm arriving), announced. Wounds do not feed Heat; they carry their own pressure.
 
-**Telegraph threats to set the room.** Rough rubric: raise Heat toward the shown monster's **HD** — lower if the foe is disadvantaged, higher if it owns the situation — and that raise **floors** the gauge while the threat remains; vents cannot drop below the floor until the menace is overcome or gone. Reveal in stages and the gauge climbs with the fiction — spoor, then half-eaten kills, then the beast at full HD (a pack: summed HD, capped by chokepoints and the dark). Show the signs for slow dread; conceal them for an ambush that raises no Heat and strikes before Fuel is up instead. Its presence sets the room; its attacks still quote its own Damage. Heat is the press dish — never the Monster Stack.
+**Telegraph threats to set the room.** Rough rubric: raise Heat toward the shown monster's **HD** — lower if the foe is disadvantaged, higher if it owns the situation. Reveal in stages and the gauge climbs with the fiction — spoor, then half-eaten kills, then the beast at full HD (a pack: summed HD, capped by chokepoints and the dark). Show the signs for slow dread; conceal them for an ambush that raises no Heat and strikes from surprise instead. Its presence sets the room; its attacks still quote its own Damage. Heat is the press dish — never the Monster Stack.
 
 **Work the valves.** Heat falls when the crew acts on the room, not on request: fell or lose a named threat, −2; remove a named source (quench the fire, learn the ward-phrase), −1 or more; a Double Sweet vents 1; a steadying word or plan you buy, −1 once a scene. Folding ends the scene and cools to the next base. Downtime — a safe camp, a town between jobs — cools to base; a job that ended loud raises the base of what follows until the crew lies low and spends coin. Carousing is maintenance, not vice.
 
@@ -39,7 +39,7 @@ Heat joins the enemy side as its **Initiative / press pool** (preferred: **Heat 
 
 The exploration turn is one World Turn — ten minutes. Each turn runs the same short loop:
 
-1. **Declare.** The party names a primary action for the turn — move, search, listen, force, rest, interact, or something else.
+1. **Declare.** The party sets a pace (cautious, normal, or hurried) and a primary action for the turn — move, search, listen, force, rest, interact, or something else.
 
 2. **Present the Scene.** Frame the place in three strokes — Scene, Oddity, Risk (below). One vivid image, one thing that begs to be poked, one reason to hesitate.
 
@@ -83,7 +83,7 @@ Every room, encounter, or travel scene should answer three questions. Build it i
 
 ## Turn Tracker
 
-A world Turn is ten minutes. Track Turns on paper where the players can see it. Number them **1 through 6**, then wrap back to **1** — six Turns is an hour, and a torch burns exactly one cycle. Even turns (2, 4, 6) are when the schedule comes round; the count itself tells you, so write nothing for the check. Write noise if they made any — `!` for noise, `!!` for extra noise. Shouting, kicking in doors, fighting, casting spells, and the like all count. Note light and what happened.
+A world Turn is ten minutes. Track Turns on paper where the players can see it. Number them **1 through 6**, then wrap back to **1** — six Turns is an hour, and a torch burns exactly one cycle. Even turns (2, 4, 6) are when the schedule comes round; the count itself tells you, so write nothing for the check. A bare check mark works too if you prefer not to count. Write noise if they made any — `!` for noise, `!!` for extra noise. Shouting, kicking in doors, fighting, casting spells, and the like all count. Note light and what happened.
 
 The paper holds what the characters themselves know: time spent, noise made, light burning low, and what they did with the Turn. It is a log of the delve, not a record of your procedure.
 
@@ -112,7 +112,7 @@ Every check is the same: roll **1d6**, and a **1** finds something. What changes
 
 So on turn 2 you roll once for time. If they then yell, you roll again for noise — another 1-in-6, not a bigger pool. A bloody scrap in the dark that ends with the lantern dead can throw three or four dice across the beat, each its own 1-in-6. The chance never climbs past "one in six"; the crew just hears the die more often.
 
-One roll per trigger. A bang on an even turn is two rolls (time, then noise), not one combined pool — unless a check has already put an encounter on the table. Once the fight is the scene, logging `!!` for the scrap does not buy another wandering roll for that same scrap; wounds still fire when the fight *ends* if someone is Wounded.
+One roll per trigger. A bang on an even turn is two rolls (time, then noise), not one combined pool.
 
 Write nothing for the check. The turn number already tells you when the schedule comes round, and a bang is its own reminder — so the paper never has to say "the dungeon rolled for you." What the players get is the sound of the die and, when it lands, something coming down the hall. If you want the moment on the log, write what the place did — *water stops dripping*, *a door closes two rooms off* — not that you checked.
 
@@ -133,7 +133,7 @@ Track burn on the paper — do not hide it behind a die.
 
 ## The Grind — Supplies, Fatigue
 
-Light lives on the Turn Tracker. Fatigue is why the party cannot crawl forever — a long crawl tightens the *room*, so it feeds Heat the same way any mounting pressure does. When the fiction calls for a grind tick (long haul, thin air, lingering too long), raise the gauge, usually +1, and it rides there until the crew vents it. Supplies (rations, water, ammunition) run down the same way when you say they should. An Hour Rest on the tracker (a full quiet cycle with food and water) is how unwounded Burners fill HP — see [[Burners Adventure Game#Wounds]] — not a tax for failing to sit every hour.
+Light lives on the Turn Tracker. Fatigue is why the party cannot crawl forever, and it needs no separate die — it feeds Heat, because Heat is the crew's shared wind and nerve, and wearing down a long crawl is exactly the loss of those. When the fiction calls for a grind tick (long haul, thin air, lingering too long), raise the gauge, usually +1, and it rides there until the crew vents it. Supplies (rations, water, ammunition) run down the same way when you say they should. An Hour Rest on the tracker (a full quiet cycle with food and water) is how unwounded Burners fill HP — see [[Burners Adventure Game#Wounds]] — not a tax for failing to sit every hour.
 
 A Journeyman keeps the band fresh. The [[Burners Adventure Game|Journeyman's craft]] reduces party-wide travel, weather, and survival costs by the Journeyman's Craft level, and fatigue in the dark is a survival cost like any other. Subtract the Journeyman's Craft from the tick for everyone they are leading: Craft 1 shrugs off a routine +1 entirely. Fatigue bites when the party has no Journeyman, when the Journeyman is down or split off from the group, or when the place is harsh enough to outrun their level. Scale the tick to the dungeon — a mild crawl adds 1, a brutal one (heat, thin air, crushing dark) adds 2 or 3, so a Journeyman's Craft matters more the worse the ground gets.
 
@@ -149,7 +149,7 @@ Heat cools when the crew acts on the room (see Running Heat). HP and Wounds foll
 - **First aid** (Craft) tends a wound and can be the **help** for the post-fight survival check; it does not restore HP by itself.
 - After a fight where you took a Wound: **help**, then **`2d6 + Craft` vs severity** — or die. Monster specials (spawn, etc.) if you die from that creature's attack.
 
-**Classic Crawl** (optional): see [[Burners Adventure Game#Healing and recovery]] — session zero.
+**Classic Crawl** (optional campaign flavor): once unwounded and at 0+, use **1d3 HP per full day** in a safe haven instead of Hour Rest for luck recovery. Write the choice at session zero. Wounds and survival still run as above.
 
 ### Fallen Wounds
 
@@ -181,23 +181,23 @@ Reaction sets the starting disposition; the Two Steps and Influence carry the sp
 
 The default Turn Tracker (count 1–6 and wrap, a check on even turns, plus a roll whenever noise, dark, or wounds fire) is classic dungeon tempo. Loud, dark, bloody crawls hear the die more often and feel the pressure. If a job should run hotter, check every turn. If cooler, only bang-check on `!!`.
 
-### Delve Die (optional alternate clock)
+### Delve Die (optional)
 
-If you want one 2d6 instead of the signature 1-in-6 checks, use this — **not both**. Light still ticks on the Turn Tracker every Turn; the die does not burn torches. Signature stacking (noise, dark, wounds as extra rolls) does not apply while you run this clock.
+If you want one 2d6 to fold encounter, break, and grind into a single roll, use this instead of the d6 WM checks — not both.
 
 Roll 2d6, add nothing. Read the 1s and the 6s, not the sum.
 
-- Any **1** → encounter. The other die is lead time (1,1 ambush through 1,6 distant drop).
+- Any **1** → encounter. The other die is lead time (1,1 surprise through 1,6 distant drop).
 - A **6** and no 1 → a break (safe nook, shortcut, omen, cache). Double 6 is a real gift.
-- Neither → a grind tick on supplies or fatigue if the fiction calls for it (see The Grind) — not a second light tick.
+- Neither → the grind: tick light, supplies, or fatigue (see The Grind above).
 
-Roll every Turn for a hot dungeon, or every other Turn for a cooler one. Distant 1,5 / 1,6 can be a sighting the party slips away from.
+Every Turn runs hot; every other Turn is cooler. Distant 1,5 / 1,6 can be a sighting the party slips away from.
 
 ---
 
 ## Building and Running Monsters
 
-A monster is any enemy: Hit Dice, attacks, and a public **Monster Stack** of **2 × HD** playing cards (face-down closed / face-up open). Its Hit Dice are its level: most humans are 0, most orcs are 1, a veteran higher. **HD 0** still gets **1 face-up card** — do not deal an empty stack. How blows land on that stack: this section. Burner-side Fuel economy: [[Burners Principles#Pools, not fixed numbers]].
+A monster is any enemy: Hit Dice, attacks, and a public **Monster Stack** of **2 × HD** playing cards (face-down closed / face-up open). Its Hit Dice are its level: most humans are 0, most orcs are 1, a veteran higher. How blows land on that stack: this section. Burner-side Fuel economy: [[Burners Principles#Pools, not fixed numbers]].
 
 ### Monsters at speed (preferred Referee mode)
 
@@ -237,13 +237,13 @@ A monster is any enemy: Hit Dice, attacks, and a public **Monster Stack** of **2
 
 **Press (optional).** Burn a Heat die onto a quote when it matters.
 
-**Many bodies (hordes / swarms).** Shared Heat dish. Attacks = bodies in reach — each its own quote (or up to two dice if you run full-dice), each Defended and soaked separately. One **Monster Stack** (2 × HD cards) per body; soft kit only changes the face mix. Fat stacks for solos and named threats. A chokepoint caps how many reach you; kill one and the bundle loses its attacks. Keeping blows separate is deliberate: one combined Damage would blow past armor; many small hits grind Fuel first. See also Swarms below for the Burner-facing read.
+**Hordes.** Shared Heat dish. Attacks = bodies in reach. One **Monster Stack** (2 × HD cards) per body; soft kit only changes the face mix. Fat stacks for solos and named threats.
 
 **Shambling** → act last.
 
 **Full-dice monsters (optional).** Solo duel / demo as a Burner. Default is speed mode.
 
-Retired notes: `experiments/burners-monster-stacks.md` (paint examples) and `experiments/burners-cracked.md` (legacy quote sheet).
+Also: `experiments/burners-monster-stacks.md` — Monster Stacks (and the older `experiments/burners-cracked.md` quote sheet).
 
 ### Morale — when the other side quits
 
@@ -278,7 +278,9 @@ The defender's edge runs the same band the other way: partial cover is a 2, hard
 
 ## Swarms
 
-Foes piling onto one Burner are the player-facing read of **Many bodies** above: one quote (or blow) per body in reach, each Defended and soaked separately. Three orcs on Aldric are three attacks, not one big one. Once Aldric has meleed this round he Defends without limit against all of them; until then each blow is one die. An ally may **Block** for him (spend one melee attack to redirect one blow onto themselves). The danger is more attacks than dice — break line of sight, fight from a chokepoint, raise a shield as Cover, or thin the mob.
+Foes piling onto one target attack like a single Veteran of many levels: the group makes a bundle of attacks — reckon one per body in reach, or one per Hit Die for a larger creature — each its own blow of up to two dice, each defended separately, and each soaked by the defender's armor on the way in. Three orcs on Aldric are three attacks, not one big one. Once Aldric has meleed this round he Defends without limit against all of them; until then each blow is one die. An ally may **Block** for him (spend one melee attack to redirect one blow onto themselves). A chokepoint caps how many reach you at once; kill one and the bundle loses its attacks.
+
+Keeping the blows separate is deliberate. A single combined Damage would blow past armor in one unsoakable spike; many small hits, each soaked on the way in, mean a mob wears you down through attrition and a draining Fuel pool instead — you run out of dice to defend before you run out of HP. That is the real danger of numbers: not one dreadful blow, but more attacks than you have dice to answer. The counter is avoidance — break line of sight, fight from a chokepoint, raise a shield as Cover, or thin the mob until the swings come slower than you can turn them.
 
 ---
 

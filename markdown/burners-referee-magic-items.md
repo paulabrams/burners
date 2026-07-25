@@ -121,7 +121,7 @@ Pick one per tier, or roll **d12** on the column. Re-roll duplicates. Route OSE 
 
 | d12 | Power | OSE root |
 |---|---|---|
-| 1 | **Deep Bane** — **right tool** vs quarry; once per delve, a killing blow on-quarry cannot be shrugged off (no instant death — empties the Monster Stack / drives a Burner to **0 HP** and holds) | *special purpose* |
+| 1 | **Deep Bane** — **right tool** vs quarry; once per delve, a killing blow on-quarry cannot be shrugged off (no instant death — empties the pile / drives a Burner to **0 HP** and holds) | *special purpose* |
 | 2 | **Draining nick** — once per delve, a Sweet hit on a living foe costs them **1 HP from their maximum** until cured by rest (not OSE level drain) | *energy drain, heavily toned down* |
 | 3 | **Spark on 5** — once per delve, treat a rolled **5** as a **Spark** | *extra damage, one shot* |
 | 4 | **Ward spell** — once per delve, fully **Defend** one hostile spell (compare totals) | *protection from magic* |

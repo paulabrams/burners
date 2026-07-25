@@ -51,6 +51,20 @@ Between turns the loop just repeats: frame, resolve, advance.
 
 ---
 
+## Searching and Traps
+
+Searching costs a Turn. What it buys depends on what they tell you they are doing.
+
+1. **Intent and method.** "We search the room" is a Turn spent and a rough look. "I run my knife along the seam under the sill" is a specific act on a specific thing, and it gets a specific answer.
+2. **Give the information.** Anything a careful person would notice in ten minutes, they notice — no roll. The scratched flagstone, the draft, the tool marks, the chest whose lid sits a finger too high. You are not hiding facts; you are charging time for them.
+3. **Roll only if it is still uncertain.** When the method might work and might not, it is `2d6 + Craft` vs the Cost. When the method plainly works on that problem, it works. When it plainly does not — bare hands on a masterwork lock — say so and let them spend the Turn elsewhere.
+
+A trap the party has been told about is a puzzle, not a gotcha (see [[Burners Principles#No gotchas]]). Spring it undetected only when they walked past the sign or never looked. The trap quotes flat Damage — armor soaks on the way in, no Fuel up out of combat.
+
+Mark the Turn either way. A fruitless search still burns light and still feeds the wandering-monster schedule.
+
+---
+
 ## Scene, Oddity, Risk
 
 Every room, encounter, or travel scene should answer three questions. Build it in thirty seconds and it will run itself.
@@ -93,6 +107,8 @@ Check at the start of every other Turn, or **immediately** when you write a bang
 | Dark | 2-in-6 if quiet; 3-in-6 with noise and/or wounds |
 
 When an encounter lands, set distance and warning from the fiction (or the module), roll Reaction if the thing can parley, and build it per Building and Running Monsters (below).
+
+Whatever comes was already doing something before the dice said so. Say what in one breath — patrolling, hunting, hauling a kill, fleeing something worse, arguing over spoils, lost. That one line turns a roll into a clue about the place, and it usually tells you the Reaction before you roll it.
 
 ### Light
 
@@ -218,6 +234,19 @@ A monster is any enemy: Hit Dice, attacks, and a public **Monster Stack** of **2
 **Full-dice monsters (optional).** Solo duel / demo as a Burner. Default is speed mode.
 
 Also: `experiments/burners-monster-stacks.md` — Monster Stacks (and the older `experiments/burners-cracked.md` quote sheet).
+
+### Morale — when the other side quits
+
+Scores port from OSE unchanged (2–12, rolled on 2d6, roll under the score to hold). What matters at the table is remembering to ask. Check at these moments, once each:
+
+- the side takes its **first death**
+- the side is down to **half** its bodies, or a solo is **Cracked**
+- the **leader** falls, flees, or is plainly beaten
+- something lands that the creature has no answer to — fire on a beast, silver on the thing silver is for, a working it cannot shake
+
+A failed check is not always flight. Read it off the fiction: run, surrender, bargain, drop the loot and scatter, or fall back to a defensible spot and keep watching. Animals bolt; disciplined troops withdraw in order; the desperate beg. Mindless things — husks, constructs, a beast in frenzy — skip Morale entirely and fight to the last card, which is exactly what makes them frightening.
+
+When a side breaks, the threat is overcome for Heat purposes even if the bodies are still on the table. Vent, then decide whether the party gives chase (see Retreat and Pursuit).
 
 ---
 

@@ -27,7 +27,7 @@ Heat is the crew's shared gauge and the spine of every scene — the full player
 
 **Feed it.** Every shortfall the crew can't soak raises Heat by what they fell short — compress big misses, a botched sneak is +1 or +2, not +5. A blow past a defense, a blown roll, a hard parley all feed it, and you may raise it by fiat when fresh danger walks in (reinforcements, a lit lantern, the storm arriving), announced. Wounds do not feed Heat; they carry their own pressure.
 
-**Telegraph threats to set the room.** Rough rubric: raise Heat toward the shown monster's **HD** — lower if the foe is disadvantaged, higher if it owns the situation. Reveal in stages and the gauge climbs with the fiction — spoor, then half-eaten kills, then the beast at full HD (a pack: summed HD, capped by chokepoints and the dark). Show the signs for slow dread; conceal them for an ambush that raises no Heat and strikes from surprise instead (the Delve Die's 1,1). Its presence sets the room; its attacks still quote its own Damage. Heat is the press dish — never the Hit Dice pile.
+**Telegraph threats to set the room.** Rough rubric: raise Heat toward the shown monster's **HD** — lower if the foe is disadvantaged, higher if it owns the situation. Reveal in stages and the gauge climbs with the fiction — spoor, then half-eaten kills, then the beast at full HD (a pack: summed HD, capped by chokepoints and the dark). Show the signs for slow dread; conceal them for an ambush that raises no Heat and strikes from surprise instead (the Delve Die's 1,1). Its presence sets the room; its attacks still quote its own Damage. Heat is the press dish — never the Monster Stack.
 
 **Work the valves.** Heat falls when the crew acts on the room, not on request: fell or lose a named threat, −2; remove a named source (quench the fire, learn the ward-phrase), −1 or more; a Double Sweet vents 1; a steadying word or plan you buy, −1 once a scene. Folding ends the scene and cools to the next base. Downtime — a safe camp, a town between jobs — cools to base; a job that ended loud raises the base of what follows until the crew lies low and spends coin. Carousing is maintenance, not vice.
 
@@ -162,11 +162,11 @@ Rolling the Delve Die every Turn runs a dungeon hot: any 1 lands about a third o
 
 ## Building and Running Monsters
 
-A monster is any enemy: Hit Dice, attacks, and a public **2 × HD** dice pile (white/red). Its Hit Dice are its level: most humans are 0, most orcs are 1, a veteran higher. How blows land on that pile: this section. Burner-side Fuel economy: [[Burners Principles#Pools, not fixed numbers]].
+A monster is any enemy: Hit Dice, attacks, and a public **Monster Stack** of **2 × HD** playing cards (face-down closed / face-up open). Its Hit Dice are its level: most humans are 0, most orcs are 1, a veteran higher. How blows land on that stack: this section. Burner-side Fuel economy: [[Burners Principles#Pools, not fixed numbers]].
 
 ### Monsters at speed (preferred Referee mode)
 
-**Monsters have Hit Dice.** Put **2 × HD** dice on the table — **white** (armor/shell) and **red** (meat). Poker chips under the mini, or dice-as-tokens. That pile replaces notepad HP. Players like a fat Fuel pool; you keep the enemy side **small and quotable**.
+**Monsters have Hit Dice.** Deal each monster a **Monster Stack** of **2 × HD** playing cards. **Face-down = closed** (armored / shell). **Face-up = open** (meat). Ignore rank and suit. The stack replaces notepad HP. Players like a fat Fuel pool; you keep the enemy side **small and quotable**.
 
 **Pool = Heat only** (one dish for the whole enemy side). Roll it for Initiative (count of 3s and 4s) and as optional Fuel when you **press**. Heat is not durability — never pluck it for damage. Set it from the shown threat: **≈ HD**, down if the foe is on the back foot, up if it owns the fight.
 
@@ -179,35 +179,36 @@ A monster is any enemy: Hit Dice, attacks, and a public **2 × HD** dice pile (w
 | Heavy (d8, axe, crab smash) | **4** |
 | Huge (d10+, ogre, polearm-beast) | **5** |
 
-**Paint (mix inside 2 × HD).** Naked / sushi / tough hide with no kit → **all red**. Soft kit (leather, shield) → **some white** (orc HD 1 → **1W1R**). Mail/heavier → more white. True shell/plate/scales → **mostly or all white** (crab HD 3 → **6 white**). Soft armor **adds whites into the mix** — it does not invent a flat soak or a second track outside 2 × HD.
+**Paint (mix inside 2 × HD).** Naked / sushi / tough hide with no kit → **all face-up**. Soft kit (leather, shield) → **some face-down** (orc HD 1 → **1 down / 1 up**). Mail/heavier → more face-down. True shell/plate/scales → **mostly or all face-down** (crab HD 3 → **6 face-down**). Soft armor **adds face-downs into the mix** — it does not invent a flat soak or a second track outside 2 × HD.
 
 **One blow:**
 
 1. Player announces **damage**. Keep the big number.
 2. **Hits = ⌈damage ÷ 5⌉** (always round up).
-3. **Closed?** (white remains, or a flesh weakness unpaid) → **−1 Hit**, unless the player **spends 1 Fuel** and claims the right tool (*“I slice the sushi!”* / *“poleax on the shell!”*). That Fuel’s face **adds** to damage before rounding.
-4. Pluck **white first, then red**. **0** → bounce.
+3. **Closed?** (any face-down remains, or flesh that shrugs their edge) → **−1 Hit**, always. Armor is one card of soak — −5 damage in effect. No spend waives it.
+4. **Right tool** — the player claims it in fiction (*“I slice the sushi!”* / *“poleax on the shell!”*) and burns **one extra Fuel** into the blow (beyond the weapon's usual dice); its face **adds** to damage before rounding. A deeper blow, not a waiver.
+5. Pop **face-down first, then face-up**. **0** → bounce.
 
-| Damage | Hits | Closed (−1) | Open / right tool |
+| Damage | Hits | Closed (−1) | Open |
 | --- | ---: | ---: | ---: |
 | 1–5 | 1 | 0 | 1 |
 | 6–10 | 2 | 1 | 2 |
 | 11–15 | 3 | 2 | 3 |
 | 16–20 | 4 | 3 | 4 |
 
-**Cracked!** = last white gone — signal only. **Dead** = pile gone; scoop.
+**Cracked!** = last face-down gone — faces show; the armor −1 ends. **Dead** = stack empty; scoop.
 
-**Tactics:** claim the right tool with Fuel + fiction when it matters — the player holds the story. Scraps after Cracked. A **1**+**2** is still 1 Hit (ceil); closed → bounce unless they pay.
+**Tactics:** claim the right tool for the extra die when it matters — the player holds the story. Scraps after Cracked. A **1**+**2** is still 1 Hit (ceil); closed → bounce; the right tool's extra die is how a stuck blow punches through.
 
 **Press (optional).** Burn a Heat die onto a quote when it matters.
 
-**Hordes.** Shared Heat dish. Attacks = bodies in reach. One 2 × HD stack per body; soft kit only changes the color mix. Fat piles for solos and named threats.
+**Hordes.** Shared Heat dish. Attacks = bodies in reach. One **Monster Stack** (2 × HD cards) per body; soft kit only changes the face mix. Fat stacks for solos and named threats.
 
 **Shambling** → act last.
 
 **Full-dice monsters (optional).** Solo duel / demo as a Burner. Default is speed mode.
 
-Also: `experiments/burners-monster-hit-dice.md` — Monster Hit Dice (and the older `experiments/burners-cracked.md` quote sheet).
+Also: `experiments/burners-monster-stacks.md` — Monster Stacks (and the older `experiments/burners-cracked.md` quote sheet).
 
 ---
 

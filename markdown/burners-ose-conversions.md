@@ -62,29 +62,29 @@ For fractional or special HD, **prefer the monster's printed XP** or the full OS
 
 | OSE                      | Burners                                                                                                                                                                                          |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **HD**                   | Level, 1:1. Table pile = **2 × HD** (white armor / red meat). |
+| **HD**                   | Level, 1:1. **Monster Stack** = **2 × HD** playing cards (face-down closed / face-up open). |
 | **XP**                   | Award when overcome — **XP by HD** from the table in *XP Awards* (a 1 HD skeleton = 10; HD 2 = 20). Use the module's printed award if given.                                                     |
-| **AC**                   | Hint for the **white/red mix** only — soft kit → some white; shell/plate → mostly white; naked/sushi → all red. Suggest a **right tool** fiction players may claim with Fuel (poleax, slicing, silver…). |
+| **AC**                   | Hint for the **face mix** only — soft kit → some face-down; shell/plate → mostly face-down; naked/sushi → all face-up. Suggest a **right tool** fiction (poleax, slicing, silver…) players may claim for the extra Fuel die. |
 | **Damage die**           | Quote weight for Referee speed attacks (d6 → quote 3, etc.) — see [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]]. |
 | **Saves**                | Deleted — route the *ability* through the Defend Router                                                                                                                                          |
 | **Morale**               | As written                                                                                                                                                                                       |
 | **THAC0 / attack bonus** | Deleted — there are no to-hit rolls                                                                                                                                         |
 
-### 2 × HD white/red mix
+### 2 × HD Monster Stack (face mix)
 
-See [[Burners Principles#Armor soaks; monsters use white and red Hit Dice]] and [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]]. **Monsters do not use PC Armor Class.**
+See [[Burners Principles#Armor soaks; monsters use Monster Stacks]] and [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]]. **Monsters do not use PC Armor Class.**
 
 **Referee speed (preferred):**
 
-1. Put **2 × HD** dice on the table.
-2. Paint the **mix**: naked/sushi/no kit → **all red**; soft kit (leather, shield) → **some white**; mail/heavier → more white; true shell/plate/scales → **mostly or all white**. Soft armor **adds whites into the mix** — not a flat soak outside the budget.
-3. Hard shell/plate / sushi often suggests a **right tool** players can claim by spending **1 Fuel** + fiction (poleax, slicing, silver…). Hits are always ⌈damage ÷ 5⌉; closed → −1 unless they pay.
+1. Deal **2 × HD** playing cards onto the table.
+2. Paint the **face mix**: naked/sushi/no kit → **all face-up**; soft kit (leather, shield) → **some face-down**; mail/heavier → more face-down; true shell/plate/scales → **mostly or all face-down**. Soft armor **adds face-downs into the mix** — not a flat soak outside the budget.
+3. Hard shell/plate / sushi often suggests a **right tool** (poleax, slicing, silver…) — claiming it lets a player burn **one extra Fuel** into the blow. Hits are always ⌈damage ÷ 5⌉; closed → **−1**, always, while any face-down remains.
 
 Do **not** invent a tiny soak “just because the book had AC.” AC 1–2 as flat damage reduction was a **Referee math tax** — players never changed tactics for it.
 
-Worked: **orc in leather** HD 1 → **1W1R**. **Wolf / naked tough** → **all red** (2 × HD). **Wet Devil** HD 8 → **16 red**. **Giant crab** HD 3 → **6 white**; poleax as right tool. **Knight in plate** → heavy white in 2 × HD; magic or pollaxe as right tool. **Dragon** → mostly white; name fire / soft underbelly / etc.
+Worked: **orc in leather** HD 1 → **1 down / 1 up**. **Wolf / naked tough** → **all face-up** (2 × HD). **Wet Devil** HD 8 → **16 face-up**. **Giant crab** HD 3 → **6 face-down**; poleax as right tool. **Knight in plate** → heavy face-down in 2 × HD; magic or pollaxe as right tool. **Dragon** → mostly face-down; name fire / soft underbelly / etc.
 
-When a PC **loots** a suit of armor off a foe, that kit becomes ordinary Burners AC for the wearer — the monster’s white dice were the table paint, not PC AC.
+When a PC **loots** a suit of armor off a foe, that kit becomes ordinary Burners AC for the wearer — the monster’s face-down cards were the table paint, not PC AC.
 
 ### The Damage Die → quotes (and optional full-dice)
 
@@ -147,19 +147,19 @@ So a Sword 3 stands at an effective 13, a Craft 2 at 12. This is a fallback for 
 
 ### "Magic Weapons to Hit" → armor + right tool
 
-See [[Burners Principles#Armor soaks; monsters use white and red Hit Dice]].
+See [[Burners Principles#Armor soaks; monsters use Monster Stacks]].
 
 | OSE says               | Burners                                                                                         | The feel                                                                                                |
 | ---------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| Silver or magic to hit | Heavy **white** in the 2 × HD mix; players may spend Fuel to claim silver/magic as the right tool | *Resistant.* Ordinary steel pays the −1; the smart play is the claim. |
+| Silver or magic to hit | Heavy **face-down** in the 2 × HD mix; players may claim silver/magic as the right tool (one extra Fuel into the blow) | *Resistant.* Everyone eats the −1 while face-down stands; the smart play is the claim. |
 | +1 or better to hit    | Same; right-tool fiction = legendary blade or stated weakness                                 | *Unearthly.* Mortal steel is folklore; the right edge makes it mortal.                       |
 | +2/+3 or better to hit | Same — the right tool may need *discovery*, or a fiction gate (*phylactery*)              | *A puzzle wearing a stack.* Not a bigger soak number.                                              |
 
-The **right tool** is a **player spend** (1 Fuel + fiction), not a Ref auto-switch — see [[Burners Principles#Armor soaks; monsters use white and red Hit Dice]]. Same spirit as a Bane-forged weapon (see [[Burners Arms and Armor]]).
+The **right tool** is a **player claim** (fiction + one extra Fuel burned into the blow), not a Ref auto-switch — see [[Burners Principles#Armor soaks; monsters use Monster Stacks]]. Same spirit as a Bane-forged weapon (see [[Burners Arms and Armor]]).
 
 **Undead & energy drain** (OSE): **no levels lost.** Any of the Fallen that **wounds** you opens a **Fallen Wound**. Midnight / Purge: husks deepen by **1**; drainers by `1d6` + `1d6` per OSE drain level (wight `2d6`). Immediate Craft survival; die unclean → spawn; die from purge → no spawn. See [[Burners Burn Undead#Fallen Wounds]] and [[Burners Principles#No instant death]].
 
-**Mobs vs. the unearthly:** see [[Burners Principles#Armor soaks; monsters use white and red Hit Dice]].
+**Mobs vs. the unearthly:** see [[Burners Principles#Armor soaks; monsters use Monster Stacks]].
 
 ---
 
@@ -183,7 +183,7 @@ Stuck doors, thief skills, foraging, listening at doors — all this table. A tr
 
 > **Zombie.** HD 2 → **4 red** (AC 8 → no kit) · Heat dish for the side · **Shambling** — acts last · Morale 12 as written · **XP 20**. Quote fists as heavy (**4**).
 
-Read straight off the printed block — 2 × HD (white/red mix), Heat, right-tool-if-any, tempo, Morale.
+Read straight off the printed block — 2 × HD cards (face mix), Heat, right-tool-if-any, tempo, Morale.
 
 ---
 
@@ -216,9 +216,9 @@ Potions, rings, and wondrous items stay as written above. Do not raise AC or siz
 
 - **Lethality is comparable** — B/X at low levels is brutal and Burners characters are lean. Large mobs can spike past any defend; use swarm splitting and chokepoints.
 - **Foreshadowing is mechanical** — see [[Burners Principles#Heat is scene pressure]].
-- **Solo bosses** need enough white (and red) in 2 × HD to survive the party's first-round burst, or they die before their first telegraph.
+- **Solo bosses** need enough face-down (and face-up) in 2 × HD to survive the party's first-round burst, or they die before their first telegraph.
 - **Don't double-count dread** — see [[Burners Principles#Heat is scene pressure]].
 
 ---
 
-> *Read the stat block once, write it in the margin — 2 × HD (white/red mix), Heat, right-tool-if-any, XP by HD — route the saves through Defend, and run it.*
+> *Read the stat block once, write it in the margin — 2 × HD cards (face mix), Heat, right-tool-if-any, XP by HD — route the saves through Defend, and run it.*

@@ -58,7 +58,7 @@ hero_alt: "Travelers on the road — Albert Robida"
 
 **Round 1.**
 
-- **Kragg** attacks: burns a 5 → damage **5** → Hits ⌈5÷5⌉ = **1**. All-red rat: pluck 1 red → **1 red left**. He burns a 6 to strike a **Spark**, Fuels it with a 2 for a second attack → damage **2** → **1 Hit** → pile gone. Rat 1 dead.
+- **Kragg** attacks: burns a 5 → damage **5** → Hits ⌈5÷5⌉ = **1**. All-red rat: pluck 1 red → **1 face-up left**. He burns a 6 to strike a **Spark**, Fuels it with a 2 for a second attack → damage **2** → **1 Hit** → pile gone. Rat 1 dead.
 - **Brand** attacks: burns a 5 → **1 Hit** → rat 2 at **1 red**.
 - **Ilsa** (spear) attacks: burns a 4 → **1 Hit** → finishes rat 2.
 - **Rats** act: rats 3 and 4 bite Sefa (quote **3** each). She Defends the first 3 with a 4. Against the second 3, leather soaks 1 first; she burns a 3 to cut the rest. Zeroed.
@@ -82,7 +82,7 @@ hero_alt: "Travelers on the road — Albert Robida"
 
 ### Combat 2 — The Cellarer (a wight). Heat 7 → 9
 
-Buried armed: **grave-sword** (quote **3**) and a **grave-byrnie** (old chain — loot for a Burner). HD 3 → pile **6**: paint **4 white / 2 red** (mail + grave-cold flesh as shell). Silver is the **right tool** vs that closed shell. The Referee announces it rising from its bier: **+2 Heat → 9.**
+Buried armed: **grave-sword** (quote **3**) and a **grave-byrnie** (old chain — loot for a Burner). HD 3 → stack **6**: paint **4 face-down / 2 face-up** (mail + grave-cold flesh as shell). Silver is the **right tool** vs that closed shell. The Referee announces it rising from its bier: **+2 Heat → 9.**
 
 **Rolling Initiative.** Enemy side: **Heat 9 only**. It reads six 3s/4s: **Initiative 6, first**. Two free sword quotes a round.
 
@@ -92,11 +92,11 @@ Buried armed: **grave-sword** (quote **3**) and a **grave-byrnie** (old chain �
   - → **Brand**: pressed **3+6 = 9**. Leather soaks 1 → 8. He has not meleed → one die: burns a 5 → **3 to HP.** Brand 5 → **2.** *(Brand Fuel 7→6.)*
   - → **Ilsa**: quote **3**. Leather soaks 1 → 2. She burns a 4 → **0.** *(Fuel 9→8.)*
 - **Kragg** attacks (Veteran, two blows; 2-handed axe → two dice a blow) — having meleed, he Defends without limit for the rest of this round:
-  - Blow A: 6+5 = **11** damage. Closed: Hits ⌈11÷5⌉=3, −1 → **2 Hits** → pluck **2 white**. Pile **2W2R**.
-  - Blow B: 5+4 = **9**. Closed: ⌈9÷5⌉=2, −1 → **1 Hit** → **1W2R**.
-- **Brand** attacks: sword **6**. Closed: ⌈6÷5⌉=2, −1 → **1 Hit** → **0W2R** — last white gone: **Cracked!**
+  - Blow A: 6+5 = **11** damage. Closed: Hits ⌈11÷5⌉=3, −1 → **2 Hits** → pop **2 face-down**. Stack **2 down / 2 up**.
+  - Blow B: 5+4 = **9**. Closed: ⌈9÷5⌉=2, −1 → **1 Hit** → **1 down / 2 up**.
+- **Brand** attacks: sword **6**. Closed: ⌈6÷5⌉=2, −1 → **1 Hit** → **0 down / 2 up** — last face-down gone: **Cracked!**
 - **Ilsa** casts *Adhere* (Thaumaturgy 1): burns 1 Fuel = **5** cast total; card **taps**. Control lane — no Hits. At speed the wight has no free Defend; the working sticks its sword-arm to the byrnie. *(Ilsa Fuel 8→7.)*
-- **Sefa**, silvered knife — spends **1 Fuel** (face **4**) claiming silver as the right tool; that face **adds** to damage: knife **6** + **4** = **10**. Open (right tool): Hits ⌈10÷5⌉ = **2** → pluck **2 red**. Pile gone. The Cellarer falls — silver + the claim finished the meat; *Adhere* only took its arm out of the fight.
+- **Sefa**, silvered knife — claims silver as the right tool, so her 1-slot knife burns an **extra die**: **6** + **4** = **10** damage. Wight is Cracked — open: Hits ⌈10÷5⌉ = **2** → pop **2 face-up**. Pile gone. The Cellarer falls — silver and the extra die finished the meat; *Adhere* only took its arm out of the fight.
 
 Threat overcome → **vent 2 → Heat 7.**
 
@@ -119,11 +119,11 @@ Threat overcome → **vent 2 → Heat 7.**
 - **OSE clocks unchanged:** 10-minute turns, torch tracking, wandering checks every 2nd turn at 1-in-6.
 - **One roll out of combat:** `2d6 + Approach` vs Cost. Traps — see [[Burners Principles#Pools, not fixed numbers]].
 - **Fuel is rolled on each Roll Initiative** — full pool on round 1; from round 2 on, refill one Fuel die per character level and roll those in, then lock order. Enemy side preferred: **Heat dice only** for Initiative / press — not HD + weapon + Heat.
-- **Damage you announce; the Referee converts.** Hits = ⌈damage ÷ 5⌉; closed → −1 unless you spend Fuel and claim the **right tool** (that face adds to damage). White first, then red. **Cracked!** = last white gone (signal). Dead = pile gone. See [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]].
+- **Damage you announce; the Referee converts.** Hits = ⌈damage ÷ 5⌉; closed → −1, always (armor is one card of soak). Claim the **right tool** to burn one extra Fuel into the blow (its face adds to damage). Face-down first, then face-up. **Cracked!** = last face-down gone (signal; the −1 ends). Dead = pile gone. See [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]].
 - **Defense (Burners):** melee 1 die (no limit once you have meleed this round); missile 1 die (2 with Cover); magic no limit. **Block** / **Cover** as in Combat. Monsters at speed have **no free Defend**.
 - **The Wound model:** see [[Burners Principles#HP is plot armor; past 0 it gets real]].
 - **Casting is the same economy:** Ilsa's *Adhere* was one Action, one Fuel die for the **cast total**; the card **tapped**; control stuck the arm — no Hits. Sleep recovers up to Sorcerie Level cards.
-- **Closed shell vs right tool:** mundane steel chipped white slowly; silver + Fuel claim opened the Hits and finished the red. Sorcery solved the arm; steel and silver killed. **Sorcerers solve; fighters kill.**
+- **Closed shell vs right tool:** mundane steel chipped face-down slowly — the −1 stood until the last face-down popped. Once Cracked, silver and its extra die finished the face-up meat. Sorcery solved the arm; steel and silver killed. **Sorcerers solve; fighters kill.**
 - **Press:** the wight's first quote rode a Heat die — hot scenes hit harder without inventing a second PC-scale pool.
 - **Nobody died.** Clean job.
 
@@ -157,8 +157,8 @@ The sharper casts a working at Brand. **A hostile spell is an attack: roll initi
 | **Brand** (sword at hip, not in hand) | 4 empty + 1 level | **5** |
 | **Ilsa** (5 Arcana declared; wand drip; no spear tonight) | 5 Arcana + 1 level | **6** |
 | **Enemy side** (Heat 5 — sharper + bravos share one dish) | Heat only | **5** |
-| **Sharper** (HD 1 → **2 red**; Illusione hand; *Bewitch* ready) | free cast / quotes | — |
-| **Bravos** (knives; HD 1 → **2 red** each) | knife quote **2** each | — |
+| **Sharper** (HD 1 → **2 face-up**; Illusione hand; *Bewitch* ready) | free cast / quotes | — |
+| **Bravos** (knives; HD 1 → **2 face-up** each) | knife quote **2** each | — |
 
 Initiative is the count of 3s and 4s. Kragg reads **3**, enemy Heat dish **2**, Ilsa **2**, Brand **1**, Sefa **1**. **Kragg acts before the man whose spell started the fight.**
 
@@ -166,9 +166,9 @@ Initiative is the count of 3s and 4s. Kragg reads **3**, enemy Heat dish **2**, 
 
 - **Kragg** (Veteran, two attacks; the axe stays sheathed — this is a tavern) burns a held 6 to strike a **Spark**, then Fuels it with 5,4 to **Man-handle** — heaves the table into the sharper. Force 9; the Referee gives the sharper two free contest dice (4,2 = 6) → bowled over, **in the dirt**. The working is already in the air; it resolves on his turn. Kragg spends one Veteran attack to **Block** for Brand. *(Kragg 5→2 dice; order stays locked.)*
 - **Sharper** (from the floor) finishes the cast — *Bewitch*: cast total **5**. The card taps. **Ilsa is adjacent and Wards**: Sorcerie 1, burns **1** Fuel (a 4), cutting the cast to **1**. **Brand then Defends** with 1 die (a 3) → fully defended. No charm. *(Ilsa 6→5; Brand 5→4.)*
-- **Ilsa** (Action still free — Ward is not a turn): casts *Adhere*. 1 die = **6** cast total (Spark). Card taps. At speed the sharper has no free Defend — hand sticks to the floorboards (effect lane, **no Hits**; pile still **2 red**). She Fuels the Spark: glue catches the other wrist too. *(Ilsa 5→3.)*
+- **Ilsa** (Action still free — Ward is not a turn): casts *Adhere*. 1 die = **6** cast total (Spark). Card taps. At speed the sharper has no free Defend — hand sticks to the floorboards (effect lane, **no Hits**; stack still **2 face-up**). She Fuels the Spark: glue catches the other wrist too. *(Ilsa 5→3.)*
 - **Bravo 1** lunges at Sefa, knife quote **2** pressed with a Heat die face **2** → **4**. Sefa has not meleed → one die: burns a 3 → 1 through, no armor tonight → **Sefa 3 HP → 2.** *(Sefa 5→4.)*
-- **Brand** rises, sword *now* in hand (drawing comes free with his Action), and swings at bravo 1: 1 die = **5** → Hits ⌈5÷5⌉ = **1** (all red) → **1 red left**; second Veteran attack burns a **4** → **1 Hit** → pile gone. *(Brand 5→3.)*
+- **Brand** rises, sword *now* in hand (drawing comes free with his Action), and swings at bravo 1: 1 die = **5** → Hits ⌈5÷5⌉ = **1** (all face-up) → **1 face-up left**; second Veteran attack burns a **4** → **1 Hit** → pile gone. *(Brand 5→3.)*
 - **Sefa** draws the holdout — **1 Fuel to pull it in a fight** — and marks bravo 2. *(Sefa 4→3.)*
 - **Bravo 2** hesitates — his partner is down, the sharper is stuck to the boards. **Morale check (2d6 under Morale 7): 6 — holds**, barely. He circles.
 

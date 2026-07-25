@@ -23,7 +23,7 @@ Fitted to one grip and dialed in. A **Tuned** weapon **counts as enchanted** for
 
 ### Bane-forged
 
-Made for one enemy. Against its named quarry it *is* the **right tool** — the closed −1 does not apply (no Fuel spend needed for that claim). This is where module *"+1, +3 vs. dragons"* goes — as a power on enchanted steel, not a bigger number.
+Made for one enemy. Against its named quarry it *is* the **right tool** — no fiction claim needed; the wielder may burn the extra Fuel into every on-quarry blow. This is where module *"+1, +3 vs. dragons"* goes — as a power on enchanted steel, not a bigger number.
 
 ### Legendary / named relics
 
@@ -104,7 +104,7 @@ Pick one per tier, or roll **d12** on the column. Re-roll duplicates. Route OSE 
 
 | d12 | Power | OSE root |
 |---|---|---|
-| 1 | **Bane-forged** — **right tool** vs the named quarry (no Fuel spend for the claim) (undead, dragons, regenerating foes, enchanted creatures, spellcasters) | *+3 vs type* |
+| 1 | **Bane-forged** — **right tool** vs the named quarry, no claim needed (undead, dragons, regenerating foes, enchanted creatures, spellcasters) | *+3 vs type* |
 | 2 | **Flaming** — blade ignites on command; once per session, +1 effective blow die vs trolls, plant-things, or undead while lit | *Sword +1, Flaming* |
 | 3 | **Locate object** — once per day, sense one named object-type within 120' | *Sword +1, Locate Objects* |
 | 4 | **Charm** — once per week, a **Control** working (Heart vs Heart) on one touched foe — it lands or it doesn't, and it is not puppetry | *Sword +2, Charm Person* |

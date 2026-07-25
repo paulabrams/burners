@@ -28,7 +28,7 @@ Player skill decides whether the world bends; your Approach decides only how muc
 Burners has no save-or-die. Endurance is **Defend** — a graded contest, not a gate you pass or fail.
 
 - **Out of combat**, a hazard is **`2d6 +` the fitting Approach** against the Referee's Cost. You may soften the price, bear it whole, or dodge it clean — but the outcome is a matter of degree, not a single on/off switch.
-- **In combat**, blows land. A Burner's armor soaks incoming damage first; then you **burn Fuel dice** and cut what remains by their faces. Anything left comes off HP. Unlimited Defend (once you have meleed), Cover (2 dice vs missiles), Block (redirect onto yourself), and Counterattack are ways to answer a blow — not a roll that erases the hit. Monsters take damage on their 2 × HD pile — white first, then red (Referee speed).
+- **In combat**, blows land. A Burner's armor soaks incoming damage first; then you **burn Fuel dice** and cut what remains by their faces. Anything left comes off HP. Unlimited Defend (once you have meleed), Cover (2 dice vs missiles), Block (redirect onto yourself), and Counterattack are ways to answer a blow — not a roll that erases the hit. Monsters take damage on their **Monster Stack** (2 × HD cards) — face-down first, then face-up (Referee speed).
 - **Hostile magic** uses the same Fuel economy as steel. The caster's **cast total** (sum of faces spent to cast) opposes your **defense total** (sum of faces you commit). Partial defense means partial effect: **overrun** = cast − defense, applied as harm to HP *or* as the spell's hold — never both. There is no "save for half" — you defended as well as your dice allowed.
 
 A binary save asks *did you avoid it?* Burners asks *how much did you stop, and what is left?*
@@ -47,7 +47,7 @@ kill you — not a single failed save, not the passage of time alone.
 
 Steel and sorcery share the same pool. The danger is the turn you are winded with workings still flying.
 
-**Taking foes out (Referee speed):** monsters put **2 × HD** dice on the table (**white** armor / **red** meat). Soft kit paints more white; naked/sushi stay all red. **Hits = ⌈damage ÷ 5⌉** always; closed → **−1** unless the player **spends 1 Fuel** and claims the right tool. **Cracked!** = last white gone (signal). **Dead** when the pile is gone. No free Defend; no negative band. [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]].
+**Taking foes out (Referee speed):** monsters get **2 × HD** playing cards (**face-down** closed / **face-up** open). Soft kit paints more face-down; naked/sushi stay all face-up. **Hits = ⌈damage ÷ 5⌉** always; closed → **−1**, always (armor is one card of soak). The **right tool** lets the player burn one extra Fuel into the blow. **Cracked!** = last face-down gone (signal; the −1 ends). **Dead** when the stack is empty. No free Defend; no negative band. [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]].
 
 ---
 
@@ -68,7 +68,7 @@ Death lands after the fight — **unhelped Wound**, **failed Craft survival**, o
 **Heat** is one shared gauge for the whole crew — the temperature of the scene, not any one body's flesh. It prices most out-of-combat Costs and clocks when a job turns dangerous.
 
 - Heat is **never a damage buffer**; blows in a fight go to HP, not Heat.
-- Heat **is** the monster Initiative / press dish (one die per point, enemy side). **Don't double-count dread:** the creature's 2 × HD pile and weapon quotes are its own; Heat prices only the situation — the dark, the alarm, the flanking.
+- Heat **is** the monster Initiative / press dish (one die per point, enemy side). **Don't double-count dread:** the creature's Monster Stack and weapon quotes are its own; Heat prices only the situation — the dark, the alarm, the flanking.
 - Module foreshadowing is mechanical: boxed danger is a **Heat raise**; rooms that let the party prepare are Heat reductions waiting to be claimed.
 - When the party splits, each live scene runs its own Heat.
 
@@ -106,7 +106,7 @@ In combat, only **Sword** answers. The diplomat, locksmith, and archmage are bod
 
 ## Pools, not fixed numbers
 
-**Preferred (Referee speed):** the enemy side rolls **Heat only** for Initiative and optional press. Attacks are **free quotes**. Durability is the public **2 × HD** white/red pile — see [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]]. Burners still roll fat Fuel pools and burn faces to attack and Defend.
+**Preferred (Referee speed):** the enemy side rolls **Heat only** for Initiative and optional press. Attacks are **free quotes**. Durability is the public **Monster Stack** (2 × HD cards, face-down / face-up) — see [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]]. Burners still roll fat Fuel pools and burn faces to attack and Defend.
 
 **Optional (full-dice foes):** run a named foe like a character — Fuel pool, burn to attack and Defend — when you want the slow fight. Most nights, don't.
 
@@ -118,15 +118,15 @@ When porting material that prints a flat damage number (a trap, a breath quoted 
 
 ---
 
-## Armor soaks; monsters use white and red Hit Dice
+## Armor soaks; monsters use Monster Stacks
 
 **Armor (AC)** is what a Burner wears — a flat soak subtracted from every blow before HP. It never enters the exchange as a die.
 
-**Monsters do not use PC AC.** They put **2 × HD** dice on the table (Referee speed): **white** (armor/shell), **red** (meat). Soft kit **adds whites into the mix**; naked / sushi / tough hide with no kit stay **all red**. True shell/plate → mostly or all white. See [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]] and [[Burners OSE Conversions]].
+**Monsters do not use PC AC.** Deal **2 × HD** playing cards (Referee speed): **face-down** (closed / armored), **face-up** (open / meat). Soft kit **adds face-downs into the mix**; naked / sushi / tough hide with no kit stay **all face-up**. True shell/plate → mostly or all face-down. See [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]] and [[Burners OSE Conversions]].
 
-**Peel white first.** Hits always ⌈damage ÷ 5⌉; closed → −1 unless the player spends **1 Fuel** and claims the right tool (*slice the sushi*, *poleax the shell*). No locked gate — the claim is theirs.
+**Pop face-down first.** Hits always ⌈damage ÷ 5⌉; closed → −1, always — armor is one card of soak. The **right tool** (*slice the sushi*, *poleax the shell*) lets the player burn **one extra Fuel** into the blow — a deeper cut, not a waiver. No locked gate — the claim is theirs.
 
-Twenty militia hacking a plated crab each bounce or chip white while it kills them. That is correct; it is why the village hired Burners.
+Twenty militia hacking a plated crab each bounce or chip face-down cards while it kills them. That is correct; it is why the village hired Burners.
 
 **No plusses on sums.** A +n from another game never becomes a bonus added to a roll total. It becomes **enchanted** arms or armor — see [[Burners Referee Magic Items]].
 
@@ -136,7 +136,7 @@ Twenty militia hacking a plated crab each bounce or chip white while it kills th
 
 When a hostile working overruns your defense:
 
-- **Damage:** a Burner's AC soaks a **physical** manifestation — conjured blade, stone shards, dodgeable cone — before Defend; any overrun then applies to HP 1:1. **Non-physical** workings ignore AC. Monsters take it on white then red (Referee speed).
+- **Damage:** a Burner's AC soaks a **physical** manifestation — conjured blade, stone shards, dodgeable cone — before Defend; any overrun then applies to HP 1:1. **Non-physical** workings ignore AC. Monsters take it face-down then face-up (Referee speed).
 - **Control** (charm, sleep, fear, command…) never chips HP. Fully defended: nothing. Defense fell short: the working takes hold — full or partial per the spell and the overrun (Referee's call on edge cases). Recover when the working ends or is broken.
 
 Never both harm and hold from the same working on the same target. OSE *save for half* does not port.
@@ -189,11 +189,11 @@ Every die, save, check, and bonus from another game is a **pointer** to a Burner
 | Save vs. breath (monster) | **Area effect** — telegraph, ward, cover, or eat it |
 | Save vs. poison | **Defend** (Craft) to avoid; **lingering Cost** once it lands |
 | To-hit / THAC0 | Deleted — the pool carries the attack |
-| Magic weapon to hit | White dice; player spends Fuel to claim the **right tool** |
+| Magic weapon to hit | Face-down cards; players claim the **right tool** for the extra die |
 | +n weapon or armor | Enchanted tiers, extra Fuel die, minor powers |
 | XP for magic items | 0 XP — the item is the reward |
 
-The full OSE routing tables live in [[Burners OSE Conversions]]. Read a stat block once, write the margin note — 2 × HD (white/red mix), Heat dish, right-tool-if-any — and run it.
+The full OSE routing tables live in [[Burners OSE Conversions]]. Read a stat block once, write the margin note — 2 × HD cards (face mix), Heat dish, right-tool-if-any — and run it.
 
 ---
 
@@ -201,7 +201,7 @@ The full OSE routing tables live in [[Burners OSE Conversions]]. Read a stat blo
 
 - **Read the moment.** Is the world bending to a clever plan, or is there a price? Pick the engine.
 - **Spend dice.** Defense is a resource decision, not a permission check.
-- **Name the harm.** White dice and weaknesses are fiction first; players claim the right tool with Fuel.
+- **Name the harm.** Face-down cards and weaknesses are fiction first; players claim the right tool for the extra die.
 - **No gotchas.** Face-up Fuel, announced Heat, telegraphed threats — warn before a sharp rule bites (Cover Sparks into the press), then honor the choice.
 - **Telegraph the big hits.** Dragon breath and collapsing ceilings are choices, not surprises sprung cold.
 - **Let the dread work.** Lingering Costs and wound severity do the horror; the Referee does not re-roll every round.

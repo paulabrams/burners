@@ -429,7 +429,7 @@ mesh with combat:
 
 - **HP and damage** that target a **Burner** come off HP (physical effects may be soaked by
   AC before Defend). Against a **monster** at Referee speed, convert overrun to **Hits** on the
-  white/red pile — see [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]] and
+  face-down / face-up Monster Stack — see [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]] and
   [[Burners Principles#Harm and effect are separate lanes]].
 - **Hostile magic** is opposed with **Defend** — Fuel dice vs the caster's cast total. A
   hostile cast where no fight is yet underway still rolls initiative. Choose whichever

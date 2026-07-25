@@ -16,7 +16,7 @@ The clocks already match: OSE turns and rounds are Burners turns and rounds. Dur
 ## What Ports Unchanged
 
 - **Turns (10 min) and rounds (1 min)** — all durations as written.
-- **Morale (2–12, checked on 2d6)** — use the module's score directly. A Boss's arts work on it as usual.
+- **Morale (2–12, checked on 2d6)** — use the module's score directly. A Boss's arts work on it as usual. When to check and what breaking looks like: [[Burners Referee Guide#Morale — when the other side quits]].
 - **Reaction rolls (2d6)** — as written; a character leading the parley adds **Heart**.
 - **Number Appearing, Treasure Type, coin values** — as written; prices are already gold-denominated. Treasure Type hoards convert to gp as written; award **1 XP per gp** when the crew **claims** the haul (see [[Burners Experience]]).
 - **Movement rates** — read as relative speed and reach; resolve in fiction and zones.

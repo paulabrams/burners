@@ -274,6 +274,24 @@ Keeping the blows separate is deliberate. A single combined Damage would blow pa
 
 ---
 
+## Retreat and Pursuit
+
+Running is a real option and it needs a real procedure, or the table will fight to the death out of habit. When the crew calls a retreat, work it in this order.
+
+**Name the destination.** Not "we run" — *where*. The stair, the spiked door two rooms back, the coal chute, daylight. If they cannot name it, they do not know the way out, and that is the answer.
+
+**Take the roles.** Someone leads (they know the route), someone holds the rear (one Burner at a chokepoint buys the rest a beat), and someone carries what is being carried. A body cannot do two of these.
+
+**Name the price.** Retreat always costs something, said out loud before the dice: the strongbox left behind, a dropped torch, a lantern that gutters, the wounded man's pace, the door they cannot spike in time. Let them choose which cost they pay when there is a choice.
+
+**Then the pursuers.** Not everything follows. Ask what the thing wants. Territorial beasts stop at the border; scavengers stop at the dropped food or the dropped gold; hunters follow while the trail is loud; the truly relentless follow until stopped. State the stop condition first, then let the crew try to meet it — bar the door, drop the meat, kill the light, go quiet.
+
+Kit earns its slots here. **Spikes and wedges** turn a door into a clock; **oil** turns a corridor into a wall; **caltrops and dropped coin** buy beats from the greedy; going dark buys everything if the pursuer hunts by sight. A retreat that spends gear and light is a good retreat, not a failure.
+
+Mark the Turn, and mark it loud — a flight is `!!` on the tracker. Heat does not vent for running; it vents when the threat is behind them and the door is shut.
+
+---
+
 ## Cover, Sparks, and shooting into the press
 
 Fuel is rolled face-up. Everyone can see the 6s.
@@ -281,6 +299,24 @@ Fuel is rolled face-up. Everyone can see the 6s.
 When a missile flies into a melee, the target may use a **melee foe as Cover** (see [[Burners Adventure Game]]). If they Fuel a Spark on that Defend, the shot hits that foe instead — often a Burner locked with them. That is the rule working as written, not a gotcha to spring cold.
 
 Before the arrow goes: give a friendly warning. *"Are you sure you want to put that into the press? He's got a Spark sitting right there."* The player still chooses. You telegraphed the risk while the dice were already on the table. See [[Burners Principles#No gotchas]].
+
+---
+
+## Coming Back — Restocking
+
+A place the party left is not a place on pause. When they return, the dungeon has reacted; it has not reset. Cleared rooms stay cleared and hard-won ground stays won — but the site answers what was done to it. Ask four questions and change only what they touch.
+
+**Who survived, and what did they learn?** The ones who lived move the treasure, post a watch on the way the party came in, block the coal chute, or bring in help. A crew that fought loud at the entry stair finds the entry stair guarded.
+
+**Who moved in?** Cleared space does not stay empty long. Something smaller creeps up from below, something larger claims the good room, scavengers work the corpses the party left. The new tenant is usually weaker than what was killed — the place is diminished, not restored.
+
+**What pressure advanced?** Whatever the site was doing while nobody watched — a ritual further along, water risen another foot, a fungus spread down the hall, a faction's dig deeper. One thing, not five.
+
+**What scars show?** The spiked door still bears its spikes. The burned hall still stinks. The bodies are gone but the stains are not. Show one piece of their own work back to them; it is the cheapest way to make the world feel remembered.
+
+How much changes rides on how long they were gone and how loudly they left. A day or two and a quiet exit: watches posted, little else. A week and a bloody exit: new tenants, moved treasure, and someone hunting the crew by name. Between jobs a loud site raises the base Heat of the next visit until the crew lies low (see Running Heat).
+
+Do this at the door, not room by room. Three lines in your notes before the session is the whole procedure.
 
 ---
 

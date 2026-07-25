@@ -9,7 +9,7 @@ hero_alt: "A deal struck in the town square — Albert Robida"
 
 *How the world pushes back. The players say what they do; this is the toolkit for everything they do it to — the passage of time, the dark closing in, and the first cold look of a stranger.*
 
-Three things run most of it: the Heat gauge you drive up and down as the scene's pressure, the Delve Die that decides what the dungeon does while the party spends time in it, and the Reaction roll that decides how the living things in it take to the crew. The two dice read on the same Sweet and Spicy grammar as everything else in Burners — you are pointing the familiar 2d6 at the world instead of at a character.
+Three things run most of it: the Heat gauge you drive up and down as the scene's pressure, the Turn Tracker that keeps the world's ten-minute clock honest (old-school d6 for wandering monsters, light and noise on paper), and the Reaction roll that decides how the living things take to the crew.
 
 ---
 
@@ -27,7 +27,7 @@ Heat is the crew's shared gauge and the spine of every scene — the full player
 
 **Feed it.** Every shortfall the crew can't soak raises Heat by what they fell short — compress big misses, a botched sneak is +1 or +2, not +5. A blow past a defense, a blown roll, a hard parley all feed it, and you may raise it by fiat when fresh danger walks in (reinforcements, a lit lantern, the storm arriving), announced. Wounds do not feed Heat; they carry their own pressure.
 
-**Telegraph threats to set the room.** Rough rubric: raise Heat toward the shown monster's **HD** — lower if the foe is disadvantaged, higher if it owns the situation. Reveal in stages and the gauge climbs with the fiction — spoor, then half-eaten kills, then the beast at full HD (a pack: summed HD, capped by chokepoints and the dark). Show the signs for slow dread; conceal them for an ambush that raises no Heat and strikes from surprise instead (the Delve Die's 1,1). Its presence sets the room; its attacks still quote its own Damage. Heat is the press dish — never the Monster Stack.
+**Telegraph threats to set the room.** Rough rubric: raise Heat toward the shown monster's **HD** — lower if the foe is disadvantaged, higher if it owns the situation. Reveal in stages and the gauge climbs with the fiction — spoor, then half-eaten kills, then the beast at full HD (a pack: summed HD, capped by chokepoints and the dark). Show the signs for slow dread; conceal them for an ambush that raises no Heat and strikes from surprise instead. Its presence sets the room; its attacks still quote its own Damage. Heat is the press dish — never the Monster Stack.
 
 **Work the valves.** Heat falls when the crew acts on the room, not on request: fell or lose a named threat, −2; remove a named source (quench the fire, learn the ward-phrase), −1 or more; a Double Sweet vents 1; a steadying word or plan you buy, −1 once a scene. Folding ends the scene and cools to the next base. Downtime — a safe camp, a town between jobs — cools to base; a job that ended loud raises the base of what follows until the crew lies low and spends coin. Carousing is maintenance, not vice.
 
@@ -45,9 +45,9 @@ The exploration turn is one World Turn — ten minutes. Each turn runs the same 
 
 3. **Resolve.** Play out the action: movement, searching, talk, a forced door, a fight.
 
-4. **Advance the clock.** Add the Turn and roll the Delve Die. It is the one roll that used to be four — the wandering-monster check, the torch burning down, spells lapsing, the party wearing out — folded into a single pair of dice (see The Delve Die below). Update light, ongoing spells, conditions, and any clocks as its result dictates.
+4. **Advance the clock.** Mark the Turn on the Turn Tracker (below). Tick light. Check for wandering monsters when the schedule or a bang calls for it. Update ongoing spells, conditions, and any other clocks the fiction demands.
 
-Roll the Delve Die once at the top of each Turn (see the frequency note at the end for running hotter or cooler). Between turns the loop just repeats: frame, resolve, advance.
+Between turns the loop just repeats: frame, resolve, advance.
 
 ---
 
@@ -67,50 +67,47 @@ Every room, encounter, or travel scene should answer three questions. Build it i
 
 ---
 
-## The Delve Die
+## Turn Tracker
 
-Roll 2d6 and add nothing — the dungeon has no Approach, it simply happens. Read the 1s and the 6s, not the sum.
+A world Turn is ten minutes. Track Turns on paper where the players can see it. One line per Turn: a check mark `x`, then noise if they made any — `!` for noise, `!!` for extra noise. Shouting, kicking in doors, fighting, casting spells, and the like all count. Optionally note light, WM rolls, and what happened.
 
-- Any **1** shows → an encounter. Something has found the party. The other die is their lead time: how much warning they get before it matters.
-- A **6** and no 1 → a break in the party's favor.
-- No 1 and no 6 → the grind. Nothing leaps out, but the dark still costs them.
+```
+X  enter, listen the door
+X  Bellamy lantern (24) · WM 5
+X ! forced the grate
+X  WM 2
+X  search the shrine
+X  WM 4
+X !! fight in the nave · lantern out · WM 3
+X  WM 2
+```
 
-### When a 1 shows — the encounter and its distance
+### Wandering monsters (d6)
 
-A 1 means something is coming. Its partner die tells you how close, running from *it has the drop on you* to *you have the drop on it*.
+Check at the start of every other Turn, or **immediately** when you write a bang (`!` / `!!`). Roll **1d6** and write the result ("WM n") on the line.
 
-| Roll | Lead time | At the table |
-| --- | --- | --- |
-| 1,1 (natural 2) | none | Surprise. It is on them before they know — they defend at the surprise penalty, one die only that first exchange (no melee yet to open unlimited Defend). |
-| 1,2 | almost none | On top of them, knife-range. Roll initiative as normal, no time to prepare. |
-| 1,3 | little | Close. |
-| 1,4 | some | Nearby, both sides aware at once. |
-| 1,5 | good | At a distance. |
-| 1,6 | most | Distant. The party spots it first and holds the drop: avoid, hide, prepare, or turn ambusher. |
+| Condition | Chance |
+| --- | --- |
+| Quiet | 1-in-6 |
+| Noise | 2-in-6 if there was `!` in the past 20 minutes or `!!` in the past hour |
+| Dark | 2-in-6 if quiet; 3-in-6 with noise and/or wounds |
 
-The partner die is literally *how many beats away*. On the low end the monster has the initiative and the surprise; on the high end the party does. The far results double as the omen — a distant encounter the party detects first *is* the tracks, the sound, the light down the corridor, so you rarely need a separate "sign" result. Telegraph it as a Scene with its own Oddity and Risk.
+When an encounter lands, set distance and warning from the fiction (or the module), roll Reaction if the thing can parley, and build it per Building and Running Monsters (below).
 
-When an encounter lands, roll the monster's disposition on the Reaction table below, and build the creature per Building and Running Monsters (below). A thing with no capacity for parley does what its nature dictates and skips Reaction.
+### Light
 
-### When a 6 shows and no 1 — a break
+Track burn on the paper — do not hide it behind a die.
 
-A good turn. A safe nook to catch a breath, a shortcut, a sign the party reads first, a glint of loot, a resource that holds. A double 6 (natural 12) is a real gift: a genuinely safe rest, a cache, a secret way, or the drop on whatever lies ahead.
-
-### When neither shows — the grind
-
-No monster, no gift, but the dark is not free. One clock ticks — you choose which fits the fiction:
-
-- **Light.** A torch gutters toward going out, a lantern's oil drops a measure.
-- **Supplies.** Rations, water, or ammunition run low.
-- **Fatigue.** The grind feeds the crew's Heat (see The Grind, below).
-
-Pick the one that bites hardest right now. Deep in the dark with torches low, burn the light; on a long haul with everyone already frayed, feed the gauge.
+- **Torch:** 30′ for 1 hour (6 Turns). Bundle of 6: 1 gp, 1 slot ([[Burners Equipment]]).
+- **Lantern:** 30′ for 4 hours (24 Turns) per flask. Lantern 10 gp; oil 2 gp; 1 slot each.
+- **Candle:** 5′ for 1 hour (6 Turns). Bundle of 6: 1 gp, 1 slot.
+- **Rag-on-a-stick:** as candle, up to ~20 minutes if lucky. Free, 1 slot.
 
 ---
 
-## The Grind — Light, Supplies, Fatigue
+## The Grind — Supplies, Fatigue
 
-Fatigue is why the party cannot crawl forever, and it needs no separate clock — it feeds Heat, because Heat is the crew's shared wind and nerve, and wearing down a long crawl is exactly the loss of those. A fatigue tick raises the gauge, usually +1, and it rides there until the crew vents it.
+Light lives on the Turn Tracker. Fatigue is why the party cannot crawl forever, and it needs no separate die — it feeds Heat, because Heat is the crew's shared wind and nerve, and wearing down a long crawl is exactly the loss of those. When the fiction calls for a grind tick (long haul, thin air, lingering too long), raise the gauge, usually +1, and it rides there until the crew vents it. Supplies (rations, water, ammunition) run down the same way when you say they should.
 
 A Journeyman keeps the band fresh. The [[Burners Adventure Game|Journeyman's craft]] reduces party-wide travel, weather, and survival costs by the Journeyman's Craft level, and fatigue in the dark is a survival cost like any other. Subtract the Journeyman's Craft from the tick for everyone they are leading: Craft 1 shrugs off a routine +1 entirely. Fatigue bites when the party has no Journeyman, when the Journeyman is down or split off from the group, or when the place is harsh enough to outrun their level. Scale the tick to the dungeon — a mild crawl adds 1, a brutal one (heat, thin air, crushing dark) adds 2 or 3, so a Journeyman's Craft matters more the worse the ground gets.
 
@@ -156,7 +153,19 @@ Reaction sets the starting disposition; the Two Steps and Influence carry the sp
 
 ## Frequency — running hot or cool
 
-Rolling the Delve Die every Turn runs a dungeon hot: any 1 lands about a third of Turns (of those, only one in eleven is the 1,1 surprise — most encounters are mid-range meets the party can fight or dodge), and a six-Turn camp will almost certainly stir something. That suits the Burners tone — in fast, out before the fog. If it runs too hot in play, roll every other Turn for the classic dungeon tempo, or treat the distant 1,5 and 1,6 results as a sighting the party can slip away from entirely rather than a committed encounter.
+The default Turn Tracker (WM every other Turn, Quiet 1-in-6, bangs immediate at Noise) is classic dungeon tempo. Loud crews and dark crawls hit the higher rows and feel the pressure. If a job should run hotter, check every Turn instead of every other, or treat Dark as the floor even in lit halls. If cooler, keep Quiet at 1-in-6 and only bang-check on `!!`.
+
+### Delve Die (optional)
+
+If you want one 2d6 to fold encounter, break, and grind into a single roll, use this instead of the d6 WM checks — not both.
+
+Roll 2d6, add nothing. Read the 1s and the 6s, not the sum.
+
+- Any **1** → encounter. The other die is lead time (1,1 surprise through 1,6 distant drop).
+- A **6** and no 1 → a break (safe nook, shortcut, omen, cache). Double 6 is a real gift.
+- Neither → the grind: tick light, supplies, or fatigue (see The Grind above).
+
+Every Turn runs hot; every other Turn is cooler. Distant 1,5 / 1,6 can be a sighting the party slips away from.
 
 ---
 

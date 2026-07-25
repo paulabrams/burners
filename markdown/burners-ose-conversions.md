@@ -9,7 +9,7 @@ hero_alt: "A knight rides toward the distant keep — Lancelot Speed"
 
 Every OSE conversion follows [[Burners Principles]]. The routing tables below are the OSE-specific application.
 
-The clocks already match: OSE turns and rounds are Burners turns and rounds. Durations, torches, and wandering-monster checks run as written.
+The clocks already match: OSE turns and rounds are Burners turns and rounds. Durations and light burn as written (torch 6 Turns, lantern 24 per flask; candles on [[Burners Equipment]]). Wandering monsters: [[Burners Referee Guide#Turn Tracker]] — old-school d6, Quiet / Noise / Dark, bangs on the paper log (OSE's plain 1-in-6 every other turn, plus noise).
 
 ---
 

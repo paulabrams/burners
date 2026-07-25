@@ -12,7 +12,7 @@ hero_alt: "Travelers on the road — Albert Robida"
 ## Example 1 — The Rat-Cellars (a crawl)
 
 **Job:** clear the Rat-Cellars under Varn's granary; recover the strongbox.
-**Base Heat 6** (working ground). Torches burn 6 turns. Wandering check every 2nd turn, 1-in-6 (OSE procedure, unchanged).
+**Base Heat 6** (working ground). Torches burn 6 Turns. Wandering monsters per [[Burners Referee Guide#Turn Tracker]]: every other Turn, or immediately on noise (`!` / `!!`); Quiet 1-in-6, Noise 2-in-6.
 
 **Crew** (all character level 1 — one Approach point, four Traits, HP = 1d6 rolled):
 
@@ -29,28 +29,29 @@ hero_alt: "Travelers on the road — Albert Robida"
 
 ### Exploration
 
-**Turn 1 — Entry stair.**
+**Turn 1 — Entry stair.** `x`
 
 - Sefa scouts (Craft): Pay @ Heat 6 → 2d6+1 = **8** ✓. Clear, no cost.
 - Torch 1/6.
 
-**Turn 2 — Cellar 1, flooded. A slick beam (balance — Defend, Craft).**
+**Turn 2 — Cellar 1, flooded. A slick beam (balance — Defend, Craft).** `x !`
 
 - Cross, 2d6 + Craft vs Heat 6 each:
-  - Kragg 2d6 = **7** ✓ · Sefa 2d6+1 = **9** ✓ · Ilsa 2d6 = **10** ✓ · Brand 2d6 = **5**, short → slips, splash and noise → **Heat 7**.
-- Wandering check: d6 = **4**. Nothing.
+  - Kragg 2d6 = **7** ✓ · Sefa 2d6+1 = **9** ✓ · Ilsa 2d6 = **10** ✓ · Brand 2d6 = **5**, short → slips, splash and noise → **Heat 7**. Log `!`.
+- Immediate WM (noise, 2-in-6): d6 = **4**. Nothing.
 
-**Turn 3 — Stuck door (heavy, swollen — a hard feat, Sword vs 9).**
+**Turn 3 — Stuck door (heavy, swollen — a hard feat, Sword vs 9).** `x !`
 
 - Kragg heaves: 2d6+1 = **8**, short → holds, time burns.
-- Second try: 2d6+1 = **10** ✓ — it grinds open.
+- Second try: 2d6+1 = **10** ✓ — it grinds open. Log `!`.
+- Immediate WM (noise, 2-in-6): d6 = **5**. Nothing.
 - Torch 3/6.
 
-**Turn 4 — Cellar 2. Covered pit (trap: flat Damage 2, no roll — detect or eat).**
+**Turn 4 — Cellar 2. Covered pit (trap: flat Damage 2, no roll — detect or eat).** `x` → fight `!!`
 
 - Sefa checks for traps (Craft): Pay @ 7 → 2d6+1 = **6**, short 1 → **Heat 8**. Pit *not* spotted.
 - Marching order puts Brand on it. It springs, no telegraph, no Fuel up out of combat: Damage 2 − Brand's AC 1 (soaks on the way in) = **1 to HP.** Brand 5 → 4.
-- Wandering check: d6 = **1** — encounter. Cellar denizens, hostile by writ: **4 grave-rats** (HD 1 each → **2 red** apiece; bite quote **3**).
+- Scheduled WM (every other Turn; still Noise — `!` within 20 min → 2-in-6): d6 = **1** — encounter. Cellar denizens, hostile by writ: **4 grave-rats** (HD 1 each → **2 red** apiece; bite quote **3**). Log `!!` for the fight; that is the encounter already — no second WM for the scrap itself.
 
 ### Combat 1 — Grave-rats (4). Heat 8
 
@@ -69,16 +70,16 @@ hero_alt: "Travelers on the road — Albert Robida"
 
 *Note: each HD 1 rat is a 2-red pile — one solid Hit each, often two scrap blows. A swarm's teeth are its count of quotes, not any one blow — and a Burner's armor soaks each blow separately, so numbers grind rather than spike.*
 
-**Turn 5 — rest of Cellar 2.**
+**Turn 5 — rest of Cellar 2.** `x`
 
 - Loot niche: 120 gp, a **silvered knife** (1 slot). Sefa takes the knife.
 - Torch 5/6; fresh torch lit.
 
-**Turn 6 — Cellar 3, the strongroom door. Masterwork lock (thief skill vs difficulty 10).**
+**Turn 6 — Cellar 3, the strongroom door. Masterwork lock (thief skill vs difficulty 10).** `x`
 
 - Sefa (Craft, tools): Deal → 2d6+1 = **9**. Holds; time cost → **Heat 7**.
-- Sefa again: 2d6+1 = **12** ✓. Open.
-- Wandering check: d6 = **6**. Nothing.
+- Sefa again: 2d6+1 = **12** ✓. Open. Quiet work — no bang.
+- Scheduled WM (every other; `!!` within the hour → Noise 2-in-6): d6 = **6**. Nothing.
 
 ### Combat 2 — The Cellarer (a wight). Heat 7 → 9
 
@@ -116,7 +117,7 @@ Threat overcome → **vent 2 → Heat 7.**
 
 ### Procedure Notes
 
-- **OSE clocks unchanged:** 10-minute turns, torch tracking, wandering checks every 2nd turn at 1-in-6.
+- **Clocks:** 10-minute Turns on a visible Turn Tracker — `x` / `!` / `!!`, light notes, WM results. Quiet 1-in-6 every other Turn; bangs check immediately at Noise (2-in-6). Magic out of combat is noise. See [[Burners Referee Guide#Turn Tracker]].
 - **One roll out of combat:** `2d6 + Approach` vs Cost. Traps — see [[Burners Principles#Pools, not fixed numbers]].
 - **Fuel is rolled on each Roll Initiative** — full pool on round 1; from round 2 on, refill one Fuel die per character level and roll those in, then lock order. Enemy side preferred: **Heat dice only** for Initiative / press — not HD + weapon + Heat.
 - **Damage you announce; the Referee converts.** Hits = ⌈damage ÷ 5⌉; closed → −1, always (armor is one card of soak). Claim the **right tool** to burn one extra Fuel into the blow (its face adds to damage). Face-down first, then face-up. **Cracked!** = last face-down gone (signal; the −1 ends). Dead = pile gone. See [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]].

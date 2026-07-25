@@ -78,6 +78,7 @@ hero_alt: "A knight returns laden — crossbow, sword, and loot — Albert Robid
 | Stakes (3) and mallet                         | 1     | 3         |
 | Tinder box (flint and steel)                  | 1     | 3         |
 | Torches (6)                                   | 1     | 1         |
+| Candles (6)                                   | 1     | 1         |
 | Lantern                                       | 1     | 10        |
 | Waterskin or wineskin                         | 1     | 1         |
 | Wine (2 pints)                                | 1     | 1         |

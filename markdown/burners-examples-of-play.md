@@ -7,7 +7,7 @@ hero_alt: "Travelers on the road — Albert Robida"
 
 # Burners — Examples of Play
 
-*Mechanics-only run-throughs of the engine (Fuel pools, Defend, soak-on-the-way-in, Hits on monster piles). No narration — just procedure, rolls, and the gauge. See [[Burners Adventure Game]] and [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]].*
+*Mechanics-only run-throughs of the engine (Fuel pools, Defend, soak-on-the-way-in, Hits on Monster Stacks). No narration — just procedure, rolls, and the gauge. See [[Burners Adventure Game]] and [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]].*
 
 ## Example 1 — The Rat-Cellars (a crawl)
 
@@ -59,7 +59,7 @@ hero_alt: "Travelers on the road — Albert Robida"
 
 **Round 1.**
 
-- **Kragg** attacks: burns a 5 → damage **5** → Hits ⌈5÷5⌉ = **1**. All-red rat: pluck 1 red → **1 face-up left**. He burns a 6 to strike a **Spark**, Fuels it with a 2 for a second attack → damage **2** → **1 Hit** → pile gone. Rat 1 dead.
+- **Kragg** attacks: burns a 5 → damage **5** → Hits ⌈5÷5⌉ = **1**. All-red rat: pluck 1 red → **1 face-up left**. He burns a 6 to strike a **Spark**, Fuels it with a 2 for a second attack → damage **2** → **1 Hit** → stack empty. Rat 1 dead.
 - **Brand** attacks: burns a 5 → **1 Hit** → rat 2 at **1 red**.
 - **Ilsa** (spear) attacks: burns a 4 → **1 Hit** → finishes rat 2.
 - **Rats** act: rats 3 and 4 bite Sefa (quote **3** each). She Defends the first 3 with a 4. Against the second 3, leather soaks 1 first; she burns a 3 to cut the rest. Zeroed.
@@ -68,7 +68,7 @@ hero_alt: "Travelers on the road — Albert Robida"
 
 - **Kragg** drops rat 3 with two blows (same math). **Brand** chips rat 4; **Ilsa** finishes it. Threat overcome → **vent 2 → Heat 6.**
 
-*Note: each HD 1 rat is a 2-red pile — one solid Hit each, often two scrap blows. A swarm's teeth are its count of quotes, not any one blow — and a Burner's armor soaks each blow separately, so numbers grind rather than spike.*
+*Note: each HD 1 rat is a 2-card face-up stack — one solid Hit each, often two scrap blows. A swarm's teeth are its count of quotes, not any one blow — and a Burner's armor soaks each blow separately, so numbers grind rather than spike.*
 
 **Turn 5 — rest of Cellar 2.** `x`
 
@@ -120,7 +120,7 @@ Threat overcome → **vent 2 → Heat 7.**
 - **Clocks:** 10-minute Turns on a visible Turn Tracker — count **1–6** then wrap (an hour); `!` / `!!`, light notes, what they did. Checks leave no mark; even turns say when one is due. Always 1-in-6; roll on even turns, and again when noise, dark, or wounds fire. A full quiet cycle with food and water is Hour Rest (HP, if unwounded) — not a required rest tax. Magic out of combat is noise. See [[Burners Referee Guide#Turn Tracker]].
 - **One roll out of combat:** `2d6 + Approach` vs Cost. Traps — see [[Burners Principles#Pools, not fixed numbers]].
 - **Fuel is rolled on each Roll Initiative** — full pool on round 1; from round 2 on, refill one Fuel die per character level and roll those in, then lock order. Enemy side preferred: **Heat dice only** for Initiative / press — not HD + weapon + Heat.
-- **Damage you announce; the Referee converts.** Hits = ⌈damage ÷ 5⌉; closed → −1, always (armor is one card of soak). Claim the **right tool** to burn one extra Fuel into the blow (its face adds to damage). Face-down first, then face-up. **Cracked!** = last face-down gone (signal; the −1 ends). Dead = pile gone. See [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]].
+- **Damage you announce; the Referee converts.** Hits = ⌈damage ÷ 5⌉; closed → −1, always (armor is one card of soak). Claim the **right tool** to burn one extra Fuel into the blow (its face adds to damage). Face-down first, then face-up. **Cracked!** = last face-down gone (signal; the −1 ends). Dead = stack empty. See [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]].
 - **Defense (Burners):** melee 1 die (no limit once you have meleed this round); missile 1 die (2 with Cover); magic no limit. **Block** / **Cover** as in Combat. Monsters at speed have **no free Defend**.
 - **The Wound model:** see [[Burners Principles#HP is plot armor; past 0 it gets real]].
 - **Casting is the same economy:** Ilsa's *Adhere* was one Action, one Fuel die for the **cast total**; the card **tapped**; control stuck the arm — no Hits. Sleep recovers up to Sorcerie Level cards.
@@ -169,7 +169,7 @@ Initiative is the count of 3s and 4s. Kragg reads **3**, enemy Heat dish **2**, 
 - **Sharper** (from the floor) finishes the cast — *Bewitch*: cast total **5**. The card taps. **Ilsa is adjacent and Wards**: Sorcerie 1, burns **1** Fuel (a 4), cutting the cast to **1**. **Brand then Defends** with 1 die (a 3) → fully defended. No charm. *(Ilsa 6→5; Brand 5→4.)*
 - **Ilsa** (Action still free — Ward is not a turn): casts *Adhere*. 1 die = **6** cast total (Spark). Card taps. At speed the sharper has no free Defend — hand sticks to the floorboards (effect lane, **no Hits**; stack still **2 face-up**). She Fuels the Spark: glue catches the other wrist too. *(Ilsa 5→3.)*
 - **Bravo 1** lunges at Sefa, knife quote **2** pressed with a Heat die face **2** → **4**. Sefa has not meleed → one die: burns a 3 → 1 through, no armor tonight → **Sefa 3 HP → 2.** *(Sefa 5→4.)*
-- **Brand** rises, sword *now* in hand (drawing comes free with his Action), and swings at bravo 1: 1 die = **5** → Hits ⌈5÷5⌉ = **1** (all face-up) → **1 face-up left**; second Veteran attack burns a **4** → **1 Hit** → pile gone. *(Brand 5→3.)*
+- **Brand** rises, sword *now* in hand (drawing comes free with his Action), and swings at bravo 1: 1 die = **5** → Hits ⌈5÷5⌉ = **1** (all face-up) → **1 face-up left**; second Veteran attack burns a **4** → **1 Hit** → stack empty. *(Brand 5→3.)*
 - **Sefa** draws the holdout — **1 Fuel to pull it in a fight** — and marks bravo 2. *(Sefa 4→3.)*
 - **Bravo 2** hesitates — his partner is down, the sharper is stuck to the boards. **Morale check (2d6 under Morale 7): 6 — holds**, barely. He circles.
 

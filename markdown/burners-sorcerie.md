@@ -162,9 +162,11 @@ caster's craft.
 1. **Say what you do** — name the spell and its effect in the fiction.
 2. **Pay the Cost.** In combat, casting is one Action: burn at least SL Fuel dice
    (SL = the working's level) and roll them for the **cast total**, as ever. Out of combat,
-   roll **2d6 + Sorcerie** (or **2d6 + Craft** for Canting) against the Referee's Cost.
-   Sparks, Double Spicy fumbles, and Defending against a spell run as written in
-   [[Burners Adventure Game]].
+   roll **2d6 + Sorcerie** (or **2d6 + Craft** for Canting) against the Referee's Cost
+   (usually Heat). Sparks and Defending against a spell run as written in
+   [[Burners Adventure Game]] — combat has no Sweet or Spicy; Fuel faces on a cast
+   do not Spicy. A cast that goes badly wrong is the Referee's call in the fiction
+   (the ward wakes, the card taps with no effect), not a Double Spicy rule.
 3. **Tap the card.** An instant working goes to your discard as it resolves. A lasting
    working stays **in play** for its duration, then joins the discard.
 
@@ -175,9 +177,6 @@ force the card to tap.
 **When a cast Sparks.** Fuel it with one or more additional Fuel dice, up to SL, and
 burn that Fuel on the *working itself* — another target caught, a beat longer, a ward
 pierced (Referee's call). Add no Fuel and the Spark fades.
-
-**Double Spicy** on a combat cast is a fumble — the working goes wrong (the Referee's worst
-fitting outcome: singe an ally, alert the ward, the card taps with no effect).
 
 ## Burning
 

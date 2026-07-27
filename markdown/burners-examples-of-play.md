@@ -136,7 +136,7 @@ Threat overcome → **vent 2 → Heat 7.**
 
 **Scene:** a back table at the Gulls' Rest, evening crowd. The buyer is **Marlow**, a dockside fixer, flanked by two **bravos** and a quiet man with rings — a **sharper** (Sorcerer, Illusione). **Base Heat 4** (a quiet meet, but a crowded room and money on the table).
 
-**What's in hand matters tonight.** Nobody walks into a parley holding a war-axe. Kragg's axe rides his back, Brand's sword is at his hip, Sefa's silvered knife is a holdout in her boot. Weapon and shield dice land only for what is *in hand*; stowed weapons still feed the empty bucket (cap 4). Holdouts sit outside the twelve and feed neither.
+**What's in hand matters tonight.** Nobody walks into a parley holding a war-axe. Kragg's axe rides his back, Brand's sword is at his hip, Sefa's silvered knife is a holdout in her boot. Held slots only count on the Initiative roll if the thing is *in hand* when steel comes out.
 
 ### The parley (Heart)
 
@@ -153,9 +153,9 @@ The sharper casts a working at Brand. **A hostile spell is an attack: roll initi
 
 | Side | Pool | Dice |
 |---|---|---|
-| **Kragg** (tankard, axe on back) | empty bucket 4 (axe feeds it) + 1 level | **5** |
+| **Kragg** (tankard, axe on back) | 4 empty + 1 level | **5** |
 | **Sefa** (knife in boot — a holdout) | 4 empty + 1 level | **5** |
-| **Brand** (sword at hip, not in hand) | empty bucket 4 (sword feeds it) + 1 level | **5** |
+| **Brand** (sword at hip, not in hand) | 4 empty + 1 level | **5** |
 | **Ilsa** (5 Arcana declared; wand drip 1; leather 2; no spear tonight) | 4 empty + 1 wand + 1 level | **6** |
 | **Enemy side** (Heat 5 — sharper + bravos share one dish) | Heat only | **5** |
 | **Sharper** (HD 1 → **2 face-up**; Illusione hand; *Bewitch* ready) | free cast / quotes | — |
@@ -192,7 +192,7 @@ Initiative is the count of 3s and 4s. Kragg reads **3**, enemy Heat dish **2**, 
 - **Social scenes:** see [[Burners Principles#Two engines]] and [[Burners Principles#Heat is scene pressure]]. Heart pays for risky reads and squeezes as Pay rolls.
 - **Heat is the social gauge too.** The meet opened at 4, climbed on a botched press, and a revealed threat set a floor. When steel came out, that same number **was** the enemy side's Initiative / press dish — Heat only, shared by sharper and bravos.
 - **Declaring an attack is "roll initiative" — and the declarer is not first.** The sharper's charm started the fight and Kragg still beat him to the floor. A hostile working where no fight is underway triggers initiative like a drawn blade; nobody gets a free strike for moving first in the fiction.
-- **You fight with what's in hand.** Tavern pools are thin on *weapon* dice: sheathed swords and slung axes throw none until drawn — they only feed the empty bucket (cap 4). Ilsa's **wand drip** and empty pack carried her share — empty Arcana add nothing. Brand's draw came free with his Action; Sefa's holdout cost the 1 Fuel a holdout costs.
+- **You fight with what's in hand.** Tavern pools are thin: sheathed swords and slung axes throw no dice on the Initiative roll. Ilsa's **wand drip** and empty pack carried her share — empty Arcana add nothing. Brand's draw came free with his Action; Sefa's holdout cost the 1 Fuel a holdout costs.
 - **Ward, shown:** Ilsa cuts the cast with ≤ Sorcerie Level Fuel; Brand then Defends the remainder. Control never lands partially on a clean stop.
 - **Control lands as an effect, not HP:** see [[Burners Principles#Harm and effect are separate lanes]]. Had the charm landed, Brand loses no HP — the crew attacks the reason (concentration, hand, skin).
 - **Morale as written (2d6 vs the score):** the bravos were never going to die for Marlow's face. One blow and one bad round asked the question twice, and the second answer was the door.

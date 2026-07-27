@@ -87,7 +87,7 @@ Quick definitions. Details live in the chapters below.
 
 - **Baggage:** small items can share a slot if they ride in a pouch, quiver, or satchel (1 slot). A backpack (3 slots) holds bedroll, rope, rations, and loot efficiently, but takes ten minutes to unpack.
 
-- **Empty slots:** free space and sheathed steel. On Roll Initiative, count true empty physical slots plus every weapon you carry that is not in hand (belt, back, sheath). That total adds dice, up to four. Armor, packs, tools, loot, and shields never join this count. Muster and Arcana slots never also count as empty. Dropping something to free a slot is an action.
+- **Empty slots:** free space is speed. Every empty slot adds a die to your Fuel on the Initiative roll, up to four. Light kit, quick feet. Dropping something to free a slot is an action. Muster and Arcana slots never also count as empty.
 
 - **Armor class (AC):** damage soaked by armor before HP. Leather 1, gambeson 2, mail 3, plate mail / field plate 4, full plate 5.
 
@@ -243,7 +243,7 @@ A sample buy, 53 gp of your hundred, filling all twelve slots:
 - Arming sword — 2 slots, 10 gp
 - Rondel dagger — 1 slot, 3 gp
 
-Mail soaks 3 off every blow. Sword in hand throws 2 on Roll Initiative; the rondel on the belt feeds the empty bucket (1); your level throws 1 — a pool of 4. Mail plus pack leave only three slots for steel, so the heater stays home until you drop the pack. Plate wants a Trait (*plate armor*); field and full plate are rare fitted harness. Full prices: *Weapons, Armor, and Shields* below.
+Mail soaks 3 off every blow. Sword in hand throws 2 on Roll Initiative, your level throws 1 — a pool of 3. The rondel rides the belt. Mail plus pack leave only three slots for steel, so the heater stays home until you drop the pack. Plate wants a Trait (*plate armor*); field and full plate are rare fitted harness. Full prices: *Weapons, Armor, and Shields* below.
 
 At Sword 1 you are already a Veteran: two attacks a round. See *Veteran Attacks* under Combat.
 
@@ -321,7 +321,7 @@ Physical (7):
 - Dagger — 1 slot, 3 gp
 - Empty — 1 slot
 
-Initiative: wand and hat drip throw 2, one empty physical plus the dagger on the belt throw 2 toward the empty bucket (cap 4), level throws 1 — a pool of 5. Draw the dagger and it leaves the bucket for a weapon die on the next Roll Initiative. The magic is already yours.
+Initiative: wand and hat drip throw 2, one empty physical throws 1, level throws 1 — a pool of 4. The dagger on the belt throws nothing until it is in hand. The magic is already yours.
 
 Two of your school's six 1st-level spells are not in your book. Those, deeper spells, other schools, and more drip are your hunt. Extra costume drip runs 100 gp apiece in town; enchanted drip stays a find. *Read Magic* and readable sources (OSE) let you memorize from a found book while you carry it. Moving a spell into your book costs 100 gp × its level and destroys the source page. See [[Burners Sorcerie]].
 
@@ -329,7 +329,7 @@ Canting rogues use the same split for kicks — see *The Starting Journeyman*.
 
 ### Weapons, Armor, and Shields
 
-A weapon's **slots** are the space it fills. **In hand**, those slots throw dice on your Initiative roll. **Stowed** (belt, back, sheath), the weapon instead feeds the empty bucket (cap 4) — it does not throw weapon dice until drawn. A two-hander throws more but leaves no hand for a shield. A shield's slots are dice only when the shield is in hand; a raised shield can count as **Cover** vs missiles. You wear armor, not throw it: its **AC** soaks every blow on the way in. This is the play list. Full prices and oddments are in [[Burners Equipment]]. A fuller catalog of arms is in [[Burners Arms and Armor]].
+A weapon's **slots** are the dice it throws on your Initiative roll when it is in hand, and the space it fills. Stowed steel (belt, back, sheath) throws nothing until drawn. A two-hander throws more but leaves no hand for a shield. A shield's slots are dice only when the shield is in hand; a raised shield can count as **Cover** vs missiles. You wear armor, not throw it: its **AC** soaks every blow on the way in. This is the play list. Full prices and oddments are in [[Burners Equipment]]. A fuller catalog of arms is in [[Burners Arms and Armor]].
 
 | Weapon | Slots | Cost (gp) | |
 | --- | --- | --- | --- |
@@ -657,13 +657,9 @@ Each Combat Round is one minute. You act in locked Initiative order. On your tur
 - one die per character level;
 - one die per slot if you have a weapon in hand;
 - one die per slot if you have a shield in hand;
-- empty bucket — one die per true empty physical slot, plus one die per slot of each weapon not in hand (belt, back, sheath), total capped at 4;
+- one die per empty inventory slot, up to 4;
 - one die per Arcana slot occupied by Wizard Drip (or a rogue's kicks). Empty Arcana add none. Do not also count those slots as empty inventory.
 - one die per Muster slot (Boss). (Empty or filled. Do not double-count empty Muster slots.)
-
-A weapon in hand throws its slot dice as steel; the same weapon sheathed instead feeds the empty bucket. It never does both. Shields only throw when in hand — a stowed shield fills slots and does not feed the empty bucket.
-
-*Example. Halberd (4) in hand, dagger (1) and sidesword (2) on the belt: 4 weapon dice from the halberd; dagger + sidesword add 3 toward the empty bucket. True empties share that bucket; the cap is still 4.*
 
 Roll them all. The faces you rolled, kept as they lie, are your Fuel for the fight. Your Initiative is the count of them showing 3 or 4. The Referee locks order for the round — highest first. Ties: PCs win; among PCs the players choose who goes first; a PC tied with a foe may act first or yield.
 

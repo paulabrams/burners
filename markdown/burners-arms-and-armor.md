@@ -185,7 +185,7 @@ The pieces below are *look and history* for those rungs — build the harness yo
 - **AC 4 (plate mail, 8 slots; field plate, 5 slots)** — coat of plates, brigandine, or plate over mail; field plate is the fitted harness.
 - **AC 5 (full plate, 7 slots)** — enclosed proof, fitted.
 
-Heavy harness eats slots and thins your Initiative pool; light kit and sheathed sidearms feed the empty bucket (cap 4).
+Heavy harness eats slots and thins your Initiative pool; light kit keeps empty slots and speed.
 
 **Gaps and called shots.** Your suit is one number in ordinary play. When a foe deliberately strikes where it does not reach — a called shot, or a swarm at the legs of a lightly harnessed Burner — that blow meets bare flesh (AC 0). Helms, gauntlets, greaves, and gorgets close those gaps. A **closed** helm (armet, great helm) trades sight and hearing for the best cover; open helms and **civil**-looking armor draw less notice in town.
 

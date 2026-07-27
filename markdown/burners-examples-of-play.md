@@ -21,7 +21,7 @@ hero_alt: "Travelers on the road — Albert Robida"
 | **Kragg** | Sword 1 (Veteran) | 4 | war-axe (3 slots, 2-handed, enchanted), gambeson (AC 2) | 4 empty + 3 axe + 1 level = **8** |
 | **Sefa** | Craft 1 (Journeyman) | 3 | leather (AC 1); **silvered knife** (1 slot) once looted | 4 empty + 1 knife + 1 level = **6** |
 | **Brand** | Heart 1 (Boss) | 5 | sword (2), leather (AC 1) | 4 empty + 2 sword + 1 level = **7** |
-| **Ilsa** | Sorcerie 1 (Sorcerer) | 3 | spear (3 physical); **5 Arcana** (hand size 5 — *Adhere* ready among them); wand drip in Arcana; leather (AC 1) | 5 Arcana + 3 spear + 1 level = **9** (no empty physical) |
+| **Ilsa** | Sorcerie 1 (Sorcerer) | 3 | spear (3 physical); **5 Arcana** (hand size 5 — *Adhere* ready among them); wand drip (1 Arcana); leather (AC 1, 2 physical) | 2 empty + 1 wand + 3 spear + 1 level = **7** |
 
 *Reminder — out of combat: `2d6 +` Approach vs Cost. Hostile magic: Fuel Defend vs cast total (see [[Burners Principles#Granular defense, not binary save]]).*
 
@@ -91,12 +91,12 @@ Buried armed: **grave-sword** (quote **3**) and a **grave-byrnie** (old chain �
 
 - **Wight**, two quotes — Referee **presses** the first with a Heat die (face **6**) onto Brand, second quote plain on Ilsa:
   - → **Brand**: pressed **3+6 = 9**. Leather soaks 1 → 8. He has not meleed → one die: burns a 5 → **3 to HP.** Brand 5 → **2.** *(Brand Fuel 7→6.)*
-  - → **Ilsa**: quote **3**. Leather soaks 1 → 2. She burns a 4 → **0.** *(Fuel 9→8.)*
+  - → **Ilsa**: quote **3**. Leather soaks 1 → 2. She burns a 4 → **0.** *(Fuel 7→6.)*
 - **Kragg** attacks (Veteran, two blows; 2-handed axe → two dice a blow) — having meleed, he Defends without limit for the rest of this round:
   - Blow A: 6+5 = **11** damage. Closed: Hits ⌈11÷5⌉=3, −1 → **2 Hits** → pop **2 face-down**. Stack **2 down / 2 up**.
   - Blow B: 5+4 = **9**. Closed: ⌈9÷5⌉=2, −1 → **1 Hit** → **1 down / 2 up**.
 - **Brand** attacks: sword **6**. Closed: ⌈6÷5⌉=2, −1 → **1 Hit** → **0 down / 2 up** — last face-down gone: **Cracked!**
-- **Ilsa** casts *Adhere* (Thaumaturgy 1): burns 1 Fuel = **5** cast total; card **taps**. Control lane — no Hits. At speed the wight has no free Defend; the working sticks its sword-arm to the byrnie. *(Ilsa Fuel 8→7.)*
+- **Ilsa** casts *Adhere* (Thaumaturgy 1): burns 1 Fuel = **5** cast total; card **taps**. Control lane — no Hits. At speed the wight has no free Defend; the working sticks its sword-arm to the byrnie. *(Ilsa Fuel 6→5.)*
 - **Sefa**, silvered knife — claims silver as the right tool, so her 1-slot knife burns an **extra die**: **6** + **4** = **10** damage. Wight is Cracked — open: Hits ⌈10÷5⌉ = **2** → pop **2 face-up**. Pile gone. The Cellarer falls — silver and the extra die finished the meat; *Adhere* only took its arm out of the fight.
 
 Threat overcome → **vent 2 → Heat 7.**
@@ -136,7 +136,7 @@ Threat overcome → **vent 2 → Heat 7.**
 
 **Scene:** a back table at the Gulls' Rest, evening crowd. The buyer is **Marlow**, a dockside fixer, flanked by two **bravos** and a quiet man with rings — a **sharper** (Sorcerer, Illusione). **Base Heat 4** (a quiet meet, but a crowded room and money on the table).
 
-**What's in hand matters tonight.** Nobody walks into a parley holding a war-axe. Kragg's axe rides his back, Brand's sword is at his hip, Sefa's silvered knife is a holdout in her boot. Held slots only count on the Initiative roll if the thing is *in hand* when steel comes out.
+**What's in hand matters tonight.** Nobody walks into a parley holding a war-axe. Kragg's axe rides his back, Brand's sword is at his hip, Sefa's silvered knife is a holdout in her boot. Weapon and shield dice land only for what is *in hand*; stowed weapons still feed the empty bucket (cap 4). Holdouts sit outside the twelve and feed neither.
 
 ### The parley (Heart)
 
@@ -153,10 +153,10 @@ The sharper casts a working at Brand. **A hostile spell is an attack: roll initi
 
 | Side | Pool | Dice |
 |---|---|---|
-| **Kragg** (tankard, axe on back) | 4 empty + 1 level | **5** |
+| **Kragg** (tankard, axe on back) | empty bucket 4 (axe feeds it) + 1 level | **5** |
 | **Sefa** (knife in boot — a holdout) | 4 empty + 1 level | **5** |
-| **Brand** (sword at hip, not in hand) | 4 empty + 1 level | **5** |
-| **Ilsa** (5 Arcana declared; wand drip; no spear tonight) | 5 Arcana + 1 level | **6** |
+| **Brand** (sword at hip, not in hand) | empty bucket 4 (sword feeds it) + 1 level | **5** |
+| **Ilsa** (5 Arcana declared; wand drip 1; leather 2; no spear tonight) | 4 empty + 1 wand + 1 level | **6** |
 | **Enemy side** (Heat 5 — sharper + bravos share one dish) | Heat only | **5** |
 | **Sharper** (HD 1 → **2 face-up**; Illusione hand; *Bewitch* ready) | free cast / quotes | — |
 | **Bravos** (knives; HD 1 → **2 face-up** each) | knife quote **2** each | — |
@@ -192,7 +192,7 @@ Initiative is the count of 3s and 4s. Kragg reads **3**, enemy Heat dish **2**, 
 - **Social scenes:** see [[Burners Principles#Two engines]] and [[Burners Principles#Heat is scene pressure]]. Heart pays for risky reads and squeezes as Pay rolls.
 - **Heat is the social gauge too.** The meet opened at 4, climbed on a botched press, and a revealed threat set a floor. When steel came out, that same number **was** the enemy side's Initiative / press dish — Heat only, shared by sharper and bravos.
 - **Declaring an attack is "roll initiative" — and the declarer is not first.** The sharper's charm started the fight and Kragg still beat him to the floor. A hostile working where no fight is underway triggers initiative like a drawn blade; nobody gets a free strike for moving first in the fiction.
-- **You fight with what's in hand.** Tavern pools are thin: sheathed swords and slung axes throw no dice on the Initiative roll. Ilsa's declared Arcana slots carried her share. Brand's draw came free with his Action; Sefa's holdout cost the 1 Fuel a holdout costs.
+- **You fight with what's in hand.** Tavern pools are thin on *weapon* dice: sheathed swords and slung axes throw none until drawn — they only feed the empty bucket (cap 4). Ilsa's **wand drip** and empty pack carried her share — empty Arcana add nothing. Brand's draw came free with his Action; Sefa's holdout cost the 1 Fuel a holdout costs.
 - **Ward, shown:** Ilsa cuts the cast with ≤ Sorcerie Level Fuel; Brand then Defends the remainder. Control never lands partially on a clean stop.
 - **Control lands as an effect, not HP:** see [[Burners Principles#Harm and effect are separate lanes]]. Had the charm landed, Brand loses no HP — the crew attacks the reason (concentration, hand, skin).
 - **Morale as written (2d6 vs the score):** the bravos were never going to die for Marlow's face. One blow and one bad round asked the question twice, and the second answer was the door.

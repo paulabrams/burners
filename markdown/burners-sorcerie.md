@@ -100,8 +100,10 @@ Your **personal spellbook** holds **five known spells**: ***Read Magic*** (alway
 works with you — your table's call. Your **hand size is 5** and your **hand is all five**
 — ready to cast. Count them off on your fingers when you onboard; that's the joke.
 
-See *The Starting Sorcerer* under Starting Gear in [[Burners Adventure Game]] for purse
-and oddments.
+You also start with **two free Wizard Drip** — costume of the craft from the allow-list
+(mundane grade). Extra costume drip costs **100 gp apiece** in town; enchanted drip stays
+a find. See *The Starting Sorcerer* under Starting Gear in [[Burners Adventure Game]] for
+purse and oddments.
 
 ### The Canting Journeyman
 
@@ -129,9 +131,10 @@ cards. The cards live in you.
   their hand. Only sleep, burning, and your own choices move the cards. Losing your
   spellbook cuts off redraws and swaps — the deck can be taken, the hand cannot.
 
-**Initiative.** On Roll Initiative, add **one die per Arcana slot** you declared — all of
-them, empty or filled. Drip riding in those slots does not also add weapon-in-hand dice.
-Arcana slots **never** also count toward the empty-inventory Initiative dice (max 4).
+**Initiative.** On Roll Initiative, add **one die per Arcana slot occupied by Wizard
+Drip** (or kicks) — empty Arcana add none. Drip riding in those slots does not also add
+weapon-in-hand dice. Arcana slots **never** also count toward the empty-inventory
+Initiative dice (max 4).
 
 ### Wizard Drip
 
@@ -141,6 +144,9 @@ normal slot cost** (a staff is 3 Arcana slots, not 1). Hedge drip counts the sam
 goat-horn hat, hand-bell, mortar, vial-rack — as long as it is the costume of *that*
 caster's craft.
 
+- **Price.** Costume drip (mundane grade) is **100 gp apiece** in town — a true wizard's
+  hat is not a street hat. A starting Sorcerer gets **two free**. Enchanted drip has no
+  shop price: find, seize, gift, or inherit.
 - Drip keeps its mundane function. A wizard's staff is still a staff — swing it, lean on
   it, bar a door with it.
 - **Never** armor, weapons (beyond the staff's honest whack), shields, or plain cargo. An

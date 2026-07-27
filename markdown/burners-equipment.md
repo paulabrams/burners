@@ -154,11 +154,12 @@ Food and basic kit in the rate; wages double in wartime. Morale is their own sco
 ## Magic Items
 
 Refer to [[Burners Sorcerie]] for sorcerer gear: **Wizard Drip** in Arcana slots (allow-list
-items at full slot cost — finds for enchanted drip), **scrolls**, and **potions** (physical
-slots). Spells live in the **hand** and spellbook, not in the focus.
+items at full slot cost), **scrolls**, and **potions** (physical slots). Spells live in the
+**hand** and spellbook, not in the focus.
 
-Magic items are rarely for sale at any price. Scrolls and potions you make yourself;
-enchanted drip and arms you find or earn.
+Costume drip (mundane grade) is **100 gp apiece** in town; a starting Sorcerer gets two
+free. Enchanted drip and arms you find or earn. Scrolls and potions you make yourself.
+Magic items are rarely for sale at any price.
 
 ## Pricing Anything Else
 
@@ -175,7 +176,7 @@ Want something not on these tables? You can use classic old school roleplaying g
 - **Provisions:** 1 gp per meal for the group.
 - **Ranged weapons** and **silver** (and other special materials) add a surcharge when you invent a new piece.
 - **Field and full plate** are not slot-formula items — see *Armor*.
-- **Arcana** have no shop price — found or earned; see [[Burners Sorcerie]]. Scrolls and potions are crafted at **100 gp × level**.
+- **Arcana** (costume Wizard Drip): **100 gp apiece** in town; enchanted drip is found or earned — see [[Burners Sorcerie]]. Scrolls and potions are crafted at **100 gp × level**.
 
 **Quality — added on top of the base (or on a listed price):**
 

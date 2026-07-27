@@ -35,9 +35,21 @@ Most who take up this trade don't last a season. The docks are full of would-be 
 
 ## What You Do
 
-Say what you do: *I pick the lock*, not *I try to pick the lock*. If the plan is sound, it works. If the moment is risky, the Referee names what it costs, and you roll to pay less.
+Say what you do, and how you do it. Not *I try to pick the lock* — and not bare *I pick the lock* either. Name the deed and the method:
 
-Your character is built from four **Approaches** (Sword, Craft, Heart, Sorcerie), a list of **Traits**, and **twelve equipment slots**.
+- *I ease the tumblers with my picks, listening for the catch.*
+- *I spike the lockplate with the hammer and pry it off.*
+- *I put my shoulder to the door and break the latch.*
+
+Same obstacle, three plans. The Referee rules whether that plan can work. If it is sound, it works. If it is risky, they name what it costs, and you roll to pay less.
+
+More of the same idea:
+
+- Searching: *I tap the flagstones with the ten-foot pole, listening for hollow.* Not *I check for traps.*
+- Climbing: *I throw the grapnel to the parapet and hand-over-hand the rope.* Not *I climb the wall.*
+- Talking: *I slide two crowns across and ask him to look the other way.* Not *I persuade the guard.*
+
+The Approach you take matters. There are four: Sword, Craft, Heart, and Sorcerie. Your Traits and twelve equipment slots say what tools and training you bring to that Approach.
 
 ---
 
@@ -75,7 +87,7 @@ Quick definitions. Details live in the chapters below.
 
 - **Baggage:** small items can share a slot if they ride in a pouch, quiver, or satchel (1 slot). A backpack (3 slots) holds bedroll, rope, rations, and loot efficiently, but takes ten minutes to unpack.
 
-- **Empty slots:** free space is speed. Every empty slot adds a die to your Fuel on the Initiative roll, up to four. Light kit, quick feet. Dropping something to free a slot is an action. Muster and Arcana slots never also count as empty.
+- **Empty slots:** free space and sheathed steel. On Roll Initiative, count true empty physical slots plus every weapon you carry that is not in hand (belt, back, sheath). That total adds dice, up to four. Armor, packs, tools, loot, and shields never join this count. Muster and Arcana slots never also count as empty. Dropping something to free a slot is an action.
 
 - **Armor class (AC):** damage soaked by armor before HP. Leather 1, gambeson 2, mail 3, plate mail / field plate 4, full plate 5.
 
@@ -97,7 +109,7 @@ Quick definitions. Details live in the chapters below.
 
 - **World Turn:** ten minutes of out-of-combat time. You take one World Action.
 
-- **Two Steps:** say what you do; if the moment is risky, the Referee names the Cost (usually Heat) and you roll to pay less.
+- **Two Steps:** say what you do and how; if the moment is risky, the Referee names the Cost (usually Heat) and you roll to pay less.
 
 - **Trained-only:** an action you cannot attempt without a specific Trait, whatever your Approach.
 
@@ -113,7 +125,7 @@ Quick definitions. Details live in the chapters below.
 
 See *Combat*.
 
-- **Roll Initiative!:** at the top of every combat round. Round 1: gather and roll your full pool (character level, weapons and shields in hand, Arcana slots, Muster slots, empty slots). Round 2+: refill one Fuel die per character level, roll those into your pool, then count.
+- **Roll Initiative!:** at the top of every combat round. Round 1: gather and roll your full pool (character level, weapons and shields in hand, Wizard Drip in Arcana, Muster slots, empty slots). Round 2+: refill one Fuel die per character level, roll those into your pool, then count.
 
 - **Combat Round:** one minute, taken in locked Initiative order. On your turn, take one Action (attack, cast a spell, etc.). Moving and positioning come with it, part of the Action, not a separate step. Defending is not free; it burns your Fuel. Sword governs the exchange: it grants you extra attacks and a deeper pool.
 
@@ -158,7 +170,7 @@ On your sheet, a Trait is a skill or a quality: arming sword, herbalism, strong,
 **Traits by Approach — locked.** Each Trait belongs to one Approach. Write it under that Approach and nowhere else. Martial arms and armor are Sword (see *Arms and Armor*); languages are Heart; magic schools are Sorcerie. *Peasant weapons* (tools and hunting implements) are Craft. The lists below are the homes — not samples you may rehome.
 
 - **Sword** — arms, armor, and the fight.
-  - Skills: dagger, club, spear, axe, arming sword, mace, flail, bow, crossbow, shield, wrestling, boxing, ambush, tactics, cavalry, warhorse, siege, heraldry, scouting. Trained-only: greatsword, poleax, longbow, plate armor.
+  - Skills: dagger, club, spear, axe, arming sword, mace, flail, bow, crossbow, shield, wrestling, boxing, ambush, tactics, cavalry, warhorse, siege, heraldry, scouting. Trained-only kit: see *Arms and Armor (Sword)* below (greatsword, longbows, plate, firearms…).
   - Qualities: strong, fearless, relentless, steady, iron-willed, veteran, hard to kill, courageous, steady under fire, dragon-scarred.
 - **Craft** — the practical skills of daily life.
   - Skills: lockpicking, stealth, tracking, trapping, disguise, sailing, herbalism, smithing, bowyer, fletcher, carpentry, navigation, climbing, swimming, survival, bushcraft, wood lore, hunting, dogs, falconry, first aid, appraisal, rope use. Peasant weapons: knife, hatchet, wood ax, hunting bow, spear, club, sickle, scythe, grain flail, pitchfork, shovel.
@@ -179,16 +191,9 @@ Traits for weapons, shields, and armor are **Sword**. Write *arming sword*, *pol
 
 **Open kit.** Most weapons and armor work in a fight with no Trait — AC, slots, and blows as written. A Trait is still how you earn a Signature on that kit, and how enchanted steel accepts you.
 
-**Trained-only.** Some kit needs a Trait before it works in a fight (no AC from that harness, no Initiative dice from that weapon or shield, no blows with it):
+**Trained-only.** Without a Trait for that kit, you cannot use it in a fight — no AC from the harness, no Initiative dice, no blows. The full list is every piece tagged Trained on [[Burners Arms and Armor]], and plate armor (*plate armor*). On that page today: greatsword; war sling; warbow, longbow, heavy longbow; siege arbalest; arquebus, flintlock rifle, handgonne; and the Dwur runelocks and thaumagonnes (Dwuringer pistol, revolver, pistol, holy water sprinkler, doppelpistol, dungeon sweeper, Thaumasweeper, carbine, longrifle, Thaumagonne, Thaumacannon). Buy-list: *Weapons, Armor, and Shields* below.
 
-- **Plate**: plate mail, field plate, full plate (*plate armor*)
-- **Greatsword**
-- **Poleax** or **halberd**
-- **Longbow**
-
-Chain mail stays open. It is heavy and awkward, but it is not a harness you have to learn the way plate is. Fuller catalog tags: [[Burners Arms and Armor]]. Buy-list: *Weapons, Armor, and Shields* below.
-
-**Enchanted arms and armor.** Magic weapons, shields, and armor answer only a fitting Trait — without it you swing ordinary steel (Slots, AC, faces) and the magic stays quiet. Most martial Traits sit under Sword, so **Veterans** usually claim the magic steel. A Journeyman with *hunting bow* can still be accepted by a magic hunting bow. Full rule: *Enchanted Arms and Armor*.
+**Enchanted arms and armor.** Enchanted kit is trained-only — without the fitting Trait you swing ordinary steel (Slots, AC, faces) and the magic stays quiet. Full rule: *Enchanted Arms and Armor*.
 
 ### Languages (Heart)
 
@@ -223,65 +228,108 @@ You begin carrying the clothes on your back and a backpack. You also have a smal
 
 Your backpack takes 3 slots and contains: bedroll, waterskin, fifty feet of rope, one week rations, and a tinder box. You can move any of those items to your main inventory slots, but keeping it as a backpack means you can free up 3 slots by dropping it.
 
-You may also have gear and coin from your Approach:
-
-| Approach | Gold | Comes with |
-| --- | --- | --- |
-| **Sword** (Veteran) | 100 gp | <ul><li>nothing extra (your coin *is* your kit: buy arms, armor, a shield)</li></ul> |
-| **Heart** (Boss) | 80 gp | <ul><li>**11 physical + 1 Muster**</li><li>one **loyal retainer** Mustering (level 1, Sword 1 or Craft 1, half power)</li><li>basic gear from the purse</li><li>**half-share** when they live (see [[Burners Muster]])</li></ul> |
-| **Craft** (Journeyman) | 60 gp | <ul><li>choice of one "tool of the trade" based on one of your Traits</li><li>examples: hunting bow with quiver of arrows, wood ax, blacksmith's hammer, etc.</li></ul> |
-| **Sorcerie** (Sorcerer) | 40 gp | <ul><li>**7 physical + 5 Arcana slots** (locked until first sleep)</li><li>**personal spellbook** with *Read Magic* and four other 1st-level spells (known)</li><li>**hand of 5** — all five ready</li></ul> |
-
-Veterans start as outfitted soldiers; Bosses as moneyed leaders rich in people; Journeymen as scrappy woodsmen poor in coin but woods-ready; Sorcerers as folk who spent nearly everything becoming mages. You earn legendary gear in play.
-
-Spend your gold in town from the tables below; everything you carry ready takes an item slot, and whatever you don't spend is yours to keep.
+Your Approach also brings starting gold and its own kit or standing — see below. Spend what you keep in town from the tables further down; everything you carry ready takes an item slot.
 
 ### The Starting Veteran
 
-A Veteran's coin *is* the kit. Your purse (100 gp) is the fat one because you carry no apprenticeship gifts — you buy steel and harness in town.
+Starting gold: 100 gp.
 
-A sample buy: gambeson (AC 2) 30, arming sword 10, heater shield 6 — 46 gp with coin to spare. Every blow shaved by 2; the shield adds dice to the Initiative roll and Cover vs missiles. Chain mail (40) comes next when you have the silver. Plate wants a Trait (*plate armor*); field and full plate are rare fitted harness.
+You know arms and armor. You can put together a proper kit, find working steel, and persuade its owner to sell. You carry yourself like a man-at-arms who has protected the realm. Guards recognize a veteran, not a wandering brigand. Your starting gold is the kit you have already earned in service — spend it in town to put that kit on the table.
 
-At Sword 1 you are already a Veteran: **two attacks** a round. See *Veteran Attacks* under Combat.
+A sample buy, 53 gp of your hundred, filling all twelve slots:
+
+- Chain mail (AC 3) — 6 slots, 40 gp
+- Backpack — 3 slots
+- Arming sword — 2 slots, 10 gp
+- Rondel dagger — 1 slot, 3 gp
+
+Mail soaks 3 off every blow. Sword in hand throws 2 on Roll Initiative; the rondel on the belt feeds the empty bucket (1); your level throws 1 — a pool of 4. Mail plus pack leave only three slots for steel, so the heater stays home until you drop the pack. Plate wants a Trait (*plate armor*); field and full plate are rare fitted harness. Full prices: *Weapons, Armor, and Shields* below.
+
+At Sword 1 you are already a Veteran: two attacks a round. See *Veteran Attacks* under Combat.
 
 ### The Starting Boss
 
-A Boss starts rich in people, not in steel. Your purse (80 gp) outfits you and your first loyal retainer. Declare **11 physical slots + 1 Muster slot** at creation — you may not re-Muster until your first 8-hour sleep or your first real job outfit.
+Starting gold: 80 gp.
+
+A Boss starts rich in people, not in steel. Your starting gold outfits you and your first loyal retainer. Split your twelve as 11 physical + 1 Muster at creation — eleven slots for your own kit, one holding today's retainer. You may not re-Muster until your first 8-hour sleep or your first real job outfit.
 
 Your kit is:
 
-- **11 physical + 1 Muster** — one Muster slot holds today's retainer
-- one **loyal retainer** Mustering: level 1, Sword 1 or Craft 1, half power (2 Traits, HP **1d3**, Loyalty **10**)
-- basic gear for them paid from your purse
-- **half-share** of treasure recovered when they live (that is their pay)
+- 11 physical + 1 Muster — one Muster slot holds today's retainer
+- one loyal retainer Mustering: level 1, Sword 1 or Craft 1, half power (2 Traits, HP 1d3, Loyalty 10)
+- the retainer has no coin of their own — every weapon, armor, and oddment they carry is bought from your 80 gp
+- half-share of treasure recovered when they live (that is their pay)
 
-A sample buy: a spear 3, leather armor (AC 1) 20, and the rest held to outfit the retainer. A leader spends on their people. Manage, Loyalty, half power, and the rest of Muster live on [[Burners Muster]].
+A sample buy, 59 gp of your eighty — you light, them armored:
+
+You (11 physical):
+
+- Leather (AC 1) — 2 slots, 20 gp
+- Spear — 3 slots, 3 gp
+- Backpack — 3 slots
+- Empty — 3 slots
+
+Retainer (from your gold):
+
+- Leather (AC 1) — 2 slots, 20 gp
+- Arming sword — 2 slots, 10 gp
+- Heater shield — 3 slots, 6 gp
+
+Your Initiative pool: spear 3 + empties 3 (capped at 4, you have 3) + level 1 = 7. The retainer, sword and shield in hand, throws its own pool when you play it. The Muster slot holds the retainer, not gear. A leader spends on their people — one purse, and it is yours. Manage, Loyalty, half power, and the rest of Muster live on [[Burners Muster]].
 
 ### The Starting Journeyman
 
-A Journeyman is poor in coin but woods-ready. Your purse (60 gp) is light because apprenticeship already gave you a **tool of the trade** tied to one of your Traits — a hunting bow with a quiver of arrows, a wood ax, a blacksmith's hammer, thieves' tools, whatever fits the fiction. Pick that free.
+Starting gold: 60 gp.
 
-A sample buy after the free tool: leather armor (AC 1) 20, and oddments that fit the road (a second tool, chalk, oil, a spare knife). Keep slots free for travel gear; your Craft is how the band endures the wilds (see *The Journeyman's craft*).
+A Journeyman is both specialist and jack of all trades. You live in the world and understand it better than anyone else — the road, the woods, the trade, the tavern corner. All twelve slots are physical. Your starting gold is light because apprenticeship already gave you a tool of the trade tied to one of your Traits: a hunting bow with a quiver of arrows, a wood ax, a blacksmith's hammer, thieves' tools, a musical instrument, whatever fits the fiction. Pick that free.
 
-A **Canting Journeyman** who takes the **Canting** Trait and walks that road declares **7 physical + 5 kicks** the same way a Sorcerer does — but starts with **no spells** and an empty hand until they learn Canting in play. See *The Canting Journeyman* on [[Burners Sorcerie]].
+A sample buy after the free tool, 23 gp of your sixty, filling all twelve:
+
+- Hunting bow (free tool) — 2 slots
+- Leather (AC 1) — 2 slots, 20 gp
+- Backpack — 3 slots
+- Dagger — 1 slot, 3 gp
+- Empty — 4 slots
+
+Bow in hand throws 2 on Roll Initiative; empties throw 4; level throws 1 — a pool of 7. Light kit, room for the road. Your Craft is how the band endures the wilds (see *The Journeyman's craft*).
+
+A Canting Journeyman who takes the Canting Trait and walks that road declares 7 physical + 5 kicks the same way a Sorcerer does — but starts with no spells and an empty hand until they learn Canting in play. See *The Canting Journeyman* on [[Burners Sorcerie]].
 
 ### The Starting Sorcerer
 
-A Sorcerer's craft comes with a kit (the fruit of your apprenticeship). That is why your starting purse (40 gp) is so much lighter than a Veteran's: you already spent most of it becoming a mage. Your kit is:
+Starting gold: 40 gp.
 
-- **7 physical slots + 5 Arcana slots** — declare the split at creation; you may not re-split until your first 8-hour sleep. Arcana slots set your **hand size** (5) and hold **Wizard Drip** only — wand, staff, rod, orb, crystal, ring, amulet, mask, robes, hat, at each item's full slot cost. Never armor, shields, or war kit. See *Arcana Slots* on [[Burners Sorcerie]].
-- A **spellbook** in a **scrivener's satchel** (book, ink pot, quill, loose-leaf paper): ***Read Magic*** plus **four other 1st-level spells** from your school, all known. The Referee picks, rolls, lets you choose, or works with you. Plain ink records Facts free; *reagent inks* that fix a working into the book are a separate cost (see *Spellbooks* on [[Burners Sorcerie]]).
-- Your **hand is all five** known spells — ready to cast. Count them on your fingers.
+A Sorcerer's craft comes with a kit (the fruit of your apprenticeship). That is why your starting gold is so much lighter than a Veteran's: you already spent most of it becoming a mage. Your kit is:
 
-A sample buy with what is left: leather armor (AC 1) 20 and oddments (a flask of oil, chalk for ritual circles, a spare dagger). The magic is already yours.
+- 7 physical slots + 5 Arcana slots — declare the split at creation; you may not re-split until your first 8-hour sleep. Arcana slots set your hand size (5) and hold Wizard Drip only — wand, staff, rod, orb, crystal, ring, amulet, mask, robes, hat, at each item's full slot cost. Never armor, shields, or war kit. See *Arcana Slots* on [[Burners Sorcerie]].
+- Two free Wizard Drip — costume of the craft, pick two from the allow-list (a wand and a hat, a ring and an amulet, a staff alone if you want the bulk). Mundane grade; enchanted drip is still a find. They teach you to fill Arcana — empty Arcana throw no Initiative dice.
+- A spellbook in a scrivener's satchel (book, ink pot, quill, loose-leaf paper): *Read Magic* plus four other 1st-level spells from your school, all known. The Referee picks, rolls, lets you choose, or works with you. Plain ink records Facts free; reagent inks that fix a working into the book are a separate cost (see *Spellbooks* on [[Burners Sorcerie]]).
+- Your hand is all five known spells — ready to cast. Count them on your fingers.
 
-Two of your school's six 1st-level spells are **not** in your book. Those, deeper spells, other schools, and found drip are your hunt. *Read Magic* and readable sources (OSE) let you memorize from a found book while you carry it. Moving a spell into your book costs **100 gp × its level** and destroys the source page. See [[Burners Sorcerie]].
+A sample buy, 23 gp of your forty:
+
+Arcana (5):
+
+- Wand (free drip) — 1 slot
+- Hat (free drip) — 1 slot
+- Empty Arcana — 3 slots (hand size still 5; empty Arcana throw no Initiative dice)
+
+Physical (7):
+
+- Leather (AC 1) — 2 slots, 20 gp
+- Backpack — 3 slots
+- Dagger — 1 slot, 3 gp
+- Empty — 1 slot
+
+Initiative: wand and hat drip throw 2, one empty physical plus the dagger on the belt throw 2 toward the empty bucket (cap 4), level throws 1 — a pool of 5. Draw the dagger and it leaves the bucket for a weapon die on the next Roll Initiative. The magic is already yours.
+
+Two of your school's six 1st-level spells are not in your book. Those, deeper spells, other schools, and more drip are your hunt. Extra costume drip runs 100 gp apiece in town; enchanted drip stays a find. *Read Magic* and readable sources (OSE) let you memorize from a found book while you carry it. Moving a spell into your book costs 100 gp × its level and destroys the source page. See [[Burners Sorcerie]].
 
 Canting rogues use the same split for kicks — see *The Starting Journeyman*.
 
 ### Weapons, Armor, and Shields
 
-A weapon's **slots** are the dice it throws on your Initiative roll and the space it fills. A two-hander throws more but leaves no hand for a shield. A shield's slots are dice too, and a raised shield can count as **Cover** vs missiles. You wear armor, not throw it: its **AC** soaks every blow on the way in. This is the play list. Full prices and oddments are in [[Burners Equipment]]. A fuller catalog of arms is in [[Burners Arms and Armor]].
+A weapon's **slots** are the space it fills. **In hand**, those slots throw dice on your Initiative roll. **Stowed** (belt, back, sheath), the weapon instead feeds the empty bucket (cap 4) — it does not throw weapon dice until drawn. A two-hander throws more but leaves no hand for a shield. A shield's slots are dice only when the shield is in hand; a raised shield can count as **Cover** vs missiles. You wear armor, not throw it: its **AC** soaks every blow on the way in. This is the play list. Full prices and oddments are in [[Burners Equipment]]. A fuller catalog of arms is in [[Burners Arms and Armor]].
 
 | Weapon | Slots | Cost (gp) | |
 | --- | --- | --- | --- |
@@ -399,7 +447,7 @@ See *Traits* under Character Creation.
 
   - Hand: *Read Magic*, *Healing Touch*, *Stanch*, and two other 1sts from her book — all five ready. *Stanch* is the card that helps at 0 HP or less; *Healing Touch* does not.
 
-  - Split: 5 Arcana slots (hand size 5), 7 physical — a wand as Wizard Drip in Arcana slots, the rest plain kit.
+  - Split: 5 Arcana slots (hand size 5), 7 physical — two free Wizard Drip (wand and hat) in Arcana slots, the rest plain kit.
 
 - **Pip**, Craft 1 (Journeyman). "Has never been caught. Not once."
 
@@ -453,7 +501,7 @@ See [[Burners Referee Magic Items]] for stocking and +n.
 
 #### Step 1: Say What You Do
 
-Say what you do. *I pick the lock.* Not *I try to pick the lock.*
+Say what you do, and how you do it. *I ease the tumblers with my picks.* Not *I try to pick the lock,* and not bare *I pick the lock* with no method.
 
 The Referee rules one of three ways:
 
@@ -461,7 +509,7 @@ The Referee rules one of three ways:
 - If it has no chance, it fails. No roll.
 - If it could work but is risky, go to Step 2.
 
-Your Theme and Traits help the Referee see that you could do it. They do not skip the roll on their own. If your Theme is a life of crime, you may just read a street. Weave a Trait into what you say so the table hears how you do it.
+Your Theme and Traits help the Referee see that you could do it. They do not skip the roll on their own. Weave a Trait into what you say so the table hears how you do it.
 
 #### Step 2: Pay the Cost
 
@@ -609,9 +657,13 @@ Each Combat Round is one minute. You act in locked Initiative order. On your tur
 - one die per character level;
 - one die per slot if you have a weapon in hand;
 - one die per slot if you have a shield in hand;
-- one die per empty inventory slot, up to 4;
-- one die per Arcana slot. (Empty or full. Do not double-count empty Arcana slots.)
+- empty bucket — one die per true empty physical slot, plus one die per slot of each weapon not in hand (belt, back, sheath), total capped at 4;
+- one die per Arcana slot occupied by Wizard Drip (or a rogue's kicks). Empty Arcana add none. Do not also count those slots as empty inventory.
 - one die per Muster slot (Boss). (Empty or filled. Do not double-count empty Muster slots.)
+
+A weapon in hand throws its slot dice as steel; the same weapon sheathed instead feeds the empty bucket. It never does both. Shields only throw when in hand — a stowed shield fills slots and does not feed the empty bucket.
+
+*Example. Halberd (4) in hand, dagger (1) and sidesword (2) on the belt: 4 weapon dice from the halberd; dagger + sidesword add 3 toward the empty bucket. True empties share that bucket; the cap is still 4.*
 
 Roll them all. The faces you rolled, kept as they lie, are your Fuel for the fight. Your Initiative is the count of them showing 3 or 4. The Referee locks order for the round — highest first. Ties: PCs win; among PCs the players choose who goes first; a PC tied with a foe may act first or yield.
 

@@ -202,7 +202,7 @@ Port OSE spells onto [[Burners Spells]] when a match exists; otherwise write a o
 
 ## Magic Items
 
-Potions, rings, cursed items, and wondrous items port **as written** — they are fiction plus a rule, and the fiction is the value. **Magic items grant no XP**; the item is the reward (see *XP Awards*). Wands and staves that fit **Wizard Drip** ride in Arcana slots at full slot cost (finds, not shop goods — see [[Burners Sorcerie]]); they do not add hand cards. Item powers run as magic items, or for a one-off keep charges as a simple budget.
+Potions, rings, cursed items, and wondrous items port **as written** — they are fiction plus a rule, and the fiction is the value. **Magic items grant no XP**; the item is the reward (see *XP Awards*). Wands and staves that fit **Wizard Drip** ride in Arcana slots at full slot cost (costume drip 100 gp in town; enchanted drip is a find — see [[Burners Sorcerie]]); they do not add hand cards. Item powers run as magic items, or for a one-off keep charges as a simple budget.
 
 ### +n Arms, Shields, and Armor → Enchanted + Powers
 

@@ -39,7 +39,7 @@ A binary save asks *did you avoid it?* Burners asks *how much did you stop, and 
 
 ## Attrition, not spike damage
 
-Lethality lives in **attrition and ambush**, not in big single numbers. Your Fuel only shrinks over a fight; when it runs dry, blows arrive whole. Surprise skips the exchange — a foe you never saw strikes a Fuel you have not rolled.
+Lethality lives in **attrition and ambush**, not in big single numbers. Your Fuel only shrinks over a fight; when it runs dry, blows arrive whole. Ambush is loadout and tempo: sheathed steel means a thin Fuel open, and surprise on round 1 only puts monster groups first or last — you still act.
 
 Past 0 HP, blows open **Wounds**; each is a Shock Check (combat-effective). After the fight,
 unhelped Wounds kill; helped, a Craft survival check decides. The stack and the survival roll
@@ -68,7 +68,7 @@ Death lands after the fight — **unhelped Wound**, **failed Craft survival**, o
 **Heat** is one shared gauge for the whole crew — the temperature of the scene, not any one body's flesh. It prices most out-of-combat Costs and clocks when a job turns dangerous.
 
 - Heat is **never a damage buffer**; blows in a fight go to HP, not Heat.
-- Heat **is** the monster Initiative / press dish (one die per point, enemy side). **Don't double-count dread:** the creature's Monster Stack and weapon quotes are its own; Heat prices only the situation — the dark, the alarm, the flanking.
+- Heat is **not** monster Initiative — foes use a **group 1d6** (see [[Burners Adventure Game#Combat]]). Optional press is separate. **Don't double-count dread:** the creature's Monster Stack and weapon quotes are its own; Heat prices only the situation — the dark, the alarm, the flanking.
 - Module foreshadowing is mechanical: boxed danger is a **Heat raise**; rooms that let the party prepare are Heat reductions waiting to be claimed.
 - When the party splits, each live scene runs its own Heat.
 
@@ -106,9 +106,9 @@ In combat, only **Sword** answers. The diplomat, locksmith, and archmage are bod
 
 ## Pools, not fixed numbers
 
-**Preferred (Referee speed):** the enemy side rolls **Heat only** for Initiative and optional press. Attacks are **free quotes**. Durability is the public **Monster Stack** (2 × HD cards, face-down / face-up) — see [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]]. Burners still roll fat Fuel pools and burn faces to attack and Defend.
+**Preferred (Referee speed):** each enemy group rolls **1d6** for Initiative every round. Attacks are **free quotes**. Durability is the public **Monster Stack** (2 × HD cards, face-down / face-up) — see [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]]. Burners still roll fat Fuel pools (Initiative = count of 3s and 4s) and burn faces to attack and Defend. Round 1 surprise only places monster groups first or last — no lost turns.
 
-**Optional (full-dice foes):** run a named foe like a character — Fuel pool, burn to attack and Defend — when you want the slow fight. Most nights, don't.
+**Optional (full-dice foes):** run a named foe like a character — Fuel pool, burn to attack and Defend — when you want the slow fight. **Order stays a group/solo 1d6**, not a 3/4 Fuel count. Most nights, don't.
 
 Spells work the same way for casters: cast at least SL Fuel dice; the **cast total** is the attack value.
 

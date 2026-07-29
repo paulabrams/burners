@@ -27,11 +27,11 @@ Heat is the crew's shared gauge and the spine of every scene — the full player
 
 **Feed it.** Every shortfall the crew can't soak raises Heat by what they fell short — compress big misses, a botched sneak is +1 or +2, not +5. A blow past a defense, a blown roll, a hard parley all feed it, and you may raise it by fiat when fresh danger walks in (reinforcements, a lit lantern, the storm arriving), announced. Wounds do not feed Heat; they carry their own pressure.
 
-**Telegraph threats to set the room.** Rough rubric: raise Heat toward the shown monster's **HD** — lower if the foe is disadvantaged, higher if it owns the situation. Reveal in stages and the gauge climbs with the fiction — spoor, then half-eaten kills, then the beast at full HD (a pack: summed HD, capped by chokepoints and the dark). Show the signs for slow dread; conceal them for an ambush that raises no Heat and strikes from surprise instead. Its presence sets the room; its attacks still quote its own Damage. Heat is the press dish — never the Monster Stack.
+**Telegraph threats to set the room.** Rough rubric: raise Heat toward the shown monster's **HD** — lower if the foe is disadvantaged, higher if it owns the situation. Reveal in stages and the gauge climbs with the fiction — spoor, then half-eaten kills, then the beast at full HD (a pack: summed HD, capped by chokepoints and the dark). Show the signs for slow dread; conceal them for an ambush that raises no Heat and strikes with surprise on round 1 instead (monsters act first — [[Burners Adventure Game#Combat]]). Its presence sets the room; its attacks still quote its own Damage. Heat prices the situation — never the Monster Stack, never Initiative.
 
 **Work the valves.** Heat falls when the crew acts on the room, not on request: fell or lose a named threat, −2; remove a named source (quench the fire, learn the ward-phrase), −1 or more; a Double Sweet vents 1; a steadying word or plan you buy, −1 once a scene. Folding ends the scene and cools to the next base. Downtime — a safe camp, a town between jobs — cools to base; a job that ended loud raises the base of what follows until the crew lies low and spends coin. Carousing is maintenance, not vice.
 
-Heat joins the enemy side as its **Initiative / press pool** (preferred: **Heat dice only** — see [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]]). Climbing Heat makes them a little faster and lets them press quotes; it does not hand you a second PC-scale dice puzzle. Finish it or fold.
+Heat is scene pressure and Cost, not the enemy Initiative dish. Foes roll a **group 1d6** for order (see *Monsters at speed*). Optional press remains a Referee call when a quote should bite harder — it does not require rolling Heat as a Fuel pool. Finish it or fold.
 
 ---
 
@@ -137,7 +137,7 @@ Light lives on the Turn Tracker. Fatigue is why the party cannot crawl forever, 
 
 A Journeyman keeps the band fresh. The [[Burners Adventure Game|Journeyman's craft]] reduces party-wide travel, weather, and survival costs by the Journeyman's Craft level, and fatigue in the dark is a survival cost like any other. Subtract the Journeyman's Craft from the tick for everyone they are leading: Craft 1 shrugs off a routine +1 entirely. Fatigue bites when the party has no Journeyman, when the Journeyman is down or split off from the group, or when the place is harsh enough to outrun their level. Scale the tick to the dungeon — a mild crawl adds 1, a brutal one (heat, thin air, crushing dark) adds 2 or 3, so a Journeyman's Craft matters more the worse the ground gets.
 
-The over-extended party is the danger this builds: the grind pushes Heat up even when nothing is attacking, so a crew that lingers, lost and tired, walks into the next fight against a hotter scene — the enemy rolling a deeper pool and acting first. "We're worn thin and the room's boiling, and nothing's even swung at us yet — we have to get out" is the pressure a long crawl builds even when nobody has taken a wound.
+The over-extended party is the danger this builds: the grind pushes Heat up even when nothing is attacking, so a crew that lingers, lost and tired, walks into the next fight against a hotter scene — Costs bite harder and optional presses hit harder. "We're worn thin and the room's boiling, and nothing's even swung at us yet — we have to get out" is the pressure a long crawl builds even when nobody has taken a wound.
 
 ### Cooling off — and how HP comes back
 
@@ -203,9 +203,9 @@ A monster is any enemy: Hit Dice, attacks, and a public **Monster Stack** of **2
 
 **Monsters have Hit Dice.** Deal each monster a **Monster Stack** of **2 × HD** playing cards. **Face-down = closed** (armored / shell). **Face-up = open** (meat). Ignore rank and suit. The stack replaces notepad HP. Players like a fat Fuel pool; you keep the enemy side **small and quotable**.
 
-**Pool = Heat only** (one dish for the whole enemy side). Roll it for Initiative (count of 3s and 4s) and as optional Fuel when you **press**. Heat is not durability — never pluck it for damage. Set it from the shown threat: **≈ HD**, down if the foe is on the back foot, up if it owns the fight.
+**Initiative.** Each distinct enemy group rolls **1d6** every Round Initiative (reroll each round; no declare-before-roll). Shambling / acts last as written — skip the die, go last. Round 1 surprise: if monsters have surprise, they act first (no d6); if PCs have surprise, monster groups act last (no d6). PC Initiative stays the count of 3s and 4s on Fuel — [[Burners Adventure Game#Combat]].
 
-**Free attack (quote).** Flat damage — no die from the pool.
+**Free attack (quote).** Flat damage — no die from an Init pool.
 
 | Fiction | Quote |
 | --- | ---: |
@@ -235,13 +235,13 @@ A monster is any enemy: Hit Dice, attacks, and a public **Monster Stack** of **2
 
 **Tactics:** claim the right tool for the extra die when it matters — the player holds the story. Scraps after Cracked. A **1**+**2** is still 1 Hit (ceil); closed → bounce; the right tool's extra die is how a stuck blow punches through.
 
-**Press (optional).** Burn a Heat die onto a quote when it matters.
+**Press (optional).** When a quote should bite harder, add a die or bump by fiat — not a Heat Initiative pool.
 
-**Hordes.** Shared Heat dish. Attacks = bodies in reach. One **Monster Stack** (2 × HD cards) per body; soft kit only changes the face mix. Fat stacks for solos and named threats.
+**Hordes.** Shared group d6 for the knot. Attacks = bodies in reach. One **Monster Stack** (2 × HD cards) per body; soft kit only changes the face mix. Fat stacks for solos and named threats.
 
 **Shambling** → act last.
 
-**Full-dice monsters (optional).** Solo duel / demo as a Burner. Default is speed mode.
+**Full-dice monsters (optional).** Solo duel / demo as a Burner for spend and Defend. **Initiative stays group (or solo) 1d6** — do not switch order to a 3/4 Fuel count. Default is speed mode.
 
 Also: `experiments/burners-monster-stacks.md` — Monster Stacks (and the older `experiments/burners-cracked.md` quote sheet).
 

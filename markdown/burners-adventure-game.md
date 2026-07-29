@@ -125,11 +125,11 @@ Quick definitions. Details live in the chapters below.
 
 See *Combat*.
 
-- **Roll Initiative!:** at the top of every combat round. Round 1: gather and roll your full pool (character level, weapons and shields in hand, Wizard Drip in Arcana, Muster slots, empty slots). Round 2+: refill one Fuel die per character level, roll those into your pool, then count.
+- **Roll Initiative!:** at the top of every combat round. PCs: Round 1 gather and roll your full Fuel pool; Round 2+ refill one Fuel die per character level, then recount. Your Initiative is the count of 3s and 4s. Foes: each distinct group rolls **1d6** (reroll every round). Surprise on round 1 only nudges monster order — see *Combat*.
 
 - **Combat Round:** one minute, taken in locked Initiative order. On your turn, take one Action (attack, cast a spell, etc.). Moving and positioning come with it, part of the Action, not a separate step. Defending is not free; it burns your Fuel. Sword governs the exchange: it grants you extra attacks and a deeper pool.
 
-- **Initiative:** the count of your Fuel showing 3 or 4 after you Roll Initiative. The Referee locks order for that round; spending a 3 or 4 does not change who goes when until the next Roll Initiative. Ties: PCs win (players choose among themselves; a PC may act before a foe or yield).
+- **Initiative:** for a Burner, the count of Fuel showing 3 or 4 after you Roll Initiative. For a foe group, **1d6** each Round Initiative (shambling / acts last as written). The Referee locks order for that round — highest first; spending a 3 or 4 does not change who goes when until the next Roll Initiative. Ties: PCs win (players choose among themselves; a PC may act before a foe or yield). Round 1 surprise: if monsters have surprise they act first (no d6); if PCs have surprise, monster groups act last (no d6).
 
 - **Fuel:** all the dice from your Initiative rolls, kept at their faces and burned through the fight to attack, defend, cast, and counterattack. From round 2 on, Roll Initiative refills one die per character level into the pool. Remove burned Fuel dice from play.
 
@@ -555,9 +555,9 @@ Heat is your crew's shared danger clock, not a pool of hit points. It is the pre
 | Fresh danger revealed (a threat shown, an alarm, reinforcements) | +Heat by the Referee's call, often the threat's Hit Dice |
 | A blow in a fight | nothing to Heat; harm goes to Burners' HP (or the monster pile) |
 
-Heat is the margin the whole crew shares. It climbs until the crew acts on the room to bring it down. It has no ceiling. A very hot scene is simply a very dangerous one, quoted against and escalating until you cool it or leave. There is no personal pool of Heat and no bypass. Personal harm is what HP and Wounds are for. In a fight, Heat is mostly still. It climbs only when the Referee judges the danger has turned, and often not at all. But its level still bites: **Heat is the enemy side's Initiative / press dish** (one die per point — preferred Referee play). A hot scene simply fights back a little harder. How monsters take damage: *Monsters* in the glossary, and [[Burners Referee Guide]].
+Heat is the margin the whole crew shares. It climbs until the crew acts on the room to bring it down. It has no ceiling. A very hot scene is simply a very dangerous one, quoted against and escalating until you cool it or leave. There is no personal pool of Heat and no bypass. Personal harm is what HP and Wounds are for. In a fight, Heat is mostly still. It climbs only when the Referee judges the danger has turned, and often not at all. Enemy Initiative is a **group 1d6**, not Heat — see *Combat* and [[Burners Referee Guide]]. How monsters take damage: *Monsters* in the glossary, and [[Burners Referee Guide]].
 
-Being surprised, caught, or outmaneuvered is not a bypass. The Referee adds a situational Damage modifier and you defend as normal against the higher number.
+**Surprise** only changes monster Initiative on **round 1** of a fight: if they jump you, their groups act first (no d6); if you jump them, their groups act last (no d6). Your Fuel and personal Initiative never change. Round 2+ is normal. Being caught or outmaneuvered may still add a situational Damage modifier — you defend as normal against the higher number.
 
 A coup de grace finishes a helpless foe outright. A truly helpless foe (bound, asleep, or pinned and ignored), finished at leisure, is dispatched by the finishing action rather than a defend.
 
@@ -642,7 +642,7 @@ Death is death. A **Fallen Wound** from the Fallen is a death clock — see [[Bu
 
 The danger is the Wound. Every one is a Shock Check in the fight and a survival check after. Cover downed friends. Reach full HP and you are whole again.
 
-*The crew fights an ogre in a working scene. Heat at 6. Aldric (Sword 1, 4 HP, chain mail AC 3, arming sword, rotella) rolls Initiative for seven dice. His twelve are full (mail 6, sword 2, shield 4), so no empty-slot dice. Two for the sword, four for the shield, one for his level: 6, 5, 4, 3, 2, 2, 1. Three show 3 or 4, so his Initiative is 3. The Referee locks order; Aldric beats the ogre's count and acts first. On his turn a Veteran gets two attacks. With a one-handed sword (2 slots) each is a single die, so he burns the 5 and the 3 for blows of 5 and 3 — announces **8** and **3**; the Referee converts to Hits on the ogre's Monster Stack (HD ~4 → 8 cards). No 6 among them, so no Spark. He has meleed this round, so when the ogre's club comes — free quote **5**, pressed with a Heat die for **10** — Aldric Defends without limit. His chain mail soaks 3 first, leaving 7; he burns the 6 and the 1 to cut the rest. Fuel left: 4, 2, 2, plus the refill the next Roll Initiative brings. Over the following rounds his refill cannot keep pace with the club. Each pressed quote becomes 7 after armor, then eats through his Fuel. Eventually he is caught winded and all 7 lands. With 4 HP he is driven to −3 — a Wound (severity 3), leg, in the dirt. Shock (`2d6 + Sword` vs 3) beats it, so he stays effective in the dirt, but his dice are gone. Finish it or fold — and get him help when it ends.*
+*The crew fights an ogre in a working scene. Heat at 6. Aldric (Sword 1, 4 HP, chain mail AC 3, arming sword, rotella) rolls Initiative for seven dice. His twelve are full (mail 6, sword 2, shield 4), so no empty-slot dice. Two for the sword, four for the shield, one for his level: 6, 5, 4, 3, 2, 2, 1. Three show 3 or 4, so his Initiative is 3. The ogre's group rolls **1d6** = **2**. The Referee locks order; Aldric acts first. On his turn a Veteran gets two attacks. With a one-handed sword (2 slots) each is a single die, so he burns the 5 and the 3 for blows of 5 and 3 — announces **8** and **3**; the Referee converts to Hits on the ogre's Monster Stack (HD ~4 → 8 cards). No 6 among them, so no Spark. He has meleed this round, so when the ogre's club comes — free quote **5**, pressed for **10** — Aldric Defends without limit. His chain mail soaks 3 first, leaving 7; he burns the 6 and the 1 to cut the rest. Fuel left: 4, 2, 2, plus the refill the next Roll Initiative brings. Over the following rounds his refill cannot keep pace with the club. Each pressed quote becomes 7 after armor, then eats through his Fuel. Eventually he is caught winded and all 7 lands. With 4 HP he is driven to −3 — a Wound (severity 3), leg, in the dirt. Shock (`2d6 + Sword` vs 3) beats it, so he stays effective in the dirt, but his dice are gone. Finish it or fold — and get him help when it ends.*
 
 When you face control magic, you **Defend** the same way you defend a blow, but a clean overrun lands the effect (stun, hold, charm, sleep), not HP damage. See *Defending against a spell* in [[Burners Sorcerie]].
 
@@ -650,9 +650,9 @@ When you face control magic, you **Defend** the same way you defend a blow, but 
 
 Each Combat Round is one minute. You act in locked Initiative order. On your turn you get one Action: attack, cast, or feat. Moving, readying, taking cover, or aiming come with it, part of the same Action rather than a turn of their own. Only a demanding shift (rising from the ground, or breaking away under threat) costs you the Action itself. Defending is not free. You burn Fuel whenever you are struck.
 
-**Rolling Initiative.** Say **Roll Initiative** at the top of every round. There is no separate surprise rule. You fight with what you were actually carrying.
+**Rolling Initiative.** Say **Roll Initiative** at the top of every round. No one declares actions before the roll. You fight with what you were actually carrying.
 
-**Round 1.** Gather a pool of d6s for what you hold right now:
+**Burners (PCs).** Round 1: gather a pool of d6s for what you hold right now:
 
 - one die per character level;
 - one die per slot if you have a weapon in hand;
@@ -661,9 +661,17 @@ Each Combat Round is one minute. You act in locked Initiative order. On your tur
 - one die per Arcana slot occupied by Wizard Drip (or a rogue's kicks). Empty Arcana add none. Do not also count those slots as empty inventory.
 - one die per Muster slot (Boss). (Empty or filled. Do not double-count empty Muster slots.)
 
-Roll them all. The faces you rolled, kept as they lie, are your Fuel for the fight. Your Initiative is the count of them showing 3 or 4. The Referee locks order for the round — highest first. Ties: PCs win; among PCs the players choose who goes first; a PC tied with a foe may act first or yield.
+Roll them all. The faces you rolled, kept as they lie, are your Fuel for the fight. Your **Initiative** is the count of them showing 3 or 4.
 
-**Round 2 and after.** Roll Initiative means refill: add one Fuel die per character level, roll those into your pool at once, then count 3s and 4s across the whole pool (held faces plus the new dice). The Referee locks order for the round again. The first round brings no refill; that opening roll is your wind. Spending a 3 or 4 during the round does not change the locked order — only the next Roll Initiative does.
+**Round 2 and after (PCs).** Roll Initiative means refill: add one Fuel die per character level, roll those into your pool at once, then count 3s and 4s across the whole pool (held faces plus the new dice). The first round brings no refill; that opening roll is your wind. Spending a 3 or 4 during the round does not change the locked order — only the next Roll Initiative does.
+
+**Foes.** Each distinct enemy group rolls **1d6** every Round Initiative (orcs one die, ogre another). Reroll each round. If a monster's text says **shambling** or **acts last**, skip the die and go last. Do not roll Fuel for order.
+
+**Surprise (round 1 only).** If either side has surprise, **do not roll the monster group d6** that round: monsters with surprise act **first**; if the PCs have surprise, monster groups act **last**. From round 2 on, always roll group d6 — surprise is over. PC Fuel and personal Initiative never change for surprise. No lost turns.
+
+**Lock order.** Highest Initiative first. Ties: PCs win; among PCs the players choose who goes first; a PC tied with a foe may act first or yield.
+
+*Example. Kragg Initiative 5, three allies at 2 / 1 / 1; orcs roll 4; ogre rolls 2. Order: Kragg → orcs → the 2 → the 1s and ogre (PCs win ties).*
 
 If you empty your hand on offense you are caught winded until the next Roll Initiative's refill, blows arriving whole in the meantime. Burn with that in mind. Fuel you are forced to lose but cannot burn from your pool comes out of your next refill instead. Such a cost always lands, exactly once, and never leaves you owing a debt you cannot pay.
 

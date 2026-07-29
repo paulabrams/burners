@@ -55,7 +55,7 @@ hero_alt: "Travelers on the road — Albert Robida"
 
 ### Combat 1 — Grave-rats (4). Heat 8
 
-**Rolling Initiative.** Crew roll their Fuel (above). Enemy side: **Heat 8 only** — eight dice for Initiative / press. Four free bite quotes (one per rat in reach). Initiative is the count of 3s and 4s; Kragg reads highest and acts first.
+**Rolling Initiative.** Crew roll their Fuel (above); Initiative = count of 3s and 4s. Grave-rats are one knot: **group 1d6 = 2**. Four free bite quotes (one per rat in reach). Kragg reads **4** and acts first.
 
 **Round 1.**
 
@@ -85,11 +85,11 @@ hero_alt: "Travelers on the road — Albert Robida"
 
 Buried armed: **grave-sword** (quote **3**) and a **grave-byrnie** (old chain — loot for a Burner). HD 3 → stack **6**: paint **4 face-down / 2 face-up** (mail + grave-cold flesh as shell). Silver is the **right tool** vs that closed shell. The Referee announces it rising from its bier: **+2 Heat → 9.**
 
-**Rolling Initiative.** Enemy side: **Heat 9 only**. It reads six 3s/4s: **Initiative 6, first**. Two free sword quotes a round.
+**Rolling Initiative.** Crew roll Fuel; the Cellarer rolls **group 1d6 = 5** and goes first. Two free sword quotes a round.
 
 **Round 1.**
 
-- **Wight**, two quotes — Referee **presses** the first with a Heat die (face **6**) onto Brand, second quote plain on Ilsa:
+- **Wight**, two quotes — Referee **presses** the first (+**6**) onto Brand, second quote plain on Ilsa:
   - → **Brand**: pressed **3+6 = 9**. Leather soaks 1 → 8. He has not meleed → one die: burns a 5 → **3 to HP.** Brand 5 → **2.** *(Brand Fuel 7→6.)*
   - → **Ilsa**: quote **3**. Leather soaks 1 → 2. She burns a 4 → **0.** *(Fuel 7→6.)*
 - **Kragg** attacks (Veteran, two blows; 2-handed axe → two dice a blow) — having meleed, he Defends without limit for the rest of this round:
@@ -119,13 +119,13 @@ Threat overcome → **vent 2 → Heat 7.**
 
 - **Clocks:** 10-minute Turns on a visible Turn Tracker — count **1–6** then wrap (an hour); `!` / `!!`, light notes, what they did. Checks leave no mark; even turns say when one is due. Always 1-in-6; roll on even turns, and again when noise, dark, or wounds fire. A full quiet cycle with food and water is Hour Rest (HP, if unwounded) — not a required rest tax. Magic out of combat is noise. See [[Burners Referee Guide#Turn Tracker]].
 - **One roll out of combat:** `2d6 + Approach` vs Cost. Traps — see [[Burners Principles#Pools, not fixed numbers]].
-- **Fuel is rolled on each Roll Initiative** — full pool on round 1; from round 2 on, refill one Fuel die per character level and roll those in, then lock order. Enemy side preferred: **Heat dice only** for Initiative / press — not HD + weapon + Heat.
+- **Fuel is rolled on each Roll Initiative** — full pool on round 1; from round 2 on, refill one Fuel die per character level and roll those in. PC Initiative = count of 3s and 4s. Enemy groups: **1d6** each round (not Heat, not HD + weapon). Round 1 surprise: monsters first or last, no d6.
 - **Damage you announce; the Referee converts.** Hits = ⌈damage ÷ 5⌉; closed → −1, always (armor is one card of soak). Claim the **right tool** to burn one extra Fuel into the blow (its face adds to damage). Face-down first, then face-up. **Cracked!** = last face-down gone (signal; the −1 ends). Dead = pile gone. See [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]].
 - **Defense (Burners):** melee 1 die (no limit once you have meleed this round); missile 1 die (2 with Cover); magic no limit. **Block** / **Cover** as in Combat. Monsters at speed have **no free Defend**.
 - **The Wound model:** see [[Burners Principles#HP is plot armor; past 0 it gets real]].
 - **Casting is the same economy:** Ilsa's *Adhere* was one Action, one Fuel die for the **cast total**; the card **tapped**; control stuck the arm — no Hits. Sleep recovers up to Sorcerie Level cards.
 - **Closed shell vs right tool:** mundane steel chipped face-down slowly — the −1 stood until the last face-down popped. Once Cracked, silver and its extra die finished the face-up meat. Sorcery solved the arm; steel and silver killed. **Sorcerers solve; fighters kill.**
-- **Press:** the wight's first quote rode a Heat die — hot scenes hit harder without inventing a second PC-scale pool.
+- **Press:** the wight's first quote got a bump when it mattered — hot fiction, not a Heat Initiative pool.
 - **Nobody died.** Clean job.
 
 ---
@@ -151,29 +151,30 @@ Threat overcome → **vent 2 → Heat 7.**
 
 The sharper casts a working at Brand. **A hostile spell is an attack: roll initiative.** He gains no free first strike for starting it — the whole room rolls with what it holds *right now*.
 
-| Side | Pool | Dice |
+| Side | Fuel pool | Initiative |
 |---|---|---|
-| **Kragg** (tankard, axe on back) | 4 empty + 1 level | **5** |
-| **Sefa** (knife in boot — a holdout) | 4 empty + 1 level | **5** |
-| **Brand** (sword at hip, not in hand) | 4 empty + 1 level | **5** |
-| **Ilsa** (5 Arcana declared; wand drip 1; leather 2; no spear tonight) | 4 empty + 1 wand + 1 level | **6** |
-| **Enemy side** (Heat 5 — sharper + bravos share one dish) | Heat only | **5** |
+| **Kragg** (tankard, axe on back) | 4 empty + 1 level = **5** | **3** (three 3s/4s) |
+| **Sefa** (knife in boot — a holdout) | 4 empty + 1 level = **5** | **1** |
+| **Brand** (sword at hip, not in hand) | 4 empty + 1 level = **5** | **1** |
+| **Ilsa** (5 Arcana declared; wand drip 1; leather 2; no spear tonight) | 4 empty + 1 wand + 1 level = **6** | **1** |
+| **Enemy group** (sharper + bravos) | — | **1d6 = 2** |
 | **Sharper** (HD 1 → **2 face-up**; Illusione hand; *Bewitch* ready) | free cast / quotes | — |
 | **Bravos** (knives; HD 1 → **2 face-up** each) | knife quote **2** each | — |
 
-Initiative is the count of 3s and 4s. Kragg reads **3**, enemy Heat dish **2**, Ilsa **2**, Brand **1**, Sefa **1**. **Kragg acts before the man whose spell started the fight.**
+Order: Kragg (**3**) → enemy group (**2**) → Brand, Sefa, Ilsa (**1**s; players choose among themselves). **Kragg acts before the man whose spell started the fight.**
 
 **Round 1.**
 
-- **Kragg** (Veteran, two attacks; the axe stays sheathed — this is a tavern) burns a held 6 to strike a **Spark**, then Fuels it with 5,4 to **Man-handle** — heaves the table into the sharper. Force 9; the Referee gives the sharper two free contest dice (4,2 = 6) → bowled over, **in the dirt**. The working is already in the air; it resolves on his turn. Kragg spends one Veteran attack to **Block** for Brand. *(Kragg 5→2 dice; order stays locked.)*
-- **Sharper** (from the floor) finishes the cast — *Bewitch*: cast total **5**. The card taps. **Ilsa is adjacent and Wards**: Sorcerie 1, burns **1** Fuel (a 4), cutting the cast to **1**. **Brand then Defends** with 1 die (a 3) → fully defended. No charm. *(Ilsa 6→5; Brand 5→4.)*
-- **Ilsa** (Action still free — Ward is not a turn): casts *Adhere*. 1 die = **6** cast total (Spark). Card taps. At speed the sharper has no free Defend — hand sticks to the floorboards (effect lane, **no Hits**; stack still **2 face-up**). She Fuels the Spark: glue catches the other wrist too. *(Ilsa 5→3.)*
-- **Bravo 1** lunges at Sefa, knife quote **2** pressed with a Heat die face **2** → **4**. Sefa has not meleed → one die: burns a 3 → 1 through, no armor tonight → **Sefa 3 HP → 2.** *(Sefa 5→4.)*
+- **Kragg** (Veteran, two attacks; the axe stays sheathed — this is a tavern) burns a held 6 to strike a **Spark**, then Fuels it with 5,4 to **Man-handle** — heaves the table into the sharper. Force 9; the Referee gives the sharper two free contest dice (4,2 = 6) → bowled over, **in the dirt**. The working is already in the air; it resolves on the enemy beat. Kragg spends one Veteran attack to **Block** for Brand. *(Kragg 5→2 dice; order stays locked.)*
+- **Enemy group:**
+  - **Sharper** (from the floor) finishes the cast — *Bewitch*: cast total **5**. The card taps. **Ilsa is adjacent and Wards**: Sorcerie 1, burns **1** Fuel (a 4), cutting the cast to **1**. **Brand then Defends** with 1 die (a 3) → fully defended. No charm. *(Ilsa 6→5; Brand 5→4.)*
+  - **Bravo 1** lunges at Sefa, knife quote **2** pressed (+**2**) → **4**. Sefa has not meleed → one die: burns a 3 → 1 through, no armor tonight → **Sefa 3 HP → 2.** *(Sefa 5→4.)*
+  - **Bravo 2** hesitates — his partner is still up, the sharper is in the dirt. **Morale check (2d6 under Morale 7): 6 — holds**, barely. He circles.
+- **Ilsa** (Ward was not her turn): casts *Adhere*. 1 die = **6** cast total (Spark). Card taps. At speed the sharper has no free Defend — hand sticks to the floorboards (effect lane, **no Hits**; stack still **2 face-up**). She Fuels the Spark: glue catches the other wrist too. *(Ilsa 5→3.)*
 - **Brand** rises, sword *now* in hand (drawing comes free with his Action), and swings at bravo 1: 1 die = **5** → Hits ⌈5÷5⌉ = **1** (all face-up) → **1 face-up left**; second Veteran attack burns a **4** → **1 Hit** → pile gone. *(Brand 5→3.)*
 - **Sefa** draws the holdout — **1 Fuel to pull it in a fight** — and marks bravo 2. *(Sefa 4→3.)*
-- **Bravo 2** hesitates — his partner is down, the sharper is stuck to the boards. **Morale check (2d6 under Morale 7): 6 — holds**, barely. He circles.
 
-**Round 2.** Roll Initiative: refill +1 die each, count, lock order; Kragg still tops it.
+**Round 2.** Roll Initiative: refill +1 die each, recount 3s/4s; enemy group rolls **1d6** again. Kragg still tops it.
 
 - **Kragg's** refill is a 6. He burns it to strike a **Spark**, then Fuels it with 4,3 to haul the sharper up by the collar — a **Man-handle** to grapple, force 7 against a man in the dirt, pinned; the Referee rules there is no real contest. Held fast. *(Kragg 3→0.)*
 - **Sharper**, ringless and in a fist: folds. "Enough — *enough*."
@@ -190,9 +191,9 @@ Initiative is the count of 3s and 4s. Kragg reads **3**, enemy Heat dish **2**, 
 ### Procedure Notes
 
 - **Social scenes:** see [[Burners Principles#Two engines]] and [[Burners Principles#Heat is scene pressure]]. Heart pays for risky reads and squeezes as Pay rolls.
-- **Heat is the social gauge too.** The meet opened at 4, climbed on a botched press, and a revealed threat set a floor. When steel came out, that same number **was** the enemy side's Initiative / press dish — Heat only, shared by sharper and bravos.
-- **Declaring an attack is "roll initiative" — and the declarer is not first.** The sharper's charm started the fight and Kragg still beat him to the floor. A hostile working where no fight is underway triggers initiative like a drawn blade; nobody gets a free strike for moving first in the fiction.
-- **You fight with what's in hand.** Tavern pools are thin: sheathed swords and slung axes throw no dice on the Initiative roll. Ilsa's **wand drip** and empty pack carried her share — empty Arcana add nothing. Brand's draw came free with his Action; Sefa's holdout cost the 1 Fuel a holdout costs.
+- **Heat is the social gauge too.** The meet opened at 4, climbed on a botched press, and a revealed threat set a floor. When steel came out, enemy **Initiative** was a **group 1d6**, not Heat.
+- **Declaring an attack is "roll initiative" — and the declarer is not first.** The sharper's charm started the fight and Kragg still beat him to the floor. A hostile working where no fight is underway triggers initiative like a drawn blade; nobody gets a free strike for moving first in the fiction (no surprise here — both sides knew steel was coming).
+- **You fight with what's in hand.** Tavern pools are thin: sheathed swords and slung axes throw no dice on the Fuel roll. Ilsa's **wand drip** and empty pack carried her share — empty Arcana add nothing. Brand's draw came free with his Action; Sefa's holdout cost the 1 Fuel a holdout costs.
 - **Ward, shown:** Ilsa cuts the cast with ≤ Sorcerie Level Fuel; Brand then Defends the remainder. Control never lands partially on a clean stop.
 - **Control lands as an effect, not HP:** see [[Burners Principles#Harm and effect are separate lanes]]. Had the charm landed, Brand loses no HP — the crew attacks the reason (concentration, hand, skin).
 - **Morale as written (2d6 vs the score):** the bravos were never going to die for Marlow's face. One blow and one bad round asked the question twice, and the second answer was the door.

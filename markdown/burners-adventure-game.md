@@ -49,7 +49,7 @@ More of the same idea:
 - Climbing: *I throw the grapnel to the parapet and hand-over-hand the rope.* Not *I climb the wall.*
 - Talking: *I slide two crowns across and ask him to look the other way.* Not *I persuade the guard.*
 
-The Approach you take matters. There are four: Sword, Craft, Heart, and Sorcerie. Your Traits and twelve equipment slots say what tools and training you bring to that Approach.
+Your character Theme and Traits can help back up your plan.
 
 ---
 
@@ -91,13 +91,11 @@ Quick definitions. Details live in the chapters below.
 
 - **Armor class (AC):** damage soaked by armor before HP. Leather 1, gambeson 2, mail 3, plate mail / field plate 4, full plate 5.
 
-### HP, Heat, and Wounds
+- **Muster / Manage:** Heart 1+ — hire and run retainers. Full rules: [[Burners Muster]].
+
+### HP and Wounds
 
 - **HP:** luck and wind, not meat — **hit protection**. One d6 per character level, rolled at creation. Reroll at level-up and keep the higher of the new total or old+1. Bites come off HP first; only overflow past 0 opens a Wound. Reach **full HP** and your wounds close.
-
-- **Heat:** your crew's shared danger gauge. How hot the *scene* is, not your hit points. Most risky actions out of combat quote a Cost against Heat. If you split the party, each group tracks its own Heat.
-
-- **Feeding Heat:** when a risky action goes wrong, Heat usually rises (often 1–2). In a fight, blows hit HP, not Heat. Heat climbs only when the situation turns worse (alarm, reinforcements, a friend down).
 
 - **Wound:** real injury. You take one when a blow drives you **past 0 HP**, or when harm lands where **HP cannot help**. Track **wound severity** (sum of overflow from wounding attacks). Penalties last until **full HP** (maimings excepted). See *Wounds*.
 
@@ -109,7 +107,7 @@ Quick definitions. Details live in the chapters below.
 
 - **World Turn:** ten minutes of out-of-combat time. You take one World Action.
 
-- **Two Steps:** say what you do and how; if the moment is risky, the Referee names the Cost (usually Heat) and you roll to pay less.
+- **Two Steps:** say what you do and how. Some actions have a cost, in which case the Referee provides a number that you roll against; your roll reduces the cost. This might end up being paid in HP or Heat.
 
 - **Trained-only:** an action you cannot attempt without a specific Trait, whatever your Approach.
 
@@ -117,7 +115,7 @@ Quick definitions. Details live in the chapters below.
 
 - **Alignment:** like an Approach, but for a specific situation or bond with a patron, guild, or power. Count every relevant Trait across all your Approaches, divide by 4, round down. See *Alignment*.
 
-- **Muster / Manage:** Heart 1+ — hire and run retainers. Full rules: [[Burners Muster]].
+- **Heat:** Heat is a currency incurred when taking an action with a cost other than something immediate such as HP. The Referee banks Heat as a currency to spend describing consequences and collateral damage resulting from the action. This allows the Referee to present the consequence at the right time, in the right proportion. The Referee might spend Heat immediately if the consequence seems immediate, otherwise bank it as tokens.
 
 - **Sweet and Spicy:** a rolled 6 is Sweet (a good twist); a rolled 1 is Spicy (a complication). These ride alongside the sum and never change it. Two 6s (a natural 12) is the perfect roll. Two 1s (a natural 2) is a fumble.
 
@@ -394,7 +392,7 @@ When you reach level 1 in an Approach, you earn its title. The title turns on th
 | Craft | Journeyman | reduce party-wide travel, weather, and survival costs by your Craft level |
 | Heart | Boss | **Muster** (1 slot per retainer); **Manage** (up to Heart); Loyalty |
 
-**The Journeyman's craft (Craft 1+).** As a Veteran you rule the melee. As a Journeyman you rule the journey. Your Craft level reduces party-wide costs from travel, weather, and survival: cold, heat, hunger, thirst, exhaustion, forced marches, rough terrain, getting lost. When the Referee quotes such a cost, subtract your Craft level from it for everyone you are guiding. Often that drops the cost low enough that the Referee waives the roll. Example: the biting cold rain adds 6 Heat, and you are a Journeyman with Craft 3 who has a deadfall shelter and a fire going. You cut it to 3. Without Craft 1+ you can endure the wilds yourself, but you cannot shepherd others through them.
+**The Journeyman's craft (Craft 1+).** As a Veteran you rule the melee. As a Journeyman you rule the journey. Your Craft level reduces party-wide costs from travel, weather, and survival: cold, heat, hunger, thirst, exhaustion, forced marches, rough terrain, getting lost. When the Referee quotes such a cost, subtract your Craft level from it for everyone you are guiding. Often that drops the cost low enough that the Referee waives the roll. Example: traveling in the biting cold rain has a cost of 6 Heat, and you are a Journeyman with Craft 3 who has a deadfall shelter and a fire going. You cut it to 3. Without Craft 1+ you can endure the wilds yourself, but you cannot shepherd others through them.
 
 **The Boss's command (Heart 1+).** As a Veteran you rule the melee. As a Journeyman, the journey. As a Sorcerer, the unseen. As a Boss, the Muster. Heart unlocks **Muster** and **Manage**. Anyone with coin can hire retainers; a Boss Mustering them plays them at the table. Full rules: [[Burners Muster]].
 
@@ -415,11 +413,9 @@ Alignment is an Approach for when the fiction does not map cleanly to Sword, Cra
 
 Patron Alignment is **not** Sorcerie. Calling on the patron — pageantry, True Name, Offer and Ask — is an **Invocation**. The full rules live on [[Burners Invocations]].
 
-## HP, Heat, and Armor
+## HP and Armor
 
 You have HP of one d6 per character level, rolled. Just 1d6 at first level. Reroll on each level-up for the higher of the new total or the old plus one. HP is not meat. It is luck, wind, and the reflex to turn a blow — **hit protection**. Blows come off your HP as near-misses. Only overflow **past 0** opens a **Wound**, driving your HP into the negative (see *Wounds*). That overflow adds to **wound severity**. At **0** you are out of luck, not yet cut — ordinary people have no hit protection and sit at 0 without being Wounded.
-
-Heat is the other track. It is not a pool of hit points. It is the scene's pressure, shared by your whole crew. It is the difficulty your out-of-combat costs are quoted against, and the clock that tells you how close the job is to going wrong. Every scene opens at a base (a quiet meet 3-4, a working delve or a parley that matters 6, a blown job or a hall on fire 8) and climbs as costs mount. Blows in a fight do not feed it; those go to HP. Heat rises in a fight only when the Referee judges the danger has turned. It has no ceiling. A hot scene is simply a dangerous one.
 
 Armor is what you wear. It soaks on the way in. Its AC comes off every blow before your HP. AC runs from 1 to 5 by make: leather 1, gambeson 2, chain mail 3, plate mail and field plate 4, full plate 5. Heavy harness eats more of your twelve and leaves a thinner pool when you roll Initiative. Leather, gambeson, and mail are open. **Plate is trained-only** (see *Training* under *Weapons, Armor, and Shields*). Armor keeps you from being worn down, not from being cut once you are down. In heavy armor you lose HP slowly, but the Wound you take past 0 is raw.
 
@@ -513,9 +509,9 @@ Your Theme and Traits help the Referee see that you could do it. They do not ski
 
 #### Step 2: Pay the Cost
 
-A risky deed has a Cost, usually a bump of Heat. The Referee names the Cost. You roll to pay less of it.
+A risky deed has a Cost — a number the Referee names. You roll to pay less of it.
 
-You still do the thing. The dice say what it cost you. Where Heat does not fit, the price is time, noise, position, or a Spicy twist.
+You still do the thing. The dice say what it cost you. Immediate peril is often HP or a wound. Trouble that is not immediate is often **Heat**: the unpaid Cost becomes tokens the Referee banks and spends on consequences now or later (see *Heat* in the glossary). Where neither fits, the price is time, noise, position, or a Spicy twist.
 
 You roll when there is a price, or when the outcome is uncertain.
 
@@ -523,7 +519,7 @@ You roll when there is a price, or when the outcome is uncertain.
 
 When the Referee asks for a roll, they name the target. Name your Approach.
 
-Roll 2d6 and add your Approach level. Meet or beat the target and you do it clean. Fall short and you pay: HP or a wound if you are in personal peril, or Heat if the trouble is on the crew.
+Roll 2d6 and add your Approach level. Meet or beat the target and you do it clean. Fall short and you pay: HP or a wound if you are in personal peril, or Heat if the trouble is on the crew — marked now, spent by the Referee when the consequence fits.
 
 There is no separate birthright to withstand a danger. You endure with the same four Approaches you act with. When a hazard tests you, pick the Approach the danger asks for and roll against the Referee's Cost:
 
@@ -544,26 +540,9 @@ Out of combat:
 
 Combat has no Sweet or Spicy. A 6 in Fuel is a **Spark** (see Combat).
 
-### Heat
-
-Heat is your crew's shared danger clock, not a pool of hit points. It is the pressure of the scene. It does two jobs. It is the difficulty many out-of-combat costs are quoted against. It is also the clock that tells you how close the job is to going wrong. Blade and claw feed HP, not Heat. What feeds Heat is everything else that costs the crew.
-
-| Cost | How it lands |
-| --- | --- |
-| A narrative shortfall (a blown sneak, a hard parley) | +Heat by an amount the Referee sets, usually 1 or 2 |
-| A risky out-of-combat action | its Cost, usually a bump of Heat, which you roll to reduce |
-| Fresh danger revealed (a threat shown, an alarm, reinforcements) | +Heat by the Referee's call, often the threat's Hit Dice |
-| A blow in a fight | nothing to Heat; harm goes to Burners' HP (or the monster pile) |
-
-Heat is the margin the whole crew shares. It climbs until the crew acts on the room to bring it down. It has no ceiling. A very hot scene is simply a very dangerous one, quoted against and escalating until you cool it or leave. There is no personal pool of Heat and no bypass. Personal harm is what HP and Wounds are for. In a fight, Heat is mostly still. It climbs only when the Referee judges the danger has turned, and often not at all. Enemy Initiative is a **group 1d6**, not Heat — see *Combat* and [[Burners Referee Guide]]. How monsters take damage: *Monsters* in the glossary, and [[Burners Referee Guide]].
-
 **Surprise** only changes monster Initiative on **round 1** of a fight: if they jump you, their groups act first (no d6); if you jump them, their groups act last (no d6). Your Fuel and personal Initiative never change. Round 2+ is normal. Being caught or outmaneuvered may still add a situational Damage modifier — you defend as normal against the higher number.
 
 A coup de grace finishes a helpless foe outright. A truly helpless foe (bound, asleep, or pinned and ignored), finished at leisure, is dispatched by the finishing action rather than a defend.
-
-**A shown threat sets the room.** When the crew learns a menace is real, Heat rises with that reveal. Conceal it and it raises no Heat — it strikes from surprise instead. Overcome or evade it and the menace vents away. How the Referee floors the gauge (Hit Dice, packs, chokepoints): [[Burners Referee Guide]].
-
-**Venting Heat.** The gauge falls when the crew acts on the room, not on demand — silence a sentry, bar a door, quench the fire, steady the room with a plan the Referee buys. A Double Sweet vents 1. Folding ends the scene and cools the gauge to the next scene's base. Downtime returns Heat to base. A job that ended loud raises the base of what follows until the crew lies low.
 
 ### Wounds
 
@@ -642,7 +621,7 @@ Death is death. A **Fallen Wound** from the Fallen is a death clock — see [[Bu
 
 The danger is the Wound. Every one is a Shock Check in the fight and a survival check after. Cover downed friends. Reach full HP and you are whole again.
 
-*The crew fights an ogre in a working scene. Heat at 6. Aldric (Sword 1, 4 HP, chain mail AC 3, arming sword, rotella) rolls Initiative for seven dice. His twelve are full (mail 6, sword 2, shield 4), so no empty-slot dice. Two for the sword, four for the shield, one for his level: 6, 5, 4, 3, 2, 2, 1. Three show 3 or 4, so his Initiative is 3. The ogre's group rolls **1d6** = **2**. The Referee locks order; Aldric acts first. On his turn a Veteran gets two attacks. With a one-handed sword (2 slots) each is a single die, so he burns the 5 and the 3 for blows of 5 and 3 — announces **8** and **3**; the Referee converts to Hits on the ogre's Monster Stack (HD ~4 → 8 cards). No 6 among them, so no Spark. He has meleed this round, so when the ogre's club comes — free quote **5**, pressed for **10** — Aldric Defends without limit. His chain mail soaks 3 first, leaving 7; he burns the 6 and the 1 to cut the rest. Fuel left: 4, 2, 2, plus the refill the next Roll Initiative brings. Over the following rounds his refill cannot keep pace with the club. Each pressed quote becomes 7 after armor, then eats through his Fuel. Eventually he is caught winded and all 7 lands. With 4 HP he is driven to −3 — a Wound (severity 3), leg, in the dirt. Shock (`2d6 + Sword` vs 3) beats it, so he stays effective in the dirt, but his dice are gone. Finish it or fold — and get him help when it ends.*
+*The crew fights an ogre in a working scene.  Aldric (Sword 1, 4 HP, chain mail AC 3, arming sword, rotella) rolls Initiative for seven dice. His twelve are full (mail 6, sword 2, shield 4), so no empty-slot dice. Two for the sword, four for the shield, one for his level: 6, 5, 4, 3, 2, 2, 1. Three show 3 or 4, so his Initiative is 3. The ogre's group rolls **1d6** = **2**. The Referee locks order; Aldric acts first. On his turn a Veteran gets two attacks. With a one-handed sword (2 slots) each is a single die, so he burns the 5 and the 3 for blows of 5 and 3 — announces **8** and **3**; the Referee converts to Hits on the ogre's Monster Stack (HD ~4 → 8 cards). No 6 among them, so no Spark. He has meleed this round, so when the ogre's club comes — free quote **5**, pressed for **10** — Aldric Defends without limit. His chain mail soaks 3 first, leaving 7; he burns the 6 and the 1 to cut the rest. Fuel left: 4, 2, 2, plus the refill the next Roll Initiative brings. Over the following rounds his refill cannot keep pace with the club. Each pressed quote becomes 7 after armor, then eats through his Fuel. Eventually he is caught winded and all 7 lands. With 4 HP he is driven to −3 — a Wound (severity 3), leg, in the dirt. Shock (`2d6 + Sword` vs 3) beats it, so he stays effective in the dirt, but his dice are gone. Finish it or fold — and get him help when it ends.*
 
 When you face control magic, you **Defend** the same way you defend a blow, but a clean overrun lands the effect (stun, hold, charm, sleep), not HP damage. See *Defending against a spell* in [[Burners Sorcerie]].
 

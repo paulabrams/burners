@@ -174,9 +174,10 @@ caster's craft.
 3. **Tap the card.** An instant working goes to your discard as it resolves. A lasting
    working stays **in play** for its duration, then joins the discard.
 
-The caster is exposed like anyone taking an Action; struck mid-cast, you defend with Sword
-like anyone. There is **no special cast penalty** — the hit does not abort the working or
-force the card to tap.
+The caster is exposed like anyone taking an Action; struck mid-cast, Defend as usual (1 die
+if you have not meleed this round). HP loss alone does not abort the working. If the blow
+**Wounds** you and you **fail the Shock Check**, the cast is disrupted mid-tempo — the card
+taps with no effect (see *Mid-tempo disrupt* under *Wounds* in [[Burners Adventure Game]]).
 
 **When a cast Sparks.** Fuel it with one or more additional Fuel dice, up to SL, and
 burn that Fuel on the *working itself* — another target caught, a beat longer, a ward
@@ -438,9 +439,10 @@ mesh with combat:
   face-down / face-up Monster Stack — see [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]] and
   [[Burners Principles#Harm and effect are separate lanes]].
 - **Hostile magic** is opposed with **Defend** — Fuel dice vs the caster's cast total. A
-  hostile cast where no fight is yet underway still rolls initiative. Choose whichever
-  Approach fits; a spell may suggest one (*Defend: Sword*). Procedure: *Defending against
-  a spell* below.
+  hostile cast where no fight is yet underway still rolls initiative — unless the fiction
+  is a quiet working in a friendly conversation (see [[Burners Referee Guide#Hostile magic
+  outside a fight]]). Choose whichever Approach fits; a spell may suggest one (*Defend:
+  Sword*). Procedure: *Defending against a spell* below.
 - **Control** (charm, sleep, fear, command…) uses the effect lane, not HP — see
   [[Burners Principles#Harm and effect are separate lanes]].
 
@@ -454,7 +456,9 @@ When a spell targets you with harm, control, or another hostile effect, the cast
 level-SL working).
 
 **Roll initiative.** A hostile spell is an attack like any other. If no fight is yet
-underway, roll initiative — the caster gains no free first strike.
+underway, roll initiative — the caster gains no free first strike. Exception: a quiet
+working in a friendly conversation needs no Initiative and no Defend from ordinary folk
+([[Burners Referee Guide#Hostile magic outside a fight]]).
 
 You may **Defend** as against any blow: burn Fuel dice, roll them, sum the faces. Those
 dice are burned for the fight. Your **defense total** opposes the cast total. Choose

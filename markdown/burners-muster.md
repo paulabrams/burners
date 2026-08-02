@@ -27,11 +27,11 @@ Anyone with coin can hire. Only a **Boss (Heart 1+)** **Musters** — splitting 
 
 **Sheet.** Half-power track (below). Usually starts **level 1**, climbs on XP, never above the hiring Boss (or lead PC). **Sword or Craft only** — never Sorcerie, never Heart, never Muster. By default they **put themselves first**. **Loyalty 7.**
 
-**XP.** Share the pot evenly with everyone present on the job. A **Mustering** retainer keeps a **full** share — the Boss plays them like a PC. A retainer **not** Mustering keeps **half** of their award (OSE: they follow orders). Levels in civilization on the Burner XP table. Full procedure: [[Burners Experience]].
+**XP.** Share the pot evenly with everyone present on the job (that fight / that claim). A **Mustering** retainer keeps a **full** share — the Boss plays them like a PC. A retainer **not** Mustering keeps **half** of their award (OSE: they follow orders). Levels on the Burner XP table when they next sleep somewhere safe. Full procedure: [[Burners Experience]].
 
 **Loyal** is a **tag** after a real bond (Referee's call). +3 Loyalty; when they hold, they **act loyally** — prioritize their patron, Block for them, stay on their heel. Abuse the bond and the tag can fall — word travels.
 
-**Starter (Boss).** A starting Boss begins with one **loyal retainer** at level 1: Sword 1 or Craft 1, 2 Traits, HP = **1d3**, Loyalty **10** (7+3), basic kit paid from the Boss's purse, and a **half-share** of the take when they live.
+**Starter (Boss).** A Boss at character creation begins with one **loyal retainer** at level 1: Sword 1 or Craft 1, 2 Traits, HP = **1d3**, Loyalty **10** (7+3), basic kit paid from the Boss's purse, and a **half-share** of the take when they live. Taking Heart 1 later does not grant this retainer — see *Starting kits are for new characters only* in [[Burners Adventure Game]].
 
 ---
 

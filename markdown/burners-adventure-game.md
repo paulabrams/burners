@@ -159,7 +159,7 @@ See *Combat*.
 
 Signatures emerge in play. You do not choose them at creation.
 
-To pick a people to come from (Northmaren, Southmaren, Elf, Alu, Kith, and the rest), see [[Burners Ancestry]]. Each entry is a ready-made look plus a menu of Traits, gear, and the Signatures your kind grows into.
+To pick a people to come from (Northmaren, Southmaren, Elf, Alu, Kith, and the rest), see [[Burners Ancestry]]. Each entry is a ready-made look plus a menu of Traits, gear, and the Signatures your kind grows into. Eldar (listed on Ancestry and [[Burners Experience#Eldar]]) use the Eldar XP column — double XP — and may earn two Signatures per character level instead of one. Those Signatures still come in play; Ancestry is what lets them be gifts a mortal cannot claim (low light, charm, sleep, and the like). Northmarens and Southmarens use the ordinary column.
 
 ### Traits
 
@@ -227,6 +227,8 @@ You begin carrying the clothes on your back and a backpack. You also have a smal
 Your backpack takes 3 slots and contains: bedroll, waterskin, fifty feet of rope, one week rations, and a tinder box. You can move any of those items to your main inventory slots, but keeping it as a backpack means you can free up 3 slots by dropping it.
 
 Your Approach also brings starting gold and its own kit or standing — see below. Spend what you keep in town from the tables further down; everything you carry ready takes an item slot.
+
+**Starting kits are for new characters only.** The Veteran purse, Boss loyal retainer, Journeyman free tool, Sorcerer spellbook and drip — those are creation. When you later put a level into a different Approach, you gain the Approach and its title, not that Approach's starting gold or free kit. A Veteran who becomes a Boss does not wake a loyal retainer. A Boss who takes Sorcerie 1 does not get a free book and drip (shop for a blank spellbook at 25 gp and costume drip at 100 gp each if you want the kit; spells are not for sale). Re-split slots on rest when the new Approach needs it (Muster, Arcana).
 
 ### The Starting Veteran
 
@@ -373,11 +375,11 @@ Open kit, trained-only kit, and where those Traits live: *Arms and Armor (Sword)
 
 ### Experience
 
-Awards, claimed treasure, present-only shares, and who tracks what: [[Burners Experience]]. You never buy Traits, Signatures, or spell learning with XP. Retainers take XP per [[Burners Muster]] (full share if Mustering; half if not).
+Awards, claimed treasure, present-only shares, Eldar track, and who tracks what: [[Burners Experience]]. You never buy Traits or spell learning with XP. Signatures emerge in play. Retainers take XP per [[Burners Muster]] (full share if Mustering; half if not).
 
 ### Approach Level
 
-Your character level is bought with XP from the table on [[Burners Experience]]. Every level you gain is a single point you place in an Approach, so your Approach levels always sum to your character level. At 4th level you might be Sword 3 and Sorcerie 1, or Sword 2 with Craft 1 and Heart 1, however your play has shaped you. You place each point as you level and do not move the ones already set.
+Your character level is bought with XP from the table on [[Burners Experience]] (Eldar use the Eldar column). Every level you gain is a single point you place in an Approach, so your Approach levels always sum to your character level. At 4th level you might be Sword 3 and Sorcerie 1, or Sword 2 with Craft 1 and Heart 1, however your play has shaped you. You place each point as you level and do not move the ones already set.
 
 Your roll is 2d6 plus your Approach level. With no level in that Approach you are Approach 0: you still roll 2d6, just without a bonus. That missing bonus is the whole disadvantage. You can still attempt things at Approach 0, but that Approach's trained advantages stay locked until you reach level 1. One point is the line between a townsman and a practitioner.
 
@@ -405,7 +407,7 @@ Alignment is an Approach for when the fiction does not map cleanly to Sword, Cra
 **Patron Alignment** is the same math. The axis is an otherworldly being: a god, saint, d'jinn, dead power, or thing from beyond the veil that has a True Name and a nature. Record it on your sheet when it matters: *Lunara 2*, *the Voice in the Void 1*. It grows the way everything in Burners grows. You take Traits that bear on the patron at level-up. You keep a **Relic** of theirs. You accept their shaping after a pact. You do deeds they favor. A Relic of the patron (their conduit, often a named Arcana or other named item) counts as +1 Alignment with that patron for Invocations only.
 
 | Alignment level | What it means at the table |
-|---|---|
+| --- | --- |
 | **0** | Stranger. The patron may not hear, or the Offer is thin. |
 | **1** | Known. Small favors, one clear Ask. |
 | **2** | Favored. Serious Offers; shaping sticks. |
@@ -463,7 +465,7 @@ See *Traits* under Character Creation.
 
 ## Signatures
 
-Your Signature is an asterisk on the Trait it springs from: a knack that showed up at your table. You earn one per level in that Approach. (Retainers earn at most **⌊Approach / 2⌋** — see [[Burners Muster]].)
+Your Signature is an asterisk on the Trait it springs from: a knack that showed up at your table. You earn one per level in that Approach. Eldar may earn two per character level instead of one ([[Burners Experience#Eldar]]). (Retainers earn at most **⌊Approach / 2⌋** — see [[Burners Muster]].)
 
 Signatures take four common shapes; the Referee may allow others:
 
@@ -597,6 +599,8 @@ Every Wound puts your footing in question. Roll **`2d6 + Sword` against total wo
 
 If you have nothing to drop (you're unarmed or casting), the Referee swaps a disarm result for a fitting shock instead: a spell guttering out, a lost hold, a wasted breath.
 
+**Mid-tempo disrupt.** This is a general rule for any Action, not a magic rule. A Counterattack — or any blow that lands while you are still in the middle of an Action — that **Wounds** you triggers the Shock Check as usual. **Fail that Shock** and the Action breaks mid-tempo: the attempt is spoiled, unfinished, or goes wide. What that costs depends on what you were doing — a lock spoils, a climb fails, a cast taps with no effect, a careful aim is lost. A blow that already resolved as a simple swing often changes nothing further. A passed Shock means you keep your feet in the act; HP loss alone does not abort it.
+
 #### Going Down
 
 A downed ally is knocked out, not dead — until a coup de grace finishes them, or the fight ends without help (below). Win the fight and get them help.
@@ -662,7 +666,7 @@ If you empty your hand on offense you are caught winded until the next Roll Init
 - **Spark: Man-handle.** Fuel a Spark to "man-handle": shove, grab, trip, or knock down, or otherwise grapple/wrestle with foe. The Referee may provide free defense dice for foes who are hard to man-handle; for example, man-handling a ruffian is easier than wrestling a bear.
 - **Spark: Impale.** When attacking with a Stabbity weapon (dagger, rondel, short sword…), Fuel the Spark to thrust deeper into the same spot; armor does not soak the Fuel you burn to Fuel it.
 - **Spark: Sever.** Only vs foes with **too many parts** — octopus, spider, hydra, swarm-limbs, and the like. When attacking with a Cutty / chopping weapon (poleax, battle ax, greatsword, cleaver…), Fuel the Spark with **1** Fuel to hack off one spare limb or head. That part's attack is gone for the fight. Not for ordinary humanoids (use Wounds / Man-handle). Soft many-part pests may simply drop a segment and flee. A part that is the whole fight (one neck left on a hydra) may be denied or cost more.
-- **Spark: Counterattack.** After a Defend Sparks, Fuel it with another die for an immediate counterattack; that die's face is its damage.
+- **Spark: Counterattack.** After a Defend Sparks, Fuel it with another die for an immediate counterattack; that die's face is its damage. If it **Wounds** and they **fail Shock**, their mid-tempo Action is disrupted (see *Mid-tempo disrupt* under *Wounds*).
 - **Spark: Break Armor.** Break armor so it provides no AC for the rest of the fight. This requires an armor-piercing weapon whose Weapon Class exceeds the armor's AC (WC > AC; see [[Burners Arms and Armor]]). Fuel the Spark with 1 Fuel. Against poor-quality or ruined armor — a skeleton's rusty mail, a rotten shield — the Spark itself is fuel enough.
 
 **Attacking.** You make one attack a round (as a Veteran you make more; see below). Burn one Fuel die; its face is the damage. A weapon of **3+ slots wielded in two hands** can burn a second die. Up to two dice a blow from mundane steel, all burned from your Fuel, their faces together the damage. Against a Burner: **armor AC** soaks first, then Defend, then HP — past 0 the overflow is a Wound. Against a monster: announce the damage; the Referee converts it (see *Monsters* in the glossary). Because armor soaks every blow on the way in, a flurry of small hits is how you cut down an unarmored Burner; heavier steel cracks plated kit. Hunting bows and other 2-slot arms stay one die.

@@ -76,7 +76,7 @@ Death lands after the fight — **unhelped Wound**, **failed Craft survival**, o
 
 ## Earned in play
 
-Traits come with levels; **Signatures**, named gear, and spell learning are **never bought with XP**. They emerge at the table — one Signature per level in that Approach.
+Traits come with levels; named gear and spell learning are **never bought with XP**. Signatures emerge at the table — one per level in that Approach, or two per character level if **Eldar** ([[Burners Experience#Eldar]], [[Burners Ancestry#Eldar]]).
 
 Magic arms and armor are looted or earned, never bought at creation. Magic items grant **0 XP**; the item is the reward. Enchanted = legendary = eldritch: a *+1* is a magic sword. It **accepts** only a matching Trait (no roll) — extra die and powers once found: [[Burners Adventure Game#Enchanted Arms and Armor]]. How you stock and convert them: [[Burners Referee Magic Items]].
 
@@ -182,7 +182,7 @@ Hidden monsters, sealed doors, and lies in the fiction are fair. Hidden *rules* 
 Every die, save, check, and bonus from another game is a **pointer** to a Burners subsystem — not a new mechanic to copy.
 
 | Legacy idea | Burners route |
-|---|---|
+| --- | --- |
 | Ability check | Approach roll (`2d6 +` Approach) |
 | Save vs. hazard | **Defend** (`2d6 +` Approach) vs Cost |
 | Save vs. spell | Fuel **Defend** vs **cast total**; roll initiative if no fight yet |

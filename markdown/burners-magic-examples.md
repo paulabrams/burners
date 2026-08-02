@@ -77,17 +77,25 @@ the caster's Sorcerie level — Craft for Canting — exactly as in the catalog.
 
 #### Animal Bond
 
-- **World.** Touch the miller's hound and it regards you as a trusted companion for
-  Sorcerie months. The working is easy; explaining to the miller why his dog follows
-  you out of town is the fiction, and the Referee prices that, not the cast.
+- **World.** Touch the miller's hound at the hearth — quiet working, no Initiative. It
+  regards you as a trusted companion for Sorcerie months (disposition, not a Muster
+  slot; no suicidal orders). Roll against the Cost if discovery presses; Heat is the
+  miller noticing, the dog following you to the gate, or the bond thinning when you are
+  gone ([[Burners Referee Guide#Hostile magic outside a fight]]). If the hound is
+  already set on you, roll Initiative instead.
+- **Combat.** One Action, at least 1 Fuel. Preferred-speed beasts do not Defend — the
+  cast lands. A Burner's animal with Fuel Defends; overrun makes the bond.
 
 #### Animal Friendship
 
-- **World.** The kennel dogs obey you as well as a trained dog obeys its master, for
-  one day: *down*, *quiet*, *stay*. Getting near enough to cast under the handler's eye
-  is where the risk lives.
-- **Combat.** Cast on beasts already at your throat it is hostile control: each Defends
-  against your cast total, and on overrun the pack stands down for the day.
+- **World.** Kennel dogs, petting, not under attack: they obey as a trained dog for one
+  day — *down*, *quiet*, *stay*. No Initiative. Getting near under the handler's eye is
+  the Cost; Heat is who saw, how thin the hold, or the pack breaking at dawn
+  ([[Burners Referee Guide#Hostile magic outside a fight]]). If the alley is already
+  hot, roll Initiative instead.
+- **Combat.** Beasts at your throat: Initiative first, then one Action and at least 1
+  Fuel. Preferred-speed beasts do not Defend — the pack stands down for the day. A
+  Burner's animal with Fuel Defends; overrun is obedience.
 
 #### Beast Speech
 
@@ -186,9 +194,11 @@ the caster's Sorcerie level — Craft for Canting — exactly as in the catalog.
 
 #### Command
 
-- **World.** *"Sleep,"* to the gate guard. A hostile working with no fight underway
-  still rolls initiative — the whole alley rolls with what it holds — and the guard
-  Defends against your cast total. One word, and nothing that harms him.
+- **World.** *"Sleep,"* to the gate guard over a friendly word at the post. No fight,
+  no Initiative — the word lands; roll **2d6 + Sorcerie** against the Cost, and Heat
+  carries notice, a thin hold, or later reckoning ([[Burners Referee Guide#Hostile magic
+  outside a fight]]). One word, and nothing that harms him. If the alley is already hot,
+  roll Initiative instead.
 - **Combat.** *"Flee."* *"Drop."* *"Kneel."* One Action, at least 1 Fuel, Defend and
   overrun as any control.
 
@@ -241,15 +251,17 @@ the caster's Sorcerie level — Craft for Canting — exactly as in the catalog.
 
 #### Bewitch
 
-- **World.** The clerk believes you are a close friend — a disposition, not a command
-  and not a Muster slot. He waves you past the anteroom; he will not open the
-  strongroom, betray his master, or forget his duty, and asks against his interest run
-  through Influence as with any friend. Proven otherwise — your knife at his ledger —
-  and the friendship ends.
-- **Combat.** Direct control is hostile even in a parlor: initiative rolls, you spend
-  at least 1 Fuel for the cast total, the target Defends (an adjacent Sorcerer may
-  Ward), and only overrun makes the friendship. The sharper's failed charm in
-  [[Burners Examples of Play]] runs the whole procedure.
+- **World.** Over a friendly talk, the clerk believes you are a close friend — no
+  Initiative, no Defend. Cast against the Cost; Heat is who noticed, how thin the hold
+  is, and what he does when it lifts ([[Burners Referee Guide#Hostile magic outside a
+  fight]]). Disposition, not a command and not a Muster slot: he waves you past the
+  anteroom; he will not open the strongroom, betray his master, or forget his duty, and
+  asks against his interest run through Influence as with any friend. Proven otherwise —
+  your knife at his ledger — and the friendship ends. If the room is already hot, roll
+  Initiative instead.
+- **Combat.** One Action, at least 1 Fuel for the cast total; the target Defends (an
+  adjacent Sorcerer may Ward), and only overrun makes the friendship. The sharper's
+  failed charm in [[Burners Examples of Play]] runs the whole procedure.
 
 #### Blur
 
@@ -276,9 +288,10 @@ the caster's Sorcerie level — Craft for Canting — exactly as in the catalog.
 
 #### Befuddle
 
-- **World.** The steward will remember nothing of the next Sorcerie turns — but
-  unmaking a mind is hostile even in his own study: initiative rolls, and he Defends
-  against your cast total before the working takes him.
+- **World.** Over wine in his own study, the steward will remember nothing of the next
+  Sorcerie turns — quiet working, no Initiative; Heat prices the gap someone else may
+  notice, or what he does when the fog lifts ([[Burners Referee Guide#Hostile magic
+  outside a fight]]). If you force it under threat, roll Initiative and he Defends.
 
 #### Cloak of Shadows
 

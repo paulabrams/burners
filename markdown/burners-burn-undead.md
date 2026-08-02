@@ -57,7 +57,7 @@ The hard ask is your own. Anyone the Fallen slew may look only dead — a friend
 Prefer the monster's **printed XP** from the [OSE SRD](http://oldschoolessentials.necroticgnome.com/srd/index.php) (or the full [Awarding XP](http://oldschoolessentials.necroticgnome.com/srd/index.php/Awarding_XP) table: base by HD + bonus per `*` ability). The short HD→XP chart in [[Burners OSE Conversions]] is a coarse shortcut — e.g. it lists HD 3 as 60, but a [Wight](http://oldschoolessentials.necroticgnome.com/srd/index.php/Wight) is HD `3*` and **XP 50**.
 
 | Use from OSE | Do not use from OSE |
-|---|---|
+| --- | --- |
 | HD → **Monster Stack** (2 × HD cards, face-down / face-up); **printed XP** (or HD + `*` table) | Energy drain (levels lost) |
 | AC → hint for **face mix** only | Cleric Turn Undead as written |
 | Attacks / damage die → quote weight / claw slots | Anything that contradicts fire / Fallen Wound |
@@ -67,7 +67,7 @@ Prefer the monster's **printed XP** from the [OSE SRD](http://oldschoolessential
 **Husk or Major Fallen?** OSE name tells Midnight deepen (XP from SRD):
 
 | OSE | HD | XP (SRD) | Band | Midnight deepen |
-|---|---|---:|---|---|
+| --- | --- | ---: | --- | --- |
 | Skeleton | 1 | 10 | Husk | +1 |
 | Zombie | 2 | 20 | Husk | +1 |
 | Ghoul | 2\* | 25 | Husk | +1 (paralysis stays if you want it) |
@@ -84,4 +84,4 @@ Prefer the monster's **printed XP** from the [OSE SRD](http://oldschoolessential
 - printed award of the nearest whole monster, or
 - build it: HD base + one bonus per special ability you keep (`*` on the Awarding XP table).
 
-**Example — Lothian A4 Draugr:** **Monster XP 500** (keyed; HD 5 shell, not stock wight / not OSE vampire). Payday: coffin + lung vault listed gp at **1 XP per 1 gp**. Party said vampire; pinholes = sleeper clue. Fallen Wound, not level drain.
+**Example — Lothian A4 Draugr:** **Monster XP 35** (husk, crab-band — armor + two d6; not wight/vampire shelf). Payday: coffin + lung vault listed gp at **1 XP per 1 gp**. Party said vampire; lean and pinholes, not printed specials. Fallen Wound, not level drain.

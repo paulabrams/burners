@@ -14,11 +14,11 @@ hero_alt: "The faithful beasts — H. J. Ford"
 > - **Themes** — feed your Burners **Theme**: your name or alias and a short "look" (*"Alu'Kel — desert screamer"*). Also a mine for Traits.
 > - **Traits** — take as Burners **Traits**, each tagged to an Approach. Up to four per character level, backfilled as you go.
 > - **Assets** — gear. Buy from [[Burners Equipment]]; exotic pieces are in [[Burners Arms and Armor]], with **Slots** assigned there.
-> - **Signatures** — powers and named edges earned in play — see [[Burners Principles#Earned in play]]. Spells that are plainly spells are learned through [[Burners Sorcerie]] / [[Burners Spells]] instead.
+> - **Signatures** — powers and named edges earned in play — see [[Burners Principles#Earned in play]]. Eldar may earn two per character level instead of one (see *Eldar* below). Spells that are plainly spells are learned through [[Burners Sorcerie]] / [[Burners Spells]] instead.
 > - **Gifts** (Drisi, Karrock) — take a **Gifts Signature**; each gift manifested is an innate Asset while it shows.
 > - **Signature Assets** — name items in play, never at creation (see [[Burners Arms and Armor]]).
 > - **Hooks** — hand one to the Referee. It is a lever, and levers get pulled.
-> - **Paths** — goals and quests. XP stays OSE only — see [[Burners Principles#Earned in play]]. A completed Path pays off in fiction, Traits, or a Signature emerging.
+> - **Paths** — goals and quests. Advancement is on [[Burners Experience]]. A completed Path pays off in fiction, Traits, or a Signature emerging.
 
 ---
 
@@ -29,6 +29,12 @@ The following set of character "ancestries" are recommended choices for your cha
 You are recommended to choose one of them. This provides you with a ready-made distinctive "look" and cultural heritage that fits into the campaign setting, and keeps it simple for other players to understand and relate to you.
 
 However, if you have a creative idea of your own then feel free to discuss it with the Referee. Some players have created truly unique characters such as a "winter wolf" or "baby platinum dragon". This can be a very challenging roleplaying experience. If you choose to do this then you are recommended to create close tie-ins to at least one other character to help you integrate with the fantasy world.
+
+### Eldar
+
+Northmarens and Southmarens use the ordinary XP column on [[Burners Experience]] — one Signature per character level, earned in play.
+
+**Eldar** are the older peoples: Æthiiri (Elves), Illythrhi, Alu, Avathar, Baal, Drisi, Dwür, Karrock, Kith, Vôzen, and kin. They use the Eldar column (double XP). They may earn two Signatures per character level instead of just one. Ancestry is what lets those Signatures be gifts a mortal cannot claim: low light, charm, sleep, and the like. Full note: [[Burners Experience#Eldar]].
 
 ## Northmarens
 
@@ -81,6 +87,8 @@ Southmaren nobles are most often found in the major cities of Aquila and Madriga
 ## Æthiiri (Elves)
 
 The Aethiiri (Elves) are beautiful hallowed Eldar of light, filled with sacred magic of the stars, moons, and music. Most Elves manifest aspects of the gods Lunara and Hirminel to the extent that being "Hallow" is often confused with being Elven, and some Elves have a visible silver halo. Elves are extraordinarily perceptive, and can see, feel, and find things invisible to mortal eyes. When they find people who are pure of heart they name them "Elf-friends", and help them follow their call to become hallow servants of light. However, when Elves find hidden darkness they purge it with silver arrow and flaming sword, just as they have always confronted evil across the aeons, such as Kha'din daemons, Deurg'gul undead of Sepulcher, fallen "dark" Elves, and fallen Wyrms. As a result, Elves traveling in the young kingdoms are met with mixed feelings of awe, wonder, and fear that they might find an imperfection in mortal hearts. This fear means some kingdoms do not welcome them at all.
+
+*Eldar — double XP, two Signatures per character level instead of one; see [[Burners Experience#Eldar]].*
 
 **Elven Names:** Aegnor, Aerandir, Anarion, Anar, Annael, Aradan, Aranwe, Elros, Eluchil, Lenwe, Maglor, Aerin, Diora, Luthien, Morwen, Ilmare, Laurelin, Niniel, Rian. Surnames: Meadowbrook, Moonshadow, Blackthorn, Whitefeather, Harplight.
 

@@ -20,23 +20,23 @@ The clocks already match: OSE turns and rounds are Burners turns and rounds. Dur
 - **Reaction rolls (2d6)** — as written; a character leading the parley adds **Heart**.
 - **Number Appearing, Treasure Type, coin values** — as written; prices are already gold-denominated. Treasure Type hoards convert to gp as written; award **1 XP per gp** when the crew **claims** the haul (see [[Burners Experience]]).
 - **Movement rates** — read as relative speed and reach; resolve in fiction and zones.
-- **XP** — OSE awards for slain monsters (by HD) and treasure when claimed (1 XP per gp). Magic items: no XP. See [[Burners Experience]] and the table below.
+- **XP** — OSE awards for monsters overcome (by HD) and treasure when claimed (1 XP per gp). Magic items: no XP. Eldar use the double-XP column. See [[Burners Experience]] and the table below.
 
 ---
 
 ## XP Awards
 
-Burners uses OSE XP awards layered on its own level table (see [[Burners Experience]]). Port treasure types and coin values as written; award treasure XP when the haul is **claimed**. Shares: [[Burners Experience]].
+Burners uses OSE XP awards layered on its own level table (see [[Burners Experience]]). Port treasure types and coin values as written; award treasure XP when the haul is **claimed**. Shares: [[Burners Experience]]. Eldar use the double-XP column.
 
 | Source                     | Award                                                                           |
 | -------------------------- | ------------------------------------------------------------------------------- |
-| **Monster slain**          | XP by Hit Dice (table below)                                                    |
+| **Monster overcome**       | XP by Hit Dice (table below)                                                    |
 | **Coins, gems, jewelry**   | 1 XP per 1 gp when claimed                                                      |
 | **Magic items**            | 0 XP — the item is the reward                                                   |
 | **Goods & equipment**      | Sale value in gp, when sold                                                     |
 | **Exploration (optional)** | Small crumb — Referee tunes on the monster XP scale; see [[Burners Experience]] |
 
-Spend banked XP to gain a level only in civilization (see [[Burners Experience]]).
+Level when you next sleep somewhere safe after your XP crosses a tier (see [[Burners Experience]]).
 
 ### Monster XP by Hit Dice (OSE)
 

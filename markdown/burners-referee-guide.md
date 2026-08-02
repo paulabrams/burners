@@ -35,6 +35,22 @@ Heat is scene pressure and Cost, not the enemy Initiative dish. Foes roll a **gr
 
 ---
 
+## Hostile magic outside a fight
+
+Burners has no spell save. In a fight, a Burner **Defends** the cast total with Fuel; overrun lands harm or control ([[Burners Sorcerie]]). Ordinary folk and monsters at preferred speed have no Fuel — they do not get a free Defend.
+
+**Out of combat the working lands.** The caster rolls **`2d6 + Sorcerie`** (Craft for Canting) against your Cost. Shortfall is Heat (and noise, time, or a Spicy twist when that fits). Heat is what used to be the save: bank it and spend when the consequence fits.
+
+**Friendly conversation.** Control and charm aimed at a willing talker — *Bewitch*, *Command*, *Charm Person* from a module — may be cast without starting combat and without rolling Initiative. The mark is charmed (or obeys the word) as the spell says. Spell fiction still holds: no suicidal orders, habits and duty can balk, a friend still will not open the vault.
+
+**Otherwise, roll Initiative.** Ambush, argument going hot, steel already out, the mark already suspicious — the working is an opening blow. Roll Initiative; Burners Defend; preferred-speed monsters still do not. The caster gains no free first strike.
+
+**Spend Heat on the charm's aftermath.** Someone noticed (another guard, a townsman). The hold is thin — breaks tomorrow, or at the next watch change. When it lifts, the mark wants justice or revenge. Duration, witnesses, and later heat are your spend; do not ask for a second save.
+
+Worked table rulings for every 1st-level spell: [[Burners Magic Examples]].
+
+---
+
 ## Running the Delve
 
 The exploration turn is one World Turn — ten minutes. Each turn runs the same short loop:
@@ -334,7 +350,7 @@ Do this at the door, not room by room. Three lines in your notes before the sess
 
 The party begins in a safe town, which is a haven but not a home base and not theirs. It offers lodging, food, supplies, law, healing, and rumors: a place to cool off, re-equip, mend wounds, and hear where trouble lies. The party are guests on someone else's ground, and the town has its own authorities and life. Adventures spiral out from it and back to it, and a party may later earn or build a true home base of their own.
 
-**Level here.** XP banks in the field; characters spend it to gain a level only in civilization — this town, another haven, or a place where they can train and rest. Mid-delve rank-ups do not happen. Rare emergencies are your call.
+**Level on a safe sleep.** XP banks in the field; characters take a level when they next sleep somewhere safe — town, inn, watched camp — after their total crosses a tier. Not in the press. Rare emergencies are your call. See [[Burners Experience]].
 
 **Exploration crumbs (optional).** A small XP award for a wilderness hex newly mapped or a dungeon room meaningfully explored rewards poking and mapping without replacing treasure. Tune the number; there is no fixed crumb.
 

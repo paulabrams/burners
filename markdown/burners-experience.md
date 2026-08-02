@@ -7,113 +7,66 @@ hero_alt: "A knight returns laden — crossbow, sword, and loot — Albert Robid
 
 # Burners Experience
 
-*Kill it. Take it. Level in town.*
+*You keep what you kill.*
 
-You buy character level from the XP table below. You never buy Traits, Signatures, or spell learning with XP. You earn by overcoming monsters and claiming treasure. Magic items grant **0 XP** — the item is the reward (see [[Burners Principles#Earned in play]]).
+XP for treasure claimed and monsters overcome. The Referee keeps the totals.
 
-Town is where you spend coin and buy levels — not the XP gate.
+**Level up** when your XP hits the next line on the table, the next time you wake after sleeping somewhere safe (town, inn, watched camp). Put one level in one Approach. Reroll HP (one d6 per character level) and keep the higher of the new total or old+1. See *Approach Level* and *HP* in [[Burners Adventure Game]].
 
----
+Claiming the haul pays the XP. Coin in your purse is for spending — kit, drink, retainers. That is its own reward.
 
-## Awards
+| Level | XP | Eldar XP |
+| --- | ---: | ---: |
+| 1 | 0 | 0 |
+| 2 | 2,000 | 4,000 |
+| 3 | 4,000 | 8,000 |
+| 4 | 8,000 | 16,000 |
+| 5 | 16,000 | 32,000 |
+| 6 | 32,000 | 64,000 |
+| 7 | 64,000 | 128,000 |
+| 8 | 120,000 | 240,000 |
 
-| Source | Award |
-|---|---|
-| **Monster overcome** | XP by Hit Dice (killed, routed, or otherwise neutralized). Prefer the monster's printed OSE XP; short chart in [[Burners OSE Conversions#Monster XP by Hit Dice (OSE)]]. |
-| **Coins, gems, jewelry** | **1 XP per 1 gp** when **claimed** |
-| **Goods, art, equipment** | Sale value in gp, when sold |
-| **Magic items** | **0 XP** — the item is the reward |
-| **Exploration (optional)** | Small crumb per wilderness hex newly mapped or dungeon room meaningfully explored — on the monster XP scale |
+Totals are cumulative.
 
-**OSE treasure values.** Port coin, gem, and jewelry values as written. The Referee sets each find's gp once — now or later. Unknown gp does not block the award once the haul is claimed.
+**Treasure.** 1 XP per 1 gp when claimed — coin, gems, jewelry, goods, art.
 
----
+**Monsters.** When you overcome them — killed, routed, or otherwise put down. The Referee sets the XP.
+
+**No award.** Magic items, keeps, ships, and the like — you got the thing.
+
+## Eldar
+
+[[Burners Ancestry|Eldar]] use the Eldar column (double XP). Two Signatures per character level instead of one, still earned in play. Ancestry is why those can be gifts a mortal cannot take (low light, charm, sleep, and so on).
+
+## Who gets a share
+
+Per fight and per claim — not per game night.
+
+- **Monster:** who was there when it went down. Left before, or walked up after: no cut.
+- **Treasure:** who was there when it became party loot.
+
+Split that pot evenly (Burners and retainers on the job). Mustering retainers keep a full share ([[Burners Muster]]). Others keep half; throw the rest away. Do not put half-shares in the divisor.
+
+Treasure **pay** is separate: living retainers expect a half-share of the coin. If the crew skips them, the Referee says so ([[Burners Muster]]).
 
 ## Claimed treasure
 
-Treasure XP lands only when the table has made the haul **party loot**. One of these is enough:
+No XP until the haul is party loot. One of these is enough:
 
-1. **Taken and named** — “we take the coin bag / the caskets / the torc”
-2. **Counted or asked** — “how much is in it?” / split / sold
-3. **Stowed as party loot** — bag, mule, hireling, Gudmund lock-up, inn room
+1. Taken and named — “we take the coin bag, the caskets, the torc.”
+2. Counted or asked — “how much is in it?”
+3. Stowed as party loot — bag, mule, hireling, lock-up, inn room.
 
-If they kill the thing and walk away without saying they keep the jewelry, there is no treasure XP for it. Do not invent claims.
+Leave it on the floor and it was never claimed. Asking the price later does not change who was there. What you do with the coin later does not change who earned the XP.
 
-**Asking the price later does not change who earned it.** The roster is whoever was present when it became party loot — not who asked the total afterward.
+The Referee sets each find's gp once, now or later. Unknown gp does not block the claim.
 
-How the players later spend or store the physical loot does not change who earned the XP.
+## Part out
 
----
+Optional: strip a kill for salvage (hide, tusks, and so on). The Referee sets the gp. Claim it and it pays like any other treasure; leave it on the beach and it pays nothing. No second monster XP for the same foe.
 
-## Who Gets the XP
+## Who tracks what
 
-Awards are **per scene**. Characters have no sessions — only scenes (a fight, a claim, the road between). “Session” / game night is a table label for when you wrote the note.
+**Referee.** XP per Burner and retainer. Who was there for each fight and claim. Tell a player their total when they ask. After you describe a find, do not re-list the treasure for the players. Speak for retainers owed a cut.
 
-- **Monster:** whoever is present for that fight (when the foe is overcome). Left before the fight, or arrived after it ended → no share.
-- **Treasure:** whoever is present when the haul is **claimed**. Arrived after it was already bagged → no share of that claim.
-
-Split that scene's pot **evenly among everyone present** (PCs and delving retainers). **Mustering** retainers keep a **full** share ([[Burners Muster]] — Boss plays them). Retainers **not** Mustering keep **half** of their award (OSE); the other half is discarded. Do **not** count anyone as a half-share in the divisor.
-
-Treasure **pay** is separate: living retainers still expect a **half-share of the coin** taken — see [[Burners Muster]]. If the players do not offer it, the Referee speaks for them.
-
-The leaderboard is **earned XP** only — what already counts toward level.
-
----
-
-## When to write it down
-
-Award in the scene when you can. If you batch notes after game night, still list **each scene** with **who was there for that scene** — not one roster for the evening.
-
-Quick check: overcome? claimed? still lying there? — per fight / per haul.
-
-Prefer ending in town or writing absentees out when you can, so mid-night arrive/leave is rare.
-
----
-
-## Part Out
-
-Players may optionally **part out** a monster for extra wealth. Value as treasure. XP only as gp when claimed (or when sold, for goods). No second award on top of the monster's XP.
-
----
-
-## Exploration (optional)
-
-Small crumb per hex newly mapped or room meaningfully explored. Monster XP scale — never the main driver.
-
----
-
-## When You Spend It
-
-XP banks as you earn it. Buy a character level only in civilization. Mid-delve rank-ups do not happen. Rare emergencies are the Referee's call.
-
-| Character level | XP |
-| --- | --- |
-| 1 | 0 |
-| 2 | 2,000 |
-| 3 | 4,000 |
-| 4 | 8,000 |
-| 5 | 16,000 |
-| 6 | 32,000 |
-| 7 | 64,000 |
-| 8 | 120,000 |
-
-Every level is one Approach point — see *Approach Level* in [[Burners Adventure Game]]. Retainers level on this table in civilization ([[Burners Muster]]).
-
----
-
-## Who Tracks What
-
-### Referee
-
-- Track earned XP per PC and retainer.
-- Per scene: what was overcome or claimed, and who was present for **that** scene.
-- Give a player their PC's XP when they ask.
-- Track treasure found or potential — location, gp, hidden detail — in your notes.
-- After the find is described, do not re-list treasure for the players.
-- Speak for retainers skipped on their fair cut ([[Burners Muster]]).
-
-### Players
-
-- Track treasure found and how you dispose of it.
-- Track spends.
-- Unlogged finds are not available to spend until you account for them. Own the ledger.
+**Players.** Track what you took, how you split or stowed it, and what you spent. Unlogged finds are not available to spend until you account for them.

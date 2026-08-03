@@ -28,11 +28,11 @@ Claiming the haul pays the XP. Coin in your purse is for spending — kit, drink
 
 Totals are cumulative.
 
-**Treasure.** 1 XP per 1 gp when claimed — coin, gems, jewelry, goods, art.
+**Treasure.** 1 XP per 1 gp when claimed — coin, gems, jewelry, goods, art. Not strips off a carcass (see *Part out*).
 
 **Monsters.** When you overcome them — killed, routed, or otherwise put down. The Referee sets the XP.
 
-**No award.** Magic items, keeps, ships, and the like — you got the thing.
+**No award.** Magic items, keeps, ships, and the like — you got the thing. Monster parts (hide, tusks, pelts, ivory): may sell for gold or be useful as kit; **never XP**.
 
 ## Eldar
 
@@ -63,7 +63,7 @@ The Referee sets each find's gp once, now or later. Unknown gp does not block th
 
 ## Part out
 
-Optional: strip a kill for salvage (hide, tusks, and so on). The Referee sets the gp — that is purse money when you claim or sell it, **not XP**. Monster XP is the fight; parts do not pay again. (Otherwise every carcass becomes an XP farm.)
+You may strip a kill for salvage — hide, tusks, ivory, and so on. Some of it sells (the Referee sets the gp). Some of it is just useful — rope from sinew, a shield from shell, oil from blubber, a reagent in the sack. Either way: purse or kit, **not XP**. The fight already paid; cutting the carcass does not pay again.
 
 ## Who tracks what
 

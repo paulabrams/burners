@@ -230,10 +230,8 @@ one of those forms — goat-horn hat, bone amulet, cracked crystal.
 3. **Tap the card.** An instant working goes to your discard as it resolves. A lasting
    working stays **in play** for its duration, then joins the discard.
 
-The caster is exposed like anyone taking an Action; struck mid-cast, Defend as usual (1 die
-if you have not meleed this round). HP loss alone does not abort the working. If the blow
-**Wounds** you and you **fail the Shock Check**, the cast is disrupted mid-tempo — the card
-taps with no effect (see *Mid-tempo disrupt* under *Wounds* in [[Burners Adventure Game]]).
+Casting in reach may invite a **Counterattack**. Struck mid-cast, Defend and mid-tempo disrupt as in
+[[Burners Adventure Game]].
 
 **When a cast Sparks.** Fuel it with one or more additional Fuel dice, up to SL, and
 burn that Fuel on the *working itself* — another target caught, a beat longer, a ward

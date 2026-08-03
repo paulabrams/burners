@@ -17,7 +17,7 @@ hero_alt: "Travelers on the road — Albert Robida"
 **Crew** (all character level 1 — one Approach point, four Traits, HP = 1d6 rolled):
 
 | Burner | Approach | HP | Held | Fuel on the Initiative roll |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | **Kragg** | Sword 1 (Veteran) | 4 | war-axe (3 slots, 2-handed, enchanted), gambeson (AC 2) | 4 empty + 3 axe + 1 level = **8** |
 | **Sefa** | Craft 1 (Journeyman) | 3 | leather (AC 1); **silvered knife** (1 slot) once looted | 4 empty + 1 knife + 1 level = **6** |
 | **Brand** | Heart 1 (Boss) | 5 | sword (2), leather (AC 1) | 4 empty + 2 sword + 1 level = **7** |
@@ -121,7 +121,7 @@ Threat overcome → **vent 2 → Heat 7.**
 - **One roll out of combat:** `2d6 + Approach` vs Cost. Traps — see [[Burners Principles#Pools, not fixed numbers]].
 - **Fuel is rolled on each Roll Initiative** — full pool on round 1; from round 2 on, refill one Fuel die per character level and roll those in. PC Initiative = count of 3s and 4s. Enemy groups: **1d6** each round (not Heat, not HD + weapon). Round 1 surprise: monsters first or last, no d6.
 - **Damage you announce; the Referee converts.** Hits = ⌈damage ÷ 5⌉; closed → −1, always (armor is one card of soak). Claim the **right tool** to burn one extra Fuel into the blow (its face adds to damage). Face-down first, then face-up. **Cracked!** = last face-down gone (signal; the −1 ends). Dead = pile gone. See [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]].
-- **Defense (Burners):** melee 1 die (no limit once you have meleed this round); missile 1 die (2 with Cover); magic no limit. **Block** / **Cover** as in Combat. Monsters at speed have **no free Defend**.
+- **Defense (Burners):** melee 1 die (no limit once you have meleed this round); missile 1 die (2 with Cover); magic no limit. **Block** / **Counterattack** / **Cover**: [[Burners Adventure Game]]. Monsters at speed have **no free Defend**.
 - **The Wound model:** see [[Burners Principles#HP is plot armor; past 0 it gets real]].
 - **Casting is the same economy:** Ilsa's *Adhere* was one Action, one Fuel die for the **cast total**; the card **tapped**; control stuck the arm — no Hits. Sleep recovers up to Sorcerie Level cards.
 - **Closed shell vs right tool:** mundane steel chipped face-down slowly — the −1 stood until the last face-down popped. Once Cracked, silver and its extra die finished the face-up meat. Sorcery solved the arm; steel and silver killed. **Sorcerers solve; fighters kill.**
@@ -152,7 +152,7 @@ Threat overcome → **vent 2 → Heat 7.**
 The sharper casts a working at Brand. **A hostile spell is an attack: roll initiative.** He gains no free first strike for starting it — the whole room rolls with what it holds *right now*.
 
 | Side | Fuel pool | Initiative |
-|---|---|---|
+| --- | --- | --- |
 | **Kragg** (tankard, axe on back) | 4 empty + 1 level = **5** | **3** (three 3s/4s) |
 | **Sefa** (knife in boot — a holdout) | 4 empty + 1 level = **5** | **1** |
 | **Brand** (sword at hip, not in hand) | 4 empty + 1 level = **5** | **1** |

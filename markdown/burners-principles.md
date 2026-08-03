@@ -28,7 +28,7 @@ Player skill decides whether the world bends; your Approach decides only how muc
 Burners has no save-or-die. Endurance is **Defend** — a graded contest, not a gate you pass or fail.
 
 - **Out of combat**, a hazard is **`2d6 +` the fitting Approach** against the Referee's Cost. You may soften the price, bear it whole, or dodge it clean — but the outcome is a matter of degree, not a single on/off switch.
-- **In combat**, blows land. A Burner's armor soaks incoming damage first; then you **burn Fuel dice** and cut what remains by their faces. Anything left comes off HP. Unlimited Defend (once you have meleed), Cover (2 dice vs missiles), Block (redirect onto yourself), and Counterattack are ways to answer a blow — not a roll that erases the hit. Monsters take damage on their **Monster Stack** (2 × HD cards) — face-down first, then face-up (Referee speed).
+- **In combat**, blows land. A Burner's armor soaks incoming damage first; then you **burn Fuel dice** and cut what remains by their faces. Anything left comes off HP. Defend, Cover, Block, Counterattack — full rules in [[Burners Adventure Game]] — are ways to answer a blow, not a roll that erases the hit. Monsters take damage on their **Monster Stack** (2 × HD cards) — face-down first, then face-up (Referee speed).
 - **Hostile magic** uses the same Fuel economy as steel. The caster's **cast total** (sum of faces spent to cast) opposes your **defense total** (sum of faces you commit). Partial defense means partial effect: **overrun** = cast − defense, applied as harm to HP *or* as the spell's hold — never both. There is no "save for half" — you defended as well as your dice allowed.
 
 A binary save asks *did you avoid it?* Burners asks *how much did you stop, and what is left?*

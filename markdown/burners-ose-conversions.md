@@ -7,20 +7,11 @@ hero_alt: "A knight rides toward the distant keep — Lancelot Speed"
 
 # Burners ↔ OSE Conversions
 
-Every OSE conversion follows [[Burners Principles]]. The routing tables below are the OSE-specific application.
+In the spirit of *The White Hack*, *The Black Hack*, and *The Black Sword Hack*, this is **the Burners Hack**. Use the original roleplaying game — through the lens of how [Old-School Essentials](https://oldschoolessentials.necroticgnome.com/srd/index.php) has cleaned it up — **unless Burners says otherwise**. Modules, treasure types, morale, reaction, turns, and the rest come in as written; this page is the routing table for where the Hack replaces or reframes a piece. Every conversion also follows [[Burners Principles]].
 
-The clocks already match: OSE turns and rounds are Burners turns and rounds. Durations and light burn as written (torch 6 Turns / one hour-cycle, lantern 24 per flask; candles on [[Burners Equipment]]). Wandering monsters: [[Burners Referee Guide#Turn Tracker]] — always 1-in-6; roll on even turns and again when noise, dark, or wounds fire. OSE's plain check every other turn is the time signature. OSE's "rest one turn every hour or −1 to hit" is not used; Burners recovers HP with an [[Burners Adventure Game#Wounds|Hour Rest]] (a full quiet cycle, food and water, unwounded) instead.
+**Clocks.** OSE turns and rounds are Burners turns and rounds. Durations and light burn as written (torch 6 Turns / one hour-cycle, lantern 24 per flask; candles on [[Burners Equipment]]). Wandering monsters: [[Burners Referee Guide#Turn Tracker]] — always 1-in-6; roll on even turns and again when noise, dark, or wounds fire. OSE's plain check every other turn is the time signature. OSE's "rest one turn every hour or −1 to hit" is not used; Burners recovers HP with an [[Burners Adventure Game#Wounds|Hour Rest]] (a full quiet cycle, food and water, unwounded) instead.
 
----
-
-## What Ports Unchanged
-
-- **Turns (10 min) and rounds (1 min)** — all durations as written.
-- **Morale (2–12, checked on 2d6)** — use the module's score directly. A Boss's arts work on it as usual. When to check and what breaking looks like: [[Burners Referee Guide#Morale — when the other side quits]].
-- **Reaction rolls (2d6)** — as written; a character leading the parley adds **Heart**.
-- **Number Appearing, Treasure Type, coin values** — as written; prices are already gold-denominated. Treasure Type hoards convert to gp as written; award **1 XP per gp** when the crew **claims** the haul (see [[Burners Experience]]).
-- **Movement rates** — read as relative speed and reach; resolve in fiction and zones.
-- **XP** — monsters overcome and treasure **claimed** (1 XP per gp). Magic items: no XP. Monster parts (hide, tusks, and so on): gold or kit, **not XP**. Eldar use the double-XP column. Full procedure: [[Burners Experience]].
+**Default (keep as written).** Morale (2–12 on 2d6); reaction (2d6 — add **Heart** if a Burner leads the parley); number appearing; Treasure Type and coin values; movement as relative speed. Treasure XP and shares: [[Burners Experience]] (claimed haul, magic 0 XP, monster parts not XP, Eldar column).
 
 ---
 

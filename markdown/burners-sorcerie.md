@@ -131,11 +131,12 @@ working.
 
 Your hand starts **empty**. Grow the book the same way any Sorcerer does:
 
-1. **Find** a grimoire (or a teacher) whose hand you can read (*Learning Spells*).
-2. **Carry** it to redraw and cast from those pages.
+1. **Find** a grimoire whose hand you can read (*Learning Spells*), **or** pay a teacher
+   (**1,000 gp × level** — they choose what you learn).
+2. **Carry** a found book to redraw and cast from those pages.
 3. **Scribe** what you mean to keep into your personal book — **no gp per spell**, only
-   downtime (see *Spellbooks*). The written source page is still destroyed when you copy
-   it in.
+   downtime (see *Spellbooks*). Written source pages are still destroyed when you copy
+   them in.
 
 ***Read Magic* is not required to learn.** The Referee should put a path to a first
 working in reach soon after the title turns on.
@@ -426,21 +427,25 @@ Your deck is a book, and a book can be lost.
   and swap — memorize from the book at hand. Drop it or leave it in town and those spells
   leave your ready library until you recover the source or scribe them into your own book.
   Each found grimoire you keep for redraw is another slot.
-- **Moving a spell into your book.** Copy it into your **personal spellbook**: about a
-  week × its level, plain ink, **no gp**. No roll. **This destroys the written source**
-  you copied from (page, exemplar, or scroll unmade into the book). A living teacher is
-  not destroyed; you still spend the time. You need a personal book first (starters get
-  one; latecomers buy a blank at **25 gp**). **Slot note:** your personal book is still
-  **1 slot** (physical or Sorcerie) no matter how many spells it holds. Scribing
-  consolidates pack space — time buys that, not gold per spell.
+- **Moving a spell into your book.** Copy it into your **personal spellbook** from a
+  source you can already read (found page, scroll unmade, or a working a teacher just
+  showed you): about a week × its level, plain ink, **no gp**. No roll. **This destroys
+  the written source** you copied from (page, exemplar, or scroll). A living teacher is
+  not destroyed. You need a personal book first (starters get one; latecomers buy a blank
+  at **25 gp**). **Slot note:** your personal book is still **1 slot** (physical or
+  Sorcerie) no matter how many spells it holds.
 - **Copies within your library** — a spare of a book you already own: **25 gp × level**
   and a day × level; your first book is not destroyed.
+- **Lost book (no source).** Rewrite what you already knew: **1,000 gp × level** and one
+  week × level per spell — same rate as paid tutoring, sole focus (OSE lost-book rewrite).
 
 | Item | Slots | Cost (gp) |
 | --- | --- | --- |
 | Spellbook, blank (physical or Sorcerie) | 1 | 25 |
 | Scroll case | 1 | 5 |
-| Move a spell into your personal book | — | 0 (time only) |
+| Move a spell into your personal book (from a source) | — | 0 (time only) |
+| Ask a teacher to teach you something | — | 1,000 × level |
+| Lost book — rewrite one known spell | — | 1,000 × level |
 | Reagent inks (copy within your library) | — | 25 × level |
 | Make a scroll | 1 | 100 × level |
 | Brew a potion | 1 | 100 × level |
@@ -454,12 +459,18 @@ Your deck is a book, and a book can be lost.
 - **A people-school** needs its **Trait**. Hold *Vitae*, *Umbrakala*, and so on, and that
   tradition's books are open: you see the workings, memorize, and scribe. The Trait is
   enough — you do not cast *Read Magic* to study your own school's grimoires.
-- **Living teacher.** They show you a working; you scribe it into your personal book (time
-  as above, no gp). The teacher is not destroyed.
 - **Found books.** Loot a spare grimoire, take Sorcerie 1 if you lack it, **buy a blank
   personal book** if you have none, carry the find, redraw, then scribe what you keep for
-  free. That is the usual road for someone who was not apprenticed at creation — costlier
-  than starting as a Sorcerer because the apprentice kit is gone.
+  free (time only). That is the usual road for someone who was not apprenticed at creation
+  — costlier than starting as a Sorcerer because the apprentice kit is gone.
+- **Ask a teacher to teach you something** — a standard town buy when a willing tutor
+  exists. **1,000 gp × the spell's level**, about a week. **You do not pick the working** —
+  the teacher (Referee) chooses what they teach, within a school hand you can learn. Then
+  scribe it into your personal book (time only; teacher not destroyed). Want a *named*
+  spell? Hunt a book or scroll. Want any foothold fast? Pay and take what they give you.
+- **Favor / quest teachers.** A hedge-wizard who owes you, or teaching as the price of a
+  bargain, is fiction — no shop rate. Still: they choose what they show, unless the deal
+  names a working.
 
 *Read Magic* is for **magic items** (and opaque loot you cannot already read) — see
 *Reading Magic* below. It does not enroll you in a school or put a card in your deck.

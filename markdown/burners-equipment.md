@@ -177,7 +177,7 @@ Want something not on these tables? You can use classic old school roleplaying g
 - **Provisions:** 1 gp per meal for the group.
 - **Ranged weapons** and **silver** (and other special materials) add a surcharge when you invent a new piece.
 - **Field and full plate** are not slot-formula items — see *Armor*.
-- **Wizard Drip** (costume): **100 gp apiece** in town; enchanted drip is found or earned — see [[Burners Sorcerie]]. Scrolls and potions are crafted at **100 gp × level**.
+- **Wizard Drip** (costume): **100 gp apiece** in town; enchanted drip is found or earned — see [[Burners Sorcerie]]. Scrolls and potions are crafted at **100 gp × level**. **Ask a teacher to teach you something:** **1,000 gp × spell level** (teacher chooses the working) — see *Learning Spells* on [[Burners Sorcerie]]. Blank personal spellbook: **25 gp**.
 
 **Quality — added on top of the base (or on a listed price):**
 

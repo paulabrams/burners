@@ -505,7 +505,6 @@ Vitae 1: Animals obey your orders as well as a trained dog for one day.
 
 Necromantia 1: One set of bones within sight rises as an unarmed skeletal servant for the scene (or until destroyed). Simple commands only — dig, haul, fill a doorway. #needs-playtest
 
-
 #### Arcane Eye
 
 Illusione 1: You create a magic eye that flies around under your control for Sorcerie turns. You can see through it as well as your normal eyes.
@@ -513,7 +512,6 @@ Illusione 1: You create a magic eye that flies around under your control for Sor
 #### Auditory Illusion
 
 Illusione 1: Create illusory sounds that seem to come from Sorcerie directions within earshot.
-
 
 #### Beast Speech
 
@@ -547,7 +545,6 @@ Illusione 1: Attacks against you suffer −Sorcerie Damage while you move for So
 
 Canting 1: Craft mundane locks within sight unlock at once (no pick marks). Magical locks still need *Knock* or better.
 
-
 #### Cantrip
 
 Sorcerie 1: Trivial magics on command — clean or soil an object, chill or warm a mouthful,
@@ -566,7 +563,6 @@ Thaumaturgy 1: A creature obeys a single, Sorcerie-word command that doesn't har
 
 Canting 1: Read one target's vice or fear (one sentence truth). #needs-playtest
 
-
 #### Crystal Growth
 
 Elementale 1: Grow Sorcerie fist-sized crystals from stone over Sorcerie hours; worth little but hard as stone.
@@ -578,7 +574,6 @@ Umbrakala 1: See in total darkness for Sorcerie hours.
 #### Deep Shadow
 
 Umbrakala 1: A Sorcerie × 40' wide sphere of total darkness appears, centered where you point, lasting Sorcerie turns.
-
 
 #### Detect Magic
 
@@ -598,11 +593,9 @@ Elementale 1: Cone 60'. Each target may Defend; overrun to HP (− AC if physica
 
 Thaumaturgy 1: Sorcerie visible items teleport to your hands. Snatching a held item is contested — the holder Defends against your cast total; overrun takes it.
 
-
 #### Flash Paper
 
 Canting 1: Messages on flash paper visible only to Canting-literate readers; burns after Sorcerie readings. #needs-playtest
-
 
 #### Fog Cloud
 
@@ -641,7 +634,6 @@ Vitae 1: Sorcerie listeners shake off fear or despair; each recovers 1 HP if the
 
 Canting 1: Your next Defend this round gains +Craft (dirty fighting). #needs-playtest
 
-
 #### Leap
 
 Thaumaturgy 1: You can jump up to Sorcerie × 10'.
@@ -650,21 +642,17 @@ Thaumaturgy 1: You can jump up to Sorcerie × 10'.
 
 Vitae 1: One creature; attacks by undead or unbound spirits against them suffer −1 Damage for Sorcerie turns; charm or possession from such sources fails against Sorcerie weak spirits automatically. #needs-playtest
 
-
 #### Marble Madness
 
 Necromantia 1: Your pockets refill with marbles every round for Sorcerie rounds. #needs-playtest
-
 
 #### Mark the Gull
 
 Canting 1: For Sorcerie hours, spot the most gullible or greedy mark in a crowd (Heart contests against you fail). #needs-playtest
 
-
 #### Mort's Mask
 
 Canting 1: Alter the look of Craft humanoids as long as they remain humanoid. Lasts until a subject speaks.
-
 
 #### Read Languages
 
@@ -674,16 +662,12 @@ magical writing; that is *Read Magic*.
 
 #### Read Magic
 
-Sorcerie 1: You read magical script — runes, glyphs, spellbook entries, scroll text —
-well enough to identify a working and open foreign hands. Once you have read a spell in a
-**book**, you may treat it as known while you carry that source and memorize it into your
-hand on redraw; moving it into your own book destroys the source (see *Spellbooks* on
-[[Burners Sorcerie]]). A **scroll** is a single-use item in any form: *Read Magic* tells
-you what it holds before you cast (and spend) it, or unmake it into your book. Without
-*Read Magic*, magical writing is opaque (unless you already read that school's hand).
-You may also probe deeper for **Facts** on a writing or item (Step-2 risk; see *Reading
-Magic* on [[Burners Sorcerie]]). **Free and always known** by every Sorcerer; costs no
-slot to know.
+Sorcerie 1: Learn what **magic items** do — probe a ring, blade, wand, or relic for
+**Facts** (Step-2 risk when you go deep; see *Reading Magic* on [[Burners Sorcerie]]).
+That is the spell's main use. On **scrolls** and **foreign spellbooks**, it **identifies**
+what workings they hold before you risk them. If you already hold the school's Trait (or
+the book is common Sorcerie), you read that grimoire without this card — see *Learning
+Spells*. ***Read Magic* does not teach spells.**
 
 #### Stanch
 
@@ -699,7 +683,6 @@ Thaumaturgy 1: A spectral hand appears within Sorcerie × 10' and carries or man
 
 Illusione 1: You create a silent, motionless illusory image about the size of a creature or object within Sorcerie × 10', lasting Sorcerie turns. It casts no sound, light, or smell, and touching it or studying it closely reveals the illusion.
 
-
 #### Ward Pact
 
 Sorcerie 1: When you **ready** this card in your hand, name **one narrow source of harm** — blades,
@@ -709,7 +692,6 @@ for Sorcerie turns, attacks of the named source against you suffer **−Sorcerie
 against the magic pact, trivial first-level workings wash off entirely. No help against any
 harm you did not name, nor against magic made physically substantive (conjured stone, a
 flame wall) unless *magic* is the pact. #needs-playtest
-
 
 #### Web Weave
 
@@ -730,7 +712,6 @@ Necromantia 1: Your finger produces ulfire-colored paint for Sorcerie hours. Thi
 #### Animate Object
 
 Thaumaturgy 2: One unattended object obeys simple commands for Sorcerie turns. It moves 15' per round; no fine craft.
-
 
 #### Arcane Sigil
 
@@ -754,7 +735,6 @@ Vitae 2: You and your possessions turn into an animal for up to Sorcerie days.
 
 Necromantia 2: Control one Small or smaller corpse like a marionette (spectral strings visible) for Sorcerie turns. It moves at half speed under your command. Not a permanent raise. #needs-playtest
 
-
 #### Bone Shield
 
 Necromantia 2: Skeletal armor +Sorcerie AC for Sorcerie turns; looks horrific.
@@ -766,7 +746,6 @@ Canting 2: Sense guild-brothers within Sorcerie × 100' for Sorcerie hours.
 #### Comprehend Dead
 
 Necromantia 2: For Sorcerie hours you read and understand writings and tongues of the deceased — epitaphs, curses, grave-scripts, forgotten dead languages. Living speech is untouched. #needs-playtest
-
 
 #### Dark Anchor
 
@@ -800,7 +779,6 @@ Illusione 2: Create Sorcerie fragile, porcelain copies of items you can see.
 
 Elementale 2: Unworked earth and stone act like clay in your hands for Sorcerie turns.
 
-
 #### Elemental Wall
 
 Elementale 2: Creates a wall of ice or fire Sorcerie × 40' long, 5' wide and 10' tall. The wall can curve however you want.
@@ -817,7 +795,6 @@ Illusione 2: You appear dead for Sorcerie hours; vital signs absent. Wound check
 
 Elementale 2: Flames wreath you for Sorcerie turns; melee attackers take **1d6** to HP (− AC if physical; monsters → Hits) when their blow lands.
 
-
 #### Fleet Pad
 
 Canting 2: Sorcerie creatures have their movement speed tripled.
@@ -831,7 +808,6 @@ cannot stray more than 10' from you; it winks out if you do.
 #### Foist
 
 Canting 2: Lift one small carried item from a person within Craft × 10' without their noticing — vs their passive notice out of combat. The mark does not feel the lift. #needs-playtest
-
 
 #### Force Wall
 
@@ -852,7 +828,6 @@ Sorcerie 2: As Ward Pact, but the ward you name when you ready this card covers 
 lightning, and their kin), all **magic**, or all the **wild** (fang, claw, horn, sting, and
 natural venom). For Sorcerie turns, anything in that category deals **−Sorcerie Damage** to
 you. One category per readying. #needs-playtest
-
 
 #### Greed
 
@@ -890,7 +865,6 @@ Thaumaturgy 2: Sorcerie locks unlock.
 
 Vitae 2: Plants within Sorcerie × 10' flourish or wilt to your will for Sorcerie hours — fruit, tangle, or clear a path. They do not fight.
 
-
 #### Life Sense
 
 Necromantia 2: Sense living creatures within Sorcerie × 60' for Sorcerie turns.
@@ -898,8 +872,6 @@ Necromantia 2: Sense living creatures within Sorcerie × 60' for Sorcerie turns.
 #### Locate Object
 
 Sorcerie 2: For Sorcerie turns you sense the direction to the nearest example of one object you name and clearly picture, within Sorcerie × 100'. Finds objects, not creatures, and is blind to anything warded (a Dark Anchor, lead, running water at the Referee's call).
-
-
 
 #### Masquerade
 
@@ -913,11 +885,9 @@ Umbrakala 2: You and Sorcerie other touched creatures become mouse-sized.
 
 Canting 2: One loose, unattended visible object within Craft × 10' yanks into your hand. Does not strip items from a grip — that is *Filch* or *Foist*. #needs-playtest
 
-
 #### Second-Story Man
 
 Canting 2: Climb any surface like a spider for Craft turns.
-
 
 #### Silent Image
 
@@ -945,7 +915,6 @@ Canting 3: Hide Sorcerie slot-worth of goods in plain sight for Sorcerie hours.
 
 Necromantia 3: One undead obeys a single Sorcerie-word command that doesn't destroy it ("flee," "halt," "approach," "kneel"). Hostile undead Defend against your cast total.
 
-
 #### Control Device
 
 Thaumaturgy 3: Mechanisms (locks, traps, clockwork) obey simple commands for Sorcerie turns within 30'.
@@ -957,7 +926,6 @@ Necromantia 3: 10' burst from one corpse. Each target may Defend; overrun to HP 
 #### Darkmans Cloak
 
 Canting 3: Craft creatures are invisible for as long as they can hold their breath.
-
 
 #### Dispel Magic
 
@@ -973,7 +941,6 @@ Canting 3: Tail one target undetected for Sorcerie hours (Craft vs their passive
 #### Forest Touch
 
 Vitae 3: Plants within Sorcerie × 10' obey you as creatures for Sorcerie turns. They move 5' per round, grasp, and block.
-
 
 #### Hypnotize
 
@@ -1011,7 +978,6 @@ Illusione 3: Sorcerie illusory copies of you, under your control, appear.
 
 Elementale 3: Your body and gear become cool mist for Sorcerie turns. You pass through gaps an inch wide; physical blows pass through you. You cannot manipulate objects or cast other spells while vapor.
 
-
 #### Mountain's Strength
 
 Elementale 3: You gain +Sorcerie Damage on shove/break attempts for Sorcerie turns.
@@ -1019,7 +985,6 @@ Elementale 3: You gain +Sorcerie Damage on shove/break attempts for Sorcerie tur
 #### Night Sphere
 
 Umbrakala 3: A sphere of total darkness Sorcerie × 40' wide clings to you (or a touched ally) for Sorcerie turns, moving as they move. Creatures outside see only the black; those within are blind unless they have darksight.
-
 
 #### Nightmare Seed
 
@@ -1029,7 +994,6 @@ Umbrakala 3: Plant a nightmare in one sleeper; Defend; if defense < cast, they w
 
 Thaumaturgy 3: The Referee answers Sorcerie yes or no questions about an object.
 
-
 #### Ooze Form
 
 Umbrakala 3: Your body and gear become living slime for Sorcerie turns.
@@ -1037,7 +1001,6 @@ Umbrakala 3: Your body and gear become living slime for Sorcerie turns.
 #### Pacify
 
 Vitae 3: Sorcerie creatures in sight develop an intense hatred of violence for Sorcerie turns unless attacked. Each unwilling target Defends against your cast total.
-
 
 #### Pain Echo
 
@@ -1051,11 +1014,9 @@ Illusione 3: Moving illusion. If believed: psychic — ignores AC. Defend; overr
 
 Illusione 3: Project an illusory sound to a point you can see within Sorcerie × 100' — a shout, a door, a name. Distant work; closer noise is *Auditory Illusion*.
 
-
 #### Psychometry
 
 Necromantia 3: The Referee answers Sorcerie yes or no questions about an object.
-
 
 #### Rain Make
 
@@ -1069,7 +1030,6 @@ Canting 3: You create a magic eye that flies around under your control for Sorce
 
 Canting 3: For Craft hours your picks and hands open any mundane lock as if the difficulty were 0 — you still take the time, never leave marks. Magical locks are untouched. #needs-playtest
 
-
 #### Shadow Bind
 
 Umbrakala 3: Sorcerie creatures entangled in shadow; Defend each turn or cannot act.
@@ -1081,7 +1041,6 @@ Umbrakala 3: Sorcerie illusory copies of you, under your control, appear.
 #### Shrink Item
 
 Thaumaturgy 3: One non-living object shrinks to about one-quarter size for Sorcerie hours (or until restored). It keeps its weight and will not function until returned to normal size.
-
 
 #### Sniff
 
@@ -1099,7 +1058,6 @@ Vitae 3: For Sorcerie hours you know the true direction to one named place you h
 
 Elementale 3: Your body and gear become scalding steam for Sorcerie turns. You pass through small gaps; creatures you pass through take **1d6** to HP (− AC if physical; monsters → Hits) — stepping clear is the defense. Cold or a strong wind disperses you for a round. You cannot cast other spells while vapor. #needs-playtest
 
-
 #### Strengthen
 
 Thaumaturgy 3: One object gains Sorcerie × 5 structural HP; breaks only under deliberate force.
@@ -1107,7 +1065,6 @@ Thaumaturgy 3: One object gains Sorcerie × 5 structural HP; breaks only under d
 #### Sun Beam
 
 Vitae 3: A beam of daylight (torch-bright, 60' radius) for Sorcerie turns; undead and shadow creatures in it take **1d6** per round to HP (− AC if physical; monsters → Hits).
-
 
 #### Thaumaturgic Seal
 
@@ -1180,7 +1137,6 @@ Elementale 4: The ground shakes violently for Sorcerie rounds. Each target may D
 
 Illusione 4: Implant one plausible false memory in a creature you touch. Hostile — they Defend against your cast total. The memory feels real and cannot be obviously impossible. #needs-playtest
 
-
 #### Fear Aura
 
 Necromantia 4: Sorcerie creatures become terrified of an object.
@@ -1192,7 +1148,6 @@ Thaumaturgy 4: Sorcerie creatures have their movement speed tripled.
 #### Heart Glyph
 
 Vitae 4: Inscribe an emotion on a willing creature for Sorcerie days; those who read the glyph feel it (not control).
-
 
 #### Masterscript
 
@@ -1210,11 +1165,9 @@ Illusione 4: One creature immune to read-mind and charm for Sorcerie hours.
 
 Vitae 4: A calm fills Sorcerie × 10' around you for Sorcerie turns — no new fights start inside it; existing fights may continue at the edge. Unwilling aggressors entering Defend or stop closing.
 
-
 #### Perfect Mort
 
 Canting 4: Fully impersonate one person you have studied closely — face, voice, and bearing for Craft hours. Speaking does not break it; deliberate contradiction or magical detection can. #needs-playtest
-
 
 #### Purification
 
@@ -1232,7 +1185,6 @@ Canting 4: Locate the nearest safehouse or fence in a settlement.
 
 Elementale 4: One chosen element (fire, ice, water, stone, or air) in Sorcerie × 10' acts like clay under your hands for Sorcerie turns — shape but not destroy its nature.
 
-
 #### Shadow Meld
 
 Umbrakala 4: Merge with shadow; invisible while still for Sorcerie turns.
@@ -1248,7 +1200,6 @@ extend that named ward: either to **Sorcerie willing creatures** within 10' (eac
 **−Sorcerie Damage** from the named source), or grant **one** creature outright **immunity**
 to it. Lasts Sorcerie turns. The old **Greater Parma** is simply this cast on the *magic*
 pact. #needs-playtest
-
 
 #### Sharper's Nose
 
@@ -1274,7 +1225,6 @@ Necromantia 4: The spirit of a touched dead body appears and will answer Sorceri
 
 Elementale 4: The Referee answers Sorcerie yes or no questions about an object.
 
-
 #### Teleport
 
 Thaumaturgy 4: An object teleports to a clear patch of ground up to Sorcerie × 40' away from its origin point.
@@ -1283,11 +1233,9 @@ Thaumaturgy 4: An object teleports to a clear patch of ground up to Sorcerie × 
 
 Canting 4: For Craft hours move across rooftops, ledges, and wires at a run without a Climb check; gaps up to Craft × 10' are a single leap. #needs-playtest
 
-
 #### Unravel
 
 Thaumaturgy 4: Cast this as a reaction to another spell of level Sorcerie or less going off to nullify it.
-
 
 #### Void Step
 
@@ -1319,7 +1267,6 @@ Elementale 4: Missiles at you suffer −Sorcerie Damage for Sorcerie turns.
 
 Thaumaturgy 5: One tool or set of tools works itself at a journeyman's hand for Sorcerie hours — picks locks, mends, digs, writes plain text — as you directed at cast. Combat blows are still 1d6 at most.
 
-
 #### Binding Circle
 
 Thaumaturgy 5: A silver circle 40' across appears on the ground around you. Until you leave the circle, Sorcerie types of things that you name cannot cross it.
@@ -1336,7 +1283,6 @@ Vitae 5: Touch one creature; one mundane disease or poison cycle ends. Magical a
 
 Canting 5: While you stay among a crowd of at least a dozen, you and Craft allies are unnoticed — faces blur, questions slide off — for Craft turns. Leaving the crowd ends it. #needs-playtest
 
-
 #### Death Gate
 
 Necromantia 5: Open a chill gate to the underworld for Sorcerie rounds; undead step through; living may Defend or take **1d6** cold per round.
@@ -1351,7 +1297,7 @@ Umbrakala 5: You step through shadow to a spot you see within Sorcerie × 40'.
 
 #### Enhance Power
 
-Thaumaturgy 5: Next spell cast from this Arcana within Sorcerie hours gains +1 effective Sorcerie for scaling only.
+Thaumaturgy 5: Next spell cast from this focus (the drip or piece holding the working) within Sorcerie hours gains +1 effective Sorcerie for scaling only.
 
 #### Ghost Bind
 
@@ -1370,7 +1316,6 @@ Umbrakala 5: Open a pocket realm (Sorcerie × 10' room) for Sorcerie hours; one 
 
 Canting 5: Once per cast, enter a named building as if every mundane door and window on your path stood unlocked and unlock again behind you for Craft rounds. Magical wards still block. #needs-playtest
 
-
 #### Magic Suppressor
 
 Thaumaturgy 5: All magic is nullified while within Sorcerie × 10' of you.
@@ -1378,7 +1323,6 @@ Thaumaturgy 5: All magic is nullified while within Sorcerie × 10' of you.
 #### Major Image
 
 Illusione 5: An illusion of sight, sound, smell, and temperature under your control for Sorcerie turns — up to the size of a room. Physical interaction reveals it.
-
 
 #### Mill the Watch
 
@@ -1427,7 +1371,6 @@ Illusione 5: You can share the vision of a creature you touched today for Sorcer
 #### Shadow Time
 
 Umbrakala 5: Time within Sorcerie × 10' of you goes 10 times slower than the rest of the world. Lasts 10 rounds (for you).
-
 
 #### Spirit Chains
 
@@ -1531,11 +1474,9 @@ Thaumaturgy 6: A 10' circle safe for casting for Sorcerie hours; hostile magic e
 
 Canting 6: For Craft hours shift freely among Craft prepared personas (each a full Mort); changing takes a turn. #needs-playtest
 
-
 #### Mass Animation
 
 Necromantia 6: Animate Sorcerie Small corpses or bone-heaps as a coordinated host (1 HP each, simple commands). They serve for the scene, then collapse.
-
 
 #### Mass Suggestion
 
@@ -1556,7 +1497,6 @@ Thaumaturgy 6: For Sorcerie turns, telekinesis on items within 30' with fine con
 #### Perfect Death
 
 Necromantia 6: One living creature **below 0 HP** fails their next post-fight survival check automatically (coup magic). Moral weight.
-
 
 #### Perfect Shadow
 
@@ -1586,7 +1526,6 @@ Canting 6: Sorcerie thieves in earshot will not betray you for Sorcerie days unl
 
 Illusione 6: An illusion triggers on a condition you set; lasts Sorcerie days.
 
-
 #### Raise Zombie
 
 Necromantia 6: One humanoid corpse rises as a zombie under your command for Sorcerie days (or until destroyed). Standard zombie: tougher than a skeleton, not disposable fodder. That corpse cannot be raised again by this spell.
@@ -1594,7 +1533,6 @@ Necromantia 6: One humanoid corpse rises as a zombie under your command for Sorc
 #### Reality Anchor
 
 Thaumaturgy 6: An object becomes the target of every spell cast within 120' of it for Sorcerie turns.
-
 
 #### Season's Call
 
@@ -1620,11 +1558,9 @@ Umbrakala 6: Fold distance: one door opens where another stands within Sorcerie 
 
 Illusione 6: Fill a Sorcerie × 10' area with a grand multi-sense scene (a court, a dragon's lair, a burning street). Physical interaction with major elements reveals the fake.
 
-
 #### Telepathy
 
 Illusione 6: You can project your thoughts into a mind within Sorcerie hexes.
-
 
 #### Tide Control
 
@@ -1633,7 +1569,6 @@ Elementale 6: Raise or lower water level in Sorcerie × 40' shoreline over Sorce
 #### Tranquil Heart
 
 Vitae 6: Sorcerie creatures cannot take violent actions for Sorcerie turns unless attacked first.
-
 
 #### True Seeing
 

@@ -134,7 +134,7 @@ Shaping is how Alignment compounds: each pact leaves a Trait that bears on the p
 A **Relic** is a sacred object that serves as **conduit and ark** to a patron — a rallying flag for its power. To the uninitiated a Relic may pass for a cursed or sentient item, since the patron can act through it.
 
 - **Ark.** Carrying a patron's Relic counts **+1 Alignment** with that patron, for Invocations only.
-- **Conduit.** A Relic is often a **named item** or **named Arcana** — its true name may be the patron's gift, surrendered through an Invocation.
+- **Conduit.** A Relic is often a **named item** or **named drip** — its true name may be the patron's gift, surrendered through an Invocation.
 - **Ledger.** A Relic in the wrong hands is a grievance; returning one is the classic Ask.
 
 **Sentient items** are the speaking subset — a bound soul or a splinter of the patron itself, capricious, jealous, and unhinged from confinement. A sentient Relic may aid, argue, or betray; it hates being abandoned, rejected, or "cheated on" with a rival item. Carrying one grows your Alignment whether you like where it's growing or not.
@@ -193,5 +193,5 @@ DEBT    one open Ask per patron — no second call until cleared
 OFFER   ≤ min(Turns, Alignment, pageantry); small / middling / serious / grave
 ASK     quest · taboo · shaping Trait · Heat owed · Relic errand · tithe
 SHAPE   patron Trait at next level-up (free) or a Signature; refusal sours
-NOT     spells · Arcana · Sorcerie — any Burner may call
+NOT     spells · Sorcerie slots · the Sorcerie Approach — any Burner may call
 ```

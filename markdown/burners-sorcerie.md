@@ -9,7 +9,7 @@ hero_alt: "The wizard and his book — H. J. Ford"
 
 *Magic — how a Sorcerer prepares, carries, and spends it.*
 
-How magic works: who can cast, spellbooks, Arcana slots and drip, the hand, the cast,
+How magic works: who can cast, spellbooks, Sorcerie slots and drip, the hand, the cast,
 burning, ritual, and Defend against hostile workings. Scrolls and potions are at the end.
 The spell lists live on **[[Burners Spells]]**; worked rulings for every 1st-level
 spell are on **[[Burners Magic Examples]]**.
@@ -29,17 +29,17 @@ Think of every spell you know as a card.
 
 - Your **spellbook** is your your **deck** of known spells. You can have multiple spellbooks in your library.
 - Your **hand** is the spells you have prepared to cast.
-- Your **Arcana slot count** sets your **hand size**, the number of cards you may hold.
+- Your **Sorcerie slot count** sets your **hand size**, the number of cards you may hold.
 - **Casting** a spell **taps** its card.
 - **Burning** a card exiles it to pay for more casting in the same Action.
 - After **8 hours of uninterrupted sleep**, two paths (see *Sleep and recovery*):
   - **No readable source** — recover up to your caster level in cards from among tapped,
-    burned, and lasting; re-split physical vs Arcana if you wish, but your hand stays as
-    it is except what the budget restores.
-  - **Readable source in reach** — your personal spellbook, or any grimoire you carry and
-    have cast *Read Magic* on — re-split freely and **full redraw** your hand from your
-    whole deck. Every card you put in arrives **ready**; the limited recovery budget does
-    not apply.
+    burned, and lasting; re-split physical vs Sorcerie slots if you wish, but your hand
+    stays as it is except what the budget restores.
+  - **Readable source in reach** — your personal spellbook, or any grimoire you carry whose
+    hand you can already read (see *Learning Spells*) — re-split freely and **full redraw**
+    your hand from your whole deck. Every card you put in arrives **ready**; the limited
+    recovery budget does not apply.
 
 Every card in your hand is in exactly one zone. **Tapped, lasting, and burned cards all
 still occupy hand size** until recovered (or lasting ends).
@@ -77,10 +77,10 @@ language and spell list; you must hold a Trait in that school to touch it at all
 common Sorcerie school asks no Trait — being a Sorcerer is grammar enough.
 
 **Hedge wizards.** Village casters, chapel priests, roadside apothecaries — still
-**Sorcerers**. Same cards, same Arcana split. They may work common Sorcerie alone, or a
-people-school without the high look (Vitae in mortar-and-vial drip is still Vitae). The
-school is the Trait and the list; the drip is costume. There is no separate Craft hedge
-school for mending — healing stays Vitae.
+**Sorcerers**. Same cards, same Sorcerie-slot split. They may work common Sorcerie alone,
+or a people-school without the high look (Vitae in mortar-and-vial drip is still Vitae).
+The school is the Trait and the list; the drip is costume. There is no separate Craft
+hedge school for mending — healing stays Vitae.
 
 **Canting is the exception.** The rogue's school rolls **Craft**, not Sorcerie. A
 **Journeyman (Craft 1+)** with the **Canting** Trait may learn, hold, and cast Canting
@@ -92,13 +92,16 @@ Jarks](#canting-kicks-and-jarks). No Sorcerie required.
 ### The Starting Sorcerer
 
 A Sorcerer's craft comes with a kit (the fruit of apprenticeship). At character creation
-you **declare 7 physical slots and 5 Arcana slots** — twelve total. You may not re-split
+you **declare 7 physical slots and 5 Sorcerie slots** — twelve total. You may not re-split
 until your first 8-hour sleep; we start fast.
 
-Your **personal spellbook** holds **five known spells**: ***Read Magic*** (always) plus
-**four others** from your school. The Referee picks them, rolls them, lets you choose, or
-works with you — your table's call. Your **hand size is 5** and your **hand is all five**
-— ready to cast. Count them off on your fingers when you onboard; that's the joke.
+Your **personal spellbook** holds **five known spells**: ***Read Magic*** plus **four
+others** from your school — the fruit of apprenticeship, already scribed. The Referee
+picks them, rolls them, lets you choose, or works with you — your table's call. Your
+**hand size is 5** and your **hand is all five** — ready to cast. Count them off on your
+fingers when you onboard; that's the joke. You did **not** need *Read Magic* to learn the
+other four; a master taught them. *Read Magic* is in the book because it is useful loot
+literacy, not because it unlocks learning.
 
 You also start with **two free Wizard Drip** — costume of the craft from the allow-list
 (mundane grade). Extra costume drip costs **100 gp apiece** in town; enchanted drip stays
@@ -108,56 +111,80 @@ purse and oddments.
 ### The Canting Journeyman
 
 A Journeyman who takes the **Canting** Trait and walks the Canting road declares **7
-physical + 5 kicks** (Arcana slots by another name) the same way — but starts with **no
-spells** in the reader and an **empty hand** of five. Canting is learned in play: guild
-teaching, stolen manuals, jarks spent or scribed. Other Journeymen keep a normal twelve-slot
-pack; the split is only for rogues who work Canting magic.
+physical + 5 kicks** — same slot-split rules as a Sorcerer's Sorcerie slots, different
+name and kit — but starts with **no spells** in the reader and an **empty hand** of five.
+Canting is learned in play: guild teaching, stolen manuals, jarks spent or scribed. Other
+Journeymen keep a normal twelve-slot pack; the split is only for rogues who work Canting
+magic.
 
-## Arcana Slots
+### Becoming a Sorcerer later
 
-You have twelve item slots. As a Sorcerer (or a Canting Journeyman), you **declare a
-split**: so many slots are **physical**, so many are **Arcana**. Arcana slots hold
-**Wizard Drip** (or a rogue's kicks) — arcana items, not spells. The **number** of
-Arcana slots is your **hand size**: how many spells you can hold ready. Your **hand**
-is separate from inventory and Arcana slots; it is your ready spells, pictured as
-cards. The cards live in you.
+When you first reach **Sorcerie 1** in play, you gain the title — you may cast, declare
+**Sorcerie slots**, and Ward. You do **not** gain the apprentice kit: no free book, no free
+drip, no five starting spells. Shop a blank spellbook (25 gp) and costume drip (100 gp
+each) if you want the kit; spells are not for sale.
+
+Your hand starts **empty**. Spells come from **finds, teachers, and grimoires you carry** —
+the classic path is looting spare books in a delve and studying them once you are a
+Sorcerer. ***Read Magic* is not required to learn** (see *Learning Spells*). The Referee
+should put a path to a first working in reach soon after the title turns on.
+
+## Sorcerie Slots
+
+**Sorcerie slots** are the mage half of your twelve. Say the full phrase when it matters —
+**Sorcerie 3** is your Approach level; **3 Sorcerie slots** is pack space.
+
+You have twelve item slots. As a Sorcerer you **declare a split**: so many **physical**,
+so many **Sorcerie slots**. Sorcerie slots hold **Wizard Drip** — costume and books, not
+spell cards. The **number** of Sorcerie slots is your **hand size**. Your **hand** is
+separate from inventory; it is your ready spells, pictured as cards. The cards live in you.
+
+Canting uses the same math under **kicks** — see [Canting: Kicks and Jarks](#canting-kicks-and-jarks).
 
 - **Re-split on rest.** On any 8-hour sleep you may redeclare the split. A Sorcerer who
-  wants a six-card hand walks into the dark with six Arcana slots of drip; power is paid
-  for in rope, rations, and armor left behind.
-- **Sorcerie caps the spell.** Any card in your hand may be a spell of any level up to
+  wants a six-card hand declares **six Sorcerie slots** — empty or filled; empty still
+  count for hand size, only occupied drip throws Initiative. The cost is rope, rations,
+  and armor left behind.
+- **Approach caps the spell.** Any card in your hand may be a spell of any level up to
   your Sorcerie (or Craft, for Canting). Slots are not leveled.
 - **Your hand is personal.** No thief, no disarm, no dropped pack parts a caster from
   their hand. Only sleep, burning, and your own choices move the cards. Losing your
   spellbook cuts off redraws and swaps — the deck can be taken, the hand cannot.
 
-**Initiative.** On Roll Initiative, add **one die per Arcana slot occupied by Wizard
-Drip** (or kicks) — empty Arcana add none. Drip riding in those slots does not also add
-weapon-in-hand dice. Arcana slots **never** also count toward the empty-inventory
-Initiative dice (max 4).
+**Initiative.** On Roll Initiative, add **one die per Sorcerie slot occupied by Wizard
+Drip** — empty Sorcerie slots add none. Drip riding in those slots does not also add
+weapon-in-hand dice. Sorcerie slots **never** also count toward the empty-inventory
+Initiative dice (max 4). (Canting: one die per occupied kick.)
 
 ### Wizard Drip
 
-An Arcana slot may carry a physical item — but only **Wizard Drip**: staff, wand, rod,
-orb, ring, runed robe, talisman, the costume of the craft. Each item costs its **full
-normal slot cost** (a staff is 3 Arcana slots, not 1). Hedge drip counts the same —
-goat-horn hat, hand-bell, mortar, vial-rack — as long as it is the costume of *that*
-caster's craft.
+A Sorcerie slot may carry a physical item — but only **Wizard Drip**: staff, wand, rod,
+orb, ring, runed robe, talisman, the costume of the craft — and **spellbooks / grimoires**
+(your personal book, a blank, a captured readable source). Each item costs its **full
+normal slot cost** (a staff is 3 Sorcerie slots, not 1; a book is 1). Hedge drip counts
+the same — goat-horn hat, hand-bell, mortar, vial-rack — as long as it is the costume of
+*that* caster's craft.
 
-- **Price.** Costume drip (mundane grade) is **100 gp apiece** in town — a true wizard's
-  hat is not a street hat. A starting Sorcerer gets **two free**. Enchanted drip has no
-  shop price: find, seize, gift, or inherit.
+- **Books are drip when they ride here.** A spellbook or grimoire may sit in a **physical
+  or Sorcerie** slot. In a Sorcerie slot it counts as occupied drip (Initiative die, fills
+  the slot). Either home still counts as **carrying** it for redraws and swaps. Price is
+  the book line (**25 gp** blank — see *Spellbooks*), not the 100 gp costume tag.
+- **Price (costume).** Costume drip (mundane grade) is **100 gp apiece** in town — a true
+  wizard's hat is not a street hat. A starting Sorcerer gets **two free**. Enchanted drip
+  has no shop price: find, seize, gift, or inherit.
 - Drip keeps its mundane function. A wizard's staff is still a staff — swing it, lean on
-  it, bar a door with it.
-- **Never** armor, weapons (beyond the staff's honest whack), shields, or plain cargo. An
-  Arcana slot cannot carry fifty feet of rope. That restriction is the price of the split.
+  it, bar a door with it. A book is still a book.
+- **Never** armor, weapons (beyond the staff's honest whack), shields, or plain cargo. A
+  Sorcerie slot cannot carry fifty feet of rope. That restriction is the price of the
+  split.
 - Losing drip loses an item, nothing more. Steal the archmage's staff and you have stolen
-  a stick. The magic never lived there.
-- **Found drip is still drip.** A relic wand, a runed ring, a captured staff — even a full
-  magic item — is just an item if it fits the allow-list. It rides in Arcana slots at its
-  normal slot cost. It does not add a card to your hand, pin a card, or open a spell slot.
-  Whatever power the treasure holds runs as a magic item; your hand is still only spells
-  from your deck.
+  a stick. Steal the book and you have stolen the deck — the hand stays; redraws do not.
+- **Found drip is still drip.** A relic wand, a runed ring, a captured staff or grimoire —
+  even a full magic item — is just an item if it fits the allow-list. It rides in Sorcerie
+  slots at its normal slot cost. It does not add a card to your hand, pin a card, or open
+  a spell slot. Whatever power the treasure holds runs as a magic item; your hand is still
+  only spells from your deck (or, for a carried grimoire, spells you may memorize from it
+  while it is in reach — see *Spellbooks*).
 
 ## Casting
 
@@ -224,12 +251,13 @@ read in reach): recover up to **Sorcerie Level** cards (**Craft Level** for Cant
 among your tapped, burned, and lasting cards. That budget is **one pool** — each card you
 recover costs one card from the budget, whether you are untapping a tapped card or returning
 a burned one. Spell level does not matter; five 1sts and one 5th both cost one card each.
-You may still **re-split** physical vs Arcana slots; your hand otherwise stays as cast left
-it, except what the budget restores.
+You may still **re-split** physical vs Sorcerie slots; your hand otherwise stays as cast
+left it, except what the budget restores.
 
-**With a readable source in reach** — your personal spellbook, or any captured grimoire you
-**carry** and have cast *Read Magic* on (see *Spellbooks*) — skip the limited budget.
-**Re-split** physical vs Arcana freely and **full redraw** your hand from your deck (see
+**With a readable source in reach** — your personal spellbook, or any grimoire you
+**carry** whose hand you can already read (see *Learning Spells*) — skip the limited
+budget.
+**Re-split** physical vs Sorcerie slots freely and **full redraw** your hand from your deck (see
 *Changing Your Hand*). Every card you put in arrives **ready**. You may **keep lasting
 cards in place**; swapping one out **ends the effect**.
 
@@ -256,7 +284,7 @@ spellbook, or a captured grimoire you can read (see *Spellbooks*).
 
 A **scroll** is a single-use working — **not** a card. One spell, already written:
 parchment, feather, wax seal, charm on a string — call it a scroll either way. **1 slot**
-each; it may ride in a **physical or Arcana** slot.
+each; it may ride in a **physical or Sorcerie** slot.
 
 - **Cast** it as any spell of that level: one Action in combat, at least SL Fuel dice for
   the cast total — then it is **spent** (ash, blank vellum, snapped charm). Your **hand is
@@ -285,8 +313,8 @@ A **potion** is a single-use draught — **not** a card, **not** drip. Downtime 
 a potion from a known formula — a working they hold in a readable source. **Craft**
 herbalism and alchemy do not bottle spells; that is the sorcerer's job. Cost: **100 gp ×
 the spell's level** in reagents and about a week × its level. Touch or self effects only
-— what a draught can hold. The potion is one dose, **1 physical slot** (never Arcana —
-potions are not Wizard Drip); **anyone may drink it**. Recipe and gold decide it — no
+— what a draught can hold. The potion is one dose, **1 physical slot** (never a Sorcerie
+slot — potions are not Wizard Drip); **anyone may drink it**. Recipe and gold decide it — no
 caster rank beyond the Trait. Found potions stay treasure.
 
 ## Ritual Casting
@@ -376,43 +404,93 @@ what they do is treasure.
 
 Your deck is a book, and a book can be lost.
 
-- **Personal spellbook** — 1 physical slot. Holds every spell you have scribed into it.
-  Left in camp, your deck is out of reach: no redraws, no swaps until you are reunited.
-  Margins hold **Facts** (scraps, runes, puzzles) — free in plain ink; they are not
-  workings until you spend reagent ink to fix them.
-- **Readable sources (OSE).** A captured grimoire is written so only its owner can read it
-  without magic. Cast or work *Read Magic* on the writing; thereafter you can always read
-  that script. While you **carry** the source, you may treat spells in it as **known** for
-  redraw and swap — memorize from the book at hand, as classic OSE. Drop it or leave it in
-  town and those spells leave your ready library until you recover the source or scribe
-  them into your own book.
+- **Personal spellbook** — **1 slot**, physical or Sorcerie (Wizard Drip when a Sorcerie
+  slot). Holds every spell you have scribed into it. Left in camp, your deck is out of
+  reach: no redraws, no swaps until you are reunited. Margins hold **Facts** (scraps,
+  runes, puzzles) — free in plain ink; they are not workings until you spend reagent ink
+  to fix them.
+- **Found grimoires.** A captured book is a prize. While you **carry** a source whose hand
+  you can read (see *Learning Spells*), you may treat its spells as **known** for redraw
+  and swap — memorize from the book at hand. Drop it or leave it in town and those spells
+  leave your ready library until you recover the source or scribe them into your own book.
+  Each found grimoire you keep for redraw is another slot.
 - **Moving a spell into your book.** Copy it: **100 gp × level** in reagent inks and about
   a week × its level. No roll. **This destroys the written source** you copied from (page,
   exemplar, or scroll unmade into the book). A living teacher is not destroyed; you still
   pay ink and time to scribe what they teach. **Slot note:** your personal book is still
-  **1 slot** no matter how many spells it holds; each found grimoire you keep for redraw
-  is another slot. Scribing consolidates — gold and time buy pack space.
+  **1 slot** (physical or Sorcerie) no matter how many spells it holds. Scribing
+  consolidates — gold and time buy pack space.
 - **Copies within your library** — **25 gp × level** and a day × level; your first book is
   not destroyed.
 
 | Item | Slots | Cost (gp) |
 | --- | --- | --- |
-| Spellbook, blank | 1 | 25 |
+| Spellbook, blank (physical or Sorcerie) | 1 | 25 |
 | Scroll case | 1 | 5 |
 | Reagent inks (move a spell into your book) | — | 100 × level |
 | Reagent inks (copy within your library) | — | 25 × level |
 | Make a scroll | 1 | 100 × level |
 | Brew a potion | 1 | 100 × level |
 
+## Learning Spells
+
+***Read Magic* is not how you learn a spell.** Learning is school hand + source or teacher.
+
+- **Common Sorcerie** needs no Trait — any Sorcerer can read and learn from common-Sorcerie
+  books and teachers. Plain sigils; the grammar of the craft.
+- **A people-school** needs its **Trait**. Hold *Vitae*, *Umbrakala*, and so on, and that
+  tradition's books are open: you see the workings, memorize, and scribe. The Trait is
+  enough — you do not cast *Read Magic* to study your own school's grimoires.
+- **Living teacher.** They show you a working; you scribe it (ink and time as above). The
+  teacher is not destroyed.
+- **Found books.** Loot a spare grimoire, take Sorcerie 1 if you lack it, carry the book,
+  redraw from what your Traits (or common Sorcerie) let you read. That is the usual road
+  for someone who was not apprenticed at creation.
+
+*Read Magic* is for **magic items** (and opaque loot you cannot already read) — see
+*Reading Magic* below. It does not enroll you in a school or put a card in your deck.
+
+## Reading Magic
+
+***Read Magic*** (Sorcerie 1) is a spell like any other — useful, not free, not required to
+learn. See its entry on [[Burners Spells]].
+
+**Its real work is magic items.** Cast or work it to learn what a ring, blade, wand, or
+relic does — **Facts** on the piece (Step-2 risk when you probe deep). That is why
+apprentices keep it in the starting five.
+
+**Spellbooks and scrolls** are a lesser use. If you already hold the school's Trait (or the
+book is common Sorcerie), you read that grimoire without this spell. Use *Read Magic* on a
+book only when the hand is foreign to you — to **identify** what workings it holds before
+you hunt the Trait, a teacher, or leave it. Same for a scroll: know what it is before you
+burn it.
+
+Once you have identified a given hand of writing, you can recognize that script again for
+identification — that is not school literacy for learning (see *Learning Spells*).
+
+Optionally go deeper on an item or glyph: studying is an Action; describe how deep you
+probe. Interpretation is a Step-2 risk — the deeper the reading, the steeper the Cost (HP,
+time, noise, or a Spicy twist). Roll it out (Sorcerie, out of danger). On a success the
+Referee reveals one **Fact** at the depth you reached — a power (what it does), a demand
+(what it costs), or an omen (what changes about the bearer or world). On a **Sweet** you
+fully grasp it and a revealed power can be called on demand; on a **Spicy** the reading
+misleads or trips the power wrongly.
+
+Track each magical item as two short lists, filled in as study and play reveal them:
+**Facts** (established truths) and **Questions** (open threads). A Fact scribbled in your
+book is free to record; to *work* a spell you still need a source you can learn from, or to
+move it into your book.
+
 ## Canting: Kicks and Jarks
 
-Rogues on the Canting road split their twelve slots the same way — but a rogue would never
-say *Arcana*.
+Rogues on the Canting road use the same slot-split rules as Sorcerie slots — but a rogue
+would never say *Sorcerie*.
 
-- An Arcana slot is a **kick** — a secret pocket sewn where honest folk carry rope. *"How
-  many kicks you running tonight?"*
+- Those declared slots are **kicks** — secret pockets sewn where honest folk carry rope.
+  *"How many kicks you running tonight?"*
 - The spellbook is the **reader** — the pocketbook of the trade, written in flash paper
-  and brotherhood marks.
+  and brotherhood marks. It may ride in a **kick or a physical** slot, same as any
+  grimoire.
 - A scroll is a **jark** — a counterfeit seal, primed and single-use, spent when flashed.
 
 All the card rules apply: **Craft** is caster level in place of Sorcerie; hand size is
@@ -477,32 +555,6 @@ school Trait; no card. Craft-only Canting Journeymen cannot Ward. See *Ward* in
 
 Spells with no hostile target (light on a wall, healing a willing ally, reading magic)
 allow no Defend. Area workings: each target Defends separately against the same cast total.
-
-## Reading Magic
-
-Literacy and deeper probe are one working: ***Read Magic*** (Sorcerie 1 — always known to
-every Sorcerer). See its entry on [[Burners Spells]].
-
-If you have a Trait in a magic school you are a practitioner of it: literate in its
-abstruse language up to your level. In a school you are trained in you read the plain
-words of its writing for free — see the runes, count them, know their literal meanings;
-the script of a school you hold no Trait in is chicken-scratch until *Read Magic*
-deciphers it.
-
-**Cast or work *Read Magic*** to open foreign script (found books, scrolls, glyphs). Once
-you have read a book's hand, you can always read that script again. Optionally go deeper:
-studying a writing or item is an Action; describe how deep you probe. Interpretation is a
-Step-2 risk — the deeper the reading, the steeper the Cost (HP, time, noise, or a Spicy
-twist). Roll it out (Sorcerie, out of danger). On a success the Referee reveals one
-**Fact** at the depth you reached — a power (what it does), a demand (what it costs), or
-an omen (what changes about the bearer or world). On a **Sweet** you fully grasp it and a
-revealed power can be called on demand; on a **Spicy** the reading misleads or trips the
-power wrongly.
-
-Track each magical item as two short lists, filled in as study and play reveal them:
-**Facts** (established truths) and **Questions** (open threads). A Fact scribbled here is
-the same kind of note as a spell-scrap in your book — free to record; to work the spell
-you still need a readable source (or to move it into your book).
 
 ### What Sorcerie is for
 

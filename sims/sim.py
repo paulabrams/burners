@@ -424,7 +424,7 @@ def make_party():
                call_dice_fn=lambda: 7,  # 1 level + 2 sword + 4 rotella
                attacks=2, blow_dice=1, reserve=3, sword=1, craft=0, shield=True, cover=True)
     senna = C("Senna", "party", hp_max=_php(), armor=1,
-              call_dice_fn=lambda: 5,  # 1 level + 1 dagger + empties / arcana abstraction
+              call_dice_fn=lambda: 5,  # 1 level + 1 dagger + empties / sorcerie-slot abstraction
               attacks=1, blow_dice=1, reserve=2, sword=0, craft=0, heal_charges=1)
     pip = C("Pip", "party", hp_max=_php(), armor=1,
             call_dice_fn=lambda: 7,  # 1 level + 3 spear + empties

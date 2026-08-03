@@ -33,10 +33,13 @@ the caster's Sorcerie level — Craft for Canting — exactly as in the catalog.
 
 #### Read Magic
 
-- **World.** A captured grimoire in a strange hand: cast *Read Magic* and the script
-  opens — you know what each working is, and the book joins your readable sources. The
-  plain reading is free; probing deeper for Facts is a Step-2 risk (see *Reading Magic*
-  on [[Burners Sorcerie]]).
+- **World.** A sealed ring on the idol's finger: cast *Read Magic* and probe for **Facts**
+  — what it does, what it costs, what it wants. That is the usual job. A foreign grimoire
+  you have no Trait for: the same card **names** the workings inside so you know what you
+  found; learning them still wants the school Trait or a teacher (*Learning Spells* on
+  [[Burners Sorcerie]]). A Vitae book when you already hold *Vitae*: no *Read Magic*
+  needed — open it and study. Deep probes are a Step-2 risk (see *Reading Magic* on
+  [[Burners Sorcerie]]).
 
 #### Detect Magic
 

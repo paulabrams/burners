@@ -314,9 +314,9 @@ Some Baal-Mot, Drisi, and Black Wizards tap the vast power of dead dragons — b
 - **Runesword** `[varies by sword type]` — legendary rune-inscribed sword wielded by Eldar battlesingers. Needs a Sword Trait for the sword type (*arming sword*, *longsword*, *greatsword*…).
 - **Singing Bow** — an Elven warbow exquisitely carved and inlaid with silver leaf, channeling vim into arrows as they leave the bow. Needs a Sword Trait (*longbow* / *warbow*; Trained).
 
-### Arcana (Wizard Drip)
+### Wizard Drip (Sorcerie slots)
 
-Sorcerers hold these in **Arcana slots** as Wizard Drip (see [[Burners Sorcerie]]) — wands, orbs, focuses, and the like.
+Sorcerers hold these in **Sorcerie slots** as Wizard Drip (see [[Burners Sorcerie]]) — wands, orbs, focuses, grimoires, and the like. Spellbooks and grimoires may ride **physical or Sorcerie**; in a Sorcerie slot they count as occupied drip.
 
 - **Book of Shadows** — a grimoire of Umbracala shadow-magic spells.
 - **Diadem of the Third Eye** — a pendant suspended above your brow, in the position of your third eye, usually a jewel or precious stone.

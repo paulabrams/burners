@@ -1,9 +1,9 @@
 ---
-
-## layout: default
+layout: default
 title: "Burners OSE Conversions"
 hero: /images/lancelot-speed-pd/knight-approaching-distant-castle.png
 hero_alt: "A knight rides toward the distant keep — Lancelot Speed"
+---
 
 # Burners ↔ OSE Conversions
 
@@ -20,21 +20,21 @@ The clocks already match: OSE turns and rounds are Burners turns and rounds. Dur
 - **Reaction rolls (2d6)** — as written; a character leading the parley adds **Heart**.
 - **Number Appearing, Treasure Type, coin values** — as written; prices are already gold-denominated. Treasure Type hoards convert to gp as written; award **1 XP per gp** when the crew **claims** the haul (see [[Burners Experience]]).
 - **Movement rates** — read as relative speed and reach; resolve in fiction and zones.
-- **XP** — OSE awards for monsters overcome (by HD) and treasure when claimed (1 XP per gp). Magic items: no XP. Eldar use the double-XP column. See [[Burners Experience]] and the table below.
+- **XP** — monsters overcome and treasure **claimed** (1 XP per gp). Magic items: no XP. Monster parts (hide, tusks, and so on): gold or kit, **not XP**. Eldar use the double-XP column. Full procedure: [[Burners Experience]].
 
 ---
 
 ## XP Awards
 
-Burners uses OSE XP awards layered on its own level table (see [[Burners Experience]]). Port treasure types and coin values as written; award treasure XP when the haul is **claimed**. Shares: [[Burners Experience]]. Eldar use the double-XP column.
+Burners uses OSE monster numbers on its own level table (see [[Burners Experience]]). Port treasure types and coin values as written; award treasure XP when the haul is **claimed**. Shares and part-out: [[Burners Experience]]. Eldar use the double-XP column.
 
-| Source                     | Award                                                                           |
-| -------------------------- | ------------------------------------------------------------------------------- |
-| **Monster overcome**       | XP by Hit Dice (table below)                                                    |
-| **Coins, gems, jewelry**   | 1 XP per 1 gp when claimed                                                      |
-| **Magic items**            | 0 XP — the item is the reward                                                   |
-| **Goods & equipment**      | Sale value in gp, when sold                                                     |
-| **Exploration (optional)** | Small crumb — Referee tunes on the monster XP scale; see [[Burners Experience]] |
+| Source                   | Award                                      |
+| ------------------------ | ------------------------------------------ |
+| **Monster overcome**     | Printed OSE XP, or HD chart below          |
+| **Coins, gems, jewelry** | 1 XP per 1 gp when claimed                 |
+| **Goods, art**           | 1 XP per 1 gp when claimed (Ref sets gp)   |
+| **Magic items**          | 0 XP — the item is the reward              |
+| **Monster parts**        | gp or kit when claimed — **0 XP**          |
 
 Level when you next sleep somewhere safe after your XP crosses a tier (see [[Burners Experience]]).
 
@@ -52,7 +52,7 @@ Level when you next sleep somewhere safe after your XP crosses a tier (see [[Bur
 
 For fractional or special HD, **prefer the monster's printed XP** or the full OSE [Awarding XP](http://oldschoolessentials.necroticgnome.com/srd/index.php/Awarding_XP) table (base + bonus per `*` ability). This short chart is a coarse shortcut — e.g. HD 3 reads **60** here, but an OSE [Wight](http://oldschoolessentials.necroticgnome.com/srd/index.php/Wight) (`3`*) is **50 XP**.
 
-**Converting a module hoard.** Roll or place treasure as OSE directs. Coins, gems, and jewelry pay **1 XP per gp** when **claimed** — left behind grants nothing until claimed. Art objects and mundane goods pay at their sale value when sold. Magic items pay **0 XP**; the item is the reward. Delving retainers: full share if Mustering, half if not (see [[Burners Muster]]). Full procedure: [[Burners Experience]].
+**Converting a module hoard.** Roll or place treasure as OSE directs. Coins, gems, jewelry, goods, and art pay **1 XP per gp** when **claimed** — left behind grants nothing until claimed; the Referee sets each find's gp once (now or later). Magic items pay **0 XP**; the item is the reward. Carcass parts (hide, tusks, ivory) may sell or be useful kit — **0 XP** ([[Burners Experience#Part out]]). Delving retainers: full share if Mustering, half if not (see [[Burners Muster]]). Full procedure: [[Burners Experience]].
 
 ---
 

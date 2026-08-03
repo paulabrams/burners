@@ -79,9 +79,6 @@ Prefer the monster's **printed XP** from the [OSE SRD](http://oldschoolessential
 
 \*Or call mummy Major if you want it to feel willful — fire is already its doom.
 
-**Hybrids (like a draugr):** take **kit** from the OSE monster that matches fiction, take **HD / shell** from how hard you want the fight, take **Major / drain N** from the OSE drain ladder (or one step below if you dialled the fight). For XP, either:
+**Hybrids (like a draugr):** take **kit** from the OSE monster that matches fiction, take **HD / shell** from how hard you want the fight, take **Major / drain N** from the OSE drain ladder (or one step below if you dialled the fight). For XP: price what is on the table. No level drain → do not pay wight/vampire shelf XP for a husk. Prefer armor + attacks (crab-band) over printed `*` drain awards. Full shares and claim rules: [[Burners Experience]].
 
-- printed award of the nearest whole monster, or
-- build it: HD base + one bonus per special ability you keep (`*` on the Awarding XP table).
-
-**Example — Lothian A4 Draugr:** **Monster XP 35** (husk, crab-band — armor + two d6; not wight/vampire shelf). Payday: coffin + lung vault listed gp at **1 XP per 1 gp**. Party said vampire; lean and pinholes, not printed specials. Fallen Wound, not level drain.
+**Example — Lothian A4 Draugr:** **Monster XP 35** (husk, crab-band — armor + two d6; not wight/vampire shelf). Payday: coffin + lung vault at **1 XP per 1 gp** when claimed. Party said vampire; lean and pinholes, not printed specials. Fallen Wound, not level drain.

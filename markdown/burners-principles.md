@@ -192,6 +192,7 @@ Every die, save, check, and bonus from another game is a **pointer** to a Burner
 | Magic weapon to hit | Face-down cards; players claim the **right tool** for the extra die |
 | +n weapon or armor | Enchanted tiers, extra Fuel die, minor powers |
 | XP for magic items | 0 XP — the item is the reward |
+| XP for monster parts | 0 XP — purse or kit; see [[Burners Experience#Part out]] |
 
 The full OSE routing tables live in [[Burners OSE Conversions]]. Read a stat block once, write the margin note — 2 × HD cards (face mix), Heat dish, right-tool-if-any — and run it.
 

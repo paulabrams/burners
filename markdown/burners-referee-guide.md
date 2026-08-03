@@ -352,7 +352,7 @@ The party begins in a safe town, which is a haven but not a home base and not th
 
 **Level on a safe sleep.** XP banks in the field; characters take a level when they next sleep somewhere safe — town, inn, watched camp — after their total crosses a tier. Not in the press. Rare emergencies are your call. See [[Burners Experience]].
 
-**Exploration crumbs (optional).** A small XP award for a wilderness hex newly mapped or a dungeon room meaningfully explored rewards poking and mapping without replacing treasure. Tune the number; there is no fixed crumb.
+**XP tracking.** Claimed treasure and monsters overcome only — [[Burners Experience]]. Monster parts are purse or kit, never a second XP award. Tell players their totals; keep the fight-and-claim roster in your notes.
 
 **Inventing spells and items.** When a player wants a working or lasting item not in the catalog, treat it as a campaign project: time, rare materials, a teacher or ruin, and a clear failure mode. No price table. Costume drip is shop gear at 100 gp; enchanted Arcana stay finds. Research may yield a scroll or potion formula, or a one-off the table invents together. See [[Burners Sorcerie]].
 

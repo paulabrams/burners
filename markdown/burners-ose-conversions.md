@@ -106,7 +106,7 @@ Preferred Referee play is **Heat-only pool + free quoted attacks** — no free m
 
 **Multi-attack routines** (claw/claw/bite): the Referee sets how many **quotes** the creature throws (a wolf bites once, a bear claws twice, a hydra strikes per head), each defended separately. Spread them across several characters, or land them all on one.
 
-**Spellcasting monsters:** convert their list through the Spells section, or skip the list and quote each casting as a blow or a telegraph. A dragon does not need a spellbook; it needs a Breath telegraph and two good tricks.
+**Spellcasting monsters:** convert their list through the Spells section, or skip the list and quote each casting as a blow or a telegraph. A dragon does not need a spellbook; it needs a Breath telegraph and two good tricks. Wizard-type foes and libraries: leave a grimoire with **1–3 named 1sts**, school labeled — see *Enemy spellbooks* on [[Burners Referee Guide]].
 
 ### The Defend Router
 
@@ -182,7 +182,7 @@ Read straight off the printed block — 2 × HD cards (face mix), Heat, right-to
 
 Port OSE spells onto [[Burners Spells]] when a match exists; otherwise write a one-line effect in the same format (`School L: …`).
 
-- **Spell level = cast level SL.** Hand holds prepared cards; Sorcerie slot count sets hand size; drip rides in Sorcerie slots at full item cost. Sleep recovers up to caster Level cards (untap/burn/lasting); redraw or one-hour swap needs a readable source.
+- **Spell level = cast level SL.** Hand holds prepared cards; Sorcerie slot count sets hand size; Arcana rides in Sorcerie slots at full item cost (books and scrolls may too — fill the slot, no Initiative die). Sleep recovers up to caster Level cards (untap/burn/lasting); redraw or one-hour swap needs a readable source.
 - **Durations and ranges as written** — the clocks match.
 - **Casting (combat):** one Action; burn at least SL Fuel dice, roll them — cast total = sum of faces. Tap the card. On a Spark, Fuel it with one or more additional Fuel dice, up to SL, for extra effect; unfueled, it fades. May burn ready cards in the same Action to recast or copy.
 - **Casting (NPC / module caster):** roll at least **SL Fuel dice** for the cast total the same way. A hostile cast **rolls initiative** if no fight is underway.
@@ -193,7 +193,7 @@ Port OSE spells onto [[Burners Spells]] when a match exists; otherwise write a o
 
 ## Magic Items
 
-Potions, rings, cursed items, and wondrous items port **as written** — they are fiction plus a rule, and the fiction is the value. **Magic items grant no XP**; the item is the reward (see *XP Awards*). Wands and staves that fit **Wizard Drip** ride in Sorcerie slots at full slot cost (costume drip 100 gp in town; enchanted drip is a find — see [[Burners Sorcerie]]); they do not add hand cards. Item powers run as magic items, or for a one-off keep charges as a simple budget.
+Potions, rings, cursed items, and wondrous items port **as written** — they are fiction plus a rule, and the fiction is the value. **Magic items grant no XP**; the item is the reward (see *XP Awards*). Wands and staves that fit **Arcana** ride in Sorcerie slots at full slot cost (costume Arcana 100 gp in town; enchanted Arcana is a find — see [[Burners Sorcerie]]); they do not add hand cards. Item powers run as magic items, or for a one-off keep charges as a simple budget.
 
 ### +n Arms, Shields, and Armor → Enchanted + Powers
 

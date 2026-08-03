@@ -354,7 +354,9 @@ The party begins in a safe town, which is a haven but not a home base and not th
 
 **XP tracking.** Claimed treasure and monsters overcome only — [[Burners Experience]]. Monster parts are purse or kit, never a second XP award. Tell players their totals; keep the fight-and-claim roster in your notes.
 
-**Inventing spells and items.** When a player wants a working or lasting item not in the catalog, treat it as a campaign project: time, rare materials, a teacher or ruin, and a clear failure mode. No price table. Costume drip is shop gear at 100 gp; enchanted drip stays a find. Research may yield a scroll or potion formula, or a one-off the table invents together. See [[Burners Sorcerie]].
+**Inventing spells and items.** When a player wants a working or lasting item not in the catalog, treat it as a campaign project: time, rare materials, a teacher or ruin, and a clear failure mode. No price table. Costume Arcana is shop gear at 100 gp; enchanted Arcana stays a find. Research may yield a scroll or potion formula, or a one-off the table invents together. See [[Burners Sorcerie]].
+
+**Enemy spellbooks.** When a foe casts from a tradition (or keeps a library), stock a grimoire as treasure on purpose: **1–3 named 1st-level spells**, school labeled (or common Sorcerie). Scrolls are optional spice; the book feeds latecomers who scribe free. A dragon still needs a Breath telegraph more than a book — this habit is for wizard-type foes and libraries.
 
 ---
 
@@ -367,7 +369,7 @@ When an item is not on the [[Burners Equipment]] tables, price it from its slots
 - Plain armaments (odd weapons not on the list): 5 gp per slot.
 - Provisions: 1 gp per meal for the group.
 - Ranged weapons and special materials such as silver add a surcharge when you invent a new piece.
-- Costume Wizard Drip: **100 gp apiece** in town; enchanted drip is found, seized, gifted, or inherited. Scrolls and potions are downtime craft at 100 gp × spell level (see [[Burners Sorcerie]]).
+- Costume Arcana: **100 gp apiece** in town; enchanted Arcana is found, seized, gifted, or inherited. Scrolls and potions are downtime craft at 100 gp × spell level (see [[Burners Sorcerie]]).
 - **Ask a teacher to teach you something:** **1,000 gp × spell level** — teacher chooses the working (see *Learning Spells* on [[Burners Sorcerie]]). Blank personal spellbook: **25 gp**.
 - Heavy or exceptional armaments run far dearer: about 100 gp for a +1 grade, 1,000 gp for a rare +2 (added on a listed or formula price).
 - Elevated quality adds to any item: +10 gp for fine, +100 for rich, +1,000 for noble work.

@@ -1297,7 +1297,7 @@ Umbrakala 5: You step through shadow to a spot you see within Sorcerie × 40'.
 
 #### Enhance Power
 
-Thaumaturgy 5: Next spell cast from this focus (the drip or piece holding the working) within Sorcerie hours gains +1 effective Sorcerie for scaling only.
+Thaumaturgy 5: Next spell cast from this focus (the Arcana or piece holding the working) within Sorcerie hours gains +1 effective Sorcerie for scaling only.
 
 #### Ghost Bind
 

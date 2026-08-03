@@ -228,7 +228,7 @@ Your backpack takes 3 slots and contains: bedroll, waterskin, fifty feet of rope
 
 Your Approach also brings starting gold and its own kit or standing — see below. Spend what you keep in town from the tables further down; everything you carry ready takes an item slot.
 
-**Starting kits are for new characters only.** The Veteran purse, Boss loyal retainer, Journeyman free tool, Sorcerer spellbook and drip — those are creation. When you later put a level into a different Approach, you gain the Approach and its title, not that Approach's starting gold or free kit. A Veteran who becomes a Boss does not wake a loyal retainer. A Boss who takes Sorcerie 1 does not get a free book, drip, or starting spells — **buy a blank spellbook (25 gp)**; costume drip 100 gp each if wanted; spells are not for sale as a catalog. Learn from found grimoires (scribe free, time only) or **ask a teacher to teach you something** (**1,000 gp × level** — the teacher chooses the working; see *Learning Spells* on [[Burners Sorcerie]]). Waiting costs more than starting as a Sorcerer because you miss the apprentice kit. Re-split slots on rest when the new Approach needs it (Muster, Sorcerie slots).
+**Starting kits are for new characters only.** The Veteran purse, Boss loyal retainer, Journeyman free tool, Sorcerer spellbook and Arcana — those are creation. When you later put a level into a different Approach, you gain the Approach and its title, not that Approach's starting gold or free kit. A Veteran who becomes a Boss does not wake a loyal retainer. A Boss who takes Sorcerie 1 does not get a free book, Arcana, or starting spells — see *New Sorcerer in play* on [[Burners Sorcerie]]: **buy a blank spellbook (25 gp)**; costume Arcana 100 gp each if wanted; spells are not for sale as a catalog. Learn from found grimoires (scribe free, time only) or **ask a teacher to teach you something** (**1,000 gp × level** — the teacher chooses the working). Waiting costs more than starting as a Sorcerer because you miss the apprentice kit. Re-split slots on rest when the new Approach needs it (Muster, Sorcerie slots).
 
 ### The Starting Veteran
 
@@ -293,7 +293,7 @@ A sample buy after the free tool, 23 gp of your sixty, filling all twelve:
 
 Bow in hand throws 2 on Roll Initiative; empties throw 4; level throws 1 — a pool of 7. Light kit, room for the road. Your Craft is how the band endures the wilds (see *The Journeyman's craft*).
 
-A Canting Journeyman who takes the Canting Trait and walks that road declares 7 physical + 5 kicks — same slot-split rules as Sorcerie slots, different name — but starts with no spells and an empty hand until they learn Canting in play. See *The Canting Journeyman* on [[Burners Sorcerie]].
+A Canting Journeyman who takes the Canting Trait and walks that road declares 8 physical + 4 kicks — same slot-split rules as Sorcerie slots, different name — but starts with no spells and an empty hand until they learn Canting in play. See *The Canting Journeyman* on [[Burners Sorcerie]].
 
 ### The Starting Sorcerer
 
@@ -301,30 +301,29 @@ Starting gold: 40 gp.
 
 A Sorcerer's craft comes with a kit (the fruit of your apprenticeship). That is why your starting gold is so much lighter than a Veteran's: you already spent most of it becoming a mage. Your kit is:
 
-- 7 physical slots + 5 Sorcerie slots — declare the split at creation; you may not re-split until your first 8-hour sleep. Sorcerie slots set your hand size (5) and hold Wizard Drip — wand, staff, rod, orb, crystal, ring, amulet, mask, robes, hat, **spellbook / grimoire**, at each item's full slot cost. Never armor, shields, or war kit. Books may instead ride physical; either way you are carrying them. See *Sorcerie Slots* on [[Burners Sorcerie]].
-- Two free Wizard Drip — costume of the craft, pick two from the allow-list (a wand and a hat, a ring and an amulet, a staff alone if you want the bulk). Mundane grade; enchanted drip is still a find. They teach you to fill Sorcerie slots — empty Sorcerie slots throw no Initiative dice.
-- A spellbook in a scrivener's satchel (book, ink pot, quill, loose-leaf paper): *Read Magic* plus four other 1st-level spells from your school, all known — apprenticeship already taught them (*Read Magic* is useful loot literacy, not the key to the other four). The Referee picks them, rolls them, lets you choose, or works with you. The book is kit (not one of the two free costume picks); it may sit in a Sorcerie slot or physical. Plain ink records Facts free; moving further spells into the book later costs time, not gold per spell (see *Spellbooks* on [[Burners Sorcerie]]).
-- Your hand is all five known spells — ready to cast. Count them on your fingers.
+- 8 physical slots + 4 Sorcerie slots — declare the split at creation; you may not re-split until your first 8-hour sleep. Sorcerie slots set your hand size (4). They hold **Arcana** (staff, wand, rod, orb, crystal, ring, amulet, mask, robes, hat) at each item's full slot cost — those throw Initiative. **Books and scrolls** may ride physical or Sorcerie; they fill the slot, no Initiative die. Never armor, shields, or war kit. See *Sorcerie Slots* on [[Burners Sorcerie]].
+- One free Arcana — costume of the craft; pick one from the allow-list. Mundane grade; enchanted Arcana is still a find. Empty Sorcerie slots throw no Initiative dice.
+- A spellbook in a scrivener's satchel (book, ink pot, quill, loose-leaf paper): *Read Magic* plus three other 1st-level spells from your school, all known — apprenticeship already taught them (*Read Magic* is useful loot literacy, not the key to the other three). The Referee picks them, rolls them, lets you choose, or works with you. The book is kit (not the free costume pick); it may sit in a Sorcerie slot or physical. Plain ink records Facts free; moving further spells into the book later costs time, not gold per spell (see *Spellbooks* on [[Burners Sorcerie]]).
+- Your hand is all four known spells — ready to cast.
 
 A sample buy, 23 gp of your forty:
 
-Sorcerie slots (5):
+Sorcerie slots (4):
 
 - Spellbook (kit) — 1 slot
-- Wand (free drip) — 1 slot
-- Hat (free drip) — 1 slot
-- Empty Sorcerie slots — 2 (hand size still 5; empty Sorcerie slots throw no Initiative dice)
+- Wand (free Arcana) — 1 slot
+- Empty Sorcerie slots — 2 (hand size still 4; empty slots and the book throw no Initiative dice)
 
-Physical (7):
+Physical (8):
 
 - Leather (AC 1) — 2 slots, 20 gp
 - Backpack — 3 slots
 - Dagger — 1 slot, 3 gp
-- Empty — 1 slot
+- Empty — 2 slots
 
-Initiative: book, wand, and hat drip throw 3, one empty physical throws 1, level throws 1 — a pool of 5. The dagger on the belt throws nothing until it is in hand. The magic is already yours.
+Initiative: wand Arcana throws 1, two empty physical throw 2, level throws 1 — a pool of 4. The dagger on the belt throws nothing until it is in hand. The book in a Sorcerie slot throws nothing. The magic is already yours.
 
-Two of your school's six 1st-level spells are not in your book. Those, deeper spells, other schools, and more drip are your hunt. Extra costume drip runs 100 gp apiece in town; enchanted drip stays a find. Found grimoires you can read let you memorize while you carry them; scribing into your personal book costs **time** (and destroys the source page), not 100 gp per spell. *Read Magic* identifies loot — it is not required to learn. See [[Burners Sorcerie]].
+Three of your school's six 1st-level spells are not in your book. Those, deeper spells, other schools, and more Arcana are your hunt. Extra costume Arcana runs 100 gp apiece in town; enchanted Arcana stays a find. Found grimoires you can read let you memorize while you carry them; scribing into your personal book costs **time** (and destroys the source page), not 100 gp per spell. *Read Magic* identifies loot — it is not required to learn. See [[Burners Sorcerie]].
 
 Canting rogues use the same split for kicks — see *The Starting Journeyman*.
 
@@ -391,7 +390,7 @@ When you reach level 1 in an Approach, you earn its title. The title turns on th
 | Approach | Title | Turns on |
 | --- | --- | --- |
 | Sword | Veteran | extra attacks |
-| Sorcerie | Sorcerer | cast from your hand; Sorcerie slots and wizard drip; read magic |
+| Sorcerie | Sorcerer | cast from your hand; Sorcerie slots and Arcana; read magic |
 | Craft | Journeyman | reduce party-wide travel, weather, and survival costs by your Craft level |
 | Heart | Boss | **Muster** (1 slot per retainer); **Manage** (up to Heart); Loyalty |
 
@@ -405,7 +404,7 @@ Alignment is an Approach for when the fiction does not map cleanly to Sword, Cra
 
 **Situational Alignment** is the catch-all for the odd moment. Hauled before the Thieves' Guild masters, Heart is close but not quite. The Referee calls **Alignment with the Thieves' Guild** instead, counting canting, streetwise, that season you spent as a fence. Use a fixed Approach for ordinary rolls. Reach for situational Alignment only for the particular strange thing in front of you.
 
-**Patron Alignment** is the same math. The axis is an otherworldly being: a god, saint, d'jinn, dead power, or thing from beyond the veil that has a True Name and a nature. Record it on your sheet when it matters: *Lunara 2*, *the Voice in the Void 1*. It grows the way everything in Burners grows. You take Traits that bear on the patron at level-up. You keep a **Relic** of theirs. You accept their shaping after a pact. You do deeds they favor. A Relic of the patron (their conduit, often a named drip or other named item) counts as +1 Alignment with that patron for Invocations only.
+**Patron Alignment** is the same math. The axis is an otherworldly being: a god, saint, d'jinn, dead power, or thing from beyond the veil that has a True Name and a nature. Record it on your sheet when it matters: *Lunara 2*, *the Voice in the Void 1*. It grows the way everything in Burners grows. You take Traits that bear on the patron at level-up. You keep a **Relic** of theirs. You accept their shaping after a pact. You do deeds they favor. A Relic of the patron (their conduit, often named Arcana or another named item) counts as +1 Alignment with that patron for Invocations only.
 
 | Alignment level | What it means at the table |
 | --- | --- |
@@ -444,9 +443,9 @@ See *Traits* under Character Creation.
 
   - Traits: marsh-lore, second-sight, witch-blood, Vitae (Sorcerie).
 
-  - Hand: *Read Magic*, *Healing Touch*, *Stanch*, and two other 1sts from her book — all five ready. *Stanch* is the card that helps at 0 HP or less; *Healing Touch* does not.
+  - Hand: *Read Magic*, *Healing Touch*, *Stanch*, and one other 1st from her book — all four ready. *Stanch* is the card that helps at 0 HP or less; *Healing Touch* does not.
 
-  - Split: 5 Sorcerie slots (hand size 5), 7 physical — spellbook + two free Wizard Drip (wand and hat) in Sorcerie slots; the rest plain kit.
+  - Split: 4 Sorcerie slots (hand size 4), 8 physical — spellbook + one free Arcana (wand) in Sorcerie slots; the rest plain kit.
 
 - **Pip**, Craft 1 (Journeyman). "Has never been caught. Not once."
 
@@ -642,7 +641,7 @@ Each Combat Round is one minute. You act in locked Initiative order. On your tur
 - one die per slot if you have a weapon in hand;
 - one die per slot if you have a shield in hand;
 - one die per empty inventory slot, up to 4;
-- one die per Sorcerie slot occupied by Wizard Drip (or per occupied kick). Empty Sorcerie slots / empty kicks add none. Do not also count those slots as empty inventory.
+- one die per Sorcerie slot occupied by Arcana (or per occupied kick). Empty Sorcerie slots, books, and scrolls add none. Empty kicks add none. Do not also count those slots as empty inventory.
 - one die per Muster slot (Boss). (Empty or filled. Do not double-count empty Muster slots.)
 
 Roll them all. The faces you rolled, kept as they lie, are your Fuel for the fight. Your **Initiative** is the count of them showing 3 or 4.

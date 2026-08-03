@@ -63,7 +63,7 @@ The Referee sets each find's gp once, now or later. Unknown gp does not block th
 
 ## Part out
 
-Optional: strip a kill for salvage (hide, tusks, and so on). The Referee sets the gp. Claim it and it pays like any other treasure; leave it on the beach and it pays nothing. No second monster XP for the same foe.
+Optional: strip a kill for salvage (hide, tusks, and so on). The Referee sets the gp — that is purse money when you claim or sell it, **not XP**. Monster XP is the fight; parts do not pay again. (Otherwise every carcass becomes an XP farm.)
 
 ## Who tracks what
 

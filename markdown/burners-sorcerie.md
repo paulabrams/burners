@@ -72,9 +72,11 @@ of level up to your Sorcerie. A Sorcerie-1 mage knows only 1st-level spells; a
 Sorcerie-6 up to 6th. There is no focus ladder — no relic that lets a first-rank sorcerer
 throw a 6th. The power is in the practitioner.
 
-**A school is trained-only.** Each of the seven people-schools keeps its own secret
-language and spell list; you must hold a Trait in that school to touch it at all. The
-common Sorcerie school asks no Trait — being a Sorcerer is grammar enough.
+**A school is trained-only.** Each of the **six people-schools** (Vitae, Elementale,
+Thaumaturgy, Illusione, Umbrakala, Necromantia) keeps its own secret language and spell
+list; you must hold a Trait in that school to touch it at all. The common Sorcerie school
+asks no Trait — being a Sorcerer is grammar enough. Canting is separate — Craft, not a
+people-school.
 
 **Hedge wizards.** Village casters, chapel priests, roadside apothecaries — still
 **Sorcerers**. Same cards, same Sorcerie-slot split. They may work common Sorcerie alone,
@@ -225,9 +227,9 @@ one of those forms — goat-horn hat, bone amulet, cracked crystal.
 2. **Pay the Cost.** In combat, casting is one Action: burn at least SL Fuel dice
    (SL = the working's level) and roll them for the **cast total**, as ever. Out of combat,
    roll **2d6 + Sorcerie** (or **2d6 + Craft** for Canting) against the Referee's Cost.
-   Sparks, Double Spicy fumbles, and Defending against a spell run as written in
+   Sparks, cast fumbles, and Defending against a spell run as written in
    [[Burners Adventure Game]].
-3. **Tap the card.** An instant working goes to your discard as it resolves. A lasting
+   3. **Tap the card.** An instant working goes to your discard as it resolves. A lasting
    working stays **in play** for its duration, then joins the discard.
 
 Casting in reach may invite a **Counterattack**. Struck mid-cast, Defend and mid-tempo disrupt as in
@@ -237,8 +239,7 @@ Casting in reach may invite a **Counterattack**. Struck mid-cast, Defend and mid
 burn that Fuel on the *working itself* — another target caught, a beat longer, a ward
 pierced (Referee's call). Add no Fuel and the Spark fades.
 
-**Double Spicy** on a combat cast is a fumble — the working goes wrong (the Referee's worst
-fitting outcome: singe an ally, alert the ward, the card taps with no effect).
+**Cast fumble (combat).** Combat has no Sweet or Spicy. If two or more of the Fuel dice burned for the cast show **1**, or a one-die cast shows **1**, the working fumbles — the Referee's worst fitting outcome (singe an ally, alert the ward, the card taps with no effect).
 
 ## Burning
 
@@ -582,17 +583,14 @@ underway, roll initiative — the caster gains no free first strike. Exception: 
 working in a friendly conversation needs no Initiative and no Defend from ordinary folk
 ([[Burners Referee Guide#Hostile magic outside a fight]]).
 
-You may **Defend** as against any blow: burn Fuel dice, roll them, sum the faces. Those
-dice are burned for the fight. Your **defense total** opposes the cast total. Choose
-whichever Approach fits; the spell may suggest one (*Defend: Sword*, *Defend: Heart*, and
-so on). Commit as many Fuel dice as you choose — no cap.
+You may **Defend** as against any blow: burn Fuel dice, sum the faces. Those dice are
+burned for the fight. Your **defense total** opposes the cast total. Hostile magic has
+**no die cap**. Spell text that says *Defend: Sword* (or Heart, Craft…) is fiction — which
+Approach the struggle feels like — not a `2d6 + Approach` roll.
 
-**Warding.** Any **Sorcerer** (Sorcerie 1+) adjacent to an ally or a tight group may
-**Ward** hostile magic aimed at them — a spell's cast total, magical breath, and the like
-(not mundane fire alone). Commit up to your **Sorcerie Level** in Fuel dice; subtract their
-sum from the attack value. **Each ally then Defends normally** against what remains. No
-school Trait; no card. Craft-only Canting Journeymen cannot Ward. See *Ward* in
-[[Burners Adventure Game]].
+**Warding.** See **Ward** under Combat in [[Burners Adventure Game]]. Short form: a Sorcerer
+(Sorcerie 1+) adjacent to allies may burn up to Sorcerie Level Fuel to cut a hostile cast
+total or magical breath; each ally then Defends the remainder. Craft-only Canting cannot Ward.
 
 - **Defense ≥ cast:** fully defended — no effect, no HP loss.
 - **Defense < cast:** **overrun** = cast − defense. Apply per the harm/effect lanes above.

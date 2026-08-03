@@ -15,7 +15,7 @@ Three things run most of it: the Heat gauge you drive up and down as the scene's
 
 ## Running Heat
 
-Heat is the crew's shared gauge and the spine of every scene — the full player rules are in [[Burners Adventure Game]]; here is how you drive it. It is the temperature of the room, not anyone's nerve: you narrate the room tightening and the number, face-up on the table, tracks it.
+Heat is the crew's shared **collateral** and the spine of every scene — the full player rules are in [[Burners Adventure Game]]; here is how you drive it. Bank unpaid Cost now; spend it when the mess comes back to bite. You narrate the room tightening and the number, face-up on the table, tracks it.
 
 **Open every scene at a base**, set by how hot the room already is:
 
@@ -31,7 +31,7 @@ Heat is the crew's shared gauge and the spine of every scene — the full player
 
 **Work the valves.** Heat falls when the crew acts on the room, not on request: fell or lose a named threat, −2; remove a named source (quench the fire, learn the ward-phrase), −1 or more; a Double Sweet vents 1; a steadying word or plan you buy, −1 once a scene. Folding ends the scene and cools to the next base. Downtime — a safe camp, a town between jobs — cools to base; a job that ended loud raises the base of what follows until the crew lies low and spends coin. Carousing is maintenance, not vice.
 
-Heat is scene pressure and Cost, not the enemy Initiative dish. Foes roll a **group 1d6** for order (see *Monsters at speed*). Optional press remains a Referee call when a quote should bite harder — it does not require rolling Heat as a Fuel pool. Finish it or fold.
+Heat is collateral and Cost, not the enemy Initiative dish. Foes roll a **group 1d6** for order (see *Monsters at speed*). Optional press remains a Referee call when a quote should bite harder — it does not require rolling Heat as a Fuel pool. Finish it or fold.
 
 ---
 
@@ -39,7 +39,7 @@ Heat is scene pressure and Cost, not the enemy Initiative dish. Foes roll a **gr
 
 Burners has no spell save. In a fight, a Burner **Defends** the cast total with Fuel; overrun lands harm or control ([[Burners Sorcerie]]). Ordinary folk and monsters at preferred speed have no Fuel — they do not get a free Defend.
 
-**Out of combat the working lands.** The caster rolls **`2d6 + Sorcerie`** (Craft for Canting) against your Cost. Shortfall is Heat (and noise, time, or a Spicy twist when that fits). Heat is what used to be the save: bank it and spend when the consequence fits.
+**Out of combat the working lands.** The caster rolls **`2d6 + Sorcerie`** (Craft for Canting) against your Cost. Shortfall is Heat — collateral (and noise, time, or a Spicy twist when that fits). Bank it and spend when it bites.
 
 **Friendly conversation.** Control and charm aimed at a willing talker — *Bewitch*, *Command*, *Charm Person* from a module — may be cast without starting combat and without rolling Initiative. The mark is charmed (or obeys the word) as the spell says. Spell fiction still holds: no suicidal orders, habits and duty can balk, a friend still will not open the vault.
 
@@ -288,7 +288,7 @@ The Referee raises or lowers Damage for the situation. Set a value from the band
 | +4 | severe | pinned, ambushed in the dark, several stacked |
 | +5 | dire | helpless while the fight still rages |
 
-The defender's edge runs the same band the other way: partial cover is a 2, hard cover a 4, an attacker who is in the dirt or swinging blind gives you a 2 or 3. When a blow outruns the dice a defender can burn (a lone die, or as many as they like once they have meleed this round; two vs a missile with Cover) plus their armor, the excess lands on HP — and past 0 it cuts a score.
+**Cover** is not a Damage cut — it is the missile Defend cap (1 die normally, 2 with Cover). See [[Burners Adventure Game]]. When a blow outruns the dice a defender can burn plus their armor, the excess lands on HP — and past 0 it opens a Wound.
 
 ---
 

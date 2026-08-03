@@ -19,7 +19,7 @@ The rules in [[Burners Adventure Game]] and the satellite books are built on a s
 
 Player skill decides whether the world bends; your Approach decides only how much effect you have. A good idea, well told, makes things happen. Your sheet makes them happen harder. It never makes the impossible possible.
 
-**Dice only when there is a price.** The dice come out when a Cost is on the table — Heat, HP, time, noise, position, or a Spicy twist. A safe and certain action just happens. There is no Persuade roll for whether the world bends; that is Step 1. Heart amplifies a success the fiction already grants; it never manufactures an impossible one.
+**Dice only when there is a price.** The dice come out when a Cost is on the table — Heat (collateral), HP, time, noise, position, or a Spicy twist. A safe and certain action just happens. There is no Persuade roll for whether the world bends; that is Step 1. Heart amplifies a success the fiction already grants; it never manufactures an impossible one.
 
 ---
 
@@ -63,9 +63,9 @@ Death lands after the fight — **unhelped Wound**, **failed Craft survival**, o
 
 ---
 
-## Heat is scene pressure
+## Heat is collateral
 
-**Heat** is one shared gauge for the whole crew — the temperature of the scene, not any one body's flesh. It prices most out-of-combat Costs and clocks when a job turns dangerous.
+**Heat** is the crew's shared bank of **collateral** — unpaid Cost that will come back to bite. Not anyone's flesh; the mess the job is making. It prices most out-of-combat Costs and clocks when a scene turns dangerous.
 
 - Heat is **never a damage buffer**; blows in a fight go to HP, not Heat.
 - Heat is **not** monster Initiative — foes use a **group 1d6** (see [[Burners Adventure Game#Combat]]). Optional press is separate. **Don't double-count dread:** the creature's Monster Stack and weapon quotes are its own; Heat prices only the situation — the dark, the alarm, the flanking.
@@ -94,7 +94,7 @@ An **Invocation** is a bargain, not a spell. No hand, no Sorcerie slots, no scho
 
 Out of combat, **Sweet** (6) and **Spicy** (1) ride alongside the sum and never change it. Double Sweet is the perfect roll; double Spicy is a fumble.
 
-**Combat has no Sweet or Spicy.** There you read the dice you burn; a 6 is a **Spark** — an opportunity you normally must Fuel with another die to use. Unfueled, it fades.
+**Combat has no Sweet or Spicy.** There you read the dice you burn; a 6 is a **Spark** — an opportunity you normally must Fuel with another die to use. Unfueled, it fades. Combat cast fumbles, Fragile breaks, and enchanted "on hit" powers key off Fuel faces (1s / Sparks), not Sweet or Spicy — see [[Burners Sorcerie]], [[Burners Arms and Armor]], [[Burners Referee Magic Items]].
 
 ---
 
@@ -206,7 +206,7 @@ The full OSE routing tables live in [[Burners OSE Conversions]]. Read a stat blo
 - **No gotchas.** Face-up Fuel, announced Heat, telegraphed threats — warn before a sharp rule bites (Cover Sparks into the press), then honor the choice.
 - **Telegraph the big hits.** Dragon breath and collapsing ceilings are choices, not surprises sprung cold.
 - **Let the dread work.** Lingering Costs and wound severity do the horror; the Referee does not re-roll every round.
-- **Face the Heat dial.** Foreshadowing in module text is a raise; preparation is a reduction.
-- **Don't double-count dread.** Creature stats and scene Heat are separate levers.
+- **Face the Heat dial.** Collateral waiting to bite: foreshadowing in module text is a raise; preparation is a reduction.
+- **Don't double-count dread.** Creature stats and scene Heat (collateral) are separate levers.
 
 *When two rules seem to disagree, the principle wins — then find the subsystem that already implements it.*

@@ -7,7 +7,7 @@ hero_alt: "The wizard and his book — H. J. Ford"
 
 # Burners Spells
 
-Eight magic schools, each with **up to** 36 spells from 1st to 6th level — a ceiling, not a quota. Sorcerie is the common craft every mage shares; the other seven are the traditions of the peoples of the Dragon Isles. How you prepare, cast, and Defend is on **[[Burners Sorcerie]]**; worked rulings for every 1st-level spell are on **[[Burners Magic Examples]]**.
+Eight magic schools, each with **up to** 36 spells from 1st to 6th level — a ceiling, not a quota. **Sorcerie** is the common craft; **six people-schools** are the traditions of the peoples of the Dragon Isles; **Canting** is the Darkman's Craft school. How you prepare, cast, and Defend is on **[[Burners Sorcerie]]**; worked rulings for every 1st-level spell are on **[[Burners Magic Examples]]**.
 
 | School | Domain | Tradition |
 | --- | --- | --- |
@@ -47,7 +47,7 @@ Minimum 1 where a count is implied.
 
 ### Sorcerie
 
-The common craft — no people's tradition, but the raw grammar of magic that underlies all seven schools. These are the first workings every apprentice learns before a school claims them, and the meta-magics the schools never bother to teach: reading auras, dispelling, warding. Sorcerie is written in plain sigils any mage can read, and it needs **no school Trait** — any Sorcerer may learn and cast its spells, whatever their tradition. It never throws force; it handles magic itself.
+The common craft — no people's tradition, but the raw grammar of magic that underlies the six people-schools. These are the first workings every apprentice learns before a school claims them, and the meta-magics the schools never bother to teach: reading auras, dispelling, warding. Sorcerie is written in plain sigils any mage can read, and it needs **no school Trait** — any Sorcerer may learn and cast its spells, whatever their tradition. It never throws force; it handles magic itself.
 
 #### Sorcerie Level 1
 
@@ -632,7 +632,7 @@ Vitae 1: Sorcerie listeners shake off fear or despair; each recovers 1 HP if the
 
 #### Juke
 
-Canting 1: Your next Defend this round gains +Craft (dirty fighting). #needs-playtest
+Canting 1: Your next Defend this round may burn **one extra Fuel die** beyond the usual cap (dirty fighting). #needs-playtest
 
 #### Leap
 
@@ -948,7 +948,7 @@ Illusione 3: A creature enters a trance and will answer Sorcerie yes or no quest
 
 #### Illusory Spray
 
-Illusione 3: Flash blinds Sorcerie foes for 1 round (Defend: Sword, or −3 Damage on the next Defend).
+Illusione 3: Flash blinds Sorcerie foes for 1 round (Defend vs cast total, or −3 Damage on the next Defend).
 
 #### Invisibility
 

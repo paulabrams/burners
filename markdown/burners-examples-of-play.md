@@ -51,7 +51,7 @@ hero_alt: "Travelers on the road — Albert Robida"
 
 - Sefa checks for traps (Craft): Pay @ 7 → 2d6+1 = **6**, short 1 → **Heat 8**. Pit *not* spotted.
 - Marching order puts Brand on it. It springs, no telegraph, no Fuel up out of combat: Damage 2 − Brand's AC 1 (soaks on the way in) = **1 to HP.** Brand 5 → 4.
-- Even-turn WM (time): d6 = **1** — encounter. Cellar denizens, hostile by writ: **4 grave-rats** (HD 1 each → **2 red** apiece; bite quote **3**). Log `!!` for the fight; that is the encounter already — no noise roll on top of it. After the scrap, nobody Wounded → no wounds roll.
+- Even-turn WM (time): d6 = **1** — encounter. Cellar denizens, hostile by writ: **4 grave-rats** (HD 1 each → **2 face-up** apiece — naked sushi; bite quote **3**). Log `!!` for the fight; that is the encounter already — no noise roll on top of it. After the scrap, nobody Wounded → no wounds roll.
 
 ### Combat 1 — Grave-rats (4). Heat 8
 
@@ -59,8 +59,8 @@ hero_alt: "Travelers on the road — Albert Robida"
 
 **Round 1.**
 
-- **Kragg** attacks: burns a 5 → damage **5** → Hits ⌈5÷5⌉ = **1**. All-red rat: pluck 1 red → **1 face-up left**. He burns a 6 to strike a **Spark**, Fuels it with a 2 for a second attack → damage **2** → **1 Hit** → pile gone. Rat 1 dead.
-- **Brand** attacks: burns a 5 → **1 Hit** → rat 2 at **1 red**.
+- **Kragg** attacks: burns a 5 → damage **5** → Hits ⌈5÷5⌉ = **1**. All-up rat: pluck 1 face-up → **1 face-up left**. He burns a 6 to strike a **Spark**, Fuels it with a 2 for a second attack → damage **2** → **1 Hit** → pile gone. Rat 1 dead.
+- **Brand** attacks: burns a 5 → **1 Hit** → rat 2 at **1 face-up**.
 - **Ilsa** (spear) attacks: burns a 4 → **1 Hit** → finishes rat 2.
 - **Rats** act: rats 3 and 4 bite Sefa (quote **3** each). She Defends the first 3 with a 4. Against the second 3, leather soaks 1 first; she burns a 3 to cut the rest. Zeroed.
 
@@ -68,7 +68,7 @@ hero_alt: "Travelers on the road — Albert Robida"
 
 - **Kragg** drops rat 3 with two blows (same math). **Brand** chips rat 4; **Ilsa** finishes it. Threat overcome → **vent 2 → Heat 6.**
 
-*Note: each HD 1 rat is a 2-red pile — one solid Hit each, often two scrap blows. A swarm's teeth are its count of quotes, not any one blow — and a Burner's armor soaks each blow separately, so numbers grind rather than spike.*
+*Note: each HD 1 rat is a 2-card all-up stack — one solid Hit each, often two scrap blows. A swarm's teeth are its count of quotes, not any one blow — and a Burner's armor soaks each blow separately, so numbers grind rather than spike.*
 
 **Turn 5 — rest of Cellar 2.** `x`
 
@@ -190,7 +190,7 @@ Order: Kragg (**3**) → enemy group (**2**) → Brand, Sefa, Ilsa (**1**s; play
 
 ### Procedure Notes
 
-- **Social scenes:** see [[Burners Principles#Two engines]] and [[Burners Principles#Heat is scene pressure]]. Heart pays for risky reads and squeezes as Pay rolls.
+- **Social scenes:** see [[Burners Principles#Two engines]] and [[Burners Principles#Heat is collateral]]. Heart pays for risky reads and squeezes as Pay rolls.
 - **Heat is the social gauge too.** The meet opened at 4, climbed on a botched press, and a revealed threat set a floor. When steel came out, enemy **Initiative** was a **group 1d6**, not Heat.
 - **Declaring an attack is "roll initiative" — and the declarer is not first.** The sharper's charm started the fight and Kragg still beat him to the floor. A hostile working where no fight is underway triggers initiative like a drawn blade; nobody gets a free strike for moving first in the fiction (no surprise here — both sides knew steel was coming).
 - **You fight with what's in hand.** Tavern pools are thin: sheathed swords and slung axes throw no dice on the Fuel roll. Ilsa's **wand Arcana** and empty pack carried her share — empty Sorcerie slots add nothing. Brand's draw came free with his Action; Sefa's holdout cost the 1 Fuel a holdout costs.

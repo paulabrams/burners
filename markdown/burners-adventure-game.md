@@ -55,15 +55,13 @@ Your character Theme and Traits can help back up your plan.
 
 ## Glossary
 
-Quick definitions. Details live in the chapters below.
-
 ### Character
 
-- **When you make a character:** you start at level 1. Put that level in one Approach. Write up to four Traits. You can leave blanks and fill them in later when play hands you the name. Roll 1d6 for starting HP.
+- **Theme:** your name or alias and a short line on who you are.
 
-- **Trait:** a skill or quality: *lockpicking*, *steady under fire*, *knows the fens*. You tag each Trait to its Approach — the lists under *Traits* are locked homes, not soft samples. Traits do not raise your Approach level. They say what you can do. Some actions need a specific Trait (like a magic school, languages, plate armor, or a complex greatsword or longbow). Use a Trait well in play and it can earn a **Signature**.
+- **Approach level:** you start with one Approach at level 1. Approach level adds to Approach rolls and sets how many Traits you may hold under that Approach (four per Approach level).
 
-- **Approach:** one of Sword, Craft, Heart, or Sorcerie.
+- **Approach:** how you go about a situation: Sword, Craft, Heart, or Sorcerie.
 
   - **Sword:** fighting to the death. Weapons, armor, tactics, footwork, tempo. Used in a fight, not a friendly brawl.
 
@@ -73,11 +71,11 @@ Quick definitions. Details live in the chapters below.
 
   - **Sorcerie:** magic and the unseen. Spell schools, divination, binding, alchemy, ancient lore.
 
-- **Character level:** your overall rank. You buy levels with XP (see [[Burners Experience]]). Every level you gain is one level you place in an Approach, up to four more Traits, and a reroll of your HP.
+- **Trait:** a skill or quality under one Approach (*lockpicking*, *steady under fire*, *arming sword*). You may only take Traits for Approaches you have levels in, and only from that Approach's list (arms and armor are Sword, non-combat practical skills are Craft, magic schools are Sorcerie, people-skills are Heart, etc.). Some Traits are trained-only: without them you cannot attempt the action or use the kit (a magic school, plate armor, greatsword or longbow, etc.).
 
-- **Signature:** an asterisk on a Trait. A knack that showed up at your table — a named item, a **named companion**, an instinct, a holdout. You never buy it, and it is not a spell.
+- **Signature:** an asterisk on a Trait. A knack that showed up at your table: a named item, a **named companion**, an instinct, a holdout.
 
-- **Theme:** your name or alias and a short line on who you are. For the other players, not the mechanics.
+- **Character level:** you start at character level 1 with 1d6 HP. Earn XP to reach the next level (see [[Burners Experience]]). When you gain a character level, raise one Approach by one, take up to four Traits under it, and reroll your HP. If you survive to reach 4th level, your character will have 4 Approach levels, either in a single Approach (Sword 4 or Sorcerie 4) or multiple (Sword 1 and Sorcerie 3).
 
 ### Equipment
 
@@ -109,8 +107,6 @@ Quick definitions. Details live in the chapters below.
 
 - **Two Steps:** say what you do and how. Some actions have a cost, in which case the Referee provides a number that you roll against; your roll reduces the cost. This might end up being paid in HP or Heat.
 
-- **Trained-only:** an action you cannot attempt without a specific Trait, whatever your Approach.
-
 - **Approach roll:** roll 2d6 and add your Approach level. To climb a cliff with Craft 3, you roll 2d6+3.
 
 - **Alignment:** like an Approach, but for a specific situation or bond with a patron, guild, or power. Count every relevant Trait across all your Approaches, divide by 4, round down. See *Alignment*.
@@ -139,9 +135,11 @@ See *Combat*.
   - **Impale (Spark):** When attacking with a Stabbity weapon (dagger, rondel, short sword…), Fuel a Spark to thrust deeper into the same spot; armor does not soak the Fuel you burn to Fuel it.
   - **Sever (Spark):** Only vs foes with **too many parts** — octopus, spider, hydra, swarm-limbs, and the like. When attacking with a Cutty / chopping weapon (poleax, battle ax, greatsword, cleaver…), Fuel a Spark with **1** Fuel to hack off one spare limb or head. That part's attack is gone for the fight. Not for ordinary humanoids (use Wounds / Man-handle).
 
-- **Defend:** armor soaks the blow first; burn Fuel to cut the damage that remains. Caps: melee 1 die (no limit if you meleed this round); missile 1 die (2 with Cover); hostile magic no limit. **Counterattack** / **Cover** / **Block** / **In the dirt**: see *Combat*.
+- **Defend:** armor soaks the blow first; burn Fuel to cut the damage that remains. Caps: melee 1 die (no limit if you meleed this round); missile 1 die (2 with Cover); hostile magic no limit. **Counterattack** / **Cover** / **Block** / **Ward** / **In the dirt**: see *Combat*.
 
-- **Cast / Ward (Sorcerer):** combat cast and cutting hostile magic for allies. Full procedure: [[Burners Sorcerie]].
+- **In the dirt:** flat on the ground — all Fuel burned must be re-rolled. Rise free on your Action unless a foe presses you in melee (then a die re-rolled **3+**). Waist/leg Wounds hold you down until full HP. See *Combat*.
+
+- **Cast / Ward (Sorcerer):** combat cast is one Action (Fuel ≥ SL). **Ward:** cut hostile magic for adjacent allies (up to Sorcerie Level Fuel); they Defend the remainder. Full cast procedure: [[Burners Sorcerie]]; Ward under *Combat*.
 
 ### Monsters
 
@@ -152,7 +150,7 @@ See *Combat*.
 ## Character Creation
 
 1. You are character level 1. Place that level in one Approach: Sword, Craft, Heart, or Sorcerie.
-2. Take up to four Traits, each tagged to an Approach. You need not fill all four now; backfill the rest in play.
+2. Take up to four Traits under the Approach you just chose. You need not fill all four now; backfill the rest in play.
 3. Roll 1d6 for your HP.
 4. Give your character a name or alias and a short "look" so the table gets to know them.
 5. Take your starting kit, then spend your purse in town.
@@ -163,9 +161,9 @@ To pick a people to come from (Northmaren, Southmaren, Elf, Alu, Kith, and the r
 
 ### Traits
 
-On your sheet, a Trait is a skill or a quality: arming sword, herbalism, strong, perceptive, raised in the fens. You hold up to four Traits per character level, each tagged to an Approach. A Trait does not raise that Approach; your level does. You need not claim all four at each level. A delayed Trait costs nothing, so you can fill one in whenever play hands you the name. Traits come free with your levels. You never buy them with XP.
+On your sheet, a Trait is a skill or a quality: arming sword, herbalism, strong, perceptive, raised in the fens. **Up to four Traits per Approach level**, under that Approach only. Sword 2 → up to eight Sword Traits. Sword 1 and Sorcerie 1 → up to four Sword and four Sorcerie — not eight in one Approach. A Trait does not raise the Approach; your level does. You need not claim every slot at once. A delayed Trait costs nothing, so you can fill one in whenever play hands you the name. Traits come free with your Approach levels. You never buy them with XP.
 
-**Traits by Approach — locked.** Each Trait belongs to one Approach. Write it under that Approach and nowhere else. Martial arms and armor are Sword (see *Arms and Armor*); languages are Heart; magic schools are Sorcerie. *Peasant weapons* (tools and hunting implements) are Craft. The lists below are the homes — not samples you may rehome.
+**Traits by Approach — locked.** Each Trait belongs to one Approach. Write it under that Approach and nowhere else — you cannot spend another Approach's Trait slots on it. Martial arms and armor are Sword (see *Arms and Armor*); languages are Heart; magic schools are Sorcerie. *Peasant weapons* (tools and hunting implements) are Craft. The lists below are the homes — not samples you may rehome.
 
 - **Sword** — arms, armor, and the fight.
   - Skills: dagger, club, spear, axe, arming sword, mace, flail, bow, crossbow, shield, wrestling, boxing, ambush, tactics, cavalry, warhorse, siege, heraldry, scouting. Trained-only kit: see *Arms and Armor (Sword)* below (greatsword, longbows, plate, firearms…).
@@ -203,7 +201,7 @@ You've heard at least enough of all three trade tongues ("common tongues") to ge
 - **Southmaren** (Harnendorian, Harn) — the south and the seas; the trading tongue most nations use.
 - **Eldarin** (the Elder Tongue) — old civilizations and the Eldar; nobles and diplomats often learn it.
 
-When taking a Trait in a trade tongue, you can choose specific dialect: Alornean, Kith, Lothian, Avathar, Aquilan street cant, Ashenrise street cant, etc. In Eldarin dialects correspond to ancestry and region: Ithilrhi, Baal, Dwur, Alu, etc.
+When taking a Trait in a trade tongue, you can choose specific dialect: Alglond, Kith, Lothian, Avathar, Aquilan street cant, Ashenrise street cant, etc. In Eldarin dialects correspond to ancestry and region: Ithilrhi, Baal, Dwur, Alu, etc.
 
 Other languages will be unfamilar to you unless you have a Trait; they are trained-only.
 
@@ -340,7 +338,7 @@ A weapon's **slots** are the dice it throws on your Initiative roll when it is i
 | Mace (incl. war hammer) | 2 | 5 | |
 | Arming sword | 2 | 10 | |
 | Short bow / hunting bow | 2 | 25 | ranged, two-handed |
-| Spear | 3 | 3 | can be thrown |
+| Spear | 3 | 3 | two-handed; can be thrown |
 | Longsword | 3 | 15 | two-handed |
 | Longbow | 3 | 40 | ranged, two-handed |
 | Crossbow | 3 | 30 | ranged, two-handed |
@@ -379,7 +377,7 @@ Awards, claimed treasure, present-only shares, Eldar track, and who tracks what:
 
 ### Approach Level
 
-Your character level is bought with XP from the table on [[Burners Experience]] (Eldar use the Eldar column). Every level you gain is a single point you place in an Approach, so your Approach levels always sum to your character level. At 4th level you might be Sword 3 and Sorcerie 1, or Sword 2 with Craft 1 and Heart 1, however your play has shaped you. You place each point as you level and do not move the ones already set.
+Your character level is bought with XP from the table on [[Burners Experience]] (Eldar use the Eldar column). When you gain a level, pick one Approach and raise it by one. You do not move points already set. At 4th level you might be Sword 3 and Sorcerie 1, or Sword 2 with Craft 1 and Heart 1, however your play has shaped you.
 
 Your roll is 2d6 plus your Approach level. With no level in that Approach you are Approach 0: you still roll 2d6, just without a bonus. That missing bonus is the whole disadvantage. You can still attempt things at Approach 0, but that Approach's trained advantages stay locked until you reach level 1. One point is the line between a townsman and a practitioner.
 
@@ -458,7 +456,7 @@ See *Traits* under Character Creation.
 - **Mara**, Heart 1 (Boss). "Pays in coin and reputation. Collects both."
 
   - 5 HP and leather (AC 1). Split: **11 physical + 1 Muster** — Nell Mustering (1 slot).
-  - Sword 1: one extra attack.
+  - Sword 0 — one attack; *spear* Trait only (no Veteran extras).
   - Traits: leadership, streetwise, intimidation, loyal (Heart); *spear* (Sword).
   - Held: spear. Coin kept back to outfit Nell. Re-Muster locked until first sleep.
   - Loyal retainer: **Nell** — level 1, Sword 1, Traits *spear* and *steady under fire*, HP **1d3**, Loyalty **10**; see [[Burners Muster]].
@@ -540,7 +538,7 @@ Out of combat:
 - Double Sweet (two 6s, a natural 12) is the perfect roll: the best outcome the fiction allows.
 - Double Spicy (two 1s, a natural 2) is a fumble: the worst fitting outcome lands.
 
-Combat has no Sweet or Spicy. A 6 in Fuel is a **Spark** (see Combat).
+Combat has no Sweet or Spicy. A 6 in Fuel is a **Spark** (see Combat). Cast fumbles and Fragile breaks key off **1**s on Fuel, not Spicy — see [[Burners Sorcerie]] and [[Burners Arms and Armor]].
 
 **Surprise** only changes monster Initiative on **round 1** of a fight: if they jump you, their groups act first (no d6); if you jump them, their groups act last (no d6). Your Fuel and personal Initiative never change. Round 2+ is normal. Being caught or outmaneuvered may still add a situational Damage modifier — you defend as normal against the higher number.
 
@@ -577,7 +575,7 @@ Resolve each Wound once, then carry it. Wounds accumulate. Penalties last until 
 
 - **Leg.** You go in the dirt and cannot stand up until you reach **full HP**, the same as a waist wound.
 
-**In the dirt** — see glossary (all Fuel burned while in the dirt must be re-rolled; pressed rise needs a re-rolled 3+). A waist or leg wound holds you down until **full HP**; you cannot rise before then. Being in the dirt does not stack, however you ended up there. A fresh, untended wound also makes that spot a soft target. A blow called at an already-wounded spot deals 2 extra damage until you reach **full HP**.
+**In the dirt** — see *In the dirt* under Combat. A waist or leg wound holds you down until **full HP**; you cannot rise before then. Being in the dirt does not stack, however you ended up there. A fresh, untended wound also makes that spot a soft target. A blow called at an already-wounded spot deals 2 extra damage until you reach **full HP**.
 
 #### The Shock Check
 
@@ -667,7 +665,6 @@ If you empty your hand on offense you are caught winded until the next Roll Init
 - **Spark: Impale.** When attacking with a Stabbity weapon (dagger, rondel, short sword…), Fuel the Spark to thrust deeper into the same spot; armor does not soak the Fuel you burn to Fuel it.
 - **Spark: Sever.** Only vs foes with **too many parts** — octopus, spider, hydra, swarm-limbs, and the like. When attacking with a Cutty / chopping weapon (poleax, battle ax, greatsword, cleaver…), Fuel the Spark with **1** Fuel to hack off one spare limb or head. That part's attack is gone for the fight. Not for ordinary humanoids (use Wounds / Man-handle). Soft many-part pests may simply drop a segment and flee. A part that is the whole fight (one neck left on a hydra) may be denied or cost more.
 - **Spark: Counterattack.** After a Defend Sparks (except under Cover), Fuel the Spark to strike (burn Fuel as for a normal melee attack). The Spark buys the attack; see *Counterattack*.
-- **Spark: Break Armor.** Break armor so it provides no AC for the rest of the fight. This requires an armor-piercing weapon whose Weapon Class exceeds the armor's AC (WC > AC; see [[Burners Arms and Armor]]). Fuel the Spark with 1 Fuel. Against poor-quality or ruined armor — a skeleton's rusty mail, a rotten shield — the Spark itself is fuel enough.
 
 **Attacking.** You make one attack a round (as a Veteran you make more; see below). Burn one Fuel die; its face is the damage. A weapon of **3+ slots wielded in two hands** can burn a second die. Up to two dice a blow from mundane steel, all burned from your Fuel, their faces together the damage. Against a Burner: **armor AC** soaks first, then Defend, then HP — past 0 the overflow is a Wound. Against a monster: announce the damage; the Referee converts it (see *Monsters* in the glossary). Because armor soaks every blow on the way in, a flurry of small hits is how you cut down an unarmored Burner; heavier steel cracks plated kit. Hunting bows and other 2-slot arms stay one die.
 
@@ -689,7 +686,11 @@ Wound + failed Shock may break a non-melee Action — see *Mid-tempo disrupt*.
 
 **Cover.** Fiction that lets you burn two dice vs a missile (wall, raised shield, creature…). Using a melee foe as Cover: if you Spark on that Defend (**Hit the Cover**), the shot hits them instead of you, as if the attack was targeting them from the beginning, and they may not declare Cover to put it back on you.
 
-**Man-handle.** Fuel a Spark to "man-handle": shove, grab, trip, or knock down, or otherwise grapple/wrestle a foe. Burn Fuel to Fuel the Spark; those faces are its force. The target may resist by Defending as against a blow. The Referee may provide free defense dice for foes who are hard to man-handle; bullying a ruffian is easier than wrestling a bear. Where there is no real contest, the Referee simply rules it. Fuel the Spark and lose the contest and it is gone for nothing. A Man-handle that leaves a lasting state (in the dirt, grappled) is what gives it teeth. **In the dirt** — all Fuel burned must be re-rolled; rising under a press needs a re-rolled 3+ (see *In the dirt*). Under a foe's steel, pay as the state demands. (No die to spare? It comes out of your next refill, so it always lands.) A Man-handle does not spend a foe's HP. It strips their guard or footing. If your side keeps them pressed it grinds recovery from them. They may instead pay nothing and fight from the state — Defending with re-rolled Fuel — until a turn they would rather burn the die shaking it.
+**Ward.** A **Sorcerer** (Sorcerie 1+) adjacent to an ally or a tight group may cut hostile magic aimed at them — a spell's cast total, magical breath, and the like (not mundane fire alone). Burn up to your **Sorcerie Level** in Fuel; subtract those faces from the attack value. **Each ally then Defends** against what remains. No school Trait; no card. Not your Action — Ward rides the incoming working. Craft-only Canting Journeymen cannot Ward. Full cast procedure: [[Burners Sorcerie]].
+
+**In the dirt.** Flat on the ground — a risky place. **All Fuel burned while in the dirt must be re-rolled** (blow, Defend, cast, Block, Man-handle, Counterattack); the new face is what counts. You may **throw yourself in the dirt** free with your Action when the pool is trash and you need a scramble. **Rise** free on your Action unless a foe presses you in melee — then rising costs a die re-rolled **3+** (fail and you stay down; the die is burned either way). No die to spare? The cost comes out of your next refill. A waist or leg Wound holds you down until **full HP** (see *Wounds*); you cannot rise before then. Being in the dirt does not stack.
+
+**Man-handle.** Fuel a Spark to "man-handle": shove, grab, trip, or knock down, or otherwise grapple/wrestle a foe. Burn Fuel to Fuel the Spark; those faces are its force. The target may resist by Defending as against a blow. The Referee may provide free defense dice for foes who are hard to man-handle; bullying a ruffian is easier than wrestling a bear. Where there is no real contest, the Referee simply rules it. Fuel the Spark and lose the contest and it is gone for nothing. A Man-handle that leaves a lasting state (in the dirt, grappled) is what gives it teeth — see *In the dirt*. Under a foe's steel, pay as the state demands. A Man-handle does not spend a foe's HP. It strips their guard or footing. If your side keeps them pressed it grinds recovery from them. They may instead pay nothing and fight from the state — Defending with re-rolled Fuel — until a turn they would rather burn the die shaking it.
 
 Range and reach buy safety. A far arrow risks nothing until the enemy closes, so soften foes at a distance and fear the melee. Damage and a foe's defense belong to the situation. A shield wall is tougher from the front. A swarm combines into one bigger threat that thins as you kill it. A chokepoint caps how many reach you. Narrate the cause, so you can attack the reason.
 

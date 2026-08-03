@@ -392,9 +392,9 @@ the world. See *Canting: Kicks and Jarks* on [[Burners Sorcerie]].*
 
 #### Juke
 
-- **Combat.** Dirty fighting in a card: your next Defend this round gains +Craft. Spend
-  it as the bravo's knife comes in — the bonus rides a Defend you were paying for
-  anyway.
+- **Combat.** Dirty fighting in a card: your next Defend this round may burn one extra
+  Fuel die beyond the usual cap. Spend it as the bravo's knife comes in — the extra die
+  rides a Defend you were paying for anyway.
 
 #### Mark the Gull
 

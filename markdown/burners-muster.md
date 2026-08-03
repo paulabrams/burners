@@ -41,7 +41,7 @@ Retainers are not Burners. **Everything that scales with level or Approach is ha
 
 | Piece | Rule |
 | --- | --- |
-| **Traits** | **2 per retainer level** (half of a Burner's 4) |
+| **Traits** | **2 per Approach level** (half of a Burner's 4 under that Approach) |
 | **Signatures** | At most **⌊Approach / 2⌋** per Approach — earned in play, never bought |
 | **HP** | **1d3 per retainer level** (about 2 per level on average; minimum **1**). On level-up: reroll the whole total (keep higher of new total or old+1). |
 | **Fuel level dice / refill** | **⌊retainer level / 2⌋**, minimum **1** |
@@ -153,7 +153,7 @@ Month-hire soldiers for walls and armies are OSE [mercenaries](https://oldschool
 
 A retainer becomes a full **Burner** only when they become a **PC**. Until then they stay on the half-power track.
 
-On that claim: PC **at their current retainer level**. Rebuild under full PC rules — 4 Traits per level, full HP, full Approach math, one Signature per Approach level, open Approaches.
+On that claim: PC **at their current retainer level**. Rebuild under full PC rules — 4 Traits per Approach level, full HP, full Approach math, one Signature per Approach level, open Approaches.
 
 ---
 

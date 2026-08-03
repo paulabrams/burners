@@ -44,7 +44,7 @@ When a module lists a *+1 sword*, *+2 shield*, *+1 plate*, and so on — convert
 **2. Special powers — one per plus.** A +1 item has one +1-tier power. A +2 adds a second, +2-tier power. A +3 adds a third, and so on. Powers are minor — convenience, flavor, situational edges — not extra dice on every blow.
 
 | Tier | Scope |
-|---|---|
+| --- | --- |
 | **+1** | Passive or **once per fight** — sensory tricks, light, faint Bane hints |
 | **+2** | **Once per session** or a stronger passive — named sword powers (flaming, charm, locate), stronger Bane |
 | **+3+** | **Once per delve**, or once in the campaign for the rarest edges — not wishes or energy drain |
@@ -52,7 +52,7 @@ When a module lists a *+1 sword*, *+2 shield*, *+1 plate*, and so on — convert
 Record them like Trait Signatures: each power you have **found** earns an asterisk on the item line and a footnote. Until you find a power, leave the star off; the Referee knows what is waiting.
 
 | On your sheet | Meaning |
-|---|---|
+| --- | --- |
 | `arming sword` (enchanted) | Magic steel; silent until you hold *arming sword* (or the fitting Trait) — then extra die and powers as found |
 | `arming sword*` | Accepted; one +1-tier power discovered — footnote `*` names it |
 | `arming sword**` | A +2 item; both powers found — footnotes `*` and `**` |
@@ -86,7 +86,7 @@ Pick one per tier, or roll **d12** on the column. Re-roll duplicates. Route OSE 
 **Weapons — +1-tier** *(OSE sensory / faint Bane)*
 
 | d12 | Power | OSE root |
-|---|---|---|
+| --- | --- | --- |
 | 1 | **Bane-hint** — hums or chills within 20' of the named quarry (undead, lycanthropes, dragons, spellcasters, enchanted things); is only a hint until the **+2** power is found (then it is the right tool) | *+2/+3 vs type* |
 | 2 | **Silver-edge** — counts as **silver** (right tool vs silver-weak foes) once per fight | *vs lycanthropes* |
 | 3 | **Detect magic** — on command, magic within 20' may be made to glow; 3×/day | *sensory: detect magic* |
@@ -103,26 +103,26 @@ Pick one per tier, or roll **d12** on the column. Re-roll duplicates. Route OSE 
 **Weapons — +2-tier** *(OSE named sword powers / stronger Bane)*
 
 | d12 | Power | OSE root |
-|---|---|---|
+| --- | --- | --- |
 | 1 | **Bane-forged** — **right tool** vs the named quarry, no claim needed (undead, dragons, regenerating foes, enchanted creatures, spellcasters) | *+3 vs type* |
 | 2 | **Flaming** — blade ignites on command; once per session, +1 effective blow die vs trolls, plant-things, or undead while lit | *Sword +1, Flaming* |
 | 3 | **Locate object** — once per day, sense one named object-type within 120' | *Sword +1, Locate Objects* |
 | 4 | **Charm** — once per week, a **Control** working (Heart vs Heart) on one touched foe — it lands or it doesn't, and it is not puppetry | *Sword +2, Charm Person* |
-| 5 | **Bind on Sweet** — once per session, a Sweet hit **binds** the foe's weapon without a maneuver | *Binding tag* |
+| 5 | **Bind on Spark** — once per session, when a blow **Sparks**, **bind** the foe's weapon without a maneuver | *Binding tag* |
 | 6 | **Healing edge** — once per day, while held, heal 1 HP per round for 6 rounds (combat counts) | *extraordinary: healing, toned down* |
 | 7 | **Feint ward** — once per fight, once per fight, open one closed Hit vs mundane white only (shell/plate still closed) | *extra damage, toned down* |
 | 8 | **Missile ward** — once per session, **Cover** or **Defend** softens a breath or area effect you could not fully ward (half the overrun) | *shield crossover* |
 | 9 | **Purging blow** — once per session, shed one **lingering Cost** on yourself (poison, chill, fear) when you draw blood | *paladin-flavor* |
 | 10 | **Shifting sense** — locate shifting walls or rooms within 10' | *sensory: shifting architecture* |
 | 11 | **Telekinetic tug** — once per session, **Man-handle** at range to trip or shove without a Spark; Fuel it with one die | *extraordinary: telekinesis, toned down* |
-| 12 | **Purpose sting** — vs the sword's designated quarry, on a Sweet hit the foe must **Defend** or suffer a brief **Control** (into the dirt, drop weapon, or flee — Referee picks) | *special purpose alignment power, toned down* |
+| 12 | **Purpose sting** — vs the sword's designated quarry, when a blow **Sparks** the foe must **Defend** or suffer a brief **Control** (into the dirt, drop weapon, or flee — Referee picks) | *special purpose alignment power, toned down* |
 
 **Weapons — +3-tier** *(OSE extraordinary / special purpose — still not a relic)*
 
 | d12 | Power | OSE root |
-|---|---|---|
+| --- | --- | --- |
 | 1 | **Deep Bane** — **right tool** vs quarry; once per delve, a killing blow on-quarry cannot be shrugged off (no instant death — empties the pile / drives a Burner to **0 HP** and holds) | *special purpose* |
-| 2 | **Draining nick** — once per delve, a Sweet hit on a living foe costs them **1 HP from their maximum** until cured by rest (not OSE level drain) | *energy drain, heavily toned down* |
+| 2 | **Draining nick** — once per delve, when a blow **Sparks** on a living foe, cost them **1 HP from their maximum** until cured by rest (not OSE level drain) | *energy drain, heavily toned down* |
 | 3 | **Spark on 5** — once per delve, treat a rolled **5** as a **Spark** | *extra damage, one shot* |
 | 4 | **Ward spell** — once per delve, fully **Defend** one hostile spell (compare totals) | *protection from magic* |
 | 5 | **Clairvoyant strike** — once per delve, before one blow, the Referee answers one yes/no about the target's guard or intent | *clairvoyance, toned down* |
@@ -131,14 +131,14 @@ Pick one per tier, or roll **d12** on the column. Re-roll duplicates. Route OSE 
 | 8 | **Illusion veil** — once per delve, throw a brief **phantasm** (distraction, not damage) | *illusion* |
 | 9 | **Teleport step** — once per delve, blink 30' you can see | *teleportation, heavily toned down* |
 | 10 | **Neutral blessing** — while drawn, **+1** to all hazard **Defends** for the scene (once per delve) | *neutral special purpose* |
-| 11 | **Paralyzing sting** — once per delve vs quarry, Sweet hit → **Defend** or **Control** into the dirt / stiffen 2d6 rounds | *lawful special purpose, toned down* |
-| 12 | **Petrifying sting** — once per delve vs lawful quarry, Sweet hit → **Defend** or **Control** (stone-slow: half move, Defend at one die only) 1 round | *chaotic special purpose, heavily toned down* |
+| 11 | **Paralyzing sting** — once per delve vs quarry, blow **Sparks** → **Defend** or **Control** into the dirt / stiffen 2d6 rounds | *lawful special purpose, toned down* |
+| 12 | **Petrifying sting** — once per delve vs lawful quarry, blow **Sparks** → **Defend** or **Control** (stone-slow: half move, Defend at one die only) 1 round | *chaotic special purpose, heavily toned down* |
 
 **Shields — +1-tier**
 
 | d12 | Power |
-|---|---|
-| 1 | Boss never splinters on a Spicy |
+| --- | --- |
+| 1 | Boss never splinters on a burned **1** |
 | 2 | Faint **silver** gleam when undead or lycanthropes near |
 | 3 | Warn with a chill when a missile is aimed at you (once/fight, +1 die on **Cover** or **Defend** vs that shot) |
 | 4 | Shed mud, ice, or blood instantly — never slippery |
@@ -154,7 +154,7 @@ Pick one per tier, or roll **d12** on the column. Re-roll duplicates. Route OSE 
 **Shields — +2-tier**
 
 | d12 | Power |
-|---|---|
+| --- | --- |
 | 1 | **Block** once/session: redirect a blow onto yourself without spending an attack |
 | 2 | **Cover** softens a breath or area effect at half the overrun |
 | 3 | **Bane-rim** — **right tool** for one Block or Defend vs the named quarry |
@@ -171,7 +171,7 @@ Pick one per tier, or roll **d12** on the column. Re-roll duplicates. Route OSE 
 **Armor — +1-tier**
 
 | d12 | Power |
-|---|---|
+| --- | --- |
 | 1 | Comfortable as cloth — no **fatigue** tick from the harness alone |
 | 2 | **Fire-kind** — resist mundane fire; first burn each fight −1 overrun |
 | 3 | **Cold-kind** — first cold/chill **Cost** each delve halved |
@@ -188,7 +188,7 @@ Pick one per tier, or roll **d12** on the column. Re-roll duplicates. Route OSE 
 **Armor — +2-tier**
 
 | d12 | Power |
-|---|---|
+| --- | --- |
 | 1 | **Bane-mail** — **right tool** for one blow per session vs quarry |
 | 2 | **Ward** — first hostile spell each delve: **Defend** with +1 die |
 | 3 | **Soak trick** — once/session, treat AC as **+1** vs one blow |
@@ -205,7 +205,7 @@ Pick one per tier, or roll **d12** on the column. Re-roll duplicates. Route OSE 
 ### Module text cheat sheet
 
 | OSE says | Burners |
-|---|---|
+| --- | --- |
 | Sword +1 | Enchanted only, or enchanted + roll **+1-tier** |
 | Sword +1, +3 vs Undead | Enchanted · `*` Bane-hint undead · `**` Bane-forged vs undead |
 | Sword +1, Flaming | Enchanted · `*` Light or fire-hint · `**` Flaming |
@@ -219,17 +219,17 @@ Pick one per tier, or roll **d12** on the column. Re-roll duplicates. Route OSE 
 ```
 arming sword** (2 slots, enchanted)
 *  Hums near oath-breakers; reads as silver (right tool vs silver-weak, once/fight).
-** Once per session, a Sweet hit binds the foe's weapon — no maneuver.
+** Once per session, when a blow Sparks, bind the foe's weapon — no maneuver.
 ```
 
-**Worked example — +2 longsword in a chest:** enchanted arming sword. Referee's margin: +1 power = hums near oath-breakers / silver-edge; +2 power = bind on Sweet once per session. On the player's sheet after both are found: `arming sword**` with footnotes `*` and `**` as above.
+**Worked example — +2 longsword in a chest:** enchanted arming sword. Referee's margin: +1 power = hums near oath-breakers / silver-edge; +2 power = bind on Spark once per session. On the player's sheet after both are found: `arming sword**` with footnotes `*` and `**` as above.
 
 ### Named & strange steel (2d6)
 
 Use **enchanted + powers** for anonymous module loot (*"+1 sword"*). Roll **2d6** when the text names the item, sets a special purpose (*"+2, +3 vs dragons"*), or reads like a relic — then layer **powers** from the +n on top of whatever rung the table gives. The further from 7, the stranger the steel beneath the enchantment:
 
 | 2d6 | The blade is… |
-|---|---|
+| --- | --- |
 | **2** | **A relic all along.** Enchanted; dormant until its true name is learned. |
 | **3** | **Bane-forged** against a foe fitting the module (the Referee names the quarry). |
 | **4** | **An unusual tag** for its type — Control, Binding, Defensive, or Stabbity where its kind carries none. |

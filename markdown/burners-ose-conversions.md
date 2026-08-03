@@ -79,7 +79,7 @@ When a PC **loots** a suit of armor off a foe, that kit becomes ordinary Burners
 
 ### The Damage Die → quotes (and optional full-dice)
 
-Preferred Referee play is **Heat-only pool + free quoted attacks** — no free monster Defend — [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]]. The OSE damage die sets **quote weight** (and optional full-dice ports when you run a foe like a PC). It is **not** a second Initiative pile.
+Preferred Referee play is **scene Heat + free quoted attacks** — no free monster Defend — [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]]. The OSE damage die sets **quote weight** (and optional full-dice ports when you run a foe like a PC). Initiative is the group **1d6**, not Heat.
 
 **Quote from the die (preferred):**
 
@@ -95,10 +95,10 @@ Preferred Referee play is **Heat-only pool + free quoted attacks** — no free m
 
 **Natural attacks** are quotes (or weapon slots on a full-dice port), not Initiative dice.
 
-**Initiative** is the count of **Heat** dice showing 3 or 4 (preferred). A hotter room tends to act earlier. Optional full-dice foes may add their own pool — label that choice at the table. Fiction tempo still holds:
+**Initiative:** each distinct foe group rolls **1d6** every Round Initiative (same as [[Burners Adventure Game#Combat]]). Heat is scene Cost, not the Initiative dish. Optional full-dice foes may roll a Fuel pool like a Burner — label that choice at the table. Fiction tempo still holds:
 
-- **Shambling** *(the sluggish dead, oozes, rooted things)*: **acts last**, regardless of dice.
-- **A living spear** *(cobra, ambush-hunter)*: acts at the **top of the order** regardless of dice count.
+- **Shambling** *(the sluggish dead, oozes, rooted things)*: **acts last**, skip the d6.
+- **A living spear** *(cobra, ambush-hunter)*: acts at the **top of the order**, skip the d6.
 
 **Charge** *(a beast closing at a run — where OSE pounce/leap riders convert)*: a situational bump the Referee adds to the quote — as any situation can bump a blow (see [[Burners Adventure Game]]). **Shambling** things never get it.
 
@@ -172,7 +172,7 @@ Stuck doors, thief skills, foraging, listening at doors — all this table. A tr
 
 **Worked in the margin — the OSE zombie** (AC 8 [11] · HD 2 (9hp) · 1 × weapon, 1d8 · Morale 12):
 
-> **Zombie.** HD 2 → **4 red** (AC 8 → no kit) · Heat dish for the side · **Shambling** — acts last · Morale 12 as written · **XP 20**. Quote fists as heavy (**4**).
+> **Zombie.** HD 2 → **4 face-up** (AC 8 → no kit, all-up sushi) · Heat dish for the side · **Shambling** — acts last · Morale 12 as written · **XP 20**. Quote fists as heavy (**4**).
 
 Read straight off the printed block — 2 × HD cards (face mix), Heat, right-tool-if-any, tempo, Morale.
 
@@ -206,9 +206,9 @@ Potions, rings, and wondrous items stay as written above. Do not raise AC or siz
 ## Watchpoints
 
 - **Lethality is comparable** — B/X at low levels is brutal and Burners characters are lean. Large mobs can spike past any defend; use swarm splitting and chokepoints.
-- **Foreshadowing is mechanical** — see [[Burners Principles#Heat is scene pressure]].
+- **Foreshadowing is mechanical** — see [[Burners Principles#Heat is collateral]].
 - **Solo bosses** need enough face-down (and face-up) in 2 × HD to survive the party's first-round burst, or they die before their first telegraph.
-- **Don't double-count dread** — see [[Burners Principles#Heat is scene pressure]].
+- **Don't double-count dread** — see [[Burners Principles#Heat is collateral]].
 
 ---
 

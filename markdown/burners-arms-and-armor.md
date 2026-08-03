@@ -9,7 +9,7 @@ hero_alt: "Crossbowmen in the street — Albert Robida"
 
 *The optional expanded catalog of arms, armor, shields, and Eldar materials (see [[Burners Adventure Game]]). The lean starting buy-list with slots and prices lives in [[Burners Equipment]].*
 
-> **Reading the numbers.** **Class** (weapons) and **size** (shields) are comparison tags — Weapon Class vs Armor Class for Break Armor and soft-target reads (WC > AC), or shield size for look and heft. **Slots** are the inventory and Initiative-dice stat (see [[Burners Adventure Game]] and [[Burners Equipment]]). Class and Slots are listed separately because they are not always the same (a military **Dagger** is Class2 but 1 slot; a **Mace** is Class3 but 2 slots). Armor maps onto the core's **suits** (AC and slots in [[Burners Equipment]]). Enchantment — see [[Burners Principles#Armor soaks; monsters use Monster Stacks]]. Assign **Slots** from the lean list where an item appears there, otherwise by the same bulk/handiness ladder.
+> **Reading the numbers.** **Class** (weapons) and **size** (shields) are comparison tags — Weapon Class vs Armor Class for soft-target reads (WC > AC), or shield size for look and heft. **Slots** are the inventory and Initiative-dice stat (see [[Burners Adventure Game]] and [[Burners Equipment]]). Class and Slots are listed separately because they are not always the same (a military **Dagger** is Class2 but 1 slot; a **Mace** is Class3 but 2 slots). Armor maps onto the core's **suits** (AC and slots in [[Burners Equipment]]). Enchantment — see [[Burners Principles#Armor soaks; monsters use Monster Stacks]]. Assign **Slots** from the lean list where an item appears there, otherwise by the same bulk/handiness ladder.
 >
 > *Era guide:* Northmarens run early-medieval arms & armor, Southmarens late-medieval/early-Renaissance, the Eldar exotic and magical.
 >
@@ -37,7 +37,7 @@ A **Signature** is the fiction of that third rung — a name, a look, a history 
 
 ## Item Tags
 
-Weapons carry **Class** (penetration / Break Armor) and **Slots** (inventory and Initiative dice). Shields carry **size** (look and heft) and **Slots**. Armor pieces may list Class for catalog flavor; in play, read **AC** and **Slots** from the suit tables in [[Burners Equipment]]. Some tags take a value — `Class2`, `Far3`, `Slots2` — which defaults to **1** when omitted.
+Weapons carry **Class** (penetration / soft-target reads) and **Slots** (inventory and Initiative dice). Shields carry **size** (look and heft) and **Slots**. Armor pieces may list Class for catalog flavor; in play, read **AC** and **Slots** from the suit tables in [[Burners Equipment]]. Some tags take a value — `Class2`, `Far3`, `Slots2` — which defaults to **1** when omitted.
 
 ---
 
@@ -121,8 +121,8 @@ Shoot ammunition. The three main types are bows, crossbows, and guns. Loading/re
 - **War Sling** `[Class2 Slots2 2H Far3 Reload4 Trained]` — larger, more powerful war sling, cast-lead aerodynamic shot.
 - **Warbow** `[Class3 Slots3 2H Far3 Accurate Reload1 Trained]` — heavy-draw short bow, armor-piercing bodkins; years of training/conditioning.
 - **Hunting Crossbow** `[Class3 Slots3 2H Far4 Accurate Reload3]` — easy to shoot.
-- **Longbow** `[Class3 Slots3 Far5 Accurate Reload1 Trained]` — large self bow, taller than the archer; great power, range, accuracy; slower than hunting bows.
-- **Heavy Longbow** `[Class4 Slots4 Far5 Accurate Reload2 Trained]` — heavy-draw longbow, military arrows (50% heavier); years of conditioning.
+- **Longbow** `[Class3 Slots3 2H Far5 Accurate Reload1 Trained]` — large self bow, taller than the archer; great power, range, accuracy; slower than hunting bows.
+- **Heavy Longbow** `[Class4 Slots4 2H Far5 Accurate Reload2 Trained]` — heavy-draw longbow, military arrows (50% heavier); years of conditioning.
 - **Heavy Crossbow** `[Class5 Slots4 Far4 Accurate Reload7]` — military crossbow, easy to learn, hard-hitting, cumbersome and slow to reload.
 - **Flintlock Pistol** `[Class5 Slots2 Far4 Accurate Reload7]` — basic Dwur pistol.
 - **Doubloon** `[Class5 Slots2 Far2 Reload7 (each)]` — double-shot flintlock pistol/blunderbuss, often nautical/pirate themed.
@@ -138,7 +138,7 @@ Shoot ammunition. The three main types are bows, crossbows, and guns. Loading/re
 
 Weapons carry tags for their characteristics; many describe a way to upgrade in specific circumstances. Weapons fall into **main weapons** (spears, axes) and **sidearms** (swords, daggers); larger weapons have higher Class and more tags.
 
-- **Weapon Class** — the weapon's penetration vs contemporary armor. Used for Break Armor (WC > AC) and soft-target reads. **Slots** — inventory space and Initiative dice (see [[Burners Equipment]]).
+- **Weapon Class** — the weapon's penetration vs contemporary armor. Used for soft-target reads (WC > AC). **Slots** — inventory space and Initiative dice (see [[Burners Equipment]]).
 - **Military Weapons** — Class3+ are "military weapons," not usually permitted in civilized areas unless they have the `Civil` tag.
 - **2H (Two-Handed)** — optimized for two hands; longer and heavier. Used one-handed: WC −1 and no tag benefits.
 
@@ -160,7 +160,7 @@ Weapons carry tags for their characteristics; many describe a way to upgrade in 
 - **Cutty** — can cleave soft targets. After a Spark against a soft target (your WC beats their AC) you may Fuel another attack with the same weapon.
 - **Custom** — higher-quality, bespoke, perfectly made.
 - **Defensive** — equivalent to a shield, using Weapon Class.
-- **Fragile** — breaks on a Double Spicy, or when the Referee names a botched blow.
+- **Fragile** — breaks when you burn a **1** into a blow with it, or when the Referee names a botched blow.
 - **Handguard** — complex hilt (rapier rings, basket hilt) protecting the hand; counts as **AC 2** armor for the weapon hand.
 - **Hooking** — (sickles, some polearms) can cut behind the target. When you Aim you may strike the rear instead of left/right for **+1 WC**.
 - **Piercing** — extended rigid blade 2+ ft, reaching deep. **+1 WC vs Large Monsters** (whose vitals sit deeper, giving them higher AC).

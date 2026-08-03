@@ -12,7 +12,7 @@ hero_alt: "The faithful beasts — H. J. Ford"
 > **Reading an ancestry block.** Each entry ends in a short pick-list. Map them like this:
 >
 > - **Themes** — feed your Burners **Theme**: your name or alias and a short "look" (*"Alu'Kel — desert screamer"*). Also a mine for Traits.
-> - **Traits** — take as Burners **Traits**, each tagged to an Approach. Up to four per character level, backfilled as you go.
+> - **Traits** — take as Burners **Traits** under the fitting Approach. Up to four per Approach level, backfilled as you go.
 > - **Assets** — gear. Buy from [[Burners Equipment]]; exotic pieces are in [[Burners Arms and Armor]], with **Slots** assigned there.
 > - **Signatures** — powers and named edges earned in play — see [[Burners Principles#Earned in play]]. Eldar may earn two per character level instead of one (see *Eldar* below). Spells that are plainly spells are learned through [[Burners Sorcerie]] / [[Burners Spells]] instead.
 > - **Gifts** (Drisi, Karrock) — take a **Gifts Signature**; each gift manifested is an innate Asset while it shows.

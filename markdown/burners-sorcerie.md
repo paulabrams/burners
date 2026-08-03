@@ -92,15 +92,15 @@ Jarks](#canting-kicks-and-jarks). No Sorcerie required.
 ### The Starting Sorcerer
 
 A Sorcerer's craft comes with a kit (the fruit of apprenticeship). At character creation
-you **declare 8 physical slots and 4 Sorcerie slots** — twelve total. You may not re-split
+you **declare 7 physical slots and 5 Sorcerie slots** — twelve total. You may not re-split
 until your first 8-hour sleep; we start fast.
 
-Your **personal spellbook** holds **four known spells**: ***Read Magic*** plus **three
+Your **personal spellbook** holds **five known spells**: ***Read Magic*** plus **four
 others** from your school — the fruit of apprenticeship, already scribed. The Referee
 picks them, rolls them, lets you choose, or works with you — your table's call. Your
-**hand size is 4** — all four ready. You did **not** need *Read Magic* to learn the other
-three; a master taught them. *Read Magic* is in the book because it is useful loot
-literacy, not because it unlocks learning.
+**hand size is 5** — all five ready. Count them on your fingers when you onboard. You did
+**not** need *Read Magic* to learn the other four; a master taught them. *Read Magic* is
+in the book because it is useful loot literacy, not because it unlocks learning.
 
 You also start with **one free Arcana** — costume of the craft from the allow-list
 (mundane grade). Extra costume Arcana costs **100 gp apiece** in town; enchanted Arcana
@@ -109,9 +109,9 @@ Game]] for purse and oddments.
 
 ### The Canting Journeyman
 
-A Journeyman who takes the **Canting** Trait and walks the Canting road declares **8
-physical + 4 kicks** — same slot-split rules as a Sorcerer's Sorcerie slots, different
-name and kit — but starts with **no spells** in the reader and an **empty hand** of four.
+A Journeyman who takes the **Canting** Trait and walks the Canting road declares **7
+physical + 5 kicks** — same slot-split rules as a Sorcerer's Sorcerie slots, different
+name and kit — but starts with **no spells** in the reader and an **empty hand** of five.
 Canting is learned in play: guild teaching, stolen manuals, jarks spent or scribed. Other
 Journeymen keep a normal twelve-slot pack; the split is only for rogues who work Canting
 magic.
@@ -125,7 +125,7 @@ you want a deck of your own. Costume Arcana is **100 gp** apiece in town if you 
 Spells are not for sale.
 
 That is why waiting costs more than starting as a Sorcerer: the apprentice walks in with
-book, one Arcana, and four ready spells; you pay for the blank book and hunt every
+book, one Arcana, and five ready spells; you pay for the blank book and hunt every
 working.
 
 Your hand starts **empty**. Grow the book the same way any Sorcerer does:
@@ -503,7 +503,7 @@ learn. See its entry on [[Burners Spells]].
 
 **Its real work is magic items.** Cast or work it to learn what a ring, blade, wand, or
 relic does — **Facts** on the piece (Step-2 risk when you probe deep). That is why
-apprentices keep it in the starting four.
+apprentices keep it in the starting five.
 
 **Spellbooks and scrolls** are a lesser use. If you already hold the school's Trait (or the
 book is common Sorcerie), you read that grimoire without this spell. Use *Read Magic* on a

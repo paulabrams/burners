@@ -21,7 +21,7 @@ hero_alt: "Travelers on the road — Albert Robida"
 | **Kragg** | Sword 1 (Veteran) | 4 | war-axe (3 slots, 2-handed, enchanted), gambeson (AC 2) | 4 empty + 3 axe + 1 level = **8** |
 | **Sefa** | Craft 1 (Journeyman) | 3 | leather (AC 1); **silvered knife** (1 slot) once looted | 4 empty + 1 knife + 1 level = **6** |
 | **Brand** | Heart 1 (Boss) | 5 | sword (2), leather (AC 1) | 4 empty + 2 sword + 1 level = **7** |
-| **Ilsa** | Sorcerie 1 (Sorcerer) | 3 | spear (3 physical); **4 Sorcerie slots** (hand size 4 — *Adhere* ready among them); wand Arcana (1 Sorcerie); leather (AC 1, 2 physical) | 3 empty + 1 wand + 3 spear + 1 level = **8** |
+| **Ilsa** | Sorcerie 1 (Sorcerer) | 3 | spear (3 physical); **5 Sorcerie slots** (hand size 5 — *Adhere* ready among them); wand Arcana (1 Sorcerie); leather (AC 1, 2 physical) | 2 empty + 1 wand + 3 spear + 1 level = **7** |
 
 *Reminder — out of combat: `2d6 +` Approach vs Cost. Hostile magic: Fuel Defend vs cast total (see [[Burners Principles#Granular defense, not binary save]]).*
 
@@ -156,7 +156,7 @@ The sharper casts a working at Brand. **A hostile spell is an attack: roll initi
 | **Kragg** (tankard, axe on back) | 4 empty + 1 level = **5** | **3** (three 3s/4s) |
 | **Sefa** (knife in boot — a holdout) | 4 empty + 1 level = **5** | **1** |
 | **Brand** (sword at hip, not in hand) | 4 empty + 1 level = **5** | **1** |
-| **Ilsa** (4 Sorcerie slots declared; wand Arcana 1; leather 2; no spear tonight) | 4 empty + 1 wand + 1 level = **6** | **1** |
+| **Ilsa** (5 Sorcerie slots declared; wand Arcana 1; leather 2; no spear tonight) | 4 empty + 1 wand + 1 level = **6** | **1** |
 | **Enemy group** (sharper + bravos) | — | **1d6 = 2** |
 | **Sharper** (HD 1 → **2 face-up**; Illusione hand; *Bewitch* ready) | free cast / quotes | — |
 | **Bravos** (knives; HD 1 → **2 face-up** each) | knife quote **2** each | — |

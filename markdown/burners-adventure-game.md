@@ -293,7 +293,7 @@ A sample buy after the free tool, 23 gp of your sixty, filling all twelve:
 
 Bow in hand throws 2 on Roll Initiative; empties throw 4; level throws 1 — a pool of 7. Light kit, room for the road. Your Craft is how the band endures the wilds (see *The Journeyman's craft*).
 
-A Canting Journeyman who takes the Canting Trait and walks that road declares 8 physical + 4 kicks — same slot-split rules as Sorcerie slots, different name — but starts with no spells and an empty hand until they learn Canting in play. See *The Canting Journeyman* on [[Burners Sorcerie]].
+A Canting Journeyman who takes the Canting Trait and walks that road declares 7 physical + 5 kicks — same slot-split rules as Sorcerie slots, different name — but starts with no spells and an empty hand until they learn Canting in play. See *The Canting Journeyman* on [[Burners Sorcerie]].
 
 ### The Starting Sorcerer
 
@@ -301,29 +301,29 @@ Starting gold: 40 gp.
 
 A Sorcerer's craft comes with a kit (the fruit of your apprenticeship). That is why your starting gold is so much lighter than a Veteran's: you already spent most of it becoming a mage. Your kit is:
 
-- 8 physical slots + 4 Sorcerie slots — declare the split at creation; you may not re-split until your first 8-hour sleep. Sorcerie slots set your hand size (4). They hold **Arcana** (staff, wand, rod, orb, crystal, ring, amulet, mask, robes, hat) at each item's full slot cost — those throw Initiative. **Books and scrolls** may ride physical or Sorcerie; they fill the slot, no Initiative die. Never armor, shields, or war kit. See *Sorcerie Slots* on [[Burners Sorcerie]].
+- 7 physical slots + 5 Sorcerie slots — declare the split at creation; you may not re-split until your first 8-hour sleep. Sorcerie slots set your hand size (5). They hold **Arcana** (staff, wand, rod, orb, crystal, ring, amulet, mask, robes, hat) at each item's full slot cost — those throw Initiative. **Books and scrolls** may ride physical or Sorcerie; they fill the slot, no Initiative die. Never armor, shields, or war kit. See *Sorcerie Slots* on [[Burners Sorcerie]].
 - One free Arcana — costume of the craft; pick one from the allow-list. Mundane grade; enchanted Arcana is still a find. Empty Sorcerie slots throw no Initiative dice.
-- A spellbook in a scrivener's satchel (book, ink pot, quill, loose-leaf paper): *Read Magic* plus three other 1st-level spells from your school, all known — apprenticeship already taught them (*Read Magic* is useful loot literacy, not the key to the other three). The Referee picks them, rolls them, lets you choose, or works with you. The book is kit (not the free costume pick); it may sit in a Sorcerie slot or physical. Plain ink records Facts free; moving further spells into the book later costs time, not gold per spell (see *Spellbooks* on [[Burners Sorcerie]]).
-- Your hand is all four known spells — ready to cast.
+- A spellbook in a scrivener's satchel (book, ink pot, quill, loose-leaf paper): *Read Magic* plus four other 1st-level spells from your school, all known — apprenticeship already taught them (*Read Magic* is useful loot literacy, not the key to the other four). The Referee picks them, rolls them, lets you choose, or works with you. The book is kit (not the free costume pick); it may sit in a Sorcerie slot or physical. Plain ink records Facts free; moving further spells into the book later costs time, not gold per spell (see *Spellbooks* on [[Burners Sorcerie]]).
+- Your hand is all five known spells — ready to cast. Count them on your fingers.
 
 A sample buy, 23 gp of your forty:
 
-Sorcerie slots (4):
+Sorcerie slots (5):
 
 - Spellbook (kit) — 1 slot
 - Wand (free Arcana) — 1 slot
-- Empty Sorcerie slots — 2 (hand size still 4; empty slots and the book throw no Initiative dice)
+- Empty Sorcerie slots — 3 (hand size still 5; empty slots and the book throw no Initiative dice)
 
-Physical (8):
+Physical (7):
 
 - Leather (AC 1) — 2 slots, 20 gp
 - Backpack — 3 slots
 - Dagger — 1 slot, 3 gp
-- Empty — 2 slots
+- Empty — 1 slot
 
-Initiative: wand Arcana throws 1, two empty physical throw 2, level throws 1 — a pool of 4. The dagger on the belt throws nothing until it is in hand. The book in a Sorcerie slot throws nothing. The magic is already yours.
+Initiative: wand Arcana throws 1, one empty physical throws 1, level throws 1 — a pool of 3. The dagger on the belt throws nothing until it is in hand. The book in a Sorcerie slot throws nothing. The magic is already yours.
 
-Three of your school's six 1st-level spells are not in your book. Those, deeper spells, other schools, and more Arcana are your hunt. Extra costume Arcana runs 100 gp apiece in town; enchanted Arcana stays a find. Found grimoires you can read let you memorize while you carry them; scribing into your personal book costs **time** (and destroys the source page), not 100 gp per spell. *Read Magic* identifies loot — it is not required to learn. See [[Burners Sorcerie]].
+Two of your school's six 1st-level spells are not in your book. Those, deeper spells, other schools, and more Arcana are your hunt. Extra costume Arcana runs 100 gp apiece in town; enchanted Arcana stays a find. Found grimoires you can read let you memorize while you carry them; scribing into your personal book costs **time** (and destroys the source page), not 100 gp per spell. *Read Magic* identifies loot — it is not required to learn. See [[Burners Sorcerie]].
 
 Canting rogues use the same split for kicks — see *The Starting Journeyman*.
 
@@ -443,9 +443,9 @@ See *Traits* under Character Creation.
 
   - Traits: marsh-lore, second-sight, witch-blood, Vitae (Sorcerie).
 
-  - Hand: *Read Magic*, *Healing Touch*, *Stanch*, and one other 1st from her book — all four ready. *Stanch* is the card that helps at 0 HP or less; *Healing Touch* does not.
+  - Hand: *Read Magic*, *Healing Touch*, *Stanch*, and two other 1sts from her book — all five ready. *Stanch* is the card that helps at 0 HP or less; *Healing Touch* does not.
 
-  - Split: 4 Sorcerie slots (hand size 4), 8 physical — spellbook + one free Arcana (wand) in Sorcerie slots; the rest plain kit.
+  - Split: 5 Sorcerie slots (hand size 5), 7 physical — spellbook + one free Arcana (wand) in Sorcerie slots; the rest plain kit.
 
 - **Pip**, Craft 1 (Journeyman). "Has never been caught. Not once."
 

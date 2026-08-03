@@ -228,7 +228,7 @@ Your backpack takes 3 slots and contains: bedroll, waterskin, fifty feet of rope
 
 Your Approach also brings starting gold and its own kit or standing — see below. Spend what you keep in town from the tables further down; everything you carry ready takes an item slot.
 
-**Starting kits are for new characters only.** The Veteran purse, Boss loyal retainer, Journeyman free tool, Sorcerer spellbook and drip — those are creation. When you later put a level into a different Approach, you gain the Approach and its title, not that Approach's starting gold or free kit. A Veteran who becomes a Boss does not wake a loyal retainer. A Boss who takes Sorcerie 1 does not get a free book, drip, or starting spells (shop a blank spellbook at 25 gp and costume drip at 100 gp each if you want the kit; spells are not for sale). Learn from **found grimoires and teachers** — *Read Magic* is not required to learn (see *Learning Spells* on [[Burners Sorcerie]]). Re-split slots on rest when the new Approach needs it (Muster, Sorcerie slots).
+**Starting kits are for new characters only.** The Veteran purse, Boss loyal retainer, Journeyman free tool, Sorcerer spellbook and drip — those are creation. When you later put a level into a different Approach, you gain the Approach and its title, not that Approach's starting gold or free kit. A Veteran who becomes a Boss does not wake a loyal retainer. A Boss who takes Sorcerie 1 does not get a free book, drip, or starting spells — **buy a blank spellbook (25 gp)**; costume drip 100 gp each if wanted; spells are not for sale. Learn from found grimoires and teachers; scribing into your personal book costs **time, not 100 gp per spell** (see *Learning Spells* / *Spellbooks* on [[Burners Sorcerie]]). Waiting costs more than starting as a Sorcerer because you miss the apprentice kit. Re-split slots on rest when the new Approach needs it (Muster, Sorcerie slots).
 
 ### The Starting Veteran
 
@@ -303,7 +303,7 @@ A Sorcerer's craft comes with a kit (the fruit of your apprenticeship). That is 
 
 - 7 physical slots + 5 Sorcerie slots — declare the split at creation; you may not re-split until your first 8-hour sleep. Sorcerie slots set your hand size (5) and hold Wizard Drip — wand, staff, rod, orb, crystal, ring, amulet, mask, robes, hat, **spellbook / grimoire**, at each item's full slot cost. Never armor, shields, or war kit. Books may instead ride physical; either way you are carrying them. See *Sorcerie Slots* on [[Burners Sorcerie]].
 - Two free Wizard Drip — costume of the craft, pick two from the allow-list (a wand and a hat, a ring and an amulet, a staff alone if you want the bulk). Mundane grade; enchanted drip is still a find. They teach you to fill Sorcerie slots — empty Sorcerie slots throw no Initiative dice.
-- A spellbook in a scrivener's satchel (book, ink pot, quill, loose-leaf paper): *Read Magic* plus four other 1st-level spells from your school, all known — apprenticeship already taught them (*Read Magic* is useful loot literacy, not the key to the other four). The Referee picks them, rolls them, lets you choose, or works with you. The book is kit (not one of the two free costume picks); it may sit in a Sorcerie slot or physical. Plain ink records Facts free; reagent inks that fix a working into the book are a separate cost (see *Spellbooks* on [[Burners Sorcerie]]).
+- A spellbook in a scrivener's satchel (book, ink pot, quill, loose-leaf paper): *Read Magic* plus four other 1st-level spells from your school, all known — apprenticeship already taught them (*Read Magic* is useful loot literacy, not the key to the other four). The Referee picks them, rolls them, lets you choose, or works with you. The book is kit (not one of the two free costume picks); it may sit in a Sorcerie slot or physical. Plain ink records Facts free; moving further spells into the book later costs time, not gold per spell (see *Spellbooks* on [[Burners Sorcerie]]).
 - Your hand is all five known spells — ready to cast. Count them on your fingers.
 
 A sample buy, 23 gp of your forty:
@@ -324,7 +324,7 @@ Physical (7):
 
 Initiative: book, wand, and hat drip throw 3, one empty physical throws 1, level throws 1 — a pool of 5. The dagger on the belt throws nothing until it is in hand. The magic is already yours.
 
-Two of your school's six 1st-level spells are not in your book. Those, deeper spells, other schools, and more drip are your hunt. Extra costume drip runs 100 gp apiece in town; enchanted drip stays a find. Found grimoires you can read let you memorize while you carry them; moving a spell into your book costs 100 gp × its level and destroys the source page. *Read Magic* identifies loot — it is not required to learn. See [[Burners Sorcerie]].
+Two of your school's six 1st-level spells are not in your book. Those, deeper spells, other schools, and more drip are your hunt. Extra costume drip runs 100 gp apiece in town; enchanted drip stays a find. Found grimoires you can read let you memorize while you carry them; scribing into your personal book costs **time** (and destroys the source page), not 100 gp per spell. *Read Magic* identifies loot — it is not required to learn. See [[Burners Sorcerie]].
 
 Canting rogues use the same split for kicks — see *The Starting Journeyman*.
 

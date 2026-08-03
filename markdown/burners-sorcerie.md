@@ -121,13 +121,24 @@ magic.
 
 When you first reach **Sorcerie 1** in play, you gain the title — you may cast, declare
 **Sorcerie slots**, and Ward. You do **not** gain the apprentice kit: no free book, no free
-drip, no five starting spells. Shop a blank spellbook (25 gp) and costume drip (100 gp
-each) if you want the kit; spells are not for sale.
+drip, no five starting spells. **You must buy a personal spellbook** (blank, **25 gp**) if
+you want a deck of your own. Costume drip is **100 gp** apiece in town if you want it.
+Spells are not for sale.
 
-Your hand starts **empty**. Spells come from **finds, teachers, and grimoires you carry** —
-the classic path is looting spare books in a delve and studying them once you are a
-Sorcerer. ***Read Magic* is not required to learn** (see *Learning Spells*). The Referee
-should put a path to a first working in reach soon after the title turns on.
+That is why waiting to take Sorcerie costs more than starting as a Sorcerer: the apprentice
+walks in with book, drip, and five ready spells; you pay for the blank book and hunt every
+working.
+
+Your hand starts **empty**. Grow the book the same way any Sorcerer does:
+
+1. **Find** a grimoire (or a teacher) whose hand you can read (*Learning Spells*).
+2. **Carry** it to redraw and cast from those pages.
+3. **Scribe** what you mean to keep into your personal book — **no gp per spell**, only
+   downtime (see *Spellbooks*). The written source page is still destroyed when you copy
+   it in.
+
+***Read Magic* is not required to learn.** The Referee should put a path to a first
+working in reach soon after the title turns on.
 
 ## Sorcerie Slots
 
@@ -294,8 +305,9 @@ each; it may ride in a **physical or Sorcerie** slot.
   school's Trait (or Canting). A Veteran cannot wake one. *Read Magic* identifies it before
   you spend it.
 - **Scribing** (downtime): **100 gp × the spell's level** in reagents, from any spell you
-  hold in a readable source — same gold as moving a spell into your book. You may unmake a
-  scroll into your book (same cost and time); the scroll is destroyed without being cast.
+  hold in a readable source — making a scroll is gold work; moving the same spell into
+  your personal book is time only (see *Spellbooks*). You may unmake a
+  scroll into your book (time only; the scroll is destroyed without being cast).
 
 | Spell level on scroll | Cost to scribe (gp) |
 | --- | --- |
@@ -414,20 +426,21 @@ Your deck is a book, and a book can be lost.
   and swap — memorize from the book at hand. Drop it or leave it in town and those spells
   leave your ready library until you recover the source or scribe them into your own book.
   Each found grimoire you keep for redraw is another slot.
-- **Moving a spell into your book.** Copy it: **100 gp × level** in reagent inks and about
-  a week × its level. No roll. **This destroys the written source** you copied from (page,
-  exemplar, or scroll unmade into the book). A living teacher is not destroyed; you still
-  pay ink and time to scribe what they teach. **Slot note:** your personal book is still
+- **Moving a spell into your book.** Copy it into your **personal spellbook**: about a
+  week × its level, plain ink, **no gp**. No roll. **This destroys the written source**
+  you copied from (page, exemplar, or scroll unmade into the book). A living teacher is
+  not destroyed; you still spend the time. You need a personal book first (starters get
+  one; latecomers buy a blank at **25 gp**). **Slot note:** your personal book is still
   **1 slot** (physical or Sorcerie) no matter how many spells it holds. Scribing
-  consolidates — gold and time buy pack space.
-- **Copies within your library** — **25 gp × level** and a day × level; your first book is
-  not destroyed.
+  consolidates pack space — time buys that, not gold per spell.
+- **Copies within your library** — a spare of a book you already own: **25 gp × level**
+  and a day × level; your first book is not destroyed.
 
 | Item | Slots | Cost (gp) |
 | --- | --- | --- |
 | Spellbook, blank (physical or Sorcerie) | 1 | 25 |
 | Scroll case | 1 | 5 |
-| Reagent inks (move a spell into your book) | — | 100 × level |
+| Move a spell into your personal book | — | 0 (time only) |
 | Reagent inks (copy within your library) | — | 25 × level |
 | Make a scroll | 1 | 100 × level |
 | Brew a potion | 1 | 100 × level |
@@ -441,11 +454,12 @@ Your deck is a book, and a book can be lost.
 - **A people-school** needs its **Trait**. Hold *Vitae*, *Umbrakala*, and so on, and that
   tradition's books are open: you see the workings, memorize, and scribe. The Trait is
   enough — you do not cast *Read Magic* to study your own school's grimoires.
-- **Living teacher.** They show you a working; you scribe it (ink and time as above). The
-  teacher is not destroyed.
-- **Found books.** Loot a spare grimoire, take Sorcerie 1 if you lack it, carry the book,
-  redraw from what your Traits (or common Sorcerie) let you read. That is the usual road
-  for someone who was not apprenticed at creation.
+- **Living teacher.** They show you a working; you scribe it into your personal book (time
+  as above, no gp). The teacher is not destroyed.
+- **Found books.** Loot a spare grimoire, take Sorcerie 1 if you lack it, **buy a blank
+  personal book** if you have none, carry the find, redraw, then scribe what you keep for
+  free. That is the usual road for someone who was not apprenticed at creation — costlier
+  than starting as a Sorcerer because the apprentice kit is gone.
 
 *Read Magic* is for **magic items** (and opaque loot you cannot already read) — see
 *Reading Magic* below. It does not enroll you in a school or put a card in your deck.

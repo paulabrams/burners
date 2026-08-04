@@ -31,7 +31,7 @@ Anyone with coin can hire. Only a **Boss (Heart 1+)** **Musters** — splitting 
 
 **Loyal** is a **tag** after a real bond (Referee's call). +3 Loyalty; when they hold, they **act loyally** — prioritize their patron, Block for them, stay on their heel. Abuse the bond and the tag can fall — word travels.
 
-**Starter (Boss).** A Boss at character creation begins with the twelve split **7 physical + 5 Muster**, and one **loyal retainer** Mustering (the other four Muster seats open): level 1, Sword 1 or Craft 1, 2 Traits, HP = **1d3**, Loyalty **10** (7+3), basic kit paid from the Boss's purse, and a **half-share** of the take when they live. Taking Heart 1 later does not grant this retainer — see *Starting kits are for new characters only* in [[Burners Adventure Game]].
+**Starter (Boss).** A Boss at character creation begins with the twelve split **9 physical + 3 Muster**, and one **loyal retainer** Mustering (the other two Muster seats open): level 1, Sword 1 or Craft 1, 2 Traits, HP = **1d3**, Loyalty **10** (7+3), basic kit paid from the Boss's purse, and a **half-share** of the take when they live. Taking Heart 1 later does not grant this retainer — see *Starting kits are for new characters only* in [[Burners Adventure Game]].
 
 ---
 

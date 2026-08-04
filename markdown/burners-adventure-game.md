@@ -251,22 +251,23 @@ At Sword 1 you are already a Veteran: two attacks a round. See *Veteran Attacks*
 
 Starting gold: 80 gp.
 
-A Boss starts rich in people, not in steel. Your starting gold outfits you and your first loyal retainer. Split your twelve as **7 physical + 5 Muster** at creation — thin kit on your own back, five seats for today's crew. One Muster slot holds the loyal retainer; four sit open for the next hire. You may not re-Muster until your first 8-hour sleep or your first real job outfit.
+A Boss starts rich in people, not in steel. Your starting gold outfits you and your first loyal retainer. Split your twelve as **9 physical + 3 Muster** at creation — room for a thin kit and three seats for today's crew. One Muster slot holds the loyal retainer; two sit open for the next hire. You may not re-Muster until your first 8-hour sleep or your first real job outfit.
 
 Your kit is:
 
-- 7 physical + 5 Muster — one Muster slot holds today's retainer; four open
+- 9 physical + 3 Muster — one Muster slot holds today's retainer; two open
 - one loyal retainer Mustering: level 1, Sword 1 or Craft 1, half power (2 Traits, HP 1d3, Loyalty 10)
 - the retainer has no coin of their own — every weapon, armor, and oddment they carry is bought from your 80 gp
 - half-share of treasure recovered when they live (that is their pay)
 
 A sample buy, 59 gp of your eighty — you light, them armored:
 
-You (7 physical):
+You (9 physical):
 
 - Leather (AC 1) — 2 slots, 20 gp
 - Spear — 3 slots, 3 gp
-- Empty — 2 slots
+- Backpack — 3 slots
+- Empty — 1 slot
 
 Retainer (from your gold):
 
@@ -274,7 +275,7 @@ Retainer (from your gold):
 - Arming sword — 2 slots, 10 gp
 - Heater shield — 3 slots, 6 gp
 
-Your Initiative pool: spear 3 + empties 2 + level 1 = 6. The retainer, sword and shield in hand, throws its own pool when you play it. Muster slots hold people, not gear. A leader spends on their people — one purse, and it is yours. Manage, Loyalty, half power, and the rest of Muster live on [[Burners Muster]].
+Your Initiative pool: spear 3 + empties 1 + level 1 = 5. The retainer, sword and shield in hand, throws its own pool when you play it. Muster slots hold people, not gear. A leader spends on their people — one purse, and it is yours. Manage, Loyalty, half power, and the rest of Muster live on [[Burners Muster]].
 
 ### The Starting Journeyman
 
@@ -456,7 +457,7 @@ See *Traits* under Character Creation.
 
 - **Mara**, Heart 1 (Boss). "Pays in coin and reputation. Collects both."
 
-  - 5 HP and leather (AC 1). Split: **7 physical + 5 Muster** — Nell Mustering (1 slot); four open.
+  - 5 HP and leather (AC 1). Split: **9 physical + 3 Muster** — Nell Mustering (1 slot); two open.
   - Sword 0 — one attack; *spear* Trait only (no Veteran extras).
   - Traits: leadership, streetwise, intimidation, loyal (Heart); *spear* (Sword).
   - Held: spear. Coin kept back to outfit Nell. Re-Muster locked until first sleep.

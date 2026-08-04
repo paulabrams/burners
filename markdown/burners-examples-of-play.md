@@ -31,12 +31,12 @@ hero_alt: "Travelers on the road — Albert Robida"
 
 **Turn 1 — Entry stair.** `x`
 
-- Sefa scouts (Craft): Pay @ Heat 6 → 2d6+1 = **8** ✓. Clear, no cost.
+- Sefa scouts (Craft): Risk 6 → 2d6+1 = **8** ✓. Clear, no Heat.
 - Torch 1/6.
 
 **Turn 2 — Cellar 1, flooded. A slick beam (balance — Defend, Craft).** `x !`
 
-- Cross, 2d6 + Craft vs Heat 6 each:
+- Cross, 2d6 + Craft vs Risk 6 each:
   - Kragg 2d6 = **7** ✓ · Sefa 2d6+1 = **9** ✓ · Ilsa 2d6 = **10** ✓ · Brand 2d6 = **5**, short → slips, splash and noise → **Heat 7**. Log `!`.
 - Immediate WM (noise): d6 = **4**. Nothing.
 
@@ -49,7 +49,7 @@ hero_alt: "Travelers on the road — Albert Robida"
 
 **Turn 4 — Cellar 2. Covered pit (trap: flat Damage 2, no roll — detect or eat).** `x` → fight `!!`
 
-- Sefa checks for traps (Craft): Pay @ 7 → 2d6+1 = **6**, short 1 → **Heat 8**. Pit *not* spotted.
+- Sefa checks for traps (Craft): Risk 7 → 2d6+1 = **6**, short 1 → **Heat 8**. Pit *not* spotted.
 - Marching order puts Brand on it. It springs, no telegraph, no Fuel up out of combat: Damage 2 − Brand's AC 1 (soaks on the way in) = **1 to HP.** Brand 5 → 4.
 - Even-turn WM (time): d6 = **1** — encounter. Cellar denizens, hostile by writ: **4 grave-rats** (HD 1 each → **2 face-up** apiece — naked sushi; bite quote **3**). Log `!!` for the fight; that is the encounter already — no noise roll on top of it. After the scrap, nobody Wounded → no wounds roll.
 
@@ -104,7 +104,7 @@ Threat overcome → **vent 2 → Heat 7.**
 **Turn 7 — Strongbox.**
 
 - Carried out whole (2 slots; Kragg drops a torch bundle to fit it).
-- Sefa checks for a second exit (Craft): Pay @ 7 → 2d6+1 = **11** ✓ — an old coal chute, out that way, skipping the flooded beam.
+- Sefa checks for a second exit (Craft): Risk 7 → 2d6+1 = **11** ✓ — an old coal chute, out that way, skipping the flooded beam.
 
 ### After
 
@@ -142,9 +142,9 @@ Threat overcome → **vent 2 → Heat 7.**
 
 - **First meeting — Reaction roll** (Referee): 2d6 + Brand's Heart 1 = **8**. Cool but willing: Marlow will deal, at his price.
 - **Brand opens** — the papers for 300 gp. That is a fair ask backed by real goods, so it simply works as an offer on the table (Step 1); no roll for whether the world listens.
-- **Marlow lowballs** — 100 gp, and a smile. Brand wants the fixer's *real* ceiling — a read, and risky to press for: Pay @ Heat 4 → 2d6+1 = **9** ✓. The Referee gives it: Marlow is fronting for Varn's rival and will pay well over 300 — but he wants the crew *cheap or gone*.
-- **Brand presses** — names the rival aloud, and asks 400. A hard squeeze on a made man: Pay @ Heat 4 → 2d6+1 = **6**, short → the squeeze shows, the table hears it → **Heat 5**.
-- **Sefa reads the room** (Craft): Deal @ 5 → 2d6+1 = **10** ✓ — the bravos have shifted their stools clear of the table, and the ringed man's hands are under it. A revealed threat sets a floor: **Heat holds at 5, floor 5.**
+- **Marlow lowballs** — 100 gp, and a smile. Brand wants the fixer's *real* ceiling — a read, and risky to press for: Risk 4 → 2d6+1 = **9** ✓. The Referee gives it: Marlow is fronting for Varn's rival and will pay well over 300 — but he wants the crew *cheap or gone*.
+- **Brand presses** — names the rival aloud, and asks 400. A hard squeeze on a made man: Risk 4 → 2d6+1 = **6**, short → the squeeze shows, the table hears it → **Heat 5**.
+- **Sefa reads the room** (Craft): Deal @ Risk 5 → 2d6+1 = **10** ✓ — the bravos have shifted their stools clear of the table, and the ringed man's hands are under it. A revealed threat sets a floor: **Heat holds at 5, floor 5.**
 - **Marlow leans back** — "Three hundred, then. Shake on it." The Referee telegraphs: the sharper's lips are moving.
 
 ### Steel comes out — roll initiative
@@ -161,7 +161,7 @@ The sharper casts a working at Brand. **A hostile spell is an attack: roll initi
 | **Sharper** (HD 1 → **2 face-up**; Illusione hand; *Bewitch* ready) | free cast / quotes | — |
 | **Bravos** (knives; HD 1 → **2 face-up** each) | knife quote **2** each | — |
 
-Order: Kragg (**3**) → enemy group (**2**) → Brand, Sefa, Ilsa (**1**s; players choose among themselves). **Kragg acts before the man whose spell started the fight.**
+Order: monsters act on **2**. Before: Kragg (**3**). After: Brand, Sefa, Ilsa (**1**s; players coordinate). **Kragg acts before the man whose spell started the fight.**
 
 **Round 1.**
 

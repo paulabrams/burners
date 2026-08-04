@@ -26,7 +26,7 @@ Advanced rules for kit beyond the basics (skippable for a casual game). Everythi
 Every weapon, armor, or tool sits on one ladder, bottom to top. Only the first two rungs are for sale; the rest are earned in play.
 
 1. **Common** — its type's Tags, nothing more.
-2. **Fine steel** — masterwork price; **Trusty** (never sticks, notches, or fails on a Spicy — the worst outcome finds something else).
+2. **Fine steel** — masterwork price; **Trusty** (never sticks or notches — the worst outcome finds something else).
 3. **Signature** — a name and a history (*"Wren's sword, tuned over twenty years of border duty"*). Worth coin and worth questions, but no bonus of its own. You name an item in play, never at creation.
 
 Tuned, Bane-forged, and Legendary arms are Referee magic items — see [[Burners Referee Magic Items]]. Enchanted / legendary / eldritch are one class; Trait acceptance gates the magic: [[Burners Adventure Game#Enchanted Arms and Armor]].

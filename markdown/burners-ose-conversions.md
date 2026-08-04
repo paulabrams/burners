@@ -95,7 +95,7 @@ Preferred Referee play is **scene Heat + free quoted attacks** — no free monst
 
 **Natural attacks** are quotes (or weapon slots on a full-dice port), not Initiative dice.
 
-**Initiative:** each distinct foe group rolls **1d6** every Round Initiative (same as [[Burners Adventure Game#Combat]]). Heat is scene Cost, not the Initiative dish. Optional full-dice foes may roll a Fuel pool like a Burner — label that choice at the table. Fiction tempo still holds:
+**Initiative:** each distinct foe group rolls **1d6** every Round Initiative (same as [[Burners Adventure Game#Combat]]). Heat is unpaid Risk, not the Initiative dish. Optional full-dice foes may roll a Fuel pool like a Burner — label that choice at the table. Fiction tempo still holds:
 
 - **Shambling** *(the sluggish dead, oozes, rooted things)*: **acts last**, skip the d6.
 - **A living spear** *(cobra, ambush-hunter)*: acts at the **top of the order**, skip the d6.
@@ -110,7 +110,7 @@ Preferred Referee play is **scene Heat + free quoted attacks** — no free monst
 
 ### The Defend Router
 
-An OSE save is a pointer to a Burners subsystem — see [[Burners Principles#Route, don't reinvent]] and [[Burners Principles#Granular defense, not binary save]]. `2d6 +` **the fitting Approach** against the Referee's Cost handles most hazards (see *Approach Roll* in [[Burners Adventure Game]]). Hostile magic uses Fuel Defend against the caster's cast total (see [[Burners Sorcerie]]). Ask what the save protects, then route it:
+An OSE save is a pointer to a Burners subsystem — see [[Burners Principles#Route, don't reinvent]] and [[Burners Principles#Granular defense, not binary save]]. `2d6 +` **the fitting Approach** against the Referee's Risk handles most hazards (see *Approach Roll* in [[Burners Adventure Game]]). Hostile magic uses Fuel Defend against the caster's cast total (see [[Burners Sorcerie]]). Ask what the save protects, then route it:
 
 | OSE says                                    | Burners does                                                                                                                                                                                                                                                                           |
 | ------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -156,7 +156,7 @@ The **right tool** is a **player claim** (fiction + one extra Fuel burned into t
 
 ## Checks, Doors, and Skills
 
-A module check splits two ways. A trained or skilled attempt — thief skills, foraging, listening at doors — becomes `2d6 +` **fitting Approach vs. Heat**, quoted as a **Pay** (the world acts on you — shortfall is the cost) or a **Deal** (you act on it — shortfall is no purchase). A raw attribute check with no skill behind it — bend bars, leap a chasm, stare down a horror — is the same: `2d6 +` Sword, Craft, or Heart vs the Referee's Cost.
+A module check splits two ways. A trained or skilled attempt — thief skills, foraging, listening at doors — becomes `2d6 +` **fitting Approach vs Risk**, quoted as a **Pay** (the world acts on you — shortfall is Heat) or a **Deal** (you act on it — shortfall is no purchase). A raw attribute check with no skill behind it — bend bars, leap a chasm, stare down a horror — is the same: `2d6 +` Sword, Craft, or Heart vs the Referee's Risk.
 
 | OSE chance | Heat |
 | ---------- | ---- |

@@ -224,9 +224,9 @@ one of those forms — goat-horn hat, bone amulet, cracked crystal.
 **The cast.**
 
 1. **Say what you do** — name the spell and its effect in the fiction.
-2. **Pay the Cost.** In combat, casting is one Action: burn at least SL Fuel dice
+2. **Name the Risk.** In combat, casting is one Action: burn at least SL Fuel dice
    (SL = the working's level) and roll them for the **cast total**, as ever. Out of combat,
-   roll **2d6 + Sorcerie** (or **2d6 + Craft** for Canting) against the Referee's Cost.
+   roll **2d6 + Sorcerie** (or **2d6 + Craft** for Canting) against the Referee's Risk.
    Sparks, cast fumbles, and Defending against a spell run as written in
    [[Burners Adventure Game]].
    3. **Tap the card.** An instant working goes to your discard as it resolves. A lasting
@@ -376,7 +376,7 @@ claimant binds.
 
 If the Node is unclaimed and its demand has been met, the binding simply works. If it is
 hostile, wounded, or already claimed, this is a Step-2 risk: roll **2d6 + Sorcerie**
-against the Referee's Cost. A present master may **Defend** the claim with Sorcerie. Break
+against the Referee's Risk. A present master may **Defend** the claim with Sorcerie. Break
 the circle, leave it, or lose the contest and the rite fails; the Node answers according
 to its nature.
 
@@ -514,7 +514,7 @@ Once you have identified a given hand of writing, you can recognize that script 
 identification — that is not school literacy for learning (see *Learning Spells*).
 
 Optionally go deeper on an item or glyph: studying is an Action; describe how deep you
-probe. Interpretation is a Step-2 risk — the deeper the reading, the steeper the Cost (HP,
+probe. Interpretation is a Step-2 risk — the deeper the reading, the steeper the Risk (HP,
 time, noise, or a Spicy twist). Roll it out (Sorcerie, out of danger). On a success the
 Referee reveals one **Fact** at the depth you reached — a power (what it does), a demand
 (what it costs), or an omen (what changes about the bearer or world). On a **Sweet** you

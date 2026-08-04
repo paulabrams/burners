@@ -19,7 +19,7 @@ Mundane quality — **Common**, **Fine steel**, **Signature** — lives in [[Bur
 
 ### Tuned
 
-Fitted to one grip and dialed in. A **Tuned** weapon **counts as enchanted** for that grip (accepted only with the Trait; extra die and powers once found) and is **Trusty** (never sticks, notches, or fails on a Spicy). A tuning belongs to one hand: a blade tuned to a dead man's grip must be **re-tuned** before it answers you (a master's fee, or your own Craft 1+, tools, coin, and downtime). Earned in play, never at creation.
+Fitted to one grip and dialed in. A **Tuned** weapon **counts as enchanted** for that grip (accepted only with the Trait; extra die and powers once found) and is **Trusty** (never sticks or notches). A tuning belongs to one hand: a blade tuned to a dead man's grip must be **re-tuned** before it answers you (a master's fee, or your own Craft 1+, tools, coin, and downtime). Earned in play, never at creation.
 
 ### Bane-forged
 
@@ -93,7 +93,7 @@ Pick one per tier, or roll **d12** on the column. Re-roll duplicates. Route OSE 
 | 4 | **Detect trap** — sense traps within 10'; 3×/day | *sensory: detect traps* |
 | 5 | **Secret door** — find secret doors within 10'; 3×/day | *sensory: locate secret doors* |
 | 6 | **Light** — 30' light on command | *Sword +1, Light* |
-| 7 | **Never notches** — **Trusty**; will not stick or fail on a Spicy | *fine steel* |
+| 7 | **Never notches** — **Trusty**; will not stick or fail | *fine steel* |
 | 8 | **See invisible** — see invisible within 20' while drawn | *sensory: see invisible* |
 | 9 | **Detect metal** — points to a named metal within 60' (lead blocks) | *sensory: detect metals* |
 | 10 | **Slope-sense** — feel sloped floors within 10' | *sensory: detect slopes* |
@@ -182,7 +182,7 @@ Pick one per tier, or roll **d12** on the column. Re-roll duplicates. Route OSE 
 | 8 | **Called-shot gap** closed for **head** or **hands** (pick at identification) |
 | 9 | Harness never traps you — free escape from grapple once/fight |
 | 10 | **Light** — breastplate or helm glows 10' on command |
-| 11 | **Trusty** — straps and buckles never fail on a Spicy |
+| 11 | **Trusty** — straps and buckles never fail |
 | 12 | **Bane-stitch** — hums near the named quarry |
 
 **Armor — +2-tier**

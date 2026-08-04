@@ -23,7 +23,7 @@ hero_alt: "Travelers on the road — Albert Robida"
 | **Brand** | Heart 1 (Boss) | 5 | sword (2), leather (AC 1) | 4 empty + 2 sword + 1 level = **7** |
 | **Ilsa** | Sorcerie 1 (Sorcerer) | 3 | spear (3 physical); **5 Sorcerie slots** (hand size 5 — *Adhere* ready among them); wand Arcana (1 Sorcerie); leather (AC 1, 2 physical) | 2 empty + 1 wand + 3 spear + 1 level = **7** |
 
-*Reminder — out of combat: `2d6 +` Approach vs Cost. Hostile magic: Fuel Defend vs cast total (see [[Burners Principles#Granular defense, not binary save]]).*
+*Reminder — out of combat: `2d6 +` Approach vs Risk. Hostile magic: Fuel Defend vs cast total (see [[Burners Principles#Granular defense, not binary save]]).*
 
 ---
 
@@ -118,8 +118,8 @@ Threat overcome → **vent 2 → Heat 7.**
 ### Procedure Notes
 
 - **Clocks:** 10-minute Turns on a visible Turn Tracker — count **1–6** then wrap (an hour); `!` / `!!`, light notes, what they did. Checks leave no mark; even turns say when one is due. Always 1-in-6; roll on even turns, and again when noise, dark, or wounds fire. A full quiet cycle with food and water is Hour Rest (HP, if unwounded) — not a required rest tax. Magic out of combat is noise. See [[Burners Referee Guide#Turn Tracker]].
-- **One roll out of combat:** `2d6 + Approach` vs Cost. Traps — see [[Burners Principles#Pools, not fixed numbers]].
-- **Fuel is rolled on each Roll Initiative** — full pool on round 1; from round 2 on, refill one Fuel die per character level and roll those in. PC Initiative = count of 3s and 4s. Enemy groups: **1d6** each round (not Heat, not HD + weapon). Round 1 surprise: monsters first or last, no d6.
+- **One roll out of combat:** `2d6 + Approach` vs Risk. Traps — see [[Burners Principles#Pools, not fixed numbers]].
+- **Fuel is rolled on each Roll Initiative** — full pool on round 1; from round 2 on, refill one Fuel die per character level and roll those in. PC Initiative = count of 3s and 4s. Enemy groups: **1d6** each round (not Heat, not HD + weapon). Round 1 surprise: surprised side dead last.
 - **Damage you announce; the Referee converts.** Hits = ⌈damage ÷ 5⌉; closed → −1, always (armor is one card of soak). Claim the **right tool** to burn one extra Fuel into the blow (its face adds to damage). Face-down first, then face-up. **Cracked!** = last face-down gone (signal; the −1 ends). Dead = pile gone. See [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]].
 - **Defense (Burners):** melee 1 die (no limit once you have meleed this round); missile 1 die (2 with Cover); magic no limit. **Block** / **Counterattack** / **Cover**: [[Burners Adventure Game]]. Monsters at speed have **no free Defend**.
 - **The Wound model:** see [[Burners Principles#HP is plot armor; past 0 it gets real]].

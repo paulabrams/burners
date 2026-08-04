@@ -15,11 +15,11 @@ The rules in [[Burners Adventure Game]] and the satellite books are built on a s
 
 **The World Engine** is how the world behaves on its own terms. People, monsters, and places have a nature that does not bend to a wish.
 
-**The Hero Engine** is how you act: you say what you do and roll for what it costs.
+**The Hero Engine** is how you act: you say what you do and roll against the Risk.
 
 Player skill decides whether the world bends; your Approach decides only how much effect you have. A good idea, well told, makes things happen. Your sheet makes them happen harder. It never makes the impossible possible.
 
-**Dice only when there is a price.** The dice come out when a Cost is on the table — Heat (collateral), HP, time, noise, position, or a Spicy twist. A safe and certain action just happens. There is no Persuade roll for whether the world bends; that is Step 1. Heart amplifies a success the fiction already grants; it never manufactures an impossible one.
+**Dice only when there is a Risk.** The dice come out when the Referee names a Risk. What could possibly go wrong? Unpaid Risk is **Heat**, which the Referee may spend as scene consequences or convert to HP. Time, noise, position, or a Spicy twist may ride alongside. A safe and certain action just happens. There is no Persuade roll for whether the world bends; that is Step 1. Heart amplifies a success the fiction already grants; it never manufactures an impossible one.
 
 ---
 
@@ -27,7 +27,7 @@ Player skill decides whether the world bends; your Approach decides only how muc
 
 Burners has no save-or-die. Endurance is **Defend** — a graded contest, not a gate you pass or fail.
 
-- **Out of combat**, a hazard is **`2d6 +` the fitting Approach** against the Referee's Cost. You may soften the price, bear it whole, or dodge it clean — but the outcome is a matter of degree, not a single on/off switch.
+- **Out of combat**, a hazard is **`2d6 +` the fitting Approach** against the Referee's Risk. You may soften the bite, bear it whole, or dodge it clean — but the outcome is a matter of degree, not a single on/off switch.
 - **In combat**, blows land. A Burner's armor soaks incoming damage first; then you **burn Fuel dice** and cut what remains by their faces. Anything left comes off HP. Defend, Cover, Block, Counterattack — full rules in [[Burners Adventure Game]] — are ways to answer a blow, not a roll that erases the hit. Monsters take damage on their **Monster Stack** (2 × HD cards) — face-down first, then face-up (Referee speed).
 - **Hostile magic** uses the same Fuel economy as steel. The caster's **cast total** (sum of faces spent to cast) opposes your **defense total** (sum of faces you commit). Partial defense means partial effect: **overrun** = cast − defense, applied as harm to HP *or* as the spell's hold — never both. There is no "save for half" — you defended as well as your dice allowed.
 
@@ -39,7 +39,7 @@ A binary save asks *did you avoid it?* Burners asks *how much did you stop, and 
 
 ## Attrition, not spike damage
 
-Lethality lives in **attrition and ambush**, not in big single numbers. Your Fuel only shrinks over a fight; when it runs dry, blows arrive whole. Ambush is loadout and tempo: sheathed steel means a thin Fuel open, and surprise on round 1 only puts monster groups first or last — you still act.
+Lethality lives in **attrition and ambush**, not in big single numbers. Your Fuel only shrinks over a fight; when it runs dry, blows arrive whole. Ambush is loadout and tempo: sheathed steel means a thin Fuel open, and surprise on round 1 puts that side dead last — you still act.
 
 Past 0 HP, blows open **Wounds**; each is a Shock Check (combat-effective). After the fight,
 unhelped Wounds kill; helped, a Craft survival check decides. The stack and the survival roll
@@ -65,9 +65,9 @@ Death lands after the fight — **unhelped Wound**, **failed Craft survival**, o
 
 ## Heat is collateral
 
-**Heat** is the crew's shared bank of **collateral** — unpaid Cost that will come back to bite. Not anyone's flesh; the mess the job is making. It prices most out-of-combat Costs and clocks when a scene turns dangerous.
+**Heat** is the crew's shared bank of **collateral** — unpaid Risk that will come back to bite. Approach-roll shortfalls are always Heat. The Referee spends it as the mess the job is making, and may convert Heat into HP when the bite is on a body.
 
-- Heat is **never a damage buffer**; blows in a fight go to HP, not Heat.
+- Heat is **never a damage buffer in a fight**; blows land on HP, not Heat. Conversion is for out-of-combat Heat the Referee spends that way.
 - Heat is **not** monster Initiative — foes use a **group 1d6** (see [[Burners Adventure Game#Combat]]). Optional press is separate. **Don't double-count dread:** the creature's Monster Stack and weapon quotes are its own; Heat prices only the situation — the dark, the alarm, the flanking.
 - Module foreshadowing is mechanical: boxed danger is a **Heat raise**; rooms that let the party prepare are Heat reductions waiting to be claimed.
 - When the party splits, each live scene runs its own Heat.
@@ -86,7 +86,7 @@ Magic arms and armor are looted or earned, never bought at creation. Magic items
 
 An **Invocation** is a bargain, not a spell. No hand, no Sorcerie slots, no school Trait. **Patron Alignment** is not Sorcerie level — a torch-hand may be Lunara 3 and never cast; a Sorcerer may know every school and stand a stranger to every god.
 
-**Not wishes.** Players will reach for Invocations whenever they are stuck. The **Cost roll** gates whether a patron hears you; the **Offer and Ask** are where the Referee balances what you get against what you owe. Neither is a menu for rewriting the scene.
+**Not wishes.** Players will reach for Invocations whenever they are stuck. The **Risk roll** gates whether a patron hears you; the **Offer and Ask** are where the Referee balances what you get against what you owe. Neither is a menu for rewriting the scene.
 
 ---
 
@@ -106,7 +106,7 @@ In combat, only **Sword** answers. The diplomat, locksmith, and archmage are bod
 
 ## Pools, not fixed numbers
 
-**Preferred (Referee speed):** each enemy group rolls **1d6** for Initiative every round. Attacks are **free quotes**. Durability is the public **Monster Stack** (2 × HD cards, face-down / face-up) — see [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]]. Burners still roll fat Fuel pools (Initiative = count of 3s and 4s) and burn faces to attack and Defend. Round 1 surprise only places monster groups first or last — no lost turns.
+**Preferred (Referee speed):** each enemy group rolls **1d6** for Initiative every round. Attacks are **free quotes**. Durability is the public **Monster Stack** (2 × HD cards, face-down / face-up) — see [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]]. Burners still roll fat Fuel pools (Initiative = count of 3s and 4s) and burn faces to attack and Defend. Round 1 surprise puts a surprised side dead last — no lost turns.
 
 **Optional (full-dice foes):** run a named foe like a character — Fuel pool, burn to attack and Defend — when you want the slow fight. **Order stays a group/solo 1d6**, not a 3/4 Fuel count. Most nights, don't.
 
@@ -184,7 +184,7 @@ Every die, save, check, and bonus from another game is a **pointer** to a Burner
 | Legacy idea | Burners route |
 | --- | --- |
 | Ability check | Approach roll (`2d6 +` Approach) |
-| Save vs. hazard | **Defend** (`2d6 +` Approach) vs Cost |
+| Save vs. hazard | **Defend** (`2d6 +` Approach) vs Risk |
 | Save vs. spell | Fuel **Defend** vs **cast total**; roll initiative if no fight yet |
 | Save vs. breath (monster) | **Area effect** — telegraph, ward, cover, or eat it |
 | Save vs. poison | **Defend** (Craft) to avoid; **lingering Cost** once it lands |

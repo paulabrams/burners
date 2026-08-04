@@ -31,7 +31,7 @@ Anyone with coin can hire. Only a **Boss (Heart 1+)** **Musters** — splitting 
 
 **Loyal** is a **tag** after a real bond (Referee's call). +3 Loyalty; when they hold, they **act loyally** — prioritize their patron, Block for them, stay on their heel. Abuse the bond and the tag can fall — word travels.
 
-**Starter (Boss).** A Boss at character creation begins with one **loyal retainer** at level 1: Sword 1 or Craft 1, 2 Traits, HP = **1d3**, Loyalty **10** (7+3), basic kit paid from the Boss's purse, and a **half-share** of the take when they live. Taking Heart 1 later does not grant this retainer — see *Starting kits are for new characters only* in [[Burners Adventure Game]].
+**Starter (Boss).** A Boss at character creation begins with the twelve split **7 physical + 5 Muster**, and one **loyal retainer** Mustering (the other four Muster seats open): level 1, Sword 1 or Craft 1, 2 Traits, HP = **1d3**, Loyalty **10** (7+3), basic kit paid from the Boss's purse, and a **half-share** of the take when they live. Taking Heart 1 later does not grant this retainer — see *Starting kits are for new characters only* in [[Burners Adventure Game]].
 
 ---
 
@@ -108,11 +108,11 @@ Before a job — in town or at the safehouse — or on any **8-hour sleep**, the
 
 Going alone: **0** Muster slots, all twelve physical. Retainers wait at home — off this page until Mustering.
 
-Muster slots hold **people**, not gear. Kit rides on them; outfit and new gear come from the Boss's purse. On Roll Initiative the Boss adds **one die per Muster slot declared** (filled or empty). Those slots never also count as empty-inventory dice. See [[Burners Adventure Game]].
+Muster slots hold **people**, not gear. Kit rides on them; outfit and new gear come from the Boss's purse. They never count as empty-inventory dice on Roll Initiative. See [[Burners Adventure Game]].
 
-Muster slots buy packing, Fuel, Initiative, Manage, **Boss-player control**, **no fight Loyalty while the Boss is active**, and **Heart on Loyalty checks** — not a different XP track.
+Muster slots buy packing, Manage, **Boss-player control**, **no fight Loyalty while the Boss is active**, and **Heart on Loyalty checks** — not a different XP track, and not Initiative dice.
 
-**Non-Bosses** may still hire retainers. Without Muster they do not gain Muster-slot Initiative; by the book the Referee runs those NPCs. **Table practice (preferred):** the **hiring player's player** still rolls and plays the hireling in a fight — Initiative, Fuel, attacks — so the retainer is not stuck last as a forgotten Ref turn. The Referee keeps **Loyalty** checks (and takes the sheet back if the hirer is down, fled, or absent). Mustering remains the Boss privilege for full share, no-fight-Loyalty, and Manage.
+**Non-Bosses** may still hire retainers. Without Muster, by the book the Referee runs those NPCs. **Table practice (preferred):** the **hiring player's player** still rolls and plays the hireling in a fight — Initiative, Fuel, attacks — so the retainer is not stuck last as a forgotten Ref turn. The Referee keeps **Loyalty** checks (and takes the sheet back if the hirer is down, fled, or absent). Mustering remains the Boss privilege for full share, no-fight-Loyalty, and Manage.
 
 ---
 

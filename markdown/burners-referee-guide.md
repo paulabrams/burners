@@ -15,7 +15,7 @@ Three things run most of it: the Heat gauge you drive up and down as the scene's
 
 ## Running Heat
 
-Heat is the crew's shared **collateral** and the spine of every scene — the full player rules are in [[Burners Adventure Game]]; here is how you drive it. Bank unpaid Cost now; spend it when the mess comes back to bite. You narrate the room tightening and the number, face-up on the table, tracks it.
+Heat is the crew's shared **collateral** and the spine of every scene — the full player rules are in [[Burners Adventure Game]]; here is how you drive it. Unpaid Risk is always Heat. Bank it now; spend it when the mess comes back to bite — as scene pressure, or convert Heat into HP when the bite is on a body. You narrate the room tightening and the number, face-up on the table, tracks it.
 
 **Open every scene at a base**, set by how hot the room already is:
 
@@ -27,11 +27,11 @@ Heat is the crew's shared **collateral** and the spine of every scene — the fu
 
 **Feed it.** Every shortfall the crew can't soak raises Heat by what they fell short — compress big misses, a botched sneak is +1 or +2, not +5. A blow past a defense, a blown roll, a hard parley all feed it, and you may raise it by fiat when fresh danger walks in (reinforcements, a lit lantern, the storm arriving), announced. Wounds do not feed Heat; they carry their own pressure.
 
-**Telegraph threats to set the room.** Rough rubric: raise Heat toward the shown monster's **HD** — lower if the foe is disadvantaged, higher if it owns the situation. Reveal in stages and the gauge climbs with the fiction — spoor, then half-eaten kills, then the beast at full HD (a pack: summed HD, capped by chokepoints and the dark). Show the signs for slow dread; conceal them for an ambush that raises no Heat and strikes with surprise on round 1 instead (monsters act first — [[Burners Adventure Game#Combat]]). Its presence sets the room; its attacks still quote its own Damage. Heat prices the situation — never the Monster Stack, never Initiative.
+**Telegraph threats to set the room.** Rough rubric: raise Heat toward the shown monster's **HD** — lower if the foe is disadvantaged, higher if it owns the situation. Reveal in stages and the gauge climbs with the fiction — spoor, then half-eaten kills, then the beast at full HD (a pack: summed HD, capped by chokepoints and the dark). Show the signs for slow dread; conceal them for an ambush that raises no Heat and strikes with surprise on round 1 instead (surprised side dead last — [[Burners Adventure Game#Combat]]). Its presence sets the room; its attacks still quote its own Damage. Heat prices the situation — never the Monster Stack, never Initiative.
 
 **Work the valves.** Heat falls when the crew acts on the room, not on request: fell or lose a named threat, −2; remove a named source (quench the fire, learn the ward-phrase), −1 or more; a Double Sweet vents 1; a steadying word or plan you buy, −1 once a scene. Folding ends the scene and cools to the next base. Downtime — a safe camp, a town between jobs — cools to base; a job that ended loud raises the base of what follows until the crew lies low and spends coin. Carousing is maintenance, not vice.
 
-Heat is collateral and Cost, not the enemy Initiative dish. Foes roll a **group 1d6** for order (see *Monsters at speed*). Optional press remains a Referee call when a quote should bite harder — it does not require rolling Heat as a Fuel pool. Finish it or fold.
+Heat is collateral and unpaid Risk, not the enemy Initiative dish. Foes roll a **group 1d6** for order (see *Monsters at speed*). Optional press remains a Referee call when a quote should bite harder — it does not require rolling Heat as a Fuel pool. Finish it or fold.
 
 ---
 
@@ -39,7 +39,7 @@ Heat is collateral and Cost, not the enemy Initiative dish. Foes roll a **group 
 
 Burners has no spell save. In a fight, a Burner **Defends** the cast total with Fuel; overrun lands harm or control ([[Burners Sorcerie]]). Ordinary folk and monsters at preferred speed have no Fuel — they do not get a free Defend.
 
-**Out of combat the working lands.** The caster rolls **`2d6 + Sorcerie`** (Craft for Canting) against your Cost. Shortfall is Heat — collateral (and noise, time, or a Spicy twist when that fits). Bank it and spend when it bites.
+**Out of combat the working lands.** The caster rolls **`2d6 + Sorcerie`** (Craft for Canting) against your Risk. Shortfall is Heat — collateral (and noise, time, or a Spicy twist when that fits). Bank it and spend when it bites.
 
 **Friendly conversation.** Control and charm aimed at a willing talker — *Bewitch*, *Command*, *Charm Person* from a module — may be cast without starting combat and without rolling Initiative. The mark is charmed (or obeys the word) as the spell says. Spell fiction still holds: no suicidal orders, habits and duty can balk, a friend still will not open the vault.
 
@@ -53,7 +53,7 @@ Worked table rulings for every 1st-level spell: [[Burners Magic Examples]].
 
 ## Running the Delve
 
-The exploration turn is one World Turn — ten minutes. Each turn runs the same short loop:
+The exploration turn is one Turn — ten minutes. Each turn runs the same short loop:
 
 1. **Declare.** The party sets a pace (cautious, normal, or hurried) and a primary action for the turn — move, search, listen, force, rest, interact, or something else.
 
@@ -73,7 +73,7 @@ Searching costs a Turn. What it buys depends on what they tell you they are doin
 
 1. **Intent and method.** "We search the room" is a Turn spent and a rough look. "I run my knife along the seam under the sill" is a specific act on a specific thing, and it gets a specific answer.
 2. **Give the information.** Anything a careful person would notice in ten minutes, they notice — no roll. The scratched flagstone, the draft, the tool marks, the chest whose lid sits a finger too high. You are not hiding facts; you are charging time for them.
-3. **Roll only if it is still uncertain.** When the method might work and might not, it is `2d6 + Craft` vs the Cost. When the method plainly works on that problem, it works. When it plainly does not — bare hands on a masterwork lock — say so and let them spend the Turn elsewhere.
+3. **Roll only if it is still uncertain.** When the method might work and might not, it is `2d6 + Craft` vs the Risk. When the method plainly works on that problem, it works. When it plainly does not — bare hands on a masterwork lock — say so and let them spend the Turn elsewhere.
 
 A trap the party has been told about is a puzzle, not a gotcha (see [[Burners Principles#No gotchas]]). Spring it undetected only when they walked past the sign or never looked. The trap quotes flat Damage — armor soaks on the way in, no Fuel up out of combat.
 
@@ -153,7 +153,7 @@ Light lives on the Turn Tracker. Fatigue is why the party cannot crawl forever, 
 
 A Journeyman keeps the band fresh. The [[Burners Adventure Game|Journeyman's craft]] reduces party-wide travel, weather, and survival costs by the Journeyman's Craft level, and fatigue in the dark is a survival cost like any other. Subtract the Journeyman's Craft from the tick for everyone they are leading: Craft 1 shrugs off a routine +1 entirely. Fatigue bites when the party has no Journeyman, when the Journeyman is down or split off from the group, or when the place is harsh enough to outrun their level. Scale the tick to the dungeon — a mild crawl adds 1, a brutal one (heat, thin air, crushing dark) adds 2 or 3, so a Journeyman's Craft matters more the worse the ground gets.
 
-The over-extended party is the danger this builds: the grind pushes Heat up even when nothing is attacking, so a crew that lingers, lost and tired, walks into the next fight against a hotter scene — Costs bite harder and optional presses hit harder. "We're worn thin and the room's boiling, and nothing's even swung at us yet — we have to get out" is the pressure a long crawl builds even when nobody has taken a wound.
+The over-extended party is the danger this builds: the grind pushes Heat up even when nothing is attacking, so a crew that lingers, lost and tired, walks into the next fight against a hotter scene — Risks bite harder and optional presses hit harder. "We're worn thin and the room's boiling, and nothing's even swung at us yet — we have to get out" is the pressure a long crawl builds even when nobody has taken a wound.
 
 ### Cooling off — and how HP comes back
 
@@ -219,7 +219,7 @@ A monster is any enemy: Hit Dice, attacks, and a public **Monster Stack** of **2
 
 **Monsters have Hit Dice.** Deal each monster a **Monster Stack** of **2 × HD** playing cards. **Face-down = closed** (armored / shell). **Face-up = open** (meat). Ignore rank and suit. The stack replaces notepad HP. Players like a fat Fuel pool; you keep the enemy side **small and quotable**.
 
-**Initiative.** Each distinct enemy group rolls **1d6** every Round Initiative (reroll each round; no declare-before-roll). Shambling / acts last as written — skip the die, go last. Round 1 surprise: if monsters have surprise, they act first (no d6); if PCs have surprise, monster groups act last (no d6). PC Initiative stays the count of 3s and 4s on Fuel — [[Burners Adventure Game#Combat]].
+**Initiative.** Each distinct enemy group rolls **1d6** every Round Initiative (reroll each round; no declare-before-roll). Shambling / acts last as written — skip the die, go last. Round 1 surprise: a surprised side is dead last that round (Fuel and Actions unchanged). PC Initiative stays the count of 3s and 4s on Fuel — [[Burners Adventure Game#Combat]].
 
 **Free attack (quote).** Flat damage — no die from an Init pool.
 

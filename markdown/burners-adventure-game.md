@@ -41,7 +41,7 @@ Say what you do, and how you do it. Not *I try to pick the lock* — and not bar
 - *I spike the lockplate with the hammer and pry it off.*
 - *I put my shoulder to the door and break the latch.*
 
-Same obstacle, three plans. The Referee rules whether that plan can work. If it is sound, it works. If it is risky, they name what it costs, and you roll to pay less.
+Same obstacle, three plans. The Referee rules whether that plan can work. If it is sound, it works. If it is risky, they name the Risk. What could possibly go wrong? You make an Approach roll.
 
 More of the same idea:
 
@@ -49,7 +49,7 @@ More of the same idea:
 - Climbing: *I throw the grapnel to the parapet and hand-over-hand the rope.* Not *I climb the wall.*
 - Talking: *I slide two crowns across and ask him to look the other way.* Not *I persuade the guard.*
 
-Your character Theme and Traits can help back up your plan.
+Your character's Theme and Traits can help back up your plan.
 
 ---
 
@@ -58,8 +58,6 @@ Your character Theme and Traits can help back up your plan.
 ### Character
 
 - **Theme:** your name or alias and a short line on who you are.
-
-- **Approach level:** you start with one Approach at level 1. Approach level adds to Approach rolls and sets how many Traits you may hold under that Approach (four per Approach level).
 
 - **Approach:** how you go about a situation: Sword, Craft, Heart, or Sorcerie.
 
@@ -70,6 +68,8 @@ Your character Theme and Traits can help back up your plan.
   - **Heart:** people. Persuasion, intimidation, empathy, medicine, leadership, trade, languages, friendly brawls.
 
   - **Sorcerie:** magic and the unseen. Spell schools, divination, binding, alchemy, ancient lore.
+
+- **Approach level:** you start with one Approach at level 1. Approach level adds to Approach rolls and sets how many Traits you may hold under that Approach (four per Approach level).
 
 - **Trait:** a skill or quality under one Approach (*lockpicking*, *steady under fire*, *arming sword*). You may only take Traits for Approaches you have levels in, and only from that Approach's list (arms and armor are Sword, non-combat practical skills are Craft, magic schools are Sorcerie, people-skills are Heart, etc.). Some Traits are trained-only: without them you cannot attempt the action or use the kit (a magic school, plate armor, greatsword or longbow, etc.).
 
@@ -99,33 +99,35 @@ Your character Theme and Traits can help back up your plan.
 
 - **Wound effects:** where you were hit matters. A leg wound puts you in the dirt. A head hit narrows your sight. And so on.
 
-- **Shock Check:** when a Wound opens, roll **`2d6 + Sword` vs total wound severity**. Fail and the shock table lands (dirt, stun, knockout…). Natural **1+1** always fails; **6+6** always succeeds. See *Wounds*.
+- **Shock Check:** when a Wound opens, roll **`2d6 + Sword` vs total wound severity**. Fail and the shock table lands (dirt, stun, knockout…). Natural **1+1** always fails; **6+6** always succeeds.
 
 ### Play
 
-- **World Turn:** ten minutes of out-of-combat time. You take one World Action.
+- **Turn:** ten minutes of play time. Turns are used to mark the passage of time, and help each player get a chance to do something ("say what you do"). Combat uses Rounds instead.
 
-- **Two Steps:** say what you do and how. Some actions have a cost, in which case the Referee provides a number that you roll against; your roll reduces the cost. This might end up being paid in HP or Heat.
+- **Risk:** the number the Referee names when a plan is risky. What could possibly go wrong? You roll an Approach roll against it.
 
-- **Approach roll:** roll 2d6 and add your Approach level. To climb a cliff with Craft 3, you roll 2d6+3.
+- **Approach roll:** after you say what you do, if the Referee names a Risk, roll 2d6 and add your Approach level against that number. Meet or beat and you do it clean; fall short and the shortfall is **Heat**. To climb a cliff with Craft 3, you roll 2d6+3. Risk 10 and a roll of 7 means 3 Heat.
 
-- **Alignment:** like an Approach, but for a specific situation or bond with a patron, guild, or power. Count every relevant Trait across all your Approaches, divide by 4, round down. See *Alignment*.
-
-- **Heat:** Heat is a currency incurred when taking an action with a cost other than something immediate such as HP. The Referee banks Heat as a currency to spend describing consequences and collateral damage resulting from the action. This allows the Referee to present the consequence at the right time, in the right proportion. The Referee might spend Heat immediately if the consequence seems immediate, otherwise bank it as tokens.
+- **Heat:** unpaid Risk — the shortfall from an Approach roll. The Referee banks it and spends it as consequences at the right time, in the right proportion, and may convert Heat into HP when the bite is on a body.
 
 - **Sweet and Spicy:** a rolled 6 is Sweet (a good twist); a rolled 1 is Spicy (a complication). These ride alongside the sum and never change it. Two 6s (a natural 12) is the perfect roll. Two 1s (a natural 2) is a fumble.
 
+- **Alignment:** like an Approach, but for a specific situation or bond with a patron, guild, or power. Count every relevant Trait across all your Approaches, divide by 4, round down. See *Alignment*.
+
 ### Combat
 
-See *Combat*.
+- **Roll Initiative!:** the Referee will say "roll initiative!" to signal the start of combat. Immediately gather a handful of dice: one d6 per character level, per slot of weapon in hand, per slot of shield in hand, per empty inventory slot (up to 4), and per Sorcerie slot holding Arcana (or occupied kick). Roll the dice and leave them on the table, untouched, frozen at their face values. These dice become your Fuel. Your Initiative is how many show 3 or 4 (see *Initiative order*).
 
-- **Roll Initiative!:** at the top of every combat round. PCs: Round 1 gather and roll your full Fuel pool; Round 2+ refill one Fuel die per character level, then recount. Your Initiative is the count of 3s and 4s. Foes: each distinct group rolls **1d6** (reroll every round). Surprise on round 1 only nudges monster order — see *Combat*.
+- **Initiative order:** the Referee names the number the monsters act on. Match or beat it and you go before them; fall short and you go after. Within before or after, players coordinate and act in any order they wish.
 
-- **Combat Round:** one minute, taken in locked Initiative order. On your turn, take one Action (attack, cast a spell, etc.). Moving and positioning come with it, part of the Action, not a separate step. Defending is not free; it burns your Fuel. Sword governs the exchange: it grants you extra attacks and a deeper pool.
+  - **Surprise:** at the start of combat the Referee will roll to see if either side is surprised. If a side is surprised, their round 1 Initiative order is dead last. There is no other effect (nobody loses their Action; Fuel is unchanged).
 
-- **Initiative:** for a Burner, the count of Fuel showing 3 or 4 after you Roll Initiative. For a foe group, **1d6** each Round Initiative (shambling / acts last as written). The Referee locks order for that round — highest first; spending a 3 or 4 does not change who goes when until the next Roll Initiative. Ties: PCs win (players choose among themselves; a PC may act before a foe or yield). Round 1 surprise: if monsters have surprise they act first (no d6); if PCs have surprise, monster groups act last (no d6).
+- **Combat Round:** one minute. Your character gets one Action (attack, cast, etc.) based on Initiative order. You may move and position as part of your Action, such as drawing a weapon and moving to engage a foe.
 
-- **Fuel:** all the dice from your Initiative rolls, kept at their faces and burned through the fight to attack, defend, cast, and counterattack. From round 2 on, Roll Initiative refills one die per character level into the pool. Remove burned Fuel dice from play.
+- **Continued Combat:** on round 2 and later the Referee says "roll initiative!" again. Add your character level in dice to your Fuel pool, roll the new dice, and recount 3s and 4s for the new Initiative order. Other Fuel stays frozen; do not re-roll it.
+
+- **Fuel:** all the dice from your Initiative rolls, kept at their faces and burned through the fight to attack, defend, cast, and counterattack. Remove burned Fuel dice from play.
 
 - **Spark:** a natural 6 on a Fuel die: an opportunity, not a free action. Spend the 6 to strike the Spark, then **Fuel the Spark** with the additional Fuel its option requires, or let it fade.
 
@@ -135,11 +137,11 @@ See *Combat*.
   - **Impale (Spark):** When attacking with a Stabbity weapon (dagger, rondel, short sword…), Fuel a Spark to thrust deeper into the same spot; armor does not soak the Fuel you burn to Fuel it.
   - **Sever (Spark):** Only vs foes with **too many parts** — octopus, spider, hydra, swarm-limbs, and the like. When attacking with a Cutty / chopping weapon (poleax, battle ax, greatsword, cleaver…), Fuel a Spark with **1** Fuel to hack off one spare limb or head. That part's attack is gone for the fight. Not for ordinary humanoids (use Wounds / Man-handle).
 
-- **Defend:** armor soaks the blow first; burn Fuel to cut the damage that remains. Caps: melee 1 die (no limit if you meleed this round); missile 1 die (2 with Cover); hostile magic no limit. **Counterattack** / **Cover** / **Block** / **Ward** / **In the dirt**: see *Combat*.
+- **Defend:** armor soaks the blow first; burn Fuel to cut the damage that remains. Caps: melee 1 die (no limit if you meleed this round); missile 1 die (2 with Cover); hostile magic no limit. **Counterattack**, **Cover**, **Block**, **Ward**, **In the dirt**.
 
-- **In the dirt:** flat on the ground — all Fuel burned must be re-rolled. Rise free on your Action unless a foe presses you in melee (then a die re-rolled **3+**). Waist/leg Wounds hold you down until full HP. See *Combat*.
+- **In the dirt:** flat on the ground — all Fuel burned must be re-rolled. Rise free on your Action unless a foe presses you in melee (then a die re-rolled **3+**). Waist/leg Wounds hold you down until full HP.
 
-- **Cast / Ward (Sorcerer):** combat cast is one Action (Fuel ≥ SL). **Ward:** cut hostile magic for adjacent allies (up to Sorcerie Level Fuel); they Defend the remainder. Full cast procedure: [[Burners Sorcerie]]; Ward under *Combat*.
+- **Cast / Ward (Sorcerer):** combat cast is one Action (Fuel ≥ SL). **Ward:** cut hostile magic for adjacent allies (up to Sorcerie Level Fuel); they Defend the remainder. Full cast procedure: [[Burners Sorcerie]].
 
 ### Monsters
 
@@ -249,23 +251,22 @@ At Sword 1 you are already a Veteran: two attacks a round. See *Veteran Attacks*
 
 Starting gold: 80 gp.
 
-A Boss starts rich in people, not in steel. Your starting gold outfits you and your first loyal retainer. Split your twelve as 11 physical + 1 Muster at creation — eleven slots for your own kit, one holding today's retainer. You may not re-Muster until your first 8-hour sleep or your first real job outfit.
+A Boss starts rich in people, not in steel. Your starting gold outfits you and your first loyal retainer. Split your twelve as **7 physical + 5 Muster** at creation — thin kit on your own back, five seats for today's crew. One Muster slot holds the loyal retainer; four sit open for the next hire. You may not re-Muster until your first 8-hour sleep or your first real job outfit.
 
 Your kit is:
 
-- 11 physical + 1 Muster — one Muster slot holds today's retainer
+- 7 physical + 5 Muster — one Muster slot holds today's retainer; four open
 - one loyal retainer Mustering: level 1, Sword 1 or Craft 1, half power (2 Traits, HP 1d3, Loyalty 10)
 - the retainer has no coin of their own — every weapon, armor, and oddment they carry is bought from your 80 gp
 - half-share of treasure recovered when they live (that is their pay)
 
 A sample buy, 59 gp of your eighty — you light, them armored:
 
-You (11 physical):
+You (7 physical):
 
 - Leather (AC 1) — 2 slots, 20 gp
 - Spear — 3 slots, 3 gp
-- Backpack — 3 slots
-- Empty — 3 slots
+- Empty — 2 slots
 
 Retainer (from your gold):
 
@@ -273,7 +274,7 @@ Retainer (from your gold):
 - Arming sword — 2 slots, 10 gp
 - Heater shield — 3 slots, 6 gp
 
-Your Initiative pool: spear 3 + empties 3 (capped at 4, you have 3) + level 1 = 7. The retainer, sword and shield in hand, throws its own pool when you play it. The Muster slot holds the retainer, not gear. A leader spends on their people — one purse, and it is yours. Manage, Loyalty, half power, and the rest of Muster live on [[Burners Muster]].
+Your Initiative pool: spear 3 + empties 2 + level 1 = 6. The retainer, sword and shield in hand, throws its own pool when you play it. Muster slots hold people, not gear. A leader spends on their people — one purse, and it is yours. Manage, Loyalty, half power, and the rest of Muster live on [[Burners Muster]].
 
 ### The Starting Journeyman
 
@@ -455,7 +456,7 @@ See *Traits* under Character Creation.
 
 - **Mara**, Heart 1 (Boss). "Pays in coin and reputation. Collects both."
 
-  - 5 HP and leather (AC 1). Split: **11 physical + 1 Muster** — Nell Mustering (1 slot).
+  - 5 HP and leather (AC 1). Split: **7 physical + 5 Muster** — Nell Mustering (1 slot); four open.
   - Sword 0 — one attack; *spear* Trait only (no Veteran extras).
   - Traits: leadership, streetwise, intimidation, loyal (Heart); *spear* (Sword).
   - Held: spear. Coin kept back to outfit Nell. Re-Muster locked until first sleep.
@@ -507,21 +508,21 @@ The Referee rules one of three ways:
 
 Your Theme and Traits help the Referee see that you could do it. They do not skip the roll on their own. Weave a Trait into what you say so the table hears how you do it.
 
-#### Step 2: Pay the Cost
+#### Step 2: Name the Risk
 
-A risky deed has a Cost — a number the Referee names. You roll to pay less of it.
+A risky deed has a Risk, a number the Referee names. What could possibly go wrong? Make an Approach roll against it.
 
-You still do the thing. The dice say what it cost you. Immediate peril is often HP or a wound. Trouble that is not immediate is often **Heat**: the unpaid Cost becomes tokens the Referee banks and spends on consequences now or later (see *Heat* in the glossary). Where neither fits, the price is time, noise, position, or a Spicy twist.
+You still do the thing. The dice say how much of the Risk sticks. Unpaid Risk is **Heat**: banked now, spent by the Referee as consequences now or later. When the bite is on a body, they may convert Heat into HP (see *Heat* in the glossary). A Spicy twist may ride alongside.
 
-You roll when there is a price, or when the outcome is uncertain.
+You roll when there is a Risk, or when the outcome is uncertain.
 
 ### Approach Roll
 
-When the Referee asks for a roll, they name the target. Name your Approach.
+When the Referee asks for a roll, they name the Risk. Name your Approach.
 
-Roll 2d6 and add your Approach level. Meet or beat the target and you do it clean. Fall short and you pay: HP or a wound if you are in personal peril, or Heat if the trouble is on the crew — marked now, spent by the Referee when the consequence fits.
+Roll 2d6 and add your Approach level. Meet or beat the Risk and you do it clean. Fall short and the shortfall is **Heat** — marked now, spent by the Referee when the consequence fits (including as HP when the peril is personal).
 
-There is no separate birthright to withstand a danger. You endure with the same four Approaches you act with. When a hazard tests you, pick the Approach the danger asks for and roll against the Referee's Cost:
+There is no separate birthright to withstand a danger. You endure with the same four Approaches you act with. When a hazard tests you, pick the Approach the danger asks for and roll against the Referee's Risk:
 
 - **Sword:** hold your feet, force a door, stay conscious under a wound.
 - **Craft:** dodge what you cannot fight: a dart, a pit, a floor giving way, a creeping poison.
@@ -540,7 +541,7 @@ Out of combat:
 
 Combat has no Sweet or Spicy. A 6 in Fuel is a **Spark** (see Combat). Cast fumbles and Fragile breaks key off **1**s on Fuel, not Spicy — see [[Burners Sorcerie]] and [[Burners Arms and Armor]].
 
-**Surprise** only changes monster Initiative on **round 1** of a fight: if they jump you, their groups act first (no d6); if you jump them, their groups act last (no d6). Your Fuel and personal Initiative never change. Round 2+ is normal. Being caught or outmaneuvered may still add a situational Damage modifier — you defend as normal against the higher number.
+**Surprise** on round 1: the Referee rolls; a surprised side is dead last in Initiative order that round. No other effect — Fuel and Actions stay. Round 2+ is normal. Being caught or outmaneuvered may still add a situational Damage modifier — you defend as normal against the higher number.
 
 A coup de grace finishes a helpless foe outright. A truly helpless foe (bound, asleep, or pinned and ignored), finished at leisure, is dispatched by the finishing action rather than a defend.
 
@@ -579,7 +580,7 @@ Resolve each Wound once, then carry it. Wounds accumulate. Penalties last until 
 
 #### The Shock Check
 
-Every Wound puts your footing in question. Roll **`2d6 + Sword` against total wound severity** this fight. Meet or beat it and you keep fighting, shaken. Fall short and the shock lands — read the raw 2d6 on the table below (worst at the bottom). Natural **1+1 always fails**; natural **6+6 always succeeds**, whatever the Cost.
+Every Wound puts your footing in question. Roll **`2d6 + Sword` against total wound severity** this fight. Meet or beat it and you keep fighting, shaken. Fall short and the shock lands — read the raw 2d6 on the table below (worst at the bottom). Natural **1+1 always fails**; natural **6+6 always succeeds**, whatever the severity.
 
 | 2d6 | Shock |
 | --- | --- |
@@ -640,7 +641,6 @@ Each Combat Round is one minute. You act in locked Initiative order. On your tur
 - one die per slot if you have a shield in hand;
 - one die per empty inventory slot, up to 4;
 - one die per Sorcerie slot occupied by Arcana (or per occupied kick). Empty Sorcerie slots, books, and scrolls add none. Empty kicks add none. Do not also count those slots as empty inventory.
-- one die per Muster slot (Boss). (Empty or filled. Do not double-count empty Muster slots.)
 
 Roll them all. The faces you rolled, kept as they lie, are your Fuel for the fight. Your **Initiative** is the count of them showing 3 or 4.
 
@@ -648,11 +648,11 @@ Roll them all. The faces you rolled, kept as they lie, are your Fuel for the fig
 
 **Foes.** Each distinct enemy group rolls **1d6** every Round Initiative (orcs one die, ogre another). Reroll each round. If a monster's text says **shambling** or **acts last**, skip the die and go last. Do not roll Fuel for order.
 
-**Surprise (round 1 only).** If either side has surprise, **do not roll the monster group d6** that round: monsters with surprise act **first**; if the PCs have surprise, monster groups act **last**. From round 2 on, always roll group d6 — surprise is over. PC Fuel and personal Initiative never change for surprise. No lost turns.
+**Surprise (round 1 only).** The Referee rolls to see if either side is surprised. A surprised side is dead last in Initiative order that round. No other effect: nobody loses their Action, and PC Fuel is unchanged. From round 2 on, surprise is over.
 
-**Lock order.** Highest Initiative first. Ties: PCs win; among PCs the players choose who goes first; a PC tied with a foe may act first or yield.
+**Lock order.** The Referee names the number the monsters act on (each distinct group rolls **1d6**, or shambling / acts last). Match or beat it and you go before them; fall short and you go after. Within before or after, players coordinate and act in any order they wish.
 
-*Example. Kragg Initiative 5, three allies at 2 / 1 / 1; orcs roll 4; ogre rolls 2. Order: Kragg → orcs → the 2 → the 1s and ogre (PCs win ties).*
+*Example. Orcs roll 4. Kragg Initiative 5 goes before; three allies at 2 / 1 / 1 go after, in whatever order they agree.*
 
 If you empty your hand on offense you are caught winded until the next Roll Initiative's refill, blows arriving whole in the meantime. Burn with that in mind. Fuel you are forced to lose but cannot burn from your pool comes out of your next refill instead. Such a cost always lands, exactly once, and never leaves you owing a debt you cannot pay.
 
@@ -726,7 +726,7 @@ Anyone with coin can hire a retainer. A **Boss (Heart 1+)** **Musters** today's 
 
 ## Lingering Costs: Poison, Petrification, Paralysis
 
-When you endure cleanly you avoid the bite: the fitting Approach against its Cost, Craft against poison (see *Approach Roll*). Once it lands, it deals its level in damage to your HP each round for a number of rounds equal to its level, with no further defense. You escape it with a cure (an antidote, a Vitae working) or by surviving the duration. Past 0 HP it wounds you each round, deepening your negative tally like any wound, or petrifies or paralyzes you as the effect dictates. The Referee rolls nothing. The dread does the work.
+When you endure cleanly you avoid the bite: the fitting Approach against its Risk, Craft against poison (see *Approach Roll*). Once it lands, it deals its level in damage to your HP each round for a number of rounds equal to its level, with no further defense. You escape it with a cure (an antidote, a Vitae working) or by surviving the duration. Past 0 HP it wounds you each round, deepening your negative tally like any wound, or petrifies or paralyzes you as the effect dictates. The Referee rolls nothing. The dread does the work.
 
 ## Area Effects
 

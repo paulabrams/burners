@@ -1358,7 +1358,7 @@ Umbrakala 5: Link two doorways within Sorcerie miles for Sorcerie days — shado
 
 #### Regeneration
 
-Vitae 5: One creature heals 1 HP at the end of each World Turn for Sorcerie hours (does not close wounds).
+Vitae 5: One creature heals 1 HP at the end of each Turn for Sorcerie hours (does not close wounds).
 
 #### Rum Mort
 

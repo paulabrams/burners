@@ -95,13 +95,13 @@ Your character's Theme and Traits can help back up your plan.
 
 - **HP:** luck and wind, not meat — **hit protection**. One d6 per character level, rolled at creation. Reroll at level-up and keep the higher of the new total or old+1. Bites come off HP first; only overflow past 0 opens a Wound. Reach **full HP** and your wounds close.
 
-- **Helpless:** bound, asleep, knocked out, finished at leisure — no HP; the harm is a Wound (or a coup). *In the dirt* is not helpless.
-
 - **Wound:** real injury. You take one when a blow drives you **past 0 HP**, or when harm lands where **HP cannot help** (helpless, some poisons, module specials). Track **wound severity** (sum of overflow from wounding attacks). Penalties last until **full HP** (maimings excepted). See *Wounds*.
 
 - **Wound effects:** where you were hit matters. A leg wound puts you in the dirt. A head hit narrows your sight. And so on.
 
 - **Shock Check:** when a Wound opens, roll **`2d6 + Sword` vs total wound severity**. Fail and the shock table lands (dirt, stun, knockout…). Natural **1+1** always fails; **6+6** always succeeds.
+
+- **Helpless:** bound, asleep, knocked out, finished at leisure — no HP; the harm is a Wound (or a coup). *In the dirt* is not helpless.
 
 ### Play
 

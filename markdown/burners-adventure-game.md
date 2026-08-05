@@ -93,7 +93,9 @@ Your character's Theme and Traits can help back up your plan.
 
 ### HP and Wounds
 
-- **HP:** luck and wind, not meat — **hit protection** while you can still fight. One d6 per character level, rolled at creation. Reroll at level-up and keep the higher of the new total or old+1. Bites come off HP first; only overflow past 0 opens a Wound. Helpless (bound, asleep, coup) — Wound direct; HP does not apply. Reach **full HP** and your wounds close.
+- **HP:** luck and wind, not meat — **hit protection**. One d6 per character level, rolled at creation. Reroll at level-up and keep the higher of the new total or old+1. Bites come off HP first; only overflow past 0 opens a Wound. Reach **full HP** and your wounds close.
+
+- **Helpless:** bound, asleep, knocked out, finished at leisure — no HP; the harm is a Wound (or a coup). *In the dirt* is not helpless.
 
 - **Wound:** real injury. You take one when a blow drives you **past 0 HP**, or when harm lands where **HP cannot help** (helpless, some poisons, module specials). Track **wound severity** (sum of overflow from wounding attacks). Penalties last until **full HP** (maimings excepted). See *Wounds*.
 
@@ -417,7 +419,7 @@ Patron Alignment is **not** Sorcerie. Calling on the patron — pageantry, True 
 
 ## HP and Armor
 
-You have HP of one d6 per character level, rolled. Just 1d6 at first level. Reroll on each level-up for the higher of the new total or the old plus one. HP is not meat. It is luck, wind, and the reflex to turn a blow — **hit protection** while you can still fight. Blows come off your HP as near-misses. Only overflow **past 0** opens a **Wound**, driving your HP into the negative (see *Wounds*). That overflow adds to **wound severity**. At **0** you are out of luck, not yet cut — ordinary people have no hit protection and sit at 0 without being Wounded. Helpless — bound, asleep, knocked out, finished at leisure — HP does not apply; the harm is a Wound (or a coup). *In the dirt* is not helpless; you can still Defend.
+You have HP of one d6 per character level, rolled. Just 1d6 at first level. Reroll on each level-up for the higher of the new total or the old plus one. HP is not meat. It is luck, wind, and the reflex to turn a blow — **hit protection**. Blows come off your HP as near-misses. Only overflow **past 0** opens a **Wound**, driving your HP into the negative (see *Wounds*). That overflow adds to **wound severity**. At **0** you are out of luck, not yet cut — ordinary people have no hit protection and sit at 0 without being Wounded. When you are **helpless**, HP does not apply — see the glossary.
 
 Armor is what you wear. It soaks on the way in. Its AC comes off every blow before your HP. AC runs from 1 to 5 by make: leather 1, gambeson 2, chain mail 3, plate mail and field plate 4, full plate 5. Heavy harness eats more of your twelve and leaves a thinner pool when you roll Initiative. Leather, gambeson, and mail are open. **Plate is trained-only** (see *Training* under *Weapons, Armor, and Shields*). Armor keeps you from being worn down, not from being cut once you are down. In heavy armor you lose HP slowly, but the Wound you take past 0 is raw.
 
@@ -544,14 +546,14 @@ Combat has no Sweet or Spicy. A 6 in Fuel is a **Spark** (see Combat). Cast fumb
 
 **Surprise** on round 1: the Referee rolls; a surprised side is dead last in Initiative order that round. No other effect — Fuel and Actions stay. Round 2+ is normal. Being caught or outmaneuvered may still add a situational Damage modifier — you defend as normal against the higher number.
 
-A coup de grace finishes a helpless foe outright. A truly helpless foe (bound, asleep, or pinned and ignored), finished at leisure, is dispatched by the finishing action — no Defend, no HP.
+A coup de grace finishes a **helpless** foe outright — no Defend, no HP. See *Helpless* in the glossary.
 
 ### Wounds
 
 You take a **Wound** when:
 
 - an attack drives you **below 0 HP** (overflow past 0) — steel, claw, or the walking dead alike;
-- or harm lands where **HP cannot help** — helpless (bound, asleep, knocked out, coup), some poisons, module specials (Referee's call).
+- or harm lands where **HP cannot help** — **helpless**, some poisons, module specials (Referee's call).
 
 Resolve each Wound once, then carry it. Wounds accumulate. Penalties last until you reach **full HP** (maimings excepted). A blow that lands you **exactly at 0** spends the last of your luck; you are not Wounded until a blow drives you negative. A Wound from the **Fallen** is a **Fallen Wound** — see [[Burners Burn Undead#Fallen Wounds]].
 

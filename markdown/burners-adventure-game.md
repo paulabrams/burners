@@ -101,7 +101,7 @@ Your character's Theme and Traits can help back up your plan.
 
 - **Shock Check:** when a Wound opens, roll **`2d6 + Sword` vs total wound severity**. Fail and the shock table lands (dirt, stun, knockout…). Natural **1+1** always fails; **6+6** always succeeds.
 
-- **Helpless:** hit protection only applies when you can defend yourself. Bound, asleep, knocked out, finished at leisure — you can't; harm is a Wound (or a coup). *In the dirt* is not helpless.
+- **Helpless:** bound, asleep, knocked out, finished at leisure. You cannot turn the blow — no HP; the harm is a Wound (or a coup). *In the dirt* is not helpless.
 
 ### Play
 
@@ -419,7 +419,7 @@ Patron Alignment is **not** Sorcerie. Calling on the patron — pageantry, True 
 
 ## HP and Armor
 
-You have HP of one d6 per character level, rolled. Just 1d6 at first level. Reroll on each level-up for the higher of the new total or the old plus one. HP is not meat. It is luck, wind, and the reflex to turn a blow — **hit protection**. Blows come off your HP as near-misses. Only overflow **past 0** opens a **Wound**, driving your HP into the negative (see *Wounds*). That overflow adds to **wound severity**. At **0** you are out of luck, not yet cut — ordinary people have no hit protection and sit at 0 without being Wounded. Hit protection only applies when you can defend yourself — see *Helpless* in the glossary.
+You have HP of one d6 per character level, rolled. Just 1d6 at first level. Reroll on each level-up for the higher of the new total or the old plus one. HP is not meat. It is luck, wind, and the reflex to turn a blow — **hit protection**. Blows come off your HP as near-misses. Only overflow **past 0** opens a **Wound**, driving your HP into the negative (see *Wounds*). That overflow adds to **wound severity**. At **0** you are out of luck, not yet cut — ordinary people have no hit protection and sit at 0 without being Wounded. If you cannot turn the blow, you are **helpless** — see the glossary.
 
 Armor is what you wear. It soaks on the way in. Its AC comes off every blow before your HP. AC runs from 1 to 5 by make: leather 1, gambeson 2, chain mail 3, plate mail and field plate 4, full plate 5. Heavy harness eats more of your twelve and leaves a thinner pool when you roll Initiative. Leather, gambeson, and mail are open. **Plate is trained-only** (see *Training* under *Weapons, Armor, and Shields*). Armor keeps you from being worn down, not from being cut once you are down. In heavy armor you lose HP slowly, but the Wound you take past 0 is raw.
 

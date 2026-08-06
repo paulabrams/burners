@@ -377,7 +377,7 @@ Open kit, trained-only kit, and where those Traits live: *Arms and Armor (Sword)
 
 ### Experience
 
-Awards, claimed treasure, present-only shares, Eldar track, and who tracks what: [[Burners Experience]]. You never buy Traits or spell learning with XP. Signatures emerge in play. Retainers take XP per [[Burners Muster]] (full share if Mustering; half if not).
+Awards, claimed treasure, present-only shares, Eldar track, and who tracks what: [[Burners Experience]]. You never buy Traits or spell learning with XP. Signatures emerge in play. Retainers take XP per [[Burners Muster]] (OSE half-share if not Mustering; Mustering seats split half of their Boss's XP).
 
 ### Approach Level
 
@@ -398,7 +398,7 @@ When you reach level 1 in an Approach, you earn its title. The title turns on th
 
 **The Journeyman's craft (Craft 1+).** As a Veteran you rule the melee. As a Journeyman you rule the journey. Your Craft level reduces party-wide costs from travel, weather, and survival: cold, heat, hunger, thirst, exhaustion, forced marches, rough terrain, getting lost. When the Referee quotes such a cost, subtract your Craft level from it for everyone you are guiding. Often that drops the cost low enough that the Referee waives the roll. Example: traveling in the biting cold rain has a cost of 6 Heat, and you are a Journeyman with Craft 3 who has a deadfall shelter and a fire going. You cut it to 3. Without Craft 1+ you can endure the wilds yourself, but you cannot shepherd others through them.
 
-**The Boss's command (Heart 1+).** As a Veteran you rule the melee. As a Journeyman, the journey. As a Sorcerer, the unseen. As a Boss, the Muster. Heart unlocks **Muster** and **Manage**. Anyone with coin can hire retainers; a Boss Mustering them plays them at the table. Full rules: [[Burners Muster]].
+**The Boss's command (Heart 1+).** As a Veteran you rule the melee. As a Journeyman, the journey. As a Sorcerer, the unseen. As a Boss, the Muster. Heart unlocks **Muster** and **Manage**. Anyone with coin can hire retainers; a Boss Mustering them plays them at the table — and those seats do **not** tax party XP (they split half of the Boss's award instead). Full rules: [[Burners Muster]].
 
 ## Alignment
 

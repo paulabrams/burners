@@ -43,7 +43,7 @@ Level when you next sleep somewhere safe after your XP crosses a tier (see [[Bur
 
 For fractional or special HD, **prefer the monster's printed XP** or the full OSE [Awarding XP](http://oldschoolessentials.necroticgnome.com/srd/index.php/Awarding_XP) table (base + bonus per `*` ability). This short chart is a coarse shortcut — e.g. HD 3 reads **60** here, but an OSE [Wight](http://oldschoolessentials.necroticgnome.com/srd/index.php/Wight) (`3`*) is **50 XP**.
 
-**Converting a module hoard.** Roll or place treasure as OSE directs. Coins, gems, jewelry, goods, and art pay **1 XP per gp** when **claimed** — left behind grants nothing until claimed; the Referee sets each find's gp once (now or later). Magic items pay **0 XP**; the item is the reward. Carcass parts (hide, tusks, ivory) may sell or be useful kit — **0 XP** ([[Burners Experience#Part out]]). Delving retainers: full share if Mustering, half if not (see [[Burners Muster]]). Full procedure: [[Burners Experience]].
+**Converting a module hoard.** Roll or place treasure as OSE directs. Coins, gems, jewelry, goods, and art pay **1 XP per gp** when **claimed** — left behind grants nothing until claimed; the Referee sets each find's gp once (now or later). Magic items pay **0 XP**; the item is the reward. Carcass parts (hide, tusks, ivory) may sell or be useful kit — **0 XP** ([[Burners Experience#Part out]]). Delving retainers: OSE half-share if not Mustering; Mustering seats split half of their Boss's XP (see [[Burners Muster]]). Full procedure: [[Burners Experience]].
 
 ---
 

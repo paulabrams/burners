@@ -27,7 +27,7 @@ Anyone with coin can hire. Only a **Boss (Heart 1+)** **Musters** — splitting 
 
 **Sheet.** Half-power track (below). Usually starts **level 1**, climbs on XP, never above the hiring Boss (or lead PC). **Sword or Craft only** — never Sorcerie, never Heart, never Muster. By default they **put themselves first**. **Loyalty 7.**
 
-**XP.** Share the pot evenly with everyone present on the job (that fight / that claim). A **Mustering** retainer keeps a **full** share — the Boss plays them like a PC. A retainer **not** Mustering keeps **half** of their award (OSE: they follow orders). Levels on the Burner XP table when they next sleep somewhere safe. Full procedure: [[Burners Experience]].
+**XP.** Same shape as OSE for retainers who are **not** Mustering: in the pot's divisor, keep half of a share (that **taxes** party XP). **Muster** is the Boss's answer: seats are **out of the divisor** — the party is not taxed — and Mustering retainers on that job split **half of their Boss's XP** (one seat gets the whole half; several split it). Levels on the Burner XP table when they next sleep somewhere safe. Full procedure: [[Burners Experience]].
 
 **Loyal** is a **tag** after a real bond (Referee's call). +3 Loyalty; when they hold, they **act loyally** — prioritize their patron, Block for them, stay on their heel. Abuse the bond and the tag can fall — word travels.
 
@@ -112,7 +112,7 @@ Muster slots hold **people**, not gear. Kit rides on them; outfit and new gear c
 
 Muster slots buy packing, Manage, **Boss-player control**, **no fight Loyalty while the Boss is active**, and **Heart on Loyalty checks** — not a different XP track, and not Initiative dice.
 
-**Non-Bosses** may still hire retainers. Without Muster, by the book the Referee runs those NPCs. **Table practice (preferred):** the **hiring player's player** still rolls and plays the hireling in a fight — Initiative, Fuel, attacks — so the retainer is not stuck last as a forgotten Ref turn. The Referee keeps **Loyalty** checks (and takes the sheet back if the hirer is down, fled, or absent). Mustering remains the Boss privilege for full share, no-fight-Loyalty, and Manage.
+**Non-Bosses** may still hire retainers. Without Muster, by the book the Referee runs those NPCs. **Table practice (preferred):** the **hiring player's player** still rolls and plays the hireling in a fight — Initiative, Fuel, attacks — so the retainer is not stuck last as a forgotten Ref turn. The Referee keeps **Loyalty** checks (and takes the sheet back if the hirer is down, fled, or absent). Mustering remains the Boss privilege for Muster XP (half the Boss's award, split among seats), no-fight-Loyalty, and Manage.
 
 ---
 

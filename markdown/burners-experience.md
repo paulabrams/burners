@@ -45,7 +45,9 @@ Per fight and per claim — not per game night.
 - **Monster:** who was there when it went down. Left before, or walked up after: no cut.
 - **Treasure:** who was there when it became party loot.
 
-Split that pot evenly (Burners and retainers on the job). Mustering retainers keep a full share ([[Burners Muster]]). Others keep half; throw the rest away. Do not put half-shares in the divisor.
+**OSE base.** Split that pot evenly among Burners and retainers on the job who are **not** Mustering. Each counts as one in the divisor. Non-Musting retainers keep **half** of that share (OSE); throw the rest away. Do not put half-shares in the divisor.
+
+**Muster (Heart Boss).** A key Boss benefit: bring Mustering retainers **without taxing party XP**. They are **not** in the divisor. After the Boss's share is set, Mustering retainers on that job take **half of their Boss's XP**, **split evenly** among them (round down). One Mustering retainer gets the whole half; three split it three ways. The Boss keeps their full share. See [[Burners Muster]].
 
 Treasure **pay** is separate: living retainers expect a half-share of the coin. If the crew skips them, the Referee says so ([[Burners Muster]]).
 

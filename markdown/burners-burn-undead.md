@@ -7,78 +7,45 @@ hero_alt: "A figure falling through smoke — Albert Robida"
 
 # We Burn Undead
 
-*What is dead cannot die.*
-
-*The Fallen of the Dragon Isles were made by Eldar gods — and they fear naught except fyre. The dead are dry: old bone, grave-linen, tomb-dust, the leathered husk of a thing that stopped drinking centuries ago. Nothing takes a torch more gladly. Light the barrow, and stand back.*
+*In the Dragon Isles there is no priest who lifts a holy symbol and sends the skeletons scattering. You don't turn undead. You burn undead. The dead are dry: old bone, grave-linen, tomb-dust, the leathered husk of a thing that stopped drinking centuries ago. Nothing takes a torch more gladly. Light the barrow, and stand back.*
 
 *"We burn undead." — the old barrow wisdom, and more oil than sense.*
 
-At the Battle of the Thousandfold Curses the Eldar had trapped the Kha'din inside the Wintercrowns and were losing. Reshuk, god of the dead, offered the oldest bargain: he would summon his children to win the war, if the living promised to feed them. Desperate Eldar agreed. Power surged into the fallen on the field, and they rose not alive, but Deurg'Gul, the Undying Ones — what lesser tongues call the Fallen. By dawn they turned their blades on kin. The Undying Lands became Sepulchre — also called Dearg-dul country, Tir'Na'Deurg'Gul, the Sea of Bones. Some say the Kha'din's own curses raised the dead, and Reshuk only turned them against the host that spoke them. Either way, every later thrall, barrow-wight, Zuhl, and vampire lord is a younger echo of that first bargain.
+At the Battle of the Thousandfold Curses the Eldar had the Kha'din trapped in the Wintercrowns, and were losing. Reshuk, god of the dead, offered a bargain: he would send his children to win the war, if the living promised to feed them. The Eldar agreed. The fallen on the field rose not alive, but Deurg'Gul, the Undying Ones — what lesser tongues call the Fallen. By dawn they had turned their blades on kin. The Undying Lands became Sepulchre: Dearg-dul country, Tir'Na'Deurg'Gul, the Sea of Bones. Some say the Kha'din's own curses raised the dead, and Reshuk only turned them. Every later thrall, barrow-wight, Zuhl, and vampire lord comes of that bargain.
 
-Folklore says the Fallen are beyond most threats to mortal man — hunger, age, and disease leave them alone. Veterans who lived to tell the tale recount how spears, arrows, and even swords held to thrust into gaps in knightly plate had no effect. Sorcerers reluctantly admit magicks aimed at the living are useless: *illusion, charm, sleep, fear, hold*, and their sympathies. Yet the joys of life are shut to the fallen: they cannot enjoy sunlight, cross running water,  enter a house uninvited, take bread nor ale nor salt. Animals and beasts see things truly, and suffer not the wight.
+Hunger, age, and disease leave them alone. Spears, arrows, even a sword thrust into the gaps of plate — veterans say none of it told. Magicks aimed at the living fail: *illusion, charm, sleep, fear, hold*. The joys of life are shut besides. They cannot bear sunlight, cannot cross running water, cannot enter a house uninvited, cannot take bread nor ale nor salt. Beasts see them true, and will not bear them.
 
-The old tales may wander and contradict one another, but the oldest say "fyre maketh et goote". Dry bone and grave-linen are kindling — torch, oil, naphtha, a thrown pot, holy water or holy oil. Burning purifies what should never have walked; a brand thrust into the press turns the husks that fear fire. Willful Fallen laugh at bare flame. Bring more oil than you think you need.
+The old tales wander, but the oldest say fyre maketh et goote. Show them fire and the husks that fear it recoil — a torch in the barrow, a brand in the press, holy oil on the step. Drive them from the light. Torch, oil, naphtha, a thrown pot, holy water, holy oil. Willful undead laugh at a bare flame. Bring more oil than you think you need.
 
-The Fallen remember what they were. Heart turns them because you call up what they miss — old longings, duties, loves, and fears — while the fyre brand is what they cannot endure.
+They remember what they were. Heart turns them because you call up what they miss. The fyre brand is what they cannot endure.
 
-The hard ask is your own. Anyone the Fallen slew may look only dead — a friend, a hireling, a Boss's sworn hand. Carry them home for a clean burial and by Midnight they may rise as that thing's spawn. Put them on the pyre with the bones and they rest. Same choice waits for the living when a Fallen Wound opens. When the Fallen wound you, they do more than cut: the hunger that raised the Deurg'Gul reaches through and begins to claim you. As Midnight nears the cut grips, chills, and writhes. The body already knows the hour is coming.
+Anyone they slew may look only dead — a friend, a hireling, a Boss's sworn hand. Carry them home for a clean burial and by Midnight they may rise as that thing's spawn. Put them on the pyre with the bones and they rest. Same choice when an undead Wound opens. When they wound you they do more than cut. The hunger that raised the Deurg'Gul is in the cut. As Midnight nears it grips, chills, and writhes.
+
+> "They hunt the living. They can smell you. Hide all you like — they know you're there."
+
+> "Show them fire. A torch'll turn the husks — they run from the light. That's as close as you'll get to turning. The willful ones laugh at a torch. Those you burn. Bring more oil."
+
+> "What they take off you, you don't sleep back. A potion, a working — or you burn it out, and the fyre costs you."
 
 > "Boys, hold Herrick down and bring the fyre, we need to purge him."
 
----
+> "A wound from the dead is worse. It worsens. Come Midnight the cut writhes. Hold him down and bring the fyre. He lives, he's clean. He dies of the burn, he rests. You leave it, come morning he's gone — or he's one of them."
 
-## Game Rules: Undead
+> "Burn the bones. Burn whoever they killed. You leave a body, it gets up."
 
-### Fire Turns Undead
+> "Anyone they slay gets up. That's the whole of it."
 
-- **Turn Undead:** 1 Turn outside a fight. Use a torch, bonfire, holy oil, or other Incendiaries to show the undead you mean to burn them, driving them back. If asked by the Referee, roll `2d6 + Heart` vs **Hit Dice + Heat**. **HD** is the kind in the firelight (a zombie knot is HD **1**, not thirty summed) — or the worst husk among them if mixed. **Heat** already prices how many press the room. Meet: husks that fear fire and can see the flame recoil **1 Turn** (the knot in reach of the light, not every corpse in the bottle). Miss: they come on. Flask spent; torch not.
-- **Brandish:** combat Action. Fuel an attack with torch, brand, holy water, or holy oil, or Fuel a Spark to **Man-handle**. Against husks that fear fire, the brand *is* the right tool (burn the extra Fuel into the blow, as usual at Referee speed). Man-handle: force them from your light 1 round on a fail of their contest (or just rule it if they have no press). No effect on willful Fallen. Thrown fire: [[Burners Arms and Armor#Incendiaries & Alchemy]].
+## Facing the Fallen
 
-### Fire Burns Undead
+- Undead have unnatural senses that can find the living.
+- Undead can be driven back by fire.
+- Undead do not die unless purged in fire.
+- Anyone slain by undead rises as undead unless you burn their bones.
 
-- **Pyre of the Fallen:** 1 Turn outside a fight. Pyre + Incendiaries; burn bones of the fallen and bodies of those they slew. Burned: no spawn. Unburned: may rise.
+## Touch of the Fallen
 
-### Fallen Wounds
+Damage inflicted by undead does not come back with normal rest. For example, 3 HP lost will not return when resting, and a 3-point Wound will not heal with sleep. The only options are magical healing or purging it with fire.
 
-- **Fallen:** as everyone knows, anyone slain by undead becomes undead.
-- **Fallen Wound:** a Wound opened by the Fallen — an **aggravated Wound**. It does not heal naturally (rest, sleep, or the day's climb), and **normal healing spells and potions do not improve HP** until purified. Aggravated Wounds in general: [[Burners Adventure Game#Healing and recovery]].
-  - **Midnight:** first night unclean, and each night after — deepen severity and HP by the Fallen that cut you, then Survival. Husk (skeleton, zombie, or other Fallen with no level drain): deepen by **1**. Major Fallen (wight, wraith, spectre, vampire, or any with level drain): roll `1d6` + `1d6` per drain (wight drain 1: `2d6`; drain 2: `3d6`).
-- **Purge:** 1 Turn. Spend one Incendiary; deepen severity and HP as Midnight; then Survival. Live: Wound purified. Die: no spawn.
-- **Survival:** immediate `2d6 + Craft` vs severity (helped if a friend holds you). Fail or alone → die. Die unclean → spawn. Live after Midnight: still unclean.
+You can purge damage from undead with fire. This expends one incendiary, and you gain a Wound equal to the total hit points of damage you are purging. For example, 5 HP lost to undead, purged creates a 5-point burn Wound.
 
-*Example. Herrick 3 HP, gambeson AC 2 vs barrow-wight (drain 1). Blow 5 soak 2 → 0 (no Wound). Blow 9 soak 2 → −4: Fallen Wound severity 4. Shock + helped after-fight survival OK; still unclean. Midnight or Purge: roll `2d6`, deepen by the total → Survival (purified if Purge and live; dead unclean → spawn; dead from Purge → no spawn).*
-
-*A note to old school players: undead do not cause level loss on touch unless you prefer that to the above.*
-
-### Picking an OSE monster (stats & XP)
-
-**Burn Undead** is how undead *work* — fire, Fallen Wounds, spawn, no level drain. **OSE** is the shelf you take numbers from: Hit Dice, AC, attacks, special kit, Morale, **printed XP**.
-
-Prefer the monster's **printed XP** from the [OSE SRD](http://oldschoolessentials.necroticgnome.com/srd/index.php) (or the full [Awarding XP](http://oldschoolessentials.necroticgnome.com/srd/index.php/Awarding_XP) table: base by HD + bonus per `*` ability). The short HD→XP chart in [[Burners OSE Conversions]] is a coarse shortcut — e.g. it lists HD 3 as 60, but a [Wight](http://oldschoolessentials.necroticgnome.com/srd/index.php/Wight) is HD `3*` and **XP 50**.
-
-| Use from OSE | Do not use from OSE |
-| --- | --- |
-| HD → **Monster Stack** (2 × HD cards, face-down / face-up); **printed XP** (or HD + `*` table) | Energy drain (levels lost) |
-| AC → hint for **face mix** only | Cleric Turn Undead as written |
-| Attacks / damage die → quote weight / claw slots | Anything that contradicts fire / Fallen Wound |
-| Printed specials you keep (gaseous form, regen, charm…) | — |
-| Silver / magic to hit → heavy face-down; players claim silver/magic as the **right tool** | — |
-
-**Husk or Major Fallen?** OSE name tells Midnight deepen (XP from SRD):
-
-| OSE | HD | XP (SRD) | Band | Midnight deepen |
-| --- | --- | ---: | --- | --- |
-| Skeleton | 1 | 10 | Husk | +1 |
-| Zombie | 2 | 20 | Husk | +1 |
-| Ghoul | 2\* | 25 | Husk | +1 (paralysis stays if you want it) |
-| [Wight](http://oldschoolessentials.necroticgnome.com/srd/index.php/Wight) | 3\* | **50** | Major, drain 1 | `2d6` |
-| Wraith | 4\* | 125 | Major, drain 1 | `2d6` |
-| [Mummy](http://oldschoolessentials.necroticgnome.com/srd/index.php/Mummy) | 5+1\* | **400** | Husk\* | +1 (\*no OSE drain — disease as written or skip) |
-| Spectre | 6\*\* | 725 | Major, drain 2 | `3d6` |
-| [Vampire](http://oldschoolessentials.necroticgnome.com/srd/index.php/Vampire) | 7–9\*\* | 1,250 / 1,750 / 2,300 | Major, drain 2 | `3d6` |
-
-\*Or call mummy Major if you want it to feel willful — fire is already its doom.
-
-**Hybrids (like a draugr):** take **kit** from the OSE monster that matches fiction, take **HD / shell** from how hard you want the fight, take **Major / drain N** from the OSE drain ladder (or one step below if you dialled the fight). For XP: price what is on the table. No level drain → do not pay wight/vampire shelf XP for a husk. Prefer armor + attacks (crab-band) over printed `*` drain awards. Full shares and claim rules: [[Burners Experience]].
-
-**Example — Lothian A4 Draugr:** **Monster XP 35** (husk, crab-band — armor + two d6; not wight/vampire shelf). Payday: coffin + lung vault at **1 XP per 1 gp** when claimed. Party said vampire; lean and pinholes, not printed specials. Fallen Wound, not level drain.
+At midnight, any Wound inflicted by undead worsens by 1d6 plus the undead HD (skeleton 1d6+1, zombie 1d6+2, wight 1d6+3, etc.). Immediately make a Survival Check.

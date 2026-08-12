@@ -148,7 +148,17 @@ See [[Burners Principles#Armor soaks; monsters use Monster Stacks]].
 
 The **right tool** is a **player claim** (fiction + one extra Fuel burned into the blow), not a Ref auto-switch — see [[Burners Principles#Armor soaks; monsters use Monster Stacks]]. Same spirit as a Bane-forged weapon (see [[Burners Arms and Armor]]).
 
-**Undead & energy drain** (OSE): **no levels lost.** Any of the Fallen that **wounds** you opens a **Fallen Wound**. Midnight / Purge: husks deepen by **1**; drainers by `1d6` + `1d6` per OSE drain level (wight `2d6`). Immediate Craft survival; die unclean → spawn; die from purge → no spawn. See [[Burners Burn Undead#Fallen Wounds]] and [[Burners Principles#No instant death]].
+### Undead
+
+Run the printed OSE block as written — HD, attacks, specials, Morale, printed XP. Do not rebuild the monster. Player rules: [[Burners Burn Undead]]. Table procedure: [[Burners Referee Guide#Undead]].
+
+**Instead of energy drain / levels lost:** damage from undead does not come back with rest (magic or Purge). Purge: one Incendiary; gain a Wound equal to the HP you are purging. An undead Wound worsens at midnight by `1d6` + HD, then Survival. Anyone slain by undead rises unless you burn their bones.
+
+**Instead of Cleric Turn Undead:** some undead can be driven back by fire. Husks that fear it recoil from a brand; the brand is the right tool. Willful undead laugh at a bare flame. They do not die unless purged in fire.
+
+They sense the living; they do not rely on natural senses.
+
+Keep every other printed special (gaseous form, regeneration, charm, paralysis, disease, silver/magic to hit). Silver/magic to hit is face-down + right tool, above.
 
 **Mobs vs. the unearthly:** see [[Burners Principles#Armor soaks; monsters use Monster Stacks]].
 

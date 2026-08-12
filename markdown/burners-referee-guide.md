@@ -167,9 +167,21 @@ Heat cools when the crew acts on the room (see Running Heat). HP and Wounds foll
 
 **Classic Crawl** (optional campaign flavor): once unwounded and at 0+, use **1d3 HP per full day** in a safe haven instead of Hour Rest for luck recovery. Write the choice at session zero. Wounds and survival still run as above.
 
-### Fallen Wounds
+### Undead
 
-Any of the Fallen that **wounds** you opens a **Fallen Wound**. Midnight / Purge: husks deepen by **1**; major / draining Fallen deepen by `1d6` + `1d6` per drain. Full procedure: [[Burners Burn Undead#Fallen Wounds]].
+Player rules: [[Burners Burn Undead]].
+
+**Undead.** They have unnatural senses that can find the living — they do not rely on eyes or ears. Some can be driven back by fire (husks that fear it recoil from a brand; the brand is the right tool; willful undead do not). They do not die unless purged in fire — Cracked or emptied stacks get back up if you leave the bones. Anyone slain by undead rises as undead unless you burn their bones.
+
+**Damage.** Damage inflicted by undead does not come back with Hour Rest or the day's climb. Magical healing, or Purge. A 3 HP nick stays gone; a 3-point undead Wound will not close with sleep.
+
+**Purge:** spend one Incendiary. You gain a Wound equal to the hit points of damage you are purging — 5 HP lost, purged, is a 5-point burn Wound. Survival as after any Wound. Live: the taint is gone (the burn is an ordinary Wound). Die of the fyre: rest, no spawn.
+
+**Midnight:** any Wound inflicted by undead worsens by `1d6` + HD (skeleton `1d6+1`, zombie `1d6+2`, wight `1d6+3`). Immediate Survival (`2d6 + Craft` vs severity, helped if a friend holds you). Fail, or alone → die. Die unclean → spawn.
+
+*Herrick has 3 HP and gambeson (AC 2). A barrow-wight (HD 3) hits him for 5; armor soaks 2; he drops to 0 — luck spent, no Wound, 3 HP stolen. Hour Rest will not fill him. A potion would. Or they purge: 3-point burn Wound, Survival vs 3. Live: ordinary Wound. Next blow is 9, soak 2, he goes to −4: undead Wound, severity 4. Shock, then help after the fight, survival holds. Still unclean. At midnight it worsens by `1d6+3`, then Survival — or they purge him first. Die unclean and he rises. Die of the purge and he rests.*
+
+No level loss on touch unless you prefer it. Run OSE undead as written; overlays: [[Burners OSE Conversions#Undead]].
 
 ---
 

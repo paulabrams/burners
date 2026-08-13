@@ -158,6 +158,8 @@ Run the printed OSE block as written — HD, attacks, specials, Morale, printed 
 
 They sense the living; they do not rely on natural senses.
 
+**Grab, constrict, swallow, rake-and-hold:** **Constrict** in [[Burners Adventure Game#Combat]].
+
 Keep every other printed special (gaseous form, regeneration, charm, paralysis, disease, silver/magic to hit). Silver/magic to hit is face-down + right tool, above.
 
 **Mobs vs. the unearthly:** see [[Burners Principles#Armor soaks; monsters use Monster Stacks]].

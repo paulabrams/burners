@@ -28,7 +28,7 @@ Player skill decides whether the world bends; your Approach decides only how muc
 Burners has no save-or-die. Endurance is **Defend** — a graded contest, not a gate you pass or fail.
 
 - **Out of combat**, a hazard is **`2d6 +` the fitting Approach** against the Referee's Risk. You may soften the bite, bear it whole, or dodge it clean — but the outcome is a matter of degree, not a single on/off switch.
-- **In combat**, blows land. A Burner's armor soaks incoming damage first; then you **burn Fuel dice** and cut what remains by their faces. Anything left comes off HP. Defend, Cover, Block, Counterattack — full rules in [[Burners Adventure Game]] — are ways to answer a blow, not a roll that erases the hit. Monsters take damage on their **Monster Stack** (2 × HD cards) — face-down first, then face-up (Referee speed).
+- **In combat**, blows land. You **burn Fuel dice** and cut the blow by their faces. Leftover, armor soaks; anything still left comes off HP. Defend, Cover, Block, Counterattack — full rules in [[Burners Adventure Game]] — are ways to answer a blow, not a roll that erases the hit. Monsters take damage on their **Monster Stack** (2 × HD cards) — face-down first, then face-up (Referee speed).
 - **Hostile magic** uses the same Fuel economy as steel. The caster's **cast total** (sum of faces spent to cast) opposes your **defense total** (sum of faces you commit). Partial defense means partial effect: **overrun** = cast − defense, applied as harm to HP *or* as the spell's hold — never both. There is no "save for half" — you defended as well as your dice allowed.
 
 A binary save asks *did you avoid it?* Burners asks *how much did you stop, and what is left?*
@@ -39,7 +39,7 @@ A binary save asks *did you avoid it?* Burners asks *how much did you stop, and 
 
 ## Attrition, not spike damage
 
-Lethality lives in **attrition and ambush**, not in big single numbers. Your Fuel only shrinks over a fight; when it runs dry, blows arrive whole. Ambush is loadout and tempo: sheathed steel means a thin Fuel open, and surprise on round 1 puts that side dead last — you still act.
+Lethality lives in **attrition and ambush**, not in big single numbers. Your Fuel only shrinks over a fight; when it runs dry, blows arrive whole. Ambush is loadout and tempo: sheathed steel means a thin Fuel open, and surprise on round 1 puts that side dead last — you still act. Arrows, holy water, fire, and meals are counted — you have what the sheet says.
 
 Past 0 HP, blows open **Wounds**; each is a Shock Check (combat-effective). After the fight,
 unhelped Wounds kill; helped, a Craft survival check decides. The stack and the survival roll
@@ -120,7 +120,7 @@ When porting material that prints a flat damage number (a trap, a breath quoted 
 
 ## Armor soaks; monsters use Monster Stacks
 
-**Armor (AC)** is what a Burner wears — a flat soak subtracted from every blow before HP. It never enters the exchange as a die.
+**Armor (AC)** is what a Burner wears — a flat soak subtracted from leftover after Defend, before HP. It never enters the exchange as a die.
 
 **Monsters do not use PC AC.** Deal **2 × HD** playing cards (Referee speed): **face-down** (closed / armored), **face-up** (open / meat). Soft kit **adds face-downs into the mix**; naked / sushi / tough hide with no kit stay **all face-up**. True shell/plate → mostly or all face-down. See [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]] and [[Burners OSE Conversions]].
 
@@ -136,7 +136,7 @@ Twenty militia hacking a plated crab each bounce or chip face-down cards while i
 
 When a hostile working overruns your defense:
 
-- **Damage:** a Burner's AC soaks a **physical** manifestation — conjured blade, stone shards, dodgeable cone — before Defend; any overrun then applies to HP 1:1. **Non-physical** workings ignore AC. Monsters take it face-down then face-up (Referee speed).
+- **Damage:** Defend a **physical** manifestation — conjured blade, stone shards, dodgeable cone — then leftover, a Burner's AC soaks, rest to HP 1:1. **Non-physical** workings ignore AC. Monsters take it face-down then face-up (Referee speed).
 - **Control** (charm, sleep, fear, command…) never chips HP. Fully defended: nothing. Defense fell short: the working takes hold — full or partial per the spell and the overrun (Referee's call on edge cases). Recover when the working ends or is broken.
 
 Never both harm and hold from the same working on the same target. OSE *save for half* does not port.

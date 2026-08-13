@@ -50,7 +50,7 @@ hero_alt: "Travelers on the road — Albert Robida"
 **Turn 4 — Cellar 2. Covered pit (trap: flat Damage 2, no roll — detect or eat).** `x` → fight `!!`
 
 - Sefa checks for traps (Craft): Risk 7 → 2d6+1 = **6**, short 1 → **Heat 8**. Pit *not* spotted.
-- Marching order puts Brand on it. It springs, no telegraph, no Fuel up out of combat: Damage 2 − Brand's AC 1 (soaks on the way in) = **1 to HP.** Brand 5 → 4.
+- Marching order puts Brand on it. It springs, no telegraph, no Fuel up out of combat: Damage 2, leftover 2, Brand's AC 1 soaks → **1 to HP.** Brand 5 → 4.
 - Even-turn WM (time): d6 = **1** — encounter. Cellar denizens, hostile by writ: **4 grave-rats** (HD 1 each → **2 face-up** apiece — naked sushi; bite quote **3**). Log `!!` for the fight; that is the encounter already — no noise roll on top of it. After the scrap, nobody Wounded → no wounds roll.
 
 ### Combat 1 — Grave-rats (4). Heat 8
@@ -62,7 +62,7 @@ hero_alt: "Travelers on the road — Albert Robida"
 - **Kragg** attacks: burns a 5 → damage **5** → Hits ⌈5÷5⌉ = **1**. All-up rat: pluck 1 face-up → **1 face-up left**. He burns a 6 to strike a **Spark**, Fuels it with a 2 for a second attack → damage **2** → **1 Hit** → pile gone. Rat 1 dead.
 - **Brand** attacks: burns a 5 → **1 Hit** → rat 2 at **1 face-up**.
 - **Ilsa** (spear) attacks: burns a 4 → **1 Hit** → finishes rat 2.
-- **Rats** act: rats 3 and 4 bite Sefa (quote **3** each). She Defends the first 3 with a 4. Against the second 3, leather soaks 1 first; she burns a 3 to cut the rest. Zeroed.
+- **Rats** act: rats 3 and 4 bite Sefa (quote **3** each). She Defends the first 3 with a 4. Against the second 3 she burns a 2; leftover 1, leather soaks it. Zeroed.
 
 **Round 2.**
 

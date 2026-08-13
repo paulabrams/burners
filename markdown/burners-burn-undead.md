@@ -38,13 +38,16 @@ Anyone they slew may look only dead — a friend, a hireling, a Boss's sworn han
 ## Facing the Fallen
 
 - Undead have unnatural senses that can find the living.
-- Undead can be driven back by fire.
-- Undead do not die unless purged in fire.
-- Anyone slain by undead rises as undead unless you burn their bones.
+- Undead fear naught but fire, and can be driven back by fire.
+- Undead cannot cross running water (unless carried).
+- Undead do not die unless purged in fire or holy water (or holy oil, holy fyre, etc).
+- Anyone slain by undead rises as undead unless you purge or bless their remains (e.g. with holy water).
 
 ## Touch of the Fallen
 
-Damage inflicted by undead does not come back with normal rest. For example, 3 HP lost will not return when resting, and a 3-point Wound will not heal with sleep. The only options are magical healing or purging it with fire.
+Damage inflicted by undead does not come back with normal rest. For example, 3 HP lost will not return when resting, and a 3-point Wound will not heal with sleep. The only options are magical healing, purifying with holy water, or purging it with fire.
+
+You can purify damage from undead with holy water. Each flask of holy water can purify 1d6 HP of damage.
 
 You can purge damage from undead with fire. This expends one incendiary, and you gain a Wound equal to the total hit points of damage you are purging. For example, 5 HP lost to undead, purged creates a 5-point burn Wound.
 

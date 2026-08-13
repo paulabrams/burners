@@ -270,7 +270,7 @@ the caster's Sorcerie level — Craft for Canting — exactly as in the catalog.
 
 - **Combat.** Cast on yourself as the arrows start: while you move, every attack
   against you suffers −Sorcerie Damage for Sorcerie turns. Nothing opposes it — the
-  working shaves blows on the way in; your Fuel still Defends them.
+  working shaves the quote; Defend what remains, then armor.
 
 #### Visual Illusion
 

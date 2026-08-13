@@ -106,6 +106,14 @@ hero_alt: "A knight returns laden — crossbow, sword, and loot — Albert Robid
 | Dwur grenade                  | 1     | 60        |
 | Witchfire (vial)              | 1     | 75        |
 
+## Count these
+
+Arrows, quarrels, and shot. Holy water. Incendiaries — oil, Molotovs, firepots, naphtha, boom sticks, the rest of that list. Rations.
+
+Mark the arrow, the vial, the flask, the meal when you spend it. You have what the sheet says. Rope, spikes, a spare cloak: you have them until the fiction says you don't.
+
+Lantern oil is the same flask you would throw. One flask, one use — light or fire, not both.
+
 ## Animals and mounts
 
 Bought to carry or ride. They sit **off** your twelve slots — not Muster, not inventory. A pack mule's load is its own, not yours.

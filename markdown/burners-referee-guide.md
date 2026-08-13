@@ -75,7 +75,7 @@ Searching costs a Turn. What it buys depends on what they tell you they are doin
 2. **Give the information.** Anything a careful person would notice in ten minutes, they notice — no roll. The scratched flagstone, the draft, the tool marks, the chest whose lid sits a finger too high. You are not hiding facts; you are charging time for them.
 3. **Roll only if it is still uncertain.** When the method might work and might not, it is `2d6 + Craft` vs the Risk. When the method plainly works on that problem, it works. When it plainly does not — bare hands on a masterwork lock — say so and let them spend the Turn elsewhere.
 
-A trap the party has been told about is a puzzle, not a gotcha (see [[Burners Principles#No gotchas]]). Spring it undetected only when they walked past the sign or never looked. The trap quotes flat Damage — armor soaks on the way in, no Fuel up out of combat.
+A trap the party has been told about is a puzzle, not a gotcha (see [[Burners Principles#No gotchas]]). Spring it undetected only when they walked past the sign or never looked. The trap quotes flat Damage — no Fuel up out of combat; armor soaks, rest to HP.
 
 Mark the Turn either way. A fruitless search still burns light and still feeds the wandering-monster schedule.
 
@@ -149,7 +149,7 @@ Track burn on the paper — do not hide it behind a die.
 
 ## The Grind — Supplies, Fatigue
 
-Light lives on the Turn Tracker. Fatigue is why the party cannot crawl forever, and it needs no separate die — it feeds Heat, because Heat is the crew's shared wind and nerve, and wearing down a long crawl is exactly the loss of those. When the fiction calls for a grind tick (long haul, thin air, lingering too long), raise the gauge, usually +1, and it rides there until the crew vents it. Supplies (rations, water, ammunition) run down the same way when you say they should. An Hour Rest on the tracker (a full quiet cycle with food and water) is how unwounded Burners fill HP — see [[Burners Adventure Game#Wounds]] — not a tax for failing to sit every hour.
+Light lives on the Turn Tracker. Fatigue is why the party cannot crawl forever, and it needs no separate die — it feeds Heat, because Heat is the crew's shared wind and nerve, and wearing down a long crawl is exactly the loss of those. When the fiction calls for a grind tick (long haul, thin air, lingering too long), raise the gauge, usually +1, and it rides there until the crew vents it. **Ammunition, holy water, incendiaries, and rations** are counted on the sheet — mark each when spent ([[Burners Equipment#Count these]]). Do not hand-wave those four. An Hour Rest on the tracker (a full quiet cycle with food and water) is how unwounded Burners fill HP — see [[Burners Adventure Game#Wounds]] — not a tax for failing to sit every hour.
 
 A Journeyman keeps the band fresh. The [[Burners Adventure Game|Journeyman's craft]] reduces party-wide travel, weather, and survival costs by the Journeyman's Craft level, and fatigue in the dark is a survival cost like any other. Subtract the Journeyman's Craft from the tick for everyone they are leading: Craft 1 shrugs off a routine +1 entirely. Fatigue bites when the party has no Journeyman, when the Journeyman is down or split off from the group, or when the place is harsh enough to outrun their level. Scale the tick to the dungeon — a mild crawl adds 1, a brutal one (heat, thin air, crushing dark) adds 2 or 3, so a Journeyman's Craft matters more the worse the ground gets.
 
@@ -179,7 +179,7 @@ Player rules: [[Burners Burn Undead]].
 
 **Midnight:** any Wound inflicted by undead worsens by `1d6` + HD (skeleton `1d6+1`, zombie `1d6+2`, wight `1d6+3`). Immediate Survival (`2d6 + Craft` vs severity, helped if a friend holds you). Fail, or alone → die. Die unclean → spawn.
 
-*Herrick has 3 HP and gambeson (AC 2). A barrow-wight (HD 3) hits him for 5; armor soaks 2; he drops to 0 — luck spent, no Wound, 3 HP stolen. Hour Rest will not fill him. A potion would. Or they purge: 3-point burn Wound, Survival vs 3. Live: ordinary Wound. Next blow is 9, soak 2, he goes to −4: undead Wound, severity 4. Shock, then help after the fight, survival holds. Still unclean. At midnight it worsens by `1d6+3`, then Survival — or they purge him first. Die unclean and he rises. Die of the purge and he rests.*
+*Herrick has 3 HP and gambeson (AC 2). A barrow-wight (HD 3) hits him for 5; he burns nothing; leftover 5, gambeson soaks 2; he drops to 0 — luck spent, no Wound, 3 HP stolen. Hour Rest will not fill him. A potion would. Or they purge: 3-point burn Wound, Survival vs 3. Live: ordinary Wound. Next blow is 9, leftover 9, soak 2, he goes to −4: undead Wound, severity 4. Shock, then help after the fight, survival holds. Still unclean. At midnight it worsens by `1d6+3`, then Survival — or they purge him first. Die unclean and he rises. Die of the purge and he rests.*
 
 No level loss on touch unless you prefer it. Run OSE undead as written; overlays: [[Burners OSE Conversions#Undead]].
 
@@ -231,7 +231,7 @@ A monster is any enemy: Hit Dice, attacks, and a public **Monster Stack** of **2
 
 **Monsters have Hit Dice.** Deal each monster a **Monster Stack** of **2 × HD** playing cards. **Face-down = closed** (armored / shell). **Face-up = open** (meat). Ignore rank and suit. The stack replaces notepad HP. Players like a fat Fuel pool; you keep the enemy side **small and quotable**.
 
-**Initiative.** Each distinct enemy group rolls **1d6** every Round Initiative (reroll each round; no declare-before-roll). Shambling / acts last as written — skip the die, go last. Round 1 surprise: a surprised side is dead last that round (Fuel and Actions unchanged). PC Initiative stays the count of 3s and 4s on Fuel — [[Burners Adventure Game#Combat]].
+**Initiative.** Each distinct enemy group rolls **1d6** every Round Initiative (reroll each round; no declare-before-roll). Shambling / acts last as written — skip the die, go last. Round 1 surprise: a surprised side is dead last that round (Fuel and Actions unchanged). PC Initiative stays the count of 3s and 4s on Fuel — [[Burners Adventure Game#Combat]]. Win the number and the whole Action is theirs then; a withheld swing happens after the monsters. No hold-until-trigger.
 
 **Free attack (quote).** Flat damage — no die from an Init pool.
 
@@ -241,6 +241,8 @@ A monster is any enemy: Hit Dice, attacks, and a public **Monster Stack** of **2
 | Common (sword, claw d6, tentacle+cutlass) | **2** or **3** |
 | Heavy (d8, axe, crab smash) | **4** |
 | Huge (d10+, ogre, polearm-beast) | **5** |
+
+**Grab / constrict.** Printed grab, pincer, coil: see **Constrict** in [[Burners Adventure Game#Combat]].
 
 **Paint (mix inside 2 × HD).** Naked / sushi / tough hide with no kit → **all face-up**. Soft kit (leather, shield) → **some face-down** (orc HD 1 → **1 down / 1 up**). Mail/heavier → more face-down. True shell/plate/scales → **mostly or all face-down** (crab HD 3 → **6 face-down**). Soft armor **adds face-downs into the mix** — it does not invent a flat soak or a second track outside 2 × HD.
 
@@ -306,9 +308,9 @@ The Referee raises or lowers Damage for the situation. Set a value from the band
 
 ## Swarms
 
-Foes piling onto one target attack like a single Veteran of many levels: the group makes a bundle of attacks — reckon one per body in reach, or one per Hit Die for a larger creature — each its own blow of up to two dice, each defended separately, and each soaked by the defender's armor on the way in. Three orcs on Aldric are three attacks, not one big one. Once Aldric has meleed this round he Defends without limit against all of them; until then each blow is one die. **Block**, **Counterattack**, and mid-tempo disrupt: [[Burners Adventure Game]]. A chokepoint caps how many reach you at once; kill one and the bundle loses its attacks.
+Foes piling onto one target attack like a single Veteran of many levels: the group makes a bundle of attacks — reckon one per body in reach, or one per Hit Die for a larger creature — each its own blow of up to two dice, each defended separately, leftover then soaked by the defender's armor. Three orcs on Aldric are three attacks, not one big one. Once Aldric has meleed this round he Defends without limit against all of them; until then each blow is one die. **Block**, **Counterattack**, and mid-tempo disrupt: [[Burners Adventure Game]]. A chokepoint caps how many reach you at once; kill one and the bundle loses its attacks.
 
-Keeping the blows separate is deliberate. A single combined Damage would blow past armor in one unsoakable spike; many small hits, each soaked on the way in, mean a mob wears you down through attrition and a draining Fuel pool instead — you run out of dice to defend before you run out of HP. That is the real danger of numbers: not one dreadful blow, but more attacks than you have dice to answer. The counter is avoidance — break line of sight, fight from a chokepoint, raise a shield as Cover, or thin the mob until the swings come slower than you can turn them.
+Keeping the blows separate is deliberate. A single combined Damage would blow past armor in one unsoakable spike; many small hits, each Defended and then soaked, mean a mob wears you down through attrition and a draining Fuel pool instead — you run out of dice to defend before you run out of HP. That is the real danger of numbers: not one dreadful blow, but more attacks than you have dice to answer. The counter is avoidance — break line of sight, fight from a chokepoint, raise a shield as Cover, or thin the mob until the swings come slower than you can turn them.
 
 ---
 

@@ -688,8 +688,12 @@ Illusione 1: You create a silent, motionless illusory image about the size of a 
 Sorcerie 1: When you **ready** this card in your hand, name **one narrow source of harm** — blades,
 bludgeons, missiles, fire, cold, lightning, the fang-and-claw of beasts, or **magic** (the
 pact traditionally called **Parma Magica** or the **Mage Shield**). Casting raises the ward:
-for Sorcerie turns, attacks of the named source against you suffer **−Sorcerie Damage**, and
-against the magic pact, trivial first-level workings wash off entirely. No help against any
+for Sorcerie Turns it counts as **leather armor (AC 1)** against the named source —
+after you Defend, it soaks 1 from the leftover of each such blow. It does not stack
+with worn armor: the blow is soaked by the better of ward or AC, not both. It also
+grants a shield's benefit against the named source: you may **Defend those blows with
+two dice**.
+Against the magic pact, trivial first-level workings wash off entirely. No help against any
 harm you did not name, nor against magic made physically substantive (conjured stone, a
 flame wall) unless *magic* is the pact. #needs-playtest
 

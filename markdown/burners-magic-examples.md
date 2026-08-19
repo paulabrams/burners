@@ -51,9 +51,11 @@ the caster's Sorcerie level — Craft for Canting — exactly as in the catalog.
 #### Ward Pact
 
 - **Combat.** You readied the card with **fire** named. Cast it as the salamander
-  closes: for Sorcerie turns its flame bites you for −Sorcerie Damage. The choice that
-  mattered was made at ready time — a ward named for blades is no help here, and the
-  magic pact (the old *Parma Magica*) is its own naming.
+  closes: for Sorcerie turns the ward counts as leather armor against flame — after
+  you Defend, soak 1 from the leftover of each flame blow (the better of ward or worn
+  AC, not both) — and as a shield against it: Defend flame blows with two dice. The
+  choice that mattered was made at ready time — a ward named for blades is no help
+  here, and the magic pact (the old *Parma Magica*) is its own naming.
 
 #### Wizard Light
 

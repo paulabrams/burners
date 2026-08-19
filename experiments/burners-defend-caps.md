@@ -1,198 +1,100 @@
 ---
-title: "Burners — Defend Caps by What You Hold"
+title: "Burners — Defend 2, Block +1 free Fuel"
 status: proposed — not yet in the rules; playtest before folding in
 ---
 
-# Defend Caps by What You Hold
+# Defend 2, Block +1 free Fuel
 
-Melee Defend is capped by kit in hand, not by whether you swung this round. The
-fighter stops being the party's only soak: party members are more survivable and
-self-reliant, so fighters don't have to Block to save them from everything — and a
-fighter can no longer out-spend attacks simply by having meleed. **Juke** rides a
-physical blow the way Ward rides magic — not an Action, one extra die past the kit
-cap. Proposed alongside the Sorcerer mods in [[burners-sorcerer-casts]]. #needs-playtest
+# needs-playtest
 
----
+## The rule (current)
 
-## The rule
+**Cover.** An extra die vs missiles (3 total: 2 from the pool + 1 Cover). A
+raised shield counts as Cover. Wall, creature, etc. still count.
 
-**Melee:** one die, **plus the best one of**:
+**Defend.** How many dice you can spend to stop an attack — melee, ranged, or
+spell, all the same: **2 dice.**
 
-| In hand | Extra dice | Total |
-| --- | --- | --- |
-| melee weapon | +1 | 2 |
-| shield | +2 | 3 |
-| magic shield (trained only) | +3 | 4 |
+**Block.** Use an attack to enhance defense, granting **one free Fuel** (roll
+it). You need a melee weapon or a shield — a fighter parries with a sword.
+You can Block an attack directed at yourself or an adjacent ally; in the
+latter case the attack redirects to you. The free die is a **new** d6, not
+taken from the pool — the attack is the price.
 
-- **Best of, never stacked.** Sword-and-board Defends as the shield (3). A two-hander
-  Defends as the weapon (2) — it hits with two dice but no longer dumps the pool.
-- **Replaces** "no limit if you made a melee attack this round." Whether you swung is
-  irrelevant; what you hold is the gate.
-- A dagger in the mage's hand is +1 even on a round they Cast.
-- **Missile:** unchanged — 1 die, or 2 with Cover.
-- **Hostile magic:** unchanged — **no limit**. This is the save system; there is no AC
-  against a charm. (Considered and rejected: 1 die +1 Arcana +2 school — caster kit
-  should not gate a fighter's resistance. If a cap is ever wanted, tie it to character
-  level, not kit.)
-- **In the dirt:** same caps, all Fuel burned re-rolls, as ever.
-- Block still redirects one blow onto the Blocker, who Defends under their own cap.
-- **Enchanted kit:** only the enchanted shield extends the cap, and you must have the
-  Trait — that is the +3 row. The enchanted extra die (Enchanted Arms and Armor) does
-  not stack on top of it, and a magic weapon never extends the Defend cap: its extra
-  die is for the Initiative pool and the blow.
+**Ward.** A Sorcerer may Ward **themselves or an adjacent ally**. Burn Fuel (up
+to Sorcerie Level **each time**); cut that from the cast total (or magical
+breath); the **original target** then Defends the remainder at 2. No card. No
+free die. The working does **not** redirect onto the Sorcerer.
 
-The fighter with a heater soaks at 3 dice and cannot empty the pool just because he
-swung; the mage with a spear soaks at 2 without asking for a Block.
+You may Ward **more than once** in a round if more workings come in — pay the
+Fuel every time. Unlike Block, it is not a single spend.
 
-## Juke — a Ward for steel
+**Ahead of your turn.** You may Block or Ward early, but this **commits your
+Action** for the round. Block early and you're attacking this round (no spell).
+Ward early and you're casting (no sword, and no other spell unless a Spark
+gives you another). When your turn comes you finish that Action — leftover
+Veteran attacks, or the Ward already spent the Cast. Further Wards the same round
+still cost Fuel; the Cast is already committed.
 
-**Juke** is not your Action. It rides the incoming **physical** blow (melee or missile,
-not fire, not a spell), the way **Ward** rides hostile magic.
+**Counterattack.** Only **after your Initiative** — you have already had your
+turn this round and held a melee attack. A missile or magic user in your face
+who **wins Initiative** gets the shot or the working off. Block-early does not
+unlock Counterattack early.
 
-- Tap the card. Burn at least SL Fuel as they swing. That Defend may burn **one extra
-  Fuel die** beyond the kit cap (dirty fighting). You still pay the normal Defend; the
-  extra die rides a Defend you were paying for anyway.
-- Does **not** cut the incoming number first — that is Ward's math. Juke only raises
-  **your** cap by one: weapon 2→3, shield 3→4, Cover 2→3, bare 1→2.
-- Canting card, so a Journeyman who cannot Ward still has a ride on the knife. A
-  Sorcerer who also Canting may have both.
-- Under the hold-based cap this is no longer a trap. Swinging does not open unlimited
-  Defend, so the extra die is real — including before you have gone this round.
+**Held attacks expire.** Attacks you save after your turn are for Block and
+Counterattack until the next **Roll Initiative**. Unused, they are **lost**.
+You do not get a volley at the end of the round. Holding is a bet.
 
-## Wizard defense under the caps
+Live Ward ("not your Action," allies only) is replaced by this.
 
-**Ward Pact** (Sorcerie 1) is the wizard's armor and shield — settled, entry updated
-in [[Burners Spells]]. Against the **named source only**: counts as **leather armor**
-(soak 1, the better of ward or worn AC, not both) and as a **shield** (Defend those
-blows with **two dice**). Flat — it is only a 1st-level spell; no scaling by Sorcerie.
-The ready-time naming stays: it is the hedge that makes the spell a pact and not plate.
+That's the whole table. No 1/2/3 by kit. No unlimited-if-you-meleed. No separate
+Parry. Sword and shield both Block; the free die is why spending the attack is
+worth it.
 
-Note the seam with the cap table: the pact's two dice equal the *weapon* tier, one
-under a steel shield in hand (3). Deliberate — decide at playtest whether the Mage
-Shield should instead read "counts as a shield in hand" (cap 3).
+A Blocked blow is up to 2 from the pool + 1 rolled free ≈ 3 dice, only 2 Fuel
+gone. That's the ogre 10 without emptying the hand.
 
-Rejected along the way: a slot-occupying "Ward Harness" (phantom armor at real armor's
-AC and slot cost — the armor spell should not eat Arcana / Sorcerie slots); per-blow
-Fuel to apply the soak (armor's identity is free soak; would blur into the **Ward**
-combat rule); soak scaling by Sorcerie (half or full — plate-grade mages).
+## Still attached (clock)
 
-Do **not** expand the Ward combat rule to steel — Ward is magic-only on purpose; a
-steel Ward would make the mage the party's soak and reverse this mod's fix.
+- Monsters at speed: quote on their beat; no Block, no off-turn Counterattack.
 
-## Open questions
+## What this knocks
 
-- Sim re-run required — five-orc knife-edge and front-line numbers all assumed
-  unlimited-after-melee.
-- ~~Ward Pact damage reduction~~ **Resolved:** flat leather (soak 1) + shield (two
-  dice) vs the named source; no scaling, no slot cost, no per-blow Fuel, no stacking
-  with worn AC (see *Wizard defense under the caps*). Playtest whether the shield
-  benefit should be the full shield-in-hand cap (3) instead of two dice.
-- Juke vs a bundle: one extra die on **that** blow, or does one tap cover the
-  round? Lean: that blow. The card is the scarcity.
-- Does Juke work on Man-handle / Constrict (physical, not HP)? Lean yes — it is a
-  Defend. Fire and spells stay out.
+- **Mundane shield is still worth it.** It is not a fatter Defend vs steel
+  (Block's free die is the same with a sword). It is **Fuel** (slots in hand on
+  Initiative — heater 3, rotella 4, tower 5) and **Cover vs missiles** (+1 die).
+  Sword-and-heater is 5 kit dice and Cover; a greatsword is 4 kit dice, two-die
+  blows, and 2 vs arrows. Take the board for arrows and a fatter pool; take the
+  two-hander to hit harder. A buckler still lets an archer Block without a
+  dagger. It is not armor.
+- **Hostile magic is 2 dice, same as steel.** Settled. **Ward** (the Action)
+  cuts the working off the top, self or adjacent ally, Fuel every time, no
+  redirect, no free die. Then Defend the remainder at 2. A fighter who Blocks a
+  working onto himself adds the free die. Live "Ward is not your Action" is
+  out. Unlimited magic-Defend is rejected.
+- **Bow vs sword:** both Defend at 2. The archer's limit is they **cannot
+  Block** (no melee weapon or shield). Draw a dagger and they can.
+- **Ward Pact** is a **spell**, not the Ward Action. Leather soak vs a named
+  source (ready-time name). Its "two dice" line is now the universal cap — cut
+  that clause on fold-in; keep the soak and the named-source hedge.
+- **Magic shield kit-ladder +3** is gone. Enchanted kit still throws its extra
+  Initiative die and keeps powers once found. Gating the Block free die behind
+  an enchanted shield is **rejected** — fighters parry with swords; the free
+  die is what makes the spent attack worth it. Live "extra die on every Defend
+  / Block" is a different shape and stacks with Cover + Block-free; do not
+  treat that as the shield's job.
+- **Juke** (extra die past a cap) has no cap-ladder to ride. Cut it, or let it
+  be the Block-without-an-attack card.
 
----
+## Rejected along the way
 
-## Change list — every edit this mod requires
+Unlimited-if-meleed. Unlimited-if-armed. 1 / 2 armed / 3 magic shield.
+Parry as a second name. Dodge as a second procedure. Extra Block die taken
+from the Fuel pool (it's a rolled free die). Block-free only on enchanted
+shield.
 
-Line numbers are as of 2026-08-16; section names are the durable anchors.
+## Open
 
-### markdown/burners-adventure-game.md
-
-1. **Glossary — Defend** (line 144): replace the caps clause. New: "Caps: melee 1 die
-   +1 melee weapon / +2 shield / +3 magic shield (trained only) in hand, best one;
-   missile 1 die (2 with Cover); hostile magic no limit." Delete "(no limit if you
-   meleed this round)".
-2. **Defending** (line 679): rewrite the caps sentence; delete "or no limit if you
-   made a melee attack this round (any foe)"; delete the closing sentence "If you're
-   the archer or mage caught in reach without having meleed, you cut each melee blow
-   with a single die" (obsolete — the cap no longer keys off having meleed). Keep the
-   in-the-dirt, Spark-Counterattack, and hostile-magic clauses. After **Ward**, add a
-   sibling one-liner: Juke rides a physical blow (pointer to the spell).
-3. **Ogre example** (lines 630–631): rewrite. "He has meleed this round, so… Defends
-   without limit" becomes sword-and-shield = 3 dice; redo the arithmetic of both
-   paragraphs (the war-of-attrition coda also leans on unlimited Defend).
-4. **Dirty-fighting example** (line 681): rewrite. "already meleed, so he may Defend
-   without limit… dumps three dice" — with arming sword + rotella he caps at 3, which
-   still fits, but the stated justification must change from "meleed" to "shield in
-   hand."
-5. **Enchanted Arms and Armor** (line ~490): "one extra die when that item is the
-   thing in play (Initiative pool and on the blow, Defend, or Block)" — narrow it: the
-   extra die rides the Initiative pool and the blow; on Defend, only an enchanted
-   **shield** (with its Trait) extends the cap, as the +3 row. A magic weapon never
-   extends the Defend cap.
-
-### markdown/burners-examples-of-play.md
-
-1. **Skirmish sidebar** (line 124): defense-caps summary line — same rewrite as the
-   glossary.
-2. **Brand defends** (line 93) and **Sefa defends** (line 171): "has not meleed → one
-   die" becomes hold-based (Brand's spear = 2 dice; Sefa's knife = 2 dice) — redo the
-   arithmetic and the HP outcomes.
-3. **Kragg** (line 95): "having meleed, he Defends without limit" — two-handed axe
-   caps at 2 dice; redo.
-
-### markdown/burners-referee-guide.md
-
-1. **Mobs / focus fire** (line 311): "Once Aldric has meleed this round he Defends
-   without limit against all of them; until then each blow is one die" — rewrite to
-   the hold-based cap (each blow Defended separately under the same cap; a shield
-   matters, swinging first does not).
-2. **Cover, Sparks, and shooting into the press** (lines 335–341): unchanged —
-   confirm no melee-cap language leaks in.
-
-### markdown/burners-ose-conversions.md
-
-1. **The Defend Router / saves table** (lines ~187–190): confirm no melee-cap
-   language; "Save vs. spell — Fuel Defend vs cast total" is unchanged.
-2. **Watchpoints** (line 220): "Large mobs can spike past any defend" — still true,
-   truer now; optionally note the caps make chokepoints and shields matter more.
-
-### markdown/burners-principles.md
-
-1. **Granular defense, not binary save** (lines 26–36): no rule text change, but the
-   in-combat bullet may deserve one clause naming the hold-based cap so the principle
-   page matches the procedure it cites.
-
-### markdown/burners-spells.md
-
-1. **Juke** (line 635): rewrite. "Not your Action — rides the incoming physical blow,
-   like Ward. Burn at least SL Fuel as they swing; that Defend may burn one extra Fuel
-   die beyond the kit cap." Keep #needs-playtest until play.
-
-### markdown/burners-magic-examples.md
-
-1. **Juke** (lines 393–397): Combat bullet — not your Action; spend it as the bravo's
-   knife comes in; extra die past the kit cap, riding a Defend you were paying for
-   anyway.
-
-### markdown/burners-arms-and-armor.md
-
-1. **Shields section**: add the Defend bonus (+2, +3 magic trained-only) beside the
-   existing slots/Cover text. **Cutty / Stabbity** Spark riders (lines 160, 170) are
-   attack Sparks — unchanged.
-
-### markdown/burners-referee-magic-items.md
-
-1. **Enchanted shields**: state the ruling — the enchantment (with its Trait) is what
-   makes a shield "magic" for the +3 cap; no extra die stacks on top of it, and
-   enchanted weapons never extend the Defend cap.
-
-### sims/
-
-1. **sims/sim.py**: defend logic implements "without limit after any melee this
-   round" — reimplement hold-based caps (weapon/shield per PC loadout); Senna/Pip
-   loadouts now matter to their soak. Re-run baselines.
-2. **sims/combat-sim.md**: header (line 4) and rules-summary (line 102) name the old
-   cap; every table regenerates. Watch the five-orc knife-edge and the front-line
-   margin — Block economy changes when the Blocker caps at 3.
-
-### No changes needed
-
-- **burners-muster.md, burners-equipment.md, burners-experience.md,
-  burners-ancestry.md, burners-invocations.md, burners-burn-undead.md** — no
-  Defend-cap text found. **burners-sorcerie.md** Ward short form stays; Juke lives
-  on the spell card.
-- **experiments/burners-monster-stacks.md, burners-turn-tracker.md,
-  burners-cracked.md** — monster-side only.
+Enchanted shield, if not the Block free die: extra Initiative die + powers
+only, or some other gift that does not stack on Cover and Block. Mundane
+board is already Fuel + Cover; magic needs a tactical option on top of that.

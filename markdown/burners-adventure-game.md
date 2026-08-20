@@ -85,7 +85,7 @@ Your character's Theme and Traits can help back up your plan.
 
 - **Baggage:** small items can share a slot if they ride in a pouch, quiver, or satchel (1 slot). A backpack (3 slots) holds bedroll, rope, rations, and loot efficiently, but takes ten minutes to unpack.
 
-- **Count these:** ammunition, holy water, incendiaries, and rations. Mark each when you spend it — [[Burners Equipment#Count these]]. The rest of the pack you have until the fiction says you don't.
+- **Count these:** ammunition, holy water, incendiaries, and rations — mark each when you spend it. You count the rest of the pack too; these are the ones that vanish if you don't mark. [[Burners Equipment#Count these]].
 
 - **Empty slots:** free space is speed. Every empty slot adds a die to your Fuel on the Initiative roll, up to four. Light kit, quick feet. Dropping something to free a slot is an action. Muster and Sorcerie slots never also count as empty.
 
@@ -557,7 +557,7 @@ You take a **Wound** when:
 - an attack drives you **below 0 HP** (overflow past 0) — steel, claw, or the walking dead alike;
 - or harm lands where **HP cannot help** — **helpless**, some poisons, module specials (Referee's call).
 
-Resolve each Wound once, then carry it. Wounds accumulate. Penalties last until you reach **full HP** (maimings excepted). A blow that lands you **exactly at 0** spends the last of your luck; you are not Wounded until a blow drives you negative. A Wound from the **Fallen** is an **undead Wound** — see [[Burners Referee Guide#Undead]]. Lore: [[Burners Burn Undead]].
+Resolve each Wound once, then carry it. Wounds accumulate. Penalties last until you reach **full HP** (maimings excepted). A blow that lands you **exactly at 0** spends the last of your luck; you are not Wounded until a blow drives you negative. A Wound from the **Fallen** (undead) — see [[Burners Referee Guide#Undead]]. Lore: [[Burners Burn Undead]].
 
 **Wound severity.** Keep a running total for the fight: for each attack that caused a Wound, add its **overflow** past 0 (damage that drove you below 0 after armor). Non-HP Wounds (where HP cannot help) add **0** unless that same attack also overflowed HP.
 

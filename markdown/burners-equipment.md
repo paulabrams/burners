@@ -110,7 +110,7 @@ hero_alt: "A knight returns laden — crossbow, sword, and loot — Albert Robid
 
 Arrows, quarrels, and shot. Holy water. Incendiaries — oil, Molotovs, firepots, naphtha, boom sticks, the rest of that list. Rations.
 
-Mark the arrow, the vial, the flask, the meal when you spend it. You have what the sheet says. Rope, spikes, a spare cloak: you have them until the fiction says you don't.
+Mark the arrow, the vial, the flask, the meal when you spend it. You have what the sheet says. Count the rest of the pack too; these four are the ones that go one use at a time.
 
 Lantern oil is the same flask you would throw. One flask, one use — light or fire, not both.
 

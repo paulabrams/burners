@@ -9,17 +9,13 @@ status: proposed — not yet in the rules; playtest before folding in
 
 ## The rule (current)
 
-**Cover.** An extra die vs missiles (3 total: 2 from the pool + 1 Cover). A
-raised shield counts as Cover. Wall, creature, etc. still count.
+**Defend.** **2 dice**, or **3 with a raised shield** (or other Cover — wall,
+creature). Same for melee and missiles. Hostile magic stays 2 unless you Block
+or Ward. Drop the board and you are back at 2 — that is the cost of two-handing.
 
-**Defend.** How many dice you can spend to stop an attack — melee, ranged, or
-spell, all the same: **2 dice.**
-
-**Block.** Use an attack to enhance defense, granting **one free Fuel** (roll
-it). You need a melee weapon or a shield — a fighter parries with a sword.
-You can Block an attack directed at yourself or an adjacent ally; in the
-latter case the attack redirects to you. The free die is a **new** d6, not
-taken from the pool — the attack is the price.
+**Block.** Spend one of your attacks. You need a melee weapon or a shield.
+Roll one extra die that is not from your pool. The hit is yours — either it
+already was, or you step in front of a friend next to you.
 
 **Ward.** A Sorcerer may Ward **themselves or an adjacent ally**. Burn Fuel (up
 to Sorcerie Level **each time**); cut that from the cast total (or magical
@@ -36,23 +32,23 @@ gives you another). When your turn comes you finish that Action — leftover
 Veteran attacks, or the Ward already spent the Cast. Further Wards the same round
 still cost Fuel; the Cast is already committed.
 
-**Counterattack.** Only **after your Initiative** — you have already had your
-turn this round and held a melee attack. A missile or magic user in your face
-who **wins Initiative** gets the shot or the working off. Block-early does not
-unlock Counterattack early.
-
-**Held attacks expire.** Attacks you save after your turn are for Block and
-Counterattack until the next **Roll Initiative**. Unused, they are **lost**.
-You do not get a volley at the end of the round. Holding is a bet.
+**Counterattack** is live. A Veteran holds leftover attacks **after** they have
+gone — there is nothing to hold before Initiative. Block-early spends an attack
+from the Action you just committed; it does not mint a held attack you did not
+have. Steel on steel: the opening is still a **6 on the Defend**. Held leftovers
+die at the next **Roll Initiative**.
 
 Live Ward ("not your Action," allies only) is replaced by this.
 
 That's the whole table. No 1/2/3 by kit. No unlimited-if-you-meleed. No separate
 Parry. Sword and shield both Block; the free die is why spending the attack is
-worth it.
+worth it. Self-Block (not only a friend) is the piece that resonated; the
+one free die is what we test. A second free die on the shield is declined —
+the board already throws its slots on Initiative.
 
-A Blocked blow is up to 2 from the pool + 1 rolled free ≈ 3 dice, only 2 Fuel
-gone. That's the ogre 10 without emptying the hand.
+A Blocked blow is 2 from the pool + 1 rolled free = 3 dice, only 2 Fuel gone.
+That's the ogre 10 without emptying the hand. A raised shield is that 3 without
+spending the attack.
 
 ## Still attached (clock)
 
@@ -60,13 +56,12 @@ gone. That's the ogre 10 without emptying the hand.
 
 ## What this knocks
 
-- **Mundane shield is still worth it.** It is not a fatter Defend vs steel
-  (Block's free die is the same with a sword). It is **Fuel** (slots in hand on
-  Initiative — heater 3, rotella 4, tower 5) and **Cover vs missiles** (+1 die).
-  Sword-and-heater is 5 kit dice and Cover; a greatsword is 4 kit dice, two-die
-  blows, and 2 vs arrows. Take the board for arrows and a fatter pool; take the
-  two-hander to hit harder. A buckler still lets an archer Block without a
-  dagger. It is not armor.
+- **Mundane shield is still worth it.** Defend is **2, or 3 with a raised
+  shield**. Block is how a sword (or a two-hander) also gets to 3 — spend the
+  attack — or you step in front of a friend next to you. Table play (retainer):
+  enters with axe and shield, prefers the board (3 for free), two-hands the
+  size-3 axe when the foe is tanky (2-die blows, Defend 2, Block if she wants
+  3). A buckler still lets an archer Block without a dagger. It is not armor.
 - **Hostile magic is 2 dice, same as steel.** Settled. **Ward** (the Action)
   cuts the working off the top, self or adjacent ally, Fuel every time, no
   redirect, no free die. Then Defend the remainder at 2. A fighter who Blocks a
@@ -91,10 +86,13 @@ gone. That's the ogre 10 without emptying the hand.
 Unlimited-if-meleed. Unlimited-if-armed. 1 / 2 armed / 3 magic shield.
 Parry as a second name. Dodge as a second procedure. Extra Block die taken
 from the Fuel pool (it's a rolled free die). Block-free only on enchanted
-shield.
+shield. Second free die on a mundane shield (Initiative already pays).
 
 ## Open
 
 Enchanted shield, if not the Block free die: extra Initiative die + powers
-only, or some other gift that does not stack on Cover and Block. Mundane
-board is already Fuel + Cover; magic needs a tactical option on top of that.
+only, or some other gift. Mundane board is Fuel + Defend 3; magic needs a
+tactical option on top.
+
+Hostile magic: Defend 2, Block to 3, or Ward off the top. Raised shield is
+not 3 vs a working (Ward's job) — current lean.

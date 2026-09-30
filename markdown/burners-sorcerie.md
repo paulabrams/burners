@@ -9,10 +9,10 @@ hero_alt: "The wizard and his book — H. J. Ford"
 
 *Magic — how a Sorcerer prepares, carries, and spends it.*
 
-How magic works: who can cast, spellbooks, Sorcerie slots and Arcana, the hand, the cast,
-burning, ritual, and Defend against hostile workings. Scrolls and potions are at the end.
-The spell lists live on **[[Burners Spells]]**; worked rulings for every 1st-level
-spell are on **[[Burners Magic Examples]]**.
+How magic works: who can cast, personal spellbooks and true writings, Sorcerie slots and
+Arcana, the hand, the cast, burning, ritual, and Defend against hostile workings. Scrolls
+and potions are at the end. The spell lists live on **[[Burners Spells]]**; worked rulings
+for every 1st-level spell are on **[[Burners Magic Examples]]**.
 
 ## How Magic Works
 
@@ -27,7 +27,9 @@ switches casting on; a combat cast is one Action that burns at least SL Fuel dic
 
 Think of every spell you know as a card.
 
-- Your **spellbook** is your your **deck** of known spells. You can have multiple spellbooks in your library.
+- Your **personal spellbook** is your **deck** of known spells — **crib notation**, not a
+  teaching book. A **true writing** in reach (one complete working) can add that spell to
+  what you may memorize while you can study it (see *Spellbooks*).
 - Your **hand** is the spells you have prepared to cast.
 - Your **Sorcerie slot count** sets your **hand size**, the number of cards you may hold.
 - **Casting** a spell **taps** its card.
@@ -36,10 +38,11 @@ Think of every spell you know as a card.
   - **No readable source** — recover up to your caster level in cards from among tapped,
     burned, and lasting; re-split physical vs Sorcerie slots if you wish, but your hand
     stays as it is except what the budget restores.
-  - **Readable source in reach** — your personal spellbook, or any grimoire you carry whose
-    hand you can already read (see *Learning Spells*) — re-split freely and **full redraw**
+  - **Readable source in reach** — your personal spellbook, or a true writing whose hand
+    you can already read (see *Learning Spells*) — re-split freely and **full redraw**
     your hand from your whole deck. Every card you put in arrives **ready**; the limited
-    recovery budget does not apply.
+    recovery budget does not apply. Another mage's personal spellbook is not a readable
+    source for you.
 
 Every card in your hand is in exactly one zone. **Tapped, lasting, and burned cards all
 still occupy hand size** until recovered (or lasting ends).
@@ -98,11 +101,13 @@ you **declare 7 physical slots and 5 Sorcerie slots** — twelve total. You may 
 until your first 8-hour sleep; we start fast.
 
 Your **personal spellbook** holds **five known spells**: ***Read Magic*** plus **four
-others** from your school — the fruit of apprenticeship, already scribed. The Referee
-picks them, rolls them, lets you choose, or works with you — your table's call. Your
-**hand size is 5** — all five ready. Count them on your fingers when you onboard. You did
-**not** need *Read Magic* to learn the other four; a master taught them. *Read Magic* is
-in the book because it is useful loot literacy, not because it unlocks learning.
+others** from your school — the fruit of apprenticeship, already taught and already
+written in **crib notation**. The Referee picks them, rolls them, lets you choose, or
+works with you — your table's call. Your **hand size is 5** — all five ready. Count them
+on your fingers when you onboard. You did **not** need *Read Magic* to learn the other
+four; a master taught them. *Read Magic* is in the book because it is useful loot
+literacy, not because it unlocks learning. The personal spellbook is crib notes for
+**you** — it is not a source anyone else can learn a spell from (see *Spellbooks*).
 
 You also start with **one free Arcana** — costume of the craft from the allow-list
 (mundane grade). Extra costume Arcana costs **100 gp apiece** in town; enchanted Arcana
@@ -121,23 +126,23 @@ magic.
 ### Becoming a Sorcerer later
 
 When you first reach **Sorcerie 1** in play, you gain the title — you may cast, declare
-**Sorcerie slots**, and Ward. You do **not** gain the apprentice kit: no free book, no free
-Arcana, no starting spells. **You must buy a personal spellbook** (blank, **25 gp**) if
-you want a deck of your own. Costume Arcana is **100 gp** apiece in town if you want it.
-Spells are not for sale.
+**Sorcerie slots**, and Ward. You do **not** gain the apprentice kit: no free personal
+spellbook, no free Arcana, no starting spells. **You must buy a personal spellbook**
+(blank, **25 gp**) if you want a deck of your own. Costume Arcana is **100 gp** apiece in
+town if you want it. Spells are not for sale.
 
 That is why waiting costs more than starting as a Sorcerer: the apprentice walks in with
-book, one Arcana, and five ready spells; you pay for the blank book and hunt every
-working.
+a personal spellbook, one Arcana, and five ready spells; you pay for the blank book and
+hunt every working.
 
 Your hand starts **empty**. Grow the book the same way any Sorcerer does:
 
-1. **Find** a grimoire whose hand you can read (*Learning Spells*), **or** pay a teacher
-   (**1,000 gp × level** — they choose what you learn).
-2. **Carry** a found book to redraw and cast from those pages.
-3. **Scribe** what you mean to keep into your personal book — **no gp per spell**, only
-   downtime (see *Spellbooks*). Written source pages are still destroyed when you copy
-   them in.
+1. **Find** a **true writing** whose hand you can read (*Learning Spells*), **or** pay a
+   teacher (**1,000 gp × level** — they choose what you learn).
+2. **Carry** a found true writing (or stand at a fixed one) to redraw that working.
+3. **Scribe** what you mean to keep into your personal spellbook — **no gp per spell**,
+   only downtime (see *Spellbooks*). Crib notation cannot teach; another mage cannot
+   learn from your book.
 
 ***Read Magic* is not required to learn.** The Referee should put a path to a first
 working in reach soon after the title turns on.
@@ -147,12 +152,13 @@ working in reach soon after the title turns on.
 Table checklist when someone takes Sorcerie 1 mid-campaign — detail lives in the sections
 above and in *Learning Spells* / *Spellbooks*:
 
-- Blank personal book **25 gp** (no apprentice kit)
+- Blank **personal spellbook** **25 gp** (no apprentice kit)
 - Empty hand until you learn
-- Grow from a **found grimoire** (scribe **time only**; **destroys source pages**) or
-  **ask a teacher** (**1,000 gp × level** — teacher chooses the working)
+- Grow from a **true writing** (scribe **time only**; the true work remains) or **ask a
+  teacher** (**1,000 gp × level** — teacher chooses the working). Do not learn from
+  another mage's personal spellbook — crib notation, not a lesson.
 - School **Trait** (or common Sorcerie) to read that tradition; *Read Magic* identifies
-  foreign books and scrolls
+  foreign true writings and scrolls
 - Costume Arcana **100 gp** if wanted; enchanted Arcana are finds
 - Re-split physical vs Sorcerie slots on rest
 
@@ -180,7 +186,8 @@ Canting uses the same math under **kicks** — see [Canting: Kicks and Jarks](#c
   your Sorcerie (or Craft, for Canting). Slots are not leveled.
 - **Your hand is personal.** No thief, no disarm, no dropped pack parts a caster from
   their hand. Only sleep, burning, and your own choices move the cards. Losing your
-  spellbook cuts off redraws and swaps — the deck can be taken, the hand cannot.
+  personal spellbook cuts off redraws and swaps from your own deck — the notes can be
+  taken, the hand cannot. The thief cannot learn from those notes.
 
 **Initiative.** On Roll Initiative, add **one die per Sorcerie slot occupied by Arcana** —
 empty slots, books, and scrolls add none. Arcana in those slots does not also add
@@ -189,17 +196,19 @@ Initiative dice (max 4). (Canting: one die per occupied kick.)
 
 ### Arcana
 
-A Sorcerie slot may carry **Arcana**, a **spellbook / grimoire**, or a **scroll** — nothing
-else. **Arcana** are the costume and foci of the craft: **staff, wand, rod, orb, crystal,
-ring, amulet, mask, robes, hat**. Each item costs its **full normal slot cost** (a staff
-is 3 Sorcerie slots, not 1; a ring is 1). Hedge craft counts the same when it is clearly
-one of those forms — goat-horn hat, bone amulet, cracked crystal.
+A Sorcerie slot may carry **Arcana**, a **personal spellbook**, a **true writing**, or a
+**scroll** — nothing else. **Arcana** are the costume and foci of the craft: **staff,
+wand, rod, orb, crystal, ring, amulet, mask, robes, hat**. Each item costs its **full
+normal slot cost** (a staff is 3 Sorcerie slots, not 1; a ring is 1). Hedge craft counts
+the same when it is clearly one of those forms — goat-horn hat, bone amulet, cracked
+crystal.
 
-- **Books and scrolls.** A spellbook, grimoire, or scroll may sit in a **physical or
-  Sorcerie** slot. In a Sorcerie slot it **fills the slot** but is **not Arcana** and
-  **throws no Initiative die**. Either home still counts as **carrying** a book for
-  redraws and swaps. Book price is the book line (**25 gp** blank — see *Spellbooks*), not
-  the 100 gp costume tag.
+- **Books and scrolls.** A personal spellbook, a portable true writing, or a scroll may
+  sit in a **physical or Sorcerie** slot. In a Sorcerie slot it **fills the slot** but is
+  **not Arcana** and **throws no Initiative die**. Either home still counts as
+  **carrying** it for redraws and swaps — your personal spellbook for your own deck, a
+  true writing for that one working. Book price for a blank personal spellbook is **25
+  gp** (see *Spellbooks*), not the 100 gp costume tag.
 - **Price (costume).** Costume Arcana (mundane grade) is **100 gp apiece** in town — a
   true wizard's hat is not a street hat. A starting Sorcerer gets **one free**. Enchanted
   Arcana has no shop price: find, seize, gift, or inherit.
@@ -209,13 +218,14 @@ one of those forms — goat-horn hat, bone amulet, cracked crystal.
   Sorcerie slot cannot carry fifty feet of rope. That restriction is the price of the
   split.
 - Losing Arcana loses an item, nothing more. Steal the archmage's staff and you have
-  stolen a stick. Steal the book and you have stolen the deck — the hand stays; redraws do
-  not.
+  stolen a stick. Steal their **personal spellbook** and you have stolen their deck — the
+  hand stays; they cannot redraw from those notes. You cannot learn from them either.
+  Steal a **tome** and you have stolen one complete working.
 - **Found Arcana is still Arcana.** A relic wand, a runed ring, a captured staff — even a
   full magic item — rides in Sorcerie slots at its normal slot cost if it fits the
   allow-list. It does not add a card to your hand. Whatever power the treasure holds runs
-  as a magic item; your hand is still only spells from your deck (or, for a carried
-  grimoire, spells you may memorize from it while it is in reach — see *Spellbooks*).
+  as a magic item; your hand is still only spells from your deck (or, for a true writing
+  in reach, that one working — see *Spellbooks*).
 
 ## Casting
 
@@ -274,17 +284,17 @@ better. You cannot have both.
 
 After **8 hours of uninterrupted sleep**, choose one path:
 
-**Without a readable source** (your spellbook lost, left in camp, or no grimoire you can
-read in reach): recover up to **Sorcerie Level** cards (**Craft Level** for Canting) from
+**Without a readable source** (your personal spellbook lost, left in camp, or no true
+writing you can read in reach): recover up to **Sorcerie Level** cards (**Craft Level** for
+Canting) from
 among your tapped, burned, and lasting cards. That budget is **one pool** — each card you
 recover costs one card from the budget, whether you are untapping a tapped card or returning
 a burned one. Spell level does not matter; five 1sts and one 5th both cost one card each.
 You may still **re-split** physical vs Sorcerie slots; your hand otherwise stays as cast
 left it, except what the budget restores.
 
-**With a readable source in reach** — your personal spellbook, or any grimoire you
-**carry** whose hand you can already read (see *Learning Spells*) — skip the limited
-budget.
+**With a readable source in reach** — your personal spellbook, or a true writing whose
+hand you can already read (see *Learning Spells*) — skip the limited budget.
 **Re-split** physical vs Sorcerie slots freely and **full redraw** your hand from your deck (see
 *Changing Your Hand*). Every card you put in arrives **ready**. You may **keep lasting
 cards in place**; swapping one out **ends the effect**.
@@ -297,7 +307,7 @@ Recovering a **lasting** card through the limited budget untaps it and **ends th
 ## Changing Your Hand
 
 Choosing or changing the cards in your hand requires a **readable source** — your
-spellbook, or a captured grimoire you can read (see *Spellbooks*).
+personal spellbook, or a true writing you can read (see *Spellbooks*).
 
 - **Rest: full redraw.** Requires a readable source in reach (see *Sleep and recovery*).
   Rebuild your hand freely from your deck — any known spells, up to your caster level, one
@@ -324,8 +334,9 @@ slot but is not Arcana and throws no Initiative die.
   you spend it.
 - **Scribing** (downtime): **100 gp × the spell's level** in reagents, from any spell you
   hold in a readable source — making a scroll is gold work; moving the same spell into
-  your personal book is time only (see *Spellbooks*). You may unmake a
-  scroll into your book (time only; the scroll is destroyed without being cast).
+  your personal spellbook is time only (see *Spellbooks*). You may unmake a
+  scroll into your personal spellbook (time only; the scroll is destroyed without being
+  cast).
 
 | Spell level on scroll | Cost to scribe (gp) |
 | --- | --- |
@@ -432,62 +443,93 @@ what they do is treasure.
 
 ## Spellbooks
 
-Your deck is a book, and a book can be lost.
+A working in writing comes in two notations. Do not mix them.
 
-- **Personal spellbook** — **1 slot**, physical or Sorcerie (fills the slot; not Arcana;
-  no Initiative die). Holds every spell you have scribed into it. Left in camp, your deck
-  is out of reach: no redraws, no swaps until you are reunited. Margins hold **Facts**
-  (scraps, runes, puzzles) — free in plain ink; they are not workings until you spend
-  reagent ink to fix them.
-- **Found grimoires.** A captured book is a prize. While you **carry** a source whose hand
-  you can read (see *Learning Spells*), you may treat its spells as **known** for redraw
-  and swap — memorize from the book at hand. Drop it or leave it in town and those spells
-  leave your ready library until you recover the source or scribe them into your own book.
-  Each found grimoire you keep for redraw is another slot.
-- **Moving a spell into your book.** Copy it into your **personal spellbook** from a
-  source you can already read (found page, scroll unmade, or a working a teacher just
-  showed you): about a week × its level, plain ink, **no gp**. No roll. **This destroys
-  the written source** you copied from (page, exemplar, or scroll). A living teacher is
-  not destroyed. You need a personal book first (starters get one; latecomers buy a blank
-  at **25 gp**). **Slot note:** your personal book is still **1 slot** (physical or
-  Sorcerie) no matter how many spells it holds.
-- **Copies within your library** — a spare of a book you already own: **25 gp × level**
-  and a day × level; your first book is not destroyed.
-- **Lost book (no source).** Rewrite what you already knew: **1,000 gp × level** and one
-  week × level per spell — same rate as paid tutoring, sole focus (OSE lost-book rewrite).
+**Crib notation** is compressed — often a private cipher. A **personal spellbook** is
+written this way. It holds every spell you have scribed. It is enough for **you** to
+redraw what you already know. It is not enough for anyone else to learn a spell from
+scratch.
+
+**True notation** is the complete working: a large work, **one spell**. Diagrams,
+constraints, the names, the grammar laid out. This is what you find — a **tome**, runes
+cut into an arch, a working filling the back of a map (the map is on the back of the
+spell). This is what you learn from.
+
+| Writing | Notation | Learn a new spell? |
+| --- | --- | --- |
+| **Personal spellbook** | Crib — many spells, yours | No. Only you can redraw from it. If you die, it teaches no one. |
+| **Another mage's personal spellbook** | Crib — their notes | No. *Read Magic* may name what they knew — intel, not a lesson. |
+| **Scroll** | Primed to cast once | Yes — unmake it into your book (time only; the scroll is destroyed). Or cast it and it is gone. |
+| **True writing** | True — one complete working | Yes. This is how you find a new spell. |
+
+**True writing.** One spell, complete. Bound as a **tome**, cut into stone, or filling a
+sheet that happens to have a map on the other side — same thing. Not primed (that is a
+scroll). Not crib notes (that is a personal spellbook). While a true writing whose hand
+you can read is **in reach** (you carry it, or you stand at the arch), you may treat that
+working as **known** for redraw and swap. Leave it and the working leaves your ready
+library until you recover it or scribe it into your personal spellbook. A portable true
+writing is **1 slot** (physical or Sorcerie), or rides on an object you already carry. A
+**tome** is still **1 slot** — large as a work, one item in the pack. Each true writing is
+one spell; three finds are three slots until you crib them.
+
+**Personal spellbook** — **1 slot**, physical or Sorcerie (fills the slot; not Arcana; no
+Initiative die). Crib notation. Only you. Left in camp, your deck is out of reach: no
+redraws, no swaps until you are reunited. Margins hold **Facts** (scraps, runes, puzzles)
+— free in plain ink; another reader might still use those as mundane intel. The workings
+themselves are private cipher. Starters get one; latecomers buy a blank at **25 gp**.
+
+**Moving a spell into your personal spellbook.** Copy it from a true writing you can
+already read, a scroll unmade, or a working a teacher just showed you: about a week × its
+level, plain ink, **no gp**. No roll. Scribing writes **crib notation**. It does not
+produce a second true writing, and it does **not** unmake the true work — the find stays
+a party lesson until it is lost, sold, or destroyed in the fiction. A scroll unmade is
+destroyed. A living teacher is not. You need a personal spellbook first. **Slot note:**
+your personal spellbook is still **1 slot** no matter how many spells it holds.
+
+**Copies within your library** — a spare of **your** personal spellbook: **25 gp × level**
+and a day × level; the first is not destroyed. The spare is still yours, still crib
+notation, still not a lesson.
+
+**Lost personal spellbook (no source).** Rewrite what **you** already knew: **1,000 gp ×
+level** and one week × level per spell — same rate as paid tutoring, sole focus (OSE
+lost-book rewrite). Another mage's personal spellbook does not count as knowing.
 
 | Item | Slots | Cost (gp) |
 | --- | --- | --- |
-| Spellbook, blank (physical or Sorcerie) | 1 | 25 |
+| Personal spellbook, blank (physical or Sorcerie) | 1 | 25 |
+| Tome (found; one spell) | 1 | — |
 | Scroll case | 1 | 5 |
-| Move a spell into your personal book (from a source) | — | 0 (time only) |
+| Move a spell into your personal spellbook | — | 0 (time only) |
 | Ask a teacher to teach you something | — | 1,000 × level |
-| Lost book — rewrite one known spell | — | 1,000 × level |
+| Lost personal spellbook — rewrite one known spell | — | 1,000 × level |
 | Reagent inks (copy within your library) | — | 25 × level |
 | Make a scroll | 1 | 100 × level |
 | Brew a potion | 1 | 100 × level |
 
 ## Learning Spells
 
-***Read Magic* is not how you learn a spell.** Learning is school hand + source or teacher.
+***Read Magic* is not how you learn a spell.** Learning is school hand + **true notation**
+or a teacher. Crib notation — yours or anyone else's — is not a lesson.
 
 - **Common Sorcerie** needs no Trait — any Sorcerer can read and learn from common-Sorcerie
-  books and teachers. Plain sigils; the grammar of the craft.
+  true writings and teachers. Plain sigils; the grammar of the craft.
 - **A people-school** needs its **Trait**. Hold *Vitae*, *Umbrakala*, and so on, and that
-  tradition's books are open: you see the workings, memorize, and scribe. The Trait is
-  enough — you do not cast *Read Magic* to study your own school's grimoires.
-- **Found books.** Loot a spare grimoire, take Sorcerie 1 if you lack it, **buy a blank
-  personal book** if you have none, carry the find, redraw, then scribe what you keep for
-  free (time only). That is the usual road for someone who was not apprenticed at creation
-  — costlier than starting as a Sorcerer because the apprentice kit is gone. Referees:
-  when a foe casts from a tradition (or keeps a library), **stock a grimoire on purpose** —
-  **1–3 named 1st-level spells**, school labeled (or common Sorcerie). See [[Burners
-  Referee Guide]].
+  tradition's true writings are open: you see the working, memorize, and scribe. The Trait
+  is enough — you do not cast *Read Magic* to study your own school's true notation.
+- **Found true writings.** Loot one complete working, take Sorcerie 1 if you lack it,
+  **buy a blank personal spellbook** if you have none, study the find, redraw, then scribe
+  what you keep for free (time only). That is the usual road for someone who was not
+  apprenticed at creation — costlier than starting as a Sorcerer because the apprentice
+  kit is gone. A companion's personal spellbook, or a dead friend's, is not this find.
+  Referees: when a foe casts from a tradition (or keeps a library), **stock true writings
+  on purpose** — each one **named**, **one spell**, school labeled (or common Sorcerie).
+  One to three finds is plenty. See [[Burners Referee Guide]].
 - **Ask a teacher to teach you something** — a standard town buy when a willing tutor
   exists. **1,000 gp × the spell's level**, about a week. **You do not pick the working** —
   the teacher (Referee) chooses what they teach, within a school hand you can learn. Then
-  scribe it into your personal book (time only; teacher not destroyed). Want a *named*
-  spell? Hunt a book or scroll. Want any foothold fast? Pay and take what they give you.
+  scribe it into your personal spellbook (time only; teacher not destroyed). Want a
+  *named* spell? Hunt a true writing or a scroll. Want any foothold fast? Pay and take
+  what they give you.
 - **Favor / quest teachers.** A hedge-wizard who owes you, or teaching as the price of a
   bargain, is fiction — no shop rate. Still: they choose what they show, unless the deal
   names a working.
@@ -504,11 +546,13 @@ learn. See its entry on [[Burners Spells]].
 relic does — **Facts** on the piece (Step-2 risk when you probe deep). That is why
 apprentices keep it in the starting five.
 
-**Spellbooks and scrolls** are a lesser use. If you already hold the school's Trait (or the
-book is common Sorcerie), you read that grimoire without this spell. Use *Read Magic* on a
-book only when the hand is foreign to you — to **identify** what workings it holds before
-you hunt the Trait, a teacher, or leave it. Same for a scroll: know what it is before you
-burn it.
+**True writings and scrolls** are a lesser use. If you already hold the school's Trait (or
+the working is common Sorcerie), you read that true notation without this spell. Use *Read
+Magic* on a true writing only when the hand is foreign to you — to **identify** the one
+working it holds before you hunt the Trait, a teacher, or leave it. Same for a scroll:
+know what it is before you burn it. On a **personal spellbook**, the same card may **name**
+the workings the owner knew — intel, not a lesson. You still cannot learn those spells
+from the notes.
 
 Once you have identified a given hand of writing, you can recognize that script again for
 identification — that is not school literacy for learning (see *Learning Spells*).
@@ -523,8 +567,8 @@ misleads or trips the power wrongly.
 
 Track each magical item as two short lists, filled in as study and play reveal them:
 **Facts** (established truths) and **Questions** (open threads). A Fact scribbled in your
-book is free to record; to *work* a spell you still need a source you can learn from, or to
-move it into your book.
+personal spellbook is free to record; it is not a working. To learn a spell you still need
+true notation or a teacher.
 
 ## Canting: Kicks and Jarks
 
@@ -533,9 +577,9 @@ would never say *Sorcerie*.
 
 - Those declared slots are **kicks** — secret pockets sewn where honest folk carry rope.
   *"How many kicks you running tonight?"*
-- The spellbook is the **reader** — the pocketbook of the trade, written in flash paper
-  and brotherhood marks. It may ride in a **kick or a physical** slot, same as any
-  grimoire.
+- The **reader** is the pocketbook of the trade, written in flash paper and brotherhood
+  marks. Same rule as a sorcerer's personal spellbook: **crib notation**, not a lesson.
+  A dead rogue's reader teaches no one. It may ride in a **kick or a physical** slot.
 - A scroll is a **jark** — a counterfeit seal, primed and single-use, spent when flashed.
 
 All the card rules apply: **Craft** is caster level in place of Sorcerie; hand size is

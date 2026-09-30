@@ -98,8 +98,8 @@ Strongly associated with military units; most need training in a military order.
 - **Mace** `[Class3 Slots2 Short Crushy]` — flanged/beaked/spiked club for crushing armored foes; needs swinging room. Includes short war hammer, horseman's hammer, morningstar.
 - **Horseman's Ax** `[Class3 Slots2 Short Breaching Hooking Crushy]` — medium ax with a rear spike for penetrating armor.
 - **Spear** `[Class3 Slots3 2H Medium Far1 Piercing Primitive]` — short thrusting/throwing spear, ~5–6 ft.
-- **Long Spear** `[Class3 Slots3 2H Medium Long Defensive Piercing]` — long thrusting/cutting spear or glaive, ~8–10 ft.
-- **Pike** `[Class3 Slots3 2H Long Piercing]` — extremely long spear (~15–20 ft) for mass infantry; ineffective in individual combat except a duel (range listed "Long").
+- **Long Spear** `[Class3 Slots4 2H Medium Long Defensive Piercing]` — long thrusting/cutting spear or glaive, ~8–10 ft.
+- **Pike** `[Class3 Slots5 2H Long Piercing]` — extremely long spear (~15–20 ft) for mass infantry; ineffective in individual combat except a duel (range listed "Long").
 - **Battle Ax** `[Class4 Slots4 2H Medium Breaching Hooking]` — heavy two-handed war axe, handle shorter than a polearm.
 - **Mangual Flail** `[Class4 Slots4 2H Medium Long Hooking Control]` — large multi-headed military flail. Use the high (Head) guard to avoid hitting yourself.
 - **Pick** `[Class4 Slots4 2H Medium Hooking Piercing]` — large footman's pick; arced head can strike over shields.
@@ -316,9 +316,9 @@ Some Baal-Mot, Drisi, and Black Wizards tap the vast power of dead dragons — b
 
 ### Arcana (Sorcerie slots)
 
-Sorcerers hold these in **Sorcerie slots** as Arcana (see [[Burners Sorcerie]]) — staff, wand, rod, orb, crystal, ring, amulet, mask, robes, hat. Spellbooks and scrolls may ride **physical or Sorcerie**; in a Sorcerie slot they fill it but throw no Initiative die.
+Sorcerers hold these in **Sorcerie slots** as Arcana (see [[Burners Sorcerie]]) — staff, wand, rod, orb, crystal, ring, amulet, mask, robes, hat. Personal spellbooks, true writings, and scrolls may ride **physical or Sorcerie**; in a Sorcerie slot they fill it but throw no Initiative die.
 
-- **Book of Shadows** — a grimoire of Umbracala shadow-magic spells.
+- **Book of Shadows** — a tome of one Umbrakala shadow-working.
 - **Diadem of the Third Eye** — a pendant suspended above your brow, in the position of your third eye, usually a jewel or precious stone.
 - **Eye of Horus** — one of your palms tattooed with magical patterns resembling a third eye.
 - **Hamsa** — an ornate amulet depicting the "hand of the goddess" with the third eye; worn on a chain or pin.

@@ -45,10 +45,18 @@ Anyone they slew may look only dead — a friend, a hireling, a Boss's sworn han
 
 ## Touch of the Fallen
 
-Damage inflicted by undead does not come back with normal rest. For example, 3 HP lost will not return when resting, and a 3-point Wound will not heal with sleep. The only options are magical healing, purifying with holy water, or purging it with fire.
+You are **touched** when any part of an undead blow is left after you Defend with Fuel, even if your armor soaks the rest. Armor does not keep out the grave-cold. Cut the whole blow with Fuel and you were not touched.
 
-You can purify damage from undead with holy water. Each flask of holy water can purify 1d6 HP of damage.
+Hit points lost to undead are Tainted and do not come back with normal rest. For example, a hit from a *wight* might inflict 6 HP, and if the character has 3 armor they will take 3 Tainted HP and will not return when resting or even sleeping.
 
-You can purge damage from undead with fire. This expends one incendiary, and you gain a Wound equal to the total hit points of damage you are purging. For example, 5 HP lost to undead, purged creates a 5-point burn Wound.
+You can purge Tainted HP from undead with fire. This expends one incendiary, and you gain a Wound equal to the total hit points of damage you are purging. For example, 5 HP lost to undead, purged creates a 5-point burn Wound.
 
-At midnight, any Wound inflicted by undead worsens by 1d6 plus the undead HD (skeleton 1d6+1, zombie 1d6+2, wight 1d6+3, etc.). Immediately make a Survival Check.
+You can purify Tainted HP from undead with holy water. Each flask of holy water can purify 1d6 HP of damage.
+
+Wounds are more dire. At midnight, any character with one or more Wounds inflicted by undead loses additional HP of 1d6.
+
+### Level Drain > Trait Drain
+
+Level Drain is a classic ability of some kinds of powerful undead. In Burners, this ability is replaced by "Trait Drain". Rather than losing an experience level, the character loses a Trait each time they are touched. (The Referee will choose or roll or defer to the player.) A Signature on a drained Trait goes dark until the Trait is regained. A character drained of all Traits is slain and will rise as undead of the kind that drained them.
+
+The character may regain the Trait in play, but it costs that session's one Trait gain (see *Gaining Traits* in [[Burners Adventure Game]]). A session spent winning back a drained Trait is a session not spent reaching the next level.

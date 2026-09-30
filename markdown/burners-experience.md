@@ -11,7 +11,7 @@ hero_alt: "A knight returns laden — crossbow, sword, and loot — Albert Robid
 
 XP for treasure claimed and monsters overcome. The Referee keeps the totals.
 
-**Level up** when your XP hits the next line on the table, the next time you wake after sleeping somewhere safe (town, inn, watched camp). Put one level in one Approach. Reroll HP (one d6 per character level) and keep the higher of the new total or old+1. See *Approach Level* and *HP* in [[Burners Adventure Game]].
+**Level up** when your XP hits the next line on the table and you have gained the four Traits for that level, the next time you wake after sleeping somewhere safe (town, inn, watched camp). You gain at most one Trait per game session, in play, so XP alone does not level you. Put the level in the Approach those four Traits sit under (see *Gaining Traits* in [[Burners Adventure Game]]). Reroll HP (one d6 per character level) and keep the higher of the new total or old+1. See *Approach Level* and *HP* in [[Burners Adventure Game]].
 
 Claiming the haul pays the XP. Coin in your purse is for spending — kit, drink, retainers. That is its own reward.
 

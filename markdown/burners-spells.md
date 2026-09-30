@@ -664,10 +664,11 @@ magical writing; that is *Read Magic*.
 
 Sorcerie 1: Learn what **magic items** do — probe a ring, blade, wand, or relic for
 **Facts** (Step-2 risk when you go deep; see *Reading Magic* on [[Burners Sorcerie]]).
-That is the spell's main use. On **scrolls** and **foreign spellbooks**, it **identifies**
-what workings they hold before you risk them. If you already hold the school's Trait (or
-the book is common Sorcerie), you read that grimoire without this card — see *Learning
-Spells*. ***Read Magic* does not teach spells.**
+That is the spell's main use. On **scrolls** and **foreign true writings**, it **identifies**
+the one working they hold before you risk them. If you already hold the school's Trait (or
+the working is common Sorcerie), you read that true notation without this card — see
+*Learning Spells*. On a **personal spellbook**, it may name the workings the owner knew —
+intel, not a lesson. ***Read Magic* does not teach spells.**
 
 #### Stanch
 

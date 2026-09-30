@@ -164,7 +164,7 @@ Food and basic kit in the rate; wages double in wartime. Morale is their own sco
 Refer to [[Burners Sorcerie]] for sorcerer gear: **Arcana** in Sorcerie slots (allow-list
 at full slot cost — those throw Initiative), **books and scrolls** (physical or Sorcerie;
 fill the slot, no Initiative die), and **potions** (physical only). Spells live in the
-**hand** and spellbook, not in the focus.
+**hand** and personal spellbook, not in the focus.
 
 Costume Arcana (mundane grade) is **100 gp apiece** in town; a starting Sorcerer gets one
 free. Enchanted Arcana and arms you find or earn. Scrolls and potions you make yourself.
@@ -185,7 +185,7 @@ Want something not on these tables? You can use classic old school roleplaying g
 - **Provisions:** 1 gp per meal for the group.
 - **Ranged weapons** and **silver** (and other special materials) add a surcharge when you invent a new piece.
 - **Field and full plate** are not slot-formula items — see *Armor*.
-- **Arcana** (costume): **100 gp apiece** in town; enchanted Arcana is found or earned — see [[Burners Sorcerie]]. Scrolls and potions are crafted at **100 gp × level**. **Ask a teacher to teach you something:** **1,000 gp × spell level** (teacher chooses the working) — see *Learning Spells* on [[Burners Sorcerie]]. Blank personal spellbook: **25 gp**.
+- **Arcana** (costume): **100 gp apiece** in town; enchanted Arcana is found or earned — see [[Burners Sorcerie]]. Scrolls and potions are crafted at **100 gp × level**. **Ask a teacher to teach you something:** **1,000 gp × spell level** (teacher chooses the working) — see *Learning Spells* on [[Burners Sorcerie]]. Blank **personal spellbook**: **25 gp**.
 
 **Quality — added on top of the base (or on a listed price):**
 

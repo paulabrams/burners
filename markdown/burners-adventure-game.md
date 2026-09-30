@@ -71,11 +71,11 @@ Your character's Theme and Traits can help back up your plan.
 
 - **Approach level:** you start with one Approach at level 1. Approach level adds to Approach rolls and sets how many Traits you may hold under that Approach (four per Approach level).
 
-- **Trait:** a skill or quality under one Approach (*lockpicking*, *steady under fire*, *arming sword*). You may only take Traits for Approaches you have levels in, and only from that Approach's list (arms and armor are Sword, non-combat practical skills are Craft, magic schools are Sorcerie, people-skills are Heart, etc.). Some Traits are trained-only: without them you cannot attempt the action or use the kit (a magic school, plate armor, greatsword or longbow, etc.).
+- **Trait:** a skill or quality under one Approach (*lockpicking*, *steady under fire*, *arming sword*). You gain at most one Trait per game session, in play (see *Gaining Traits*). You may only take Traits for Approaches you have levels in (or the one your next level will raise), and only from that Approach's list (arms and armor are Sword, non-combat practical skills are Craft, magic schools are Sorcerie, people-skills are Heart, etc.). Some Traits are trained-only: without them you cannot attempt the action or use the kit (a magic school, plate armor, greatsword or longbow, etc.).
 
 - **Signature:** an asterisk on a Trait. A knack that showed up at your table: a named item, a **named companion**, an instinct, a holdout.
 
-- **Character level:** you start at character level 1 with 1d6 HP. Earn XP to reach the next level (see [[Burners Experience]]). When you gain a character level, raise one Approach by one, take up to four Traits under it, and reroll your HP. If you survive to reach 4th level, your character will have 4 Approach levels, either in a single Approach (Sword 4 or Sorcerie 4) or multiple (Sword 1 and Sorcerie 3).
+- **Character level:** you start at character level 1 with 1d6 HP. Earn XP and gain four new Traits to reach the next level (see [[Burners Experience]]). When you gain a character level, raise the Approach those four Traits sit under by one, and reroll your HP. If you survive to reach 4th level, your character will have 4 Approach levels, either in a single Approach (Sword 4 or Sorcerie 4) or multiple (Sword 1 and Sorcerie 3).
 
 ### Equipment
 
@@ -156,7 +156,7 @@ Your character's Theme and Traits can help back up your plan.
 ## Character Creation
 
 1. You are character level 1. Place that level in one Approach: Sword, Craft, Heart, or Sorcerie.
-2. Take up to four Traits under the Approach you just chose. You need not fill all four now; backfill the rest in play.
+2. Take up to four Traits under the Approach you just chose. You need not fill all four now; fill the rest in play, one per session (see *Gaining Traits*).
 3. Roll 1d6 for your HP.
 4. Give your character a name or alias and a short "look" so the table gets to know them.
 5. Take your starting kit, then spend your purse in town.
@@ -167,7 +167,11 @@ To pick a people to come from (Northmaren, Southmaren, Elf, Alu, Kith, and the r
 
 ### Traits
 
-On your sheet, a Trait is a skill or a quality: arming sword, herbalism, strong, perceptive, raised in the fens. **Up to four Traits per Approach level**, under that Approach only. Sword 2 → up to eight Sword Traits. Sword 1 and Sorcerie 1 → up to four Sword and four Sorcerie — not eight in one Approach. A Trait does not raise the Approach; your level does. You need not claim every slot at once. A delayed Trait costs nothing, so you can fill one in whenever play hands you the name. Traits come free with your Approach levels. You never buy them with XP.
+On your sheet, a Trait is a skill or a quality: arming sword, herbalism, strong, perceptive, raised in the fens. **Up to four Traits per Approach level**, under that Approach only. Sword 2 → up to eight Sword Traits. Sword 1 and Sorcerie 1 → up to four Sword and four Sorcerie — not eight in one Approach. A Trait does not raise the Approach; your level does. You never buy Traits with XP.
+
+**Gaining Traits.** You gain at most one Trait per game session, and only when it happens in play: you did the thing, learned it, or earned it at the table. Empty slots from creation fill this way. So do the four Traits for your next level, which you may gain ahead of that level. They go under the Approach that level will raise, so name that Approach when you gain the first of them. You are eligible to level up when you have both the XP and those four Traits (see [[Burners Experience]]).
+
+**Training.** Some Traits need a teacher. When play gives you no way to learn a thing (a new magic school, plate harness, a tongue nobody around you speaks), find an expert and pay them in coin, or in a task or favor they name. The Referee says which Traits need training.
 
 **Traits by Approach — locked.** Each Trait belongs to one Approach. Write it under that Approach and nowhere else — you cannot spend another Approach's Trait slots on it. Martial arms and armor are Sword (see *Arms and Armor*); languages are Heart; magic schools are Sorcerie. *Peasant weapons* (tools and hunting implements) are Craft. The lists below are the homes — not samples you may rehome.
 
@@ -213,7 +217,7 @@ Other languages will be unfamilar to you unless you have a Trait; they are train
 
 ### Magic Schools (Sorcerie)
 
-Magic schools are Sorcerie Traits, and trained-only. Hold the Trait and the school is open; without it you cannot read or cast that tradition. Spells inside an open school are still learned from books. The eight schools:
+Magic schools are Sorcerie Traits, and trained-only. Hold the Trait and the school is open; without it you cannot read or cast that tradition. Spells inside an open school are still learned from **true writings**. The eight schools:
 
 - **Sorcerie** — the common craft (raw grammar of magic). No Trait needed; being a Sorcerer is enough.
 - **Vitae** — life, growth, harmony (Elves).
@@ -232,7 +236,7 @@ Your backpack takes 3 slots and contains: bedroll, waterskin, fifty feet of rope
 
 Your Approach also brings starting gold and its own kit or standing — see below. Spend what you keep in town from the tables further down; everything you carry ready takes an item slot.
 
-**Starting kits are for new characters only.** The Veteran purse, Boss loyal retainer, Journeyman free tool, Sorcerer spellbook and Arcana — those are creation. When you later put a level into a different Approach, you gain the Approach and its title, not that Approach's starting gold or free kit. A Veteran who becomes a Boss does not wake a loyal retainer. A Boss who takes Sorcerie 1 does not get a free book, Arcana, or starting spells — see *New Sorcerer in play* on [[Burners Sorcerie]]: **buy a blank spellbook (25 gp)**; costume Arcana 100 gp each if wanted; spells are not for sale as a catalog. Learn from found grimoires (scribe free, time only) or **ask a teacher to teach you something** (**1,000 gp × level** — the teacher chooses the working). Waiting costs more than starting as a Sorcerer because you miss the apprentice kit. Re-split slots on rest when the new Approach needs it (Muster, Sorcerie slots).
+**Starting kits are for new characters only.** The Veteran purse, Boss loyal retainer, Journeyman free tool, Sorcerer personal spellbook and Arcana — those are creation. When you later put a level into a different Approach, you gain the Approach and its title, not that Approach's starting gold or free kit. A Veteran who becomes a Boss does not wake a loyal retainer. A Boss who takes Sorcerie 1 does not get a free personal spellbook, Arcana, or starting spells — see *New Sorcerer in play* on [[Burners Sorcerie]]: **buy a blank personal spellbook (25 gp)**; costume Arcana 100 gp each if wanted; spells are not for sale as a catalog. Learn from **true writings** (scribe free, time only) or **ask a teacher to teach you something** (**1,000 gp × level** — the teacher chooses the working). A personal spellbook is crib notation for that sorcerer, not a party lesson. Waiting costs more than starting as a Sorcerer because you miss the apprentice kit. Re-split slots on rest when the new Approach needs it (Muster, Sorcerie slots).
 
 ### The Starting Veteran
 
@@ -307,16 +311,16 @@ A Sorcerer's craft comes with a kit (the fruit of your apprenticeship). That is 
 
 - 7 physical slots + 5 Sorcerie slots — declare the split at creation; you may not re-split until your first 8-hour sleep. Sorcerie slots set your hand size (5). They hold **Arcana** (staff, wand, rod, orb, crystal, ring, amulet, mask, robes, hat) at each item's full slot cost — those throw Initiative. **Books and scrolls** may ride physical or Sorcerie; they fill the slot, no Initiative die. Never armor, shields, or war kit. See *Sorcerie Slots* on [[Burners Sorcerie]].
 - One free Arcana — costume of the craft; pick one from the allow-list. Mundane grade; enchanted Arcana is still a find. Empty Sorcerie slots throw no Initiative dice.
-- A spellbook in a scrivener's satchel (book, ink pot, quill, loose-leaf paper): *Read Magic* plus four other 1st-level spells from your school, all known — apprenticeship already taught them (*Read Magic* is useful loot literacy, not the key to the other four). The Referee picks them, rolls them, lets you choose, or works with you. The book is kit (not the free costume pick); it may sit in a Sorcerie slot or physical. Plain ink records Facts free; moving further spells into the book later costs time, not gold per spell (see *Spellbooks* on [[Burners Sorcerie]]).
+- A **personal spellbook** in a scrivener's satchel (book, ink pot, quill, loose-leaf paper): *Read Magic* plus four other 1st-level spells from your school, all known — apprenticeship already taught them (*Read Magic* is useful loot literacy, not the key to the other four). The Referee picks them, rolls them, lets you choose, or works with you. The book is kit (not the free costume pick); it may sit in a Sorcerie slot or physical. It is **crib notation** for **you**, not a lesson anyone else can learn from. Plain ink records Facts free; moving further spells into the book later costs time, not gold per spell (see *Spellbooks* on [[Burners Sorcerie]]).
 - Your hand is all five known spells — ready to cast. Count them on your fingers.
 
 A sample buy, 23 gp of your forty:
 
 Sorcerie slots (5):
 
-- Spellbook (kit) — 1 slot
+- Personal spellbook (kit) — 1 slot
 - Wand (free Arcana) — 1 slot
-- Empty Sorcerie slots — 3 (hand size still 5; empty slots and the book throw no Initiative dice)
+- Empty Sorcerie slots — 3 (hand size still 5; empty slots and the personal spellbook throw no Initiative dice)
 
 Physical (7):
 
@@ -325,9 +329,9 @@ Physical (7):
 - Dagger — 1 slot, 3 gp
 - Empty — 1 slot
 
-Initiative: wand Arcana throws 1, one empty physical throws 1, level throws 1 — a pool of 3. The dagger on the belt throws nothing until it is in hand. The book in a Sorcerie slot throws nothing. The magic is already yours.
+Initiative: wand Arcana throws 1, one empty physical throws 1, level throws 1 — a pool of 3. The dagger on the belt throws nothing until it is in hand. The personal spellbook in a Sorcerie slot throws nothing. The magic is already yours.
 
-Two of your school's six 1st-level spells are not in your book. Those, deeper spells, other schools, and more Arcana are your hunt. Extra costume Arcana runs 100 gp apiece in town; enchanted Arcana stays a find. Found grimoires you can read let you memorize while you carry them; scribing into your personal book costs **time** (and destroys the source page), not 100 gp per spell. *Read Magic* identifies loot — it is not required to learn. See [[Burners Sorcerie]].
+Two of your school's six 1st-level spells are not in your personal spellbook. Those, deeper spells, other schools, and more Arcana are your hunt. Extra costume Arcana runs 100 gp apiece in town; enchanted Arcana stays a find. Found **true writings** you can read let you memorize that one working while they are in reach; scribing into your personal spellbook costs **time**, not 100 gp per spell — the true work remains. The personal spellbook is not a party resource — if you die, it does not teach the next mage. *Read Magic* identifies loot — it is not required to learn. See [[Burners Sorcerie]].
 
 Canting rogues use the same split for kicks — see *The Starting Journeyman*.
 
@@ -383,7 +387,7 @@ Awards, claimed treasure, present-only shares, Eldar track, and who tracks what:
 
 ### Approach Level
 
-Your character level is bought with XP from the table on [[Burners Experience]] (Eldar use the Eldar column). When you gain a level, pick one Approach and raise it by one. You do not move points already set. At 4th level you might be Sword 3 and Sorcerie 1, or Sword 2 with Craft 1 and Heart 1, however your play has shaped you.
+Your character level is bought with XP from the table on [[Burners Experience]] (Eldar use the Eldar column). When you gain a level, raise the Approach your four new Traits sit under by one (see *Gaining Traits*). You do not move points already set. At 4th level you might be Sword 3 and Sorcerie 1, or Sword 2 with Craft 1 and Heart 1, however your play has shaped you.
 
 Your roll is 2d6 plus your Approach level. With no level in that Approach you are Approach 0: you still roll 2d6, just without a bonus. That missing bonus is the whole disadvantage. You can still attempt things at Approach 0, but that Approach's trained advantages stay locked until you reach level 1. One point is the line between a townsman and a practitioner.
 
@@ -449,7 +453,7 @@ See *Traits* under Character Creation.
 
   - Hand: *Read Magic*, *Healing Touch*, *Stanch*, and two other 1sts from her book — all five ready. *Stanch* is the card that helps at 0 HP or less; *Healing Touch* does not.
 
-  - Split: 5 Sorcerie slots (hand size 5), 7 physical — spellbook + one free Arcana (wand) in Sorcerie slots; the rest plain kit.
+  - Split: 5 Sorcerie slots (hand size 5), 7 physical — personal spellbook + one free Arcana (wand) in Sorcerie slots; the rest plain kit.
 
 - **Pip**, Craft 1 (Journeyman). "Has never been caught. Not once."
 

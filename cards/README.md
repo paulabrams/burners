@@ -18,8 +18,8 @@ Burners already treats spells as cards (`markdown/burners-sorcerie.md`):
 | **In play** | Lasting effect still running |
 | **Burned** | Face-down / exile — fuel for recast or copy; still fills hand size |
 
-Known spells live in the **spellbook** (deck). **Hand size** = Sorcerie slot count.
-You may know more spells than you can hold ready.
+Known spells live in the **personal spellbook** (deck) — crib notation, not a lesson.
+**Hand size** = Sorcerie slot count. You may know more spells than you can hold ready.
 
 ## Files here
 

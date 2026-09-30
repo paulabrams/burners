@@ -9,9 +9,12 @@ module Burners
 
     PAGE_SLUGS = {
       'Burners Adventure Game' => 'burners-adventure-game',
+      'Burners FAQ' => 'burners-faq',
       'Burners Principles' => 'burners-principles',
       'Burners Referee Guide' => 'burners-referee-guide',
+      'Burners Experience' => 'burners-experience',
       'Burners Sorcerie' => 'burners-sorcerie',
+      'Burners Spells' => 'burners-spells',
       'Burners Invocations' => 'burners-invocations',
       'Burners Muster' => 'burners-muster',
       'Burners Company' => 'burners-muster',

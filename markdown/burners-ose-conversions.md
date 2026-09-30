@@ -106,7 +106,7 @@ Preferred Referee play is **scene Heat + free quoted attacks** — no free monst
 
 **Multi-attack routines** (claw/claw/bite): the Referee sets how many **quotes** the creature throws (a wolf bites once, a bear claws twice, a hydra strikes per head), each defended separately. Spread them across several characters, or land them all on one.
 
-**Spellcasting monsters:** convert their list through the Spells section, or skip the list and quote each casting as a blow or a telegraph. A dragon does not need a spellbook; it needs a Breath telegraph and two good tricks. Wizard-type foes and libraries: leave a grimoire with **1–3 named 1sts**, school labeled — see *Enemy spellbooks* on [[Burners Referee Guide]].
+**Spellcasting monsters:** convert their list through the Spells section, or skip the list and quote each casting as a blow or a telegraph. A dragon does not need a spellbook; it needs a Breath telegraph and two good tricks. Wizard-type foes and libraries: leave **true writings** — each **one named 1st**, school labeled — see *Enemy true writings* on [[Burners Referee Guide]].
 
 ### The Defend Router
 

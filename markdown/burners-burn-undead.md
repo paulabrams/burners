@@ -53,10 +53,15 @@ You can purge Tainted HP from undead with fire. This expends one incendiary, and
 
 You can purify Tainted HP from undead with holy water. Each flask of holy water can purify 1d6 HP of damage.
 
-Wounds are more dire. At midnight, any character with one or more Wounds inflicted by undead loses additional HP of 1d6.
+Healing magic and potions do not restore Tainted HP. *Healing Touch*, *Stanch*, and their like heal only clean HP. Two workings reach the Taint:
+
+- *Sun Beam* (Vitae 3) burns it out the way fire does, with no incendiary spent. Anyone standing in the daylight may purge all their Tainted HP, and takes a burn Wound equal to the HP purged.
+- *Cure Disease* (Vitae 5) purifies all Tainted HP in the creature touched, with no Wound. Undead Taint is a magical affliction, so the caster rolls Sorcerie against the Referee's Risk.
+
+Tainted Wounds are more dire. At midnight, any character with one or more Wounds inflicted by undead loses an additional 1d6 HP.
 
 ### Level Drain > Trait Drain
 
-Level Drain is a classic ability of some kinds of powerful undead. In Burners, this ability is replaced by "Trait Drain". Rather than losing an experience level, the character loses a Trait each time they are touched. (The Referee will choose or roll or defer to the player.) A Signature on a drained Trait goes dark until the Trait is regained. A character drained of all Traits is slain and will rise as undead of the kind that drained them.
+Level Drain is a classic ability of some kinds of powerful undead. In Burners, this ability is replaced by "Trait Drain". Rather than losing an experience level, the character loses a Trait each time they are touched. (The Referee will choose or roll or defer to the player.) A Signature on a drained Trait goes dark until the Trait is regained. A character drained of all Traits is slain and will rise as undead of the kind that drained them (usually under their control).
 
 The character may regain the Trait in play, but it costs that session's one Trait gain (see *Gaining Traits* in [[Burners Adventure Game]]). A session spent winning back a drained Trait is a session not spent reaching the next level.

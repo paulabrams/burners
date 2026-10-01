@@ -90,6 +90,11 @@ shield. Second free die on a mundane shield (Initiative already pays).
 
 ## Open
 
+Shields and Cover: [[burners-shield-return]] proposes replacing the raised-shield
+Defend 3 with Cover refills, and shields as Cover that refill only on their
+slot face. It also answers the enchanted-shield item below (refills on slots or
+6s).
+
 Enchanted shield, if not the Block free die: extra Initiative die + powers
 only, or some other gift. Mundane board is Fuel + Defend 3; magic needs a
 tactical option on top.

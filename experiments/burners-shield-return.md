@@ -12,20 +12,21 @@ makes a big smash smaller. #needs-playtest
 
 ## The rules
 
-**Cover.** Cover does not add dice. When you Defend from Cover, one non-6 Fuel
-die you spend refills: it cuts the blow at its spent face, then you roll a fresh
-die into your pool. One refill per Defend. Full cover and you cannot be targeted.
+**Cover.** Cover does not add dice. When you Defend from Cover and spend Fuel,
+one spent die refills: it cuts the blow at its spent face, then you roll a fresh
+die into your pool. One refill per Defend, and no 6 may refill. Full cover means
+you cannot be targeted.
 
-**Shield.** A shield is Cover you carry. For a shield refill, the spent die must
-show the shield's slots: buckler 2, heater 3, rotella / kite 4, tower 5. An
-**enchanted shield** may refill on its slots or a 6.
+**Shield.** A shield is Cover you carry, but its refill is narrower: one spent
+Fuel die refills only if its face matches your shield slots: buckler 2, heater 3,
+rotella / kite 4, tower 5. An **enchanted shield** may also refill a 1.
 
 *Example: you Defend behind a heater and burn a 3. The 3 cuts the blow, then the
 shield refills one die into your pool.*
 
-- Using a creature as Cover: a 6 cannot refill, but it is **Hit the Cover**. The
-  shot hits them instead of you, as if it had been aimed at them from the start,
-  and they may not declare Cover to put it back on you.
+- Using a creature as Cover: if the refilled die was a 6, it is also **Hit the
+  Cover**. The shot hits them instead of you, as if it had been aimed at them
+  from the start, and they may not declare Cover to put it back on you.
 
 **Burning Fuel.** "No reroll" gains one exception: Cover refills. In the dirt you
 still re-roll everything you burn; Cover adds nothing there.

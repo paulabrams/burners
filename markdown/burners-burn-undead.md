@@ -62,6 +62,6 @@ Tainted Wounds are more dire. At midnight, any character with one or more Wounds
 
 ### Level Drain > Trait Drain
 
-Level Drain is a classic ability of some kinds of powerful undead. In Burners, this ability is replaced by "Trait Drain". Rather than losing an experience level, the character loses a Trait each time they are touched. (The Referee will choose or roll or defer to the player.) A Signature on a drained Trait goes dark until the Trait is regained. A character drained of all Traits is slain and will rise as undead of the kind that drained them (usually under their control).
+Level Drain is a classic ability of some kinds of powerful undead. In Burners, this ability is replaced by "Trait Drain". Rather than losing an experience level, the character loses a Trait each time they are touched. The Referee chooses which Trait, rolls for it, or lets the player pick. Drain takes only Traits you have filled, never a pending Trait slot (see *Gaining Traits* in [[Burners Adventure Game]]). A character drained of all Traits is slain and will rise as undead of the kind that drained them (usually under their control). Otherwise, a drained Trait can be earned again.
 
-The character may regain the Trait in play, but it costs that session's one Trait gain (see *Gaining Traits* in [[Burners Adventure Game]]). A session spent winning back a drained Trait is a session not spent reaching the next level.
+**Signatures.** Losing a Trait does not remove its Signature, but it may change how the Signature works. If your named sword is enchanted and you lose the Trait for that kind of sword (e.g. "longsword"), the sword keeps its name, but its enchantment is quiet until you earn the Trait back.

@@ -11,21 +11,23 @@ In the spirit of *The White Hack*, *The Black Hack*, and *The Black Sword Hack*,
 
 **Clocks.** OSE turns and rounds are Burners turns and rounds. Durations and light burn as written (torch 6 Turns / one hour-cycle, lantern 24 per flask; candles on [[Burners Equipment]]). Wandering monsters: [[Burners Referee Guide#Turn Tracker]] — always 1-in-6; roll on even turns and again when noise, dark, or wounds fire. OSE's plain check every other turn is the time signature. OSE's "rest one turn every hour or −1 to hit" is not used; Burners recovers HP with an [[Burners Adventure Game#Wounds|Hour Rest]] (a full quiet cycle, food and water, unwounded) instead.
 
-**Default (keep as written).** Morale (2–12 on 2d6); reaction (2d6 — add **Heart** if a Burner leads the parley); number appearing; Treasure Type and coin values; movement as relative speed. Treasure XP and shares: [[Burners Experience]] (claimed haul, magic 0 XP, monster parts not XP, Eldar column).
+**Default (keep as written).** Morale (2–12 on 2d6); reaction (2d6 — add **Heart** if a Burner leads the parley); number appearing; Treasure Type and coin values; movement as relative speed. Treasure XP and shares: [[Burners Experience]] (the deed rule, magic 0 XP, monster parts not XP, Eldar column).
 
 ---
 
 ## XP Awards
 
-Burners uses OSE monster numbers on its own level table (see [[Burners Experience]]). Port treasure types and coin values as written; award treasure XP when the haul is **claimed**. Shares and part-out: [[Burners Experience]]. Eldar use the double-XP column.
+Burners uses OSE monster numbers on its own level table (see [[Burners Experience]]). Port treasure types and coin values as written; award treasure XP at the **deed** that wrests it from the dungeon. Shares and part-out: [[Burners Experience]]. Eldar use the double-XP column.
 
 | Source                   | Award                                      |
 | ------------------------ | ------------------------------------------ |
 | **Monster overcome**     | Printed OSE XP, or HD chart below          |
-| **Coins, gems, jewelry** | 1 XP per 1 gp when claimed                 |
-| **Goods, art**           | 1 XP per 1 gp when claimed (Ref sets gp)   |
+| **Coins, gems, jewelry** | 1 XP per 1 gp, credited at the deed        |
+| **Goods, art**           | 1 XP per 1 gp, credited at the deed (Ref sets gp) |
 | **Magic items**          | 0 XP — the item is the reward              |
-| **Monster parts**        | gp or kit when claimed — 0 XP          |
+| **Weapons, armor, tools** | 0 XP — the kit is the reward              |
+| **Monster parts**        | gp or kit — 0 XP                           |
+| **Bounties**             | town coin — 0 XP                           |
 
 Level when you next sleep somewhere safe after your XP crosses a tier (see [[Burners Experience]]).
 
@@ -43,7 +45,7 @@ Level when you next sleep somewhere safe after your XP crosses a tier (see [[Bur
 
 For fractional or special HD, **prefer the monster's printed XP** or the full OSE [Awarding XP](http://oldschoolessentials.necroticgnome.com/srd/index.php/Awarding_XP) table (base + bonus per `*` ability). This short chart is a coarse shortcut — e.g. HD 3 reads **60** here, but an OSE [Wight](http://oldschoolessentials.necroticgnome.com/srd/index.php/Wight) (`3`*) is **50 XP**.
 
-**Converting a module hoard.** Roll or place treasure as OSE directs. Coins, gems, jewelry, goods, and art pay **1 XP per gp** when **claimed** — left behind grants nothing until claimed; the Referee sets each find's gp once (now or later). Magic items pay **0 XP**; the item is the reward. Carcass parts (hide, tusks, ivory) may sell or be useful kit — **0 XP** ([[Burners Experience#Part out]]). Delving retainers: OSE half-share if not Mustering; Mustering seats split half of their Boss's XP (see [[Burners Muster]]). Full procedure: [[Burners Experience]].
+**Converting a module hoard.** Roll or place treasure as OSE directs. Coins, gems, jewelry, goods, and art pay **1 XP per gp**, credited at the **deed**: a guardian killed beside its hoard credits everything in its grasp, found or not; a trap beaten credits the room it guards; sneak past and only what is carried off pays ([[Burners Experience#The deed pays]]). Note in your key what each foe guards and its full value. The Referee sets each find's gp once (now or later). Magic items, weapons, armor, and tools pay **0 XP**; the thing is the reward. Carcass parts (hide, tusks, ivory) may sell or be useful kit — **0 XP** ([[Burners Experience#Part out]]). Delving retainers: OSE half-share if not Mustering; Mustering seats split half of their Boss's XP (see [[Burners Muster]]). Full procedure: [[Burners Experience]].
 
 ---
 

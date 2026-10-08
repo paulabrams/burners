@@ -71,7 +71,7 @@ Your character's Theme and Traits can help back up your plan.
 
 - **Approach level:** you start with one Approach at level 1. Approach level adds to Approach rolls and sets how many Traits you may hold under that Approach (four per Approach level).
 
-- **Trait:** a skill or quality under one Approach (*lockpicking*, *steady under fire*, *arming sword*). You gain at most one Trait per game session, in play (see *Gaining Traits*). You may only take Traits for Approaches you have levels in (or the one your next level will raise), and only from that Approach's list (arms and armor are Sword, non-combat practical skills are Craft, magic schools are Sorcerie, people-skills are Heart, etc.). Some Traits are trained-only: without them you cannot attempt the action or use the kit (a magic school, plate armor, greatsword or longbow, etc.).
+- **Trait:** a skill or quality under one Approach (*lockpicking*, *steady under fire*, *arming sword*). Each session you attend earns one Trait slot, filled in play (see *Gaining Traits*). You may only take Traits for Approaches you have levels in (or the one your next level will raise), and only from that Approach's list (arms and armor are Sword, non-combat practical skills are Craft, magic schools are Sorcerie, people-skills are Heart, etc.). Some Traits are trained-only: without them you cannot attempt the action or use the kit (a magic school, plate armor, greatsword or longbow, etc.).
 
 - **Signature:** an asterisk on a Trait. A knack that showed up at your table: a named item, a **named companion**, an instinct, a holdout.
 
@@ -156,7 +156,7 @@ Your character's Theme and Traits can help back up your plan.
 ## Character Creation
 
 1. You are character level 1. Place that level in one Approach: Sword, Craft, Heart, or Sorcerie.
-2. Take up to four Traits under the Approach you just chose. You need not fill all four now; fill the rest in play, one per session (see *Gaining Traits*).
+2. Take up to four Traits under the Approach you just chose. You need not fill all four now; the empty ones are pending Trait slots, filled in play (see *Gaining Traits*).
 3. Roll 1d6 for your HP.
 4. Give your character a name or alias and a short "look" so the table gets to know them.
 5. Take your starting kit, then spend your purse in town.
@@ -169,7 +169,7 @@ To pick a people to come from (Northmaren, Southmaren, Elf, Alu, Kith, and the r
 
 On your sheet, a Trait is a skill or a quality: arming sword, herbalism, strong, perceptive, raised in the fens. **Up to four Traits per Approach level**, under that Approach only. Sword 2 → up to eight Sword Traits. Sword 1 and Sorcerie 1 → up to four Sword and four Sorcerie — not eight in one Approach. A Trait does not raise the Approach; your level does. You never buy Traits with XP.
 
-**Gaining Traits.** You gain at most one Trait per game session, and only when it happens in play: you did the thing, learned it, or earned it at the table. Empty slots from creation fill this way. So do the four Traits for your next level, which you may gain ahead of that level. They go under the Approach that level will raise, so name that Approach when you gain the first of them. You are eligible to level up when you have both the XP and those four Traits (see [[Burners Experience]]).
+**Gaining Traits.** Each session you attend earns one **Trait slot**. A slot you have not filled yet is a **pending Trait**; you may hold up to four. Fill one when you can point to a moment at the table that earned it: you did the thing, learned it, or earned it there. You need not fill it in that moment — *"Remember three sessions ago when I talked the guard down at the gate? That's where I earned silver tongue."* — but each moment earns one Trait, and nothing done between sessions or on the road counts. Jot the moment down when it happens. Empty slots from creation are pending slots you start with. The four Traits for your next level fill this way too, and you may gain them ahead of that level. They go under the Approach that level will raise, so name that Approach when you gain the first of them. Change your mind and you may discard that Trait and earn a different one. You are eligible to level up when you have both the XP and those four Traits (see [[Burners Experience]]).
 
 **Training.** Some Traits need a teacher. When play gives you no way to learn a thing (a new magic school, plate harness, a tongue nobody around you speaks), find an expert and pay them in coin, or in a task or favor they name. The Referee says which Traits need training.
 
@@ -383,7 +383,7 @@ Open kit, trained-only kit, and where those Traits live: *Arms and Armor (Sword)
 
 ### Experience
 
-Awards, claimed treasure, present-only shares, Eldar track, and who tracks what: [[Burners Experience]]. You never buy Traits or spell learning with XP. Signatures emerge in play. Retainers take XP per [[Burners Muster]] (OSE half-share if not Mustering; Mustering seats split half of their Boss's XP).
+Awards, the deed rule for treasure, present-only shares, Eldar track, and who tracks what: [[Burners Experience]]. You never buy Traits or spell learning with XP. Signatures emerge in play. Retainers take XP per [[Burners Muster]] (OSE half-share if not Mustering; Mustering seats split half of their Boss's XP).
 
 ### Approach Level
 

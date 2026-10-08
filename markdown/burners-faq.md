@@ -113,11 +113,17 @@ A blow that lands you **exactly at 0** spends the last of your luck; you are not
 
 ### What pays XP?
 
-**Treasure claimed:** 1 XP per 1 gp — coin, gems, jewelry, goods, art. Not magic items. Not strips off a carcass (hide, tusks, ivory may sell or be kit; they are never XP). The fight already paid.
+**Treasure wrested from the dungeon:** 1 XP per 1 gp — coin, gems, jewelry, goods, art — credited at the deed: kill a guardian beside its hoard, or beat the trap into the room, and that treasure pays then, found or not. Sneak past and you earn only what you carry off. Undefended treasure and anything taken in town pay nothing.
 
 **Monsters:** when you overcome them — killed, routed, or otherwise put down. The Referee sets the XP.
 
-Coin is the long road. Monster awards are smaller. Finding the haul and claiming it is how you level. [[Burners Experience]].
+**Never XP:** magic items, weapons, armor, tools, monster parts, bounties, keeps, ships. They are their own reward; some sell for coin.
+
+Coin is the long road. Monster awards are smaller. Beating what guards the haul is how you level. [[Burners Experience]].
+
+### Do I know my XP?
+
+No. The Referee keeps the totals. When you have your four Traits, ask *"Do I have enough?"* and the answer is yes or not yet. [[Burners Experience#Who tracks what]].
 
 ### Who shares?
 
@@ -177,7 +183,7 @@ When the Referee names a **Risk**. Say what you do and how. If the plan is sound
 | --- | --- |
 | How a fight runs | [[Burners Adventure Game#Combat]] |
 | Worked fight, roll by roll | [[Burners Examples of Play]] |
-| XP, claims, shares | [[Burners Experience]] |
+| XP, the deed rule, shares | [[Burners Experience]] |
 | Retainers, Manage, Loyalty | [[Burners Muster]] |
 | Casting, hand, sleep | [[Burners Sorcerie]] |
 | Spell catalog | [[Burners Spells]] |

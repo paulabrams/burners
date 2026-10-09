@@ -60,9 +60,9 @@ Healing magic and potions do not restore Tainted HP. *Healing Touch*, *Stanch*, 
 
 Tainted Wounds are more dire. At midnight, any character with one or more Wounds inflicted by undead loses an additional 1d6 HP.
 
-### Level Drain > Trait Drain
+### Level Drain > Trait Curse
 
-Level Drain is a classic ability of some kinds of powerful undead. In Burners, this ability is replaced by "Trait Drain". Rather than losing an experience level, the character has a Trait cursed each time they are touched. The newest Trait goes first, so write your Traits in the order you gained them. Mark the cursed one.
+Level Drain is a classic ability of some kinds of powerful undead. In Burners, this ability is replaced by the Trait Curse. Rather than losing an experience level, the character has a Trait cursed each time they are touched. The newest Trait goes first, so write your Traits in the order you gained them. Mark the cursed one.
 
 **Its 1s hate you.** A cursed Trait still works, but whenever you lean on it and dice hit the table, any 1 turns against you. Out of combat, a single 1 is a fumble. In combat, any 1 you burn through it, in a blow, a Defend, or a cast, wakes the curse, and the Referee describes what goes wrong. Where no dice are rolled, the Trait works as it always did.
 

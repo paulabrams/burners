@@ -99,4 +99,4 @@ You may strip a kill for salvage — hide, tusks, ivory, and so on. Some of it s
 
 **Referee.** XP per Burner and retainer, and who was there for each fight and deed. Keep the totals behind the screen. When a Burner with four Traits and enough XP wakes from a safe sleep, tell the player they have leveled up. If a player asks how close they are, give a rough distance (*about halfway*, *close*), not the number. Keep a master treasure list: what each foe guards, its full value at the kill, and who it was credited to, so a later find is gold only. After you describe a find, do not re-list the treasure for the players. Speak for retainers owed a cut.
 
-**Players.** Track your Traits, in the order you gained them, and your level. Track what you took, how you split or stowed it, and what you spent. Unlogged finds are not available to spend until you account for them.
+**Players.** Track your Traits and your level. Track what you took, how you split or stowed it, and what you spent. Unlogged finds are not available to spend until you account for them.

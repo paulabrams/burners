@@ -2,7 +2,7 @@
 
 **Status: adopted into the rules (Oct 7, 2026)** — [[Burners Experience]], *Gaining Traits* in [[Burners Adventure Game]], [[Burners Burn Undead]], plus the FAQ, OSE Conversions, Principles, and Referee Guide. This file stays as the design record and the Lothian worked example.
 
-**Revised in the rules (Oct 8, 2026):** Trait slots and pending Traits are gone. Traits are gained on waking from sleep, one or several, up to the four for your next level, from what happened at the table. The Referee tells a player when they level. Trait Drain is now the Trait Curse: the newest Trait is cursed (its 1s hate you) instead of removed. The Trait sections below are kept as history.
+**Revised in the rules (Oct 8, 2026):** Trait slots and pending Traits are gone. Traits are gained on waking from sleep, one or several, up to the four for your next level, from what happened at the table. The Referee tells a player when they level. Trait Drain is now the Trait Curse: a random Trait is cursed (its 1s hate you) instead of removed. The Trait sections below are kept as history.
 
 Design notes for a revised XP rule. Burners already pays treasure XP on claim rather than on the trip home, and already gates levels on XP plus four Traits. This note changes which treasure pays, when it pays, and who keeps track of what.
 

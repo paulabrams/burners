@@ -69,3 +69,5 @@ Level Drain is a classic ability of some kinds of powerful undead. In Burners, t
 The curse does not lift with rest or healing; only a great quest ends it. A character whose every Trait is cursed is slain and will rise as undead of the kind that cursed them (usually under their control).
 
 **Signatures.** A cursed Trait keeps its Signature, and the curse comes with it: a named sword on a cursed Trait carries the curse into every blow.
+
+**Not only the dead.** A night hag, a witch, a demon, one of the Kha'din, or some other old malice may curse a Trait the same way. The curse works as above. A character whose every Trait is cursed by such a thing does not rise as undead; they belong to whatever cursed them, in whatever way suits it.

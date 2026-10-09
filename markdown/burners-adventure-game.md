@@ -71,7 +71,7 @@ Your character's Theme and Traits can help back up your plan.
 
 - **Approach level:** you start with one Approach at level 1. Approach level adds to Approach rolls and sets how many Traits you may hold under that Approach (four per Approach level).
 
-- **Trait:** a skill or quality under one Approach (*lockpicking*, *steady under fire*, *arming sword*). Each session you attend earns one Trait slot, filled in play (see *Gaining Traits*). You may only take Traits for Approaches you have levels in (or the one your next level will raise), and only from that Approach's list (arms and armor are Sword, non-combat practical skills are Craft, magic schools are Sorcerie, people-skills are Heart, etc.). Some Traits are trained-only: without them you cannot attempt the action or use the kit (a magic school, plate armor, greatsword or longbow, etc.).
+- **Trait:** a skill or quality under one Approach (*lockpicking*, *steady under fire*, *arming sword*). You gain Traits when you wake from sleep, from what you did at the table (see *Gaining Traits*). You may only take Traits for Approaches you have levels in (or the one your next level will raise), and only from that Approach's list (arms and armor are Sword, non-combat practical skills are Craft, magic schools are Sorcerie, people-skills are Heart, etc.). Some Traits are trained-only: without them you cannot attempt the action or use the kit (a magic school, plate armor, greatsword or longbow, etc.).
 
 - **Signature:** an asterisk on a Trait. A knack that showed up at your table: a named item, a **named companion**, an instinct, a holdout.
 
@@ -156,7 +156,7 @@ Your character's Theme and Traits can help back up your plan.
 ## Character Creation
 
 1. You are character level 1. Place that level in one Approach: Sword, Craft, Heart, or Sorcerie.
-2. Take up to four Traits under the Approach you just chose. You need not fill all four now; the empty ones are pending Trait slots, filled in play (see *Gaining Traits*).
+2. Take up to four Traits under the Approach you just chose. You need not take all four now; gain the rest in play (see *Gaining Traits*).
 3. Roll 1d6 for your HP.
 4. Give your character a name or alias and a short "look" so the table gets to know them.
 5. Take your starting kit, then spend your purse in town.
@@ -169,11 +169,11 @@ To pick a people to come from (Northmaren, Southmaren, Elf, Alu, Kith, and the r
 
 On your sheet, a Trait is a skill or a quality: arming sword, herbalism, strong, perceptive, raised in the fens. **Up to four Traits per Approach level**, under that Approach only. Sword 2 → up to eight Sword Traits. Sword 1 and Sorcerie 1 → up to four Sword and four Sorcerie — not eight in one Approach. A Trait does not raise the Approach; your level does. You never buy Traits with XP.
 
-**Gaining Traits.** Each session you attend earns one **Trait slot**. A slot you have not filled yet is a **pending Trait**; you may hold up to four. Fill one when you can point to a moment at the table that earned it: you did the thing, learned it, or earned it there. You need not fill it in that moment — *"Remember three sessions ago when I talked the guard down at the gate? That's where I earned silver tongue."* — but each moment earns one Trait, and nothing done between sessions or on the road counts. Jot the moment down when it happens. Empty slots from creation are pending slots you start with. The four Traits for your next level fill this way too, and you may gain them ahead of that level. They go under the Approach that level will raise, so name that Approach when you gain the first of them. Change your mind and you may discard that Trait and earn a different one. You are eligible to level up when you have both the XP and those four Traits (see [[Burners Experience]]).
+**Gaining Traits.** Each time you wake from sleep, look back on what you did and take the Traits it earned: one, several, or none, up to the four for your next level. Each must come from something you went through at the table: you did the thing, learned it, or paid for it there. A moment that cut deep can earn more than one Trait — *"After the guard nearly took my head at the gate, I came away with silver tongue and steady under fire."* Take them at the table, when the waking is played; nothing done between sessions or on the road counts. There is no quota and nothing banked: a session with no new Trait is fine, and you are never owed one. Traits you left empty at creation are gained the same way. The four Traits for your next level go under the Approach that level will raise, so name that Approach when you gain the first of them. Change your mind and you may discard that Trait and earn a different one. When you wake from a safe sleep with those four Traits and enough XP, you level up (see [[Burners Experience]]).
 
 **Training.** Some Traits need a teacher. When play gives you no way to learn a thing (a new magic school, plate harness, a tongue nobody around you speaks), find an expert and pay them in coin, or in a task or favor they name. The Referee says which Traits need training.
 
-**Traits by Approach — locked.** Each Trait belongs to one Approach. Write it under that Approach and nowhere else — you cannot spend another Approach's Trait slots on it. Martial arms and armor are Sword (see *Arms and Armor*); languages are Heart; magic schools are Sorcerie. *Peasant weapons* (tools and hunting implements) are Craft. The lists below are the homes — not samples you may rehome.
+**Traits by Approach — locked.** Each Trait belongs to one Approach. Write it under that Approach and nowhere else — it cannot count toward another Approach's four. Martial arms and armor are Sword (see *Arms and Armor*); languages are Heart; magic schools are Sorcerie. *Peasant weapons* (tools and hunting implements) are Craft. The lists below are the homes — not samples you may rehome.
 
 - **Sword** — arms, armor, and the fight.
   - Skills: dagger, club, spear, axe, arming sword, mace, flail, bow, crossbow, shield, wrestling, boxing, ambush, tactics, cavalry, warhorse, siege, heraldry, scouting. Trained-only kit: see *Arms and Armor (Sword)* below (greatsword, longbows, plate, firearms…).

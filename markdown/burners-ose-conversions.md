@@ -154,7 +154,7 @@ The **right tool** is a **player claim** (fiction + one extra Fuel burned into t
 
 Run the printed OSE block as written — HD, attacks, specials, Morale, printed XP. Do not rebuild the monster. Player rules: [[Burners Burn Undead]]. Table procedure: [[Burners Referee Guide#Undead]].
 
-**Instead of energy drain / levels lost:** damage from undead does not come back with rest (magic or Purge). Purge: one Incendiary; gain a Wound equal to the HP you are purging. An undead Wound worsens at midnight by `1d6` + HD, then Survival. Anyone slain by undead rises unless you burn their bones.
+**Instead of energy drain / levels lost:** damage from undead does not come back with rest (magic or Purge). Purge: one Incendiary; gain a Wound equal to the HP you are purging. An undead Wound worsens at midnight by `1d6` + HD, then Survival. Anyone slain by undead rises unless you burn their bones. Undead that drain levels in OSE curse a Trait with each touch instead (see *Trait Drain* in [[Burners Burn Undead]]).
 
 **Instead of Cleric Turn Undead:** some undead can be driven back by fire. Husks that fear it recoil from a brand; the brand is the right tool. Willful undead laugh at a bare flame. They do not die unless purged in fire.
 

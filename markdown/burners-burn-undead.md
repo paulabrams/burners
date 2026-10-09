@@ -62,6 +62,10 @@ Tainted Wounds are more dire. At midnight, any character with one or more Wounds
 
 ### Level Drain > Trait Drain
 
-Level Drain is a classic ability of some kinds of powerful undead. In Burners, this ability is replaced by "Trait Drain". Rather than losing an experience level, the character loses a Trait each time they are touched. The Referee chooses which Trait, rolls for it, or lets the player pick. Drain takes only Traits you have filled, never a pending Trait slot (see *Gaining Traits* in [[Burners Adventure Game]]). A character drained of all Traits is slain and will rise as undead of the kind that drained them (usually under their control). Otherwise, a drained Trait can be earned again.
+Level Drain is a classic ability of some kinds of powerful undead. In Burners, this ability is replaced by "Trait Drain". Rather than losing an experience level, the character has a Trait cursed each time they are touched. The newest Trait goes first, so write your Traits in the order you gained them. Mark the cursed one.
 
-**Signatures.** Losing a Trait does not remove its Signature, but it may change how the Signature works. If your named sword is enchanted and you lose the Trait for that kind of sword (e.g. "longsword"), the sword keeps its name, but its enchantment is quiet until you earn the Trait back.
+**Its 1s hate you.** A cursed Trait still works, but whenever you lean on it and dice hit the table, any 1 turns against you. Out of combat, a single 1 is a fumble. In combat, any 1 you burn through it, in a blow, a Defend, or a cast, wakes the curse, and the Referee describes what goes wrong. Where no dice are rolled, the Trait works as it always did.
+
+The curse does not lift with rest or healing; only a great quest ends it. A character whose every Trait is cursed is slain and will rise as undead of the kind that cursed them (usually under their control).
+
+**Signatures.** A cursed Trait keeps its Signature, and the curse comes with it: a named sword on a cursed Trait carries the curse into every blow.

@@ -366,7 +366,7 @@ The party begins in a safe town, which is a haven but not a home base and not th
 
 **Level on a safe sleep.** XP banks in the field; characters take a level when they next sleep somewhere safe — town, inn, watched camp — after their total crosses a tier and they hold the four Traits. Not in the press. Rare emergencies are your call. See [[Burners Experience]].
 
-**XP tracking.** Treasure wrested from the dungeon (credited at the deed) and monsters overcome only — [[Burners Experience]]. Monster parts, kit, and bounties are purse or gear, never XP. Keep totals behind the screen: when a player with four Traits asks, answer yes or not yet. Keep the fight-and-deed roster and the master treasure list (what each foe guards, who it was credited to) in your notes.
+**XP tracking.** Treasure wrested from the dungeon (credited at the deed) and monsters overcome only — [[Burners Experience]]. Monster parts, kit, and bounties are purse or gear, never XP. Keep totals behind the screen: when a Burner with four Traits and enough XP wakes from a safe sleep, tell the player they level up. Keep the fight-and-deed roster and the master treasure list (what each foe guards, who it was credited to) in your notes.
 
 **Inventing spells and items.** When a player wants a working or lasting item not in the catalog, treat it as a campaign project: time, rare materials, a teacher or ruin, and a clear failure mode. No price table. Costume Arcana is shop gear at 100 gp; enchanted Arcana stays a find. Research may yield a scroll or potion formula, or a one-off the table invents together. See [[Burners Sorcerie]].
 

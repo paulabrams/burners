@@ -123,7 +123,7 @@ Coin is the long road. Monster awards are smaller. Beating what guards the haul 
 
 ### Do I know my XP?
 
-No. The Referee keeps the totals. When you have your four Traits, ask *"Do I have enough?"* and the answer is yes or not yet. [[Burners Experience#Who tracks what]].
+No. The Referee keeps the totals. When you have your four Traits and enough XP, the Referee tells you that you level up the next time you wake from a safe sleep. [[Burners Experience#Who tracks what]].
 
 ### Who shares?
 

@@ -108,7 +108,7 @@ Strongly associated with military units; most need training in a military order.
 - **Guisarme** `[Class4 Slots4 2H Long Binding Hooking]` — polearm with a concave scythe-like blade, usually a thrusting spike and pulling prongs (bill, bill hook, scorpion).
 - **Partisan** `[Class4 Slots4 2H Medium Long Cutty Binding Defensive]` — elegant polearm with a sword-like guarded head allowing a shorter grip.
 - **Long Axe** `[Class4 Slots4 2H Medium Long]` — a very long battle axe.
-- **Poleaxe** `[Class5 Slots5 2H Medium Control-Short Hooking Defensive]` — the predominant knightly polearm for armored combat: short stout staff with axe, hammer, and spike (lochaber ax, bec de corbin).
+- **Poleaxe** `[Class5 Slots4 2H Medium Control-Short Hooking Defensive]` — the predominant knightly polearm for armored combat: short stout staff with axe, hammer, and spike (lochaber ax, bec de corbin).
 - **Halberd** `[Class5 Slots5 2H Medium Long Binding Hooking Defensive]` — polearm with thrusting spike, cutting ax, and pulling hooks (bardiche, voulge).
 
 ### Projectile Weapons

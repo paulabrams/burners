@@ -96,7 +96,7 @@ Strongly associated with military units; most need training in a military order.
 - **Rifle Bayonet** `[Class2 Slots2 2H Medium]` — spear point on the barrel of a rifle.
 - **Khopesh** `[Class2 Slots2 Short Medium Binding Hooking]` — sickle-shaped sword-ax, ancient and still used by some Eldar.
 - **Mace** `[Class3 Slots2 Short Crushy]` — flanged/beaked/spiked club for crushing armored foes; needs swinging room. Includes short war hammer, horseman's hammer, morningstar.
-- **Horseman's Ax** `[Class3 Slots2 Short Breaching Hooking Crushy]` — medium ax with a rear spike for penetrating armor.
+- **Horseman's Ax** `[Class3 Slots3 Short Breaching Hooking Crushy]` — medium ax with a rear spike for penetrating armor.
 - **Spear** `[Class3 Slots3 2H Medium Far1 Piercing Primitive]` — short thrusting/throwing spear, ~5–6 ft.
 - **Long Spear** `[Class3 Slots4 2H Medium Long Defensive Piercing]` — long thrusting/cutting spear or glaive, ~8–10 ft.
 - **Pike** `[Class3 Slots5 2H Long Piercing]` — extremely long spear (~15–20 ft) for mass infantry; ineffective in individual combat except a duel (range listed "Long").

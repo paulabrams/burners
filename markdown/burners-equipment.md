@@ -10,26 +10,26 @@ hero_alt: "A knight returns laden — crossbow, sword, and loot — Albert Robid
 
 ## Weapons
 
-| Weapon                       | Slots | Cost (gp) |
-| ---------------------------- | ----- | --------- |
-| Dagger                       | 1     | 3         |
-| Silver dagger                | 1     | 30        |
-| Club                         | 1     | 3         |
-| Sling with 30 stones         | 1     | 2         |
-| Small ax                     | 2     | 4         |
-| Mace (incl. war hammer)      | 2     | 5         |
-| Horseman's ax                | 2     | 6         |
-| Short sword                  | 2     | 7         |
-| Arming sword                 | 2     | 10        |
-| Short bow / hunting bow (2H) | 2     | 25        |
-| Spear (2H)                   | 3     | 3         |
-| Longsword (2H)               | 3     | 15        |
-| Longbow (2H)                 | 3     | 40        |
-| Crossbow (2H)                | 3     | 30        |
-| Battle ax (2H)               | 3     | 7         |
-| Long spear (2H)              | 4     | 5         |
-| Greatsword (2H)              | 4     | 15        |
-| Halberd / pole arm (2H)      | 5     | 7         |
+| Weapon                  | Slots | Cost (gp) |                           |
+| ----------------------- | ----- | --------- | ------------------------- |
+| Dagger                  | 1     | 3         | can be thrown             |
+| Silver dagger           | 1     | 30        | can be thrown             |
+| Club                    | 1     | 3         |                           |
+| Sling with 30 stones    | 1     | 2         | ranged                    |
+| Small ax                | 2     | 4         | can be thrown             |
+| Mace (incl. war hammer) | 2     | 5         |                           |
+| Horseman's ax           | 2     | 6         |                           |
+| Short sword             | 2     | 7         |                           |
+| Arming sword            | 2     | 10        |                           |
+| Short bow / hunting bow | 2     | 25        | ranged, two-handed        |
+| Spear                   | 3     | 3         | two-handed; can be thrown |
+| Longsword               | 3     | 15        | two-handed                |
+| Longbow                 | 3     | 40        | ranged, two-handed        |
+| Crossbow                | 3     | 30        | ranged, two-handed        |
+| Battle ax               | 3     | 7         | two-handed                |
+| Long spear              | 4     | 5         | two-handed                |
+| Greatsword              | 4     | 15        | two-handed                |
+| Halberd / pole arm      | 5     | 7         | two-handed                |
 
 ## Ammunition
 

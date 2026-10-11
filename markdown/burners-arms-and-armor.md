@@ -92,23 +92,23 @@ Strongly associated with military units; most need training in a military order.
 - **Shield Punch** `[Class1 Slots0 Close Binding Defensive]` — uses the boss or rim.
 - **Rifle Stock** `[Class1 Slots1 2H Short]` — using the heavy rifle stock as a club.
 - **Javelin** `[Class1 Slots1 Short Far2 Piercing Primitive]` — short throwing spear.
-- **Small Ax** `[Class2 Slots2 Close Short Binding Breaching Hooking Far1]` — war hatchet or tomahawk, thin head and long handle.
+- **Small Ax** `[Class2 Slots2 Close Short Breaching Hooking Far1]` — war hatchet or tomahawk, thin head and long handle.
 - **Rifle Bayonet** `[Class2 Slots2 2H Medium]` — spear point on the barrel of a rifle.
 - **Khopesh** `[Class2 Slots2 Short Medium Binding Hooking]` — sickle-shaped sword-ax, ancient and still used by some Eldar.
 - **Mace** `[Class3 Slots2 Short Crushy]` — flanged/beaked/spiked club for crushing armored foes; needs swinging room. Includes short war hammer, horseman's hammer, morningstar.
-- **Horseman's Ax** `[Class3 Slots3 Short Breaching Hooking Crushy]` — medium ax with a rear spike for penetrating armor.
+- **Horseman's Ax** `[Class2 Slots2 Short Breaching Hooking]` — medium ax with a rear spike for penetrating armor.
 - **Spear** `[Class3 Slots3 2H Medium Far1 Piercing Primitive]` — short thrusting/throwing spear, ~5–6 ft.
+- **Battle Ax** `[Class3 Slots3 2H Medium Breaching Hooking]` — heavy two-handed war axe, handle shorter than a polearm.
 - **Long Spear** `[Class3 Slots4 2H Medium Long Defensive Piercing]` — long thrusting/cutting spear or glaive, ~8–10 ft.
 - **Pike** `[Class3 Slots5 2H Long Piercing]` — extremely long spear (~15–20 ft) for mass infantry; ineffective in individual combat except a duel (range listed "Long").
-- **Battle Ax** `[Class4 Slots4 2H Medium Breaching Hooking]` — heavy two-handed war axe, handle shorter than a polearm.
 - **Mangual Flail** `[Class4 Slots4 2H Medium Long Hooking Control]` — large multi-headed military flail. Use the high (Head) guard to avoid hitting yourself.
 - **Pick** `[Class4 Slots4 2H Medium Hooking Piercing]` — large footman's pick; arced head can strike over shields.
 - **Ranseur** `[Class4 Slots4 2H Long Binding Defensive]` — popular early polearm with a trident head (roncone, ronka); side prongs bind and trap weapons/shields. Spetum to earlier Eldar; some fold, some (brandistock, "feather staff") have hidden spring prongs.
 - **Glaive** `[Class4 Slots4 2H Long Cutty Hooking]` — polearm with a large single-edge blade, usually a back hook, no spear point (fauchard to earlier Eldar).
 - **Guisarme** `[Class4 Slots4 2H Long Binding Hooking]` — polearm with a concave scythe-like blade, usually a thrusting spike and pulling prongs (bill, bill hook, scorpion).
 - **Partisan** `[Class4 Slots4 2H Medium Long Cutty Binding Defensive]` — elegant polearm with a sword-like guarded head allowing a shorter grip.
+- **Long Axe** `[Class4 Slots4 2H Medium Long]` — a very long battle axe.
 - **Poleaxe** `[Class5 Slots5 2H Medium Control-Short Hooking Defensive]` — the predominant knightly polearm for armored combat: short stout staff with axe, hammer, and spike (lochaber ax, bec de corbin).
-- **Long Axe** `[Class5 Slots5 2H Medium Long]` — a very long battle axe.
 - **Halberd** `[Class5 Slots5 2H Medium Long Binding Hooking Defensive]` — polearm with thrusting spike, cutting ax, and pulling hooks (bardiche, voulge).
 
 ### Projectile Weapons

@@ -352,7 +352,7 @@ A weapon's **slots** are the dice it throws on your Initiative roll when it is i
 | Longsword | 3 | 15 | two-handed |
 | Longbow | 3 | 40 | ranged, two-handed |
 | Crossbow | 3 | 30 | ranged, two-handed |
-| Battle axe | 4 | 7 | two-handed |
+| Battle axe | 3 | 7 | two-handed |
 | Greatsword | 4 | 15 | two-handed |
 | Halberd / pole arm | 5 | 7 | two-handed |
 

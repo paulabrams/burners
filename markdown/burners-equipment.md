@@ -17,7 +17,7 @@ hero_alt: "A knight returns laden — crossbow, sword, and loot — Albert Robid
 | Club                    | 1     | 3         |                           |
 | Sling with 30 stones    | 1     | 2         | ranged                    |
 | Small ax                | 2     | 4         | can be thrown             |
-| Mace (incl. war hammer) | 2     | 5         |                           |
+| Mace                    | 2     | 5         | includes war hammer       |
 | Horseman's ax           | 2     | 6         |                           |
 | Short sword             | 2     | 7         |                           |
 | Arming sword            | 2     | 10        |                           |

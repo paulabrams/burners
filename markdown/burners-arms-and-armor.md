@@ -103,12 +103,12 @@ Strongly associated with military units; most need training in a military order.
 - **Pike** `[Class3 Slots6 2H Long Piercing]` — extremely long spear (~15–20 ft) for mass infantry; ineffective in individual combat except a duel (range listed "Long").
 - **Mangual Flail** `[Class4 Slots4 2H Medium Long Hooking Control]` — large multi-headed military flail. Use the high (Head) guard to avoid hitting yourself.
 - **Pick** `[Class4 Slots4 2H Medium Hooking Piercing]` — large footman's pick; arced head can strike over shields.
-- **Ranseur** `[Class4 Slots4 2H Long Binding Defensive]` — popular early polearm with a trident head (roncone, ronka); side prongs bind and trap weapons/shields. Spetum to earlier Eldar; some fold, some (brandistock, "feather staff") have hidden spring prongs.
-- **Glaive** `[Class4 Slots4 2H Long Cutty Hooking]` — polearm with a large single-edge blade, usually a back hook, no spear point (fauchard to earlier Eldar).
-- **Guisarme** `[Class4 Slots4 2H Long Binding Hooking]` — polearm with a concave scythe-like blade, usually a thrusting spike and pulling prongs (bill, bill hook, scorpion).
-- **Partisan** `[Class4 Slots4 2H Medium Long Cutty Binding Defensive]` — elegant polearm with a sword-like guarded head allowing a shorter grip.
 - **Long Axe** `[Class4 Slots4 2H Medium Long]` — a very long battle axe.
 - **Poleaxe** `[Class4 Slots4 2H Medium Control-Short Hooking Defensive]` — the predominant knightly polearm for armored combat: short stout staff with axe, hammer, and spike (lochaber ax, bec de corbin).
+- **Ranseur** `[Class4 Slots5 2H Long Binding Defensive]` — popular early polearm with a trident head (roncone, ronka); side prongs bind and trap weapons/shields. Spetum to earlier Eldar; some fold, some (brandistock, "feather staff") have hidden spring prongs.
+- **Glaive** `[Class4 Slots5 2H Long Cutty Hooking]` — polearm with a large single-edge blade, usually a back hook, no spear point (fauchard to earlier Eldar).
+- **Guisarme** `[Class4 Slots5 2H Long Binding Hooking]` — polearm with a concave scythe-like blade, usually a thrusting spike and pulling prongs (bill, bill hook, scorpion).
+- **Partisan** `[Class4 Slots5 2H Medium Long Cutty Binding Defensive]` — elegant polearm with a sword-like guarded head allowing a shorter grip.
 - **Halberd** `[Class5 Slots5 2H Medium Long Binding Hooking Defensive]` — polearm with thrusting spike, cutting ax, and pulling hooks (bardiche, voulge).
 
 ### Projectile Weapons

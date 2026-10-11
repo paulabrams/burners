@@ -354,8 +354,7 @@ A weapon's **slots** are the dice it throws on your Initiative roll when it is i
 | Crossbow | 3 | 30 | ranged, two-handed |
 | Battle axe | 3 | 7 | two-handed |
 | Greatsword | 4 | 15 | two-handed |
-| Pole arm | 4 | 7 | two-handed |
-| Halberd | 5 | 7 | two-handed |
+| Halberd / pole arm | 5 | 7 | two-handed |
 
 **Armor**: AC soaks leftover after Defend, one number by the make of the armor. Full prices are in [[Burners Equipment]].
 

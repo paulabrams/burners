@@ -345,7 +345,7 @@ A weapon's **slots** are the dice it throws on your Initiative roll when it is i
 | Club | 1 | 3 | |
 | Sling | 1 | 2 | ranged |
 | Throwing ax | 1 | 3 | can be thrown |
-| Small ax | 2 | 4 | includes horseman's ax |
+| Small ax | 2 | 4 | can be thrown; includes horseman's ax |
 | Mace | 2 | 5 | includes war hammer |
 | Arming sword | 2 | 10 | |
 | Short bow / hunting bow | 2 | 25 | ranged, two-handed |

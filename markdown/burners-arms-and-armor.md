@@ -95,7 +95,7 @@ Strongly associated with military units; most need training in a military order.
 - **Throwing Ax** `[Class2 Slots1 Close Short Breaching Hooking Far1]` — war hatchet or tomahawk, thin head and long handle.
 - **Rifle Bayonet** `[Class2 Slots2 2H Medium]` — spear point on the barrel of a rifle.
 - **Khopesh** `[Class2 Slots2 Short Medium Binding Hooking]` — sickle-shaped sword-ax, ancient and still used by some Eldar.
-- **Small Ax** `[Class2 Slots2 Short Breaching Hooking]` — one-handed war ax. Includes the horseman's ax, with a rear spike for penetrating armor.
+- **Small Ax** `[Class2 Slots2 Short Breaching Hooking Far1]` — one-handed war ax. Includes the horseman's ax, with a rear spike for penetrating armor.
 - **Mace** `[Class3 Slots2 Short Crushy]` — flanged/beaked/spiked club for crushing armored foes; needs swinging room. Includes short war hammer, horseman's hammer, morningstar.
 - **Spear** `[Class3 Slots3 2H Medium Far1 Piercing Primitive]` — short thrusting/throwing spear, ~5–6 ft.
 - **Battle Ax** `[Class3 Slots3 2H Medium Breaching Hooking]` — heavy two-handed war axe, handle shorter than a polearm.

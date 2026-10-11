@@ -9,25 +9,27 @@ hero_alt: "A knight returns laden — crossbow, sword, and loot — Albert Robid
 
 ## Weapons
 
-| Weapon                  | Slots | Cost (gp) |
-| ----------------------- | ----- | --------- |
-| Dagger                  | 1     | 3         |
-| Silver dagger           | 1     | 30        |
-| Club                    | 1     | 3         |
-| Sling with 30 stones    | 1     | 2         |
-| Small ax                | 2     | 4         |
-| Mace (incl. war hammer) | 2     | 5         |
-| Horseman's ax           | 2     | 6         |
-| Short sword             | 2     | 7         |
-| Arming sword            | 2     | 10        |
-| Short bow / hunting bow | 2     | 25        |
-| Spear                   | 3     | 3         |
-| Longsword               | 3     | 15        |
-| Longbow                 | 3     | 40        |
-| Crossbow                | 3     | 30        |
-| Battle ax (two-handed)  | 3     | 7         |
-| Greatsword              | 4     | 15        |
-| Halberd / pole arm      | 4     | 7         |
+| Weapon                  | Hands | Slots | Cost (gp) |
+| ----------------------- | ----- | ----- | --------- |
+| Dagger                  | 1     | 1     | 3         |
+| Silver dagger           | 1     | 1     | 30        |
+| Club                    | 1     | 1     | 3         |
+| Sling with 30 stones    | 1     | 1     | 2         |
+| Small ax                | 1     | 2     | 4         |
+| Mace (incl. war hammer) | 1     | 2     | 5         |
+| Horseman's ax           | 1     | 2     | 6         |
+| Short sword             | 1     | 2     | 7         |
+| Arming sword            | 1     | 2     | 10        |
+| Short bow / hunting bow | 2     | 2     | 25        |
+| Spear                   | 2     | 3     | 3         |
+| Longsword               | 2     | 3     | 15        |
+| Longbow                 | 2     | 3     | 40        |
+| Crossbow                | 2     | 3     | 30        |
+| Battle ax               | 2     | 3     | 7         |
+| Greatsword              | 2     | 4     | 15        |
+| Halberd / pole arm      | 2     | 4     | 7         |
+
+- A two-handed melee weapon can be swung in one hand, but at Weapon Class −1 and without its tags. Bows always need both hands.
 
 ## Ammunition
 

@@ -35,7 +35,7 @@ If you wait for them to act, you are giving that up. They are now in control of 
 
 You might say: *I have a spear, and they are moving to attack me. Can't the spear attack first?* A fair point. Reverse it, though. What if *they* have the spear? You do not always know what they have.
 
-The answer is in the numbers of the Initiative pool. A long spear is four slots; a pike is five. More dice in the pool. A dagger is one slot, one die, far less. With more dice, you are more likely to win Initiative by rolling 3s and 4s; you are also more likely to roll Sparks. If they attack you and you Spark on Defend, you can Counterattack.
+The answer is in the numbers of the Initiative pool. A long spear is four slots; a pike is six. More dice in the pool. A dagger is one slot, one die, far less. With more dice, you are more likely to win Initiative by rolling 3s and 4s; you are also more likely to roll Sparks. If they attack you and you Spark on Defend, you can Counterattack.
 
 What the table gets is a procedure you can see, bank on, and plan with the other players. If you take Initiative, you take your Action before the opposition. If you want to cede Initiative to them, you may. You can even move and save the rest of your Action for after them — that is powerful too.
 

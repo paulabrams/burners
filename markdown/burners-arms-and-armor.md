@@ -100,7 +100,7 @@ Strongly associated with military units; most need training in a military order.
 - **Spear** `[Class3 Slots3 2H Medium Far1 Piercing Primitive]` — short thrusting/throwing spear, ~5–6 ft.
 - **Battle Ax** `[Class3 Slots3 2H Medium Breaching Hooking]` — heavy two-handed war axe, handle shorter than a polearm.
 - **Long Spear** `[Class3 Slots4 2H Medium Long Defensive Piercing]` — long thrusting/cutting spear or glaive, ~8–10 ft.
-- **Pike** `[Class3 Slots5 2H Long Piercing]` — extremely long spear (~15–20 ft) for mass infantry; ineffective in individual combat except a duel (range listed "Long").
+- **Pike** `[Class3 Slots6 2H Long Piercing]` — extremely long spear (~15–20 ft) for mass infantry; ineffective in individual combat except a duel (range listed "Long").
 - **Mangual Flail** `[Class4 Slots4 2H Medium Long Hooking Control]` — large multi-headed military flail. Use the high (Head) guard to avoid hitting yourself.
 - **Pick** `[Class4 Slots4 2H Medium Hooking Piercing]` — large footman's pick; arced head can strike over shields.
 - **Ranseur** `[Class4 Slots4 2H Long Binding Defensive]` — popular early polearm with a trident head (roncone, ronka); side prongs bind and trap weapons/shields. Spetum to earlier Eldar; some fold, some (brandistock, "feather staff") have hidden spring prongs.

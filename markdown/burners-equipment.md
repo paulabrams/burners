@@ -28,7 +28,8 @@ hero_alt: "A knight returns laden — crossbow, sword, and loot — Albert Robid
 | Crossbow (2H)                | 3     | 30        |
 | Battle ax (2H)               | 3     | 7         |
 | Greatsword (2H)              | 4     | 15        |
-| Halberd / pole arm (2H)      | 4     | 7         |
+| Pole arm (2H)                | 4     | 7         |
+| Halberd (2H)                 | 5     | 7         |
 
 ## Ammunition
 

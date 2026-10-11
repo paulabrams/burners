@@ -1,6 +1,7 @@
 ---
 
 ## layout: default
+
 title: "Burners Equipment"
 hero: /images/albert-robida-pd/knight-returning-with-pig-and-keg.jpg
 hero_alt: "A knight returns laden — crossbow, sword, and loot — Albert Robida"
@@ -9,32 +10,27 @@ hero_alt: "A knight returns laden — crossbow, sword, and loot — Albert Robid
 
 ## Weapons
 
-
-| Weapon                  | Hands      | Slots | Cost (gp) |
-| ----------------------- | ---------- | ----- | --------- |
-| Dagger                  | one-handed | 1     | 3         |
-| Silver dagger           | one-handed | 1     | 30        |
-| Club                    | one-handed | 1     | 3         |
-| Sling with 30 stones    | one-handed | 1     | 2         |
-| Small ax                | one-handed | 2     | 4         |
-| Mace (incl. war hammer) | one-handed | 2     | 5         |
-| Horseman's ax           | one-handed | 2     | 6         |
-| Short sword             | one-handed | 2     | 7         |
-| Arming sword            | one-handed | 2     | 10        |
-| Short bow / hunting bow | two-handed | 2     | 25        |
-| Spear                   | two-handed | 3     | 3         |
-| Longsword               | two-handed | 3     | 15        |
-| Longbow                 | two-handed | 3     | 40        |
-| Crossbow                | two-handed | 3     | 30        |
-| Battle ax               | two-handed | 3     | 7         |
-| Greatsword              | two-handed | 4     | 15        |
-| Halberd / pole arm      | two-handed | 4     | 7         |
-
-
-- We don't need this.
+| Weapon                       | Slots | Cost (gp) |
+| ---------------------------- | ----- | --------- |
+| Dagger                       | 1     | 3         |
+| Silver dagger                | 1     | 30        |
+| Club                         | 1     | 3         |
+| Sling with 30 stones         | 1     | 2         |
+| Small ax                     | 2     | 4         |
+| Mace (incl. war hammer)      | 2     | 5         |
+| Horseman's ax                | 2     | 6         |
+| Short sword                  | 2     | 7         |
+| Arming sword                 | 2     | 10        |
+| Short bow / hunting bow (2H) | 2     | 25        |
+| Spear (2H)                   | 3     | 3         |
+| Longsword (2H)               | 3     | 15        |
+| Longbow (2H)                 | 3     | 40        |
+| Crossbow (2H)                | 3     | 30        |
+| Battle ax (2H)               | 3     | 7         |
+| Greatsword (2H)              | 4     | 15        |
+| Halberd / pole arm (2H)      | 4     | 7         |
 
 ## Ammunition
-
 
 | Item                    | Slots | Cost (gp) |
 | ----------------------- | ----- | --------- |
@@ -42,9 +38,7 @@ hero_alt: "A knight returns laden — crossbow, sword, and loot — Albert Robid
 | Quiver with 20 arrows   | 1     | 5         |
 | One silver-tipped arrow | —     | 5         |
 
-
 ## Armor
-
 
 | Armor       | AC  | Slots | Cost (gp) |
 | ----------- | --- | ----- | --------- |
@@ -55,14 +49,12 @@ hero_alt: "A knight returns laden — crossbow, sword, and loot — Albert Robid
 | Field plate | 4   | 5     | 2,000     |
 | Full plate  | 5   | 7     | 4,000     |
 
-
 - AC is Armor Class: the number of points of damage the armor absorbs on a hit.
 - Plate armor requires training: see *Training* under [[Burners Adventure Game#Weapons, Armor, and Shields]].
 - Field and full plate are rare and must be fitted to you by a master armorer.
 - If an armor is not listed, use the closest entry. For example, scale mail can be treated as chain mail.
 
 ## Shield
-
 
 | Shield  | Slots | Cost (gp) |
 | ------- | ----- | --------- |
@@ -72,9 +64,7 @@ hero_alt: "A knight returns laden — crossbow, sword, and loot — Albert Robid
 | Kite    | 4     | 12        |
 | Tower   | 5     | 15        |
 
-
 ## Adventuring Gear
-
 
 | Item                                          | Slots | Cost (gp) |
 | --------------------------------------------- | ----- | --------- |
@@ -102,9 +92,7 @@ hero_alt: "A knight returns laden — crossbow, sword, and loot — Albert Robid
 | Garlic                                        | 1     | 5         |
 | Wolfsbane (one bunch)                         | 1     | 10        |
 
-
 ## Incendiaries & Alchemy
-
 
 | Item                          | Slots | Cost (gp) |
 | ----------------------------- | ----- | --------- |
@@ -120,7 +108,6 @@ hero_alt: "A knight returns laden — crossbow, sword, and loot — Albert Robid
 | Dwur grenade                  | 1     | 60        |
 | Witchfire (vial)              | 1     | 75        |
 
-
 ## Count these
 
 Arrows, quarrels, and shot. Holy water. Incendiaries — oil, Molotovs, firepots, naphtha, boom sticks, the rest of that list. Rations.
@@ -133,7 +120,6 @@ Lantern oil is the same flask you would throw. One flask, one use — light or f
 
 Bought to carry or ride. They sit **off** your twelve slots — not Muster, not inventory. A pack mule's load is its own, not yours.
 
-
 | Animal        | Cost (gp) |
 | ------------- | --------- |
 | Mule          | 30        |
@@ -143,7 +129,6 @@ Bought to carry or ride. They sit **off** your twelve slots — not Muster, not 
 | Hunting dog   | 25        |
 | Falcon / hawk | 50        |
 
-
 Feed and stabling when you are in town (Referee). Ordinary stock needs no special Trait beyond what the job asks (*riding*, pack work). A **trained, named** companion — your horse, your dog — is a **Signature** on that Trait, not a Muster slot and not a second price: see *Signatures* on [[Burners Adventure Game]].
 
 ## Hirelings and specialists
@@ -151,7 +136,6 @@ Feed and stabling when you are in town (Referee). Ordinary stock needs no specia
 Week rates for servants, trades, and camp/wall hands who are **not** on the adventure. Food and lodging in the rate; new gear on you. Rare hands (sage, alchemist) only in larger towns. Dwarves and elves typically cost double. Other types at the Referee's call.
 
 Anyone who accompanies the party into danger — torchbearer, packbearer, rescued specialist — is a **retainer** for that stretch: you outfit them; survivors take at least a **half-share** (no flat wage for the delve). Loyalty, XP, Muster: [[Burners Muster]].
-
 
 | Service                                     | gp / week |
 | ------------------------------------------- | --------- |
@@ -166,9 +150,7 @@ Anyone who accompanies the party into danger — torchbearer, packbearer, rescue
 | Alchemist                                   | 250       |
 | Sage                                        | 500       |
 
-
 **Garrison troops** (month hire, OSE mercenaries):
-
 
 | Troop         | gp / month | Troop                            | gp / month |
 | ------------- | ---------- | -------------------------------- | ---------- |
@@ -176,7 +158,6 @@ Anyone who accompanies the party into danger — torchbearer, packbearer, rescue
 | Light footman | 2          | Light horseman / longbowman      | 10         |
 | Heavy footman | 3          | Medium horseman / mounted archer | 15         |
 | Crossbowman   | 4          | Heavy horseman                   | 20         |
-
 
 Food and basic kit in the rate; wages double in wartime. Morale is their own score (6 levy up to 9 mounted), checked on 2d6 as OSE. If individuals from a garrison accompany an adventure, treat them as retainers for that stretch ([[Burners Muster]]).
 
@@ -197,13 +178,11 @@ Want something not on these tables? You can use classic old school roleplaying g
 
 **Base rate — gp per slot (unlisted items):**
 
-
 | Category               | gp/slot | Examples                                       |
 | ---------------------- | ------- | ---------------------------------------------- |
 | Common                 | 1       | clothing, tools, rope, torches, provisions     |
 | Plain armaments        | 5       | odd weapons not on the list                    |
 | Fine steel & specialty | 10      | books, lockpicks, instruments, specialty tools |
-
 
 - **Provisions:** 1 gp per meal for the group.
 - **Ranged weapons** and **silver** (and other special materials) add a surcharge when you invent a new piece.
@@ -212,7 +191,6 @@ Want something not on these tables? You can use classic old school roleplaying g
 
 **Quality — added on top of the base (or on a listed price):**
 
-
 | Enhancement           | Adds      |
 | --------------------- | --------- |
 | Fine (aesthetic)      | +10 gp    |
@@ -220,6 +198,5 @@ Want something not on these tables? You can use classic old school roleplaying g
 | Noble                 | +1,000 gp |
 | Exceptional craft, +1 | +100 gp   |
 | Rare craft, +2        | +1,000 gp |
-
 
 So an *elegant knight's sword, +1*: listed arming sword **10** + "elegant" 10 + "+1" 100 = **120 gp**. Exceptional craft is finer in the fiction, but it is **not** enchanted magic — see [[Burners Referee Magic Items]].

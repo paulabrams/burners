@@ -21,6 +21,7 @@ hero_alt: "A knight returns laden — crossbow, sword, and loot — Albert Robid
 | Arming sword            | 2     | 10        |
 | Short bow / hunting bow | 2     | 25        |
 | Spear                   | 3     | 3         |
+| Horseman's ax           | 3     | 6         |
 | Longsword               | 3     | 15        |
 | Longbow                 | 3     | 40        |
 | Crossbow                | 3     | 30        |

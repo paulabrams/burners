@@ -52,13 +52,6 @@ surprised side goes last in round 1.
 - Counting 3s and 4s for Initiative, and each foe group rolling its own d6, go.
   Change 4 replaces them.
 
-## Unchanged
-
-- A two-handed weapon of 3+ slots, in two hands, can burn a second die, Trait or
-  not.
-- Casting burns at least spell-level dice. Level keeps pace with spell level, and
-  the cost keeps Sorcerers short of dice.
-
 ## Watch for in play
 
 - With side initiative, light kit no longer means quick feet. Empty slots still

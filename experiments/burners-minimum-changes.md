@@ -38,7 +38,8 @@ Block. No Trait, no reroll.
 
 **4. Classic side initiative.** Roll 1d6 per side to see who goes first. (If a
 side is split up in the fight, the Referee may give each part its own d6.) A
-surprised side goes last in round 1.
+surprised side goes last in round 1. With 4 or more empty slots, you're light:
+add 1 to your side's roll for you alone.
 
 ## Rules text that changes with them
 
@@ -54,7 +55,6 @@ surprised side goes last in round 1.
 
 ## Watch for in play
 
-- With side initiative, light kit no longer means quick feet. Empty slots still
-  mean more Fuel.
-- Arcana no longer give dice. What they do in a fight is open: +1 to the cast
-  total, reroll 2s as well, or nothing beyond the look.
+- Light kit. Fuel stops at 3 empty slots, so the 4th slot's only job is speed. A
+  light Burner goes first 58% of the time instead of 42%. Only matters when the
+  party loses by 1 or ties.

@@ -55,6 +55,27 @@
   - The real cost of letting players split at will is time: back to a roll per player, the thing side initiative fixes.
 - Earlier recommendation, superseded: keep the count and switch to 1–3. At level 1 a party of four has at least one Burner going first about half the time (B/X: 42%), though foes rolling 5 or 6 always go first, and the keep-or-drop choice at the top-off means something. If play shows the count is only bookkeeping, side initiative is the fallback, and it drops in without touching anything else.
 
+#### Fatigue in long fights
+
+- Paul (Oct 12): after 10 rounds of fighting (1 Turn), everyone is Fatigued until they rest an hour. While Fatigued, your Fuel maximum is halved, rounded up: 4 → 2, 5 → 3, 6 → 3.
+- Fits the 1-minute round: target fights are 2–4 rounds, so it only bites a grind like the doorway fight, and it says "end it or get out" without touching normal fights. It carries over, so the next wandering monster meets a tired party.
+- The rest is the existing Hour Rest (one hour, food and water), already a full Turn Tracker cycle with wandering-monster checks.
+- B/X comparison: rest 1 turn in 6 or −1 to hit and damage (dungeon); 1 day in 7 (wilderness); run 30 rounds, then rest 3 turns. Burners already drops OSE's hourly rest tax (OSE conversions).
+- **General condition (Paul):** Fatigued isn't only for long fights. Any hard exertion can leave you Fatigued: you come out of class 5 rapids half-drowned and straight into a fight, not fresh. Ten rounds of fighting is one trigger among several.
+  - Why (Paul): Fatigued represents fatigue without dealing HP or raising Heat. Heat is now effectively karmic debt, a consequence owed from a short Approach roll, so wear and tiredness shouldn't be paid in it. Three separate channels: HP for harm, Heat for debt, Fatigued for wear.
+  - Knock-on: the Referee Guide's Grind section (crawl fatigue raising Heat) and the Journeyman example in the core rules (cold rain costs 6 Heat) both pay wear in Heat. They should become Fatigued, with Craft stretching how long the Journeyman's party can go before it sets in.
+  - Other triggers, Referee's call: a long sprint or chase, a hard climb, a forced march, a night without sleep, carrying a comrade out.
+  - One condition, no stacking. An Hour Rest clears it.
+  - It works out of combat too, and it fills the gap left by dropping the Heat grind tick (Paul): a long crawl with no rest can leave the crew Fatigued.
+  - Journeyman (Paul): he keeps the group moving farther and longer. For time-based triggers, his Craft extends how long the group he's guiding can go before becoming Fatigued, in hours or days. Example: if the base is 6 days of travel before a rest day (as in B/X), Craft 2 makes it 8.
+    - Base numbers still to set: days of overland travel, hours of delving without an Hour Rest.
+    - One-off shocks (the rapids) have no clock to stretch. They come from the Approach roll for the crossing.
+    - Fights stay with the Veteran: the Journeyman rules the journey, not the melee, so his Craft doesn't add rounds. A parallel option: Sword level adds rounds before a fight leaves you Fatigued.
+- Open:
+  - Count per fight or across fights since the last rest? Per fight is simpler to track.
+  - Foes: undead and constructs never tire (the skeleton doorway grind gets scarier). Living foes mostly break on morale before round 10.
+  - Sorcerers: half the maximum can put top-level spells out of reach (spell-level dice), which fits.
+
 #### Trained attack rule
 
 Shared by every model below. Replaces separate free dice for two-handers and shields with one rule: the Trait makes the die free.

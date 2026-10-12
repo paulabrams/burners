@@ -37,6 +37,21 @@ side is split up in the fight, the Referee may give each part its own d6.) A
 surprised side goes last in round 1. Light kit is quick: add 1 to your side's
 roll for you alone for every 4 empty slots.
 
+**5. Fatigued.** Hard going wears you out. While Fatigued, your Fuel maximum is
+halved (round up). An Hour Rest clears it. It doesn't stack.
+
+- A fight that runs 10 rounds (a full Turn) leaves everyone in it Fatigued.
+- Six days of travel without a day's rest.
+- Anything else that would wear you out, on the Referee's call: you come out of
+  the rapids half-drowned, run a long chase, climb all afternoon, go a night
+  without sleep.
+
+A Journeyman keeps the group going longer. Add his Craft to the hours or days
+before the group he's guiding becomes Fatigued.
+
+Fatigue costs no HP and no Heat. HP is harm, Heat is what you owe, Fatigued is
+wear.
+
 ## Rules text that changes with them
 
 - "You cannot hold an Action or an attack until a trigger" goes. Change 1
@@ -48,9 +63,15 @@ roll for you alone for every 4 empty slots.
   short next round.
 - Counting 3s and 4s for Initiative, and each foe group rolling its own d6, go.
   Change 4 replaces them.
+- Wear stops being paid in Heat. The Referee Guide's Grind section (a long crawl
+  raises Heat) and the Journeyman's cold-rain example (6 Heat, cut by Craft)
+  become Fatigued, with Craft stretching how long the group lasts.
 
 ## Watch for in play
 
 - Light kit. Fuel stops at 3 empty slots, so slots past that only buy speed. A
   Burner goes first 42% of the time, 58% with 4 empty slots (+1), 72% with 8
   (+2). It only matters when the party ties or loses by a little.
+- Fatigue. Fights should end in 2–4 rounds, so 10 rounds only catches a grind.
+  Undead and constructs don't tire. A Fatigued Sorcerer may be short of dice for
+  his biggest spells.

@@ -5,14 +5,8 @@ status: proposed — not yet in the rules; playtest before folding in
 
 # Minimum Changes
 
-The smallest set of changes to try after the doorway fight. Anything not listed
-here stays as written. #needs-playtest
-
-## The changes
-
 **1. Holding.** Hold your move, your Action, some of your attacks, or any mix of
-them. You're standing ready, but don't expect to go first. Wait for the spearman
-to close so you can punch him, and his spear gets you first.
+them.
 
 - The rank behind holds its move and steps up when the front foe falls.
 - A fighter in a doorway holds his attack and strikes the first one that steps
@@ -20,6 +14,8 @@ to close so you can punch him, and his spear gets you first.
 - An archer holds her shot until her friend is out of the line.
 - A Veteran with a longsword uses one attack now and holds the other: "My
   weapon's longer. As he steps up, I stick him."
+
+However, don't expect to always go first. In the longsword example, a spearman foe has a longer reach and will attack first. Compare using item slots.
 
 **2. Fuel.** Your maximum is your level + empty slots (up to 3). Roll your
 maximum in round 1. At each Roll Initiative after that, drop any dice you don't
@@ -33,8 +29,8 @@ attack and Defend three times.
 Leave your pack in a room that feels safe. Caught with it on, you roll only your
 level in dice. Dropping it mid-fight takes your Action.
 
-**3. Traits.** With the Trait, reroll 1s: a weapon on a blow, a shield on a
-Block. No Trait, no reroll.
+**3. Traits matter.** When you burn a 1 using an item you have the Trait for,
+reroll it. Any item: a weapon, a shield, an Arcana.
 
 **4. Classic side initiative.** Roll 1d6 per side to see who goes first. (If a
 side is split up in the fight, the Referee may give each part its own d6.) A

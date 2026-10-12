@@ -34,8 +34,8 @@ reroll it. Any item: a weapon, a shield, an Arcana.
 
 **4. Classic side initiative.** Roll 1d6 per side to see who goes first. (If a
 side is split up in the fight, the Referee may give each part its own d6.) A
-surprised side goes last in round 1. With 4 or more empty slots, you're light:
-add 1 to your side's roll for you alone.
+surprised side goes last in round 1. Light kit is quick: add 1 to your side's
+roll for you alone for every 4 empty slots.
 
 ## Rules text that changes with them
 
@@ -51,6 +51,6 @@ add 1 to your side's roll for you alone.
 
 ## Watch for in play
 
-- Light kit. Fuel stops at 3 empty slots, so the 4th slot's only job is speed. A
-  light Burner goes first 58% of the time instead of 42%. Only matters when the
-  party loses by 1 or ties.
+- Light kit. Fuel stops at 3 empty slots, so slots past that only buy speed. A
+  Burner goes first 42% of the time, 58% with 4 empty slots (+1), 72% with 8
+  (+2). It only matters when the party ties or loses by a little.

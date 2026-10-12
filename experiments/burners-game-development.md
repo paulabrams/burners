@@ -368,6 +368,7 @@ Notes on 2:
   - Considered and set aside: one die per cast, with the spell's level added to the cast total. It would make Sorcerers more reliable but needs a pass on Ward and area spells.
   - The school's Trait rerolling 1s, like weapons, also cuts fumbles; schools are trained-only, so every Sorcerer has it.
   - Open: Arcana's job in a fight (+1 to the cast total, reroll 2s as well, or costume only).
+  - Later (Paul): a Trait rerolls a 1 burned with any item, Arcana included. Paul finds rerolling 1s fun, and it stays even though it nearly removes cast fumbles for a trained caster (one-die cast 17% → 3%). Open: does the Trait have to name the Arcana (*staff*, *wand*) as weapon Traits name the weapon, and do fumbles, Fragile and cursed Traits read the face after the reroll?
 
 ## Next steps
 

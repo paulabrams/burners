@@ -33,7 +33,7 @@
 - B/X side initiative: party and foes each roll a d6, high goes first. The party goes first 42% of the time, ties 17%, foes first 42%. One roll, the party acts together, and holding already lets anyone wait.
 - Today's count is already close to that. The Referee names one number, and each Burner is either before or after it. The per-Burner part is just counting your own faces.
 - What the count gives that side initiative doesn't:
-  - Faces mean something besides damage. With the top-off (minimum change 2), what you keep is a choice between speed, Sparks and big blows.
+  - Faces mean something besides damage. With the top-off (October 13 update 2), what you keep is a choice between speed, Sparks and big blows.
   - Light kit is quick feet: more empty slots, more dice, more chances to go first.
   - The party can split, so a slow fighter and a quick archer play differently.
 - What it costs: one count per player per round, and with small pools most Burners go after the foes unless the band widens.
@@ -369,7 +369,7 @@ Paul: I'm thinking of saying you get a free die on an attack if you have the wea
 
 ## Minimum changes for now
 
-Short version for Saxon: `burners-minimum-changes.md`.
+Now bundled as the changes we're applying: `burners-updates-2026-10-13.md`. This section is the earlier working version.
 
 1. **Holding.** Hold your move, your Action, some of your attacks, or any mix of them. You're standing ready to act when something happens, but that doesn't mean you go first. Wait for the spearman to close so you can punch him, and his spear gets you first. (Replaces "a held Action goes off at the same time as its trigger.") Examples:
    - The rank behind holds its move and steps up when the front foe falls, and swings if it held its attack too.

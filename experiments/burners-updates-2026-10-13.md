@@ -1,9 +1,9 @@
 ---
-title: "Burners — Minimum Changes"
-status: proposed — not yet in the rules; playtest before folding in
+title: "Burners — October 13 Updates"
+status: the bundle of changes we're applying to the rules
 ---
 
-# Minimum Changes
+# Burners October 13th Updates
 
 **1. Holding.** Hold your move, your Action, some of your attacks, or any mix of
 them.
@@ -25,6 +25,10 @@ Arcana give no dice. Sorcerie slots don't count as empty.
 That's 4 dice at level 1, 5 at level 2, 6 at level 3. With 4 dice you can make
 one big two-handed blow and Defend twice, or two big blows and no Defend, or one
 attack and Defend three times.
+
+Retainers: half their level, round down, plus empty slots (up to 3), with a
+minimum of 1 die. A level 1 retainer rolls its empty slots, one die below a
+Burner; in full kit it still gets 1.
 
 Leave your pack in a room that feels safe. Caught with it on, you roll only your
 level in dice. Dropping it mid-fight takes your Action.
@@ -62,11 +66,21 @@ The roll is the most the blow can do. The Referee may always deal less when the
 situation calls for it. It's the same blow, not a second attack: one Defend, one touch, one dose
 of poison, one Trait Curse.
 
+**7. Defend.** 2 dice, or 3 with a raised shield. If nothing in your hands can
+turn the blow (bare hands against a blade, a bow against a spear, an arrow with
+no shield or Cover), Defend 1. Anything you could parry with counts: a dagger, a
+staff, a torch. With *wrestling* or *boxing*, bare hands can turn fists and
+grabs.
+
 ## Rules text that changes with them
 
 - "You cannot hold an Action or an attack until a trigger" goes. Change 1
   replaces it.
-- The round 2 refill (one die per level) is replaced by the top-off.
+- The round 2 refill (one die per level) is replaced by the top-off. For
+  retainers, "Fuel level dice / refill: ⌊retainer level / 2⌋, minimum 1" in
+  Muster's Half Power table and the FAQ becomes half level plus empty slots, with
+  the minimum of 1 on the total, not the level part. Manage still rounds the
+  level part up.
 - "A die is used at its face and discarded. No reroll." gets the Trait as its
   exception.
 - Winded, or Fuel you're forced to lose with an empty pool: you top off one die
@@ -79,6 +93,12 @@ of poison, one Trait Curse.
 - Flat monster damage quotes go: the quote table in the Referee Guide's
   *Monsters at speed* and the damage-die-to-quote table in OSE Conversions.
   Change 6 replaces them.
+- "Melee one die, or no limit if you made a melee attack this round" goes, and
+  so does "the archer or mage caught in reach… cuts each melee blow with a single
+  die." Change 7 replaces them. Missiles stay 1 die, 2 with Cover. Examples that
+  lean on Defending without limit need redoing: the Aldric ogre and
+  dirty-fighting examples, Brand, Sefa and Kragg in the examples of play, and the
+  mobs line in the Referee Guide.
 
 ## Watch for in play
 
@@ -88,3 +108,6 @@ of poison, one Trait Curse.
 - Fatigue. Fights should end in 2–4 rounds, so 10 rounds only catches a grind.
   Undead and constructs don't tire. A Fatigued Sorcerer may be short of dice for
   his biggest spells.
+- Defend. Whether you swung no longer matters, only what's in your hands, so a
+  fighter holding his attack in a doorway still Defends 2. Shields give no Fuel
+  now; Defend 3 is their job.

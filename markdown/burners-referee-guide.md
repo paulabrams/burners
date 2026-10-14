@@ -273,8 +273,6 @@ A monster is any enemy: Hit Dice, attacks, and a public **Monster Stack** of **2
 
 **Full-dice monsters (optional).** Solo duel / demo as a Burner for spend and Defend. **Initiative stays group (or solo) 1d6** — do not switch order to a 3/4 Fuel count. Default is speed mode.
 
-Also: `experiments/burners-monster-stacks.md` — Monster Stacks (and the older `experiments/burners-cracked.md` quote sheet).
-
 ### Morale — when the other side quits
 
 Scores port from OSE unchanged (2–12, rolled on 2d6, roll under the score to hold). What matters at the table is remembering to ask. Check at these moments, once each:

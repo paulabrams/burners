@@ -265,5 +265,3 @@ Line numbers are as of 2026-08-16; section names are the durable anchors.
 - **burners-muster.md, burners-equipment.md, burners-experience.md,
   burners-ancestry.md, burners-invocations.md, burners-burn-undead.md** — no Defend-cap
   or cast-procedure text found.
-- **experiments/burners-monster-stacks.md, burners-turn-tracker.md,
-  burners-cracked.md** — monster-side only.

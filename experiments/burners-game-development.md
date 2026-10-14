@@ -141,7 +141,7 @@ Paul's concern: free dice rolled at the moment of the attack aren't known up fro
   - Flaw (Paul): one-handed weapons get no benefit from matching, so the *arming sword* or *small ax* Trait does nothing in a fight except accept magic. Possible patches: pair matching with option 3, so every trained weapon adds an attack die at Roll Initiative and matching is the extra for two-handers and shields; or let a trained one-hander match on a Counterattack or a Spark.
   - Dropped (Paul): Sparks are already wild enough that matching on a Counterattack or Spark would add more confusion.
 
-1. **Rerolls.** The Trait improves the dice you burn instead of adding dice.
+1. **Rerolls.** The Trait improves the dice you burn instead of adding dice. (Replaced by October 13 update 3: a trained 1 adds the item's slots. Kept as history.)
    - The Trait is the reroll: with the Trait for what you're using, reroll 1s as you burn them, on a blow with that weapon or a Block with that shield. Without the Trait, no reroll.
    - The gear's own benefit is what it lets you do at all (Paul). A weapon gives a full die of damage; a punch doesn't. A shield can Block an arrow or a blade; a bare hand can't.
    - Two-handers need no rule of their own: the second die rerolls like the first. With a trained two-hander in two hands, a blow of two 1s rerolls both.
@@ -317,6 +317,27 @@ Round 1 pool, and dice each round after. Gar: level 1, small ax 2, heater 3, 12 
 - The gladiators were 10 XP each, and the gold-filigree caps were ruled armor (0 XP).
 - Options: coin on or behind fights, count the caps as treasure, or raise fight XP.
 
+#### Shields, guards, and what a Trait buys
+
+Decided (October 13 update 3): a 1 burned with a trained item adds the item's slots. Each item upgrades one 1 per blow or Defend. A Handguard parries as 1 slot, or 2 for rings and baskets; Defensive goes.
+
+- The problem: once items gave no Fuel, a buckler and a tower did the same thing (Defend 3, Cover, the Trait reroll). Bigger shields only cost slots, speed and coin.
+- The reroll was universal but didn't make slots matter, and nobody liked the reroll.
+- Adding the slots is deterministic, known up front, and bigger is better: a slot 3 weapon is a +3 weapon, only on a 1. The 1 itself is the Trait's +1, so a dagger still gets a 2.
+- A size 5 Defensive polearm turning 1s into 6s on Defends beat arming sword and shield at the same 5 slots. Parrying as 1 slot fixes it. Paul, a dozen years of HEMA: sidesword and buckler is better than sidesword alone, and the buckler (3) over the hilt (2) matches that.
+- History: arming sword and round shield was a fighting style because the cross hilt parries but doesn't cover. Shields and bucklers went with simple hilts; the complex hilt took the buckler's job and the buckler dropped out. The finger buckler covers a messer hand, which has no guard.
+- Defensive, Guard and Handguard were one idea too many. Handguard is the protection around the hand, and that's what lets a sword parry.
+- Casts don't fumble in combat, so a 1 into a cast is just a low die, or the Arcana's slots plus one.
+- Each item once per blow or Defend, not each 1 taking the best item. Sword and buckler is definitely better on defense than axe and buckler, and this is what shows it: two 1s are 3 and 2 against 3 and 1. It also caps a two-hander's double 1s at 6 and 1 rather than 12.
+- A two-handed sword is one item, so it upgrades one 1 per blow or Defend. Good trade (Paul): the greatsword turns a 1 into a 5 on the attack, and sword and buckler defends better.
+
+Tried and dropped:
+
+- A 1 counts as the item's slots (not plus). A 1-slot item gained nothing.
+- A Defensive weapon parries like a buckler (3). Sidesword and buckler would be no better than the sidesword.
+- Shield adds +1 armor when its size is at least your armor. Then: use the better of shield size or armor, +1 if tied, only on blows you spend Fuel to Defend. Interesting (a shield is held into the blow), but it made a 15 gp tower match full plate on the blows you meet.
+- Shield return (`burners-shield-return.md`): the top-off made the refill moot.
+
 ## Bugs / errata
 
 1. ~~Equipment guide has battle ax listed as 4 slots rather than 3. Ylva has one.~~
@@ -380,8 +401,8 @@ Now bundled as the changes we're applying: `burners-updates-2026-10-13.md`. This
 2. **Your maximum is your level + empty slots (up to 3).** Round 1 you roll your maximum. Each later Roll Initiative, top off: roll new dice until you're back at your maximum. Weapons and shields give no dice. One answer to "how many dice do I get?", no alpha strike, no stockpiling past the maximum, and nothing to gain by dropping gear. The cap of 3 matches the backpack (3 slots).
    - Players will drop their bad dice before topping off, so in effect: keep the faces you like, reroll the rest. Say so in the rule rather than leave it as a trick.
    - What to keep becomes a choice: 6s for Sparks and big blows, 3s and 4s for Initiative, high faces for Defend.
-   - The Trait's reroll of 1s still matters for 1s rolled during the top-off, which you're stuck with for that round.
-3. **A Trait rerolls 1s:** with a weapon on a blow, with a shield on a Block. No reroll without the Trait.
+   - The Trait's reroll of 1s still matters for 1s rolled during the top-off, which you're stuck with for that round. (Now: a trained 1 adds the item's slots, so with heavy kit a 1 is worth keeping.)
+3. **A Trait rerolls 1s:** with a weapon on a blow, with a shield on a Block. No reroll without the Trait. (Replaced by update 3: a trained 1 adds the item's slots.)
 Dropped: the fallen staying put. The rank behind may step up; the real fix is dice (2) and an unused attack meeting a foe as it steps into reach (1). Also dropped: round 1 dice from the weapon in hand. Weapon length plays out through holding: win Initiative as they close, and the longer weapon strikes first.
 
 Not rules: put coin behind fights; stage level 1 fights at about one foe per front-liner.
@@ -399,6 +420,7 @@ Notes on 2:
   - The school's Trait rerolling 1s, like weapons, also cuts fumbles; schools are trained-only, so every Sorcerer has it.
   - Open: Arcana's job in a fight (+1 to the cast total, reroll 2s as well, or costume only).
   - Later (Paul): a Trait rerolls a 1 burned with any item, Arcana included. Paul finds rerolling 1s fun, and it stays even though it nearly removes cast fumbles for a trained caster (one-die cast 17% → 3%). Open: does the Trait have to name the Arcana (*staff*, *wand*) as weapon Traits name the weapon, and do fumbles, Fragile and cursed Traits read the face after the reroll?
+  - Replaced (update 3): a trained Arcana's 1 adds its slots on a cast, and casts don't fumble in combat. Fragile and cursed Traits are open in the updates file.
 
 ## Next steps
 

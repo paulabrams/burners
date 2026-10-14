@@ -74,7 +74,8 @@ Versatile sidearms, particularly excellent at defense — able to parry and defl
 - **Dagger** `[Class2 Slots1 Close Stabbity]` — military double-edged dagger.
 - **Parrying Dagger** `[Class2 Slots1 Close Binding Handguard Defensive Stabbity]` — left-handed dagger wielded to accompany a sword.
 - **Rondel** `[Class2 Slots1 Close Stabbity]` — triangular thrusting war dagger, used to pierce gaps in armor, especially while grappling. Carried by many knights and men-at-arms.
-- **Cutlass** `[Class2 Slots2 Short Defensive Handguard Cutty]` — short curved cutting sword (machete, hanger, langes messer, dussack).
+- **Cutlass** `[Class2 Slots2 Short Defensive Handguard Cutty]` — short curved cutting sword (machete, hanger).
+- **Langes Messer** `[Class2 Slots2 Medium Cutty]` — long single-edged knife-sword with a nagel and no hand protection (messer, dussack). Often carried with a finger buckler.
 - **Short Sword** `[Class2 Slots2 Short Defensive Piercing Stabbity]` — short straight stabbing sword (katzbalger, cinquedea).
 - **Arming Sword** `[Class2 Slots2 Medium Binding Defensive Piercing Cutty]` — simple iconic straight sword (viking or knight's sword).
 - **Sidesword** `[Class2 Slots2 Medium Handguard Binding Defensive Piercing Cutty]` — "the sword by your side," a typical military/civilian sidearm (spada di filo, cavalry sword).
@@ -195,12 +196,13 @@ Heavy harness eats slots and thins your Initiative pool; light kit keeps empty s
 
 ## Shields
 
-Held steel, raised against a blow. A shield's **slots** are the dice it lends on your Initiative roll (prices in [[Burners Equipment]]): buckler 2, heater 3, rotella 4, kite 4, tower 5. A raised shield can count as **Cover** vs missiles (2 dice on that Defend). **Block** redirects a blow onto you — the shield does not deepen it (see [[Burners Adventure Game]]).
+Held steel, raised against a blow. A shield's **slots** are the dice it lends on your Initiative roll (prices in [[Burners Equipment]]): finger buckler 1, buckler 2, heater 3, rotella 4, kite 4, tower 5. A raised shield can count as **Cover** vs missiles (2 dice on that Defend). **Block** redirects a blow onto you — the shield does not deepen it (see [[Burners Adventure Game]]).
 
 Catalog **size** tags below are labels for look and heft — use Burners **slots** at the table.
 
 ### Shield Types
 
+- **Finger Buckler** `[size 1 Slots1]` — palm-sized buckler, about six inches across, gripped in the fingers. Covers a sword hand that has no guard of its own. Too small to count as Cover.
 - **Buckler** `[size 2 Slots2]` — small fist-gripped companion shield (round *brocchiero* or square *targa*). Common; the hand still free to grab.
 - **Target** `[size 2 Slots2]` — small round shield strapped to the arm (Scottish target, smaller Viking shield).
 - **Round Shield** `[size 3 Slots3]` — light wooden round shield (Viking shield).

@@ -34,7 +34,25 @@ Leave your pack in a room that feels safe. Caught with it on, you roll only your
 level in dice. Dropping it mid-fight takes your Action.
 
 **3. Traits matter.** When you burn a 1 using an item you have the Trait for,
-reroll it. Any item: a weapon, a shield, an Arcana.
+add the item's slots to it. A weapon on a blow, a shield on a Defend, an Arcana
+on a cast. A dagger makes it a 2, a heater a 4, a tower a 6 (not a Spark).
+
+Each item upgrades one 1 per blow or Defend. Burn three 1s on a Defend with sword
+and buckler: the buckler makes one a 3, the sword makes one a 2, and the third
+stays a 1. Axe and buckler: 3, 1, 1. A halberd blow with two 1s: 6 and 1.
+
+A weapon with a **Handguard** parries: on a Defend it counts as 1 slot, or 2
+for rings, a swept hilt or a basket (`Handguard2`). A weapon with no guard
+(messer, axe, mace, spear) adds nothing on a Defend.
+
+| On a Defend | A 1 becomes |
+| --- | ---: |
+| No guard | 1 |
+| Cross hilt, finger buckler | 2 |
+| Rapier, basket hilt, buckler | 3 |
+| Heater, round shield | 4 |
+| Rotella, kite | 5 |
+| Tower | 6 |
 
 **4. Classic side initiative.** Roll 1d6 per side to see who goes first. (If a
 side is split up in the fight, the Referee may give each part its own d6.) A
@@ -81,8 +99,21 @@ grabs.
   Muster's Half Power table and the FAQ becomes half level plus empty slots, with
   the minimum of 1 on the total, not the level part. Manage still rounds the
   level part up.
-- "A die is used at its face and discarded. No reroll." gets the Trait as its
-  exception.
+- "A die is used at its face and discarded. No reroll." stays. Its one
+  exception: a 1 on a trained item adds the item's slots.
+- In Arms and Armor, **Defensive** goes and **Handguard** takes its place. The
+  old Handguard (AC 2 for the weapon hand) goes with it. Weapons tagged
+  Defensive and Handguard today become `Handguard2` (parrying dagger, cutlass,
+  sidesword, rapier, Swiss saber, greatsword). Defensive alone becomes
+  `Handguard` (arming sword, short sword, sabre, falchion, longsword, the Alu
+  swords, Vakaar falchion). Polearms and the shield punch lose it.
+- The finger buckler is too small for Defend 3.
+- Sorcerie's "Cast fumble (combat)" goes. Casts don't fumble in combat, so a 1
+  burned into a cast is only a low die, or the Arcana's slots plus one.
+- Out of combat, a cast's natural 2 fumbles only if the working is ambitious
+  (pushed past what the card plainly does) or you cast without paying a ready
+  card (a scroll read cold, a book, a working that isn't in your hand).
+  Otherwise it doesn't fumble.
 - Winded, or Fuel you're forced to lose with an empty pool: you top off one die
   short next round.
 - Counting 3s and 4s for Initiative, and each foe group rolling its own d6, go.
@@ -110,4 +141,21 @@ grabs.
   his biggest spells.
 - Defend. Whether you swung no longer matters, only what's in your hands, so a
   fighter holding his attack in a doorway still Defends 2. Shields give no Fuel
-  now; Defend 3 is their job.
+  now; Defend 3 and their 1s are their job.
+- 1s are worth keeping. With a tower or a polearm, a 1 beats any reroll, so it
+  stays through the top-off. With a dagger it's a 2, and you drop it.
+- Halberd against sword and board, same 5 slots. The halberd's 1 is a 6 on a
+  blow and a 1 on a Defend; the sword and heater's is a 3 on a blow and a 4 on
+  a Defend, with Defend 3.
+- Greatsword against sword and buckler. The greatsword turns a 1 into a 5 on the
+  attack and still parries at 3; two 1s on a Defend are 3 and 1. Sword and
+  buckler's two 1s are 3 and 2, with Defend 3. The two-hander hits, the shield
+  man turns blows.
+
+## Open
+
+- Is a Ward a cast, so a trained staff's 1 adds its slots there?
+- Fragile breaks on a burned 1. On a trained Fragile weapon, does the 1 still
+  break it when it adds the slots?
+- A cursed Trait wakes on any 1 burned through it. Same question.
+- In the dirt, burned Fuel is re-rolled. Does a re-rolled 1 add the item's slots?

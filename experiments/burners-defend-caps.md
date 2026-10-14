@@ -90,10 +90,11 @@ shield. Second free die on a mundane shield (Initiative already pays).
 
 ## Open
 
-Shields and Cover: [[burners-shield-return]] proposes replacing the raised-shield
-Defend 3 with Cover refills, and shields as Cover that refill only on their
-slot face. It also answers the enchanted-shield item below (refills on slots or
-6s).
+October 13 updates: Defend 2, or 3 with a raised shield, is change 7. Shields
+give no Fuel now, so "the board already throws its slots on Initiative" no
+longer holds; a shield's slots add to a trained 1 on a Defend (update 3).
+Shield return is dropped. Missiles: this page says Defend 2; the updates keep 1,
+or 2 with Cover. Candidate for the enchanted shield: it counts one slot bigger.
 
 Enchanted shield, if not the Block free die: extra Initiative die + powers
 only, or some other gift. Mundane board is Fuel + Defend 3; magic needs a

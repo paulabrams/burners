@@ -128,6 +128,10 @@ instead cast two plain 1sts; under A the choice is which single working the roun
   decision. Under C, Double Down must price in Fuel only or Sorcerie 1 cannot bend.
 - **Double Down price: SL + 1 or SL + 2?** Doubling SL is rejected (see the fumble
   table); lean SL + 2.
+- **Fumbles are gone from combat** (October 13 updates), so the fumble table and
+  "more dice = more 1s = the price of ambition" no longer price Double Down. Out of
+  combat, only an ambitious working fumbles. Is a doubled-down cast ambitious enough
+  to fumble, in or out of combat, or does Fuel alone set the price?
 - ~~Does a caster get any Spark option at all now?~~ **Resolved: Spark: Cast again**
   — a Spark on a cast may Fuel a full second casting (new card, ≥ SL dice), outside
   any Cast budget. A Spark never bends a rule; bending stays bought (Double Down).
@@ -228,7 +232,5 @@ Line numbers are as of 2026-08-16; section names are the durable anchors.
 - **burners-muster.md, burners-equipment.md, burners-experience.md,
   burners-ancestry.md, burners-invocations.md, burners-burn-undead.md** — no
   cast-procedure text found.
-- **experiments/burners-monster-stacks.md, burners-turn-tracker.md,
-  burners-cracked.md** — monster-side only.
 - **sims/** — the combat sim does not model casting; only the Defend mod
   ([[burners-defend-caps]]) touches it.

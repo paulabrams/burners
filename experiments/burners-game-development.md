@@ -55,6 +55,14 @@
   - The real cost of letting players split at will is time: back to a roll per player, the thing side initiative fixes.
 - Earlier recommendation, superseded: keep the count and switch to 1–3. At level 1 a party of four has at least one Burner going first about half the time (B/X: 42%), though foes rolling 5 or 6 always go first, and the keep-or-drop choice at the top-off means something. If play shows the count is only bookkeeping, side initiative is the fallback, and it drops in without touching anything else.
 
+#### Monster damage
+
+- Paul (Oct 13): the Referee always rolls monster damage. It's more fun and more exciting than flat quotes. Use the monster's damage die as printed.
+- When a monster's attack die rolls its top face (6 on a d6, 8 on a d8, 4 on a d4), roll one more of that die and add it. Same blow, not a second attack, which matters for poison and the Trait Curse: one Defend, one touch, one dose, one curse.
+- Decided (Paul): top face for any die size, so d4 monsters get it too. The extra die doesn't roll again.
+- Replaces the flat quotes (2 to 5) in the Referee Guide and OSE Conversions.
+- Decided (Paul): with several dice on their top face, the Referee judges. A deadly attack gets an extra die for each; otherwise he can limit it. The roll is always the most the blow can do, and the Referee may deal less when the situation merits it.
+
 #### Fatigue in long fights
 
 - Paul (Oct 12): after 10 rounds of fighting (1 Turn), everyone is Fatigued until they rest an hour. While Fatigued, your Fuel maximum is halved, rounded up: 4 → 2, 5 → 3, 6 → 3.

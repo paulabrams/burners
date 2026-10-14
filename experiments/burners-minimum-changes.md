@@ -52,6 +52,16 @@ before the group he's guiding becomes Fatigued.
 Fatigue costs no HP and no Heat. HP is harm, Heat is what you owe, Fatigued is
 wear.
 
+**6. Roll monster damage.** The Referee always rolls monster damage, using the
+monster's damage die as printed. When an attack die rolls its top face (6 on a
+d6, 8 on a d8), roll one more of that die and add it. Only once; the extra die
+doesn't roll again. If several dice roll their top face, it's the Referee's
+call: when the attack is meant to be deadly, each one adds its own die.
+
+The roll is the most the blow can do. The Referee may always deal less when the
+situation calls for it. It's the same blow, not a second attack: one Defend, one touch, one dose
+of poison, one Trait Curse.
+
 ## Rules text that changes with them
 
 - "You cannot hold an Action or an attack until a trigger" goes. Change 1
@@ -66,6 +76,9 @@ wear.
 - Wear stops being paid in Heat. The Referee Guide's Grind section (a long crawl
   raises Heat) and the Journeyman's cold-rain example (6 Heat, cut by Craft)
   become Fatigued, with Craft stretching how long the group lasts.
+- Flat monster damage quotes go: the quote table in the Referee Guide's
+  *Monsters at speed* and the damage-die-to-quote table in OSE Conversions.
+  Change 6 replaces them.
 
 ## Watch for in play
 

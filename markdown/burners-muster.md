@@ -44,7 +44,7 @@ Retainers are not Burners. **Everything that scales with level or Approach is ha
 | **Traits** | **2 per Approach level** (half of a Burner's 4 under that Approach) |
 | **Signatures** | At most **⌊Approach / 2⌋** per Approach — earned in play, never bought |
 | **HP** | **1d3 per retainer level** (about 2 per level on average; minimum **1**). On level-up: reroll the whole total (keep higher of new total or old+1). |
-| **Fuel level dice / refill** | **⌊retainer level / 2⌋**, minimum **1** |
+| **Fuel maximum** | **⌊retainer level / 2⌋** + empty slots (up to 4); minimum **1** |
 | **Veteran extras** | **⌊Sword / 2⌋** extras (Sword 1 → one attack) |
 | **Approach rolls** | **`2d6 + ⌊Approach / 2⌋`** |
 | **Shock and other Approach math** | Same half (Shock: **`2d6 + ⌊Sword / 2⌋`**) |
@@ -62,7 +62,7 @@ After-adventure Loyalty (will they stay?) still belongs to the Referee for every
 
 **Default:** half, always round **down**.
 
-**Managed:** The Boss spends **their Action** that round to **manage** the Muster — the Boss takes no other Action that round. Until the next Roll Initiative, up to **Heart** Mustering retainers (your choice if you Muster more than Heart) use **half round up** for Approach rolls, Shock, Veteran extras, and Fuel level-die counts. HP on the sheet does not rewrite mid-fight. Excess Mustering retainers stay at half down.
+**Managed:** The Boss spends **their Action** that round to **manage** the Muster — the Boss takes no other Action that round. Until the next Roll Initiative, up to **Heart** Mustering retainers (your choice if you Muster more than Heart) use **half round up** for Approach rolls, Shock, Veteran extras, and the level part of their Fuel maximum. HP on the sheet does not rewrite mid-fight. Excess Mustering retainers stay at half down.
 
 - One Action → up to **Heart** Mustering retainers that round.
 - Only retainers you are Mustering.
@@ -108,9 +108,9 @@ Before a job — in town or at the safehouse — or on any **8-hour sleep**, the
 
 Going alone: **0** Muster slots, all twelve physical. Retainers wait at home — off this page until Mustering.
 
-Muster slots hold **people**, not gear. Kit rides on them; outfit and new gear come from the Boss's purse. They never count as empty-inventory dice on Roll Initiative. See [[Burners Adventure Game]].
+Muster slots hold **people**, not gear. Kit rides on them; outfit and new gear come from the Boss's purse. They never count as empty slots for Fuel. See [[Burners Adventure Game]].
 
-Muster slots buy packing, Manage, **Boss-player control**, **no fight Loyalty while the Boss is active**, and **Heart on Loyalty checks** — not a different XP track, and not Initiative dice.
+Muster slots buy packing, Manage, **Boss-player control**, **no fight Loyalty while the Boss is active**, and **Heart on Loyalty checks** — not a different XP track, and not Fuel.
 
 **Non-Bosses** may still hire retainers. Without Muster, by the book the Referee runs those NPCs. **Table practice (preferred):** the **hiring player's player** still rolls and plays the hireling in a fight — Initiative, Fuel, attacks — so the retainer is not stuck last as a forgotten Ref turn. The Referee keeps **Loyalty** checks (and takes the sheet back if the hirer is down, fled, or absent). Mustering remains the Boss privilege for Muster XP (half the Boss's award, split among seats), no-fight-Loyalty, and Manage.
 

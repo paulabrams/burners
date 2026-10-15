@@ -95,7 +95,7 @@ Preferred Referee play is **scene Heat + free quoted attacks** — no free monst
 
 **Optional full-dice ports** (named foes you want to burn Fuel like a Burner): treat the damage die as weapon slots for blow weight — 1d4 → 1 slot, 1d6 → 2, 1d8 → 3, etc. — and roll a Fuel pool. See [[Burners Arms and Armor]]. Most nights, don't.
 
-**Natural attacks** are quotes (or weapon slots on a full-dice port), not Initiative dice.
+**Natural attacks** are quotes (or weapon slots on a full-dice port), not Fuel.
 
 **Initiative:** each distinct foe group rolls **1d6** every Round Initiative (same as [[Burners Adventure Game#Combat]]). Heat is unpaid Risk, not the Initiative dish. Optional full-dice foes may roll a Fuel pool like a Burner — label that choice at the table. Fiction tempo still holds:
 
@@ -196,7 +196,7 @@ Read straight off the printed block — 2 × HD cards (face mix), Heat, right-to
 
 Port OSE spells onto [[Burners Spells]] when a match exists; otherwise write a one-line effect in the same format (`School L: …`).
 
-- **Spell level = cast level SL.** Hand holds prepared cards; Sorcerie slot count sets hand size; Arcana rides in Sorcerie slots at full item cost (books and scrolls may too — fill the slot, no Initiative die). Sleep recovers up to caster Level cards (untap/burn/lasting); redraw or one-hour swap needs a readable source.
+- **Spell level = cast level SL.** Hand holds prepared cards; Sorcerie slot count sets hand size; Arcana rides in Sorcerie slots at full item cost (books and scrolls may too — fill the slot). Sleep recovers up to caster Level cards (untap/burn/lasting); redraw or one-hour swap needs a readable source.
 - **Durations and ranges as written** — the clocks match.
 - **Casting (combat):** one Action; burn at least SL Fuel dice, roll them — cast total = sum of faces. Tap the card. On a Spark, Fuel it with one or more additional Fuel dice, up to SL, for extra effect; unfueled, it fades. May burn ready cards in the same Action to recast or copy.
 - **Casting (NPC / module caster):** roll at least **SL Fuel dice** for the cast total the same way. A hostile cast **rolls initiative** if no fight is underway.

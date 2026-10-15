@@ -167,8 +167,8 @@ above and in *Learning Spells* / *Spellbooks*:
 **Sorcerie slots** are the mage half of your twelve. Say the full phrase when it matters —
 **Sorcerie 3** is your Approach level; **3 Sorcerie slots** is pack space.
 
-**Sorcerie slots** set your **hand size**. **Arcana** fill them and throw Initiative.
-**Books and scrolls** may also ride here — they occupy the slot, no Initiative die. The
+**Sorcerie slots** set your **hand size**. **Arcana** fill them.
+**Books and scrolls** may also ride here — they occupy the slot. The
 **hand** is spell cards.
 
 You have twelve item slots. As a Sorcerer you **declare a split**: so many **physical**,
@@ -180,7 +180,7 @@ Canting uses the same math under **kicks** — see [Canting: Kicks and Jarks](#c
 
 - **Re-split on rest.** On any 8-hour sleep you may redeclare the split. A Sorcerer who
   wants a six-card hand declares **six Sorcerie slots** — empty or filled; empty still
-  count for hand size, only Arcana throws Initiative. The cost is rope, rations, and armor
+  count for hand size. The cost is rope, rations, and armor
   left behind.
 - **Approach caps the spell.** Any card in your hand may be a spell of any level up to
   your Sorcerie (or Craft, for Canting). Slots are not leveled.
@@ -189,10 +189,8 @@ Canting uses the same math under **kicks** — see [Canting: Kicks and Jarks](#c
   personal spellbook cuts off redraws and swaps from your own deck — the notes can be
   taken, the hand cannot. The thief cannot learn from those notes.
 
-**Initiative.** On Roll Initiative, add **one die per Sorcerie slot occupied by Arcana** —
-empty slots, books, and scrolls add none. Arcana in those slots does not also add
-weapon-in-hand dice. Sorcerie slots **never** also count toward the empty-inventory
-Initiative dice (max 4). (Canting: one die per occupied kick.)
+**Fuel.** Sorcerie slots give no Fuel, filled or empty, and **never** count as empty
+inventory for your Fuel maximum. Arcana gives no dice. (Canting: the same for kicks.)
 
 ### Arcana
 
@@ -205,7 +203,7 @@ crystal.
 
 - **Books and scrolls.** A personal spellbook, a portable true writing, or a scroll may
   sit in a **physical or Sorcerie** slot. In a Sorcerie slot it **fills the slot** but is
-  **not Arcana** and **throws no Initiative die**. Either home still counts as
+  **not Arcana**. Either home still counts as
   **carrying** it for redraws and swaps — your personal spellbook for your own deck, a
   true writing for that one working. Book price for a blank personal spellbook is **25
   gp** (see *Spellbooks*), not the 100 gp costume tag.
@@ -323,7 +321,7 @@ personal spellbook, or a true writing you can read (see *Spellbooks*).
 A **scroll** is a single-use working — **not** a card. One spell, already written:
 parchment, feather, wax seal, charm on a string — call it a scroll either way. **1 slot**
 each; it may ride in a **physical or Sorcerie** slot. In a Sorcerie slot it occupies the
-slot but is not Arcana and throws no Initiative die.
+slot but is not Arcana.
 
 - **Cast** it as any spell of that level: one Action in combat, at least SL Fuel dice for
   the cast total — then it is **spent** (ash, blank vellum, snapped charm). Your **hand is
@@ -472,8 +470,7 @@ writing is **1 slot** (physical or Sorcerie), or rides on an object you already 
 **tome** is still **1 slot** — large as a work, one item in the pack. Each true writing is
 one spell; three finds are three slots until you crib them.
 
-**Personal spellbook** — **1 slot**, physical or Sorcerie (fills the slot; not Arcana; no
-Initiative die). Crib notation. Only you. Left in camp, your deck is out of reach: no
+**Personal spellbook** — **1 slot**, physical or Sorcerie (fills the slot; not Arcana). Crib notation. Only you. Left in camp, your deck is out of reach: no
 redraws, no swaps until you are reunited. Margins hold **Facts** (scraps, runes, puzzles)
 — free in plain ink; another reader might still use those as mundane intel. The workings
 themselves are private cipher. Starters get one; latecomers buy a blank at **25 gp**.

@@ -37,7 +37,7 @@ A **Signature** is the fiction of that third rung — a name, a look, a history 
 
 ## Item Tags
 
-Weapons carry **Class** (penetration / soft-target reads) and **Slots** (inventory and Initiative dice). Shields carry **size** (look and heft) and **Slots**. Armor pieces may list Class for catalog flavor; in play, read **AC** and **Slots** from the suit tables in [[Burners Equipment]]. Some tags take a value — `Class2`, `Far3`, `Slots2` — which defaults to **1** when omitted.
+Weapons carry **Class** (penetration / soft-target reads) and **Slots** (inventory space and reach). Shields carry **size** (look and heft) and **Slots**. Armor pieces may list Class for catalog flavor; in play, read **AC** and **Slots** from the suit tables in [[Burners Equipment]]. Some tags take a value — `Class2`, `Far3`, `Slots2` — which defaults to **1** when omitted.
 
 ---
 
@@ -139,7 +139,7 @@ Shoot ammunition. The three main types are bows, crossbows, and guns. Loading/re
 
 Weapons carry tags for their characteristics; many describe a way to upgrade in specific circumstances. Weapons fall into **main weapons** (spears, axes) and **sidearms** (swords, daggers); larger weapons have higher Class and more tags.
 
-- **Weapon Class** — the weapon's penetration vs contemporary armor. Used for soft-target reads (WC > AC). **Slots** — inventory space and Initiative dice (see [[Burners Equipment]]).
+- **Weapon Class** — the weapon's penetration vs contemporary armor. Used for soft-target reads (WC > AC). **Slots** — inventory space, and reach: when held attacks go off together, more slots strikes first (see [[Burners Equipment]]).
 - **Military Weapons** — Class3+ are "military weapons," not usually permitted in civilized areas unless they have the `Civil` tag.
 - **2H (Two-Handed)** — optimized for two hands; longer and heavier. Used one-handed: WC −1 and no tag benefits.
 
@@ -167,7 +167,7 @@ Weapons carry tags for their characteristics; many describe a way to upgrade in 
 - **Piercing** — extended rigid blade 2+ ft, reaching deep. **+1 WC vs Large Monsters** (whose vitals sit deeper, giving them higher AC).
 - **Primitive** — easy to build (low skill, time, materials); found among primitive tribes or improvised when nothing else is at hand.
 - **Reload** — must be reloaded before attacking again (bows, crossbows, firearms). The number = Actions needed (min 1).
-- **Trained** — **trained-only** in Burners: without a Trait for that kit you cannot use it in a fight (no Initiative dice, no blows). Examples: *greatsword*, *longbow*, *plate armor*.
+- **Trained** — **trained-only** in Burners: without a Trait for that kit you cannot use it in a fight (no blows). Examples: *greatsword*, *longbow*, *plate armor*.
 - **Stabbity** — optimized for stabbing/"shanking." After a Spark you may Fuel another attack with the same weapon into the **same Wound**.
 
 ---
@@ -186,7 +186,7 @@ The pieces below are *look and history* for those rungs — build the harness yo
 - **AC 4 (plate mail, 8 slots; field plate, 5 slots)** — coat of plates, brigandine, or plate over mail; field plate is the fitted harness.
 - **AC 5 (full plate, 7 slots)** — enclosed proof, fitted.
 
-Heavy harness eats slots and thins your Initiative pool; light kit keeps empty slots and speed.
+Heavy harness eats slots and thins your Fuel; light kit keeps empty slots and speed.
 
 **Gaps and called shots.** Your suit is one number in ordinary play. When a foe deliberately strikes where it does not reach — a called shot, or a swarm at the legs of a lightly harnessed Burner — that blow meets bare flesh (AC 0). Helms, gauntlets, greaves, and gorgets close those gaps. A **closed** helm (armet, great helm) trades sight and hearing for the best cover; open helms and **civil**-looking armor draw less notice in town.
 
@@ -196,7 +196,7 @@ Heavy harness eats slots and thins your Initiative pool; light kit keeps empty s
 
 ## Shields
 
-Held steel, raised against a blow. A shield's **slots** are the dice it lends on your Initiative roll (prices in [[Burners Equipment]]): finger buckler 1, buckler 2, heater 3, rotella 4, kite 4, tower 5. A raised shield can count as **Cover** vs missiles (2 dice on that Defend). **Block** redirects a blow onto you — the shield does not deepen it (see [[Burners Adventure Game]]).
+Held steel, raised against a blow. A shield gives no Fuel. Its **slots** (prices in [[Burners Equipment]]): finger buckler 1, buckler 2, heater 3, rotella 4, kite 4, tower 5. A raised shield can count as **Cover** vs missiles (2 dice on that Defend). **Block** redirects a blow onto you — the shield does not deepen it (see [[Burners Adventure Game]]).
 
 Catalog **size** tags below are labels for look and heft — use Burners **slots** at the table.
 
@@ -318,7 +318,7 @@ Some Baal-Mot, Drisi, and Black Wizards tap the vast power of dead dragons — b
 
 ### Arcana (Sorcerie slots)
 
-Sorcerers hold these in **Sorcerie slots** as Arcana (see [[Burners Sorcerie]]) — staff, wand, rod, orb, crystal, ring, amulet, mask, robes, hat. Personal spellbooks, true writings, and scrolls may ride **physical or Sorcerie**; in a Sorcerie slot they fill it but throw no Initiative die.
+Sorcerers hold these in **Sorcerie slots** as Arcana (see [[Burners Sorcerie]]) — staff, wand, rod, orb, crystal, ring, amulet, mask, robes, hat. Personal spellbooks, true writings, and scrolls may ride **physical or Sorcerie**; in a Sorcerie slot they fill it but are not Arcana.
 
 - **Book of Shadows** — a tome of one Umbrakala shadow-working.
 - **Diadem of the Third Eye** — a pendant suspended above your brow, in the position of your third eye, usually a jewel or precious stone.

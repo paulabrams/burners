@@ -165,8 +165,8 @@ Food and basic kit in the rate; wages double in wartime. Morale is their own sco
 ## Magic Items
 
 Refer to [[Burners Sorcerie]] for sorcerer gear: **Arcana** in Sorcerie slots (allow-list
-at full slot cost — those throw Initiative), **books and scrolls** (physical or Sorcerie;
-fill the slot, no Initiative die), and **potions** (physical only). Spells live in the
+at full slot cost), **books and scrolls** (physical or Sorcerie;
+fill the slot), and **potions** (physical only). Spells live in the
 **hand** and personal spellbook, not in the focus.
 
 Costume Arcana (mundane grade) is **100 gp apiece** in town; a starting Sorcerer gets one

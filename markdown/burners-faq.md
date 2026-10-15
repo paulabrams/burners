@@ -35,7 +35,7 @@ If you wait for them to act, you are giving that up. They are now in control of 
 
 You might say: *I have a spear, and they are moving to attack me. Can't the spear attack first?* A fair point. Reverse it, though. What if *they* have the spear? You do not always know what they have.
 
-The answer is in the numbers of the Initiative pool. A long spear is four slots; a pike is six. More dice in the pool. A dagger is one slot, one die, far less. With more dice, you are more likely to win Initiative by rolling 3s and 4s; you are also more likely to roll Sparks. If they attack you and you Spark on Defend, you can Counterattack.
+The answer is to hold your attack. When they step in and both blows go off together, the longer weapon strikes first, and more slots is longer. A long spear is four slots; a pike is six; a dagger is one. If they have the longer weapon, they stick you first.
 
 What the table gets is a procedure you can see, bank on, and plan with the other players. If you take Initiative, you take your Action before the opposition. If you want to cede Initiative to them, you may. You can even move and save the rest of your Action for after them — that is powerful too.
 
@@ -47,17 +47,17 @@ You move as part of your Action, to prepare for it — close, take the doorway, 
 
 That also means you cannot really attack and then retreat. Breaking away under threat *is* the Action; you do not swing and then step back. The extra beat, if you get one, is a Spark on Defend — and that is a Counterattack, not a withdrawal.
 
-### Why does a bigger weapon throw more dice?
+### Where do my dice come from?
 
-A weapon's **slots** are the dice it throws on Roll Initiative when it is **in hand**, and the space it fills. Stowed steel throws nothing until drawn. A two-hander throws more but leaves no hand for a shield. Front-liners with heavy steel in hand often go first because they threw more dice, so they count more 3s and 4s.
+Your level plus your empty slots, up to 4. Weapons, shields, armor, and Arcana give no dice. Heavy steel and armor fill slots and cost you dice; light kit keeps them. Caught with your pack on, you roll only your level.
 
-Empty slots (up to 4) and Arcana in Sorcerie slots also throw. Armor soaks leftover after Defend; it does not throw Initiative.
+A weapon's **slots** are its reach: when held attacks go off together, more slots strikes first. A two-hander of 3+ slots also burns a second die on the blow.
 
 ### Shield or two-handed?
 
-A shield's slots are dice on the Initiative roll. A raised shield can count as **Cover** vs missiles (2 dice on that Defend). It is not armor; **Block** redirects a blow onto you, and the shield does not deepen that Defend.
+A shield gives no Fuel. A raised shield can count as **Cover** vs missiles (2 dice on that Defend). It is not armor; **Block** redirects a blow onto you, and the shield does not deepen that Defend.
 
-A weapon of **3+ slots wielded in two hands** can burn a **second die** on the blow. Dropping the shield for that is sometimes the right call — a heater's three dice are wind, not a thicker soak against a flurry of tentacles. You fight with what you were actually carrying. Dropping something to free a slot is an Action.
+A weapon of **3+ slots wielded in two hands** can burn a **second die** on the blow. Dropping the shield for that is sometimes the right call. You fight with what you were actually carrying. Dropping something to free a slot is an Action.
 
 ### How do I Defend?
 
@@ -73,13 +73,13 @@ A Veteran (Sword 1+) gets extra attacks (one extra per Sword level). Any of thos
 
 ### I'm out of dice. Am I dead?
 
-No. You are **winded** until the next Roll Initiative's refill. Blows arrive whole in the meantime: leftover after armor comes off HP. Past 0 opens a **Wound**. That is the dangerous turn — not the empty hand by itself.
+No. You are **winded** until the next Roll Initiative tops you off. Blows arrive whole in the meantime: leftover after armor comes off HP. Past 0 opens a **Wound**. That is the dangerous turn — not the empty hand by itself.
 
 HP is luck and wind. The Wound is flesh. Finish it or fold, and get help when the fight ends.
 
-**Refill (round 2 and after):** add one Fuel die per **character level**, roll those in, recount 3s and 4s. Other Fuel stays frozen. Round 1 has no refill — that opening roll is your wind.
+**Top-off (round 2 and after):** drop any dice you don't want, then roll new dice until you're back at your maximum (level + empty slots, up to 4). Recount 3s and 4s. The dice you keep stay frozen.
 
-### Do monsters have Fuel? Do they refill?
+### Do monsters have Fuel?
 
 **Preferred speed:** no. Each enemy group rolls **1d6** for order, rerolled each round. They quote attacks. You Defend. They have a **Monster Stack** (2 × HD cards), not a Fuel pool. Ordinary folk at that speed have no Fuel either — they do not get a free Defend.
 
@@ -135,11 +135,11 @@ Split evenly among Burners and retainers on the job who are **not** Mustering. N
 
 ## Muster
 
-### Do retainers refill Fuel?
+### Do retainers top off Fuel?
 
-Yes, thinly. Half power: Fuel level dice / refill is **⌊retainer level / 2⌋**, minimum **1**. A level-1 retainer still gets **1** die on the refill.
+Yes, thinly. Half power: a retainer's Fuel maximum is **⌊retainer level / 2⌋** plus empty slots (up to 4), minimum **1**. A level-1 retainer rolls its empty slots, one die below a Burner; in full kit it still gets **1**.
 
-If the Boss spends their Action to **Manage**, up to Heart Mustering retainers use half **round up** for Fuel level-die counts that round (the Boss takes no other Action). HP on the sheet does not rewrite mid-fight. [[Burners Muster#Half Power]].
+If the Boss spends their Action to **Manage**, up to Heart Mustering retainers round the level part **up** that round (the Boss takes no other Action). HP on the sheet does not rewrite mid-fight. [[Burners Muster#Half Power]].
 
 Ordinary folk and speed-mode monsters are not retainers. They have no Fuel.
 

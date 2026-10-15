@@ -15,7 +15,10 @@ them.
 - A Veteran with a longsword uses one attack now and holds the other: "My
   weapon's longer. As he steps up, I stick him."
 
-However, don't expect to always go first. In the longsword example, a spearman foe has a longer reach and will attack first. Compare using item slots.
+Holding doesn't make you first. When a held attack and a foe's attack go off
+together, the longer weapon strikes first: more slots is longer. Same slots,
+they land together. In the longsword example, a long spear (4 slots) still
+sticks the Veteran first.
 
 **2. Fuel.** Your maximum is your level + empty slots (up to 4). Roll your
 maximum in round 1. At each Roll Initiative after that, drop any dice you don't
@@ -107,12 +110,12 @@ Traits and tells you if you've leveled.
 ## Rules text that changes with them
 
 - "You cannot hold an Action or an attack until a trigger" goes. Change 1
-  replaces it.
+  replaces it. (Applied.)
 - The round 2 refill (one die per level) is replaced by the top-off. For
   retainers, "Fuel level dice / refill: ⌊retainer level / 2⌋, minimum 1" in
   Muster's Half Power table and the FAQ becomes half level plus empty slots, with
   the minimum of 1 on the total, not the level part. Manage still rounds the
-  level part up.
+  level part up. (Applied; worked examples wait for the examples pass.)
 - "A die is used at its face and discarded. No reroll." stays. Its one
   exception: a 1 on a trained item adds the item's slots.
 - In Arms and Armor, **Defensive** goes and **Handguard** takes its place. The
@@ -138,7 +141,7 @@ Traits and tells you if you've leveled.
   card (a scroll read cold, a book, a working that isn't in your hand).
   Otherwise it doesn't fumble.
 - Winded, or Fuel you're forced to lose with an empty pool: you top off one die
-  short next round.
+  short next round. (Applied.)
 - Waking goes from Traits and leveling. "Each time you wake from sleep" and "the
   next time you wake after sleeping somewhere safe" become "when you burn
   something": Gaining Traits in the Adventure Game, Burners Experience (Level
@@ -189,7 +192,5 @@ Traits and tells you if you've leveled.
 - Burn to level: do the four Traits for your next level stay a requirement, or
   is the burn plus XP enough?
 
-- Holding: "Compare using item slots" in change 1 needs finishing. Does the
-  longer weapon strike first when both sides hold?
 - With no extra die, what does an enchanted shield or weapon give in a fight
   beyond its powers? Candidate: it counts one slot bigger.

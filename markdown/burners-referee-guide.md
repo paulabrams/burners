@@ -231,7 +231,7 @@ A monster is any enemy: Hit Dice, attacks, and a public **Monster Stack** of **2
 
 **Monsters have Hit Dice.** Deal each monster a **Monster Stack** of **2 × HD** playing cards. **Face-down = closed** (armored / shell). **Face-up = open** (meat). Ignore rank and suit. The stack replaces notepad HP. Players like a fat Fuel pool; you keep the enemy side **small and quotable**.
 
-**Initiative.** Each distinct enemy group rolls **1d6** every Round Initiative (reroll each round; no declare-before-roll). Shambling / acts last as written — skip the die, go last. Round 1 surprise: a surprised side is dead last that round (Fuel and Actions unchanged). PC Initiative stays the count of 3s and 4s on Fuel — [[Burners Adventure Game#Combat]]. Win the number and the whole Action is theirs then; a withheld swing happens after the monsters. No hold-until-trigger.
+**Initiative.** Each distinct enemy group rolls **1d6** every Round Initiative (reroll each round; no declare-before-roll). Shambling / acts last as written — skip the die, go last. Round 1 surprise: a surprised side is dead last that round (Fuel and Actions unchanged). PC Initiative stays the count of 3s and 4s on Fuel — [[Burners Adventure Game#Combat]]. Win the number and the whole Action is theirs then. A Burner may hold any of it for a trigger; when a held attack and a foe's go off together, more weapon slots strikes first, and same slots land together — [[Burners Adventure Game#Combat]].
 
 **Free attack (quote).** Flat damage — no die from an Init pool.
 

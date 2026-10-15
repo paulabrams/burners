@@ -17,16 +17,16 @@ them.
 
 However, don't expect to always go first. In the longsword example, a spearman foe has a longer reach and will attack first. Compare using item slots.
 
-**2. Fuel.** Your maximum is your level + empty slots (up to 3). Roll your
+**2. Fuel.** Your maximum is your level + empty slots (up to 4). Roll your
 maximum in round 1. At each Roll Initiative after that, drop any dice you don't
 want, then roll new dice until you're back at your maximum. Weapons, shields and
 Arcana give no dice. Sorcerie slots don't count as empty.
 
-That's 4 dice at level 1, 5 at level 2, 6 at level 3. With 4 dice you can make
-one big two-handed blow and Defend twice, or two big blows and no Defend, or one
-attack and Defend three times.
+That's 5 dice at level 1, 6 at level 2, 7 at level 3. With 5 dice you can spend
+one to go first (change 4), then make one big two-handed blow and Defend twice,
+or two big blows and no Defend, or one attack and Defend three times.
 
-Retainers: half their level, round down, plus empty slots (up to 3), with a
+Retainers: half their level, round down, plus empty slots (up to 4), with a
 minimum of 1 die. A level 1 retainer rolls its empty slots, one die below a
 Burner; in full kit it still gets 1.
 
@@ -35,11 +35,16 @@ level in dice. Dropping it mid-fight takes your Action.
 
 **3. Traits matter.** When you burn a 1 using an item you have the Trait for,
 add the item's slots to it. A weapon on a blow, a shield on a Defend, an Arcana
-on a cast. A dagger makes it a 2, a heater a 4, a tower a 6 (not a Spark).
+on a cast or a Ward. Arcana Traits name the item, like weapons: *staff*, *wand*,
+*orb*. A dagger makes it a 2, a heater a 4, a tower a 6. A 1 raised this
+way is never a Spark, even when it comes to 6.
 
 Each item upgrades one 1 per blow or Defend. Burn three 1s on a Defend with sword
 and buckler: the buckler makes one a 3, the sword makes one a 2, and the third
 stays a 1. Axe and buckler: 3, 1, 1. A halberd blow with two 1s: 6 and 1.
+
+In the dirt, the re-rolled face stands: a re-rolled 1 adds the slots. A cursed
+Trait doesn't add slots to a 1.
 
 A weapon with a **Handguard** parries: on a Defend it counts as 1 slot, or 2
 for rings, a swept hilt or a basket (`Handguard2`). A weapon with no guard
@@ -54,10 +59,12 @@ for rings, a swept hilt or a basket (`Handguard2`). A weapon with no guard
 | Rotella, kite | 5 |
 | Tower | 6 |
 
-**4. Classic side initiative.** Roll 1d6 per side to see who goes first. (If a
-side is split up in the fight, the Referee may give each part its own d6.) A
-surprised side goes last in round 1. Light kit is quick: add 1 to your side's
-roll for you alone for every 4 empty slots.
+**4. Initiative.** At each Roll Initiative, after everyone tops off, the
+Referee rolls 1d6 for the foes.
+On a 1 or 2, the Burners go first. On a 3 or more, a Burner who wants to go
+before the foes spends a Fuel die showing that number or higher; the rest go
+after them. A surprised side goes last in round 1. (If the foes are split up,
+the Referee may roll for each group.)
 
 **5. Fatigued.** Hard going wears you out. While Fatigued, your Fuel maximum is
 halved (round up). An Hour Rest clears it. It doesn't stack.
@@ -88,7 +95,14 @@ of poison, one Trait Curse.
 turn the blow (bare hands against a blade, a bow against a spear, an arrow with
 no shield or Cover), Defend 1. Anything you could parry with counts: a dagger, a
 staff, a torch. With *wrestling* or *boxing*, bare hands can turn fists and
-grabs.
+grabs. Hostile magic is still no limit.
+
+**8. Burn to level.** Traits and levels come when you burn something, not when
+you sleep. Coin, a bridge, a lair, a name, an oath, a friend's trust, the ship
+you came in on. It counts if you gave up something you won't get back; the
+Referee says whether it was enough. When you burn, look back and take the
+Traits you've earned since your last burn. Then the Referee checks your XP and
+Traits and tells you if you've leveled.
 
 ## Rules text that changes with them
 
@@ -108,6 +122,15 @@ grabs.
   `Handguard` (arming sword, short sword, sabre, falchion, longsword, the Alu
   swords, Vakaar falchion). Polearms and the shield punch lose it.
 - The finger buckler is too small for Defend 3.
+- Fragile goes. It came from Legends, and with no fumbles there's nothing for a
+  1 to break. Off the tag list, the sickle and scythe, and the "Fragile breaks
+  key off 1s" lines in the Adventure Game and Principles.
+- Enchanted kit no longer gives an extra die. It keeps acceptance by Trait and
+  its powers. The extra die comes out of Enchanted Arms and Armor and the
+  pointer to it in the Adventure Game, Trait acceptance in Arms and Armor,
+  Principles, OSE Conversions, and Referee Magic Items (intro, Tuned, relics, the
+  conversion table, "No plusses on sums"). The right tool's extra die against a
+  Monster Stack is a different thing and stays.
 - Sorcerie's "Cast fumble (combat)" goes. Casts don't fumble in combat, so a 1
   burned into a cast is only a low die, or the Arcana's slots plus one.
 - Out of combat, a cast's natural 2 fumbles only if the working is ambitious
@@ -116,8 +139,12 @@ grabs.
   Otherwise it doesn't fumble.
 - Winded, or Fuel you're forced to lose with an empty pool: you top off one die
   short next round.
-- Counting 3s and 4s for Initiative, and each foe group rolling its own d6, go.
-  Change 4 replaces them.
+- Waking goes from Traits and leveling. "Each time you wake from sleep" and "the
+  next time you wake after sleeping somewhere safe" become "when you burn
+  something": Gaining Traits in the Adventure Game, Burners Experience (Level
+  up, and the Referee's line), the Referee Guide's XP tracking, and the FAQ.
+- Counting 3s and 4s for Initiative goes. Foes still roll 1d6. Change 4
+  replaces the count.
 - Wear stops being paid in Heat. The Referee Guide's Grind section (a long crawl
   raises Heat) and the Journeyman's cold-rain example (6 Heat, cut by Craft)
   become Fatigued, with Craft stretching how long the group lasts.
@@ -133,9 +160,11 @@ grabs.
 
 ## Watch for in play
 
-- Light kit. Fuel stops at 3 empty slots, so slots past that only buy speed. A
-  Burner goes first 42% of the time, 58% with 4 empty slots (+1), 72% with 8
-  (+2). It only matters when the party ties or loses by a little.
+- Initiative. Burners go first free a third of the time. Otherwise a level 1
+  Burner with 5 dice almost always holds a die to pay with: 99% against a 3, 97%
+  against a 4, 87% against a 5, 60% against a 6. The question at the table is
+  whether going first is worth the die, and a 6 spent on speed is a 6 not
+  spent on a blow.
 - Fatigue. Fights should end in 2–4 rounds, so 10 rounds only catches a grind.
   Undead and constructs don't tire. A Fatigued Sorcerer may be short of dice for
   his biggest spells.
@@ -152,10 +181,15 @@ grabs.
   buckler's two 1s are 3 and 2, with Defend 3. The two-hander hits, the shield
   man turns blows.
 
+- Burning. Players will go looking for things to burn. A burn when you're short
+  of XP or Traits levels nothing and isn't banked; the next one counts.
+
 ## Open
 
-- Is a Ward a cast, so a trained staff's 1 adds its slots there?
-- Fragile breaks on a burned 1. On a trained Fragile weapon, does the 1 still
-  break it when it adds the slots?
-- A cursed Trait wakes on any 1 burned through it. Same question.
-- In the dirt, burned Fuel is re-rolled. Does a re-rolled 1 add the item's slots?
+- Burn to level: do the four Traits for your next level stay a requirement, or
+  is the burn plus XP enough?
+
+- Holding: "Compare using item slots" in change 1 needs finishing. Does the
+  longer weapon strike first when both sides hold?
+- With no extra die, what does an enchanted shield or weapon give in a fight
+  beyond its powers? Candidate: it counts one slot bigger.

@@ -45,6 +45,13 @@ the table: none, one, or several, up to the four for your next level. Each one
 points to something you did there. Wake from a safe sleep with the four Traits
 and enough XP, and you level up.
 
+*Oct 14 (October 13 update 8): Traits and levels come when you burn something,
+not when you wake. It counts if you gave up something you won't get back; the
+Referee judges. Paul: "It's not sleeping. It's burning." And: "There's no dream
+sequence when you sleep. It's when you burn something." It plays to the game's
+name, any burn will do, and leveling becomes a story beat. Open: whether the
+four Traits stay a requirement.*
+
 **9. Trait Curse.** The undead don't drain levels or Traits. They curse a random
 Trait. It still works, but its 1s hate you.
 

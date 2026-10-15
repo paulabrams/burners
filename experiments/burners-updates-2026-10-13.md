@@ -20,16 +20,17 @@ together, the longer weapon strikes first: more slots is longer. Same slots,
 they land together. In the longsword example, a long spear (4 slots) still
 sticks the Veteran first.
 
-**2. Fuel.** Your maximum is your level + empty slots (up to 4). Roll your
+**2. Fuel.** Your maximum is your level + empty slots (up to 3). Roll your
 maximum in round 1. At each Roll Initiative after that, drop any dice you don't
 want, then roll new dice until you're back at your maximum. Weapons, shields and
 Arcana give no dice. Sorcerie slots don't count as empty.
 
-That's 5 dice at level 1, 6 at level 2, 7 at level 3. With 5 dice you can spend
-one to go first (change 4), then make one big two-handed blow and Defend twice,
-or two big blows and no Defend, or one attack and Defend three times.
+That's 4 dice at level 1, 5 at level 2, 6 at level 3. With 4 dice you can make
+one big two-handed blow and Defend twice, or two big blows and no Defend, or one
+attack and Defend three times. Spend one to go first (change 4) and you have 3
+left.
 
-Retainers: half their level, round down, plus empty slots (up to 4), with a
+Retainers: half their level, round down, plus empty slots (up to 3), with a
 minimum of 1 die. A level 1 retainer rolls its empty slots, one die below a
 Burner; in full kit it still gets 1.
 
@@ -164,8 +165,8 @@ Traits and tells you if you've leveled.
 ## Watch for in play
 
 - Initiative. Burners go first free a third of the time. Otherwise a level 1
-  Burner with 5 dice almost always holds a die to pay with: 99% against a 3, 97%
-  against a 4, 87% against a 5, 60% against a 6. The question at the table is
+  Burner with 4 dice almost always holds a die to pay with: 99% against a 3, 94%
+  against a 4, 80% against a 5, 52% against a 6. The question at the table is
   whether going first is worth the die, and a 6 spent on speed is a 6 not
   spent on a blow.
 - Fatigue. Fights should end in 2–4 rounds, so 10 rounds only catches a grind.

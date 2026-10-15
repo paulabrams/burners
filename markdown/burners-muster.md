@@ -44,7 +44,7 @@ Retainers are not Burners. **Everything that scales with level or Approach is ha
 | **Traits** | **2 per Approach level** (half of a Burner's 4 under that Approach) |
 | **Signatures** | At most **⌊Approach / 2⌋** per Approach — earned in play, never bought |
 | **HP** | **1d3 per retainer level** (about 2 per level on average; minimum **1**). On level-up: reroll the whole total (keep higher of new total or old+1). |
-| **Fuel maximum** | **⌊retainer level / 2⌋** + empty slots (up to 4); minimum **1** |
+| **Fuel maximum** | **⌊retainer level / 2⌋** + empty slots (up to 3); minimum **1** |
 | **Veteran extras** | **⌊Sword / 2⌋** extras (Sword 1 → one attack) |
 | **Approach rolls** | **`2d6 + ⌊Approach / 2⌋`** |
 | **Shock and other Approach math** | Same half (Shock: **`2d6 + ⌊Sword / 2⌋`**) |

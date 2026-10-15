@@ -121,7 +121,7 @@ Your character's Theme and Traits can help back up your plan.
 
 ### Combat
 
-- **Roll Initiative!:** the Referee will say "roll initiative!" to signal the start of combat. Immediately roll your Fuel maximum in d6s: your level plus your empty inventory slots (up to 4). Weapons, shields, and Arcana give no dice. Leave them on the table, untouched, frozen at their face values. These dice become your Fuel. At each Roll Initiative after that, drop any dice you don't want and roll new ones until you're back at your maximum. Your Initiative is how many show 3 or 4 (see *Initiative order*).
+- **Roll Initiative!:** the Referee will say "roll initiative!" to signal the start of combat. Immediately roll your Fuel maximum in d6s: your level plus your empty inventory slots (up to 3). Weapons, shields, and Arcana give no dice. Leave them on the table, untouched, frozen at their face values. These dice become your Fuel. At each Roll Initiative after that, drop any dice you don't want and roll new ones until you're back at your maximum. Your Initiative is how many show 3 or 4 (see *Initiative order*).
 
 - **Initiative order:** the Referee names the number the monsters act on. Match or beat it and you go before them; fall short and you go after. Within before or after, players coordinate and act in any order they wish. Going before them entitles you to the whole Action then — move, position, strike, cast. You may hold any of it and use it when something happens; holding doesn't make you first (see *Holding* under Combat).
 
@@ -283,7 +283,7 @@ Retainer (from your gold):
 - Arming sword — 2 slots, 10 gp
 - Heater shield — 3 slots, 6 gp
 
-Your Fuel: pack off, the empty slot and the pack's 3 give 4, plus level 1 — 5 dice. Caught with the pack on, 1. The retainer rolls its own Fuel when you play it: half level (0) plus its empty slots, minimum 1. Muster slots hold people, not gear. A leader spends on their people — one purse, and it is yours. Manage, Loyalty, half power, and the rest of Muster live on [[Burners Muster]].
+Your Fuel: pack off, the empty slot and the pack's 3 make 4 empty, which counts as 3, plus level 1 — 4 dice. Caught with the pack on, 1. The retainer rolls its own Fuel when you play it: half level (0) plus its empty slots, minimum 1. Muster slots hold people, not gear. A leader spends on their people — one purse, and it is yours. Manage, Loyalty, half power, and the rest of Muster live on [[Burners Muster]].
 
 ### The Starting Journeyman
 
@@ -299,7 +299,7 @@ A sample buy after the free tool, 23 gp of your sixty, filling all twelve:
 - Dagger — 1 slot, 3 gp
 - Empty — 4 slots
 
-Your Fuel: empties give 4 (the most they can), level 1 — 5 dice. Caught with the pack on, 1. Light kit, room for the road. Your Craft is how the band endures the wilds (see *The Journeyman's craft*).
+Your Fuel: empties give 3 (the most they can), level 1 — 4 dice. Caught with the pack on, 1. Light kit, room for the road. Your Craft is how the band endures the wilds (see *The Journeyman's craft*).
 
 A Canting Journeyman who takes the Canting Trait and walks that road declares 7 physical + 5 kicks — same slot-split rules as Sorcerie slots, different name — but starts with no spells and an empty hand until they learn Canting in play. See *The Canting Journeyman* on [[Burners Sorcerie]].
 
@@ -329,7 +329,7 @@ Physical (7):
 - Dagger — 1 slot, 3 gp
 - Empty — 1 slot
 
-Your Fuel: pack off, the empty physical slot and the pack's 3 give 4, plus level 1 — 5 dice. Caught with the pack on, 1. Sorcerie slots never count as empty. The magic is already yours.
+Your Fuel: pack off, the empty physical slot and the pack's 3 make 4 empty, which counts as 3, plus level 1 — 4 dice. Caught with the pack on, 1. Sorcerie slots never count as empty. The magic is already yours.
 
 Two of your school's six 1st-level spells are not in your personal spellbook. Those, deeper spells, other schools, and more Arcana are your hunt. Extra costume Arcana runs 100 gp apiece in town; enchanted Arcana stays a find. Found **true writings** you can read let you memorize that one working while they are in reach; scribing into your personal spellbook costs **time**, not 100 gp per spell — the true work remains. The personal spellbook is not a party resource — if you die, it does not teach the next mage. *Read Magic* identifies loot — it is not required to learn. See [[Burners Sorcerie]].
 
@@ -643,9 +643,9 @@ Each Combat Round is one minute. You act in locked Initiative order. On your tur
 
 **Rolling Initiative.** Say **Roll Initiative** at the top of every round. No one declares actions before the roll. You fight with what you were actually carrying.
 
-**Burners (PCs).** Your Fuel maximum is your level plus your empty inventory slots, up to 4. Weapons, shields, and Arcana give no dice. Sorcerie slots, kicks, and Muster slots never count as empty. Count it from what you carry when Initiative is rolled.
+**Burners (PCs).** Your Fuel maximum is your level plus your empty inventory slots, up to 3. Weapons, shields, and Arcana give no dice. Sorcerie slots, kicks, and Muster slots never count as empty. Count it from what you carry when Initiative is rolled.
 
-That's 5 dice at level 1, 6 at level 2, 7 at level 3. With 5 you can make one big two-handed blow and Defend twice, or two big blows and no Defend, or one attack and Defend three times.
+That's 4 dice at level 1, 5 at level 2, 6 at level 3. With 4 you can make one big two-handed blow and Defend twice, or two big blows and no Defend, or one attack and Defend three times.
 
 **Your pack.** Leave your pack in a room that feels safe. Caught with it on, your maximum is only your level. Dropping it mid-fight takes your Action; from the next Roll Initiative its slots count as empty.
 

@@ -49,7 +49,7 @@ That also means you cannot really attack and then retreat. Breaking away under t
 
 ### Where do my dice come from?
 
-Your level plus your empty slots, up to 3. Weapons, shields, armor, and Arcana give no dice. Heavy steel and armor fill slots and cost you dice; light kit keeps them. Caught with your pack on, you roll only your level.
+Your level plus your empty slots, up to 4. Weapons, shields, armor, and Arcana give no dice. Heavy steel and armor fill slots and cost you dice; light kit keeps them. Caught with your pack on, you roll only your level.
 
 A weapon's **slots** are its reach: when held attacks go off together, more slots strikes first. A two-hander of 3+ slots also burns a second die on the blow.
 
@@ -77,7 +77,7 @@ No. You are **winded** until the next Roll Initiative tops you off. Blows arrive
 
 HP is luck and wind. The Wound is flesh. Finish it or fold, and get help when the fight ends.
 
-**Top-off (round 2 and after):** drop any dice you don't want, then roll new dice until you're back at your maximum (level + empty slots, up to 3). Recount 3s and 4s. The dice you keep stay frozen.
+**Top-off (round 2 and after):** drop any dice you don't want, then roll new dice until you're back at your maximum (level + empty slots, up to 4). Recount 3s and 4s. The dice you keep stay frozen.
 
 ### Do monsters have Fuel?
 
@@ -137,7 +137,7 @@ Split evenly among Burners and retainers on the job who are **not** Mustering. N
 
 ### Do retainers top off Fuel?
 
-Yes, thinly. Half power: a retainer's Fuel maximum is **⌊retainer level / 2⌋** plus empty slots (up to 3), minimum **1**. A level-1 retainer rolls its empty slots, one die below a Burner; in full kit it still gets **1**.
+Yes, thinly. Half power: a retainer's Fuel maximum is **⌊retainer level / 2⌋** plus empty slots (up to 4), minimum **1**. A level-1 retainer rolls its empty slots, one die below a Burner; in full kit it still gets **1**.
 
 If the Boss spends their Action to **Manage**, up to Heart Mustering retainers round the level part **up** that round (the Boss takes no other Action). HP on the sheet does not rewrite mid-fight. [[Burners Muster#Half Power]].
 

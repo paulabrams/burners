@@ -53,11 +53,10 @@
 - Split sides (Paul): a side can roll more than one d6 when it's split up in the fiction (separate rooms, a scout ahead). Referee's call, not the players', so they can't all opt into rolling alone.
   - Splitting gives no edge on average: each Burner still goes first 5 times in 12 either way. It only trades the party's all-or-nothing swing for a mix, and since anyone who goes first can hold, a single party roll is if anything better for coordination.
   - The real cost of letting players split at will is time: back to a roll per player, the thing side initiative fixes.
-- **Revised (Paul, Oct 14): pay to go first.** The Referee rolls 1d6 for the foes. On a 1 or 2 the Burners go first. On a 3 or more, a Burner spends a Fuel die of that number or higher to go before the foes; the rest go after. Fuel cap went from 3 empty slots to 4 so everyone had one more die to spend on it, then back to 3 the same night (Paul): with packs left behind, few characters ever have 4 empty slots.
+- **Revised (Paul, Oct 14): pay to go first.** The Referee rolls 1d6 for the foes. On a 1 or 2 the Burners go first. On a 3 or more, a Burner spends a Fuel die of that number or higher to go before the foes; the rest go after. Fuel cap goes from 3 empty slots to 4, so everyone has one more die to spend on it.
   - Keeps side initiative's speed (one roll, no counting) and gives faces a job besides damage again: going first costs a die, and a high one when the foes roll high.
-  - Light kit bonus dropped (Paul): it's already in the dice you get. More empty slots, up to 3, is more dice to pay with.
-  - At level 1 with 4 dice: free a third of the time; otherwise holding a payable die 99% (vs 3), 94% (4), 80% (5), 52% (6).
-  - Cost of the cap of 3: mail with a sword and rondel leaves 3 empty, so the Veteran in mail rolls as many dice as the Journeyman in leather. Armor costs dice only past 9 slots filled. Watch whether that matters. Being able to go first is nearly certain; whether it's worth the die is the choice.
+  - Light kit bonus dropped (Paul): it's already in the dice you get. More empty slots, up to 4, is more dice to pay with.
+  - At level 1 with 5 dice: free a third of the time; otherwise holding a payable die 99% (vs 3), 97% (4), 87% (5), 60% (6). Being able to go first is nearly certain; whether it's worth the die is the choice.
 - Earlier recommendation, superseded: keep the count and switch to 1–3. At level 1 a party of four has at least one Burner going first about half the time (B/X: 42%), though foes rolling 5 or 6 always go first, and the keep-or-drop choice at the top-off means something. If play shows the count is only bookkeeping, side initiative is the fallback, and it drops in without touching anything else.
 
 #### Monster damage
@@ -416,7 +415,7 @@ Notes on 2:
 
 - Packs stay behind (Paul): players should drop their packs in a room that feels safe and advance without them, not walk around 12 of 12. A party at 9 of 12 rolls level + 3 every round: 4 dice at level 1.
 - Caught with the pack on (ambush, or never dropped it), a full-kit level 1 PC rolls 1 die a round and goes first about 6% of the time. Dropping the pack mid-fight takes your Action (Paul: picture getting out of a 40 L trekking rucksack, hip belt and sternum strap and all, with your weapon set down to do it).
-- Cap of 3, not 4 (Paul): 4 dice at level 1 is enough for one two-handed blow and two Defends, two big blows and no Defend, or one attack and three Defends. Level adds a die each level (5 at level 2, 6 at level 3), so the cap only has to carry level 1. (Raised to 4 on Oct 14 to pay for going first, then back to 3 the same night.)
+- Cap of 3, not 4 (Paul): 4 dice at level 1 is enough for one two-handed blow and two Defends, two big blows and no Defend, or one attack and three Defends. Level adds a die each level (5 at level 2, 6 at level 3), so the cap only has to carry level 1. (Now 4, Oct 14: the extra die pays for going first. Briefly back to 3 that night, then 4 for good (Paul): four empty slots is hard to get, but possible. With packs left behind, 3 empty is the norm, so the 4th die rewards the few who really travel light, and mail still costs a die against leather.)
 - A level 1 Veteran with a one-hander spends about 3–4 dice a round and tops back up to 4 with the pack off, so he holds steady; a cap of 2 would leave him slowly running down.
 - Dropping a shield mid-fight frees slots for more dice next round, but dropping to free a slot costs an Action.
 - Sorcerers lose their Arcana dice, and Sorcerie slots never count as empty. They can still cast: spell level ≤ Sorcerie ≤ level, so level dice always cover the minimum. What they lose is the burst that made a cast total beat a Defend.

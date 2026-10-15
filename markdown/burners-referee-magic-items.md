@@ -232,7 +232,7 @@ Use **enchanted + powers** for anonymous module loot (*"+1 sword"*). Roll **2d6*
 | --- | --- |
 | **2** | **A relic all along.** Enchanted; dormant until its true name is learned. |
 | **3** | **Bane-forged** against a foe fitting the module (the Referee names the quarry). |
-| **4** | **An unusual tag** for its type — Control, Binding, Defensive, or Stabbity where its kind carries none. |
+| **4** | **An unusual tag** for its type — Control, Binding, Handguard, or Stabbity where its kind carries none. |
 | **5** | **Tuned** — to a dead hand. Re-tune to wake it. |
 | **6** | **Signature** — a name, a history, a hook. Fine steel beneath. |
 | **7** | **Fine steel, plain and true** — Trusty, and it sells dear. |

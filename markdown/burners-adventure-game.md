@@ -71,7 +71,7 @@ Your character's Theme and Traits can help back up your plan.
 
 - **Approach level:** you start with one Approach at level 1. Approach level adds to Approach rolls and sets how many Traits you may hold under that Approach (four per Approach level).
 
-- **Trait:** a skill or quality under one Approach (*lockpicking*, *steady under fire*, *arming sword*). You gain Traits when you wake from sleep, from what you did at the table (see *Gaining Traits*). You may only take Traits for Approaches you have levels in (or the one your next level will raise), and only from that Approach's list (arms and armor are Sword, non-combat practical skills are Craft, magic schools are Sorcerie, people-skills are Heart, etc.). Some Traits are trained-only: without them you cannot attempt the action or use the kit (a magic school, plate armor, greatsword or longbow, etc.).
+- **Trait:** a skill or quality under one Approach (*lockpicking*, *steady under fire*, *arming sword*). You gain Traits when you wake from sleep, from what you did at the table (see *Gaining Traits*). You may only take Traits for Approaches you have levels in (or the one your next level will raise), and only from that Approach's list (arms and armor are Sword, non-combat practical skills are Craft, magic schools are Sorcerie, people-skills are Heart, etc.). Arcana Traits name the item, like weapons: *staff*, *wand*, *orb*. Some Traits are trained-only: without them you cannot attempt the action or use the kit (a magic school, plate armor, greatsword or longbow, etc.).
 
 - **Signature:** an asterisk on a Trait. A knack that showed up at your table: a named item, a **named companion**, an instinct, a holdout.
 
@@ -549,7 +549,7 @@ Out of combat:
 - Double Sweet (two 6s, a natural 12) is the perfect roll: the best outcome the fiction allows.
 - Double Spicy (two 1s, a natural 2) is a fumble: the worst fitting outcome lands.
 
-Combat has no Sweet or Spicy. A 6 in Fuel is a **Spark** (see Combat). Cast fumbles and Fragile breaks key off **1**s on Fuel, not Spicy — see [[Burners Sorcerie]] and [[Burners Arms and Armor]].
+Combat has no Sweet or Spicy, and nothing fumbles. A 6 in Fuel is a **Spark** (see Combat). A 1 is a low die, or more with an item you have the Trait for (see *Your 1s* under Combat).
 
 **Surprise** on round 1: the Referee rolls; a surprised side is dead last in Initiative order that round. No other effect — Fuel and Actions stay. Round 2+ is normal. Being caught or outmaneuvered may still add a situational Damage modifier — you defend as normal against the higher number.
 
@@ -671,6 +671,21 @@ If you empty your hand on offense you are caught winded until the next Roll Init
 
 **Burning Fuel.** Everything you do in combat burns Fuel. You must burn Fuel to attack, defend, cast, and so on. A die is used at its face and discarded. No reroll. The pool you play is the faces you rolled.
 
+**Your 1s.** When you burn a 1 using an item you have the Trait for, add the item's slots to it: a weapon on a blow, a shield on a Defend, an Arcana on a cast or a Ward. A dagger makes it a 2, a heater a 4, a tower a 6. A 1 raised this way is never a Spark, even when it comes to 6.
+
+Each item upgrades one 1 per blow, Defend, or cast. Burn three 1s on a Defend with sword and buckler: the buckler makes one a 3, the sword makes one a 2, and the third stays a 1. Axe and buckler: 3, 1, 1. A halberd blow with two 1s: 6 and 1. In the dirt, the re-rolled face stands: a re-rolled 1 adds the slots. A cursed Trait doesn't add slots to a 1.
+
+A weapon with a **Handguard** parries: on a Defend it counts as 1 slot, or 2 for rings, a swept hilt or a basket (`Handguard2`). A weapon with no guard (messer, axe, mace, spear) adds nothing on a Defend.
+
+| On a Defend | A 1 becomes |
+| --- | ---: |
+| No guard | 1 |
+| Cross hilt, finger buckler | 2 |
+| Rapier, basket hilt, buckler | 3 |
+| Heater, round shield | 4 |
+| Rotella, kite | 5 |
+| Tower | 6 |
+
 **Sparks.** A natural 6 in your Fuel is a **Spark**: the opportunity to do something more. A Spark can follow a 6 you just burned on an attack, Defend, cast, or other action — resolve that action first, with the 6 counting normally. Or you may burn a held 6 solely to strike a Spark and jump straight to what follows. Either way, immediately **Fuel the Spark** with the additional Fuel its option requires. That Fuel powers the follow-on action: you do the Spark. Add no Fuel and the Spark fades, unless the option says the Spark itself is fuel enough. Roll several 6s and each may Spark.
 
 - **Spark: Flurry.** When attacking, Fuel the Spark to attack again (burn Fuel as for a normal attack); armor applies normally.
@@ -699,7 +714,7 @@ Wound + failed Shock may break a non-melee Action — see *Mid-tempo disrupt*.
 
 **Cover.** Fiction that lets you burn two dice vs a missile (wall, raised shield, creature…). Using a melee foe as Cover: if you Spark on that Defend (**Hit the Cover**), the shot hits them instead of you, as if the attack was targeting them from the beginning, and they may not declare Cover to put it back on you.
 
-**Ward.** A **Sorcerer** (Sorcerie 1+) adjacent to an ally or a tight group may cut hostile magic aimed at them — a spell's cast total, magical breath, and the like (not mundane fire alone). Burn up to your **Sorcerie Level** in Fuel; subtract those faces from the attack value. **Each ally then Defends** against what remains. No school Trait; no card. Not your Action — Ward rides the incoming working. Craft-only Canting Journeymen cannot Ward. Full cast procedure: [[Burners Sorcerie]].
+**Ward.** A **Sorcerer** (Sorcerie 1+) adjacent to an ally or a tight group may cut hostile magic aimed at them — a spell's cast total, magical breath, and the like (not mundane fire alone). Burn up to your **Sorcerie Level** in Fuel; subtract those faces from the attack value. **Each ally then Defends** against what remains. No school Trait; no card. A 1 burned with an Arcana you have the Trait for adds its slots (see *Your 1s*). Not your Action — Ward rides the incoming working. Craft-only Canting Journeymen cannot Ward. Full cast procedure: [[Burners Sorcerie]].
 
 **In the dirt.** Flat on the ground — a risky place. **All Fuel burned while in the dirt must be re-rolled** (blow, Defend, cast, Block, Man-handle, Counterattack); the new face is what counts. You may **throw yourself in the dirt** free with your Action when the pool is trash and you need a scramble. **Rise** free on your Action unless a foe presses you in melee — then rising costs a die re-rolled **3+** (fail and you stay down; the die is burned either way). No die to spare? You top off one die short next round. A waist or leg Wound holds you down until **full HP** (see *Wounds*); you cannot rise before then. Being in the dirt does not stack.
 

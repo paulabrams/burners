@@ -235,7 +235,7 @@ crystal.
 2. **Name the Risk.** In combat, casting is one Action: burn at least SL Fuel dice
    (SL = the working's level) and roll them for the **cast total**, as ever. Out of combat,
    roll **2d6 + Sorcerie** (or **2d6 + Craft** for Canting) against the Referee's Risk.
-   Sparks, cast fumbles, and Defending against a spell run as written in
+   Sparks, your 1s, and Defending against a spell run as written in
    [[Burners Adventure Game]].
    3. **Tap the card.** An instant working goes to your discard as it resolves. A lasting
    working stays **in play** for its duration, then joins the discard.
@@ -247,7 +247,9 @@ Casting in reach may invite a **Counterattack**. Struck mid-cast, Defend and mid
 burn that Fuel on the *working itself* — another target caught, a beat longer, a ward
 pierced (Referee's call). Add no Fuel and the Spark fades.
 
-**Cast fumble (combat).** Combat has no Sweet or Spicy. If two or more of the Fuel dice burned for the cast show **1**, or a one-die cast shows **1**, the working fumbles — the Referee's worst fitting outcome (singe an ally, alert the ward, the card taps with no effect).
+**No fumbles in combat.** A 1 burned into a cast is only a low die, or the Arcana's slots plus one if you have its Trait (see *Your 1s* in [[Burners Adventure Game]]).
+
+**Fumbles out of combat.** A natural 2 on the cast roll fumbles only if the working is ambitious (pushed past what the card plainly does) or you cast without paying a ready card (a scroll read cold, a book, a working that isn't in your hand). Otherwise it doesn't fumble. A fumble is the Referee's worst fitting outcome: singe an ally, alert the ward, the working taps with no effect.
 
 ## Burning
 

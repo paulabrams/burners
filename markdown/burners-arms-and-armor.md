@@ -56,11 +56,11 @@ The most commonly available — easy to produce and acceptable for a commoner to
 - **Throwing Knife** `[Class1 Slots1 Close Short Stabbity Far1]`
 - **Stick or Stone** `[Class1 Slots1 Short Far1 Primitive]` — sturdy tree branch, rock, etc.
 - **Cane** `[Class1 Slots1 Short Civil]` — a gentlemanly stout walking stick or cudgel.
-- **Sickle** `[Class1 Slots1 Short Hooking Tool Fragile]` — for grain.
+- **Sickle** `[Class1 Slots1 Short Hooking Tool]` — for grain.
 - **Hatchet** `[Class1 Slots1 Short Breaching Tool]` — small, for chopping wood.
 - **Messer / Machete** `[Class2 Slots2 Medium Cutty]` — long work knife.
 - **Wood Ax** `[Class2 Slots2 2H Medium Breaching Tool]` — for chopping wood.
-- **Scythe** `[Class2 Slots2 2H Medium Tool Fragile]` — blade for harvesting wheat.
+- **Scythe** `[Class2 Slots2 2H Medium Tool]` — blade for harvesting wheat.
 - **Spear** `[Class3 Slots3 2H Medium Far1 Piercing Primitive]` — short thrusting/throwing spear, ~5–6 ft, simple and effective; common in hunting and war.
 - **Staff / Quarterstaff** `[Class3 Slots3 2H Medium Control-Medium Civil]` — stout staff around nose- or head-height. Common, simple, effective.
 - **Long Staff** `[Class3 Slots3 2H Long]` — staff about as high as you can reach.
@@ -72,25 +72,25 @@ Versatile sidearms, particularly excellent at defense — able to parry and defl
 
 - **Pommel** `[Class1 Slots0 Close]` — counterweight end of a dagger or sword.
 - **Dagger** `[Class2 Slots1 Close Stabbity]` — military double-edged dagger.
-- **Parrying Dagger** `[Class2 Slots1 Close Binding Handguard Defensive Stabbity]` — left-handed dagger wielded to accompany a sword.
+- **Parrying Dagger** `[Class2 Slots1 Close Binding Handguard2 Stabbity]` — left-handed dagger wielded to accompany a sword.
 - **Rondel** `[Class2 Slots1 Close Stabbity]` — triangular thrusting war dagger, used to pierce gaps in armor, especially while grappling. Carried by many knights and men-at-arms.
-- **Cutlass** `[Class2 Slots2 Short Defensive Handguard Cutty]` — short curved cutting sword (machete, hanger).
+- **Cutlass** `[Class2 Slots2 Short Handguard2 Cutty]` — short curved cutting sword (machete, hanger).
 - **Langes Messer** `[Class2 Slots2 Medium Cutty]` — long single-edged knife-sword with a nagel and no hand protection (messer, dussack). Often carried with a finger buckler.
-- **Short Sword** `[Class2 Slots2 Short Defensive Piercing Stabbity]` — short straight stabbing sword (katzbalger, cinquedea).
-- **Arming Sword** `[Class2 Slots2 Medium Binding Defensive Piercing Cutty]` — simple iconic straight sword (viking or knight's sword).
-- **Sidesword** `[Class2 Slots2 Medium Handguard Binding Defensive Piercing Cutty]` — "the sword by your side," a typical military/civilian sidearm (spada di filo, cavalry sword).
-- **Sabre** `[Class2 Slots2 Medium Defensive Cutty]` — long curved cutting sword. A thin-bladed scimitar is a sabre; otherwise a falchion.
-- **Rapier** `[Class2 Slots2 Medium Handguard Binding Defensive Piercing Cutty]` — civilian sword, popular with nobles and duelists in Aquila.
-- **Falchion** `[Class3 Slots2 Medium Binding Defensive Cutty]` — curved sword with a clipped tip that can bind a foe's weapon (storta, malchus, scimitar).
-- **Longsword** `[Class3 Slots3 2H Short-Medium Control-Medium Binding Defensive Piercing Cutty]` — bastard sword, kriegsmesser, or Alu "av-kel" sword.
-- **Swiss Saber** `[Class3 Slots3 2H Medium Binding Handguard Defensive Piercing Cutty]` — a curved longsword with an elaborate handguard.
-- **Greatsword** `[Class4 Slots4 2H Medium-Long Control-Medium Handguard Binding Defensive Piercing Cutty Trained]` — two-handed sword (spadone, montante, zweihänder). Can attack in any direction.
+- **Short Sword** `[Class2 Slots2 Short Handguard Piercing Stabbity]` — short straight stabbing sword (katzbalger, cinquedea).
+- **Arming Sword** `[Class2 Slots2 Medium Binding Handguard Piercing Cutty]` — simple iconic straight sword (viking or knight's sword).
+- **Sidesword** `[Class2 Slots2 Medium Handguard2 Binding Piercing Cutty]` — "the sword by your side," a typical military/civilian sidearm (spada di filo, cavalry sword).
+- **Sabre** `[Class2 Slots2 Medium Handguard Cutty]` — long curved cutting sword. A thin-bladed scimitar is a sabre; otherwise a falchion.
+- **Rapier** `[Class2 Slots2 Medium Handguard2 Binding Piercing Cutty]` — civilian sword, popular with nobles and duelists in Aquila.
+- **Falchion** `[Class3 Slots2 Medium Binding Handguard Cutty]` — curved sword with a clipped tip that can bind a foe's weapon (storta, malchus, scimitar).
+- **Longsword** `[Class3 Slots3 2H Short-Medium Control-Medium Binding Handguard Piercing Cutty]` — bastard sword, kriegsmesser, or Alu "av-kel" sword.
+- **Swiss Saber** `[Class3 Slots3 2H Medium Binding Handguard2 Piercing Cutty]` — a curved longsword with an elaborate handguard.
+- **Greatsword** `[Class4 Slots4 2H Medium-Long Control-Medium Handguard2 Binding Piercing Cutty Trained]` — two-handed sword (spadone, montante, zweihänder). Can attack in any direction.
 
 ### Military Weapons
 
 Strongly associated with military units; most need training in a military order. Many towns restrict possession within the walls except by official guards — the Referee may have guards harass, fine, or confiscate.
 
-- **Shield Punch** `[Class1 Slots0 Close Binding Defensive]` — uses the boss or rim.
+- **Shield Punch** `[Class1 Slots0 Close Binding]` — uses the boss or rim.
 - **Rifle Stock** `[Class1 Slots1 2H Short]` — using the heavy rifle stock as a club.
 - **Javelin** `[Class1 Slots1 Short Far2 Piercing Primitive]` — short throwing spear.
 - **Throwing Ax** `[Class1 Slots1 Close Hooking Far2]` — war hatchet or tomahawk, thin head and long handle.
@@ -100,17 +100,17 @@ Strongly associated with military units; most need training in a military order.
 - **Mace** `[Class3 Slots2 Short Crushy]` — flanged/beaked/spiked club for crushing armored foes; needs swinging room. Includes short war hammer, horseman's hammer, morningstar.
 - **Spear** `[Class3 Slots3 2H Medium Far1 Piercing Primitive]` — short thrusting/throwing spear, ~5–6 ft.
 - **Battle Ax** `[Class3 Slots3 2H Medium Breaching Hooking]` — heavy two-handed war axe, handle shorter than a polearm.
-- **Long Spear** `[Class3 Slots4 2H Medium Long Defensive Piercing]` — long thrusting/cutting spear or glaive, ~8–10 ft.
+- **Long Spear** `[Class3 Slots4 2H Medium Long Piercing]` — long thrusting/cutting spear or glaive, ~8–10 ft.
 - **Pike** `[Class3 Slots6 2H Long Piercing]` — extremely long spear (~15–20 ft) for mass infantry; ineffective in individual combat except a duel (range listed "Long").
 - **Mangual Flail** `[Class4 Slots4 2H Medium Long Hooking Control]` — large multi-headed military flail. Use the high (Head) guard to avoid hitting yourself.
 - **Pick** `[Class4 Slots4 2H Medium Hooking Piercing]` — large footman's pick; arced head can strike over shields.
 - **Long Axe** `[Class4 Slots4 2H Medium Long]` — a very long battle axe.
-- **Poleaxe** `[Class4 Slots4 2H Medium Control-Short Hooking Defensive]` — the predominant knightly polearm for armored combat: short stout staff with axe, hammer, and spike (lochaber ax, bec de corbin).
-- **Ranseur** `[Class4 Slots5 2H Long Binding Defensive]` — popular early polearm with a trident head (roncone, ronka); side prongs bind and trap weapons/shields. Spetum to earlier Eldar; some fold, some (brandistock, "feather staff") have hidden spring prongs.
+- **Poleaxe** `[Class4 Slots4 2H Medium Control-Short Hooking]` — the predominant knightly polearm for armored combat: short stout staff with axe, hammer, and spike (lochaber ax, bec de corbin).
+- **Ranseur** `[Class4 Slots5 2H Long Binding]` — popular early polearm with a trident head (roncone, ronka); side prongs bind and trap weapons/shields. Spetum to earlier Eldar; some fold, some (brandistock, "feather staff") have hidden spring prongs.
 - **Glaive** `[Class4 Slots5 2H Long Cutty Hooking]` — polearm with a large single-edge blade, usually a back hook, no spear point (fauchard to earlier Eldar).
 - **Guisarme** `[Class4 Slots5 2H Long Binding Hooking]` — polearm with a concave scythe-like blade, usually a thrusting spike and pulling prongs (bill, bill hook, scorpion).
-- **Partisan** `[Class4 Slots5 2H Medium Long Cutty Binding Defensive]` — elegant polearm with a sword-like guarded head allowing a shorter grip.
-- **Halberd** `[Class5 Slots5 2H Medium Long Binding Hooking Defensive]` — polearm with thrusting spike, cutting ax, and pulling hooks (bardiche, voulge).
+- **Partisan** `[Class4 Slots5 2H Medium Long Cutty Binding]` — elegant polearm with a sword-like guarded head allowing a shorter grip.
+- **Halberd** `[Class5 Slots5 2H Medium Long Binding Hooking]` — polearm with thrusting spike, cutting ax, and pulling hooks (bardiche, voulge).
 
 ### Projectile Weapons
 
@@ -160,9 +160,7 @@ Weapons carry tags for their characteristics; many describe a way to upgrade in 
 - **Control** — (long swords, short polearms) easily turned to strike any direction; ideal for area control and fending off multiple foes. If the Referee raises Heat for being surrounded/flanked, spend an Action to negate the raise. Two hands only, at the listed range (e.g. `Control-Medium`).
 - **Cutty** — can cleave soft targets. After a Spark against a soft target (your WC beats their AC) you may Fuel another attack with the same weapon.
 - **Custom** — higher-quality, bespoke, perfectly made.
-- **Defensive** — equivalent to a shield, using Weapon Class.
-- **Fragile** — breaks when you burn a **1** into a blow with it, or when the Referee names a botched blow.
-- **Handguard** — complex hilt (rapier rings, basket hilt) protecting the hand; counts as **AC 2** armor for the weapon hand.
+- **Handguard** — a guard that covers the hand (cross hilt, langets). The weapon parries: with the Trait, a 1 burned on a Defend counts it as 1 slot. **Handguard2** — rings, a swept hilt, or a basket: counts as 2. A weapon with no Handguard adds nothing on a Defend (see *Your 1s* in [[Burners Adventure Game]]).
 - **Hooking** — (sickles, some polearms) can cut behind the target. When you Aim you may strike the rear instead of left/right for **+1 WC**.
 - **Piercing** — extended rigid blade 2+ ft, reaching deep. **+1 WC vs Large Monsters** (whose vitals sit deeper, giving them higher AC).
 - **Primitive** — easy to build (low skill, time, materials); found among primitive tribes or improvised when nothing else is at hand.
@@ -196,7 +194,7 @@ Heavy harness eats slots and thins your Fuel; light kit keeps empty slots and sp
 
 ## Shields
 
-Held steel, raised against a blow. A shield gives no Fuel. Its **slots** (prices in [[Burners Equipment]]): finger buckler 1, buckler 2, heater 3, rotella 4, kite 4, tower 5. A raised shield can count as **Cover** vs missiles (2 dice on that Defend). **Block** redirects a blow onto you — the shield does not deepen it (see [[Burners Adventure Game]]).
+Held steel, raised against a blow. A shield gives no Fuel. Its **slots** (prices in [[Burners Equipment]]): finger buckler 1, buckler 2, heater 3, rotella 4, kite 4, tower 5. With the shield's Trait, a 1 burned on a Defend adds its slots: a buckler makes it a 3, a tower a 6 (see *Your 1s* in [[Burners Adventure Game]]). A raised shield can count as **Cover** vs missiles (2 dice on that Defend). **Block** redirects a blow onto you — the shield does not deepen it (see [[Burners Adventure Game]]).
 
 Catalog **size** tags below are labels for look and heft — use Burners **slots** at the table.
 
@@ -258,8 +256,8 @@ The Eldar of aeons past made many things — dark and beautiful, bright and dead
 ### Alu Items
 
 - **Alu Dart Knives (as-en)** `[Class1 Slots1 Close Short Stabbity Far1]` — the Alu warriors' dart-like throwing knives.
-- **Alu Sickle Sword (av-tlen)** `[Class2 Slots2 Medium Binding Defensive Hooking Cutty]` — deeply curved sickle sword that hooks and traps limbs; also clears jungle/bladegrass.
-- **Alu Kel Sword (av-kel)** `[Class3 Slots3 2H Medium Binding Defensive Cutty]` — the Alu warriors' longsword.
+- **Alu Sickle Sword (av-tlen)** `[Class2 Slots2 Medium Binding Handguard Hooking Cutty]` — deeply curved sickle sword that hooks and traps limbs; also clears jungle/bladegrass.
+- **Alu Kel Sword (av-kel)** `[Class3 Slots3 2H Medium Binding Handguard Cutty]` — the Alu warriors' longsword.
 - **Alu Bladestaff** `[Spear Class3 Slots3 2H Medium Far1]` — ornate staff with a hidden blade. Variants hide a spring-dart knife, whip, or smoke egg.
 - **Alu Bladegrass Cloak** `[Class2 Slots1 Soft Cloak Partial]` — fluttering cloak of silken bladegrass strands.
 - **Alu Bladegrass Cuirass** `[Class3 Slots5 Body-Armor]` — thick bladegrass over torso and head, including a war mask.
@@ -283,7 +281,7 @@ Relics of the Drisi empires that ruled aeons ago — found in any land or underw
 - **Orichalcum Scale Armor** `[Class2 Slots4 Half-Armor]` — small brassy Eldar-steel plates laced to a cloth/leather backing.
 - **Orichalcum Buckler** `[Class3 Slots1 Small Centergrip]` — brassy Eldar steel that absorbs magic.
 - **Orichalcum Breastplate** `[Class3 Slots4 Body-Armor]` — brassy Eldar-steel front breastplate over clothing.
-- **Vakaar Falchion** `[Class3 Slots2 Medium Binding Defensive Cutty]` — evil wavy-bladed sword of cracked dark-purple/green steel; wounds don't heal naturally.
+- **Vakaar Falchion** `[Class3 Slots2 Medium Binding Handguard Cutty]` — evil wavy-bladed sword of cracked dark-purple/green steel; wounds don't heal naturally.
 
 ### Draconecroalchemy Items
 

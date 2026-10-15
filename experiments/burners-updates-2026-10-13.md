@@ -117,17 +117,18 @@ Traits and tells you if you've leveled.
   the minimum of 1 on the total, not the level part. Manage still rounds the
   level part up. (Applied; worked examples wait for the examples pass.)
 - "A die is used at its face and discarded. No reroll." stays. Its one
-  exception: a 1 on a trained item adds the item's slots.
+  exception: a 1 on a trained item adds the item's slots. (Applied: *Your 1s*
+  under Combat.)
 - In Arms and Armor, **Defensive** goes and **Handguard** takes its place. The
   old Handguard (AC 2 for the weapon hand) goes with it. Weapons tagged
   Defensive and Handguard today become `Handguard2` (parrying dagger, cutlass,
   sidesword, rapier, Swiss saber, greatsword). Defensive alone becomes
   `Handguard` (arming sword, short sword, sabre, falchion, longsword, the Alu
-  swords, Vakaar falchion). Polearms and the shield punch lose it.
+  swords, Vakaar falchion). Polearms and the shield punch lose it. (Applied.)
 - The finger buckler is too small for Defend 3.
 - Fragile goes. It came from Legends, and with no fumbles there's nothing for a
   1 to break. Off the tag list, the sickle and scythe, and the "Fragile breaks
-  key off 1s" lines in the Adventure Game and Principles.
+  key off 1s" lines in the Adventure Game and Principles. (Applied.)
 - Enchanted kit no longer gives an extra die. It keeps acceptance by Trait and
   its powers. The extra die comes out of Enchanted Arms and Armor and the
   pointer to it in the Adventure Game, Trait acceptance in Arms and Armor,
@@ -136,10 +137,11 @@ Traits and tells you if you've leveled.
   Monster Stack is a different thing and stays.
 - Sorcerie's "Cast fumble (combat)" goes. Casts don't fumble in combat, so a 1
   burned into a cast is only a low die, or the Arcana's slots plus one.
+  (Applied.)
 - Out of combat, a cast's natural 2 fumbles only if the working is ambitious
   (pushed past what the card plainly does) or you cast without paying a ready
   card (a scroll read cold, a book, a working that isn't in your hand).
-  Otherwise it doesn't fumble.
+  Otherwise it doesn't fumble. (Applied.)
 - Winded, or Fuel you're forced to lose with an empty pool: you top off one die
   short next round. (Applied.)
 - Waking goes from Traits and leveling. "Each time you wake from sleep" and "the

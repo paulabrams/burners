@@ -94,7 +94,7 @@ An **Invocation** is a bargain, not a spell. No hand, no Sorcerie slots, no scho
 
 Out of combat, **Sweet** (6) and **Spicy** (1) ride alongside the sum and never change it. Double Sweet is the perfect roll; double Spicy is a fumble.
 
-**Combat has no Sweet or Spicy.** There you read the dice you burn; a 6 is a **Spark** — an opportunity you normally must Fuel with another die to use. Unfueled, it fades. Combat cast fumbles, Fragile breaks, and enchanted "on hit" powers key off Fuel faces (1s / Sparks), not Sweet or Spicy — see [[Burners Sorcerie]], [[Burners Arms and Armor]], [[Burners Referee Magic Items]].
+**Combat has no Sweet or Spicy.** There you read the dice you burn; a 6 is a **Spark** — an opportunity you normally must Fuel with another die to use. Unfueled, it fades. Nothing fumbles in combat. Enchanted "on hit" powers key off Sparks, not Sweet or Spicy, and a 1 burned with an item you have the Trait for adds the item's slots — see [[Burners Adventure Game#Combat]], [[Burners Sorcerie]], [[Burners Referee Magic Items]].
 
 ---
 

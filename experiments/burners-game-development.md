@@ -325,6 +325,8 @@ Round 1 pool, and dice each round after. Gar: level 1, small ax 2, heater 3, 12 
 
 Decided (October 13 update 3): a 1 burned with a trained item adds the item's slots. Each item upgrades one 1 per blow or Defend. A Handguard parries as 1 slot, or 2 for rings and baskets; Defensive goes.
 
+Dropped (Paul, Oct 15): the Defend cap of 2, 3 with a raised shield (update 7). Shields already get their benefit from their 1s, so Defend stays melee one die, or no limit if you made a melee attack this round.
+
 - The problem: once items gave no Fuel, a buckler and a tower did the same thing (Defend 3, Cover, the Trait reroll). Bigger shields only cost slots, speed and coin.
 - The reroll was universal but didn't make slots matter, and nobody liked the reroll.
 - Adding the slots is deterministic, known up front, and bigger is better: a slot 3 weapon is a +3 weapon, only on a 1. The 1 itself is the Trait's +1, so a dagger still gets a 2.

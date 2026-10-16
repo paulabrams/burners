@@ -94,11 +94,10 @@ The roll is the most the blow can do. The Referee may always deal less when the
 situation calls for it. It's the same blow, not a second attack: one Defend, one touch, one dose
 of poison, one Trait Curse.
 
-**7. Defend.** 2 dice, or 3 with a raised shield. If nothing in your hands can
-turn the blow (bare hands against a blade, a bow against a spear, an arrow with
-no shield or Cover), Defend 1. Anything you could parry with counts: a dagger, a
-staff, a torch. With *wrestling* or *boxing*, bare hands can turn fists and
-grabs. Hostile magic is still no limit.
+**7. Defend.** Dropped (Paul, Oct 15): shields already get their benefit from
+their 1s. Defend stays as written: melee one die, or no limit if you made a
+melee attack this round; missiles one die, two with Cover; hostile magic no
+limit.
 
 **8. Burn to level.** Traits and levels come when you burn something, not when
 you sleep. Coin, a bridge, a lair, a name, an oath, a friend's trust, the ship
@@ -125,7 +124,6 @@ Traits and tells you if you've leveled.
   sidesword, rapier, Swiss saber, greatsword). Defensive alone becomes
   `Handguard` (arming sword, short sword, sabre, falchion, longsword, the Alu
   swords, Vakaar falchion). Polearms and the shield punch lose it. (Applied.)
-- The finger buckler is too small for Defend 3.
 - Fragile goes. It came from Legends, and with no fumbles there's nothing for a
   1 to break. Off the tag list, the sickle and scythe, and the "Fragile breaks
   key off 1s" lines in the Adventure Game and Principles. (Applied.)
@@ -156,13 +154,6 @@ Traits and tells you if you've leveled.
 - Flat monster damage quotes go: the quote table in the Referee Guide's
   *Monsters at speed* and the damage-die-to-quote table in OSE Conversions.
   Change 6 replaces them.
-- "Melee one die, or no limit if you made a melee attack this round" goes, and
-  so does "the archer or mage caught in reach… cuts each melee blow with a single
-  die." Change 7 replaces them. Missiles stay 1 die, 2 with Cover. Examples that
-  lean on Defending without limit need redoing: the Aldric ogre and
-  dirty-fighting examples, Brand, Sefa and Kragg in the examples of play, and the
-  mobs line in the Referee Guide.
-
 ## Watch for in play
 
 - Initiative. Burners go first free a third of the time. Otherwise a level 1
@@ -173,17 +164,15 @@ Traits and tells you if you've leveled.
 - Fatigue. Fights should end in 2–4 rounds, so 10 rounds only catches a grind.
   Undead and constructs don't tire. A Fatigued Sorcerer may be short of dice for
   his biggest spells.
-- Defend. Whether you swung no longer matters, only what's in your hands, so a
-  fighter holding his attack in a doorway still Defends 2. Shields give no Fuel
-  now; Defend 3 and their 1s are their job.
+- Shields give no Fuel now; their 1s are their job.
 - 1s are worth keeping. With a tower or a polearm, a 1 beats any reroll, so it
   stays through the top-off. With a dagger it's a 2, and you drop it.
 - Halberd against sword and board, same 5 slots. The halberd's 1 is a 6 on a
   blow and a 1 on a Defend; the sword and heater's is a 3 on a blow and a 4 on
-  a Defend, with Defend 3.
+  a Defend.
 - Greatsword against sword and buckler. The greatsword turns a 1 into a 5 on the
   attack and still parries at 3; two 1s on a Defend are 3 and 1. Sword and
-  buckler's two 1s are 3 and 2, with Defend 3. The two-hander hits, the shield
+  buckler's two 1s are 3 and 2. The two-hander hits, the shield
   man turns blows.
 
 - Burning. Players will go looking for things to burn. A burn when you're short

@@ -39,9 +39,9 @@ Some moves are hard to pull off, so you burn one Fuel to try them, and you can't
 
 ## Defend
 
-When you are hit, you may burn Fuel to reduce the damage. You can burn only one die unless your Action this round matches the threat. If you struck in melee, burn as many as you like against melee blows; if you shot, against missiles; if you cast, against spells. A Block doesn't count as striking.
+When you are hit, you may burn Fuel to reduce the damage. You can burn only one die unless your Action this round matches the threat. If you attacked or blocked in melee, burn as many as you like against melee blows; if you shot, against missiles; if you cast, against spells.
 
-**Special attacks.** If your Defend cancels all the damage, the blow never touches you and its special attack fails: no poison, no level drain, no grab.
+**Special attacks.** If your Defend cancels all the damage, the blow never touches you and its special attack fails: no poison, no level drain, no grab. You were not "hit".
 
 **Armor.** When hit, reduce the damage by your armor class (AC), if any. Armor doesn't stop touch or special attacks: unless your Defend cancelled all the damage, they still take effect, even if armor soaks the rest.
 

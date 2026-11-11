@@ -7,6 +7,10 @@ status: playtest handout, not yet in the rules
 
 Changes since October 15.
 
+## Approach Traits
+
+A Journeyman can now take *longbow* and *staff* under Craft. A Boss can now take *rod* and *mace* under Heart.
+
 ## Initiative
 
 When the Referee says "roll initiative!", roll your level plus your empty slots (up to 4) in d6s and leave them on the table as they land. These dice are your Fuel: you burn them to attack, Defend, and cast.
@@ -57,17 +61,9 @@ You can now Block a blow aimed at you, not just one aimed at an adjacent ally. I
 
 **Enchanted gear.** An enchanted weapon or shield you're trained in adds a die to your attack or Defend once a round: burn a second Fuel die, or roll a free one. The free die isn't Fuel, so you can't pick its face: some rounds the magic sings, some rounds it barely wakes. A Spark can sometimes trigger a special ability; this takes experimentation or a *Read Magic* spell from a sorcerer knowledgeable in such things.
 
-## Dropped rules
-
-Burning a 1 to add an item's slots. The two-hander's second die. The Handguard tag. Dividing damage by 5. A melee foe as Cover.
-
-## Approach Traits
-
-A Journeyman can now take *longbow* and *staff* under Craft. A Boss can now take *rod* and *mace* under Heart.
+## Crossover Traits
 
 Each Trait belongs to one Approach and covers only that Approach's use. A Sorcerie *staff* is Arcana, not a weapon; to fight with it, take *staff* under Craft.
-
-## Crossovers
 
 Some items have a Trait under two Approaches, one for each use. Take a level in both Approaches and the Trait under each, and one item does both jobs.
 
@@ -87,3 +83,7 @@ In a long fight, fatigue fills one of your empty slots, then another, as you tir
 **Monster initiative.** The Referee rolls the monsters' highest Hit Die plus 4 in d6s (fewer for slow ones), and counts the 3s and 4s. Those dice are the monsters' Fuel: one pool for the whole group, topped up each round like yours. The Referee spends it to bolster any monster's attack or Defend, so the boss, or the one with the upper hand, hits harder.
 
 **Monster damage.** A monster hits for its Hit Dice or its weapon's slots, whichever suits it. The Referee rolls a d6 with each attack: a 6 Sparks, adding 6 to the damage, or, for a monster with a special attack, triggering it instead (poison, a grab, a knockdown). Giants and other freakishly strong monsters roll 2d6, so they Spark more often.
+
+## Dropped rules
+
+Burning a 1 to add an item's slots. The two-hander's second die. The Handguard tag. Dividing damage by 5. A melee foe as Cover.

@@ -15,22 +15,11 @@ Your Initiative is how many show 3 or 4. The Referee does the same for the monst
 
 Each round after, the Referee says "roll initiative!" again. Drop the dice you don't want, roll back up to your level plus empty slots, and count the 3s and 4s again.
 
-## Monster cards
-
-Each monster gets a card with its name, Armor Class (AC), and HP: an index card made at the table, or a text box copied on the slide. You tally the damage you do on its card. HP is as in D&D. AC is on the same scale as your armor. A monster hits for its Hit Dice or its weapon's slots, whichever suits it. The Referee rolls a d6 with each attack: a 6 Sparks, adding 6 to the damage, or, for a monster with a special attack, triggering it instead (poison, a grab, a knockdown). Giants and other freakishly strong monsters roll 2d6, so they Spark more often.
-
-<div class="cards">
-<div class="card"><b>Zombie</b><br>AC 0 · HP 9<br>Damage:</div>
-<div class="card"><b>Wolf</b><br>AC 1 · HP 11<br>Damage:</div>
-<div class="card"><b>Orc</b><br>AC 2 · HP 5<br>Damage:</div>
-<div class="card"><b>Ogre</b><br>AC 3 · HP 19<br>Damage: <svg width="34" height="16" viewBox="0 0 34 16" style="vertical-align: -3px" fill="none" stroke="#111" stroke-width="1.4" stroke-linecap="round"><path d="M2.5 2 L2 14.5 M6.5 1.5 L6 14 M10.5 2 L10.3 14.5 M14.5 1.5 L14 14"/><path d="M0 12 L17 3.5"/><path d="M24.5 2 L24 14.5 M28.5 1.5 L28.2 14"/></svg></div>
-<div class="card"><b>Wyvern</b><br>AC 4 · HP 31<br>Damage:</div>
-<div class="card"><b>Red dragon</b><br>AC 5 · HP 45<br>Damage:</div>
-</div>
-
 ## Damage
 
-When you attack, you do your weapon's slots in damage. You may burn up to one Fuel on top of that. Subtract the monster's AC and tally what's left on its card. When the total reaches HP it goes down.
+When you attack, you do your weapon's slots in damage. You may burn up to one Fuel on top of that. Subtract the monster's AC and count up the damage you deal. When the total reaches the monster's HP it goes down.
+
+The Referee will make the monster's HP and AC visible to you, at least when you deal damage first, if not before.
 
 ## Friction
 
@@ -46,11 +35,11 @@ Some moves are hard to pull off, so you burn one Fuel to try them, and you can't
 
 **Standing up.** Burn one Fuel to rise from the dirt with a foe pressing you in melee.
 
-**Skip the line.** Burn one Fuel to skip past one target in your line of attack: thrust a spear, loose an arrow, or cast a spell past an ally instead of hitting them. An attack normally hits the first one in its line, friend or foe. If you're countered, the attack hits your ally.
+**In the line of fire.** An attack normally hits whatever is first in its line: friend, foe, or wall. Burn one Fuel to shoot, strike, or cast past it: into a melee, from the second rank, around a cart or the shield wall in front of their sorcerer. A foe can burn one Fuel to counter. If you're countered, you hit what's in the way.
 
 ## Defend
 
-When you are hit, you may spend Fuel to reduce the damage. You can only burn 1 Fuel unless your Action this round matches the threat, for example if you are engaging in melee attacks this round then you can spend extra fuel on your defense against melee attacks, but not on defenses against magic, arrows, etc.
+When you are hit, you may burn Fuel to reduce the damage. You can burn only one die unless your Action this round matches the threat. If you struck in melee, burn as many as you like against melee blows; if you shot, against missiles; if you cast, against spells. A Block doesn't count as striking.
 
 **Special attacks.** If your Defend cancels all the damage, the blow never touches you and its special attack fails: no poison, no level drain, no grab.
 
@@ -96,3 +85,5 @@ In a long fight, fatigue fills one of your empty slots, then another, as you tir
 ## Referee
 
 **Monster initiative.** The Referee rolls the monsters' highest Hit Die plus 4 in d6s (fewer for slow ones), and counts the 3s and 4s. Those dice are the monsters' Fuel: one pool for the whole group, topped up each round like yours. The Referee spends it to bolster any monster's attack or Defend, so the boss, or the one with the upper hand, hits harder.
+
+**Monster damage.** A monster hits for its Hit Dice or its weapon's slots, whichever suits it. The Referee rolls a d6 with each attack: a 6 Sparks, adding 6 to the damage, or, for a monster with a special attack, triggering it instead (poison, a grab, a knockdown). Giants and other freakishly strong monsters roll 2d6, so they Spark more often.

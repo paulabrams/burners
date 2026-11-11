@@ -60,6 +60,14 @@ Healing magic and potions do not restore Tainted HP. *Healing Touch*, *Stanch*, 
 
 Tainted Wounds are more dire. At midnight, any character with one or more Wounds inflicted by undead loses an additional 1d6 HP.
 
+### Undead Specials
+
+OSE specials may land on any touch; that is the ceiling and the default. Dial down only when the fight wants it: a named attack, a Spark, or the stronger specimen.
+
+- **Ghoul paralysis:** by default, any claw or bite that touches may paralyze. Dial down to bite only, Spark only, or "ghoul leader only" as needed.
+- **Wight drain:** by default, any touch curses a Trait (below).
+- **Mummy rot:** by default, any touch carries the rot. Treat it as undead Taint and disease; *Cure Disease* is the clean cure.
+
 ### Level Drain > Trait Curse
 
 Level Drain is a classic ability of some kinds of powerful undead. In Burners, this ability is replaced by the Trait Curse. Rather than losing an experience level, the character has a Trait cursed each time they are touched. Roll to see which of your uncursed Traits it takes. Mark the cursed one. Undead that drain two levels, such as spectres and vampires, curse two Traits with each touch.

@@ -375,6 +375,7 @@ A weapon's **slots** are the space it fills and its reach: when held attacks go 
 | Shield | Slots | Cost (gp) |
 | --- | --- | --- |
 | Buckler | 1 | 3 |
+| Target | 2 | 4 |
 | Heater | 3 | 6 |
 | Rotella | 4 | 9 |
 | Kite | 4 | 12 |
@@ -677,7 +678,7 @@ If you empty your hand on offense you are caught winded until the next Roll Init
 
 Weapons don't add on a 6: their slots already count against the foe's armor on every blow (see *Monsters*). Shields and Parrying weapons give their slots when you Block, on any face (see *Block*).
 
-A **Parrying** weapon parries by its shape: swords, the langes messer, the parrying dagger. When you Block, it takes its slots off the blow, like a shield. A weapon without the tag (dagger, axe, mace, spear) takes nothing off. A **Handguard** is armor on your weapon hand, from AC 1 (`Handguard`, a simple cross hilt) up to AC 4 (`Handguard4`, a full basket). A center-grip shield (buckler, round shield) adds its slots. When a blow is aimed at that hand, claim it: it soaks like armor, or your suit does if its AC is better. Against any other blow it does nothing.
+A **Parrying** weapon parries by its shape: swords, the langes messer, the parrying dagger. When you Block, it takes its slots off the blow, like a shield. A weapon without the tag (dagger, axe, mace, spear) takes nothing off.
 
 **Sparks.** A natural 6 in your Fuel is a **Spark**: the opportunity to do something more. A Spark can follow a 6 you just burned on an attack, Defend, cast, or other action — resolve that action first, with the 6 counting normally. Or you may burn a held 6 solely to strike a Spark and jump straight to what follows. Either way, immediately **Fuel the Spark** with the additional Fuel its option requires. That Fuel powers the follow-on action: you do the Spark. Add no Fuel and the Spark fades, unless the option says the Spark itself is fuel enough. Or, if the 6 went into a cast or Ward with an Arcana you have the Trait for, take your gear instead: add its slots, free (see *Your 6s*). Roll several 6s and each may Spark.
 
@@ -709,9 +710,6 @@ A **Parrying** weapon parries by its shape: swords, the langes messer, the parry
 | Sword and buckler | 3 |
 | Sword and heater | 5 |
 | Sword and tower | 7 |
-
-Every Block costs an attack you could have struck with. Sword and board holds the line; the big steel does the killing.
-
 **Counterattack.** When a foe in reach does something other than a melee attack — cast, shoot, flee, drink, rise, and the like — a **Veteran** may spend a melee attack at the same time. Resolve it as a normal melee attack (burn Fuel) simultaneous to the action.
 
 When you are both meleeing, there is no free Counterattack — their swing is steel meeting steel. The opening comes only if a Defend **Sparks** (except under Cover). The 6 already counted on the Defend; the Spark buys the attack (it does not spend from your attack allotment). Fuel it — burn Fuel as for a normal melee attack — to strike.

@@ -61,6 +61,7 @@ hero_alt: "A knight returns laden — crossbow, sword, and loot — Albert Robid
 | Shield  | Slots | Cost (gp) |
 | ------- | ----- | --------- |
 | Buckler | 1     | 3         |
+| Target  | 2     | 4         |
 | Heater  | 3     | 6         |
 | Rotella | 4     | 9         |
 | Kite    | 4     | 12        |

@@ -35,11 +35,11 @@ Some moves are hard to pull off, so you burn one Fuel to try them, and you can't
 
 **Unarmed vs armed.** Burn one Fuel to make an unarmed attack against an armed opponent.
 
-**Tight spaces.** Burn one Fuel if you don't have room to swing your weapon.
+**Tight spaces.** Burn one Fuel if you don't have room to swing your weapon. Greatswords, halberds, and other large weapons need the most room.
 
 **Standing up.** Burn one Fuel to rise from the dirt with a foe pressing you in melee.
 
-**In the line of fire.** An attack normally hits whatever is first in its line: friend, foe, or wall. Burn a 6 on the attack to shoot, strike, or cast past it: into a melee, from the second rank, around a cart or the shield wall in front of their sorcerer.
+**In the line of fire.** An attack normally hits whatever is first in its line: friend, foe, or wall. Burn a 6 on the attack to shoot, strike, or cast past it: into a melee, from the second rank, around a cart or the shield wall in front of their sorcerer. Partial cover, like a low wall, does not need a 6. A shield wall can count as cover.
 
 ## Defend
 
@@ -84,6 +84,8 @@ In a long fight, fatigue fills one of your empty slots, then another, as you tir
 
 **Monster damage.** A monster hits for its Hit Dice or its weapon's slots, whichever suits it. The Referee rolls a d6 with each attack: a 6 Sparks, adding 6 to the damage, or, for a monster with a special attack, triggering it instead (poison, a grab, a knockdown). Giants and other freakishly strong monsters roll 2d6, so they Spark more often.
 
+**Monster special attack dial.** Every touch is the ceiling and the default: the Referee may have a monster's special land any time the blow touches. Dial down from there if the fight wants it: only on a named attack, only on a Spark, or only for a stronger specimen. If no sharper rule is set, a monster Spark may trigger the special instead of adding 6 damage.
+
 ## Dropped rules
 
-Burning a 1 to add an item's slots. The two-hander's second die. The Handguard tag. Dividing damage by 5. A melee foe as Cover.
+Burning a 1 to add an item's slots. The two-hander's second die. Dividing damage by 5. A melee foe as Cover.

@@ -142,7 +142,7 @@ Shoot ammunition. The three main types are bows, crossbows, and guns. Loading/re
 Weapons carry tags for their characteristics; many describe a way to upgrade in specific circumstances. Weapons fall into **main weapons** (spears, axes) and **sidearms** (swords, daggers); larger weapons have higher Class and more tags.
 
 - **Weapon Class** — the weapon's penetration vs contemporary armor. Used for soft-target reads (WC > AC). **Slots** — inventory space, and reach: when held attacks go off together, more slots strikes first (see [[Burners Equipment]]).
-- **Military Weapons** — Class3+ are "military weapons," not usually permitted in civilized areas unless they have the `Civil` tag.
+- **Military Weapons** — Class3+ are "military weapons," not usually permitted in civilized areas unless they have the `Civil` tag. A two-handed military weapon has no sheath on the belt, so it is always carried in the hands: walking through town with one is walking around with a drawn weapon. A sword and buckler hang at the belt and leave your hands free. Large military weapons like greatswords and halberds also need room to swing: in a corridor, a doorway, or a crowd you may have to burn a die for the friction.
 - **2H (Two-Handed)** — optimized for two hands; longer and heavier. Used one-handed: WC −1 and no tag benefits.
 
 **Range tags** (optimal distance — upgrade if you're at your optimal range and the foe is not):
@@ -162,7 +162,7 @@ Weapons carry tags for their characteristics; many describe a way to upgrade in 
 - **Control** — (long swords, short polearms) easily turned to strike any direction; ideal for area control and fending off multiple foes. If the Referee raises Heat for being surrounded/flanked, spend an Action to negate the raise. Two hands only, at the listed range (e.g. `Control-Medium`).
 - **Cutty** — can cleave soft targets. After a Spark against a soft target (your WC beats their AC) you may Fuel another attack with the same weapon.
 - **Custom** — higher-quality, bespoke, perfectly made.
-- **Handguard** — armor on your weapon hand. A simple cross hilt (arming sword, longsword) is AC 1, `Handguard`. A cross with a finger ring or knuckle bow (sidesword, sabre, hanger) is AC 2, `Handguard2`. A swept or cup hilt (rapier) is AC 3, `Handguard3`. A full basket (schiavona, Highland broadsword) is AC 4, `Handguard4`. A center-grip shield (buckler, round shield) goes forward with the sword hand and adds its slots: arming sword and buckler make AC 2 on the hand, sidesword and round shield AC 5. Strapped shields (target, heater, kite) ride the forearm and cover the body, not the hand. When a blow is aimed at your weapon hand (a cut at the wrist or fingers), claim it: it soaks leftover after Defend like armor, or your suit does if its AC is better. Against any other blow it does nothing. You can wear no armor at all and still have armor on your hand.
+- **Handguard** — armor on your weapon hand. A simple cross hilt (arming sword, longsword) is AC 1, `Handguard`. A cross with a finger ring or knuckle bow (sidesword, sabre, hanger) is AC 2, `Handguard2`. A swept or cup hilt (rapier) is AC 3, `Handguard3`. A full basket (schiavona, Highland broadsword) is AC 4, `Handguard4`. A shield does the same for the hand that holds it, at its slots. When a blow is aimed specifically at that hand (a cut at the wrist or fingers), claim it, even on a plain Defend with no Block: it soaks leftover after Defend like armor, or your suit does if its AC is better. Against any other blow it does nothing. You can wear no armor at all and still have armor on your hand. Rare in play: blows aren't usually aimed at a hand.
 - **Hooking** — (sickles, some polearms) can cut behind the target. When you Aim you may strike the rear instead of left/right for **+1 WC**.
 - **Parrying** — a blade shaped to parry (mostly swords and daggers). With the Trait, when you Block, it takes its slots off the blow, like a shield, along with your shield or a second Parrying weapon. A weapon without the tag takes nothing off (see *Block* in [[Burners Adventure Game]]). The *parry* Trait doesn't make a weapon Parrying.
 - **Piercing** — extended rigid blade 2+ ft, reaching deep. **+1 WC vs Large Monsters** (whose vitals sit deeper, giving them higher AC).
@@ -197,13 +197,13 @@ Heavy harness eats slots and thins your Fuel; light kit keeps empty slots and sp
 
 ## Shields
 
-Held steel, raised against a blow. A shield gives no Fuel. Its **slots** (prices in [[Burners Equipment]]): buckler 1, target 2, heater 3, rotella 4, kite 4, tower 5. With the shield's Trait, when you **Block** it takes its slots off the blow: a buckler 1, a tower 5, plus a Parrying weapon's slots (see *Block* in [[Burners Adventure Game]]). A raised shield can count as **Cover** vs missiles (2 dice on that Defend). A center-grip shield (buckler, round shield, large round) also adds its slots to the armor on your weapon hand (see *Handguard*).
+Held steel, raised against a blow. A shield gives no Fuel. Its **slots** (prices in [[Burners Equipment]]): buckler 1, target 2, heater 3, rotella 4, kite 4, tower 5. With the shield's Trait, when you **Block** it takes its slots off the blow: a buckler 1, a tower 5, plus a Parrying weapon's slots (see *Block* in [[Burners Adventure Game]]). A raised shield can count as **Cover** vs missiles (2 dice on that Defend). A shield also counts as armor on the hand that holds it, at its slots, against a blow aimed at that hand (see *Handguard*).
 
 Catalog **size** tags below are labels for look and heft — use Burners **slots** at the table.
 
 ### Shield Types
 
-- **Buckler** `[size 1 Slots1 Centergrip]` — small fist-gripped companion shield (round *brocchiero* or square *targa*). Common and cheap. The palm-sized finger buckler, about six inches across and gripped in the fingers, covers a sword hand that has no guard of its own; it is too small to count as Cover.
+- **Buckler** `[size 1 Slots1 Centergrip Civil]` — small fist-gripped companion shield (round *brocchiero* or square *targa*). Common and cheap. The palm-sized finger buckler, about six inches across and gripped in the fingers, covers a sword hand that has no guard of its own; it is too small to count as Cover.
 - **Target** `[size 2 Slots2 Strapped]` — small round shield strapped to the forearm (Scottish targe). The targe hand holds the grip and often a dirk with it.
 - **Round Shield** `[size 3 Slots3 Centergrip]` — light wooden round shield (Viking shield).
 - **Heater** `[size 3 Slots3 Strapped]` — smaller kite shield for mounted or foot combat.
@@ -214,7 +214,7 @@ Catalog **size** tags below are labels for look and heft — use Burners **slots
 - **Tower** `[size 5 Slots5 Strapped]` — tall rectangular shield.
 - **Pavise** `[size 5 Slots5, standing cover]` — a semi-portable wall for siege crossbowmen; planted as static cover (an Action to move and re-set), it frees the hands.
 
-**Grip.** A `Centergrip` shield is held in the fist. It moves quickly and goes forward with the sword hand, so it adds its slots to the armor on that hand (see *Handguard*). Drop it to free the hand. It can also be torn away: a Man-handle aimed at the shield that you don't fully Defend takes it. A `Strapped` shield rides the forearm on a strap and a hand grip — steadier and stronger, slower to ready. A Man-handle can pin it for a blow but never tear it away, and opening your hand doesn't drop it. Brought to bear against a Man-handle, it braces you: one free defense die. Either way a shield only stops the blow you bring it to bear on; a foe you do not see gets past it.
+**Grip.** A `Centergrip` shield is held in the fist. It moves quickly and goes forward with the sword hand. Drop it to free the hand. It can also be torn away: a Man-handle aimed at the shield that you don't fully Defend takes it. A `Strapped` shield rides the forearm on a strap and a hand grip — steadier and stronger, slower to ready. A Man-handle can pin it for a blow but never tear it away, and opening your hand doesn't drop it. Brought to bear against a Man-handle, it braces you: one free defense die. Either way a shield only stops the blow you bring it to bear on; a foe you do not see gets past it.
 
 ---
 
@@ -281,7 +281,7 @@ Relics of the Drisi empires that ruled aeons ago — found in any land or underw
 - **Adamant Scorpion** `[Class3 Slots4 Long]` — long shadow-steel polearm with incredible cutting properties.
 - **Orichalcum Serpent Ring** `[Class0 Slots0 Gauntlet]` — brassy Eldar-steel ring that absorbs magic; mages avoid it unless they don't cast with that hand.
 - **Orichalcum Scale Armor** `[Class2 Slots4 Half-Armor]` — small brassy Eldar-steel plates laced to a cloth/leather backing.
-- **Orichalcum Buckler** `[Class3 Slots1 Small Centergrip]` — brassy Eldar steel that absorbs magic.
+- **Orichalcum Buckler** `[size 1 Slots1 Centergrip Civil]` — brassy Eldar steel that absorbs magic.
 - **Orichalcum Breastplate** `[Class3 Slots4 Body-Armor]` — brassy Eldar-steel front breastplate over clothing.
 - **Vakaar Falchion** `[Class3 Slots2 Medium Binding Parrying Handguard Cutty]` — evil wavy-bladed sword of cracked dark-purple/green steel; wounds don't heal naturally.
 

@@ -229,6 +229,10 @@ crystal.
 
 **No spontaneous magic.** You cannot cast a card that is not ready in your hand.
 
+**Voice and hands.** To cast, you must be able to speak aloud and move your hands. Bound,
+gagged, or caught in a magical silence, you cannot cast. Your hands needn't be empty: a
+staff, a wand, or a sword in hand doesn't stop you.
+
 **The cast.**
 
 1. **Say what you do** — name the spell and its effect in the fiction.

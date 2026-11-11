@@ -179,7 +179,9 @@ the table: the commander's rod from the Dying Strength statue.)
 - Greatsword against sword and buckler. The greatsword turns a 1 into a 5 on the
   attack and still parries at 3; two 1s on a Defend are 3 and 1. Sword and
   buckler's two 1s are 3 and 2. The two-hander hits, the shield
-  man turns blows.
+  man turns blows. (Superseded Nov 11, Paul: a greatsword parries as well as
+  sword and buckler, or better. Sword and buckler's edges are Cover, tight
+  spaces, carrying in town, and free hands.)
 
 - Burning. Players will go looking for things to burn. A burn when you're short
   of XP or Traits levels nothing and isn't banked; the next one counts.

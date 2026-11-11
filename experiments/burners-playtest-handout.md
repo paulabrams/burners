@@ -19,23 +19,23 @@ Each round after, the Referee says "roll initiative!" again. Drop the dice you d
 
 When you attack, you do your weapon's slots in damage. You may burn up to one Fuel on top of that. Subtract the monster's AC and count up the damage you deal. When the total reaches the monster's HP it goes down.
 
+Your weapon does 1 instead of its slots if you don't have its Trait, or if it's a two-handed weapon wielded in one hand. Your Trait must precisely match your weapon and not a general category: "arming sword" or "longsword", not "sword".
+
 The Referee will make the monster's HP and AC visible to you, at least when you deal damage first, if not before.
 
 ## Friction
 
 Some moves are hard to pull off, so you burn one Fuel to try them, and you can't burn again. If a foe counters with more Fuel, the action fails or goes awry.
 
-**Untrained.** Burn one Fuel to attack with a weapon you aren't trained in. You're trained if a Trait precisely matches your weapon: "arming sword", not "swords".
-
-**Improvised or unarmed.** Burn one Fuel to attack with an improvised weapon or your bare hands.
-
-**Room to swing.** Burn one Fuel to make the attack if you don't have room to wield the weapon, or if you swing a two-handed weapon in one hand.
-
 **Drawing under pressure.** Burn one Fuel to draw or pick up a weapon with a foe in reach.
+
+**Unarmed vs armed.** Burn one Fuel to make an unarmed attack against an armed opponent.
+
+**Tight spaces.** Burn one Fuel if you don't have room to swing your weapon.
 
 **Standing up.** Burn one Fuel to rise from the dirt with a foe pressing you in melee.
 
-**In the line of fire.** An attack normally hits whatever is first in its line: friend, foe, or wall. Burn one Fuel to shoot, strike, or cast past it: into a melee, from the second rank, around a cart or the shield wall in front of their sorcerer. A foe can burn one Fuel to counter. If you're countered, you hit what's in the way.
+**In the line of fire.** An attack normally hits whatever is first in its line: friend, foe, or wall. Burn a 6 on the attack to shoot, strike, or cast past it: into a melee, from the second rank, around a cart or the shield wall in front of their sorcerer.
 
 ## Defend
 
@@ -43,7 +43,7 @@ When you are hit, you may burn Fuel to reduce the damage. You can burn only one 
 
 **Special attacks.** If your Defend cancels all the damage, the blow never touches you and its special attack fails: no poison, no level drain, no grab.
 
-**Armor.** When hit, reduce the damage by your armor class (AC), if any.
+**Armor.** When hit, reduce the damage by your armor class (AC), if any. Armor doesn't stop touch or special attacks: unless your Defend cancelled all the damage, they still take effect, even if armor soaks the rest.
 
 ## Block
 

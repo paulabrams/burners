@@ -78,7 +78,7 @@ Death lands after the fight — **unhelped Wound**, **failed Craft survival**, o
 
 Traits come with levels; named gear and spell learning are **never bought with XP**. Signatures emerge at the table — one per level in that Approach, or two per character level if **Eldar** ([[Burners Experience#Eldar]], [[Burners Ancestry#Eldar]]).
 
-Magic arms and armor are looted or earned, never bought at creation. Magic items grant **0 XP**; the item is the reward. Enchanted = legendary = eldritch: a *+1* is a magic sword. It **accepts** only a matching Trait (no roll) — extra die and powers once found: [[Burners Adventure Game#Enchanted Arms and Armor]]. How you stock and convert them: [[Burners Referee Magic Items]].
+Magic arms and armor are looted or earned, never bought at creation. Magic items grant **0 XP**; the item is the reward. Enchanted = legendary = eldritch: a *+1* is a magic sword. It **accepts** only a matching Trait (no roll) — a free die each round and powers once found: [[Burners Adventure Game#Enchanted Arms and Armor]]. How you stock and convert them: [[Burners Referee Magic Items]].
 
 ---
 
@@ -171,7 +171,7 @@ A **spell** cone or burst uses **Defend** and overrun like any other hostile wor
 
 Burners puts information on the table on purpose. Fuel is face-up. Heat is announced. Threats are telegraphed. The crew chooses with eyes open — they may still choose badly, but they were not ambushed by a rule they could not see.
 
-**Warn before the irreversible.** If a move will spring a sharp interaction the player may not have clocked, say so, then let them decide. Example: shooting a missile into a melee when the target can use a Burner as **Cover** — Fuel Sparks are already showing. *"Are you sure you want to put that into the press? He's got a Spark sitting right there."* Procedure: [[Burners Referee Guide#Cover, Sparks, and shooting into the press]].
+**Warn before the irreversible.** If a move will spring a sharp interaction the player may not have clocked, say so, then let them decide. Example: a shot with a friend in the line and no 6 to burn — it will hit the friend. *"Are you sure? Aldric's in the line, and you've got no 6."* Procedure: [[Burners Referee Guide#Line of attack]].
 
 Hidden monsters, sealed doors, and lies in the fiction are fair. Hidden *rules* are not.
 
@@ -190,7 +190,7 @@ Every die, save, check, and bonus from another game is a **pointer** to a Burner
 | Save vs. poison | **Defend** (Craft) to avoid; **lingering Cost** once it lands |
 | To-hit / THAC0 | Deleted — the pool carries the attack |
 | Magic weapon to hit | Face-down cards; players claim the **right tool** for the extra die |
-| +n weapon or armor | Enchanted tiers, extra Fuel die, minor powers |
+| +n weapon or armor | Enchanted: one free die a round when used, minor powers |
 | XP for magic items | 0 XP — the item is the reward |
 | XP for monster parts | 0 XP — purse or kit; see [[Burners Experience#Part out]] |
 | XP for treasure on return | Credited at the deed, found or not; see [[Burners Experience#The deed pays]] |
@@ -204,7 +204,7 @@ The full OSE routing tables live in [[Burners OSE Conversions]]. Read a stat blo
 - **Read the moment.** Is the world bending to a clever plan, or is there a price? Pick the engine.
 - **Spend dice.** Defense is a resource decision, not a permission check.
 - **Name the harm.** Face-down cards and weaknesses are fiction first; players claim the right tool for the extra die.
-- **No gotchas.** Face-up Fuel, announced Heat, telegraphed threats — warn before a sharp rule bites (Cover Sparks into the press), then honor the choice.
+- **No gotchas.** Face-up Fuel, announced Heat, telegraphed threats — warn before a sharp rule bites (a shot through a friend with no 6), then honor the choice.
 - **Telegraph the big hits.** Dragon breath and collapsing ceilings are choices, not surprises sprung cold.
 - **Let the dread work.** Lingering Costs and wound severity do the horror; the Referee does not re-roll every round.
 - **Face the Heat dial.** Collateral waiting to bite: foreshadowing in module text is a raise; preparation is a reduction.

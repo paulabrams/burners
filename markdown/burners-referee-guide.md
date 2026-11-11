@@ -225,11 +225,11 @@ Every Turn runs hot; every other Turn is cooler. Distant 1,5 / 1,6 can be a sigh
 
 ## Building and Running Monsters
 
-A monster is any enemy: Hit Dice, attacks, and a public **Monster Stack** of **2 × HD** playing cards (face-down closed / face-up open). Its Hit Dice are its level: most humans are 0, most orcs are 1, a veteran higher. How blows land on that stack: this section. Burner-side Fuel economy: [[Burners Principles#Pools, not fixed numbers]].
+A monster is any enemy: Hit Dice, an armor equivalent, attacks, and a public **Monster Stack** of **2 × HD** playing cards. Its Hit Dice are its level: most humans are 0, most orcs are 1, a veteran higher. How blows land on that stack: this section. Burner-side Fuel economy: [[Burners Principles#Pools, not fixed numbers]].
 
 ### Monsters at speed (preferred Referee mode)
 
-**Monsters have Hit Dice.** Deal each monster a **Monster Stack** of **2 × HD** playing cards. **Face-down = closed** (armored / shell). **Face-up = open** (meat). Ignore rank and suit. The stack replaces notepad HP. Players like a fat Fuel pool; you keep the enemy side **small and quotable**.
+**Monsters have Hit Dice.** Deal each monster a **Monster Stack** of **2 × HD** playing cards. Ignore rank and suit. The stack replaces notepad HP. Players like a fat Fuel pool; you keep the enemy side **small and quotable**.
 
 **Initiative.** Each distinct enemy group rolls **1d6** every Round Initiative (reroll each round; no declare-before-roll). Shambling / acts last as written — skip the die, go last. Round 1 surprise: a surprised side is dead last that round (Fuel and Actions unchanged). PC Initiative stays the count of 3s and 4s on Fuel — [[Burners Adventure Game#Combat]]. Win the number and the whole Action is theirs then. A Burner may hold any of it for a trigger; when a held attack and a foe's go off together, more weapon slots strikes first, and same slots land together — [[Burners Adventure Game#Combat]].
 
@@ -244,41 +244,70 @@ A monster is any enemy: Hit Dice, attacks, and a public **Monster Stack** of **2
 
 **Grab / constrict.** Printed grab, pincer, coil: see **Constrict** in [[Burners Adventure Game#Combat]].
 
-**Paint (mix inside 2 × HD).** Naked / sushi / tough hide with no kit → **all face-up**. Soft kit (leather, shield) → **some face-down** (orc HD 1 → **1 down / 1 up**). Mail/heavier → more face-down. True shell/plate/scales → **mostly or all face-down** (crab HD 3 → **6 face-down**). Soft armor **adds face-downs into the mix** — it does not invent a flat soak or a second track outside 2 × HD.
+**Armor.** Every monster has an **armor equivalent** on the same ladder as Burners' armor, natural armor included. Tell the players. Say it the first time steel meets the thing, in the world's words with the number: *"Your blade skids off scales like a mail shirt. AC 3."* Then leave it on the index card by the stack. The players do the math; you flip cards.
+
+Take it from the monster's D&D armor class, or just say what it looks like.
+
+| AC | As | D&D AC | For example |
+| ---: | --- | --- | --- |
+| 0 | Bare | 9–8 [10–11] | Townsfolk, zombie, gelatinous cube |
+| 1 | Leather | 7 [12] | Skeleton, wolf, boar, giant rat |
+| 2 | Gambeson | 6 [13] | Goblin, orc, bear, minotaur |
+| 3 | Mail | 5–4 [14–15] | Man-at-arms, ogre, gnoll, troll |
+| 4 | Plate | 3 [16] | Wyvern, white dragon, knight in plate |
+| 5 | Full plate | 2 [17] or better | Giant crab, red dragon, the knight's lord |
 
 **One blow:**
 
-1. Player announces **damage**. Keep the big number.
-2. **Hits = ⌈damage ÷ 5⌉** (always round up).
-3. **Closed?** (any face-down remains, or flesh that shrugs their edge) → **−1 Hit**, always. Armor is one card of soak — −5 damage in effect. No spend waives it.
-4. **Right tool** — the player claims it in fiction (*“I slice the sushi!”* / *“poleax on the shell!”*) and burns **one extra Fuel** into the blow (beyond the weapon's usual dice); its face **adds** to damage before rounding. A deeper blow, not a waiver.
-5. Pop **face-down first, then face-up**. **0** → bounce.
+1. Compare the weapon's **slots** to the monster's **AC**. Slots higher: **+2** damage. Equal: nothing. Slots lower: **−2** damage.
+2. Divide by 5. With the weapon's **Trait**, round up; without it, round down. Zero or less bounces.
+3. Pop that many cards.
 
-| Damage | Hits | Closed (−1) | Open |
-| --- | ---: | ---: | ---: |
-| 1–5 | 1 | 0 | 1 |
-| 6–10 | 2 | 1 | 2 |
-| 11–15 | 3 | 2 | 3 |
-| 16–20 | 4 | 3 | 4 |
+| Damage | Hits with the Trait | Hits without |
+| --- | ---: | ---: |
+| 1–4 | 1 | 0 |
+| 5 | 1 | 1 |
+| 6–9 | 2 | 1 |
+| 10 | 2 | 2 |
+| 11–14 | 3 | 2 |
+| 15 | 3 | 3 |
+| 16–19 | 4 | 3 |
 
-**Cracked!** = last face-down gone — faces show; the armor −1 ends. **Dead** = stack empty; scoop.
+*A sword (2 slots) against a goblin (AC 2): even. A blow of 4 is one card with the sword Trait, and bounces without it. Against a troll (AC 3) the sword is lower: 4 is 2, one card trained, nothing untrained. A greatsword (4) against the troll: 5 and 4 is 9, +2 is 11, three cards.*
 
-**Tactics:** claim the right tool for the extra die when it matters — the player holds the story. Scraps after Cracked. A **1**+**2** is still 1 Hit (ceil); closed → bounce; the right tool's extra die is how a stuck blow punches through.
+**Resistances use the same step.** A monster's stat line can fix the result of the comparison for named weapons, tags, or stuff, whatever their slots. Write them down before play so nobody argues them mid-fight, and tell the players the first time one shows, the same as the AC.
 
-**Press (optional).** When a quote should bite harder, add a die or bump by fiat — not a Heat Initiative pool.
+- **Resistances:** always −2 against what's named, or −4 for what barely touches it. A skeleton resists Cutty weapons (−2), and arrows rattle through its empty ribs (−4); a mace still compares as usual, 2 slots against AC 1, +2.
+- **Bane:** always +2. Silver for the werewolf, fire for the troll.
 
-**Hordes.** Shared group d6 for the knot. Attacks = bodies in reach. One **Monster Stack** (2 × HD cards) per body; soft kit only changes the face mix. Fat stacks for solos and named threats.
+*Skeleton: AC 1, 1 HD (2 cards). Cutty −2, arrows −4.*
+
+**Dead** = stack empty; scoop.
+
+**Tactics:** the right weapon for the foe is the players' call, and they can see the numbers. Hand the big steel to whoever can reach; Block with the shield while it works. A sword against a troll's mail is lower, so even a trained hand only chips at it; untrained, it does nothing.
+
+**Press (optional).** When a quote should bite harder, add one of the Referee's dice to it or bump by fiat — not a Heat Initiative pool.
+
+**Hordes.** Shared group d6 for the knot. Attacks = bodies in reach. One **Monster Stack** (2 × HD cards) per body; their kit only sets the AC. Fat stacks for solos and named threats.
 
 **Shambling** → act last.
 
 **Full-dice monsters (optional).** Solo duel / demo as a Burner for spend and Defend. **Initiative stays group (or solo) 1d6** — do not switch order to a 3/4 Fuel count. Default is speed mode.
+
+### The Referee's dice
+
+When the fight starts, roll a small handful of dice face-up. They are your dice for the whole fight: spent dice are gone, and they do not refill at Round Initiative. You pick how many. A good default is the Hit Dice of the biggest monster in the room or one per player, whichever is greater: an ogre of HD 4 against three players is four dice; a knot of orcs against five players is five.
+
+They put some chance into the fight so it doesn't run like clockwork. Add one to a quote to press it, or burn a 6 to get a foe past the line, rarely (see *Line of attack*). Because they never refill, the 6s stay scarce.
+
+They are not a Fuel pool. Monsters don't Defend with them, and they don't decide who goes first: each foe group still rolls its 1d6 every round. Don't try to match the Burners die for die. The players should come away feeling clever, and the monsters are not as clever.
 
 ### Morale — when the other side quits
 
 Scores port from OSE unchanged (2–12, rolled on 2d6, roll under the score to hold). What matters at the table is remembering to ask. Check at these moments, once each:
 
 - the side takes its **first death**
-- the side is down to **half** its bodies, or a solo is **Cracked**
+- the side is down to **half** its bodies, or a solo to half its cards
 - the **leader** falls, flees, or is plainly beaten
 - something lands that the creature has no answer to — fire on a beast, silver on the thing silver is for, a working it cannot shake
 
@@ -330,13 +359,15 @@ Mark the Turn, and mark it loud — a flight is `!!` on the tracker. Heat does n
 
 ---
 
-## Cover, Sparks, and shooting into the press
+## Line of attack
 
 Fuel is rolled face-up. Everyone can see the 6s.
 
-When a missile flies into a melee, the target may use a **melee foe as Cover** (see [[Burners Adventure Game]]). If they Spark on that Defend, the shot hits that foe instead — often a Burner locked with them. The Spark itself is fuel enough; nothing more is burned, and the foe it lands on may not declare Cover to put it back. That is the rule working as written, not a gotcha to spring cold.
+An attack hits the first one in its line, friend or foe, unless a 6 is burned on it (see *Line of attack* in [[Burners Adventure Game]]). A shot past your own front rank hits a friend; a shot at the enemy archer behind their shield wall hits the shield wall. That is the rule working as written, not a gotcha to spring cold.
 
-Before the arrow goes: give a friendly warning. *"Are you sure you want to put that into the press? He's got a Spark sitting right there."* The player still chooses. You telegraphed the risk while the dice were already on the table. See [[Burners Principles#No gotchas]].
+Before the arrow goes: give a friendly warning. *"Are you sure? Aldric's in the line, and you've got no 6."* The player still chooses. You telegraphed the risk while the dice were already on the table. See [[Burners Principles#No gotchas]].
+
+Foes can get past the line too, on a 6 among your dice (see *The Referee's dice*), but rarely, and only when you choose. Getting past the line is the players' trick. Burners behind their front line should feel safe there, and a foe that picks off the back rank every round makes the front line pointless.
 
 ---
 

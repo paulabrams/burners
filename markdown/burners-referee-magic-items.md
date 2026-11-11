@@ -11,7 +11,7 @@ hero_alt: "A knight returns laden — Albert Robida"
 
 **Enchanted = legendary = eldritch = magic.** Same class. A *+1 sword* is a freaking magic sword — woke steel that may talk, burn, or hunt. The plus only sets how many minor powers you stock, not how trivial the find is.
 
-In combat, an enchanted arm or armor the wielder's Trait has **accepted** gives **one extra die** when that item is the thing in play (Initiative, a blow, or Defend / Block with a shield). Out of combat they give no extra dice. **Powers** also require that acceptance (and that the power has been found). Without the Trait the piece is mundane kit in their hands. A module **+n** means **n minor powers**, not a bigger number on the roll.
+In combat, an enchanted arm or armor the wielder's Trait has **accepted** gives **one free die each round**, rolled when it is used: a weapon's on a blow, a shield's or armor's on a Defend. It is not Fuel and doesn't count for Initiative; unused by the next Roll Initiative, it's gone. Out of combat they give no extra dice. **Powers** also require that acceptance (and that the power has been found). Without the Trait the piece is mundane kit in their hands. A module **+n** means **n minor powers**, not a bigger number on the roll.
 
 ## Quality above fine steel
 
@@ -19,7 +19,7 @@ Mundane quality — **Common**, **Fine steel**, **Signature** — lives in [[Bur
 
 ### Tuned
 
-Fitted to one grip and dialed in. A **Tuned** weapon **counts as enchanted** for that grip (accepted only with the Trait; extra die and powers once found) and is **Trusty** (never sticks or notches). A tuning belongs to one hand: a blade tuned to a dead man's grip must be **re-tuned** before it answers you (a master's fee, or your own Craft 1+, tools, coin, and downtime). Earned in play, never at creation.
+Fitted to one grip and dialed in. A **Tuned** weapon **counts as enchanted** for that grip (accepted only with the Trait; free die and powers once found) and is **Trusty** (never sticks or notches). A tuning belongs to one hand: a blade tuned to a dead man's grip must be **re-tuned** before it answers you (a master's fee, or your own Craft 1+, tools, coin, and downtime). Earned in play, never at creation.
 
 ### Bane-forged
 
@@ -27,7 +27,7 @@ Made for one enemy. Against its named quarry it *is* the **right tool** — no f
 
 ### Legendary / named relics
 
-Found, never made. A relic may lie dormant as ordinary gear until you discover its true name — read from a tomb-glyph, **surrendered by an Invocation** to the patron it serves, or earned by the deed it was made for. The name costs no XP. With the matching Trait you are accepted (extra die and powers once found).
+Found, never made. A relic may lie dormant as ordinary gear until you discover its true name — read from a tomb-glyph, **surrendered by an Invocation** to the patron it serves, or earned by the deed it was made for. The name costs no XP. With the matching Trait you are accepted (free die and powers once found).
 
 Named relics and true names matter for fiction and for waking a dormant piece; they do not make a second mechanical tier above "enchanted." Enchanted, legendary, and eldritch are one class.
 
@@ -53,11 +53,11 @@ Record them like Trait Signatures: each power you have **found** earns an asteri
 
 | On your sheet | Meaning |
 | --- | --- |
-| `arming sword` (enchanted) | Magic steel; silent until you hold *arming sword* (or the fitting Trait) — then extra die and powers as found |
+| `arming sword` (enchanted) | Magic steel; silent until you hold *arming sword* (or the fitting Trait) — then free die and powers as found |
 | `arming sword*` | Accepted; one +1-tier power discovered — footnote `*` names it |
 | `arming sword**` | A +2 item; both powers found — footnotes `*` and `**` |
 
-**No plusses on sums.** A +n from another game never becomes a bonus added to a roll total. It becomes **enchanted** arms or armor: acceptance by Trait, the extra die, plus n minor powers once found.
+**No plusses on sums.** A +n from another game never becomes a bonus added to a roll total. It becomes **enchanted** arms or armor: acceptance by Trait, the free die, plus n minor powers once found.
 
 Disarming an enchanted weapon denies its magic while it is out of hand.
 
@@ -232,7 +232,7 @@ Use **enchanted + powers** for anonymous module loot (*"+1 sword"*). Roll **2d6*
 | --- | --- |
 | **2** | **A relic all along.** Enchanted; dormant until its true name is learned. |
 | **3** | **Bane-forged** against a foe fitting the module (the Referee names the quarry). |
-| **4** | **An unusual tag** for its type — Control, Binding, Handguard, or Stabbity where its kind carries none. |
+| **4** | **An unusual tag** for its type — Control, Binding, Parrying, or Stabbity where its kind carries none. |
 | **5** | **Tuned** — to a dead hand. Re-tune to wake it. |
 | **6** | **Signature** — a name, a history, a hook. Fine steel beneath. |
 | **7** | **Fine steel, plain and true** — Trusty, and it sells dear. |

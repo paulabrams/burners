@@ -81,7 +81,7 @@ Your character's Theme and Traits can help back up your plan.
 
 - **Gold pieces (gp):** all prices use traditional gold pieces.
 
-- **Inventory slots:** twelve slots for weapons, armor, gear, and baggage. Big items (a sword, a shield, a backpack) use more than one. Anything carried in your hands outside those twelve slots costs no slots but occupies your hands. A **Boss** may split some of the twelve into **Muster slots** (see *Muster*). Pack beasts and mounts you buy to carry or ride sit **off** the twelve — see [[Burners Equipment#Animals and mounts]].
+- **Inventory slots:** twelve slots for weapons, armor, gear, and baggage. Big items (a sword, a shield, a backpack) use more than one. What you hold in your hands still takes its slots: a sword in the fist counts the same as a sword on the belt. A **Boss** may split some of the twelve into **Muster slots** (see *Muster*). Pack beasts and mounts you buy to carry or ride sit **off** the twelve — see [[Burners Equipment#Animals and mounts]].
 
 - **Baggage:** small items can share a slot if they ride in a pouch, quiver, or satchel (1 slot). A backpack (3 slots) holds bedroll, rope, rations, and loot efficiently, but takes ten minutes to unpack.
 
@@ -129,19 +129,20 @@ Your character's Theme and Traits can help back up your plan.
 
 - **Combat Round:** one minute. Your character gets one Action (attack, cast, etc.) based on Initiative order. You may move and position as part of your Action, such as drawing a weapon and moving to engage a foe.
 
-- **Continued Combat:** on round 2 and later the Referee says "roll initiative!" again. Add your character level in dice to your Fuel pool, roll the new dice, and recount 3s and 4s for the new Initiative order. Other Fuel stays frozen; do not re-roll it.
+- **Continued Combat:** on round 2 and later the Referee says "roll initiative!" again. Drop any Fuel dice you don't want and roll new ones until you're back at your maximum, then recount 3s and 4s for the new Initiative order. The dice you keep stay frozen; do not re-roll them.
 
 - **Fuel:** all the dice from your Initiative rolls, kept at their faces and burned through the fight to attack, defend, cast, and counterattack. Remove burned Fuel dice from play.
 
-- **Spark:** a natural 6 on a Fuel die: an opportunity, not a free action. Spend the 6 to strike the Spark, then **Fuel the Spark** with the additional Fuel its option requires, or let it fade.
+- **Spark:** a natural 6 on a Fuel die: an opportunity, not a free action. Spend the 6 to strike the Spark, then **Fuel the Spark** with the additional Fuel its option requires, or let it fade. Burned on a cast with an Arcana you have the Trait for, the 6 may add the Arcana's slots instead (see *Your 6s*).
 
 - **Attack:** use your action to make an attack, either melee or missile. You must burn one Fuel die per attack, with the option to burn a second die if your weapon is 3+ slots and wielded in both hands. Deals damage of total Fuel die faces used. With Sword, you make an extra attack per Sword level, all burning Fuel.
   - **Flurry (Spark):** When attacking, Fuel a Spark to attack again (burn Fuel as for a normal attack); armor applies normally.
   - **Man-handle (Spark):** Fuel a Spark to shove, grab, trip, or knock down a foe. Armor does not soak. Free defense dice if they are hard to move: a bear, bronze in the water, four at once (one free die each). One Spark can shove a knot; each Defends the same force. A 7 beats one die — they fall; a 6 on that Defend still Sparks and may take you with them. Fully Defended: the shove fails (no reverse). They shove you back only if that Defend Sparks and they Fuel a man-handle.
   - **Impale (Spark):** When attacking with a Stabbity weapon (dagger, rondel, short sword…), Fuel a Spark to thrust deeper into the same spot; armor does not soak the Fuel you burn to Fuel it.
   - **Sever (Spark):** Only vs foes with **too many parts** — octopus, spider, hydra, swarm-limbs, and the like. When attacking with a Cutty / chopping weapon (poleax, battle ax, greatsword, cleaver…), Fuel a Spark with **1** Fuel to hack off one spare limb or head. That part's attack is gone for the fight. Not for ordinary humanoids (use Wounds / Man-handle).
+  - **Past them (Spark):** An attack hits the first one in its line, friend or foe (the friend in front of you, the shield wall in front of their archer), unless you burn a 6 on it to get past. See *Line of attack*.
 
-- **Defend:** burn Fuel to cut the blow; leftover, armor soaks, rest to HP. Caps: melee 1 die (no limit if you meleed this round); missile 1 die (2 with Cover); hostile magic no limit. **Counterattack**, **Cover**, **Block**, **Ward**, **In the dirt**.
+- **Defend:** burn Fuel to cut the blow; leftover, armor soaks, rest to HP. Caps: melee 1 die (no limit if you meleed or Blocked this round); missile 1 die (2 with Cover); hostile magic no limit. **Counterattack**, **Cover**, **Block**, **Ward**, **In the dirt**.
 
 - **In the dirt:** flat on the ground — all Fuel burned must be re-rolled. Rise free on your Action unless a foe presses you in melee (then a die re-rolled **3+**). Waist/leg Wounds hold you down until full HP.
 
@@ -149,7 +150,7 @@ Your character's Theme and Traits can help back up your plan.
 
 ### Monsters
 
-- **Monster:** an enemy. You announce damage; the Referee converts it. You hear **Cracked!** when the last face-down card goes. Full procedure: [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]].
+- **Monster:** an enemy, with a stack of cards and an armor equivalent the Referee tells you (a goblin as gambeson, AC 2; a troll as mail, AC 3). Compare your weapon's slots to its AC: higher, +2 damage; equal, nothing; lower, −2. Divide by 5, rounding up if you have the weapon's Trait and down if you don't, and that many cards come off. Some foes have resistances to certain weapons (always −2, or −4) or a Bane (always +2); the Referee tells you when it shows. Full procedure: [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]].
 
 ---
 
@@ -176,10 +177,10 @@ On your sheet, a Trait is a skill or a quality: arming sword, herbalism, strong,
 **Traits by Approach — locked.** Each Trait belongs to one Approach. Write it under that Approach and nowhere else — it cannot count toward another Approach's four. Martial arms and armor are Sword (see *Arms and Armor*); languages are Heart; magic schools are Sorcerie. *Peasant weapons* (tools and hunting implements) are Craft. The lists below are the homes — not samples you may rehome.
 
 - **Sword** — arms, armor, and the fight.
-  - Skills: dagger, club, spear, axe, arming sword, mace, flail, bow, crossbow, shield, wrestling, boxing, ambush, tactics, cavalry, warhorse, siege, heraldry, scouting. Trained-only kit: see *Arms and Armor (Sword)* below (greatsword, longbows, plate, firearms…).
+  - Skills: dagger, club, spear, axe, arming sword, mace, flail, bow, crossbow, shield, wrestling, boxing, ambush, tactics, cavalry, warhorse, siege, heraldry, scouting. Trained-only kit: see *Arms and Armor (Sword)* below (greatsword, warbows, plate, firearms…).
   - Qualities: strong, fearless, relentless, steady, iron-willed, veteran, hard to kill, courageous, steady under fire, dragon-scarred.
 - **Craft** — the practical skills of daily life.
-  - Skills: lockpicking, stealth, tracking, trapping, disguise, sailing, herbalism, smithing, bowyer, fletcher, carpentry, navigation, climbing, swimming, survival, bushcraft, wood lore, hunting, dogs, falconry, first aid, appraisal, rope use. Peasant weapons: knife, hatchet, wood ax, hunting bow, spear, club, sickle, scythe, grain flail, pitchfork, shovel.
+  - Skills: lockpicking, stealth, tracking, trapping, disguise, sailing, herbalism, smithing, bowyer, fletcher, carpentry, navigation, climbing, swimming, survival, bushcraft, wood lore, hunting, dogs, falconry, first aid, appraisal, rope use. Peasant weapons: knife, hatchet, wood ax, hunting bow, longbow, spear, club, sickle, scythe, grain flail, pitchfork, shovel.
   - Qualities: nimble, observant, patient, resourceful, quiet, cunning, light-fingered, sure-footed, raised in the fens, knows the woods.
   - Magic Schools: *Canting* (see below)
 - **Heart** — people, nerve, and presence.
@@ -193,7 +194,7 @@ On your sheet, a Trait is a skill or a quality: arming sword, herbalism, strong,
 
 ### Arms and Armor (Sword)
 
-Traits for weapons, shields, and armor are **Sword**. Write *arming sword*, *poleax*, *plate armor*, *heater*, *longbow* under Sword — never under Craft, Heart, or Sorcerie. The common folk may take *peasant weapons* under Craft, which are effectively "weapon-like tools" of the common man, hunting implements, and the like. (Examples: knife, hatchet, wood ax, hunting bow, spear, club, sickle, scythe, grain flail, pitch fork, shovel, etc.)
+Traits for weapons, shields, and armor are **Sword**. Write *arming sword*, *poleax*, *plate armor*, *heater*, *warbow* under Sword — never under Craft, Heart, or Sorcerie. The common folk may take *peasant weapons* under Craft, which are effectively "weapon-like tools" of the common man, hunting implements, and the like. (Examples: knife, hatchet, wood ax, hunting bow, longbow, spear, club, sickle, scythe, grain flail, pitch fork, shovel, etc.) The *longbow* is the yeoman's bow, learned at the village butts or in the lord's forest, so it is Craft. It is still trained-only. The warbow and heavy longbow are soldiers' bows, and stay Sword.
 
 **Open kit.** Most weapons and armor work in a fight with no Trait — AC, slots, and blows as written. A Trait is still how you earn a Signature on that kit, and how enchanted steel accepts you.
 
@@ -273,7 +274,7 @@ A sample buy, 59 gp of your eighty — you light, them armored:
 You (9 physical):
 
 - Leather (AC 1) — 2 slots, 20 gp
-- Spear — 3 slots, 3 gp
+- Short spear — 3 slots, 3 gp
 - Backpack — 3 slots
 - Empty — 1 slot
 
@@ -337,7 +338,7 @@ Canting rogues use the same split for kicks — see *The Starting Journeyman*.
 
 ### Weapons, Armor, and Shields
 
-A weapon's **slots** are the space it fills and its reach: when held attacks go off together, more slots strikes first. Weapons and shields give no Fuel, and every slot they fill is one less empty slot. A two-hander hits harder but leaves no hand for a shield. A raised shield can count as **Cover** vs missiles. Armor **AC** soaks leftover after Defend. This is the starting character price list. Additional prices and oddments are in [[Burners Equipment]]. A fuller catalog of arms is in [[Burners Arms and Armor]].
+A weapon's **slots** are the space it fills and its reach: when held attacks go off together, more slots strikes first. Weapons and shields give no Fuel, and every slot they fill is one less empty slot. Melee weapons of 3 or more slots are two-handed: in two hands they hit harder but leave no hand for a shield. They can be used in one hand, without the extra attack die. A raised shield can count as **Cover** vs missiles. Armor **AC** soaks leftover after Defend. This is the starting character price list. Additional prices and oddments are in [[Burners Equipment]]. A fuller catalog of arms is in [[Burners Arms and Armor]].
 
 | Weapon | Slots | Cost (gp) | |
 | --- | --- | --- | --- |
@@ -345,17 +346,18 @@ A weapon's **slots** are the space it fills and its reach: when held attacks go 
 | Club | 1 | 3 | |
 | Sling | 1 | 2 | ranged |
 | Throwing ax | 1 | 3 | can be thrown |
-| Small ax | 2 | 4 | can be thrown; includes horseman's ax |
-| Mace | 2 | 5 | includes war hammer |
+| Small ax | 2 | 4 | can be thrown; includes bearded ax |
+| Mace | 2 | 5 | includes war hammer, horseman's ax |
 | Arming sword | 2 | 10 | |
 | Short bow / hunting bow | 2 | 25 | ranged, two-handed |
-| Spear | 3 | 3 | two-handed; can be thrown |
+| Short spear | 3 | 3 | two-handed; can be thrown |
 | Longsword | 3 | 15 | two-handed |
 | Longbow | 3 | 40 | ranged, two-handed |
 | Crossbow | 3 | 30 | ranged, two-handed |
 | Battle axe | 3 | 7 | two-handed |
+| Hewing spear | 4 | 5 | two-handed |
 | Greatsword | 4 | 15 | two-handed |
-| Halberd / pole arm | 5 | 7 | two-handed |
+| Polearm | 5 | 7 | two-handed; includes halberd |
 
 **Armor**: AC soaks leftover after Defend, one number by the make of the armor. Full prices are in [[Burners Equipment]].
 
@@ -368,11 +370,11 @@ A weapon's **slots** are the space it fills and its reach: when held attacks go 
 | Field plate | 4 | 5 | 2,000 |
 | Full plate | 5 | 7 | 4,000 |
 
-**Shields**: a shield's slots are dice on the Initiative roll; a raised shield can count as Cover vs missiles (2 dice on that Defend).
+**Shields**: with the Trait, a shield takes its slots off a blow you Block (see *Block*); a raised shield can count as Cover vs missiles (2 dice on that Defend).
 
 | Shield | Slots | Cost (gp) |
 | --- | --- | --- |
-| Buckler | 2 | 3 |
+| Buckler | 1 | 3 |
 | Heater | 3 | 6 |
 | Rotella | 4 | 9 |
 | Kite | 4 | 12 |
@@ -380,7 +382,7 @@ A weapon's **slots** are the space it fills and its reach: when held attacks go 
 
 #### Training
 
-Open kit, trained-only kit, and where those Traits live: *Arms and Armor (Sword)* under Character Creation. Enchanted kit and the extra die: *Enchanted Arms and Armor*.
+Open kit, trained-only kit, and where those Traits live: *Arms and Armor (Sword)* under Character Creation. Enchanted kit and its free die: *Enchanted Arms and Armor*.
 
 ### Experience
 
@@ -442,7 +444,7 @@ See *Traits* under Character Creation.
 
   - Traits: arming sword, shield, plate armor, ambush (Sword).
 
-  - Held: arming sword and a rotella (4 dice on the Initiative roll.
+  - Held: arming sword and a buckler.
 
   - Signatures: none yet, a plain tough veteran waiting for a habit to harden into one.
 
@@ -490,9 +492,9 @@ Signatures take four common shapes; the Referee may allow others:
 
 **Enchanted, legendary, eldritch, magic** — same class. A module *+1 sword* is a magic sword: woken steel, not a mild bump. It may hum, light the dark, hate a quarry, or speak. The plus is how you stock it (see [[Burners Referee Magic Items]]), not how small it is.
 
-**Acceptance.** The enchantment only answers someone who holds the fitting **Trait** for that kit — *arming sword*, *chain mail*, *hunting bow*, *heater*, and so on. That is not a roll. The blade accepts you or it does not. Without the Trait you may still carry and swing the steel as ordinary kit (Slots, AC, faces); the magic stays quiet — no extra die, no powers. Most war Traits sit under Sword, so Veterans usually claim the magic steel. A Journeyman with *hunting bow* can still be accepted by a magic hunting bow.
+**Acceptance.** The enchantment only answers someone who holds the fitting **Trait** for that kit — *arming sword*, *chain mail*, *hunting bow*, *heater*, and so on. That is not a roll. The blade accepts you or it does not. Without the Trait you may still carry and swing the steel as ordinary kit (Slots, AC, faces); the magic stays quiet — no free die, no powers. Most war Traits sit under Sword, so Veterans usually claim the magic steel. A Journeyman with *hunting bow* can still be accepted by a magic hunting bow.
 
-With the Trait you are accepted: **one extra die** when that item is the thing in play (Initiative pool and on the blow, Defend, or Block), and its **powers** once you have found them.
+With the Trait you are accepted: the item gives you **one free die each round**, rolled when you use it, and its **powers** once you have found them. A weapon's die goes on a blow; a shield's or armor's on a Defend. Burn your Fuel, then roll the free die and add it. It is not Fuel: it doesn't count for Initiative, it can't go anywhere else, and if you haven't used it by the next Roll Initiative it's gone. It comes on top of the dice you burn, past any limit on the blow or the Defend. A 6 on it is a 6 like any other. Magic steel is not steady: some rounds it sings, some rounds it barely wakes.
 
 A **Named item** Signature on that Trait (your steel, named) is the same acceptance — the name marks it as yours.
 
@@ -549,7 +551,7 @@ Out of combat:
 - Double Sweet (two 6s, a natural 12) is the perfect roll: the best outcome the fiction allows.
 - Double Spicy (two 1s, a natural 2) is a fumble: the worst fitting outcome lands.
 
-Combat has no Sweet or Spicy, and nothing fumbles. A 6 in Fuel is a **Spark** (see Combat). A 1 is a low die, or more with an item you have the Trait for (see *Your 1s* under Combat).
+Combat has no Sweet or Spicy, and nothing fumbles. A 6 in Fuel is a **Spark** (see Combat), or more with an Arcana you have the Trait for (see *Your 6s* under Combat). A 1 is a low die.
 
 **Surprise** on round 1: the Referee rolls; a surprised side is dead last in Initiative order that round. No other effect — Fuel and Actions stay. Round 2+ is normal. Being caught or outmaneuvered may still add a situational Damage modifier — you defend as normal against the higher number.
 
@@ -632,7 +634,7 @@ Helped, you make a **survival check**: **`2d6 + Craft` vs total wound severity**
 
 The danger is the Wound. Every one is a Shock Check in the fight and a survival check after. Cover downed friends. Reach full HP and you are whole again.
 
-*The crew fights an ogre in a working scene.  Aldric (Sword 1, 4 HP, chain mail AC 3, arming sword, rotella) rolls Initiative for seven dice. His twelve are full (mail 6, sword 2, shield 4), so no empty-slot dice. Two for the sword, four for the shield, one for his level: 6, 5, 4, 3, 2, 2, 1. Three show 3 or 4, so his Initiative is 3. The ogre's group rolls **1d6** = **2**. Aldric goes before the ogre. On his turn a Veteran gets two attacks. With a one-handed sword (2 slots) each is a single die, so he burns the 5 and the 3 for blows of 5 and 3 — announces **8** and **3**; the Referee converts to Hits on the ogre's Monster Stack (HD ~4 → 8 cards). No 6 among them, so no Spark. He has meleed this round, so when the ogre's club comes — free quote **5**, pressed for **10** — Aldric Defends without limit. He burns the 6 and the 1 (7); leftover 3, mail soaks it. Fuel left: 4, 2, 2, plus the refill the next Roll Initiative brings. Over the following rounds the ogre is worn down and Cracked; Aldric is bloodied but standing.*
+*The crew fights an ogre in a working scene.  Aldric (Sword 1, 4 HP, chain mail AC 3, arming sword, buckler) rolls Initiative. Mail 6, sword 2, and buckler 1 leave three of his twelve empty, so his Fuel maximum is four dice: one for his level, three for the empty slots. He rolls 6, 4, 3, 1. Two show 3 or 4, so his Initiative is 2. The ogre's group rolls **1d6** = **2**. Aldric matches it, so he goes before the ogre. On his turn a Veteran gets two attacks. With a one-handed sword (2 slots) each is a single die. He burns the 4 at the ogre and holds his second attack to Block. The ogre wears hides, as leather (AC 1); his sword's 2 slots beat it, so +2: 4 + 2 is 6, two cards off the ogre's Monster Stack (HD 4 → 8 cards). Then the ogre's club comes: free quote **5**, pressed with a 5 from the Referee's dice for **10**. Aldric spends his held attack to Block. He burns the 6, and he has the Trait for his sword (Parrying, 2 slots) and his buckler (1 slot), so they take 3 more off: 10 − 6 − 3 = 1, and his mail soaks it. The 6 Sparks, so he Fuels a Counterattack with the 3: 3 + 2 is 5, one more card. He keeps the 1, and the next Roll Initiative tops him back up to four. Over the following rounds the ogre is worn down; Aldric is bloodied but standing.*
 ounds his refill cannot keep pace with the club. Each pressed quote is 10; Defend, leftover, mail soaks 3. Eventually he is caught winded and leftover 10, soak 3, 7 lands. With 4 HP he is driven to −3 — a Wound (severity 3), leg, in the dirt. Shock (`2d6 + Sword` vs 3) beats it, so he stays effective in the dirt, but his dice are gone. Finish it or fold — and get him help when it ends.*
 
 When you face control magic, you **Defend** the same way you defend a blow, but a clean overrun lands the effect (stun, hold, charm, sleep), not HP damage. See *Defending against a spell* in [[Burners Sorcerie]].
@@ -661,9 +663,9 @@ Round 1: roll your maximum. The faces you rolled, kept as they lie, are your Fue
 
 If you go before the monsters, the whole Action is yours then — move, position, strike, cast, all of it.
 
-**Holding.** Hold your move, your Action, some of your attacks, or any mix of them, and use them when something happens. The rank behind holds its move and steps up when the front foe falls. A fighter in a doorway holds his attack and strikes the first one that steps into reach. An archer holds her shot until her friend is out of the line. A Veteran with a longsword strikes once now and holds the other: "My weapon's longer. As he steps up, I stick him."
+**Holding.** Hold your move, your Action, some of your attacks, or any mix of them, and use them when something happens. The rank behind holds its move and steps up when the front foe falls, or attacks past the friend in front on a 6 (see *Line of attack*). A fighter in a doorway holds his attack and strikes the first one that steps into reach. An archer holds her shot until her friend is out of the line. A Veteran with a longsword strikes once now and holds the other: "My weapon's longer. As he steps up, I stick him."
 
-Holding doesn't make you first. When a held attack and a foe's attack go off together, the longer weapon strikes first: more slots is longer. Same slots, they land together. Against a long spear (4 slots), the Veteran's longsword (3) is still stuck first.
+Holding doesn't make you first. When a held attack and a foe's attack go off together, the longer weapon strikes first: more slots is longer. Same slots, they land together. Against a hewing spear (4 slots), the Veteran's longsword (3) is still stuck first.
 
 *Example. Orcs roll 4. Kragg Initiative 5 goes before; three allies at 2 / 1 / 1 go after, in whatever order they agree.*
 
@@ -671,38 +673,44 @@ If you empty your hand on offense you are caught winded until the next Roll Init
 
 **Burning Fuel.** Everything you do in combat burns Fuel. You must burn Fuel to attack, defend, cast, and so on. A die is used at its face and discarded. No reroll. The pool you play is the faces you rolled.
 
-**Your 1s.** When you burn a 1 using an item you have the Trait for, add the item's slots to it: a weapon on a blow, a shield on a Defend, an Arcana on a cast or a Ward. A dagger makes it a 2, a heater a 4, a tower a 6. A 1 raised this way is never a Spark, even when it comes to 6.
+**Your 6s.** When you burn a 6 on a cast or a Ward using an Arcana you have the Trait for, you may take your gear instead of the Spark: add the Arcana's slots, free. Each Arcana adds its slots once per cast. Taking your gear is instead of the Spark, so that 6 strikes nothing else. Roll two 6s and one may take your gear while the other Sparks. In the dirt, the re-rolled face stands: a re-rolled 6 may take your gear. A cursed Trait never adds slots. A 1 is just a low die.
 
-Each item upgrades one 1 per blow, Defend, or cast. Burn three 1s on a Defend with sword and buckler: the buckler makes one a 3, the sword makes one a 2, and the third stays a 1. Axe and buckler: 3, 1, 1. A halberd blow with two 1s: 6 and 1. In the dirt, the re-rolled face stands: a re-rolled 1 adds the slots. A cursed Trait doesn't add slots to a 1.
+Weapons don't add on a 6: their slots already count against the foe's armor on every blow (see *Monsters*). Shields and Parrying weapons give their slots when you Block, on any face (see *Block*).
 
-A weapon with a **Handguard** parries: on a Defend it counts as 1 slot, or 2 for rings, a swept hilt or a basket (`Handguard2`). A weapon with no guard (messer, axe, mace, spear) adds nothing on a Defend.
+A **Parrying** weapon parries by its shape: swords, the langes messer, the parrying dagger. When you Block, it takes its slots off the blow, like a shield. A weapon without the tag (dagger, axe, mace, spear) takes nothing off. A **Handguard** is armor on your weapon hand, from AC 1 (`Handguard`, a simple cross hilt) up to AC 4 (`Handguard4`, a full basket). A center-grip shield (buckler, round shield) adds its slots. When a blow is aimed at that hand, claim it: it soaks like armor, or your suit does if its AC is better. Against any other blow it does nothing.
 
-| On a Defend | A 1 becomes |
-| --- | ---: |
-| No guard | 1 |
-| Cross hilt, finger buckler | 2 |
-| Rapier, basket hilt, buckler | 3 |
-| Heater, round shield | 4 |
-| Rotella, kite | 5 |
-| Tower | 6 |
-
-**Sparks.** A natural 6 in your Fuel is a **Spark**: the opportunity to do something more. A Spark can follow a 6 you just burned on an attack, Defend, cast, or other action — resolve that action first, with the 6 counting normally. Or you may burn a held 6 solely to strike a Spark and jump straight to what follows. Either way, immediately **Fuel the Spark** with the additional Fuel its option requires. That Fuel powers the follow-on action: you do the Spark. Add no Fuel and the Spark fades, unless the option says the Spark itself is fuel enough. Roll several 6s and each may Spark.
+**Sparks.** A natural 6 in your Fuel is a **Spark**: the opportunity to do something more. A Spark can follow a 6 you just burned on an attack, Defend, cast, or other action — resolve that action first, with the 6 counting normally. Or you may burn a held 6 solely to strike a Spark and jump straight to what follows. Either way, immediately **Fuel the Spark** with the additional Fuel its option requires. That Fuel powers the follow-on action: you do the Spark. Add no Fuel and the Spark fades, unless the option says the Spark itself is fuel enough. Or, if the 6 went into a cast or Ward with an Arcana you have the Trait for, take your gear instead: add its slots, free (see *Your 6s*). Roll several 6s and each may Spark.
 
 - **Spark: Flurry.** When attacking, Fuel the Spark to attack again (burn Fuel as for a normal attack); armor applies normally.
 - **Spark: Man-handle.** See *Man-handle*.
 - **Spark: Impale.** When attacking with a Stabbity weapon (dagger, rondel, short sword…), Fuel the Spark to thrust deeper into the same spot; armor does not soak the Fuel you burn to Fuel it.
 - **Spark: Sever.** Only vs foes with **too many parts** — octopus, spider, hydra, swarm-limbs, and the like. When attacking with a Cutty / chopping weapon (poleax, battle ax, greatsword, cleaver…), Fuel the Spark with 1 Fuel to hack off one spare limb or head. That part's attack is gone for the fight. Not for ordinary humanoids. Soft many-part pests may simply drop a segment and flee. No longer applicable when the number of extra parts runs low (one neck left on a hydra).
+- **Spark: Past them.** Burn a 6 on an attack with someone in the line, friend or foe, and it gets past them to your target. Without the 6 it hits whoever is in the line. See *Line of attack*.
 - **Spark: Counterattack.** After a Defend Sparks (except under Cover), Fuel the Spark to strike (burn Fuel as for a normal melee attack). The Spark buys the attack; see *Counterattack*.
 
-**Attacking.** You make one attack a round (as a Veteran you make more; see below). Burn one Fuel die; its face is the damage. A two-handed weapon of 3+ slots wielded in two hands can burn a second die. Up to two dice a blow from mundane steel, all burned from your Fuel, their faces together the damage. Against a Burner: Defend first, then leftover, armor soaks, rest to HP — past 0 the overflow is a Wound. Against a monster: announce the damage; the Referee converts it (see *Monsters* in the glossary). Because armor soaks leftover on every blow, a flurry of small hits is how you cut down an unarmored Burner; heavier steel cracks plated kit. Hunting bows and other 2-slot arms stay one die.
+**Attacking.** You make one attack a round (as a Veteran you make more; see below). Burn one Fuel die; its face is the damage. A two-handed weapon of 3+ slots wielded in two hands can burn a second die. In one hand it burns one. The second die is for a full swing or thrust with nothing in the way: not past someone in the line, not in a crawlway or a tight press, not through bars or over a wall. Hindered, it burns one. Up to two dice a blow from mundane steel, all burned from your Fuel, their faces together the damage. Against a Burner: Defend first, then leftover, armor soaks, rest to HP — past 0 the overflow is a Wound. Against a monster: compare your weapon's slots to its armor, and the Referee converts the damage (see *Monsters* in the glossary). With the weapon's Trait, round the cards up; without it, round down. A trained hand always bites; an untrained one needs a big blow. Because armor soaks leftover on every blow, a flurry of small hits is how you cut down an unarmored Burner; heavier steel cracks plated kit. Hunting bows and other 2-slot arms stay one die.
 
-**Veteran Attacks.** As a Veteran you strike more than once: one extra attack per Sword level. At Sword 1 you make two. At Sword 3 you make four. Each is its own blow of its own dice, all inside your single Attack action. Each may fall on the same foe or spread across several. Any of these attacks may instead be spent to **Block** an attack intended for an ally, or held for a **Counterattack**.
+**Veteran Attacks.** As a Veteran you strike more than once: one extra attack per Sword level. At Sword 1 you make two. At Sword 3 you make four. Each is its own blow of its own dice, all inside your single Attack action. Each may fall on the same foe or spread across several. Any of these attacks may instead be spent to **Block** a blow at you or an adjacent ally, or held for a **Counterattack**.
 
-**Defending.** There is no defense roll. Blows land. Burn Fuel dice and cut the incoming Damage by their faces. Leftover, armor soaks; anything still left comes off your HP. Caps: **melee** — one die, or no limit if you made a melee attack this round (any foe); **missile** — one die, or two if you have Cover; **hostile magic** — no limit (Defend against the cast total; overrun may land control instead of HP — [[Burners Sorcerie]]). Fire from an incendiary is an area effect, not a defended blow — [[Burners Arms and Armor#Incendiaries & Alchemy]]. While **in the dirt**, same caps — but all Fuel burned must be re-rolled. If a natural 6 Sparks while defending, you may **Counterattack** (except as under Cover). If you're the archer or mage caught in reach without having meleed, you cut each melee blow with a single die.
+**Defending.** There is no defense roll. Blows land. Burn Fuel dice and cut the incoming Damage by their faces. Leftover, armor soaks; anything still left comes off your HP. Caps: **melee** — one die, or no limit if you made a melee attack or a Block this round (any foe); **missile** — one die, or two if you have Cover; **hostile magic** — no limit (Defend against the cast total; overrun may land control instead of HP — [[Burners Sorcerie]]). Fire from an incendiary is an area effect, not a defended blow — [[Burners Arms and Armor#Incendiaries & Alchemy]]. While **in the dirt**, same caps — but all Fuel burned must be re-rolled. If a natural 6 Sparks while defending, you may **Counterattack** (except as under Cover). If you're the archer or mage caught in reach without having meleed, you cut each melee blow with a single die.
 
 *Example — dirty fighting. Aldric's Fuel is a ruin: 2, 2, 1, 1. The ogre's club is coming for 13 and he has already meleed, so he may Defend without limit. Those faces will not cut 13. He throws himself in the dirt (free with what's left of the exchange). He dumps three dice into the Defend; each re-rolls: 5, 4, 6 = 15. Club stopped — the 6 counted on the Defend and Sparks. The Spark buys the Counterattack; he Fuels it with his last die (arming sword: one die), re-rolled in the dirt to 1. A nick from the floor. Cinema. Next he still has to rise under the press — a die re-rolled 3+ — or keep scrambling in the dirt.*
 
-**Block.** Spend an attack to interpose yourself between an adjacent ally and a threat attacking that ally. The blow redirects onto you; Defend it normally, as if the attack was aimed at you from the beginning. One attack covers one blow.
+**Block.** Spend an attack to meet a blow aimed at you, or step in front of one aimed at an adjacent ally; that blow redirects onto you. Hold the attack if the blow hasn't come yet. Defend it as normal, then your shield and Parrying weapons take their slots off what's left, each one you have the Trait for. Armor soaks the rest. One attack covers one blow. A Block counts as a melee attack for the Defend cap: having Blocked, you Defend without limit for the rest of the round. A Block's Defend can Spark like any other.
+
+| When you Block | Takes off |
+| --- | ---: |
+| No Parrying weapon or shield | 0 |
+| Parrying dagger, buckler | 1 |
+| Arming sword, sidesword, target | 2 |
+| Longsword, heater, round shield | 3 |
+| Greatsword, rotella, kite | 4 |
+| Tower | 5 |
+| Sword and buckler | 3 |
+| Sword and heater | 5 |
+| Sword and tower | 7 |
+
+Every Block costs an attack you could have struck with. Sword and board holds the line; the big steel does the killing.
 
 **Counterattack.** When a foe in reach does something other than a melee attack — cast, shoot, flee, drink, rise, and the like — a **Veteran** may spend a melee attack at the same time. Resolve it as a normal melee attack (burn Fuel) simultaneous to the action.
 
@@ -712,13 +720,15 @@ Wound + failed Shock may break a non-melee Action — see *Mid-tempo disrupt*.
 
 *Example — Counterattack. A cultist in Kragg's reach turns to cast. Kragg (Veteran, longsword) held one attack; he spends it and Fuels a normal two-handed blow — 5 and 4 for **9**, simultaneous with the cast. If that Wounds and the cultist fails Shock, the working breaks mid-tempo. Later, steel on steel: Kragg Defends an orc's cut, a 6 Sparks. The Spark buys the attack; he Fuels it with 6 and 3 for a Counterattack of **9** — no attack from his allotment spent.*
 
-**Cover.** Fiction that lets you burn two dice vs a missile (wall, raised shield, creature…). Using a melee foe as Cover: if you Spark on that Defend (**Hit the Cover**), the shot hits them instead of you, as if the attack was targeting them from the beginning, and they may not declare Cover to put it back on you.
+**Cover.** Fiction that lets you burn two dice vs a missile (wall, raised shield, creature…).
 
-**Ward.** A **Sorcerer** (Sorcerie 1+) adjacent to an ally or a tight group may cut hostile magic aimed at them — a spell's cast total, magical breath, and the like (not mundane fire alone). Burn up to your **Sorcerie Level** in Fuel; subtract those faces from the attack value. **Each ally then Defends** against what remains. No school Trait; no card. A 1 burned with an Arcana you have the Trait for adds its slots (see *Your 1s*). Not your Action — Ward rides the incoming working. Craft-only Canting Journeymen cannot Ward. Full cast procedure: [[Burners Sorcerie]].
+**Line of attack.** An attack hits the first one in its line, friend or foe. A blow from the rank behind hits the friend in front. A shot at the archer behind the shield wall hits the shield wall. Whoever is in the line takes it as if aimed at them, and Defends as normal. Burn a 6 on the attack and you get past them: in a minute of fighting, that is the opening you waited for. Say how: over a shoulder, under an arm, a roll between their legs and back out. Any weapon will do. A blow past someone is one die, never the two-handed second; a shot keeps its dice.
+
+**Ward.** A **Sorcerer** (Sorcerie 1+) adjacent to an ally or a tight group may cut hostile magic aimed at them — a spell's cast total, magical breath, and the like (not mundane fire alone). Burn up to your **Sorcerie Level** in Fuel; subtract those faces from the attack value. **Each ally then Defends** against what remains. No school Trait; no card. A 6 burned with an Arcana you have the Trait for may add its slots instead of Sparking (see *Your 6s*). Not your Action — Ward rides the incoming working. Craft-only Canting Journeymen cannot Ward. Full cast procedure: [[Burners Sorcerie]].
 
 **In the dirt.** Flat on the ground — a risky place. **All Fuel burned while in the dirt must be re-rolled** (blow, Defend, cast, Block, Man-handle, Counterattack); the new face is what counts. You may **throw yourself in the dirt** free with your Action when the pool is trash and you need a scramble. **Rise** free on your Action unless a foe presses you in melee — then rising costs a die re-rolled **3+** (fail and you stay down; the die is burned either way). No die to spare? You top off one die short next round. A waist or leg Wound holds you down until **full HP** (see *Wounds*); you cannot rise before then. Being in the dirt does not stack.
 
-**Man-handle.** Fuel a Spark to "man-handle": shove, grab, trip, or knock down, or otherwise grapple/wrestle a foe. If not fully defended, the target winds up in a poor position, such as down on the ground, a pinned weapon arm, etc. Armor does not count as defense here (no soak). It can still make them hard to move — bronze in the water, a bear, four at once — and that is free defense dice. Fuel for man-handling attacks and defenses is normally limited to 1 die, or 2 dice if both hands are free. Wrestling a smaller person is easier; wrestling four foes is hard — give each of them a free defense die. One Spark can shove a knot if it is one move (a sweep on a span); each Defends the same force. A fat shove (two dice, a 7) beats a single defense die — they all go in. A 6 on that die still Sparks even as they fall; Fuel a man-handle and they may take you with them. See *In the dirt* for the effects of putting a foe on the ground. A Spark on defense enables a counterattack normally, which could be a man-handle. Fully Defended means the shove fails — you do not swap places because they rolled higher. They throw *you* only if that Defend Sparks, they Fuel a man-handle, and you fail to fully Defend it.
+**Man-handle.** Fuel a Spark to "man-handle": shove, grab, trip, or knock down, or otherwise grapple/wrestle a foe. If not fully defended, the target winds up in a poor position, such as down on the ground, a pinned weapon arm, etc. Armor does not count as defense here (no soak). It can still make them hard to move — bronze in the water, a bear, four at once — and that is free defense dice. A strapped shield brought to bear is one free defense die, and a Man-handle can pin it but never tear it away. A center-grip shield can be torn away. See *Shields* in [[Burners Arms and Armor]]. Fuel for man-handling attacks and defenses is normally limited to 1 die, or 2 dice if both hands are free. Wrestling a smaller person is easier; wrestling four foes is hard — give each of them a free defense die. One Spark can shove a knot if it is one move (a sweep on a span); each Defends the same force. A fat shove (two dice, a 7) beats a single defense die — they all go in. A 6 on that die still Sparks even as they fall; Fuel a man-handle and they may take you with them. See *In the dirt* for the effects of putting a foe on the ground. A Spark on defense enables a counterattack normally, which could be a man-handle. Fully Defended means the shove fails — you do not swap places because they rolled higher. They throw *you* only if that Defend Sparks, they Fuel a man-handle, and you fail to fully Defend it.
 
 **Constrict.** Some monsters have special attacks that man-handle and deal damage at the same time, a giant crab's pincer, an octopus tentacle, coils of a serpent. If not fully defended the target is man-handled and takes damage. Armor only applies to reduce damage after seeing if the attack was fully defended, so it does not help avoid the squeeze.
 
@@ -732,7 +742,7 @@ Armor is what you wear; leftover after Defend, its AC comes off before HP.
 
 - Armor is one number in ordinary play, with no hit locations.
 
-- A shield is not armor; you hold it, not wear it. It gives no Fuel. A raised shield can count as **Cover** vs missiles (2 dice on that Defend). **Block** redirects a blow onto you; the shield does not deepen it.
+- A shield is not armor; you hold it, not wear it. It gives no Fuel. A raised shield can count as **Cover** vs missiles (2 dice on that Defend). When you **Block**, a shield you have the Trait for takes its slots off the blow.
 
 ### We Burn Undead
 

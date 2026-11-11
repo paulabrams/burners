@@ -106,6 +106,11 @@ Referee says whether it was enough. When you burn, look back and take the
 Traits you've earned since your last burn. Then the Referee checks your XP and
 Traits and tells you if you've leveled.
 
+**9. Heart weapons.** Heart has weapon Traits for the arms of command: *rod*,
+*mace*, *sceptre*. A Boss can be trained in them with no Sword. They are weapons
+on a blow, and a trained 1 adds their slots like any weapon. (Paul, Oct 15, at
+the table: the commander's rod from the Dying Strength statue.)
+
 ## Rules text that changes with them
 
 - "You cannot hold an Action or an attack until a trigger" goes. Change 1
@@ -154,6 +159,7 @@ Traits and tells you if you've leveled.
 - Flat monster damage quotes go: the quote table in the Referee Guide's
   *Monsters at speed* and the damage-die-to-quote table in OSE Conversions.
   Change 6 replaces them.
+
 ## Watch for in play
 
 - Initiative. Burners go first free a third of the time. Otherwise a level 1
@@ -185,3 +191,9 @@ Traits and tells you if you've leveled.
 
 - With no extra die, what does an enchanted shield or weapon give in a fight
   beyond its powers? Candidate: it counts one slot bigger.
+
+- Heart weapons: do they do anything a Sword weapon doesn't, in command? Candidates:
+  with one in hand, Manage costs a Fuel die instead of your Action; or burn a die
+  to add to your people's Morale or Loyalty roll. Does *mace* sit under Sword,
+  Heart, or either? The rod is on the Arcana list too: both, by which Trait you
+  take, or Heart only? Sceptre and rod need Arms and Armor entries.

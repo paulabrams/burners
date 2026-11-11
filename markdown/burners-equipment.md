@@ -10,26 +10,27 @@ hero_alt: "A knight returns laden — crossbow, sword, and loot — Albert Robid
 
 ## Weapons
 
-| Weapon                  | Slots | Cost (gp) |                           |
-| ----------------------- | ----- | --------- | ------------------------- |
-| Dagger                  | 1     | 3         | can be thrown             |
-| Silver dagger           | 1     | 30        | can be thrown             |
-| Club                    | 1     | 3         |                           |
-| Sling with 30 stones    | 1     | 2         | ranged                    |
-| Throwing ax             | 1     | 3         | can be thrown             |
-| Small ax                | 2     | 4         | can be thrown; includes horseman's ax |
-| Mace                    | 2     | 5         | includes war hammer       |
-| Short sword             | 2     | 7         |                           |
-| Arming sword            | 2     | 10        |                           |
-| Short bow / hunting bow | 2     | 25        | ranged, two-handed        |
-| Spear                   | 3     | 3         | two-handed; can be thrown |
-| Longsword               | 3     | 15        | two-handed                |
-| Longbow                 | 3     | 40        | ranged, two-handed        |
-| Crossbow                | 3     | 30        | ranged, two-handed        |
-| Battle ax               | 3     | 7         | two-handed                |
-| Long spear              | 4     | 5         | two-handed                |
-| Greatsword              | 4     | 15        | two-handed                |
-| Halberd / pole arm      | 5     | 7         | two-handed                |
+| Weapon                  | Slots | Cost (gp) |                                       |
+| ----------------------- | ----- | --------- | ------------------------------------- |
+| Dagger                  | 1     | 3         | can be thrown                         |
+| Silver dagger           | 1     | 30        | can be thrown                         |
+| Club                    | 1     | 3         |                                       |
+| Sling with 30 stones    | 1     | 2         | ranged                                |
+| Throwing ax             | 1     | 3         | can be thrown                         |
+| Small ax                | 2     | 4         | can be thrown; includes bearded ax    |
+| Mace                    | 2     | 5         | includes war hammer, horseman's ax    |
+| Short sword             | 2     | 7         |                                       |
+| Arming sword            | 2     | 10        |                                       |
+| Short bow               | 2     | 25        | ranged, two-handed                    |
+| Quarterstaff            | 3     | 1         | two-handed                            |
+| Short spear             | 3     | 3         | two-handed; can be thrown             |
+| Longsword               | 3     | 15        | two-handed                            |
+| Longbow                 | 3     | 40        | ranged, two-handed                    |
+| Crossbow                | 3     | 30        | ranged, two-handed                    |
+| Battle ax               | 3     | 7         | two-handed                            |
+| Greatsword              | 4     | 15        | two-handed                            |
+| Hewing spear            | 4     | 5         | two-handed                            |
+| Polearm                 | 5     | 7         | two-handed; halberd, bill, glaive     |
 
 ## Ammunition
 
@@ -59,7 +60,7 @@ hero_alt: "A knight returns laden — crossbow, sword, and loot — Albert Robid
 
 | Shield  | Slots | Cost (gp) |
 | ------- | ----- | --------- |
-| Buckler | 2     | 3         |
+| Buckler | 1     | 3         |
 | Heater  | 3     | 6         |
 | Rotella | 4     | 9         |
 | Kite    | 4     | 12        |

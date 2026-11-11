@@ -35,7 +35,7 @@ If you wait for them to act, you are giving that up. They are now in control of 
 
 You might say: *I have a spear, and they are moving to attack me. Can't the spear attack first?* A fair point. Reverse it, though. What if *they* have the spear? You do not always know what they have.
 
-The answer is to hold your attack. When they step in and both blows go off together, the longer weapon strikes first, and more slots is longer. A long spear is four slots; a pike is six; a dagger is one. If they have the longer weapon, they stick you first.
+The answer is to hold your attack. When they step in and both blows go off together, the longer weapon strikes first, and more slots is longer. A hewing spear is four slots; a pike is six; a dagger is one. If they have the longer weapon, they stick you first.
 
 What the table gets is a procedure you can see, bank on, and plan with the other players. If you take Initiative, you take your Action before the opposition. If you want to cede Initiative to them, you may. You can even move and save the rest of your Action for after them — that is powerful too.
 
@@ -51,11 +51,11 @@ That also means you cannot really attack and then retreat. Breaking away under t
 
 Your level plus your empty slots, up to 4. Weapons, shields, armor, and Arcana give no dice. Heavy steel and armor fill slots and cost you dice; light kit keeps them. Caught with your pack on, you roll only your level.
 
-A weapon's **slots** are its reach: when held attacks go off together, more slots strikes first. A two-hander of 3+ slots also burns a second die on the blow.
+A weapon's **slots** are its reach: when held attacks go off together, more slots strikes first. A two-hander of 3+ slots also burns a second die on the blow, when nothing is in the way of the swing.
 
 ### Shield or two-handed?
 
-A shield gives no Fuel. A raised shield can count as **Cover** vs missiles (2 dice on that Defend). It is not armor; **Block** redirects a blow onto you, and the shield does not deepen that Defend.
+A shield gives no Fuel. A raised shield can count as **Cover** vs missiles (2 dice on that Defend). It is not armor. When you **Block**, a shield you have the Trait for takes its slots off the blow (buckler 1, heater 3, tower 5), and a Parrying weapon adds its own: sword and heater take 5 off.
 
 A weapon of **3+ slots wielded in two hands** can burn a **second die** on the blow. Dropping the shield for that is sometimes the right call. You fight with what you were actually carrying. Dropping something to free a slot is an Action.
 
@@ -63,11 +63,11 @@ A weapon of **3+ slots wielded in two hands** can burn a **second die** on the b
 
 Blows land. There is no defense roll. Burn Fuel and cut the incoming Damage by the faces. Leftover, armor soaks; anything still left comes off HP.
 
-Caps: **melee** — one die, or **no limit** if you made a melee attack this round (any foe); **missile** — one die, or two with Cover; **hostile magic** — no limit. If you are the archer or mage caught in reach without having meleed, you cut each melee blow with a single die.
+Caps: **melee** — one die, or **no limit** if you made a melee attack or a Block this round (any foe); **missile** — one die, or two with Cover; **hostile magic** — no limit. If you are the archer or mage caught in reach without having meleed, you cut each melee blow with a single die.
 
-### Does blocking an ally cost me?
+### Does blocking cost me?
 
-Yes. **Block** spends **an attack** — one of the blows in your Attack action — to interpose yourself between an adjacent ally and a threat attacking that ally. The blow redirects onto you; Defend it as if it was aimed at you from the beginning. One attack covers one blow.
+Yes. **Block** spends **an attack**, one of the blows in your Attack action, to meet a blow aimed at you or step in front of one aimed at an adjacent ally. Defend it as normal; then your shield and Parrying weapons take their slots off, each one you have the Trait for. One attack covers one blow. A Block counts as a melee attack for the Defend cap.
 
 A Veteran (Sword 1+) gets extra attacks (one extra per Sword level). Any of those may be spent to Block, or held for a Counterattack. You cannot Block if you have already spent every attack.
 
@@ -82,6 +82,8 @@ HP is luck and wind. The Wound is flesh. Finish it or fold, and get help when th
 ### Do monsters have Fuel?
 
 **Preferred speed:** no. Each enemy group rolls **1d6** for order, rerolled each round. They quote attacks. You Defend. They have a **Monster Stack** (2 × HD cards), not a Fuel pool. Ordinary folk at that speed have no Fuel either — they do not get a free Defend.
+
+The Referee does roll a small handful of dice when the fight starts, as many as the Referee likes (try the biggest monster's HD or one per player, whichever is greater). They press a quote now and then, or on a rare 6 get a foe past the line. They last the whole fight with no refill. They are not Fuel, never Defend, and don't replace the 1d6 for order. [[Burners Referee Guide#The Referee's dice]].
 
 **Optional:** a solo duel can run a monster as a Burner for spend and Defend. Initiative stays the group (or solo) 1d6. That is a demo tool, not the default. [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]].
 

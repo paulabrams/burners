@@ -211,7 +211,7 @@ Potions, rings, cursed items, and wondrous items port **as written** — they ar
 
 ### +n Arms, Shields, and Armor → Enchanted + Powers
 
-Convert *+1 sword*, *+2 shield*, *+1 plate*, and so on per [[Burners Referee Magic Items]] — extra die, +n powers, Tuned / Bane / relic ladders, and the OSE power menus all live there. Trait for the extra die: [[Burners Adventure Game#Enchanted Arms and Armor]]. Keep Slots, AC, and size as the mundane piece.
+Convert *+1 sword*, *+2 shield*, *+1 plate*, and so on per [[Burners Referee Magic Items]] — free die, +n powers, Tuned / Bane / relic ladders, and the OSE power menus all live there. Trait for the free die: [[Burners Adventure Game#Enchanted Arms and Armor]]. Keep Slots, AC, and size as the mundane piece.
 
 Potions, rings, and wondrous items stay as written above. Do not raise AC or size for a plus.
 

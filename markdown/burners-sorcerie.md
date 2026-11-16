@@ -189,8 +189,8 @@ Canting uses the same math under **kicks** — see [Canting: Kicks and Jarks](#c
   personal spellbook cuts off redraws and swaps from your own deck — the notes can be
   taken, the hand cannot. The thief cannot learn from those notes.
 
-**Fuel.** Sorcerie slots give no Fuel, filled or empty, and **never** count as empty
-inventory for your Fuel maximum. Arcana gives no dice. (Canting: the same for kicks.)
+**Fuel.** Arcana in your Sorcerie slots gives its slots in Fuel, if you have Sorcerie;
+empty Sorcerie slots give none. See *Burners (PCs)* in [[Burners Adventure Game]]. (Canting: the same for kicks.)
 
 ### Arcana
 

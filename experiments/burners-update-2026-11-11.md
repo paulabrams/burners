@@ -1,15 +1,11 @@
 ---
-title: "Burners playtest: combat updates"
+title: "Burners Update, November 11, 2026"
 status: playtest handout, not yet in the rules
 ---
 
-# Burners playtest
+# Burners Update, November 11, 2026
 
 Changes since October 15.
-
-## Approach Traits
-
-A Journeyman can now take *longbow* and *staff* under Craft. A Boss can now take *rod* and *mace* under Heart.
 
 ## Initiative
 
@@ -25,21 +21,7 @@ When you attack, you do your weapon's slots in damage. You may burn up to one Fu
 
 Your weapon does 1 instead of its slots if you don't have its Trait, or if it's a two-handed weapon wielded in one hand. Your Trait must precisely match your weapon and not a general category: "arming sword" or "longsword", not "sword".
 
-The Referee will make the monster's HP and AC visible to you, at least when you deal damage first, if not before.
-
-## Friction
-
-Some moves are hard to pull off, so you burn one Fuel to try them, and you can't burn again. If a foe counters with more Fuel, the action fails or goes awry.
-
-**Drawing under pressure.** Burn one Fuel to draw or pick up a weapon with a foe in reach.
-
-**Unarmed vs armed.** Burn one Fuel to make an unarmed attack against an armed opponent.
-
-**Tight spaces.** Burn one Fuel if you don't have room to swing your weapon. Greatswords, halberds, and other large weapons need the most room.
-
-**Standing up.** Burn one Fuel to rise from the dirt with a foe pressing you in melee.
-
-**In the line of fire.** An attack normally hits whatever is first in its line: friend, foe, or wall. Burn a 6 on the attack to shoot, strike, or cast past it: into a melee, from the second rank, around a cart or the shield wall in front of their sorcerer. Partial cover, like a low wall, does not need a 6. A shield wall can count as cover.
+**Tight spaces.** Burn one Fuel if you don't have room to swing your weapon. Greatswords, halberds, and other large weapons need the most room. The Fuel is a cost and adds nothing to the blow; if a foe counters with more Fuel, the blow fails or goes awry.
 
 ## Defend
 
@@ -61,26 +43,11 @@ You can now Block a blow aimed at you, not just one aimed at an adjacent ally. I
 
 **Enchanted gear.** An enchanted weapon or shield you're trained in adds a die to your attack or Defend once a round: burn a second Fuel die, or roll a free one. The free die isn't Fuel, so you can't pick its face: some rounds the magic sings, some rounds it barely wakes. A Spark can sometimes trigger a special ability; this takes experimentation or a *Read Magic* spell from a sorcerer knowledgeable in such things.
 
-## Crossover Traits
-
-Each Trait belongs to one Approach and covers only that Approach's use. A Sorcerie *staff* is Arcana, not a weapon; to fight with it, take *staff* under Craft.
-
-Some items have a Trait under two Approaches, one for each use. Take a level in both Approaches and the Trait under each, and one item does both jobs.
-
-- *Staff.* Under Sorcerie it's your Arcana: its slots add to your casts and Wards. Under Craft it's a fighting staff: its slots add to your blows.
-- *Rod.* Under Sorcerie, Arcana. Under Heart, a Boss's weapon.
-- *Mask.* Under Sorcerie, Arcana. Under Craft, a disguise.
-- *Signet ring.* Under Sorcerie, Arcana. Under Heart, your seal, for trading, bargaining, and pulling rank.
-
-A mace under Sword and under Heart is the same use, a weapon, so it isn't a crossover. Take it once.
-
 ## Fatigue
 
 In a long fight, fatigue fills one of your empty slots, then another, as you tire. A day without food or a night without sleep fills one too. With no empty slot, drop something to make room. Rest, food, and sleep clear it.
 
 ## Referee
-
-**Monster initiative.** The Referee rolls the monsters' highest Hit Die plus 4 in d6s (fewer for slow ones), and counts the 3s and 4s. Those dice are the monsters' Fuel: one pool for the whole group, topped up each round like yours. The Referee spends it to bolster any monster's attack or Defend, so the boss, or the one with the upper hand, hits harder.
 
 **Monster damage.** A monster hits for its Hit Dice or its weapon's slots, whichever suits it. The Referee rolls a d6 with each attack: a 6 Sparks, adding 6 to the damage, or, for a monster with a special attack, triggering it instead (poison, a grab, a knockdown). Giants and other freakishly strong monsters roll 2d6, so they Spark more often.
 

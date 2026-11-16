@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>$pagetitle$</title>
+$if(bk-author)$
+    <meta name="author" content="$bk-author$" />
+$endif$
+    <link rel="stylesheet" href="booklet/booklet.css" />
+  </head>
+  <body>
+    <section class="cover">
+$if(bk-cover)$
+      <img src="$bk-cover$" alt="" />
+$endif$
+      <h1>$bk-title$</h1>
+$if(bk-subtitle)$
+      <p class="subtitle">$bk-subtitle$</p>
+$endif$
+    </section>
+
+    <section class="titlepage">
+$if(bk-title-art)$
+      <figure class="art"><img src="$bk-title-art$" alt="" /></figure>
+$endif$
+      <h1>$bk-title$$if(bk-subtitle)$, $bk-subtitle$$endif$</h1>
+$for(bk-taglines)$
+      <p class="tagline">$bk-taglines$</p>
+$endfor$
+$if(bk-author)$
+      <p class="gap">Copyright © $bk-year$ $bk-author$</p>
+      <p class="gap">Author: $bk-author$</p>
+$endif$
+$if(bk-credits)$
+      <p>Illustrations: $bk-credits$ (public domain)</p>
+$endif$
+$if(bk-version)$
+      <p class="gap">Version: $bk-version$</p>
+$endif$
+$if(bk-date)$
+      <p>Date: $bk-date$</p>
+$endif$
+$if(bk-site)$
+      <p class="gap">$bk-site$</p>
+$endif$
+    </section>
+
+$if(bk-toc)$
+    <section class="contents">
+      <h1>Contents</h1>
+$if(bk-contents-art)$
+      <figure class="art"><img src="$bk-contents-art$" alt="" /></figure>
+$endif$
+      <nav>
+$bk-toc$
+      </nav>
+    </section>
+
+$endif$
+$body$
+  </body>
+</html>

@@ -187,7 +187,7 @@ The pieces below are *look and history* for those rungs — build the harness yo
 - **AC 4 (plate mail, 8 slots; field plate, 5 slots)** — coat of plates, brigandine, or plate over mail; field plate is the fitted harness.
 - **AC 5 (full plate, 7 slots)** — enclosed proof, fitted.
 
-Heavy harness eats slots and thins your Fuel; light kit keeps empty slots and speed.
+Heavy harness eats slots and leaves less room for steel. Armor gives AC, not dice.
 
 **Gaps and called shots.** Your suit is one number in ordinary play. When a foe deliberately strikes where it does not reach — a called shot, or a swarm at the legs of a lightly harnessed Burner — that blow meets bare flesh (AC 0). Helms, gauntlets, greaves, and gorgets close those gaps. A **closed** helm (armet, great helm) trades sight and hearing for the best cover; open helms and **civil**-looking armor draw less notice in town.
 
@@ -197,7 +197,7 @@ Heavy harness eats slots and thins your Fuel; light kit keeps empty slots and sp
 
 ## Shields
 
-Held steel, raised against a blow. A shield gives no Fuel. Its **slots** (prices in [[Burners Equipment]]): buckler 1, target 2, heater 3, rotella 4, kite 4, tower 5. With the shield's Trait, when you **Block** it takes its slots off the blow: a buckler 1, a tower 5, plus a Parrying weapon's slots (see *Block* in [[Burners Adventure Game]]). A raised shield can count as **Cover** vs missiles (2 dice on that Defend). A shield also counts as armor on the hand that holds it, at its slots, against a blow aimed at that hand (see *Handguard*).
+Held steel, raised against a blow. Held, a shield gives its slots in Fuel if your Approach covers it. Its **slots** (prices in [[Burners Equipment]]): buckler 1, target 2, heater 3, rotella 4, kite 4, tower 5. With the shield's Trait, when you **Block** it takes its slots off the blow: a buckler 1, a tower 5, plus a Parrying weapon's slots (see *Block* in [[Burners Adventure Game]]). A raised shield can count as **Cover** vs missiles (2 dice on that Defend). A shield also counts as armor on the hand that holds it, at its slots, against a blow aimed at that hand (see *Handguard*).
 
 Catalog **size** tags below are labels for look and heft — use Burners **slots** at the table.
 

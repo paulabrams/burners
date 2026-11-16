@@ -9,7 +9,7 @@ hero_alt: "A deal struck in the town square — Albert Robida"
 
 *How the world pushes back. The players say what they do; this is the toolkit for everything they do it to — the passage of time, the dark closing in, and the first cold look of a stranger.*
 
-Three things run most of it: the Heat gauge you drive up and down as the scene's pressure, the Turn Tracker that keeps the world's ten-minute clock honest (old-school d6 for wandering monsters, light and noise on paper), and the Reaction roll that decides how the living things take to the crew.
+Three things run most of it: the Heat gauge you drive up and down as the scene's pressure, the Danger Check that brings the monsters and the dark when the crew dawdles or makes noise (a red die and a black die, no clock to keep), and the Reaction roll that decides how the living things take to the crew.
 
 ---
 
@@ -61,7 +61,7 @@ The exploration turn is one Turn — ten minutes. Each turn runs the same short 
 
 3. **Resolve.** Play out the action: movement, searching, talk, a forced door, a fight.
 
-4. **Advance the clock.** Mark the Turn on the Turn Tracker (below). Tick light. Check for wandering monsters when the schedule or a bang calls for it. Update ongoing spells, conditions, and any other clocks the fiction demands.
+4. **Check.** If they dawdled, made noise, waved light around, or moved into a new area, make a Danger Check (below). Update conditions and any other clocks the fiction demands.
 
 Between turns the loop just repeats: frame, resolve, advance.
 
@@ -77,7 +77,7 @@ Searching costs a Turn. What it buys depends on what they tell you they are doin
 
 A trap the party has been told about is a puzzle, not a gotcha (see [[Burners Principles#No gotchas]]). Spring it undetected only when they walked past the sign or never looked. The trap quotes flat Damage — no Fuel up out of combat; armor soaks, rest to HP.
 
-Mark the Turn either way. A fruitless search still burns light and still feeds the wandering-monster schedule.
+A search is a dawdle either way: make a Danger Check. A fruitless search still risks the light and still stirs the place.
 
 ---
 
@@ -97,59 +97,66 @@ Every room, encounter, or travel scene should answer three questions. Build it i
 
 ---
 
-## Turn Tracker
+## Danger Check
 
-A world Turn is ten minutes. Track Turns on paper where the players can see it. Number them **1 through 6**, then wrap back to **1** — six Turns is an hour, and a torch burns exactly one cycle. Even turns (2, 4, 6) are when the schedule comes round; the count itself tells you, so write nothing for the check. A bare check mark works too if you prefer not to count. Write noise if they made any — `!` for noise, `!!` for extra noise. Shouting, kicking in doors, fighting, casting spells, and the like all count. Note light and what happened.
+Something is always closing in: the monsters, and the dark. Don't count Turns. When the crew gives the place a reason, roll a red die and a black die together, where everyone hears them.
 
-The paper holds what the characters themselves know: time spent, noise made, light burning low, and what they did with the Turn. It is a log of the delve, not a record of your procedure.
+**When to check.** The crew dawdles (a search, a lock, a rest, an argument that goes round twice), makes noise (forcing a door, a fight, shouting, a spell going off), waves light around or loses it, or walks into a new area. A quick look or opening a door isn't a check. One check might stand for five minutes or thirty. It measures how much the crew has stirred the place, not the time on a clock.
 
-When the count wraps, an hour has passed — a torch is spent, a lantern marks one of its four. Mark the wrap in the margin if you like (`h2`, `h3`) so absolute delve length stays visible without an endless turn count. There is no required rest Turn. If the crew wants to recover HP, that is an [[Burners Adventure Game#Wounds|Hour Rest]]: a full cycle spent quiet, with food and water, and no Wound on the Burner who rests. Even turns still fire during a rest hour unless the place is truly safe.
+- **Red 1:** roll red again. At or under the dungeon level: wandering monster.
+- **Black 1:** roll black again. 2+, torches out. 5+, lantern dry. Over a spell's level, it ends.
+- **Both 1:** wandering monster, and the lights die.
 
-```
-1  enter, listen at the door
-2  Bellamy lantern lit (24)
-3 ! forced the grate — the screech carries
-4  long hall, water dripping somewhere ahead
-5  search the shrine
-6 !! fight in the nave · lantern out
-— hour —
-1  bind wounds in the dark
-2  feeling along the north wall
-```
+Red counts on 1–2 if they're reckless. Black counts on 1–2 if it's wet, windy, a long wait, or the dark is hungry.
 
-### Wandering monsters (1-in-6)
+### Red: the monsters
 
-Every check is the same: roll **1d6**, and a **1** finds something. What changes is **how often** you roll. Each signature is a reason to pick up the die:
-
-- **Time** — even turns (2, 4, 6); the dungeon breathing
-- **Noise** — when you write `!` or `!!`; roll now
-- **Dark** — when light fails; roll now
-- **Wounds** — when a fight ends and someone is Wounded; roll now
-
-So on turn 2 you roll once for time. If they then yell, you roll again for noise — another 1-in-6, not a bigger pool. A bloody scrap in the dark that ends with the lantern dead can throw three or four dice across the beat, each its own 1-in-6. The chance never climbs past "one in six"; the crew just hears the die more often.
-
-One roll per trigger. A bang on an even turn is two rolls (time, then noise), not one combined pool.
-
-Write nothing for the check. The turn number already tells you when the schedule comes round, and a bang is its own reminder — so the paper never has to say "the dungeon rolled for you." What the players get is the sound of the die and, when it lands, something coming down the hall. If you want the moment on the log, write what the place did — *water stops dripping*, *a door closes two rooms off* — not that you checked.
+Red counts on a 1. It counts on 1–2 when the crew is reckless (very loud, a fight, a spell going off, a door kicked in), and 1–3 when they are very reckless. When it counts, roll red again: at or under the dungeon level, a wandering monster arrives, or a trap or other hazard. Level 1 hits on a 1, level 3 on 1–3, level 6 and below on anything. When the dungeon is alerted and hunting the crew, add one or two to the level (never past 6), and say so. The players should feel the place turn.
 
 When an encounter lands, set distance and warning from the fiction (or the module), roll Reaction if the thing can parley, and build it per Building and Running Monsters (below).
 
 Whatever comes was already doing something before the dice said so. Say what in one breath — patrolling, hunting, hauling a kill, fleeing something worse, arguing over spoils, lost. That one line turns a roll into a clue about the place, and it usually tells you the Reaction before you roll it.
 
-### Light
+What the players get is the sound of the dice and, when they land, something coming down the hall. When nothing comes, you can still say what the place did — *water stops dripping*, *a door closes two rooms off*.
 
-Track burn on the paper — do not hide it behind a die.
+### Black: the dark
 
-- **Torch:** 30′ for 1 hour — one full cycle (6 Turns). Bundle of 6: 1 gp, 1 slot ([[Burners Equipment]]).
-- **Lantern:** 30′ for 4 hours (24 Turns / four cycles) per flask. Lantern 10 gp; oil 2 gp; 1 slot each.
-- **Candle:** 5′ for 1 hour — one cycle. Bundle of 6: 1 gp, 1 slot.
-- **Rag-on-a-stick:** as candle, up to ~20 minutes if lucky. Free, 1 slot.
+Black counts on a 1 on a dry, still, quick check. It counts on 1–2 when the place is hard on light, and 1–3 when two of these stack (running through the rain):
+
+- **Wet:** rain, a dripping cave, mist, wading water.
+- **Wind:** drafts down a shaft, open sky, a gale on a cliff path.
+- **Bad air:** deep mines, smoke-filled rooms, foul or thin air where flames burn low.
+- **Rough handling:** running, climbing, swimming, or fighting with the torch in hand.
+- **A long wait:** a long search, an Hour Rest, lying in ambush.
+- **Hungry dark:** places that eat light, like an undead tomb where the darkness claws at your torches, a shadow-haunted hall, or anywhere Umbrakala has soaked in. These wear down spells as well as flames.
+
+When it counts, roll black again, once for everything in use. Anything whose **Durability** is below the roll ends: a 2 puts out the torches but leaves the lantern, a 6 ends everything.
+
+| In use | Durability | Light |
+| --- | --- | --- |
+| Rag-on-a-stick | 0: out whenever black counts | As a candle. Free, 1 slot. |
+| Torch | 1 | 30′. Bundle of 6: 1 gp, 1 slot ([[Burners Equipment]]). |
+| Candle | 1 | 5′. Bundle of 6: 1 gp, 1 slot. |
+| Lantern flask | 4 | 30′. Lantern 10 gp; oil 2 gp; 1 slot each. |
+| A spell that lasts Turns | its spell level | |
+
+Every lit torch shares a Durability, so they go out together. That's a scramble in the dark, and that's the point. Other things that run down (a wedged door, burning oil across a corridor, bait left for a pursuer) can take a Durability and ride the same roll.
+
+### Both 1s
+
+If red and black both show 1 on the first throw, skip the second rolls. A wandering monster arrives as every light and spell in use fails.
+
+### Resting and pace
+
+An Hour Rest is a long wait: black counts on 1–2. Check once or twice, as you judge the rest stirs the place, unless the place is truly safe. HP comes back as [[Burners Adventure Game#Wounds|Hour Rest]] says: an hour quiet, with food and water, and no Wound on the Burner who rests.
+
+A quick, quiet crew hears the dice rarely; a dawdling, noisy one hears them over and over. For a job that should run hotter, count red on 1–2 from the start. For a cooler one, check only for real noise.
 
 ---
 
 ## The Grind — Supplies, Fatigue
 
-Light lives on the Turn Tracker. Fatigue is why the party cannot crawl forever, and it needs no separate die — it feeds Heat, because Heat is the crew's shared wind and nerve, and wearing down a long crawl is exactly the loss of those. When the fiction calls for a grind tick (long haul, thin air, lingering too long), raise the gauge, usually +1, and it rides there until the crew vents it. **Ammunition, holy water, incendiaries, and rations** are counted on the sheet — mark each when spent ([[Burners Equipment#Count these]]). Do not hand-wave those four. An Hour Rest on the tracker (a full quiet cycle with food and water) is how unwounded Burners fill HP — see [[Burners Adventure Game#Wounds]] — not a tax for failing to sit every hour.
+Light lives on the Danger Check's black die. Fatigue is why the party cannot crawl forever, and it needs no separate die — it feeds Heat, because Heat is the crew's shared wind and nerve, and wearing down a long crawl is exactly the loss of those. When the fiction calls for a grind tick (long haul, thin air, lingering too long), raise the gauge, usually +1, and it rides there until the crew vents it. **Ammunition, holy water, incendiaries, and rations** are counted on the sheet — mark each when spent ([[Burners Equipment#Count these]]). Do not hand-wave those four. An Hour Rest (an hour quiet, with food and water) is how unwounded Burners fill HP — see [[Burners Adventure Game#Wounds]] — not a tax for failing to sit every hour.
 
 A Journeyman keeps the band fresh. The [[Burners Adventure Game|Journeyman's craft]] reduces party-wide travel, weather, and survival costs by the Journeyman's Craft level, and fatigue in the dark is a survival cost like any other. Subtract the Journeyman's Craft from the tick for everyone they are leading: Craft 1 shrugs off a routine +1 entirely. Fatigue bites when the party has no Journeyman, when the Journeyman is down or split off from the group, or when the place is harsh enough to outrun their level. Scale the tick to the dungeon — a mild crawl adds 1, a brutal one (heat, thin air, crushing dark) adds 2 or 3, so a Journeyman's Craft matters more the worse the ground gets.
 
@@ -202,24 +209,6 @@ Circumstances are the main lever. A drawn blade, a shared enemy, a debt, a stand
 Roll once at first meeting. Re-roll only when something material changes the footing: they save its life, they are caught in a lie, the faction hears what they did in the last town. A creature with no capacity for parley — mindless undead, a beast in a killing frenzy, a construct bound to its orders — skips the roll and does what its nature dictates; the table is for anything that can, in principle, be dealt with.
 
 Reaction sets the starting disposition; the Two Steps and Influence carry the specific asks from there. A Friendly guard still will not hand you the keys to the vault, but he might look the other way where a Hostile one raises the cry.
-
----
-
-## Frequency — running hot or cool
-
-The default Turn Tracker (count 1–6 and wrap, a check on even turns, plus a roll whenever noise, dark, or wounds fire) is classic dungeon tempo. Loud, dark, bloody crawls hear the die more often and feel the pressure. If a job should run hotter, check every turn. If cooler, only bang-check on `!!`.
-
-### Delve Die (optional)
-
-If you want one 2d6 to fold encounter, break, and grind into a single roll, use this instead of the d6 WM checks — not both.
-
-Roll 2d6, add nothing. Read the 1s and the 6s, not the sum.
-
-- Any **1** → encounter. The other die is lead time (1,1 surprise through 1,6 distant drop).
-- A **6** and no 1 → a break (safe nook, shortcut, omen, cache). Double 6 is a real gift.
-- Neither → the grind: tick light, supplies, or fatigue (see The Grind above).
-
-Every Turn runs hot; every other Turn is cooler. Distant 1,5 / 1,6 can be a sighting the party slips away from.
 
 ---
 
@@ -307,7 +296,7 @@ They are not a Fuel pool. Monsters don't Defend with them, and they don't decide
 Scores port from OSE unchanged (2–12, rolled on 2d6, roll under the score to hold). What matters at the table is remembering to ask. Check at these moments, once each:
 
 - the side takes its **first death**
-- the side is down to **half** its bodies, or a solo to half its cards
+- the side is down to **half** its bodies, or a solo to half its cards (or, when you track damage against HP, the damage reaches half its HP)
 - the **leader** falls, flees, or is plainly beaten
 - something lands that the creature has no answer to — fire on a beast, silver on the thing silver is for, a working it cannot shake
 
@@ -355,7 +344,7 @@ Running is a real option and it needs a real procedure, or the table will fight 
 
 Kit earns its slots here. **Spikes and wedges** turn a door into a clock; **oil** turns a corridor into a wall; **caltrops and dropped coin** buy beats from the greedy; going dark buys everything if the pursuer hunts by sight. A retreat that spends gear and light is a good retreat, not a failure.
 
-Mark the Turn, and mark it loud — a flight is `!!` on the tracker. Heat does not vent for running; it vents when the threat is behind them and the door is shut.
+A flight is reckless: make a Danger Check with red on 1–2, and black on 1–2 if they run with torches in hand. Heat does not vent for running; it vents when the threat is behind them and the door is shut.
 
 ---
 
@@ -363,7 +352,7 @@ Mark the Turn, and mark it loud — a flight is `!!` on the tracker. Heat does n
 
 Fuel is rolled face-up. Everyone can see the 6s.
 
-An attack hits the first one in its line, friend or foe, unless a 6 is burned on it (see *Line of attack* in [[Burners Adventure Game]]). A shot past your own front rank hits a friend; a shot at the enemy archer behind their shield wall hits the shield wall. That is the rule working as written, not a gotcha to spring cold.
+An attack hits the first one in its line, friend or foe, unless a 6 is burned to get past (see *Finding an opening* in [[Burners Adventure Game]]). A shot past your own front rank hits a friend; a shot at the enemy archer behind their shield wall hits the shield wall. That is the rule working as written, not a gotcha to spring cold.
 
 Before the arrow goes: give a friendly warning. *"Are you sure? Aldric's in the line, and you've got no 6."* The player still chooses. You telegraphed the risk while the dice were already on the table. See [[Burners Principles#No gotchas]].
 

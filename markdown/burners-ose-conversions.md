@@ -9,7 +9,7 @@ hero_alt: "A knight rides toward the distant keep — Lancelot Speed"
 
 In the spirit of *The White Hack*, *The Black Hack*, and *The Black Sword Hack*, this is **the Burners Hack**. Use the original roleplaying game — through the lens of how [Old-School Essentials](https://oldschoolessentials.necroticgnome.com/srd/index.php) has cleaned it up — **unless Burners says otherwise**. Modules, treasure types, morale, reaction, turns, and the rest come in as written; this page is the routing table for where the Hack replaces or reframes a piece. Every conversion also follows [[Burners Principles]].
 
-**Clocks.** OSE turns and rounds are Burners turns and rounds. Durations and light burn as written (torch 6 Turns / one hour-cycle, lantern 24 per flask; candles on [[Burners Equipment]]). Wandering monsters: [[Burners Referee Guide#Turn Tracker]] — always 1-in-6; roll on even turns and again when noise, dark, or wounds fire. OSE's plain check every other turn is the time signature. OSE's "rest one turn every hour or −1 to hit" is not used; Burners recovers HP with an [[Burners Adventure Game#Wounds|Hour Rest]] (a full quiet cycle, food and water, unwounded) instead.
+**Clocks.** OSE turns and rounds are Burners turns and rounds, but Burners doesn't count Turns in the dungeon. Wandering monsters, light, and spells that last Turns run on the [[Burners Referee Guide#Danger Check|Danger Check]]: red and black dice when the crew dawdles, makes noise, or moves into a new area. OSE's check every other turn and its torch and lantern durations are not used. OSE's "rest one turn every hour or −1 to hit" is not used; Burners recovers HP with an [[Burners Adventure Game#Wounds|Hour Rest]] (a full quiet cycle, food and water, unwounded) instead.
 
 **Default (keep as written).** Morale (2–12 on 2d6); reaction (2d6 — add **Heart** if a Burner leads the parley); number appearing; Treasure Type and coin values; movement as relative speed. Treasure XP and shares: [[Burners Experience]] (the deed rule, magic 0 XP, monster parts not XP, Eldar column).
 
@@ -123,7 +123,7 @@ An OSE save is a pointer to a Burners subsystem — see [[Burners Principles#Rou
 | **Save vs. Spells / Wands / Rods / Staves** | Fuel **Defend** vs **cast total**; roll initiative OOC. See [[Burners Principles#Granular defense, not binary save]] and [[Burners Principles#Harm and effect are separate lanes]]. **Ward:** adjacent Sorcerer burns ≤ Sorcerie Level Fuel to cut the attack, then each ally Defends. |
 | **Save vs. Death effects**                  | **Shock Check** and **Wounds**, then post-fight help + Craft survival — see [[Burners Principles#No instant death]] and [[Burners Adventure Game#Wounds]].                                                                                                                             |
 
-**Which Approach?** Craft to dodge a dart, pit, or poison; Sword to force a door, hold your feet, or stay conscious; Heart against fear and horror; Sorcerie to dredge up what you know against the uncanny. The player may argue for another Approach if the fiction fits. When in doubt: Craft to avoid, Sword to endure.
+**Which Approach?** Craft to force a door or dodge a dart, pit, or poison; Sword to hold your feet or stay conscious; Heart against fear and horror; Sorcerie to dredge up what you know against the uncanny. The player may argue for another Approach if the fiction fits. When in doubt: Craft to avoid, Sword to endure.
 
 ### Deriving a Score (when a module needs a raw number)
 

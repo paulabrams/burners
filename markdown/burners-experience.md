@@ -13,6 +13,8 @@ XP for treasure wrested from the dungeon and for monsters overcome there. The Re
 
 **Level up** when your XP hits the next line on the table and you have gained the four Traits for that level, the next time you wake after sleeping somewhere safe (town, inn, watched camp). You gain Traits when you wake from sleep, from what you did at the table, so XP alone does not level you (see *Gaining Traits* in [[Burners Adventure Game]]). When you wake with the four Traits and enough XP, the Referee tells you that you have leveled up. Put the level in the Approach those four Traits sit under. Reroll HP (one d6 per character level) and keep the higher of the new total or old+1. See *Approach Level* and *HP* in [[Burners Adventure Game]].
 
+The Referee may level you on a burn instead of on waking: something you give up and won't get back, or one spectacular burn in place of the four Traits. See *Option: burn to level* in [[Burners Adventure Game]].
+
 The deed pays the XP, not the finding. Coin in your purse is for spending — kit, drink, retainers. That is its own reward.
 
 | Level | XP | Eldar XP |

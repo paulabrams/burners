@@ -128,7 +128,7 @@ convert_tree() {
         cp "$pdf" "$target/$base.pdf"
       fi
     done
-  done < <(find "$src" -type f -name '*.md' -print0)
+  done < <(find "$src" -type d -name 'vaulted*' -prune -o -type f -name '*.md' -print0)
 }
 
 convert_tree "$SOURCE_DIR" "$DEST_DIR"

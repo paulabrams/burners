@@ -13,6 +13,8 @@ hero_alt: "A figure falling through smoke — Albert Robida"
 
 At the Battle of the Thousandfold Curses the Eldar had the Kha'din trapped in the Wintercrowns, and were losing. Reshuk, god of the dead, offered a bargain: he would send his children to win the war, if the living promised to feed them. The Eldar agreed. The fallen on the field rose not alive, but Deurg'Gul, the Undying Ones — what lesser tongues call the Fallen. By dawn they had turned their blades on kin. The Undying Lands became Sepulchre: Dearg-dul country, Tir'Na'Deurg'Gul, the Sea of Bones. Some say the Kha'din's own curses raised the dead, and Reshuk only turned them. Every later thrall, barrow-wight, Zuhl, and vampire lord comes of that bargain.
 
+Mind that it was a promise. The old wives say a word given over the dead binds them as surely as any god, and that some barrows are kept by men who swore to stand and never got the word back.
+
 Hunger, age, and disease leave them alone. Spears, arrows, even a sword thrust into the gaps of plate — veterans say none of it told. Magicks aimed at the living fail: *illusion, charm, sleep, fear, hold*. The joys of life are shut besides. They cannot bear sunlight, cannot cross running water, cannot enter a house uninvited, cannot take bread nor ale nor salt. Beasts see them true, and will not bear them.
 
 The old tales wander, but the oldest say fyre maketh et goote. Show them fire and the husks that fear it recoil — a torch in the barrow, a brand in the press, holy oil on the step. Drive them from the light. Torch, oil, naphtha, a thrown pot, holy water, holy oil. Willful undead laugh at a bare flame. Bring more oil than you think you need.

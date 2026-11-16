@@ -12,7 +12,7 @@ hero_alt: "Travelers on the road — Albert Robida"
 ## Example 1 — The Rat-Cellars (a crawl)
 
 **Job:** clear the Rat-Cellars under Varn's granary; recover the strongbox.
-**Base Heat 6** (working ground). Torches burn 6 Turns. Wandering monsters per [[Burners Referee Guide#Turn Tracker]]: always 1-in-6; roll on even turns, and again when noise, dark, or wounds fire.
+**Base Heat 6** (working ground). Wandering monsters and light per the [[Burners Referee Guide#Danger Check|Danger Check]].
 
 **Crew** (all character level 1 — one Approach point, four Traits, HP = 1d6 rolled):
 
@@ -117,7 +117,7 @@ Threat overcome → **vent 2 → Heat 7.**
 
 ### Procedure Notes
 
-- **Clocks:** 10-minute Turns on a visible Turn Tracker — count **1–6** then wrap (an hour); `!` / `!!`, light notes, what they did. Checks leave no mark; even turns say when one is due. Always 1-in-6; roll on even turns, and again when noise, dark, or wounds fire. A full quiet cycle with food and water is Hour Rest (HP, if unwounded) — not a required rest tax. Magic out of combat is noise. See [[Burners Referee Guide#Turn Tracker]].
+- **Clocks:** no Turn count. Red and black when the crew dawdles, makes noise, or moves into a new area: red 1, then at or under the dungeon level, wandering monster; black 1, then anything whose Durability the roll beats goes out. An Hour Rest (an hour quiet, food and water) restores HP if unwounded. Magic out of combat is noise. See [[Burners Referee Guide#Danger Check]].
 - **One roll out of combat:** `2d6 + Approach` vs Risk. Traps — see [[Burners Principles#Pools, not fixed numbers]].
 - **Fuel is rolled on each Roll Initiative** — full pool on round 1; from round 2 on, refill one Fuel die per character level and roll those in. PC Initiative = count of 3s and 4s. Enemy groups: **1d6** each round (not Heat, not HD + weapon). Round 1 surprise: surprised side dead last.
 - **Damage you announce; the Referee converts.** Hits = ⌈damage ÷ 5⌉; closed → −1, always (armor is one card of soak). Claim the **right tool** to burn one extra Fuel into the blow (its face adds to damage). Face-down first, then face-up. **Cracked!** = last face-down gone (signal; the −1 ends). Dead = pile gone. See [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]].

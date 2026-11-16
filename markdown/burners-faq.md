@@ -49,13 +49,13 @@ That also means you cannot really attack and then retreat. Breaking away under t
 
 ### Where do my dice come from?
 
-Your level plus your empty slots, up to 4. Weapons, shields, armor, and Arcana give no dice. Heavy steel and armor fill slots and cost you dice; light kit keeps them. Caught with your pack on, you roll only your level.
+Your level plus your gear dice: the slots of each weapon and shield in your hands and each Arcana your Approaches cover. A Sorcerer gets no dice for a sword unless she has a level in Sword. Armor gives AC, not dice. Three or more empty slots give one die (never more than one). A Boss adds a die for each filled Muster slot. Caught with your pack on, you roll only your level.
 
 A weapon's **slots** are its reach: when held attacks go off together, more slots strikes first. A two-hander of 3+ slots also burns a second die on the blow, when nothing is in the way of the swing.
 
 ### Shield or two-handed?
 
-A shield gives no Fuel. A raised shield can count as **Cover** vs missiles (2 dice on that Defend). It is not armor. When you **Block**, a shield you have the Trait for takes its slots off the blow (buckler 1, heater 3, tower 5), and a Parrying weapon adds its own: sword and heater take 5 off.
+A held shield gives its slots in Fuel if your Approach covers it; drop it and you lose them. A raised shield can count as **Cover** vs missiles (2 dice on that Defend). It is not armor. When you **Block**, a shield you have the Trait for takes its slots off the blow (buckler 1, heater 3, tower 5), and a Parrying weapon adds its own: sword and heater take 5 off.
 
 A weapon of **3+ slots wielded in two hands** can burn a **second die** on the blow. Dropping the shield for that is sometimes the right call. You fight with what you were actually carrying. Dropping something to free a slot is an Action.
 
@@ -77,7 +77,7 @@ No. You are **winded** until the next Roll Initiative tops you off. Blows arrive
 
 HP is luck and wind. The Wound is flesh. Finish it or fold, and get help when the fight ends.
 
-**Top-off (round 2 and after):** drop any dice you don't want, then roll new dice until you're back at your maximum (level + empty slots, up to 4). Recount 3s and 4s. The dice you keep stay frozen.
+**Top-off (round 2 and after):** keep the dice you didn't use, and roll your level in new dice, plus 1 for each counted item you have the Trait for, plus the light-kit die if you still have three empty slots, never past your maximum. Recount 3s and 4s. The dice you keep stay frozen.
 
 ### Do monsters have Fuel?
 
@@ -139,7 +139,7 @@ Split evenly among Burners and retainers on the job who are **not** Mustering. N
 
 ### Do retainers top off Fuel?
 
-Yes, thinly. Half power: a retainer's Fuel maximum is **⌊retainer level / 2⌋** plus empty slots (up to 4), minimum **1**. A level-1 retainer rolls its empty slots, one die below a Burner; in full kit it still gets **1**.
+Yes, thinly. Half power: a retainer's Fuel maximum is **⌊retainer level / 2⌋** plus its gear dice, minimum **1**. A level-1 retainer rolls its gear, one die below a Burner. The Boss's Muster dice can top up any of them, any time.
 
 If the Boss spends their Action to **Manage**, up to Heart Mustering retainers round the level part **up** that round (the Boss takes no other Action). HP on the sheet does not rewrite mid-fight. [[Burners Muster#Half Power]].
 

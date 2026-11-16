@@ -1,6 +1,6 @@
 ---
 title: "Burners — Open Hit Points (alternative to the Monster Stack)"
-status: proposed — an alternative to the Monster Stack, not yet in the rules; playtest before folding in
+status: vaulted 2026-11-11. Superseded by burners-players-track-damage.md and the Referee Guide's Morale section.
 ---
 
 # Open Hit Points

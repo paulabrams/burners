@@ -1,9 +1,12 @@
 ---
 title: "Burners — Shield Return, Cover Die"
-status: proposed — not yet in the rules; playtest before folding in
+status: retired — superseded by burners-update-2026-11-11.md
 ---
 
 # Shield Return, Cover Die
+
+**Retired.** The playtest handout supersedes this experiment: shields now matter
+through self-Block and trained slots, and cover is handled by line of fire.
 
 A shield keeps you in the fight. A wall takes the arrow for you. Neither one
 makes a big smash smaller. #needs-playtest

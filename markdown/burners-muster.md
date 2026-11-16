@@ -44,7 +44,7 @@ Retainers are not Burners. **Everything that scales with level or Approach is ha
 | **Traits** | **2 per Approach level** (half of a Burner's 4 under that Approach) |
 | **Signatures** | At most **⌊Approach / 2⌋** per Approach — earned in play, never bought |
 | **HP** | **1d3 per retainer level** (about 2 per level on average; minimum **1**). On level-up: reroll the whole total (keep higher of new total or old+1). |
-| **Fuel maximum** | **⌊retainer level / 2⌋** + empty slots (up to 4); minimum **1** |
+| **Fuel maximum** | **⌊retainer level / 2⌋** + gear dice (the weapons and shield in hand its Approach covers); minimum **1** |
 | **Veteran extras** | **⌊Sword / 2⌋** extras (Sword 1 → one attack) |
 | **Approach rolls** | **`2d6 + ⌊Approach / 2⌋`** |
 | **Shock and other Approach math** | Same half (Shock: **`2d6 + ⌊Sword / 2⌋`**) |
@@ -108,9 +108,9 @@ Before a job — in town or at the safehouse — or on any **8-hour sleep**, the
 
 Going alone: **0** Muster slots, all twelve physical. Retainers wait at home — off this page until Mustering.
 
-Muster slots hold **people**, not gear. Kit rides on them; outfit and new gear come from the Boss's purse. They never count as empty slots for Fuel. See [[Burners Adventure Game]].
+Muster slots hold **people**, or a rod or mace of command. Kit rides on them; outfit and new gear come from the Boss's purse. Each filled Muster slot gives the Boss a **Muster die**, burned for any of his Mustering retainers, any time. See *Muster dice* in [[Burners Adventure Game]].
 
-Muster slots buy packing, Manage, **Boss-player control**, **no fight Loyalty while the Boss is active**, and **Heart on Loyalty checks** — not a different XP track, and not Fuel.
+Muster slots buy packing, Manage, **Boss-player control**, **no fight Loyalty while the Boss is active**, and **Heart on Loyalty checks**, and a Muster die per filled seat — not a different XP track.
 
 **Non-Bosses** may still hire retainers. Without Muster, by the book the Referee runs those NPCs. **Table practice (preferred):** the **hiring player's player** still rolls and plays the hireling in a fight — Initiative, Fuel, attacks — so the retainer is not stuck last as a forgotten Ref turn. The Referee keeps **Loyalty** checks (and takes the sheet back if the hirer is down, fled, or absent). Mustering remains the Boss privilege for Muster XP (half the Boss's award, split among seats), no-fight-Loyalty, and Manage.
 

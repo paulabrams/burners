@@ -26,13 +26,13 @@
       "image": "/images/albert-robida-pd/stretcher-bearers-carrying-body.jpg" },
     { "at": "Combat", "under": "Part Two: Playing",
       "image": "/images/albert-robida-pd/crossbow-ambush-in-street.jpg" },
-    { "at": "In the dirt", "under": "Combat", "width": "60%",
+    { "at": "In the dirt", "under": "Combat", "width": "70%",
       "image": "/images/albert-robida-pd/weary-knight-resting.jpg" },
     { "at": "We Burn Undead",
       "image": "/images/albert-robida-pd/figure-falling-through-smoke.jpg" },
-    { "at": "Lingering Costs: Poison, Petrification, Paralysis", "width": "45%",
+    { "at": "Lingering Costs: Poison, Petrification, Paralysis", "width": "60%",
       "image": "/images/henry-justice-ford-pd/old-man-turns-victims-to-stone.png" },
-    { "at": "Influence", "place": "end", "width": "55%",
+    { "at": "Influence", "place": "end", "width": "70%",
       "image": "/images/albert-robida-pd/crossbowman-watching-city-across-water.jpg" }
   ]
 }

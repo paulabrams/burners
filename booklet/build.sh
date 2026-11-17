@@ -20,6 +20,8 @@
 #                                        dashes: "Burners Adventure Game.pdf"
 #                                        (the plain PDF from pdf-deploy.sh sits beside
 #                                        it as burners-adventure-game.pdf)
+#          a copy in each "copy_to" folder of pdf-deploy-config.json (the
+#          Supernote inbox), the same folders pdf-deploy.sh mirrors its PDFs to
 #
 # The page count is padded with Notes pages to a multiple of four, so the PDF
 # can be printed as a folded booklet with the back cover on the outside.
@@ -136,3 +138,18 @@ fi
 mkdir -p "$ROOT/pdf"
 mv "$TMP/book.pdf" "$OUT"
 echo "done: $pages pages ($(( pages / 4 )) sheets, $pad notes) -> $OUT"
+
+# Copy the booklet to the folders pdf-deploy.sh mirrors its PDFs to (the
+# Supernote inbox). A folder that is not on this machine is skipped.
+CONFIG="$ROOT/pdf-deploy-config.json"
+if [[ -f "$CONFIG" ]]; then
+  while IFS= read -r target; do
+    [[ -n "$target" ]] || continue
+    if [[ -d "$target" ]]; then
+      cp "$OUT" "$target/"
+      echo "also copied to: $target"
+    else
+      echo "not copied, no such folder: $target" >&2
+    fi
+  done < <(/usr/bin/python3 -c 'import json, sys; print("\n".join(json.load(open(sys.argv[1])).get("copy_to", [])))' "$CONFIG")
+fi

@@ -377,6 +377,13 @@ blockquote > :last-child {
 .chapter[data-book] .cols h3 {
   bookmark-level: 3;
 }
+/* A chapter the recipe sends to the back (the Glossary) stands on its own. */
+.chapter.apart > h2 {
+  bookmark-level: 1;
+}
+.chapter.apart .cols h3 {
+  bookmark-level: 2;
+}
 
 /* Tables ------------------------------------------------------------------ */
 
@@ -459,6 +466,147 @@ figure.art.wide img {
 }
 figure.art.end {
   margin: 0.3in 0 0;
+}
+
+/* End pages ---------------------------------------------------------------
+   Sheets to copy and write on: they fill the pages left over before the back
+   cover (see end-pages.json). Each must fit one page. */
+
+.endpage {
+  page: bare;
+  break-before: page;
+}
+.sheet {
+  font-size: 9pt;
+  line-height: 1.2;
+}
+.sheet h2 {
+  font-size: 27pt;
+  line-height: 1.1;
+  margin: 0 0 0.1in;
+  bookmark-level: 1;
+}
+.sheet h3 {
+  font-size: 11pt;
+  line-height: 1.2;
+  margin: 0.14in 0 2pt;
+  bookmark-level: none;
+}
+.sheet .note {
+  font-style: italic;
+  color: #444;
+  margin: 0 0 3pt;
+}
+/* Parts side by side: each child carries its own width. */
+.sheet .split,
+.sheet .nums,
+.sheet .pair,
+.sheet .head {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+.sheet .split + .split {
+  margin-top: 0.06in;
+}
+/* A line to write on, and a line with its label. */
+.sheet .rule,
+.sheet .field {
+  height: 0.27in;
+  box-sizing: border-box;
+  border-bottom: 0.6pt solid #8a8a8a;
+}
+.sheet .field {
+  height: 0.36in;
+}
+.sheet .field span,
+.sheet .num span,
+.sheet .level span {
+  font: 6.5pt "Metamorphous";
+  color: var(--ash);
+}
+/* A box for a number. */
+.sheet .nums {
+  margin-top: 0.05in;
+}
+.sheet .num,
+.sheet .level {
+  width: 17.6%;
+  height: 0.46in;
+  padding: 1pt 0 0 3pt;
+  box-sizing: border-box;
+  border: 0.6pt solid #8a8a8a;
+}
+.sheet .nums.two .num {
+  width: 47%;
+}
+.sheet .nums.three .num {
+  width: 31%;
+  height: 0.36in;
+}
+/* One Approach: its level, and four Traits for each of two levels. */
+.sheet .approach {
+  margin: 0.16in 0 0;
+}
+.sheet .approach h3 {
+  font-size: 14pt;
+  margin: 0;
+}
+.sheet .approach .gist {
+  font-style: italic;
+  color: #444;
+  margin: 0;
+}
+.sheet .level {
+  width: 0.62in;
+}
+.sheet .pair .rule {
+  width: 47.5%;
+  height: 0.28in;
+}
+/* The twelve, numbered. */
+.sheet .numbered {
+  counter-reset: slot;
+}
+.sheet .numbered .rule {
+  counter-increment: slot;
+  height: 0.28in;
+}
+.sheet .numbered .rule::before {
+  content: counter(slot);
+  font: 6.5pt "Metamorphous";
+  color: var(--ash);
+}
+/* Ruled tables. */
+.sheet table {
+  margin: 0;
+  font-size: 9pt;
+  table-layout: fixed;
+}
+.sheet th {
+  font-size: 6.5pt;
+  color: var(--ash);
+  padding: 1pt 4pt 2pt 0;
+  border-bottom: 0.6pt solid #8a8a8a;
+}
+.sheet th.small {
+  width: 12%;
+}
+.sheet th.mid {
+  width: 22%;
+}
+.sheet th.wide {
+  width: 40%;
+}
+.sheet td {
+  height: 0.27in;
+  padding: 0;
+  border-bottom: 0.6pt solid #8a8a8a;
+}
+.sheet td + td,
+.sheet th + th {
+  border-left: 0.6pt solid #c4c4c4;
+  padding-left: 4pt;
 }
 
 /* Notes pages ------------------------------------------------------------- */

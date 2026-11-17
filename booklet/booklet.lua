@@ -45,10 +45,21 @@ The recipe is booklet/<name>.json, next to this file. All of it is optional:
     "title_art": "/images/...",         small piece on the title page
     "contents_art": "/images/...",      banner on the contents page
     "back_cover": "some-file.md",       markdown for the back cover
+    "last": ["Glossary"],               chapters (## headings that start a page)
+                                        moved to the back of the booklet
+    "end_pages": { "1": ["character-sheet"] },
+                                        this booklet's own end pages (below)
     "art": [
       { "at": "Wounds", "image": "/images/...", "place": "after" }
     ]
   }
+
+A booklet folds from sheets of four pages, so build.sh may have one, two or
+three pages to fill before the back cover. booklet/end-pages.json says what
+goes on them: for each count, a list of pages by name, in order, each one
+booklet/pages/<name>.html (a character sheet, the Referee's ledger). They are
+not listed in the contents, which would change the count they were chosen for.
+A count with no list, or a page that is not there, gets a ruled Notes page.
 
 Art that belongs to a book goes in booklet/art/<book>.json (the list alone,
 without the braces around it), so every booklet that holds the book gets it.
@@ -579,9 +590,9 @@ function Pandoc(doc)
 
         if not opens_book then
           if multi and b.level == 2 then
-            toc[#toc + 1] = { id = b.identifier, text = text }
+            toc[#toc + 1] = { id = b.identifier, text = text, chapter = chapter }
           elseif not multi and (b.level == 2 or b.level == 3) then
-            toc[#toc + 1] = { top = b.level == 2, id = b.identifier, text = text }
+            toc[#toc + 1] = { top = b.level == 2, id = b.identifier, text = text, chapter = chapter }
           end
         end
 
@@ -650,6 +661,36 @@ function Pandoc(doc)
     end
   end
 
+  -- Chapters the recipe sends to the back of the booklet, with their lines in
+  -- the contents.
+  for _, name in ipairs(recipe.last or {}) do
+    local moved
+    for i, ch in ipairs(chapters) do
+      if ch.header and ch.header.level == 2 and not ch.first
+          and key(stringify(ch.header)) == key(name) then
+        moved = table.remove(chapters, i)
+        break
+      end
+    end
+    if moved then
+      moved.apart = true
+      chapters[#chapters + 1] = moved
+      local kept, lines = {}, {}
+      for _, e in ipairs(toc) do
+        if e.chapter == moved then
+          if e.id == moved.header.identifier then e.top = true end
+          lines[#lines + 1] = e
+        else
+          kept[#kept + 1] = e
+        end
+      end
+      for _, e in ipairs(lines) do kept[#kept + 1] = e end
+      toc = kept
+    else
+      warn('no chapter named "' .. name .. '" to move to the back')
+    end
+  end
+
   -- Assemble the pages.
   local out = {}
   for _, ch in ipairs(chapters) do
@@ -670,8 +711,9 @@ function Pandoc(doc)
         id = ch.book.slug
         classes[#classes + 1] = "opens-book"
       end
-      attrs = { { "data-book", ch.book.title } }
+      attrs = { { "data-book", ch.apart and stringify(ch.header) or ch.book.title } }
     end
+    if ch.apart then classes[#classes + 1] = "apart" end
     out[#out + 1] = pandoc.Div(parts, pandoc.Attr(id, classes, attrs))
   end
 
@@ -695,12 +737,25 @@ function Pandoc(doc)
     for _, b in ipairs(mended.blocks) do out[#out + 1] = b end
   end
 
-  -- Notes pages bring the count to a multiple of four (build.sh works out how
+  -- End pages bring the count to a multiple of four (build.sh works out how
   -- many), so the back cover lands on the outside of the folded booklet.
   local pad = tonumber(doc.meta["booklet-pad"] and stringify(doc.meta["booklet-pad"])) or 0
+  local plans = recipe.end_pages or read_json(HERE .. "/end-pages.json") or {}
+  local plan = plans[tostring(pad)] or {}
   local notes = '<div class="notes"><h2>Notes</h2><div class="lines">'
     .. string.rep("<div></div>", NOTES_LINES) .. "</div></div>"
-  for _ = 1, pad do out[#out + 1] = pandoc.RawBlock("html", notes) end
+  for n = 1, pad do
+    local page = plan[n]
+    local html = page and read_file(HERE .. "/pages/" .. page .. ".html")
+    if page and not html then warn("end page not found: booklet/pages/" .. page .. ".html") end
+    if html then
+      local id = claim("end-" .. page)
+      out[#out + 1] = pandoc.RawBlock("html",
+        '<section class="endpage" id="' .. esc(id) .. '">\n' .. html .. "</section>")
+    else
+      out[#out + 1] = pandoc.RawBlock("html", notes)
+    end
+  end
 
   local title = recipe.title or opening.title or stringify(doc.meta.title or "Burners")
 

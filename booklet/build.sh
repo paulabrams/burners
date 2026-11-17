@@ -23,8 +23,10 @@
 #          a copy in each "copy_to" folder of pdf-deploy-config.json (the
 #          Supernote inbox), the same folders pdf-deploy.sh mirrors its PDFs to
 #
-# The page count is padded with Notes pages to a multiple of four, so the PDF
-# can be printed as a folded booklet with the back cover on the outside.
+# The page count is brought to a multiple of four, so the PDF can be printed as
+# a folded booklet with the back cover on the outside. The pages that fill out
+# the last sheet are the end pages: booklet/end-pages.json picks them from
+# booklet/pages/ (character sheet, Referee's ledger).
 #
 # Layout lives in booklet.css, page structure in template.html, and the
 # markdown-to-pages rules in booklet.lua. Needs pandoc and weasyprint, the same
@@ -121,6 +123,7 @@ echo "building: $NAME (${#BOOKS[@]} $( (( ${#BOOKS[@]} == 1 )) && echo book || e
 render 0 "$TMP/book.pdf"
 pages="$(page_count "$TMP/book.pdf")"
 
+# Fill out the last sheet with end pages.
 pad=$(( (4 - pages % 4) % 4 ))
 if (( pad > 0 )); then
   # The second pass repeats the first pass's warnings; show them only if it fails.
@@ -133,11 +136,12 @@ fi
 
 if (( pages % 4 != 0 )); then
   echo "warning: $pages pages is not a multiple of four; it will not fold cleanly" >&2
+  (( pad > 0 )) && echo "         (an end page in booklet/pages/ runs over its page)" >&2
 fi
 
 mkdir -p "$ROOT/pdf"
 mv "$TMP/book.pdf" "$OUT"
-echo "done: $pages pages ($(( pages / 4 )) sheets, $pad notes) -> $OUT"
+echo "done: $pages pages ($(( pages / 4 )) sheets, $pad end pages) -> $OUT"
 
 # Copy the booklet to the folders pdf-deploy.sh mirrors its PDFs to (the
 # Supernote inbox). A folder that is not on this machine is skipped.

@@ -9,7 +9,7 @@ hero_alt: "A deal struck in the town square — Albert Robida"
 
 *How the world pushes back. The players say what they do; this is the toolkit for everything they do it to — the passage of time, the dark closing in, and the first cold look of a stranger.*
 
-Three things run most of it: the Heat gauge you drive up and down as the scene's pressure, the Danger Check that brings the monsters and the dark when the crew dawdles or makes noise (a red die and a black die, no clock to keep), and the Reaction roll that decides how the living things take to the crew.
+Three things run most of it: the Heat gauge you drive up and down as the scene's pressure, the Turn Check that brings the monsters and the dark when the crew spends a Turn or makes noise (a red die and a black die, no count to keep), and the Reaction roll that decides how the living things take to the crew.
 
 ---
 
@@ -61,7 +61,7 @@ The exploration turn is one Turn — ten minutes. Each turn runs the same short 
 
 3. **Resolve.** Play out the action: movement, searching, talk, a forced door, a fight.
 
-4. **Check.** If they dawdled, made noise, waved light around, or moved into a new area, make a Danger Check (below). Update conditions and any other clocks the fiction demands.
+4. **Check.** If they spent the Turn on something, made noise, waved light around, or moved into a new area, make a Turn Check (below), or mark the Turn if your table counts them. Update conditions and any other clocks the fiction demands.
 
 Between turns the loop just repeats: frame, resolve, advance.
 
@@ -77,7 +77,7 @@ Searching costs a Turn. What it buys depends on what they tell you they are doin
 
 A trap the party has been told about is a puzzle, not a gotcha (see [[Burners Principles#No gotchas]]). Spring it undetected only when they walked past the sign or never looked. The trap quotes flat Damage — no Fuel up out of combat; armor soaks, rest to HP.
 
-A search is a dawdle either way: make a Danger Check. A fruitless search still risks the light and still stirs the place.
+A search spends a Turn either way: make a Turn Check. A fruitless search still risks the light and still stirs the place.
 
 ---
 
@@ -97,11 +97,13 @@ Every room, encounter, or travel scene should answer three questions. Build it i
 
 ---
 
-## Danger Check
+## Turn Check
 
-Something is always closing in: the monsters, and the dark. Don't count Turns. When the crew gives the place a reason, roll a red die and a black die together, where everyone hears them.
+Something is always closing in: the monsters, and the dark. Spend a Turn doing something, and there's a Turn Check: roll a red die and a black die together, where everyone hears them.
 
-**When to check.** The crew dawdles (a search, a lock, a rest, an argument that goes round twice), makes noise (forcing a door, a fight, shouting, a spell going off), waves light around or loses it, or walks into a new area. A quick look or opening a door isn't a check. One check might stand for five minutes or thirty. It measures how much the crew has stirred the place, not the time on a clock.
+**When to check.** The crew spends a Turn (a search, a lock, a rest, a ritual, an argument that goes round twice), makes noise (forcing a door, a fight, shouting, a spell going off), waves light around or loses it, or walks into a new area. A quick look or opening a door isn't a check. A Turn is ten minutes, but with the Turn Check nobody keeps the count: the check comes when the crew spends one, and it measures how much they stirred the place.
+
+The Turn Check is the abstraction, for tables that would rather not count. A table that likes counting Turns can count them the old way instead, with the module's wandering monster checks and torch and lantern durations.
 
 - **Red 1:** roll red again. At or under the dungeon level: wandering monster.
 - **Black 1:** roll black again. 2+, torches out. 5+, lantern dry. Over a spell's level, it ends.
@@ -156,7 +158,7 @@ A quick, quiet crew hears the dice rarely; a dawdling, noisy one hears them over
 
 ## The Grind — Supplies, Fatigue
 
-Light lives on the Danger Check's black die. Fatigue is why the party cannot crawl forever, and it needs no separate die — it feeds Heat, because Heat is the crew's shared wind and nerve, and wearing down a long crawl is exactly the loss of those. When the fiction calls for a grind tick (long haul, thin air, lingering too long), raise the gauge, usually +1, and it rides there until the crew vents it. **Ammunition, holy water, incendiaries, and rations** are counted on the sheet — mark each when spent ([[Burners Equipment#Count these]]). Do not hand-wave those four. An Hour Rest (an hour quiet, with food and water) is how unwounded Burners fill HP — see [[Burners Adventure Game#Wounds]] — not a tax for failing to sit every hour.
+Light lives on the Turn Check's black die. Fatigue is why the party cannot crawl forever, and it needs no separate die — it feeds Heat, because Heat is the crew's shared wind and nerve, and wearing down a long crawl is exactly the loss of those. When the fiction calls for a grind tick (long haul, thin air, lingering too long), raise the gauge, usually +1, and it rides there until the crew vents it. **Ammunition, holy water, incendiaries, and rations** are counted on the sheet — mark each when spent ([[Burners Equipment#Count these]]). Do not hand-wave those four. An Hour Rest (an hour quiet, with food and water) is how unwounded Burners fill HP — see [[Burners Adventure Game#Wounds]] — not a tax for failing to sit every hour.
 
 A Journeyman keeps the band fresh. The [[Burners Adventure Game|Journeyman's craft]] reduces party-wide travel, weather, and survival costs by the Journeyman's Craft level, and fatigue in the dark is a survival cost like any other. Subtract the Journeyman's Craft from the tick for everyone they are leading: Craft 1 shrugs off a routine +1 entirely. Fatigue bites when the party has no Journeyman, when the Journeyman is down or split off from the group, or when the place is harsh enough to outrun their level. Scale the tick to the dungeon — a mild crawl adds 1, a brutal one (heat, thin air, crushing dark) adds 2 or 3, so a Journeyman's Craft matters more the worse the ground gets.
 
@@ -216,7 +218,7 @@ Reaction sets the starting disposition; the Two Steps and Influence carry the sp
 
 A monster is any enemy: Hit Dice, an armor equivalent, attacks, and a way to keep score on it. Its Hit Dice are its level: most humans are 0, most orcs are 1, a veteran higher. Burner-side Fuel economy: [[Burners Principles#Pools, not fixed numbers]].
 
-**Cards or Points.** There are two ways to keep a monster's score, and the players see it either way. **Cards** are coarse and tactile: a public **Monster Stack** of **2 × HD** playing cards, with each blow rounded into cards you throw on the table. **Points** are sharp: the module's hit points and the monster's AC, as raw numbers. Pick one for the campaign, or mix them in one fight: cards for a knot of goblins, points for the troll. Everything in *Monsters at speed* holds for both except how a blow lands; *Points* below has the other way.
+**Points or Cards.** There are two ways to keep a monster's score, and the players see it either way. **Points** are the default, the old-school way: the module's hit points and the monster's AC, as sharp, raw numbers. **Cards** are the option, coarse and tactile: a public **Monster Stack** of **2 × HD** playing cards, with each blow rounded into cards you throw on the table. We play Cards at our table. Pick one for the campaign, or mix them in one fight: cards for a knot of goblins, points for the troll. Everything in *Monsters at speed* holds for both except how a blow lands: the blow there is the Cards blow, and *Points* below has the other.
 
 ### Monsters at speed (preferred Referee mode)
 
@@ -366,7 +368,7 @@ Running is a real option and it needs a real procedure, or the table will fight 
 
 Kit earns its slots here. **Spikes and wedges** turn a door into a clock; **oil** turns a corridor into a wall; **caltrops and dropped coin** buy beats from the greedy; going dark buys everything if the pursuer hunts by sight. A retreat that spends gear and light is a good retreat, not a failure.
 
-A flight is reckless: make a Danger Check with red on 1–2, and black on 1–2 if they run with torches in hand. Heat does not vent for running; it vents when the threat is behind them and the door is shut.
+A flight is reckless: make a Turn Check with red on 1–2, and black on 1–2 if they run with torches in hand. Heat does not vent for running; it vents when the threat is behind them and the door is shut.
 
 ---
 

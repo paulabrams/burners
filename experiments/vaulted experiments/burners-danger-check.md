@@ -1,6 +1,6 @@
 ---
 title: "Burners — Danger Check"
-status: applied 2026-11-15 to the Referee Guide (Danger Check). Vaulted.
+status: applied 2026-11-15 to the Referee Guide (Danger Check); renamed Turn Check 2026-11-16. Vaulted.
 ---
 
 # Danger Check

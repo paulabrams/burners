@@ -12,16 +12,16 @@ hero_alt: "Travelers on the road — Albert Robida"
 ## Example 1 — The Rat-Cellars (a crawl)
 
 **Job:** clear the Rat-Cellars under Varn's granary; recover the strongbox.
-**Base Heat 6** (working ground). Wandering monsters and light per the [[Burners Referee Guide#Danger Check|Danger Check]].
+**Base Heat 6** (working ground). **Dungeon level 1.** Wandering monsters and light per the [[Burners Referee Guide#Turn Check|Turn Check]].
 
 **Crew** (all character level 1 — one Approach point, four Traits, HP = 1d6 rolled):
 
 | Burner | Approach | HP | Held | Fuel on the Initiative roll |
 | --- | --- | --- | --- | --- |
-| **Kragg** | Sword 1 (Veteran) | 4 | war-axe (3 slots, 2-handed, enchanted), gambeson (AC 2) | 4 empty + 3 axe + 1 level = **8** |
-| **Sefa** | Craft 1 (Journeyman) | 3 | leather (AC 1); **silvered knife** (1 slot) once looted | 4 empty + 1 knife + 1 level = **6** |
-| **Brand** | Heart 1 (Boss) | 5 | sword (2), leather (AC 1) | 4 empty + 2 sword + 1 level = **7** |
-| **Ilsa** | Sorcerie 1 (Sorcerer) | 3 | spear (3 physical); **5 Sorcerie slots** (hand size 5 — *Adhere* ready among them); wand Arcana (1 Sorcerie); leather (AC 1, 2 physical) | 2 empty + 1 wand + 3 spear + 1 level = **7** |
+| **Kragg** | Sword 1 (Veteran) | 4 | war-axe (3 slots, 2-handed, enchanted), gambeson (AC 2) | 3 axe + 1 light kit + 1 level = **5** |
+| **Sefa** | Craft 1 (Journeyman) | 3 | leather (AC 1); **silvered knife** (1 slot) once looted | 1 light kit + 1 level = **2** (Craft doesn't cover the knife) |
+| **Brand** | Heart 1 (Boss) | 5 | sword (2), leather (AC 1) | 1 light kit + 1 level = **2** (Heart doesn't cover the sword) |
+| **Ilsa** | Sorcerie 1 (Sorcerer) | 3 | spear (3 physical); **5 Sorcerie slots** (hand size 5 — *Adhere* ready among them); wand Arcana (1 Sorcerie); leather (AC 1, 2 physical) | 1 wand + 1 level = **2** (only two empty slots, so no light kit; Sorcerie doesn't cover the spear) |
 
 *Reminder — out of combat: `2d6 +` Approach vs Risk. Hostile magic: Fuel Defend vs cast total (see [[Burners Principles#Granular defense, not binary save]]).*
 
@@ -29,33 +29,34 @@ hero_alt: "Travelers on the road — Albert Robida"
 
 ### Exploration
 
+*Turn Check: red and black together. Red counts on a 1 (1–2 reckless), then at or under the dungeon level (here, only a 1) brings a wandering monster. Black counts on a 1 (1–2 when it's wet, windy, or a long wait), then anything whose Durability is below the second roll ends. A torch is Durability 1.*
+
 **Turn 1 — Entry stair.** `x`
 
-- Sefa scouts (Craft): Risk 6 → 2d6+1 = **8** ✓. Clear, no Heat.
-- Torch 1/6.
+- Torch lit. Sefa scouts (Craft): Risk 6 → 2d6+1 = **8** ✓. Clear, no Heat.
+- New area → Turn Check: red **4**, black **3**. Nothing.
 
 **Turn 2 — Cellar 1, flooded. A slick beam (balance — Defend, Craft).** `x !`
 
 - Cross, 2d6 + Craft vs Risk 6 each:
   - Kragg 2d6 = **7** ✓ · Sefa 2d6+1 = **9** ✓ · Ilsa 2d6 = **10** ✓ · Brand 2d6 = **5**, short → slips, splash and noise → **Heat 7**. Log `!`.
-- Immediate WM (noise): d6 = **4**. Nothing.
+- Turn Check. The splash is reckless, so red counts on 1–2; wading water is wet, so black counts on 1–2. Red **5**: nothing. Black **2**: counts → roll black again: **4**, over the torch's Durability 1 → the torch hisses out in the flood. Sefa strikes a fresh one from the bundle.
 
 **Turn 3 — Stuck door (heavy, swollen — a hard feat, Sword vs 9).** `x !`
 
 - Kragg heaves: 2d6+1 = **8**, short → holds, time burns.
 - Second try: 2d6+1 = **10** ✓ — it grinds open. Log `!`.
-- Immediate WM (noise): d6 = **5**. Nothing.
-- Torch 3/6.
+- Two heaves spend the Turn, and forcing a door is reckless → Turn Check, red on 1–2: red **3**, black **6**. Nothing.
 
 **Turn 4 — Cellar 2. Covered pit (trap: flat Damage 2, no roll — detect or eat).** `x` → fight `!!`
 
 - Sefa checks for traps (Craft): Risk 7 → 2d6+1 = **6**, short 1 → **Heat 8**. Pit *not* spotted.
 - Marching order puts Brand on it. It springs, no telegraph, no Fuel up out of combat: Damage 2, leftover 2, Brand's AC 1 soaks → **1 to HP.** Brand 5 → 4.
-- Even-turn WM (time): d6 = **1** — encounter. Cellar denizens, hostile by writ: **4 grave-rats** (HD 1 each → **2 face-up** apiece — naked sushi; bite quote **3**). Log `!!` for the fight; that is the encounter already — no noise roll on top of it. After the scrap, nobody Wounded → no wounds roll.
+- The search spent the Turn → Turn Check: red **1**, counts → roll red again: **1**, at or under level 1 → wandering monster. Black **4**: nothing. Cellar denizens, hostile by writ, already gnawing at the pit's last victim: **4 grave-rats** (HD 1 each → **2 face-up** apiece — naked sushi; bite quote **3**). Log `!!` for the fight. After the scrap, nobody Wounded → no wounds roll.
 
 ### Combat 1 — Grave-rats (4). Heat 8
 
-**Rolling Initiative.** Crew roll their Fuel (above); Initiative = count of 3s and 4s. Grave-rats are one knot: **group 1d6 = 2**. Four free bite quotes (one per rat in reach). Kragg reads **4** and acts first.
+**Rolling Initiative.** Crew roll their Fuel (above); Initiative = count of 3s and 4s. Grave-rats are one knot: **group 1d6 = 2**. Four free bite quotes (one per rat in reach). Kragg rolls 6, 5, 4, 3, 2: Initiative **2**, matching the rats, so he acts before them. Sefa, Brand, and Ilsa roll their two dice each.
 
 **Round 1.**
 
@@ -72,14 +73,14 @@ hero_alt: "Travelers on the road — Albert Robida"
 
 **Turn 5 — rest of Cellar 2.** `x`
 
-- Loot niche: 120 gp, a **silvered knife** (1 slot). Sefa takes the knife.
-- Torch 5/6; fresh torch lit.
+- Loot niche: 120 gp, a **silvered knife** (1 slot). Sefa takes the knife. She still has three empty slots, so she keeps her light-kit die.
+- The search spends the Turn → Turn Check: red **2**, black **1**, counts → roll black again: **1**, not over the torch's Durability 1. The flame gutters and catches.
 
 **Turn 6 — Cellar 3, the strongroom door. Masterwork lock (thief skill vs difficulty 10).** `x`
 
 - Sefa (Craft, tools): Deal → 2d6+1 = **9**. Holds; time cost → **Heat 7**.
 - Sefa again: 2d6+1 = **12** ✓. Open. Quiet work — no bang.
-- Even-turn WM (time): d6 = **6**. Nothing. (`!!` already spent its noise roll on the fight turn.)
+- The lock spent the Turn → Turn Check: red **6**, black **5**. Nothing.
 
 ### Combat 2 — The Cellarer (a wight). Heat 7 → 9
 
@@ -90,13 +91,13 @@ Buried armed: **grave-sword** (quote **3**) and a **grave-byrnie** (old chain �
 **Round 1.**
 
 - **Wight**, two quotes — Referee **presses** the first (+**6**) onto Brand, second quote plain on Ilsa:
-  - → **Brand**: pressed **3+6 = 9**. Leather soaks 1 → 8. He has not meleed → one die: burns a 5 → **3 to HP.** Brand 5 → **2.** *(Brand Fuel 7→6.)*
-  - → **Ilsa**: quote **3**. Leather soaks 1 → 2. She burns a 4 → **0.** *(Fuel 7→6.)*
+  - → **Brand**: pressed **3+6 = 9**. Leather soaks 1 → 8. He has not meleed → one die: burns a 5 → **3 to HP.** Brand 4 → **1.** *(Brand Fuel 2→1.)*
+  - → **Ilsa**: quote **3**. Leather soaks 1 → 2. She burns a 4 → **0.** *(Fuel 2→1.)*
 - **Kragg** attacks (Veteran, two blows; 2-handed axe → two dice a blow) — having meleed, he Defends without limit for the rest of this round:
   - Blow A: 6+5 = **11** damage. Closed: Hits ⌈11÷5⌉=3, −1 → **2 Hits** → pop **2 face-down**. Stack **2 down / 2 up**.
   - Blow B: 5+4 = **9**. Closed: ⌈9÷5⌉=2, −1 → **1 Hit** → **1 down / 2 up**.
 - **Brand** attacks: sword **6**. Closed: ⌈6÷5⌉=2, −1 → **1 Hit** → **0 down / 2 up** — last face-down gone: **Cracked!**
-- **Ilsa** casts *Adhere* (Thaumaturgy 1): burns 1 Fuel = **5** cast total; card **taps**. Control lane — no Hits. At speed the wight has no free Defend; the working sticks its sword-arm to the byrnie. *(Ilsa Fuel 6→5.)*
+- **Ilsa** casts *Adhere* (Thaumaturgy 1): burns 1 Fuel = **5** cast total; card **taps**. Control lane — no Hits. At speed the wight has no free Defend; the working sticks its sword-arm to the byrnie. *(Ilsa Fuel 1→0.)*
 - **Sefa**, silvered knife — claims silver as the right tool, so her 1-slot knife burns an **extra die**: **6** + **4** = **10** damage. Wight is Cracked — open: Hits ⌈10÷5⌉ = **2** → pop **2 face-up**. Pile gone. The Cellarer falls — silver and the extra die finished the meat; *Adhere* only took its arm out of the fight.
 
 Threat overcome → **vent 2 → Heat 7.**
@@ -105,19 +106,20 @@ Threat overcome → **vent 2 → Heat 7.**
 
 - Carried out whole (2 slots; Kragg drops a torch bundle to fit it).
 - Sefa checks for a second exit (Craft): Risk 7 → 2d6+1 = **11** ✓ — an old coal chute, out that way, skipping the flooded beam.
+- The search spends the Turn → Turn Check: red **3**, black **2**. Nothing.
 
 ### After
 
 - **Downtime:** Heat cools to base; the job stayed quiet, so the town base is unchanged.
 - **Take:** strongbox (Referee: 400 gp + deed papers), 120 gp, silvered knife, **the Cellarer's grave-sword** — old, fine make, a worn-off name (a Signature waiting to be read) — and its **grave-byrnie** (mail; Kragg claims it).
-- **Hurts:** Brand at **2 HP** (no Wound — the press stung but did not drive past 0). Ilsa unhurt. Hour Rest refills Brand. Ilsa may spend a sleep-recovery card to untap *Adhere*.
-- **Torches spent:** 2. **Turns:** 7.
+- **Hurts:** Brand at **1 HP** (no Wound — the pit and the press stung but did not drive past 0). Ilsa unhurt. Hour Rest refills Brand. Ilsa may spend a sleep-recovery card to untap *Adhere*.
+- **Torches spent:** 2 (one drowned in the flood). **Turn Checks:** 7, one wandering monster. Nobody counted Turns.
 
 ---
 
 ### Procedure Notes
 
-- **Clocks:** no Turn count. Red and black when the crew dawdles, makes noise, or moves into a new area: red 1, then at or under the dungeon level, wandering monster; black 1, then anything whose Durability the roll beats goes out. An Hour Rest (an hour quiet, food and water) restores HP if unwounded. Magic out of combat is noise. See [[Burners Referee Guide#Danger Check]].
+- **Clocks:** this table uses the Turn Check instead of counting Turns. Red and black when the crew spends a Turn, makes noise, or moves into a new area: red 1, then at or under the dungeon level, wandering monster; black 1, then anything whose Durability the roll beats goes out. An Hour Rest (an hour quiet, food and water) restores HP if unwounded. Magic out of combat is noise. See [[Burners Referee Guide#Turn Check]].
 - **One roll out of combat:** `2d6 + Approach` vs Risk. Traps — see [[Burners Principles#Pools, not fixed numbers]].
 - **Fuel is rolled on each Roll Initiative** — full pool on round 1; from round 2 on, refill one Fuel die per character level and roll those in. PC Initiative = count of 3s and 4s. Enemy groups: **1d6** each round (not Heat, not HD + weapon). Round 1 surprise: surprised side dead last.
 - **Damage you announce; the Referee converts.** Hits = ⌈damage ÷ 5⌉; closed → −1, always (armor is one card of soak). Claim the **right tool** to burn one extra Fuel into the blow (its face adds to damage). Face-down first, then face-up. **Cracked!** = last face-down gone (signal; the −1 ends). Dead = pile gone. See [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]].

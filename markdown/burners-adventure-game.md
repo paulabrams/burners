@@ -25,7 +25,7 @@ Because you are defined by one thing: **knowing which move the moment calls for.
 
 And when the job's finally done and the reckoning comes howling up the stairs behind you, you know the last move, the one that earned the name. **Leave nothing behind but smoke.** Fire settles most debts. Fire makes it good. *What do we do with witches? We burn 'em.*
 
-Most who take up this trade don't last a season. The docks are full of would-be Burners who didn't know when to run, or drew on the wrong thing in the dark, or stayed one round too long admiring their own work. You won't become a *name* with a song sung about you by being the strongest or the deadliest. You'll become one by reading a bad bet and folding it.
+Most who take up this trade don't last a season. The ground is full of would-be Burners who didn't know when to run, or drew on the wrong thing in the dark, or stayed one round too long admiring their own work. You won't become a *name* with a song sung about you by being the strongest or the deadliest. You'll become one by reading a bad bet and folding it.
 
 **You are a Burner.** So is everyone at this table. You are not here to save the Dragon Isles; you are here to get in, get paid, and get out with your skin, and if the place is on fire behind you as you go, well. It usually is, after all, *"fire makes it good"*.
 

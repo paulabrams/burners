@@ -1,6 +1,6 @@
 ---
 title: "Burners — Players Track Damage"
-status: proposed. Split from the November 11 update. Works with any way of rolling damage.
+status: applied 2026-11-16 to the Referee Guide as Points (Cards or Points). Damage is dice + weapon slots, and AC soaks every hit, off module HP. Vaulted.
 ---
 
 # Players Track Damage

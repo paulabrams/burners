@@ -483,6 +483,7 @@ Deathless Brotherhood — *speak with dead thieves*
 Jarkman's Gift — *living forgeries*
 Many Faces — *shift personas* #needs-playtest
 Prince of Thieves — *inspire loyalty*
+
 ---
 
 ## Spell Descriptions

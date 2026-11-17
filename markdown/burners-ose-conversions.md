@@ -56,6 +56,7 @@ For fractional or special HD, **prefer the monster's printed XP** or the full OS
 | OSE                      | Burners                                                                                                                                                                                          |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **HD**                   | Level, 1:1. **Monster Stack** = **2 × HD** playing cards (face-down closed / face-up open). |
+| **HP**                   | With Cards, not used: the stack replaces it. With Points, as printed, straight off the page — see [[Burners Referee Guide#Points]]. |
 | **XP**                   | Award when overcome — **XP by HD** from the table in *XP Awards* (a 1 HD skeleton = 10; HD 2 = 20). Use the module's printed award if given.                                                     |
 | **AC**                   | Hint for the **face mix** only — soft kit → some face-down; shell/plate → mostly face-down; naked/sushi → all face-up. Suggest a **right tool** fiction (poleax, slicing, silver…) players may claim for the extra Fuel die. |
 | **Damage die**           | Quote weight for Referee speed attacks (d6 → quote 3, etc.) — see [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]]. |

@@ -1,18 +1,23 @@
 #!/usr/bin/env bash
 #
 # booklet/build.sh
-# Build the print booklet for a Burners book: cover, title page, contents,
-# two-column pages with engravings, back cover. Same look as the Wåndyr
-# booklet, built from the markdown instead of laid out by hand.
+# Build a print booklet of Burners: cover, title page, contents, two-column
+# pages with engravings, back cover. Same look as the Wåndyr booklet, built
+# from the markdown instead of laid out by hand.
 #
-#   booklet/build.sh                     the core rules (burners-adventure-game)
-#   booklet/build.sh burners-sorcerie    any other book in markdown/
+#   booklet/build.sh                          the two booklets on the home page:
+#                                             the Quick Start and the full rules
+#   booklet/build.sh burners-quick-start      one of them
+#   booklet/build.sh burners-sorcerie         any single book in markdown/
 #
-# Reads    markdown/<book>.md
-#          booklet/<book>.json           optional recipe: titles, art, back cover
-#                                        (fields are listed at the top of booklet.lua)
-# Writes   pdf/<Book Title>.pdf         the book's file name in title case, with
-#                                        spaces for dashes: "Burners Adventure Game.pdf"
+# Reads    booklet/<name>.json           the recipe: titles, which books to bind,
+#                                        art, back cover (fields are listed at the
+#                                        top of booklet.lua). Optional for a single
+#                                        book named after its file.
+#          booklet/art/<book>.json       optional art list for one book
+#          markdown/<book>.md            the books
+# Writes   pdf/<Name>.pdf                the name in title case, with spaces for
+#                                        dashes: "Burners Adventure Game.pdf"
 #                                        (the plain PDF from pdf-deploy.sh sits beside
 #                                        it as burners-adventure-game.pdf)
 #
@@ -29,11 +34,39 @@ set -euo pipefail
 HERE="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 ROOT="$(cd "$HERE/.." && pwd)"
 
-BOOK="$(basename "${1:-burners-adventure-game}" .md)"
-SRC="$ROOT/markdown/$BOOK.md"
+if [[ $# -eq 0 ]]; then
+  "$0" burners-quick-start
+  "$0" burners-adventure-game
+  exit 0
+fi
+
+NAME="$(basename "$1" .md)"
+RECIPE="$HERE/$NAME.json"
+
+# The books to bind: the recipe's "books", or the one book of the same name.
+BOOKS=()
+if [[ -f "$RECIPE" ]]; then
+  while IFS= read -r book; do
+    [[ -n "$book" ]] && BOOKS+=("$book")
+  done < <(/usr/bin/python3 -c 'import json, sys; print("\n".join(json.load(open(sys.argv[1])).get("books", [])))' "$RECIPE")
+fi
+if [[ ${#BOOKS[@]} -eq 0 ]]; then
+  BOOKS=("$NAME")
+fi
+
+SOURCES=()
+for book in "${BOOKS[@]}"; do
+  if [[ ! -f "$ROOT/markdown/$book.md" ]]; then
+    echo "error: no such book: $ROOT/markdown/$book.md" >&2
+    exit 1
+  fi
+  SOURCES+=("$ROOT/markdown/$book.md")
+done
+# pandoc reads the first book; booklet.lua reads the rest.
+SRC="${SOURCES[0]}"
 
 # burners-arms-and-armor -> "Burners Arms and Armor"
-TITLE="$(printf '%s' "$BOOK" | awk -F- '{
+TITLE="$(printf '%s' "$NAME" | awk -F- '{
   for (i = 1; i <= NF; i++) {
     w = $i
     if (w == "ose") w = "OSE"
@@ -47,10 +80,6 @@ OUT="$ROOT/pdf/$TITLE.pdf"
 # Obsidian does; the wikilinks extension turns [[Page#Section]] into links.
 FORMAT="commonmark_x+wikilinks_title_after_pipe-tex_math_dollars"
 
-if [[ ! -f "$SRC" ]]; then
-  echo "error: no such book: $SRC" >&2
-  exit 1
-fi
 for tool in pandoc weasyprint pdfinfo; do
   if ! command -v "$tool" >/dev/null 2>&1; then
     echo "error: $tool not found on PATH (brew install pandoc weasyprint poppler)" >&2
@@ -58,28 +87,35 @@ for tool in pandoc weasyprint pdfinfo; do
   fi
 done
 
-# The date on the title page is when the book's markdown last changed.
-DATE="$(date -r "$SRC" '+%b %-d, %Y')"
+# The date on the title page is when the markdown last changed.
+NEWEST="$SRC"
+for src in "${SOURCES[@]}"; do
+  [[ "$src" -nt "$NEWEST" ]] && NEWEST="$src"
+done
+DATE="$(date -r "$NEWEST" '+%b %-d, %Y')"
 
 TMP="$(mktemp -d "${TMPDIR:-/tmp}/burners-booklet.XXXXXX")"
 trap 'rm -rf "$TMP"' EXIT
 
 # render <notes pages> <output pdf>
+# The fixed hash seed makes weasyprint lay the same pages out the same way
+# every run; without it a long booklet can come out a page longer or shorter.
 render() {
   pandoc "$SRC" \
     --from "$FORMAT" --to html5 --standalone \
     --template "$HERE/template.html" \
     --lua-filter "$HERE/booklet.lua" \
+    --metadata "booklet-name=$NAME" \
     --metadata "booklet-date=$DATE" \
     --metadata "booklet-pad=$1" \
-    | weasyprint --base-url "$ROOT/" - "$2"
+    | PYTHONHASHSEED=0 weasyprint --base-url "$ROOT/" - "$2"
 }
 
 page_count() {
   pdfinfo "$1" | awk '/^Pages:/ { print $2 }'
 }
 
-echo "building: $BOOK"
+echo "building: $NAME (${#BOOKS[@]} $( (( ${#BOOKS[@]} == 1 )) && echo book || echo books ))"
 render 0 "$TMP/book.pdf"
 pages="$(page_count "$TMP/book.pdf")"
 

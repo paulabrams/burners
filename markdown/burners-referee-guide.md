@@ -214,7 +214,9 @@ Reaction sets the starting disposition; the Two Steps and Influence carry the sp
 
 ## Building and Running Monsters
 
-A monster is any enemy: Hit Dice, an armor equivalent, attacks, and a public **Monster Stack** of **2 × HD** playing cards. Its Hit Dice are its level: most humans are 0, most orcs are 1, a veteran higher. How blows land on that stack: this section. Burner-side Fuel economy: [[Burners Principles#Pools, not fixed numbers]].
+A monster is any enemy: Hit Dice, an armor equivalent, attacks, and a way to keep score on it. Its Hit Dice are its level: most humans are 0, most orcs are 1, a veteran higher. Burner-side Fuel economy: [[Burners Principles#Pools, not fixed numbers]].
+
+**Cards or Points.** There are two ways to keep a monster's score, and the players see it either way. **Cards** are coarse and tactile: a public **Monster Stack** of **2 × HD** playing cards, with each blow rounded into cards you throw on the table. **Points** are sharp: the module's hit points and the monster's AC, as raw numbers. Pick one for the campaign, or mix them in one fight: cards for a knot of goblins, points for the troll. Everything in *Monsters at speed* holds for both except how a blow lands; *Points* below has the other way.
 
 ### Monsters at speed (preferred Referee mode)
 
@@ -246,7 +248,7 @@ Take it from the monster's D&D armor class, or just say what it looks like.
 | 4 | Plate | 3 [16] | Wyvern, white dragon, knight in plate |
 | 5 | Full plate | 2 [17] or better | Giant crab, red dragon, the knight's lord |
 
-**One blow:**
+**One blow, with Cards:**
 
 1. Compare the weapon's **slots** to the monster's **AC**. Slots higher: **+2** damage. Equal: nothing. Slots lower: **−2** damage.
 2. Divide by 5. With the weapon's **Trait**, round up; without it, round down. Zero or less bounces.
@@ -277,11 +279,31 @@ Take it from the monster's D&D armor class, or just say what it looks like.
 
 **Press (optional).** When a quote should bite harder, add one of the Referee's dice to it or bump by fiat — not a Heat Initiative pool.
 
-**Hordes.** Shared group d6 for the knot. Attacks = bodies in reach. One **Monster Stack** (2 × HD cards) per body; their kit only sets the AC. Fat stacks for solos and named threats.
+**Hordes.** Shared group d6 for the knot. Attacks = bodies in reach. One **Monster Stack** (2 × HD cards) per body, or its own hit points with Points; their kit only sets the AC. Fat stacks for solos and named threats.
 
 **Shambling** → act last.
 
 **Full-dice monsters (optional).** Solo duel / demo as a Burner for spend and Defend. **Initiative stays group (or solo) 1d6** — do not switch order to a 3/4 Fuel count. Default is speed mode.
+
+### Points
+
+Points run on the numbers. Initiative, quotes, the armor ladder, resistances, and the Referee's dice are the same as with Cards; only the blow changes.
+
+**Hit points.** Take the monster's hit points straight from the module. Put them on the index card beside the AC: *Troll · AC 3 · HP 30.*
+
+**One blow, with Points:**
+
+1. Add your weapon's **slots** to the dice you burned. Without the weapon's **Trait**, add only 1 in one hand, or 2 in two hands.
+2. The monster's **AC** soaks that much off every hit.
+3. The rest comes off its hit points. Zero or less bounces.
+
+Resistances and Banes go on the same total: −2 or −4 for what it resists, +2 for its Bane.
+
+**The players keep the count.** Keep a tally of damage beside each monster and let it grow; when the tally reaches the hit points, it drops. Adding beats subtracting, and the card never changes.
+
+*A sword (2 slots) hits a goblin (AC 2, HP 4) with a 3: 3 + 2 − 2 is 3, and the tally reads 3 / 4. A greatsword (4) hits the troll with 5 and 4: 9 + 4 − 3 is 10, and the tally reads 10 / 30. Without the greatsword Trait, the greatsword adds 2, not 4: 9 + 2 − 3 is 8. A dagger (1) hits a knight in full plate (AC 5) with a 4: 4 + 1 − 5 is nothing. Find bigger steel.*
+
+Points run a little faster than Cards for trained hands, and armor counts for more: plate shrugs off small blades. If a solo drops too fast, give it more hit points for the fight.
 
 ### The Referee's dice
 
@@ -296,7 +318,7 @@ They are not a Fuel pool. Monsters don't Defend with them, and they don't decide
 Scores port from OSE unchanged (2–12, rolled on 2d6, roll under the score to hold). What matters at the table is remembering to ask. Check at these moments, once each:
 
 - the side takes its **first death**
-- the side is down to **half** its bodies, or a solo to half its cards (or, when you track damage against HP, the damage reaches half its HP)
+- the side is down to **half** its bodies, or a solo to half its cards (with Points, its tally reaches half its hit points)
 - the **leader** falls, flees, or is plainly beaten
 - something lands that the creature has no answer to — fire on a beast, silver on the thing silver is for, a working it cannot shake
 

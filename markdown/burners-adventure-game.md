@@ -161,7 +161,7 @@ Your character's Theme and Traits can help back up your approach.
 
 ### Monsters
 
-- **Monster:** an enemy, with a stack of cards and an armor equivalent the Referee tells you (a goblin as gambeson, AC 2; a troll as mail, AC 3). Compare your weapon's slots to its AC: higher, +2 damage; equal, nothing; lower, −2. Divide by 5, rounding up if you have the weapon's Trait and down if you don't, and that many cards come off. Some foes have resistances to certain weapons (always −2, or −4) or a Bane (always +2); the Referee tells you when it shows. Full procedure: [[Burners Referee Guide#Monsters at speed (preferred Referee mode)]].
+- **Monster:** an enemy, with an armor equivalent the Referee tells you (a goblin as gambeson, AC 2; a troll as mail, AC 3) and either a stack of cards or hit points, out in the open. With **Cards**, compare your weapon's slots to its AC: higher, +2 damage; equal, nothing; lower, −2. Divide by 5, rounding up if you have the weapon's Trait and down if you don't, and that many cards come off. With **Points**, add your weapon's slots to your dice (only 1 in one hand or 2 in two hands without the Trait); its AC soaks that much off every hit, and the rest goes on its tally until the tally reaches its hit points. Some foes have resistances to certain weapons (always −2, or −4) or a Bane (always +2); the Referee tells you when it shows. Full procedure: [[Burners Referee Guide#Building and Running Monsters]].
 
 ---
 

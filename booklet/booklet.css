@@ -58,6 +58,12 @@
 @page {
   size: letter;
   margin: 0.7in 0.9in 0.9in;
+  /* In a booklet of several books, the book this page belongs to. */
+  @bottom-center {
+    content: string(book);
+    font: 8pt "Metamorphous";
+    color: #999;
+  }
 }
 /* Page numbers on the outside edge, so they show when the booklet is folded. */
 @page :left {
@@ -76,6 +82,9 @@
 }
 /* Cover, title page and back cover carry no number. */
 @page bare {
+  @bottom-center {
+    content: none;
+  }
   @bottom-left {
     content: none;
   }
@@ -113,6 +122,11 @@ a {
 }
 a.bookref {
   font-style: italic;
+}
+/* A reference to something bound into the same booklet carries its page. */
+a.pageref::after {
+  content: ", p.\00a0" target-counter(attr(href), page);
+  font-style: normal;
 }
 hr {
   border: 0;
@@ -167,6 +181,39 @@ li > ol {
 }
 .terms > ul > li > p:first-child {
   text-indent: -0.9em;
+}
+
+/* Quick-reference cards typed in fixed columns. */
+pre {
+  margin: 4pt 0 10pt;
+  font: 8.5pt/1.4 Menlo, monospace;
+  white-space: pre-wrap;
+  break-inside: avoid;
+}
+pre code {
+  font: inherit;
+}
+
+/* Lists written one entry to a line: a long entry hangs under itself. */
+.catalog p {
+  padding-left: 0.9em;
+  text-indent: -0.9em;
+}
+/* Working tags (#needs-playtest). */
+.tag {
+  font-size: 8.5pt;
+  color: var(--ash);
+  white-space: nowrap;
+}
+
+/* Notes on how to read what follows. */
+blockquote {
+  margin: 0 0 7pt;
+  padding-left: 8pt;
+  border-left: 1.5pt solid var(--hairline);
+}
+blockquote > :last-child {
+  margin-bottom: 0;
 }
 
 /* Examples and epigraphs: paragraphs written all in italics. */
@@ -284,6 +331,11 @@ li > ol {
 .chapter {
   break-before: page;
 }
+.chapter[data-book] {
+  string-set: book attr(data-book);
+}
+/* A chapter title, or the title of a book after the first. */
+.chapter > h1,
 .chapter > h2 {
   font-size: 27pt;
   line-height: 1.1;
@@ -308,6 +360,22 @@ li > ol {
   line-height: 1.2;
   margin: 14pt 0 4pt;
   bookmark-level: 2;
+}
+/* In a booklet of several books the PDF outline lists the books, and each
+   book's headings sit one step in. */
+.chapter.opens-book {
+  bookmark-level: 1;
+  bookmark-label: attr(data-book);
+}
+.chapter[data-book] > h1 {
+  bookmark-level: none;
+}
+.chapter[data-book] > h2,
+.chapter[data-book] .cols h2 {
+  bookmark-level: 2;
+}
+.chapter[data-book] .cols h3 {
+  bookmark-level: 3;
 }
 
 /* Tables ------------------------------------------------------------------ */
@@ -397,6 +465,7 @@ figure.art.end {
 
 .notes {
   break-before: page;
+  string-set: book "";
 }
 .notes h2 {
   font-size: 27pt;

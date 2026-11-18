@@ -94,6 +94,8 @@ Your character's Theme and Traits can help back up your approach.
 
 - **Coin:** your purse holds 20 coins and takes no slot. That is pocket money: a meal, a bed, a couple of things off the gear list. More coin than that takes slots, a hundred coins to a slot, and any part of a hundred takes a whole one. Coin you don't carry is stowed in town.
 
+- **Treasure:** gems, jewelry and other small valuables count as coin, by what they are worth. A valuable thing of some size takes a slot. So does a magic item. [[Burners Equipment#Treasure]].
+
 - **Inventory slots:** twelve slots for weapons, armor, gear, and baggage. Big items (a sword, a shield, a backpack) use more than one. What you hold in your hands still takes its slots: a sword in the fist counts the same as a sword on the belt. A **Boss** may split some of the twelve into **Muster slots** (see *Muster*). Pack beasts and mounts you buy to carry or ride sit **off** the twelve — see [[Burners Equipment#Animals and mounts]].
 
 - **Baggage:** small items can share a slot if they ride in a pouch, quiver, or satchel (1 slot). A backpack (3 slots) holds bedroll, rope, rations, and loot efficiently, but takes ten minutes to unpack.

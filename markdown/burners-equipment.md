@@ -126,6 +126,16 @@ More than that takes slots. A hundred coins fill a slot, and any part of a hundr
 
 A suit of plate costs more than a purse holds. Bring a sack of coin for it, and give the sack its slot. Coin you don't carry is stowed in town.
 
+## Treasure
+
+Gems, jewelry and other small valuables count as coin, by what they are worth. A handful of gems worth 300 gp carries like 300 coins.
+
+A valuable thing of some size takes a slot: a crown, a silver ewer, an idol, a rolled tapestry.
+
+A magic item takes one slot. Arms, armor and Arcana keep the slots they are listed with.
+
+Think your gems pack tighter than coin? Make your case to the Referee.
+
 ## Animals and mounts
 
 Bought to carry or ride. They sit **off** your twelve slots — not Muster, not inventory. A pack mule's load is its own, not yours.

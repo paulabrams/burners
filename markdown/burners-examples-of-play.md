@@ -73,7 +73,7 @@ hero_alt: "Travelers on the road — Albert Robida"
 
 **Turn 5 — rest of Cellar 2.** `x`
 
-- Loot niche: 120 gp, a **silvered knife** (1 slot). Sefa takes the knife. She still has three empty slots, so she keeps her light-kit die.
+- Loot niche: 120 gp, a **silvered knife** (1 slot). Sefa takes the knife. She still has three empty slots, so she keeps her light-kit die. The coin is more than purses hold: a hundred of it goes in a sack on Ilsa, 1 slot (she has no light-kit die to lose), and the rest goes in purses.
 - The search spends the Turn → Turn Check: red **2**, black **1**, counts → roll black again: **1**, not over the torch's Durability 1. The flame gutters and catches.
 
 **Turn 6 — Cellar 3, the strongroom door. Masterwork lock (thief skill vs difficulty 10).** `x`
@@ -104,7 +104,7 @@ Threat overcome → **vent 2 → Heat 7.**
 
 **Turn 7 — Strongbox.**
 
-- Carried out whole (2 slots; Kragg drops a torch bundle to fit it).
+- Carried out whole (4 slots, by the weight of coin in it; Kragg drops a torch bundle to fit it).
 - Sefa checks for a second exit (Craft): Risk 7 → 2d6+1 = **11** ✓ — an old coal chute, out that way, skipping the flooded beam.
 - The search spends the Turn → Turn Check: red **3**, black **2**. Nothing.
 

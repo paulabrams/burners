@@ -118,6 +118,14 @@ Mark the arrow, the vial, the flask, the meal when you spend it. You have what t
 
 Lantern oil is the same flask you would throw. One flask, one use — light or fire, not both.
 
+## Coin
+
+Your purse holds 20 coins and takes no slot. It is pocket money: a meal, a bed, a couple of things off these lists.
+
+More than that takes slots. A hundred coins fill a slot, and any part of a hundred takes a whole one. So 21 coins is the purse and a slot, 120 is still the purse and a slot, and 121 is the purse and two.
+
+A suit of plate costs more than a purse holds. Bring a sack of coin for it, and give the sack its slot. Coin you don't carry is stowed in town.
+
 ## Animals and mounts
 
 Bought to carry or ride. They sit **off** your twelve slots — not Muster, not inventory. A pack mule's load is its own, not yours.
